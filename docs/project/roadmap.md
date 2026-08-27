@@ -47,8 +47,10 @@ SORT amc ASC
 ดึงจาก `funds.json` โดยตรง สร้างตารางเรียงตาม TER ในแต่ละ `policy_desc`
 ตอบคำถามที่คนถามบ่อยที่สุด: "กองหมวดนี้ กองไหนถูกที่สุด"
 
-### R-03 · ตั้ง git repository และ commit
-`.gitignore` พร้อมแล้ว — ดู [[outstanding|OUT-009]]
+### R-03 · ตั้ง git repository และ commit — ✅ เสร็จ
+push ขึ้น `github.com/RungthumLee/fund-markdown` (branch `main`, 8,114 ไฟล์)
+`.gitignore` ครอบทั้ง `data/` (regenerate ได้ + funds.json 156MB เกินลิมิต) และ `.env.local`
+ดู [[outstanding|OUT-009]] · [[security-notes|Security Notes]]
 
 ---
 

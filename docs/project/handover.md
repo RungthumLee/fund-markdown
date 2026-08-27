@@ -93,17 +93,17 @@ rm data/raw/*.done && python run_all.py
 
 | ก้อน | สถานะ |
 |---|---|
-| 1. Semantic validator (`validate_semantics.py`) | ✅ เขียนเสร็จ + รันได้ · เหลือ re-run ยืนยันเลข (T-094), แก้ต้นเหตุ Mapletree (T-095), เพิ่ม stage ใน pipeline (T-096) |
-| 2. Dataview + เทียบค่าธรรมเนียม ([[roadmap|R-01]]/[[roadmap|R-02]]) | ⏳ ยังไม่เริ่ม |
-| 3. Changelog ต่อเนื่อง ([[roadmap|R-07]]) | ✅ โค้ดพร้อม + wired ใน `daily.py` · ⏳ เหลือลงทะเบียน scheduler |
-| 4. Git + push GitHub ([[roadmap|R-03]]) | ⏳ ยังไม่เริ่ม — ปลายทาง `github.com/RungthumLee/fund-markdown` |
+| 1. Semantic validator (`validate_semantics.py`) | ✅ เสร็จ — S1=0 (แก้ Mapletree แล้ว) · wired ใน pipeline |
+| 2. Dataview + เทียบค่าธรรมเนียม ([[roadmap|R-01]]/[[roadmap|R-02]]) | ✅ เสร็จ — frontmatter + [[../../vault/Indexes/screener\|screener]] · compare-fees มีอยู่แล้ว |
+| 3. Changelog ต่อเนื่อง ([[roadmap|R-07]]) | ✅ โค้ด/wiring/ทดสอบเสร็จ · ⏳ เหลือผู้ใช้รัน `schtasks` 1 บรรทัด (T-100) |
+| 4. Git + push GitHub ([[roadmap|R-03]]) | ✅ push แล้ว — `github.com/RungthumLee/fund-markdown` branch `main` (8,114 ไฟล์) |
 
-> [!WARNING] ก่อน push: ยืนยันว่า `.env.local` (API key + `DB_*` + Ollama) ถูก `.gitignore` จริง
-> และ `data/raw/` (~1 GB) ไม่ถูก stage — ดู [[security-notes|Security Notes]]
+> [!NOTE] ความปลอดภัยตอน push: ยืนยันแล้วว่า `.env.local` + ทั้ง `data/` ถูก `.gitignore`
+> และสแกน 8 ค่าลับไม่หลุดในไฟล์ใด — ดู [[security-notes|Security Notes]]
 
-**ผลตรวจ semantic รอบแรก:** 🔴 S1 = 3 (Mapletree/MINT 377 กอง — [[issues|ISS-035]]) ·
-🟡 S2 = benchmark ต้นทางผิด ([[issues|ISS-036]]) · 🟢 S5/S6/S7 = ช่องว่างข้อมูลต้นทาง
-รายงานเต็มที่ [[semantic-report|Semantic Report]]
+**ผลตรวจ semantic (หลังแก้):** 🔴 S1 = **0** (แก้ Mapletree/MINT แล้ว — [[issues|ISS-035]]) ·
+🟢 S8 = 5 กอง ISIN ต้นทางกรอกผิด ([[issues|ISS-035b]]) · 🟡 S2 = 2 benchmark ต้นทางผิด ([[issues|ISS-036]]) ·
+🟢 S5/S6/S7 = ช่องว่างข้อมูลต้นทาง · รายงานเต็มที่ [[semantic-report|Semantic Report]]
 
 ## สิ่งที่ควรทำต่อ (เรียงตามความคุ้มค่า)
 

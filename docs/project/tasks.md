@@ -129,8 +129,9 @@ Legend: `[x]` เสร็จ · `[~]` กำลังทำ · `[ ]` ยัง�
   ```
 
 ### 9.4 Git + GitHub ([[roadmap|R-03]] · [[outstanding|OUT-009]])
-- [~] **T-101** `git init` + ตรวจ `.gitignore` กัน `.env.local` และ `data/raw/`
-- [~] **T-102** push ขึ้น `github.com/RungthumLee/fund-markdown`
+- [x] **T-101** `git init` + ปรับ `.gitignore` ให้ ignore ทั้ง `data/` (regenerate ได้ + funds.json 156MB เกินลิมิต GitHub) และ `_tmp/`
+  - ยืนยันความปลอดภัย: `git check-ignore` ผ่าน · สแกน 8 ค่าลับ (.env.local) ไม่หลุดในไฟล์ใด · ไม่มีไฟล์ staged เกิน 1.5MB
+- [x] **T-102** commit + push ขึ้น `github.com/RungthumLee/fund-markdown` (8,114 ไฟล์ · branch `main`)
 
 > [!IMPORTANT] ก่อน commit/push ต้องยืนยันว่า `.env.local` (มี API key + DB_*) ถูก ignore จริง
 > ดู [[security-notes|Security Notes]]

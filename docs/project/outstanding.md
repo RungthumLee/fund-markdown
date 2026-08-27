@@ -112,12 +112,13 @@ vault ตอนนี้ให้ข้อมูล**ต่อกอง**แล�
 
 ---
 
-## 🟢 OUT-009 — ยังไม่ได้ตั้ง git repository
+## 🟢 OUT-009 — ตั้ง git repository — **เสร็จแล้ว**
 
-โฟลเดอร์นี้ยังไม่ใช่ git repo (`.gitignore` เตรียมไว้แล้ว)
+**สถานะ:** ✅ push ขึ้น `github.com/RungthumLee/fund-markdown` (branch `main`) แล้ว
 
-```bash
-git init && git add . && git commit -m "initial fund knowledge base"
-```
+`.gitignore` ปรับให้ ignore ทั้ง `data/` (regenerate ได้ + `funds.json` 156MB
+เกินลิมิต 100MB ของ GitHub) และ `.env.local` · commit เฉพาะ product:
+`vault/` (markdown 245MB) + `scripts/` + `docs/` + `_spec/`
 
-ตรวจก่อนว่า `.env.local` ถูก ignore — ดู [[security-notes|Security Notes]]
+ก่อน push ยืนยันแล้ว: `git check-ignore` ผ่านทุกไฟล์ลับ · สแกน 8 ค่าลับใน
+`.env.local` ไม่หลุดในไฟล์ที่ track เลย — ดู [[security-notes|Security Notes]]
