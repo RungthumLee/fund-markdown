@@ -22,9 +22,10 @@ __pycache__/
 .venv/
 venv/
 
-# obsidian workspace state
-.obsidian/workspace*
-.obsidian/cache
+# obsidian per-user UI state (leading **/ so it matches vault/.obsidian too;
+# a mid-pattern slash without it anchors to the repo root and misses subdirs)
+**/.obsidian/workspace*
+**/.obsidian/cache
 
 # os
 Thumbs.db
