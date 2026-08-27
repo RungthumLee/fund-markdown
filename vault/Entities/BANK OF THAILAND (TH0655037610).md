@@ -61,6 +61,6 @@ tags: [entity, entity-govbond, multi-alias]
 | ประเภทตาม Bloomberg | DOMESTIC |
 | หมวดตลาด | Govt |
 
-ที่มา: OpenFIGI ของ Bloomberg · [[../../docs/guides/openfigi|วิธีใช้และข้อจำกัด]]
+ที่มา: OpenFIGI ของ Bloomberg · [วิธีใช้และข้อจำกัด](../../docs/guides/openfigi.md)
 
 [[../Indexes/00-home|🏠 Home]] · [[../Indexes/by-holding|ดัชนีสินทรัพย์]]

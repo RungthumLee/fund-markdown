@@ -5,7 +5,7 @@ tags: [concept, nav, pricing]
 
 # 📈 NAV และราคาซื้อขายหน่วยลงทุน
 
-[[00-home|🏠 Home]] · [[../../docs/api-reference/20-daily-nav|API: Daily NAV]]
+[[00-home|🏠 Home]] · [API: Daily NAV](../../docs/api-reference/20-daily-nav.md)
 
 ---
 
@@ -42,9 +42,9 @@ buy_price  = NAV - back-end fee
 
 NAV ประกาศหลังปิดตลาด (T+1 สำหรับกองในประเทศ, T+2 หรือมากกว่าสำหรับต่างประเทศ)
 เงินเข้าบัญชีจริงตาม `settlement` ที่ระบุใน
-[[../../docs/api-reference/10-subscription-redemption-periods|Dealing Periods]]
+[Dealing Periods](../../docs/api-reference/10-subscription-redemption-periods.md)
 
 ## ขอบเขตข้อมูลในคลังนี้
 
 โน้ตแต่ละกองแสดง **NAV ล่าสุด** เท่านั้น
-ข้อมูลย้อนหลังจำกัดที่ 120 วัน — ดู [[../../docs/guides/scope-and-filters|Scope & Filters]]
+ข้อมูลย้อนหลังจำกัดที่ 120 วัน — ดู [Scope & Filters](../../docs/guides/scope-and-filters.md)

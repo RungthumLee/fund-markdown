@@ -93,4 +93,4 @@ tags: [master-fund, external-data]
 - **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `0P0001A06V.F`)
 - **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
 
-[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]
+[[../Indexes/00-home|🏠 Home]] · [วิธีเก็บข้อมูลกองทุนหลัก](../../docs/guides/master-fund-sources.md)

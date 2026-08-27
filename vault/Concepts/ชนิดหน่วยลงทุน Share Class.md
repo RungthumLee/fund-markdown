@@ -5,7 +5,7 @@ tags: [concept, structure, data-model]
 
 # 🧩 ชนิดหน่วยลงทุน (Share Class)
 
-[[00-home|🏠 Home]] · [[../../docs/guides/fund-identifiers|Fund Identifiers]]
+[[00-home|🏠 Home]] · [Fund Identifiers](../../docs/guides/fund-identifiers.md)
 
 ---
 
@@ -48,7 +48,7 @@ tags: [concept, structure, data-model]
 > **ระดับ class** — ค่าธรรมเนียม, ผลการดำเนินงาน, สถิติ, นโยบายปันผล, NAV, ยอดขั้นต่ำ
 > **ระดับโครงการ** — ระดับความเสี่ยง, ดัชนีชี้วัด, การจัดสรรสินทรัพย์, Top 5, พอร์ต, ผู้เกี่ยวข้อง
 >
-> ตารางเต็มอยู่ที่ [[../../docs/guides/fund-identifiers|Fund Identifiers]]
+> ตารางเต็มอยู่ที่ [Fund Identifiers](../../docs/guides/fund-identifiers.md)
 
 ในคลังนี้ ตัวเลขระดับ class จะมีคอลัมน์ `Class` กำกับเสมอ
 
@@ -150,7 +150,7 @@ tags: [concept, structure, data-model]
 > **เทียบสองค่านี้ข้ามกันไม่ได้เด็ดขาด**
 > การเทียบ "ค่ารวมที่เก็บจริง" กับ "ค่าจัดการเพดาน" เคยทำให้คลังนี้
 > สรุปผิดว่ามีข้อมูลเสียหาย 308 รายการ ทั้งที่จริงมี 46 —
-> ดู [[../../docs/project/issues|ISS-021]]
+> ดู [ISS-021](../../docs/project/issues.md)
 
 ---
 

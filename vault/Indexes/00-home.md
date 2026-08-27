@@ -128,8 +128,8 @@ SORT length(rows) DESC
 
 ## 🛠️ เอกสารโปรเจกต์
 
-- [[../../docs/api-reference/00-index|API Reference (21 endpoints)]]
-- [[../../docs/guides/quickstart|Quickstart]]
-- [[../../docs/guides/fund-taxonomy|Fund Taxonomy]]
-- [[../../docs/project/tasks|Task board]]
-- [[../../docs/project/issues|Issue log]]
+- [API Reference (21 endpoints)](../../docs/api-reference/00-index.md)
+- [Quickstart](../../docs/guides/quickstart.md)
+- [Fund Taxonomy](../../docs/guides/fund-taxonomy.md)
+- [Task board](../../docs/project/tasks.md)
+- [Issue log](../../docs/project/issues.md)

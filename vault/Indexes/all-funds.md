@@ -9,7 +9,7 @@ tags: [index, all]
 
 **2,121 กองทุน** (Registered · ไม่ใช่ Term fund · ไม่ใช่ PVD)
 
-เกณฑ์คัดกรอง: [[../../docs/guides/scope-and-filters|Scope & Filters]]
+เกณฑ์คัดกรอง: [Scope & Filters](../../docs/guides/scope-and-filters.md)
 
 | ชื่อย่อ | ชื่อกองทุน | บลจ. | นโยบาย | เสี่ยง | Class |
 |---|---|---|---|---|---|

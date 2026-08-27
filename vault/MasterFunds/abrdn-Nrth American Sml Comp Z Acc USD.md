@@ -112,4 +112,4 @@ tags: [master-fund, external-data]
 - **FT.com** — ค่าธรรมเนียม ขนาดกองทุน domicile ผู้จัดการ ([tearsheet](https://markets.ft.com/data/funds/tearsheet/summary?s=LU1725895533:USD))
 - **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
 
-[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]
+[[../Indexes/00-home|🏠 Home]] · [วิธีเก็บข้อมูลกองทุนหลัก](../../docs/guides/master-fund-sources.md)

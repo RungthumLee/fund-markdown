@@ -5,7 +5,7 @@ tags: [index, master-fund]
 
 # 🌐 กองทุนหลักของกองทุนไทย (Master Funds)
 
-[[00-home|🏠 Home]] · [[../Concepts/Feeder Fund|Feeder Fund]] · [[../Concepts/ค่าธรรมเนียมสองชั้นของ Feeder Fund|ค่าธรรมเนียมสองชั้น]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูล Yahoo + FT]]
+[[00-home|🏠 Home]] · [[../Concepts/Feeder Fund|Feeder Fund]] · [[../Concepts/ค่าธรรมเนียมสองชั้นของ Feeder Fund|ค่าธรรมเนียมสองชั้น]] · [วิธีเก็บข้อมูล Yahoo + FT](../../docs/guides/master-fund-sources.md)
 
 กองทุนหลัก **591** กอง (มีข้อมูลจากแหล่งภายนอก 562 กอง)
 

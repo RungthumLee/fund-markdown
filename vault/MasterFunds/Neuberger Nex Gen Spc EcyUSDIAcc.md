@@ -106,4 +106,4 @@ tags: [master-fund, external-data]
 - **ค้นเว็บ** — พบ ISIN `IE000PK18K22` แล้วยืนยันตัวเลขซ้ำกับ FT/Yahoo อีกชั้น
 - **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
 
-[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]
+[[../Indexes/00-home|🏠 Home]] · [วิธีเก็บข้อมูลกองทุนหลัก](../../docs/guides/master-fund-sources.md)

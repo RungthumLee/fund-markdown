@@ -63,4 +63,4 @@ _ไม่มีข้อมูล_
 - **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `0P00006G1T.SI`)
 - **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
 
-[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]
+[[../Indexes/00-home|🏠 Home]] · [วิธีเก็บข้อมูลกองทุนหลัก](../../docs/guides/master-fund-sources.md)

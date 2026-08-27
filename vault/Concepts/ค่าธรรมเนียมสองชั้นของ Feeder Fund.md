@@ -85,4 +85,4 @@ tags: [concept, fees, feeder, master-fund]
 
 - [[Feeder Fund]] — โครงสร้างและวิธีระบุจาก `management_style`
 - [[ค่าธรรมเนียมกองทุนรวม]] — ค่าธรรมเนียมชั้นที่ 1 มีอะไรบ้าง
-- [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]] — Yahoo + FT
+- [วิธีเก็บข้อมูลกองทุนหลัก](../../docs/guides/master-fund-sources.md) — Yahoo + FT

@@ -5,7 +5,7 @@ tags: [index, policy]
 
 # 📊 กองทุนแยกตามนโยบายการลงทุน
 
-จัดกลุ่มตาม `policy_desc` — ดูความหมายที่ [[../../docs/guides/fund-taxonomy|Fund Taxonomy]]
+จัดกลุ่มตาม `policy_desc` — ดูความหมายที่ [Fund Taxonomy](../../docs/guides/fund-taxonomy.md)
 
 [[00-home|🏠 Home]]
 

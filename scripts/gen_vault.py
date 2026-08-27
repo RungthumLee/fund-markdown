@@ -904,7 +904,7 @@ def main() -> None:
     (idx / "by-policy.md").write_text(render_index(
         "📊 กองทุนแยกตามนโยบายการลงทุน",
         "จัดกลุ่มตาม `policy_desc` — ดูความหมายที่ "
-        "[[../../docs/guides/fund-taxonomy|Fund Taxonomy]]",
+        "[Fund Taxonomy](../../docs/guides/fund-taxonomy.md)",
         g_policy, "policy"), encoding="utf-8")
 
     g_risk = defaultdict(list)
@@ -950,7 +950,7 @@ def main() -> None:
             "กลุ่มกองทุนตามการจัดของสมาคมบริษัทจัดการลงทุน (AIMC) "
             "แกะจาก Factsheet PDF — ข้อมูลนี้ไม่มีใน API\n\n"
             "การเทียบผลตอบแทนควรเทียบภายในกลุ่มเดียวกันเท่านั้น · "
-            "ดู [[../../docs/guides/factsheet-extraction|วิธีแกะข้อมูล]]",
+            "ดู [วิธีแกะข้อมูล](../../docs/guides/factsheet-extraction.md)",
             g_peer, "peer-group"), encoding="utf-8")
 
     # ---- comparison index: cheapest / best-performing per policy ---------
@@ -1095,7 +1095,7 @@ def main() -> None:
     o = ["---", "title: รายชื่อกองทุนทั้งหมด", "tags: [index, all]", "---", "",
          "# 📇 รายชื่อกองทุนทั้งหมด", "", "[[00-home|🏠 Home]]", "",
          f"**{len(scoped):,} กองทุน** (Registered · ไม่ใช่ Term fund · ไม่ใช่ PVD)", "",
-         "เกณฑ์คัดกรอง: [[../../docs/guides/scope-and-filters|Scope & Filters]]", ""]
+         "เกณฑ์คัดกรอง: [Scope & Filters](../../docs/guides/scope-and-filters.md)", ""]
     o.extend(table(["ชื่อย่อ", "ชื่อกองทุน", "บลจ.", "นโยบาย", "เสี่ยง", "Class"],
                    [[f"[[{f['_note']}|{f.get('abbr')}]]", f.get("name_th"),
                      f"[[{safe_name(f.get('amc_th') or 'ไม่ระบุ')}]]",
@@ -1172,11 +1172,11 @@ def main() -> None:
           "`#leveraged-inverse` `#foreign-exposure` `#restricted-investor`",
           "> `#tax/ssf` `#tax/thai-esg` `#tax/rmf` `#policy/*` `#risk/*`", "",
           "## 🛠️ เอกสารโปรเจกต์", "",
-          "- [[../../docs/api-reference/00-index|API Reference (21 endpoints)]]",
-          "- [[../../docs/guides/quickstart|Quickstart]]",
-          "- [[../../docs/guides/fund-taxonomy|Fund Taxonomy]]",
-          "- [[../../docs/project/tasks|Task board]]",
-          "- [[../../docs/project/issues|Issue log]]", ""]
+          "- [API Reference (21 endpoints)](../../docs/api-reference/00-index.md)",
+          "- [Quickstart](../../docs/guides/quickstart.md)",
+          "- [Fund Taxonomy](../../docs/guides/fund-taxonomy.md)",
+          "- [Task board](../../docs/project/tasks.md)",
+          "- [Issue log](../../docs/project/issues.md)", ""]
     (idx / "00-home.md").write_text("\n".join(o), encoding="utf-8")
 
     LOG.info("vault generated: %d funds, %d AMCs, indexes + home",

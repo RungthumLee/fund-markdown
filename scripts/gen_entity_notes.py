@@ -220,7 +220,7 @@ def render(entity: dict, funds: dict, note_names: dict[str, str],
             ["หมวดตลาด", cell(entity.get("market_sector"))],
         ]))
         a("ที่มา: OpenFIGI ของ Bloomberg · "
-          "[[../../docs/guides/openfigi|วิธีใช้และข้อจำกัด]]")
+          "[วิธีใช้และข้อจำกัด](../../docs/guides/openfigi.md)")
         a("")
 
     a("[[../Indexes/00-home|🏠 Home]] · [[../Indexes/by-holding|ดัชนีสินทรัพย์]]")

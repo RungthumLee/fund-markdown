@@ -5,7 +5,7 @@ tags: [index, changelog]
 
 # 📆 ดัชนีการเปลี่ยนแปลง
 
-[[00-home|🏠 Home]] · [[all-funds|กองทุนทั้งหมด]] · [[../../docs/guides/daily-operation|คู่มือรันประจำวัน]]
+[[00-home|🏠 Home]] · [[all-funds|กองทุนทั้งหมด]] · [คู่มือรันประจำวัน](../../docs/guides/daily-operation.md)
 
 แต่ละโน้ตคือส่วนต่างระหว่างการรันสองครั้งติดกัน ไม่ใช่ภาพรวมของทั้งวอลต์
 

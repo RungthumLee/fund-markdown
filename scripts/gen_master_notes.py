@@ -315,7 +315,7 @@ def render(rec: dict, entry: dict) -> str:
     o.extend(src)
     a("")
     a("[[../Indexes/00-home|🏠 Home]] · "
-      "[[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]")
+      "[วิธีเก็บข้อมูลกองทุนหลัก](../../docs/guides/master-fund-sources.md)")
     a("")
     return "\n".join(o)
 
@@ -384,7 +384,7 @@ def main() -> None:
          "---", "", "# 🌐 กองทุนหลักของกองทุนไทย (Master Funds)", "",
          "[[00-home|🏠 Home]] · [[../Concepts/Feeder Fund|Feeder Fund]] · "
          "[[../Concepts/ค่าธรรมเนียมสองชั้นของ Feeder Fund|ค่าธรรมเนียมสองชั้น]] · "
-         "[[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูล Yahoo + FT]]", "",
+         "[วิธีเก็บข้อมูล Yahoo + FT](../../docs/guides/master-fund-sources.md)", "",
          f"กองทุนหลัก **{len(rows):,}** กอง "
          f"(มีข้อมูลจากแหล่งภายนอก {with_data:,} กอง)", "",
          "ข้อมูลรวมจาก **Yahoo Finance** + **FT.com** เชื่อมกับข้อมูล ก.ล.ต. ไทย", "",
