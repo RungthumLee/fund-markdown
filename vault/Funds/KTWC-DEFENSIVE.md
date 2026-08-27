@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 4540399537.79
 holdings_count: 48
 top10_pct_nav: 77.44
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KTWC-DEFENSIVE
@@ -41,6 +41,9 @@ _Krungthai World Class Defensive_
 > - **จัดตั้ง:** 2023-06-06 · **จดทะเบียน:** 2023-08-16
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 11.0333 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.85%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

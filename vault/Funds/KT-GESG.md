@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 98.1
 master_fund: "Schroder ISF Glbl Sust Gr C Acc USD"
 master_isin: "LU0557290854"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/world, theme/sustainability, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KT-GESG
@@ -43,6 +43,9 @@ _KTAM Global Sustainable Growth Equity Fund_
 > - **จัดตั้ง:** 2022-01-13 · **จดทะเบียน:** 2022-02-10
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 12.7047 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.59%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

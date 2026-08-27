@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 31792655.11
 holdings_count: 63
 top10_pct_nav: 54.68
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBGML
@@ -41,6 +41,9 @@ _SCB Global Machine Learning Equity_
 > - **จัดตั้ง:** 2018-11-19 · **จดทะเบียน:** 2018-11-27
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 19.1273 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 63 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.15%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

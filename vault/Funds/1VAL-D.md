@@ -24,7 +24,7 @@ fund_size: 276386919.2
 holdings_count: 47
 top10_pct_nav: 67.98
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # 1VAL-D
@@ -42,6 +42,9 @@ _1 A.M. VALUED STOCK FUND - DIVIDEND_
 > - **จัดตั้ง:** 2005-04-29 · **จดทะเบียน:** 2005-06-01
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 13.0342 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 47 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

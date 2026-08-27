@@ -27,7 +27,7 @@ master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 peer_group: "US Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KFUSINDX
@@ -45,6 +45,9 @@ _Krungsri US Equity Index Hedged FX Fund_
 > - **จัดตั้ง:** 2017-03-17 · **จดทะเบียน:** 2017-03-31
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 27.272 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 99.13
 master_fund: "Wellington Global Innovation USD S Ac"
 master_isin: "LU1547288214"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-GTO
@@ -44,6 +44,9 @@ _Bualuang Global Thematic Opportunities Fund_
 > - **จัดตั้ง:** 2021-01-22 · **จดทะเบียน:** 2021-02-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5696 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

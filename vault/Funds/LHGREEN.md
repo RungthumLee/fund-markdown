@@ -24,7 +24,7 @@ fund_size: 23076541.0
 holdings_count: 14
 top10_pct_nav: 100.9
 master_fund: "Wellington Climate Strategy USD N Ac"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # LHGREEN
@@ -42,6 +42,9 @@ _LH GREEN TECHNOLOGY FUND_
 > - **จัดตั้ง:** 2021-03-05 · **จดทะเบียน:** 2021-03-24
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 9.3205 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

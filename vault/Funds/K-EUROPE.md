@@ -26,7 +26,7 @@ top10_pct_nav: 101.8
 master_fund: "Allianz Global Investors Fund - Allianz Europe Equity Growth"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/europe, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-EUROPE
@@ -44,6 +44,9 @@ _K European Equity Fund_
 > - **จัดตั้ง:** 2013-06-12 · **จดทะเบียน:** 2013-08-27
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.9969 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

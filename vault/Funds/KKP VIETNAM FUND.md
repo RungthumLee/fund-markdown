@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 128002434.66
 holdings_count: 22
 top10_pct_nav: 63.49
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # KKP VIETNAM FUND
@@ -40,6 +40,9 @@ _KKP VIETNAM EQUITY FUND_
 > - **จัดตั้ง:** 2025-02-05 · **จดทะเบียน:** 2025-08-01
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 9.661 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 22 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

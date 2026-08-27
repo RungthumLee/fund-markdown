@@ -26,7 +26,7 @@ top10_pct_nav: 104.36
 master_fund: "iShares Core S&P 500 ETF"
 peer_group: "US Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # K-US500XRMF
@@ -44,6 +44,9 @@ _K US Equity Passive RMF_
 > - **จัดตั้ง:** 2024-07-02 · **จดทะเบียน:** 2024-08-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.9948 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.74%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 99.32
 master_fund: "JPMorgan Funds - Global Healthcare Fund"
 peer_group: "Health Care"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, style/dividend, geo/world, theme/healthcare, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-GHEALTH(UH)
@@ -44,6 +44,9 @@ _K Global Healthcare Equity Unhedged Fund_
 > - **จัดตั้ง:** 2015-11-20 · **จดทะเบียน:** 2015-12-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0572 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

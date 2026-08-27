@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 4425083764.86
 holdings_count: 67
 top10_pct_nav: 51.14
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, use/accumulate]
 ---
 
 # KTFIX-1Y3Y
@@ -41,6 +41,9 @@ _Krung Thai 1Y-3Y Fixed Income Fund_
 > - **จัดตั้ง:** 2013-10-02 · **จดทะเบียน:** 2014-01-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.8472 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.58%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

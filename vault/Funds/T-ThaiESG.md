@@ -25,7 +25,7 @@ holdings_count: 23
 top10_pct_nav: 66.37
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "นาย ยศวสุสุธารัตนชัยพร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
 # T-ThaiESG
@@ -43,6 +43,9 @@ _TISCO Equity Thailand ESG Fund_
 > - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-19
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.9666 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 23 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.83%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

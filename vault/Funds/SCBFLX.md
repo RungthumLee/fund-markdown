@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 357215020.62
 holdings_count: 68
 top10_pct_nav: 51.23
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBFLX
@@ -41,6 +41,9 @@ _SCB Flexible Fund_
 > - **จัดตั้ง:** 2016-09-05 · **จดทะเบียน:** 2016-09-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.213 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.30%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 90.29
 peer_group: "Fund of Property fund - Thai"
 fund_managers: ["น.ส. ดาราวรรณ ประกายทิพย์", "น.ส. กมลวรรณ ชัยรักษ์วัฒนา"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-PROPINFRAFLEX
@@ -43,6 +43,9 @@ _Eastspring Property and Infrastructure Flexible Fund_
 > - **จัดตั้ง:** 2016-02-18 · **จดทะเบียน:** 2016-03-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.6512 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.33%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

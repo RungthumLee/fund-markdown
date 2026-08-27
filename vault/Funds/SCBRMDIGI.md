@@ -25,7 +25,7 @@ holdings_count: 65
 top10_pct_nav: 104.0
 master_fund: "BNP Paribas Disrpt Tech I USD C"
 master_isin: "LU2005507905"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMDIGI
@@ -43,6 +43,9 @@ _SCB Global Digital RMF_
 > - **จัดตั้ง:** 2022-09-21 · **จดทะเบียน:** 2022-09-30
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 22.4354 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

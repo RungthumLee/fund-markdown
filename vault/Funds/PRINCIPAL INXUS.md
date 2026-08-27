@@ -24,7 +24,7 @@ holdings_count: 15
 top10_pct_nav: 102.28
 master_fund: "Principal International Equity ETF"
 master_isin: "US74255Y6986"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # PRINCIPAL INXUS
@@ -42,6 +42,9 @@ _Principal International Ex US Equity Fund_
 > - **จัดตั้ง:** 2026-01-30 · **จดทะเบียน:** 2026-02-24
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 10.3386 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

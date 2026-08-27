@@ -26,7 +26,7 @@ top10_pct_nav: 98.75
 master_fund: "Fidelity Global Technology Y-Acc-USD"
 master_isin: "LU1560650563"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-INNOTECHRMF
@@ -44,6 +44,9 @@ _Bualuang Global Innovation & Technology RMF_
 > - **จัดตั้ง:** 2018-07-09 · **จดทะเบียน:** 2018-10-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 35.0177 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.26%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 1322761426.61
 holdings_count: 28
 top10_pct_nav: 63.09
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # MMM
@@ -42,6 +42,9 @@ _MFC Short Maturity Management Fund_
 > - **จัดตั้ง:** 2005-01-31 · **จดทะเบียน:** 2005-02-17
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.4651 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.47%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

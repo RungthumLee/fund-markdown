@@ -25,7 +25,7 @@ holdings_count: 103
 top10_pct_nav: 105.87
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBGOLDHFUND
@@ -43,6 +43,9 @@ _SCB GOLD THB HEDGED OPEN END FUND_
 > - **จัดตั้ง:** 2010-11-09 · **จดทะเบียน:** 2011-08-26
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 20.3785 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.11%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

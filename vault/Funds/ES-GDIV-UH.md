@@ -27,7 +27,7 @@ master_fund: "JPM Global Dividend C acc USD"
 master_isin: "LU0329202922"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GDIV-UH
@@ -45,6 +45,9 @@ _Eastspring Global Dividend Equity Fund-Unhedged_
 > - **จัดตั้ง:** 2025-01-09 · **จดทะเบียน:** 2025-02-07
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 11.0053 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

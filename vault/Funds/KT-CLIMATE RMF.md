@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 98.22
 master_fund: "Schroder ISF Glb Clmt Chg Eq C Acc USD"
 master_isin: "LU0302446132"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-CLIMATE RMF
@@ -42,6 +42,9 @@ _KTAM Global Climate Change RMF_
 > - **จัดตั้ง:** 2021-11-23 · **จดทะเบียน:** 2021-12-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.0813 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

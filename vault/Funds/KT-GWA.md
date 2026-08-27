@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 60914279.22
 holdings_count: 16
 top10_pct_nav: 80.66
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KT-GWA
@@ -41,6 +41,9 @@ _KTAM Global Wealth Accelerator_
 > - **จัดตั้ง:** 2026-01-30 · **จดทะเบียน:** 2026-03-04
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 10.7935 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.93%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

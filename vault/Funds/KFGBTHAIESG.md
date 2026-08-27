@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.02
 peer_group: "Long Term General Bond"
 fund_managers: ["น.ส. ณัฐยา เตรียมวิทยา", "น.ส. รัมภารัจน์ ยุธานหัส"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # KFGBTHAIESG
@@ -43,6 +43,9 @@ _Krungsri Government Bond Thailand ESG Fund_
 > - **จัดตั้ง:** 2024-07-25 · **จดทะเบียน:** 2024-08-07
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.7703 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.40%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

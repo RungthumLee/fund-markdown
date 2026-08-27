@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 215140356.25
 holdings_count: 51
 top10_pct_nav: 64.71
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, use/accumulate]
 ---
 
 # PRINCIPAL SET50
@@ -41,6 +41,9 @@ _Principal Daily SET 50 Index Fund_
 > - **จัดตั้ง:** 2008-12-30 · **จดทะเบียน:** 2010-01-14
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 29.3051 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 51 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 8638858.52
 holdings_count: 16
 top10_pct_nav: 102.32
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, geo/asia-pacific, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ONE-APACPROP
@@ -42,6 +42,9 @@ _ONE ASIA PACIFIC PROPERTY REITs FUND_
 > - **จัดตั้ง:** 2017-05-29 · **จดทะเบียน:** 2017-06-13
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 7.1787 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

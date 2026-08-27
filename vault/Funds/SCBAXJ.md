@@ -25,7 +25,7 @@ holdings_count: 144
 top10_pct_nav: 107.69
 master_fund: "iShares Asia Trust - iShares Core MSCI AC Asia ex Japan Index ETF"
 master_isin: "HK0000051877"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/japan, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBAXJ
@@ -43,6 +43,9 @@ _SCB Asia ex Japan Equity Index_
 > - **จัดตั้ง:** 2022-01-05 · **จดทะเบียน:** 2022-05-18
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 15.0661 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

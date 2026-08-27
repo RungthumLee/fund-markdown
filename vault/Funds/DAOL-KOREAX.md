@@ -24,7 +24,7 @@ holdings_count: 17
 top10_pct_nav: 112.81
 master_fund: "Xtrackers MSCI Korea UCITS ETF 1C"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, geo/korea, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-KOREAX
@@ -42,6 +42,9 @@ _DAOL KOREA PASSIVE INDEX FUND_
 > - **จัดตั้ง:** 2026-05-21 · **จดทะเบียน:** 2026-06-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.7348 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

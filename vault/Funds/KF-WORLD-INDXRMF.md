@@ -27,7 +27,7 @@ master_fund: "iShares MSCI ACWI ETF"
 master_isin: "US4642882579"
 peer_group: "Global Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # KF-WORLD-INDXRMF
@@ -45,6 +45,9 @@ _Krungsri World Equity Index RMF_
 > - **จัดตั้ง:** 2024-10-03 · **จดทะเบียน:** 2024-10-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.7115 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

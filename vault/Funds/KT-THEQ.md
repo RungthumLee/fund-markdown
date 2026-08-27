@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 0.0
 holdings_count: 53
 top10_pct_nav: 65.08
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KT-THEQ
@@ -41,6 +41,9 @@ _Krungthai Active Thai Equity Fund_
 > - **จัดตั้ง:** 2004-09-22 · **จดทะเบียน:** 2004-11-15
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 24.0277 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 53 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

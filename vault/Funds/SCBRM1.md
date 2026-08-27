@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 18886577871.64
 holdings_count: 91
 top10_pct_nav: 40.92
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # SCBRM1
@@ -41,6 +41,9 @@ _SCB SHORT TERM FIXED INCOME RMF_
 > - **จัดตั้ง:** 2002-01-23 · **จดทะเบียน:** 2002-02-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.3957 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.66%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

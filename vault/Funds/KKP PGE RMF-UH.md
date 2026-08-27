@@ -24,7 +24,7 @@ fund_size: 592661768.03
 holdings_count: 4
 top10_pct_nav: 100.57
 master_fund: "iShares MSCI ACWI ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # KKP PGE RMF-UH
@@ -42,6 +42,9 @@ _KKP PASSIVE GLOBAL EQUITY RMF - UNHEDGED_
 > - **จัดตั้ง:** 2024-08-29 · **จดทะเบียน:** 2024-09-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.7016 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.75%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

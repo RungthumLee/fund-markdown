@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 64.89
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย พุทธินันท์ วชิราคม  ตั้งแต่ 09 พ.ค. 2568", "นาย สุชาติ เจริญวุฒิคุณ  ตั้งแต่ 09 พ.ค. 2568"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # P-MESGX
@@ -43,6 +43,9 @@ _Phillip Mixed Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-29 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.2703 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.12%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

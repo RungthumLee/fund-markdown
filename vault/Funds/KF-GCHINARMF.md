@@ -27,7 +27,7 @@ master_fund: "FSSA Greater China Growth I USD Acc"
 master_isin: "IE0031814852"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "น.ส. วรดา ตันติสุนทร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KF-GCHINARMF
@@ -45,6 +45,9 @@ _Krungsri Greater China Equity Hedged FX RMF_
 > - **จัดตั้ง:** 2017-09-13 · **จดทะเบียน:** 2017-10-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.9525 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

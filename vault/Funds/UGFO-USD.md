@@ -25,7 +25,7 @@ top10_pct_nav: 96.94
 master_fund: "Invesco Global Founders & Owners CUSDAcc"
 master_isin: "LU1218204631"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGFO-USD
@@ -43,6 +43,9 @@ _United USD Global Founders & Owners Fund_
 > - **จัดตั้ง:** 2025-09-09 · **จดทะเบียน:** 2025-12-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.8254 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.89%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

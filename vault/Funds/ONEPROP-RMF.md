@@ -24,7 +24,7 @@ fund_size: 122277811.23
 holdings_count: 27
 top10_pct_nav: 75.12
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ONEPROP-RMF
@@ -42,6 +42,9 @@ _ONE PROPERTY RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2012-10-24 · **จดทะเบียน:** 2012-11-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.338 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.40%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

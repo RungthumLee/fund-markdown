@@ -25,7 +25,7 @@ holdings_count: 29
 top10_pct_nav: 63.06
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "น.ส. ศรสวรรค์เติมวุฒิกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # TISCOHD
@@ -43,6 +43,9 @@ _TISCO High Dividend Equity Fund_
 > - **จัดตั้ง:** 2012-02-21 · **จดทะเบียน:** 2012-07-18
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 31.6975 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 29 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.81%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 991934566.34
 holdings_count: 18
 top10_pct_nav: 86.82
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHPROP-I
@@ -41,6 +41,9 @@ _LH PROPERTY PLUS I FUND_
 > - **จัดตั้ง:** 2015-10-07 · **จดทะเบียน:** 2015-11-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.6097 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.39%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

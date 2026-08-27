@@ -27,7 +27,7 @@ master_fund: "Premia China STAR50 ETF"
 master_isin: "HK0000761418"
 peer_group: "Greater China Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/feeder, style/passive, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-STARTECH
@@ -45,6 +45,9 @@ _Eastspring Star50 Chinese Technology Fund_
 > - **จัดตั้ง:** 2021-05-25 · **จดทะเบียน:** 2021-06-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.5586 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 17 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

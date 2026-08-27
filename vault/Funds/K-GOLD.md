@@ -26,7 +26,7 @@ top10_pct_nav: 107.16
 master_fund: "SPDR Gold Shares"
 peer_group: "Commodities Precious Metals"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # K-GOLD
@@ -44,6 +44,9 @@ _K Gold Fund_
 > - **จัดตั้ง:** 2008-06-30 · **จดทะเบียน:** 2008-07-18
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 24.0191 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

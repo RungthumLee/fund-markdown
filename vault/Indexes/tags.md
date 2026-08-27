@@ -9,7 +9,7 @@ tags: [index, tags]
 
 > [!INFO] แต่ละกองติดแท็กหลายมิติแบบ deterministic (อ่านจากข้อมูล ก.ล.ต.)
 > **คลิกแท็ก** เพื่อดูทุกกองที่ติดแท็กนั้น หรือใช้ Dataview ด้านล่าง
-> ธีม/ภูมิภาคอ่านจากชื่อกอง จึงเป็น best-effort (LLM จะช่วยขัดในเฟสถัดไป)
+> อยากได้กลุ่มตามธีม/ภูมิภาค (จีน · เทคโนโลยี · สุขภาพ) ดูที่ [[by-peer-group|กลุ่ม AIMC]] ซึ่งเป็นการจัดกลุ่มจริงจาก factsheet
 
 ## สินทรัพย์ · `asset`
 
@@ -30,9 +30,8 @@ _ประเภทสินทรัพย์หลักที่กองล�
 
 _กองนี้เหมาะกับโจทย์แบบไหน_
 
-- #use/accumulate · **913**
+- #use/accumulate · **1195**
 - #use/tax-saving · **664**
-- #use/thematic · **476**
 - #use/income · **308**
 - #use/park-cash · **48**
 
@@ -45,39 +44,6 @@ _แปลระดับ 1–8 เป็นคำที่เข้าใจง
 - #risk/very-high · **326**
 - #risk/low · **39**
 - #risk/very-low · **32**
-
-## ภูมิภาค · `geo`
-
-_พื้นที่ลงทุนหลัก (อ่านจากชื่อกอง)_
-
-- #geo/thailand · **520**
-- #geo/world · **432**
-- #geo/china · **113**
-- #geo/us · **111**
-- #geo/asia-pacific · **54**
-- #geo/japan · **44**
-- #geo/europe · **35**
-- #geo/vietnam · **35**
-- #geo/india · **28**
-- #geo/emerging-markets · **20**
-- #geo/korea · **6**
-- #geo/taiwan · **2**
-
-## ธีม/หมวด · `theme`
-
-_ธีมการลงทุน (อ่านจากชื่อกอง — ยังเป็น best-effort)_
-
-- #theme/sustainability · **114**
-- #theme/technology · **89**
-- #theme/real-estate · **57**
-- #theme/technology/ai-robotics · **49**
-- #theme/metals-mining/gold · **46**
-- #theme/healthcare · **42**
-- #theme/energy · **25**
-- #theme/infrastructure · **21**
-- #theme/technology/semiconductor · **18**
-- #theme/financials · **11**
-- #theme/consumer · **5**
 
 ## กลยุทธ์บริหาร · `style`
 
@@ -162,16 +128,6 @@ FROM #use/park-cash
 WHERE perf_1y
 SORT perf_1y DESC
 LIMIT 20
-```
-
-### หุ้นจีน + เทคโนโลยี
-
-กองที่ติดทั้งภูมิภาคจีนและธีมเทคโนโลยี
-
-```dataview
-TABLE perf_1y AS "1y %", ter_retail AS "TER %", nav AS "NAV", amc AS "บลจ."
-FROM #geo/china AND #theme/technology
-SORT perf_1y DESC
 ```
 
 ### กองปันผล เสี่ยงปานกลาง

@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 101.47
 master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
-tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-OIL
@@ -43,6 +43,9 @@ _KTAM Oil Fund_
 > - **จัดตั้ง:** 2010-04-01 · **จดทะเบียน:** 2010-04-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 5.8776 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองน้ำมัน · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.29%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

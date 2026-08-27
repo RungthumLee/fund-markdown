@@ -25,7 +25,7 @@ holdings_count: 21
 top10_pct_nav: 102.5
 master_fund: "Principal Asia Pacific Dynamic Income Fund"
 master_isin: "MYU1002DP005"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/rmf, geo/asia-pacific, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL APDIRMF
@@ -43,6 +43,9 @@ _Principal Asia Pacific Dynamic Income Equity Retirement Mutual Fund_
 > - **จัดตั้ง:** 2014-11-13 · **จดทะเบียน:** 2014-12-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.9726 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.19%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

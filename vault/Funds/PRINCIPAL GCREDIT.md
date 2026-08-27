@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 103.98
 master_fund: "BNY Mellon Global Credit USD W Acc"
 master_isin: "IE00BYZW5L40"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # PRINCIPAL GCREDIT
@@ -43,6 +43,9 @@ _Principal Global Credit Fund_
 > - **จัดตั้ง:** 2023-11-17 · **จดทะเบียน:** 2023-12-19
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 10.0413 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

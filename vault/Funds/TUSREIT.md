@@ -27,7 +27,7 @@ master_fund: "Vanguard Real Estate Index Fund ETF Shares"
 master_isin: "US9229085538"
 peer_group: "Fund of Property Fund - Foreign"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/us, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TUSREIT
@@ -45,6 +45,9 @@ _TISCO US REIT Fund_
 > - **จัดตั้ง:** 2013-03-27 · **จดทะเบียน:** 2013-06-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.0614 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.31%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

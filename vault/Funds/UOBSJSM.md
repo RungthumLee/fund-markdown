@@ -26,7 +26,7 @@ top10_pct_nav: 102.06
 master_fund: "United Japan Small And Mid Cap JPY"
 master_isin: "SG9999010854"
 peer_group: "Japan Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UOBSJSM
@@ -44,6 +44,9 @@ _UOB Smart Japan Small And Mid Cap Fund_
 > - **จัดตั้ง:** 2013-12-23 · **จดทะเบียน:** 2014-03-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 35.0393 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

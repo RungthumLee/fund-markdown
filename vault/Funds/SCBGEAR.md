@@ -25,7 +25,7 @@ holdings_count: 40
 top10_pct_nav: 104.08
 master_fund: "Jupiter Merian Glb Eq Abs Rt I USD Acc"
 master_isin: "IE00BLP5S684"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # SCBGEAR
@@ -43,6 +43,9 @@ _SCB Global Equity Absolute Return Fund_
 > - **จัดตั้ง:** 2018-09-04 · **จดทะเบียน:** 2018-09-28
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 12.6345 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

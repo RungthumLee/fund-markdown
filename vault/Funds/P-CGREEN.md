@@ -26,7 +26,7 @@ top10_pct_nav: 100.19
 master_fund: "KraneShares MSCI China Clean Technology ETF"
 master_isin: "US5007678502"
 peer_group: "Global Equity - Alternative Energy"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, geo/china, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # P-CGREEN
@@ -44,6 +44,9 @@ _Phillip China Green Energy and Environment_
 > - **จัดตั้ง:** 2021-03-12 · **จดทะเบียน:** 2021-04-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.2376 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.72%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

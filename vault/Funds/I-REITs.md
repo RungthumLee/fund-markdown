@@ -24,7 +24,7 @@ fund_size: 101404907.9
 holdings_count: 30
 top10_pct_nav: 104.47
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # I-REITs
@@ -42,6 +42,9 @@ _MFC International Real Estate Fund_
 > - **จัดตั้ง:** 2010-05-11 · **จดทะเบียน:** 2010-06-29
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 9.6121 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (7/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.33%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

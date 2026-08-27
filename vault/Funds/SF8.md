@@ -24,7 +24,7 @@ fund_size: 66229283.13
 holdings_count: 57
 top10_pct_nav: 86.31
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # SF8
@@ -42,6 +42,9 @@ _Sinpinyo Eight Open-end Fund_
 > - **จัดตั้ง:** 1994-04-04 · **จดทะเบียน:** 1995-04-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 2.1854 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 57 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.26%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

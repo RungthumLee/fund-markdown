@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 19785213.33
 master_fund: "Franklin FTSE South Korea ETF"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, geo/korea, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ASP-KOREA
@@ -40,6 +40,9 @@ _Asset Plus South Korea Equity Fund_
 > - **จัดตั้ง:** 2026-07-20 · **จดทะเบียน:** 2026-07-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0428 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.64%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

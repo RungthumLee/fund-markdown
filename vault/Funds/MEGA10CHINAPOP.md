@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 24672285.95
 holdings_count: 13
 top10_pct_nav: 94.05
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, geo/china, theme/consumer, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # MEGA10CHINAPOP
@@ -40,6 +40,9 @@ _MEGA 10 CHINA POPULAR CONSUMER BRAND FUND_
 > - **จัดตั้ง:** 2025-10-06 · **จดทะเบียน:** 2025-10-16
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 8.0858 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

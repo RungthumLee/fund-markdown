@@ -25,7 +25,7 @@ holdings_count: 35
 top10_pct_nav: 71.67
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "น.ส. นินัทธ์ วงศ์เสงี่ยม"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # K-SUPSTAR-SSFX
@@ -43,6 +43,9 @@ _K Superstar Super Savings Fund Extra_
 > - **จัดตั้ง:** 2020-03-25 · **จดทะเบียน:** 2020-04-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.7518 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

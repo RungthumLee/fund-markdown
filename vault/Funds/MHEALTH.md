@@ -26,7 +26,7 @@ top10_pct_nav: 103.42
 master_fund: "BGF World Healthscience D2"
 master_isin: "LU0329593007"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # MHEALTH
@@ -44,6 +44,9 @@ _MFC Health Innovation Fund_
 > - **จัดตั้ง:** 2020-08-26 · **จดทะเบียน:** 2022-06-17
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.6187 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

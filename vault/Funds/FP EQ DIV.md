@@ -25,7 +25,7 @@ holdings_count: 22
 top10_pct_nav: 63.57
 peer_group: "Equity General"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # FP EQ DIV
@@ -43,6 +43,9 @@ _First Plus Equity Dividend Fund_
 > - **จัดตั้ง:** 2008-09-05 · **จดทะเบียน:** 2009-08-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.3063 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 22 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.79%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

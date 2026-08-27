@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.82
 master_fund: "BGF China Bond D2"
 master_isin: "LU0719319435"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-CHINABOND
@@ -43,6 +43,9 @@ _KTAM China Bond Fund_
 > - **จัดตั้ง:** 2021-05-05 · **จดทะเบียน:** 2021-05-21
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 9.6115 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.57%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

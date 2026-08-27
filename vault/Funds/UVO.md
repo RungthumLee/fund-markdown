@@ -24,7 +24,7 @@ fund_size: 82974471.69
 holdings_count: 6
 top10_pct_nav: 100.21
 peer_group: "Vietnam Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # UVO
@@ -42,6 +42,9 @@ _United Vietnam Opportunity Fund_
 > - **จัดตั้ง:** 2018-05-09 · **จดทะเบียน:** 2018-07-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.2227 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 6 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.94%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

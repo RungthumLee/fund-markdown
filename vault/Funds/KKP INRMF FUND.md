@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2526988060.66
 holdings_count: 137
 top10_pct_nav: 30.9
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # KKP INRMF FUND
@@ -41,6 +41,9 @@ _KKP INCOME RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2004-09-10 · **จดทะเบียน:** 2004-10-08
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 17.1249 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.41%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

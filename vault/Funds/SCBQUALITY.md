@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 7583196.78
 holdings_count: 26
 top10_pct_nav: 75.39
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBQUALITY
@@ -41,6 +41,9 @@ _SCB Thai Equity Quality Portfolio_
 > - **จัดตั้ง:** 2019-09-26 · **จดทะเบียน:** 2019-12-19
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 11.6829 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 26 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.12%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

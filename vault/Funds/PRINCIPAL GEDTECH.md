@@ -25,7 +25,7 @@ holdings_count: 27
 top10_pct_nav: 107.13
 master_fund: "iShares Digital Entertainment and Education UCITS ETF USD (Acc)"
 master_isin: "IE00023EZQ82"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL GEDTECH
@@ -43,6 +43,9 @@ _Principal Global Education Tech Fund_
 > - **จัดตั้ง:** 2020-06-26 · **จดทะเบียน:** 2020-07-17
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 7.5048 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

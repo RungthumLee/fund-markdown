@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 117214201.72
 holdings_count: 35
 top10_pct_nav: 106.95
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # PRINCIPAL GINNO
@@ -41,6 +41,9 @@ _Principal Global Innovation Fund_
 > - **จัดตั้ง:** 2019-01-16 · **จดทะเบียน:** 2019-02-20
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 18.2167 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 35 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 28152017.78
 holdings_count: 49
 top10_pct_nav: 64.54
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, use/accumulate]
 ---
 
 # ONE-TOP5M
@@ -42,6 +42,9 @@ _ONE TOP SELECTION 5M FUND_
 > - **จัดตั้ง:** 2017-12-04 · **จดทะเบียน:** 2017-12-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.0108 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.23%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

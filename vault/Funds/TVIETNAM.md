@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.48
 peer_group: "Vietnam Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # TVIETNAM
@@ -43,6 +43,9 @@ _TISCO Vietnam Equity Fund_
 > - **จัดตั้ง:** 2022-04-22 · **จดทะเบียน:** 2022-05-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.4234 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 6 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.93%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

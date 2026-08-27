@@ -24,7 +24,7 @@ fund_size: 100670004.42
 holdings_count: 7
 top10_pct_nav: 124.63
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/ssf, geo/india, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ASP-INDIA
@@ -42,6 +42,9 @@ _Asset Plus India Dynamic Equity Fund_
 > - **จัดตั้ง:** 2018-09-18 · **จดทะเบียน:** 2018-11-06
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.4208 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 7 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.65%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

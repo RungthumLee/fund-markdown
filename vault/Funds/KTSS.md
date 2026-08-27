@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 43781690308.33
 holdings_count: 44
 top10_pct_nav: 70.33
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # KTSS
@@ -41,6 +41,9 @@ _Krung Thai SS Fund_
 > - **จัดตั้ง:** 2006-02-08 · **จดทะเบียน:** 2006-05-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.8437 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.40%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

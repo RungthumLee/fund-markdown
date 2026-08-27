@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 45219403.55
 holdings_count: 36
 top10_pct_nav: 66.12
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBTAX
@@ -41,6 +41,9 @@ _SCB Active Equity Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 13.5129 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 36 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

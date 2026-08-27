@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 63494954.06
 holdings_count: 57
 top10_pct_nav: 65.98
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # KT-CARE
@@ -41,6 +41,9 @@ _Krung Thai Wealth Care Fund_
 > - **จัดตั้ง:** 2019-04-10 · **จดทะเบียน:** 2019-07-31
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 9.5889 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.63%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

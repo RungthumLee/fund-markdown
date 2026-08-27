@@ -25,7 +25,7 @@ holdings_count: 15
 top10_pct_nav: 101.42
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-GOLD
@@ -43,6 +43,9 @@ _KTAM Gold Fund_
 > - **จัดตั้ง:** 2010-07-14 · **จดทะเบียน:** 2010-09-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 25.1891 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.37%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

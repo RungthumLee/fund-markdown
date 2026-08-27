@@ -26,7 +26,7 @@ top10_pct_nav: 99.06
 master_fund: "Wellington Global Innovation USD S Ac"
 master_isin: "LU1547288214"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-GTORMF
@@ -44,6 +44,9 @@ _Bualuang Global Thematic Opportunities RMF_
 > - **จัดตั้ง:** 2021-04-01 · **จดทะเบียน:** 2021-04-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.537 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

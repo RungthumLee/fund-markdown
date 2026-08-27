@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 105.59
 master_fund: "Fidelity Global Technology Y-Acc-USD"
 master_isin: "LU1560650563"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-TECHNOLOGY
@@ -43,6 +43,9 @@ _KTAM World Technology Fund_
 > - **จัดตั้ง:** 2022-12-29 · **จดทะเบียน:** 2024-02-29
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 14.2624 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

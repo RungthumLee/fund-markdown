@@ -27,7 +27,7 @@ master_fund: "NEXT FUNDS Nikkei 225 Exchange Traded Fund"
 master_isin: "JP3027650005"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TISCOJP
@@ -45,6 +45,9 @@ _TISCO Japan Equity Fund_
 > - **จัดตั้ง:** 2013-05-22 · **จดทะเบียน:** 2013-08-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 43.5609 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.31%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

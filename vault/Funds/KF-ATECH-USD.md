@@ -26,7 +26,7 @@ master_fund: "Wellington Asia Tech USD S Acc"
 master_isin: "LU1751457539"
 peer_group: "Technology Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/asia-pacific, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-ATECH-USD
@@ -44,6 +44,9 @@ _Krungsri Asia Tech Equity USD Fund_
 > - **จัดตั้ง:** 2026-04-23 · **จดทะเบียน:** 2026-05-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.9008 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

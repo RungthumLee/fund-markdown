@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 76.97
 peer_group: "Fund of Property Fund - Thai"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # TTHREIT
@@ -43,6 +43,9 @@ _TISCO Property and Infrastructure Flexible Fund_
 > - **จัดตั้ง:** 2020-02-17 · **จดทะเบียน:** 2020-02-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.17 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.29%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

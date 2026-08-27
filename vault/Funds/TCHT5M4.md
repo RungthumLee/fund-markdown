@@ -27,7 +27,7 @@ master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, compliance/trigger-fund, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, compliance/trigger-fund, use/accumulate]
 ---
 
 # TCHT5M4
@@ -45,6 +45,9 @@ _TISCO China Equity Trigger 5M Fund 4_
 > - **จัดตั้ง:** 2019-08-16 · **จดทะเบียน:** 2021-07-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.8775 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.33%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 44409169.38
 holdings_count: 28
 top10_pct_nav: 46.01
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, theme/technology/ai-robotics, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-BRAIN RMF
@@ -41,6 +41,9 @@ _Krung Thai AI Brain RMF_
 > - **จัดตั้ง:** 2018-10-09 · **จดทะเบียน:** 2018-11-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.103 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 28 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.99%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

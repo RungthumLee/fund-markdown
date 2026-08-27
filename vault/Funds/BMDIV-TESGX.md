@@ -24,7 +24,7 @@ fund_size: 5038267317.36
 holdings_count: 52
 top10_pct_nav: 59.31
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # BMDIV-TESGX
@@ -42,6 +42,9 @@ _Bualuang Mixed Dividend Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.0153 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.90%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 82.25
 master_fund: "Amundi Fds European Eq Sm Cp I2 EUR C"
 master_isin: "LU1883307545"
 peer_group: "European Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UES
@@ -44,6 +44,9 @@ _United European Small Cap Fund_
 > - **จัดตั้ง:** 2015-10-05 · **จดทะเบียน:** 2015-10-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.2761 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

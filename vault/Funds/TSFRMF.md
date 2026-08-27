@@ -26,7 +26,7 @@ top10_pct_nav: 100.07
 master_fund: "กองทุนเปิด ทิสโก้ สแตรทิจิก ฟันด์"
 peer_group: "Equity General"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, struct/feeder, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # TSFRMF
@@ -44,6 +44,9 @@ _TISCO Strategic RMF_
 > - **จัดตั้ง:** 2021-11-01 · **จดทะเบียน:** 2021-11-18
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.273 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.36%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

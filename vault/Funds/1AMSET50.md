@@ -24,7 +24,7 @@ fund_size: 1355219981.92
 holdings_count: 48
 top10_pct_nav: 64.4
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # 1AMSET50
@@ -42,6 +42,9 @@ _1 A.M. SET 50 Fund_
 > - **จัดตั้ง:** 2003-10-14 · **จดทะเบียน:** 2003-11-27
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 72.0263 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 48 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.66%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

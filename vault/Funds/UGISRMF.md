@@ -26,7 +26,7 @@ top10_pct_nav: 100.24
 master_fund: "PIMCO GIS Income Institutional USD Acc"
 master_isin: "IE00B87KCF77"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # UGISRMF
@@ -44,6 +44,9 @@ _United Global Income Strategic Bond Fund RMF_
 > - **จัดตั้ง:** 2017-10-24 · **จดทะเบียน:** 2017-12-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0442 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.85%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

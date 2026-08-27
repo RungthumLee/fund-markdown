@@ -25,7 +25,7 @@ holdings_count: 21
 top10_pct_nav: 101.66
 master_fund: "iShares Digital Entertainment and Education UCITS ETF USD (Acc)"
 master_isin: "IE00023EZQ82"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-GEDUCATION
@@ -43,6 +43,9 @@ _DAOL GLOBAL EDUCATION EQUITY FUND_
 > - **จัดตั้ง:** 2020-04-27 · **จดทะเบียน:** 2020-07-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.4181 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

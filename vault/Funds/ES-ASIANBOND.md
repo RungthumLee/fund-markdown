@@ -27,7 +27,7 @@ master_fund: "BGF Asian Tiger Bond D2"
 master_isin: "LU0776122383"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-ASIANBOND
@@ -45,6 +45,9 @@ _Eastspring Asian Bond Fund_
 > - **จัดตั้ง:** 2016-11-17 · **จดทะเบียน:** 2016-11-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.5368 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.09%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

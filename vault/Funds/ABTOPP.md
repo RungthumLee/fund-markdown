@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 3143516527.09
 holdings_count: 37
 top10_pct_nav: 60.47
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ABTOPP
@@ -41,6 +41,9 @@ _Aberdeen Thailand Opportunities Fund_
 > - **จัดตั้ง:** 2004-10-01 · **จดทะเบียน:** 2004-10-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 39.9004 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

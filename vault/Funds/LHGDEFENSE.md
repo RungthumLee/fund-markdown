@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 102155649.95
 holdings_count: 16
 top10_pct_nav: 115.53
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHGDEFENSE
@@ -40,6 +40,9 @@ _LH GLOBAL DEFENSE FUND_
 > - **จัดตั้ง:** 2025-12-23 · **จดทะเบียน:** 2026-03-09
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 7.8807 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 16 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

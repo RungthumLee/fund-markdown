@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.68
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLUS500-UH
@@ -43,6 +43,9 @@ _TALIS US EQUITY 500-UNHEDGE_
 > - **จัดตั้ง:** 2025-03-03 · **จดทะเบียน:** 2025-03-12
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 13.6495 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

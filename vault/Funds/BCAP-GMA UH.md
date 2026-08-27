@@ -23,7 +23,7 @@ fund_size: 3446050347.02
 holdings_count: 28
 top10_pct_nav: 69.26
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GMA UH
@@ -41,6 +41,9 @@ _BCAP Global Multi Asset Unhedged Fund_
 > - **จัดตั้ง:** 2025-08-05 · **จดทะเบียน:** 2025-09-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7261 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.43%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

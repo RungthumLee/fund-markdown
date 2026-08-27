@@ -26,7 +26,7 @@ master_fund: "NEXT FUNDS REIT INDEX ETF"
 master_isin: "JP3047010008"
 peer_group: "Fund of Property Fund - Foreign"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, geo/japan, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TJREIT
@@ -44,6 +44,9 @@ _TISCO Japan REIT Fund_
 > - **จัดตั้ง:** 2014-12-24 · **จดทะเบียน:** 2015-02-03
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.4144 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive)
 
 ## 1. ข้อมูลทั่วไป
 

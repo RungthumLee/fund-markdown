@@ -24,7 +24,7 @@ holdings_count: 2
 top10_pct_nav: 100.43
 master_fund: "Global X Space Tech ETF"
 master_isin: "US37966B7780"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLSPACE-X
@@ -42,6 +42,9 @@ _TALIS SPACE TECH FUND_
 > - **จัดตั้ง:** 2026-06-05 · **จดทะเบียน:** 2026-06-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.9879 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

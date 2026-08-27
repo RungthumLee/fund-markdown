@@ -26,7 +26,7 @@ top10_pct_nav: 98.99
 master_fund: "Wellington Glbl Quality Gr USD S Ac"
 master_isin: "LU0629158030"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # B-GLOBAL
@@ -44,6 +44,9 @@ _Bualuang Global Equity Fund_
 > - **จัดตั้ง:** 2015-06-23 · **จดทะเบียน:** 2015-10-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 22.3697 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

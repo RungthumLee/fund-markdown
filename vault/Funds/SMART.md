@@ -24,7 +24,7 @@ fund_size: 46842751.06
 holdings_count: 34
 top10_pct_nav: 56.35
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SMART
@@ -42,6 +42,9 @@ _MFC Smart Fixed Income Fund_
 > - **จัดตั้ง:** 1999-12-15 · **จดทะเบียน:** 2000-06-14
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.339 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.47%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

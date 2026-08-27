@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 98.27
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # TGINC
@@ -43,6 +43,9 @@ _TISCO Global Income Plus Fund_
 > - **จัดตั้ง:** 2018-02-09 · **จดทะเบียน:** 2018-05-11
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 13.5515 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.29%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

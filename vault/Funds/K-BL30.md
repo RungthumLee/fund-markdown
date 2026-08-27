@@ -25,7 +25,7 @@ holdings_count: 54
 top10_pct_nav: 50.98
 peer_group: "Conservative Allocation"
 fund_managers: ["น.ส. วินิทร ผ่องใส", "นาง สลิลสิริ เรืองสุขอุดม"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # K-BL30
@@ -43,6 +43,9 @@ _K ESG Balanced 30 Fund_
 > - **จัดตั้ง:** 2024-11-21 · **จดทะเบียน:** 2024-12-04
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.5133 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.86%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

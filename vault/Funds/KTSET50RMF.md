@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1183473001.86
 holdings_count: 52
 top10_pct_nav: 60.51
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # KTSET50RMF
@@ -41,6 +41,9 @@ _Krung Thai SET50 RMF_
 > - **จัดตั้ง:** 2016-11-30 · **จดทะเบียน:** 2016-12-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.3172 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 52 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.80%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 101.95
 master_fund: "State Street Bridgewater All Weather ETF"
 master_isin: "US78470P6300"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # MGALL-UH
@@ -44,6 +44,9 @@ _MFC Global Strategic Allocation Fund Unhedged_
 > - **จัดตั้ง:** 2025-07-22 · **จดทะเบียน:** 2025-08-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.8468 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.42%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

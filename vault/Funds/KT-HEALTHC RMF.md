@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 100.74
 master_fund: "Janus Henderson Capital Funds plc - Global Life Sciences Fund Class H2 USD"
 master_isin: "IE00BFRSYJ83"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-HEALTHC RMF
@@ -43,6 +43,9 @@ _KTAM World Healthcare RMF_
 > - **จัดตั้ง:** 2015-10-28 · **จดทะเบียน:** 2015-11-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 18.0618 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

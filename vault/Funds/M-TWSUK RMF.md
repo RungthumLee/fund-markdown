@@ -24,7 +24,7 @@ fund_size: 323220271.4
 holdings_count: 88
 top10_pct_nav: 55.42
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # M-TWSUK RMF
@@ -42,6 +42,9 @@ _MFC Senior Taweesuk Retirement Fund_
 > - **จัดตั้ง:** 2018-04-20 · **จดทะเบียน:** 2018-06-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.35 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.81%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

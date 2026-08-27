@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 100.31
 peer_group: "Technology Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, tax/ssf, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
 # TNEXTGEN
@@ -43,6 +43,9 @@ _TISCO Next Generation Internet Fund_
 > - **จัดตั้ง:** 2020-09-15 · **จดทะเบียน:** 2020-11-12
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.6677 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · พอร์ตถือราว 9 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.28%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

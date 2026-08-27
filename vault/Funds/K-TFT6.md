@@ -25,7 +25,7 @@ holdings_count: 21
 top10_pct_nav: 72.37
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. กอบพร กุลสุรกิจ"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, compliance/trigger-fund, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, compliance/trigger-fund, use/accumulate]
 ---
 
 # K-TFT6
@@ -43,6 +43,9 @@ _K Thai Flexible Trigger 6 Fund_
 > - **จัดตั้ง:** 2023-08-04 · **จดทะเบียน:** 2023-08-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.5962 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

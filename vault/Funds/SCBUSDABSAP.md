@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 100.46
 master_fund: "BSF Systematic APAC Eq Abs Rt D2 USD"
 master_isin: "LU1508158190"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # SCBUSDABSAP
@@ -42,6 +42,9 @@ _SCB Asia Pacific Equity Absolute Return USD_
 > - **จัดตั้ง:** 2025-09-12 · **จดทะเบียน:** 2025-10-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.8441 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.31%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

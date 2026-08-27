@@ -27,7 +27,7 @@ master_fund: "Barings Eastern Europe A USD Inc"
 master_isin: "IE0000805634"
 peer_group: "Emerging Market"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # FP EE EURO
@@ -45,6 +45,9 @@ _First Plus Emerging Eastern Europe FIF_
 > - **จัดตั้ง:** 2007-09-26 · **จดทะเบียน:** 2007-10-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.2843 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

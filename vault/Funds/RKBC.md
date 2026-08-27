@@ -25,7 +25,7 @@ holdings_count: 52
 top10_pct_nav: 47.53
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "นาย ชัชพล ตรีวิภานนท์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # RKBC
@@ -43,6 +43,9 @@ _The Ruang Khao Balanced Class_
 > - **จัดตั้ง:** 1995-11-27 · **จดทะเบียน:** 1996-03-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 29.7081 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.31%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

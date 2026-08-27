@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 104.81
 peer_group: "China Equity - A Shares"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # K-CCTV
@@ -43,6 +43,9 @@ _K China Controlled Volatility Fund_
 > - **จัดตั้ง:** 2018-11-09 · **จดทะเบียน:** 2018-12-14
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.0236 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.42%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 13603041477.89
 holdings_count: 115
 top10_pct_nav: 36.54
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # BFRMF
@@ -42,6 +42,9 @@ _Bualuang Fixed-income RMF_
 > - **จัดตั้ง:** 2002-07-12 · **จดทะเบียน:** 2002-11-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.5571 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.46%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

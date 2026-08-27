@@ -24,7 +24,7 @@ holdings_count: 11
 top10_pct_nav: 101.82
 master_fund: "Fidelity Funds - Global Financial Services Fund"
 master_isin: "LU0114722498"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, theme/financials, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-FINANCE
@@ -42,6 +42,9 @@ _KTAM World Financial Services Fund_
 > - **จัดตั้ง:** 2009-10-08 · **จดทะเบียน:** 2009-10-29
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 36.3373 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

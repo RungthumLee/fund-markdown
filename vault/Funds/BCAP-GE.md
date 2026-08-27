@@ -24,7 +24,7 @@ fund_size: 3059595437.77
 holdings_count: 16
 top10_pct_nav: 94.44
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GE
@@ -42,6 +42,9 @@ _BCAP Global Equity Fund_
 > - **จัดตั้ง:** 2019-11-26 · **จดทะเบียน:** 2020-01-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.9981 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 16 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

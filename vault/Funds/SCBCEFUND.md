@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 99.31
 master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, style/dividend, tax/ssf, geo/china, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBCEFUND
@@ -43,6 +43,9 @@ _SCB CHINA EQUITY OPEN END FUND_
 > - **จัดตั้ง:** 2009-10-26 · **จดทะเบียน:** 2009-11-25
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 7.5606 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

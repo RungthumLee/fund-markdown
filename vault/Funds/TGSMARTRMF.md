@@ -26,7 +26,7 @@ master_fund: "Schroder ISF Glbl Trgt Ret C Acc USD"
 master_isin: "LU1516354310"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TGSMARTRMF
@@ -44,6 +44,9 @@ _TISCO Global Smart Allocation RMF_
 > - **จัดตั้ง:** 2025-07-29 · **จดทะเบียน:** 2025-09-03
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.0796 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.08%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 102.46
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 fund_managers: ["นาย กิตติพงษ์ กังวานเกียรติชัย", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # M-US500H
@@ -44,6 +44,9 @@ _MFC US 500 Fund Hedged_
 > - **จัดตั้ง:** 2025-09-02 · **จดทะเบียน:** 2025-10-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.3305 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

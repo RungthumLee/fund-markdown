@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 8177294348.23
 holdings_count: 29
 top10_pct_nav: 71.94
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # K-VIETNAM
@@ -41,6 +41,9 @@ _K Vietnam Equity Fund_
 > - **จัดตั้ง:** 2018-04-12 · **จดทะเบียน:** 2018-10-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.8788 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 29 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

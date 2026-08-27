@@ -27,7 +27,7 @@ master_fund: "Baillie Gifford WW EM LdgComs B USD Acc"
 master_isin: "IE00BW0DJL69"
 peer_group: "Emerging Market"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/emerging-markets, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-EAERMF
@@ -45,6 +45,9 @@ _Eastspring Emerging Active Equity RMF_
 > - **จัดตั้ง:** 2017-12-20 · **จดทะเบียน:** 2018-02-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.4706 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

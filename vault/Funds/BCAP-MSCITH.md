@@ -24,7 +24,7 @@ fund_size: 75589230.33
 holdings_count: 19
 top10_pct_nav: 78.28
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/passive, use/accumulate]
 ---
 
 # BCAP-MSCITH
@@ -42,6 +42,9 @@ _BCAP MSCI Thailand Fund_
 > - **จัดตั้ง:** 2018-11-02 · **จดทะเบียน:** 2018-12-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.9351 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 19 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.11%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

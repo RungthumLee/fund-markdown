@@ -24,7 +24,7 @@ fund_size: 29736183.34
 holdings_count: 11
 top10_pct_nav: 102.13
 master_fund: "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # LHGDIV
@@ -42,6 +42,9 @@ _LH GLOBAL EQUITY DIVIDEND FUND_
 > - **จัดตั้ง:** 2022-05-17 · **จดทะเบียน:** 2022-05-30
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 13.0127 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.21%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ fund_size: 54202493.27
 holdings_count: 6
 top10_pct_nav: 109.82
 master_fund: "CTBC TIP Customized Taiwan Growth and High Dividend ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, geo/taiwan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # LHTWGHD
@@ -41,6 +41,9 @@ _LH TAIWAN GROWTH AND HIGH DIVIDEND FUND_
 > - **จัดตั้ง:** 2025-01-08 · **จดทะเบียน:** 2025-01-21
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 16.2373 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

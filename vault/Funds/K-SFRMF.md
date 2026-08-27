@@ -25,7 +25,7 @@ holdings_count: 90
 top10_pct_nav: 28.93
 peer_group: "Short Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # K-SFRMF
@@ -43,6 +43,9 @@ _K Short Term Fixed Income RMF_
 > - **จัดตั้ง:** 2001-11-30 · **จดทะเบียน:** 2002-02-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.3169 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.54%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

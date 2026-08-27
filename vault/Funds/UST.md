@@ -26,7 +26,7 @@ top10_pct_nav: 105.37
 master_fund: "BNP Paribas Sust Mul Ast Gr I EUR Acc"
 master_isin: "LU1956156910"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UST
@@ -44,6 +44,9 @@ _United Sustainable Thematic Select Fund_
 > - **จัดตั้ง:** 2022-03-04 · **จดทะเบียน:** 2022-03-18
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.8428 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

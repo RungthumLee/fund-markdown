@@ -26,7 +26,7 @@ top10_pct_nav: 99.94
 master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ASP-OIL
@@ -44,6 +44,9 @@ _Asset Plus Oil Fund_
 > - **จัดตั้ง:** 2009-05-28 · **จดทะเบียน:** 2009-06-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 5.7885 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองน้ำมัน · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.64%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

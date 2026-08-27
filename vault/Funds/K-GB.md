@@ -26,7 +26,7 @@ top10_pct_nav: 103.39
 master_fund: "JPMorgan Funds - Aggregate Bond Fund"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/world, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-GB
@@ -44,6 +44,9 @@ _K Global Bond Fund_
 > - **จัดตั้ง:** 2014-03-26 · **จดทะเบียน:** 2014-04-10
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.9874 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.95%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

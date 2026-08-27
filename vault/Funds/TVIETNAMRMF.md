@@ -25,7 +25,7 @@ holdings_count: 7
 top10_pct_nav: 101.24
 peer_group: "Vietnam Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TVIETNAMRMF
@@ -43,6 +43,9 @@ _TISCO Vietnam Equity RMF_
 > - **จัดตั้ง:** 2022-11-17 · **จดทะเบียน:** 2022-12-01
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.7729 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 7 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.89%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

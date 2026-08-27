@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2213421176.6
 holdings_count: 10
 top10_pct_nav: 100.03
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
 # KTESGSI
@@ -41,6 +41,9 @@ _Krung Thai ESG Sovereign Instruments Fund_
 > - **จัดตั้ง:** 2024-09-16 · **จดทะเบียน:** 2024-10-18
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 10.1394 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.30%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

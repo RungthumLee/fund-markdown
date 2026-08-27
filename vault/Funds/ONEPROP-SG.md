@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.26
 master_fund: "Phillip Singapore Real Estate Income Fund"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ONEPROP-SG
@@ -43,6 +43,9 @@ _ONE PROPERTY SINGAPORE FUND_
 > - **จัดตั้ง:** 2011-09-05 · **จดทะเบียน:** 2011-09-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.3605 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.39%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

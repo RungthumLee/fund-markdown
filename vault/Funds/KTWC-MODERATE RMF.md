@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 711543454.42
 holdings_count: 50
 top10_pct_nav: 63.51
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KTWC-MODERATE RMF
@@ -41,6 +41,9 @@ _Krungthai World Class Moderate RMF_
 > - **จัดตั้ง:** 2024-09-17 · **จดทะเบียน:** 2024-11-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5882 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

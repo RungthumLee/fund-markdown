@@ -25,7 +25,7 @@ holdings_count: 58
 top10_pct_nav: 103.16
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, style/dividend, tax/ssf, geo/us, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBS&P500FUND
@@ -43,6 +43,9 @@ _SCB US EQUITY FUND_
 > - **จัดตั้ง:** 2012-09-24 · **จดทะเบียน:** 2012-12-18
 > - **ชนิดหน่วยลงทุน:** 9 class
 > - **NAV 29.0991 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

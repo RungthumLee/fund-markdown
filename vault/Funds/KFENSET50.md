@@ -25,7 +25,7 @@ holdings_count: 72
 top10_pct_nav: 58.04
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KFENSET50
@@ -43,6 +43,9 @@ _Krungsri Enhanced SET50 Fund_
 > - **จัดตั้ง:** 2007-08-23 · **จดทะเบียน:** 2007-10-05
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 30.0215 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 72 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.88%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ top10_pct_nav: 100.17
 master_fund: "FF - Global Dividend Pl Y Acc USD"
 master_isin: "LU1711970662"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/us, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # UUSTECH-USD
@@ -43,6 +43,9 @@ _United USD US Technology Equity Fund_
 > - **จัดตั้ง:** 2025-08-29 · **จดทะเบียน:** 2026-02-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.9931 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

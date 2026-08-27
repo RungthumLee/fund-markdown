@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 3786376.85
 holdings_count: 27
 top10_pct_nav: 91.68
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHGDYNAMIC
@@ -41,6 +41,9 @@ _LH GLOBAL DYNAMIC MULTI ASSET FUND_
 > - **จัดตั้ง:** 2020-10-07 · **จดทะเบียน:** 2020-12-04
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.676 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.95%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

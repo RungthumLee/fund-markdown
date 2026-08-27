@@ -24,7 +24,7 @@ fund_size: 2184553451.45
 holdings_count: 13
 top10_pct_nav: 101.49
 master_fund: "iShares Expanded Tech Sector ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # KKP TECH-H FUND
@@ -42,6 +42,9 @@ _KKP EXPANDED TECH FUND - HEDGED_
 > - **จัดตั้ง:** 2020-09-29 · **จดทะเบียน:** 2020-10-22
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 25.9179 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.14%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

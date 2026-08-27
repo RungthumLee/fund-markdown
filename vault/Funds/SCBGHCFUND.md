@@ -25,7 +25,7 @@ holdings_count: 162
 top10_pct_nav: 107.82
 master_fund: "Janus Henderson Glb Life Scn I2 USD"
 master_isin: "IE0002141913"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/world, theme/healthcare, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # SCBGHCFUND
@@ -43,6 +43,9 @@ _SCB GLOBAL HEALTH CARE EQUITY FUND_
 > - **จัดตั้ง:** 2015-08-13 · **จดทะเบียน:** 2015-09-02
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 12.0263 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ top10_pct_nav: 100.28
 master_fund: "Amundi Global Hydrogen UCITS ETF - Acc"
 master_isin: "FR0010930644"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล  ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-HYDROGEN
@@ -43,6 +43,9 @@ _DAOL GLOBAL HYDROGEN FUND_
 > - **จัดตั้ง:** 2026-05-14 · **จดทะเบียน:** 2026-05-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.108 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 2718428.92
 holdings_count: 16
 top10_pct_nav: 104.25
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, geo/world, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # MGS
@@ -42,6 +42,9 @@ _MFC Global Smart Fund_
 > - **จัดตั้ง:** 2006-03-09 · **จดทะเบียน:** 2006-03-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.5857 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

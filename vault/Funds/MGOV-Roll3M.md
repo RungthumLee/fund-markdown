@@ -24,7 +24,7 @@ fund_size: 286546882.36
 holdings_count: 3
 top10_pct_nav: 100.04
 fund_managers: ["นาย พิพัฒน์ นรานันทน์", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t5, struct/direct, style/buy-hold, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t5, struct/direct, style/buy-hold, use/accumulate]
 ---
 
 # MGOV-Roll3M
@@ -42,6 +42,9 @@ _MFC Government Bond Rollover Fund 3M_
 > - **จัดตั้ง:** 2024-01-18 · **จดทะเบียน:** 2024-01-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.3828 (2026-08-06)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.22%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

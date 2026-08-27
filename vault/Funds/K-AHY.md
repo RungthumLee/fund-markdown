@@ -26,7 +26,7 @@ top10_pct_nav: 107.51
 master_fund: "BGF World Healthscience X10"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-AHY
@@ -44,6 +44,9 @@ _K Asia High Yield Bond Fund_
 > - **จัดตั้ง:** 2019-06-21 · **จดทะเบียน:** 2019-07-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0155 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.88%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 46
 top10_pct_nav: 61.12
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. วิภาดา  จิรพณิช", "น.ส. จินตนา  เมฆินทรางกูร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-ES50
@@ -43,6 +43,9 @@ _AIA Enhanced SET50_
 > - **จัดตั้ง:** 2020-06-26 · **จดทะเบียน:** 2020-08-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.4842 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 46 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.23%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

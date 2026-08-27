@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 100.07
 master_fund: "World Index Shares ETFs - CSI 300 China Tracker"
 master_isin: "HK2827039002"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, style/dividend, geo/china, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # CHINA
@@ -43,6 +43,9 @@ _W.I.S.E. KTAM CSI 300 China Tracker_
 > - **จัดตั้ง:** 2010-11-04 · **จดทะเบียน:** 2010-11-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.3987 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.87%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

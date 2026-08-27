@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 101.66
 master_fund: "JPM Europe Dynamic Techs I acc EUR"
 master_isin: "LU0248050006"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/europe, theme/technology, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KT-EUROTECH
@@ -42,6 +42,9 @@ _KTAM European Technology Equity Fund_
 > - **จัดตั้ง:** 2021-08-27 · **จดทะเบียน:** 2021-09-23
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 10.275 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

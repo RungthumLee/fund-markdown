@@ -25,7 +25,7 @@ holdings_count: 25
 top10_pct_nav: 105.87
 master_fund: "Principal Asia Pacific Dynamic Income Fund"
 master_isin: "MYU1002DP005"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/ssf, geo/asia-pacific, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL APDI
@@ -43,6 +43,9 @@ _Principal Asia Pacific Dynamic Income Equity Fund_
 > - **จัดตั้ง:** 2011-12-20 · **จดทะเบียน:** 2012-09-11
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 24.2429 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

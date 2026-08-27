@@ -23,7 +23,7 @@ fund_size: 7065617.48
 holdings_count: 10
 top10_pct_nav: 99.33
 master_fund: "Man GlInGd Opports DYV USD Acc"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # LHGIGORMF
@@ -41,6 +41,9 @@ _LH GLOBAL INVESTMENT GRADE OPPORTUNITIES RMF FUND_
 > - **จัดตั้ง:** 2025-08-25 · **จดทะเบียน:** 2025-09-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.9456 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.20%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

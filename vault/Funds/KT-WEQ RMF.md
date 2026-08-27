@@ -25,7 +25,7 @@ holdings_count: 10
 top10_pct_nav: 101.22
 master_fund: "AB SICAV I - Low Volatility Equity Portfolio I Acc"
 master_isin: "LU0861579349"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-WEQ RMF
@@ -43,6 +43,9 @@ _KTAM World Equity RMF_
 > - **จัดตั้ง:** 2014-10-21 · **จดทะเบียน:** 2014-11-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.2362 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.56%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

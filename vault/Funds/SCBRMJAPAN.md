@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 104.9
 master_fund: "GS Japan Equity Ptnrs I Acc JPY (Snap)"
 master_isin: "LU1217871059"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMJAPAN
@@ -43,6 +43,9 @@ _SCB Japan Active Equity RMF_
 > - **จัดตั้ง:** 2022-07-27 · **จดทะเบียน:** 2022-08-17
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 18.2148 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

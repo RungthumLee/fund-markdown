@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 11807531.89
 holdings_count: 19
 top10_pct_nav: 71.2
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # TLDIVEQ-D
@@ -41,6 +41,9 @@ _TALIS DIVIDEND STOCK EQUITY FUND-D_
 > - **จัดตั้ง:** 2018-02-14 · **จดทะเบียน:** 2018-03-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0003 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 19 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.35%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ master_fund: "Xtrackers Artificial Intelligence & Big Data UCITS ETF 1C"
 master_isin: "IE00BGV5VN51"
 peer_group: "Technology Equity"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, theme/technology/ai-robotics, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TAIRMF
@@ -45,6 +45,9 @@ _TISCO AI & Big Data RMF_
 > - **จัดตั้ง:** 2024-08-20 · **จดทะเบียน:** 2024-09-25
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 15.253 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.22%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

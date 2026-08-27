@@ -25,7 +25,7 @@ holdings_count: 58
 top10_pct_nav: 103.78
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t1, conc/focused, fx/fully-hedged, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t1, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-IAA
@@ -43,6 +43,9 @@ _AIA Combined Aggressive Allocation Fund_
 > - **จัดตั้ง:** 2022-01-26 · **จดทะเบียน:** 2022-04-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.3335 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

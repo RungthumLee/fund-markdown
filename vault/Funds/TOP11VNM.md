@@ -23,7 +23,7 @@ fund_size: 195208911.31
 holdings_count: 13
 top10_pct_nav: 85.75
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, conc/ultra-concentrated, fx/unhedged, struct/direct, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, conc/ultra-concentrated, fx/unhedged, struct/direct, use/accumulate]
 ---
 
 # TOP11VNM
@@ -41,6 +41,9 @@ _TOP 11 VIETNAM FUND_
 > - **จัดตั้ง:** 2026-01-22 · **จดทะเบียน:** 2026-02-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.9063 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.02%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

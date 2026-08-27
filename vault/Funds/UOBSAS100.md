@@ -24,7 +24,7 @@ fund_size: 187081746.56
 holdings_count: 46
 top10_pct_nav: 65.14
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, use/accumulate]
 ---
 
 # UOBSAS100
@@ -42,6 +42,9 @@ _UOB Smart Active SET 100 Fund_
 > - **จัดตั้ง:** 2005-04-27 · **จดทะเบียน:** 2005-05-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 38.347 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 46 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.01%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

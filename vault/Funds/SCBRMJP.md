@@ -25,7 +25,7 @@ holdings_count: 83
 top10_pct_nav: 103.53
 master_fund: "iShares Core Nikkei 225 ETF"
 master_isin: "JP3027710007"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBRMJP
@@ -43,6 +43,9 @@ _SCB JAPAN EQUITY RMF_
 > - **จัดตั้ง:** 2015-10-09 · **จดทะเบียน:** 2015-11-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 34.7546 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

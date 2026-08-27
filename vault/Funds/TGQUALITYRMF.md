@@ -27,7 +27,7 @@ master_fund: "iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc)"
 master_isin: "IE00BP3QZ601"
 peer_group: "Global Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TGQUALITYRMF
@@ -45,6 +45,9 @@ _TISCO Global Quality Equity RMF_
 > - **จัดตั้ง:** 2024-04-17 · **จดทะเบียน:** 2024-05-09
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.2614 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.10%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

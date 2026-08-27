@@ -25,7 +25,7 @@ holdings_count: 56
 top10_pct_nav: 60.88
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # TW-E20
@@ -43,6 +43,9 @@ _TISCO Wealth Conservative E20 Fund_
 > - **จัดตั้ง:** 2010-01-22 · **จดทะเบียน:** 2010-02-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.7266 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

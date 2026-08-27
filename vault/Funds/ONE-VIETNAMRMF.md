@@ -24,7 +24,7 @@ fund_size: 125758261.21
 holdings_count: 14
 top10_pct_nav: 100.45
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ONE-VIETNAMRMF
@@ -42,6 +42,9 @@ _ONE VIETNAM EQUITY RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2021-06-15 · **จดทะเบียน:** 2021-11-12
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 7.2719 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 14 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

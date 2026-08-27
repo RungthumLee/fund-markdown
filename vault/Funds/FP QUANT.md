@@ -23,7 +23,7 @@ holdings_count: 43
 top10_pct_nav: 60.96
 peer_group: "China Equity"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/unhedged, struct/direct, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/unhedged, struct/direct, use/accumulate]
 ---
 
 # FP QUANT
@@ -41,6 +41,9 @@ _First Plus China Equity Quantamental Alpha Fund_
 > - **จัดตั้ง:** 2026-05-06 · **จดทะเบียน:** 2026-05-26
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.7189 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · พอร์ตถือราว 43 หลักทรัพย์
 
 ## 1. ข้อมูลทั่วไป
 

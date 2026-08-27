@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 1251654048.76
 holdings_count: 44
 top10_pct_nav: 105.84
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBGA
@@ -41,6 +41,9 @@ _SCB Global Allocation_
 > - **จัดตั้ง:** 2021-09-28 · **จดทะเบียน:** 2023-08-23
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 12.4274 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ master_fund: "iShares MSCI India UCITS ETF USD Acc"
 master_isin: "IE00BZCQB185"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, geo/india, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TCIRMF
@@ -45,6 +45,9 @@ _TISCO China India Retirement Fund_
 > - **จัดตั้ง:** 2007-12-11 · **จดทะเบียน:** 2007-12-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.7408 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 8 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.66%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ holdings_count: 9
 top10_pct_nav: 96.82
 master_fund: "Schroder ISF Glb Crdt Inc C Dis USD M"
 master_isin: "LU1514167219"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KT-GCINCOME
@@ -42,6 +42,9 @@ _KTAM Global Credit Income Fund_
 > - **จัดตั้ง:** 2017-12-14 · **จดทะเบียน:** 2018-01-24
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 10.5011 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

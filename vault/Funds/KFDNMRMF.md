@@ -25,7 +25,7 @@ holdings_count: 37
 top10_pct_nav: 45.46
 peer_group: "Equity General"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย ปีติ ประติพัทธิ์พงษ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFDNMRMF
@@ -43,6 +43,9 @@ _Krungsri Dynamic RMF_
 > - **จัดตั้ง:** 2018-08-27 · **จดทะเบียน:** 2018-11-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.6286 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 37 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.34%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

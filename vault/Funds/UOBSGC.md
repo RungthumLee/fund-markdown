@@ -26,7 +26,7 @@ top10_pct_nav: 100.83
 master_fund: "United Greater China T SGD Acc"
 master_isin: "SGXZ53633806"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # UOBSGC
@@ -44,6 +44,9 @@ _UOB Smart Greater China_
 > - **จัดตั้ง:** 2007-10-31 · **จดทะเบียน:** 2007-12-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 18.6427 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

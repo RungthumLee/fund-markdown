@@ -25,7 +25,7 @@ holdings_count: 41
 top10_pct_nav: 63.94
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พักตร์พริ้ง พู่ไพจิตรกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # K-GROWTH
@@ -43,6 +43,9 @@ _K Growth Dividend Fund_
 > - **จัดตั้ง:** 2007-06-05 · **จดทะเบียน:** 2007-06-28
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.8744 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 41 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.06%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

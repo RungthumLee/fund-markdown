@@ -24,7 +24,7 @@ fund_size: 1393908877.65
 holdings_count: 19
 top10_pct_nav: 85.49
 peer_group: "Money Market - Government"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t5, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t5, struct/direct, style/active, use/park-cash]
 ---
 
 # BCAP-MONEY
@@ -42,6 +42,9 @@ _BCAP Money Market Fund_
 > - **จัดตั้ง:** 2022-09-19 · **จดทะเบียน:** 2022-10-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.5332 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.20%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

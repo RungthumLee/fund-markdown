@@ -24,7 +24,7 @@ fund_size: 170112980.73
 holdings_count: 22
 top10_pct_nav: 105.85
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # MVIET
@@ -42,6 +42,9 @@ _MFC Vietnam Opportunities Fund_
 > - **จัดตั้ง:** 2020-09-15 · **จดทะเบียน:** 2022-04-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.2565 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 22 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

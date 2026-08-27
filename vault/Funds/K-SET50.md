@@ -25,7 +25,7 @@ holdings_count: 52
 top10_pct_nav: 58.53
 peer_group: "SET 50 Index Fund"
 fund_managers: ["น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, use/accumulate]
 ---
 
 # K-SET50
@@ -43,6 +43,9 @@ _K SET 50 Index  Fund_
 > - **จัดตั้ง:** 2005-03-22 · **จดทะเบียน:** 2005-04-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 42.2648 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 52 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.64%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

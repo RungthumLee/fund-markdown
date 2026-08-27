@@ -26,7 +26,7 @@ top10_pct_nav: 104.77
 master_fund: "CSOP ETF Series - CSOP FTSE China A50 ETF"
 peer_group: "China Equity - A Shares"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # K-CHX
@@ -44,6 +44,9 @@ _K Chinese Equity Index Fund_
 > - **จัดตั้ง:** 2015-01-29 · **จดทะเบียน:** 2015-09-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.8168 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.70%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

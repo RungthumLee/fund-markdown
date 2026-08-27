@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 134747.32
 holdings_count: 34
 top10_pct_nav: 60.98
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KKP SELECT FUND
@@ -41,6 +41,9 @@ _KKP SELECT EQUITY FUND_
 > - **จัดตั้ง:** 2004-10-04 · **จดทะเบียน:** 2004-10-22
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 23.3439 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 34 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.33%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

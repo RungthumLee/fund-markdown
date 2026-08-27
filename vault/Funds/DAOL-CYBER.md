@@ -24,7 +24,7 @@ fund_size: 327746489.44
 holdings_count: 24
 top10_pct_nav: 103.83
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย วงศกร เหมพันธ์"]
-tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # DAOL-CYBER
@@ -42,6 +42,9 @@ _DAOL NEXT GENERATION INTERNET FUND_
 > - **จัดตั้ง:** 2020-12-02 · **จดทะเบียน:** 2021-01-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.3546 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 24 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

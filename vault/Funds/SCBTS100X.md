@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 321676234.88
 holdings_count: 90
 top10_pct_nav: 55.1
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, use/accumulate]
 ---
 
 # SCBTS100X
@@ -41,6 +41,9 @@ _SCB SET100FF Index Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 14.1423 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 90 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.66%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 6012069537.78
 holdings_count: 42
 top10_pct_nav: 104.63
 peer_group: "US Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # AIA-US500
@@ -42,6 +42,9 @@ _AIA US500 Equity  Fund_
 > - **จัดตั้ง:** 2020-10-28 · **จดทะเบียน:** 2021-03-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.2613 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · พอร์ตถือราว 42 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.06%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

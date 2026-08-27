@@ -26,7 +26,7 @@ top10_pct_nav: 107.65
 master_fund: "Global X Japan Tech Top 20 ETF"
 peer_group: "Japan Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t1, fx/partially-hedged, struct/feeder, style/passive, geo/japan, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t1, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # X-JPTOPTECH
@@ -44,6 +44,9 @@ _XSpring Japan Equity Top Technology_
 > - **จัดตั้ง:** 2026-03-18 · **จดทะเบียน:** 2026-03-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.3909 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

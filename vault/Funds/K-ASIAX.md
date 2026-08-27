@@ -26,7 +26,7 @@ top10_pct_nav: 124.77
 master_fund: "iShares MSCI All Country Asia ex Japan ETF"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # K-ASIAX
@@ -44,6 +44,9 @@ _K Asia Equity Passive Fund_
 > - **จัดตั้ง:** 2021-06-21 · **จดทะเบียน:** 2021-07-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5556 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.67%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

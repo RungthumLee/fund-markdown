@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 38765517.11
 holdings_count: 43
 top10_pct_nav: 63.73
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # SCBPMOFUND
@@ -41,6 +41,9 @@ _SCB PERMPOL MUNKHONG OPEN END FUND_
 > - **จัดตั้ง:** 1995-03-24 · **จดทะเบียน:** 1995-05-04
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 10.2199 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 43 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.03%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

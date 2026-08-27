@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 120.54
 master_fund: "ChinaAMC CSI 500 Index Enhanced Fund"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย ธนัย ลิขิตชัยกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # MCMIDSMALL
@@ -43,6 +43,9 @@ _MFC China Mid-Small Equity Fund_
 > - **จัดตั้ง:** 2026-01-21 · **จดทะเบียน:** 2026-05-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.1514 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

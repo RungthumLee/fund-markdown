@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1151382246.73
 holdings_count: 34
 top10_pct_nav: 85.29
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/concentrated, struct/direct, style/passive, style/dividend, geo/thailand, theme/energy, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/concentrated, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # PRINCIPAL EPIF
@@ -41,6 +41,9 @@ _Principal Energy and Petrochemical Index Fund_
 > - **จัดตั้ง:** 2008-07-11 · **จดทะเบียน:** 2008-08-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.6952 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 34 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

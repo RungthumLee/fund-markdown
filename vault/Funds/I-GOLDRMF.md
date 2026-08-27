@@ -26,7 +26,7 @@ top10_pct_nav: 103.18
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # I-GOLDRMF
@@ -44,6 +44,9 @@ _MFC International Gold Retirement  Fund_
 > - **จัดตั้ง:** 2010-04-12 · **จดทะเบียน:** 2010-05-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 26.4804 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.97%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

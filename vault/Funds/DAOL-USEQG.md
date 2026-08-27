@@ -26,7 +26,7 @@ top10_pct_nav: 102.49
 master_fund: "Baillie Gifford WW US Equity Gr B USD"
 master_isin: "IE00B8HW2209"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-USEQG
@@ -44,6 +44,9 @@ _DAOL US EQUITY GROWTH FUND_
 > - **จัดตั้ง:** 2024-09-30 · **จดทะเบียน:** 2024-10-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.5196 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

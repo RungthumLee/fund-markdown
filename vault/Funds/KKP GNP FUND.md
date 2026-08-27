@@ -24,7 +24,7 @@ fund_size: 6646383802.82
 holdings_count: 4
 top10_pct_nav: 100.49
 master_fund: "Capital Group New Pers (LUX) B"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # KKP GNP FUND
@@ -42,6 +42,9 @@ _KKP GLOBAL NEW PERSPECTIVE FUND_
 > - **จัดตั้ง:** 2015-11-20 · **จดทะเบียน:** 2015-12-04
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 25.6125 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 26
 top10_pct_nav: 104.37
 master_fund: "MS INVF US Growth Z"
 master_isin: "LU0360477805"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBUSA
@@ -43,6 +43,9 @@ _SCB US Active Equity Fund_
 > - **จัดตั้ง:** 2020-12-02 · **จดทะเบียน:** 2021-01-19
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 8.3576 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

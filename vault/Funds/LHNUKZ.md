@@ -23,7 +23,7 @@ fund_size: 191421230.8
 holdings_count: 17
 top10_pct_nav: 105.9
 master_fund: "Range Nuclear Renaissance ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHNUKZ
@@ -41,6 +41,9 @@ _LH NUCLEAR ENERGY FUND_
 > - **จัดตั้ง:** 2025-09-09 · **จดทะเบียน:** 2025-09-30
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 9.5539 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.65%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

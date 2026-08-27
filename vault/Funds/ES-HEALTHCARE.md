@@ -27,7 +27,7 @@ master_fund: "Janus Henderson Glb Life Scn I2 USD"
 master_isin: "IE0002141913"
 peer_group: "Health Care"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, geo/world, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-HEALTHCARE
@@ -45,6 +45,9 @@ _Eastspring Global Healthcare Fund_
 > - **จัดตั้ง:** 2015-06-18 · **จดทะเบียน:** 2015-07-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.7293 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

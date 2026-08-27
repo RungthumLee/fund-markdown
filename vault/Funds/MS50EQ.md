@@ -24,7 +24,7 @@ fund_size: 20799907.26
 holdings_count: 52
 top10_pct_nav: 59.11
 fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # MS50EQ
@@ -42,6 +42,9 @@ _MFC SET 50 Equity Fund_
 > - **จัดตั้ง:** 2017-11-17 · **จดทะเบียน:** 2018-05-03
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.5367 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 52 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

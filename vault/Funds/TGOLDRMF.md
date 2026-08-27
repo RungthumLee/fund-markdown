@@ -27,7 +27,7 @@ master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 peer_group: "Commodities Precious Metals"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TGOLDRMF
@@ -45,6 +45,9 @@ _TISCO Gold Retirement Fund_
 > - **จัดตั้ง:** 2011-10-21 · **จดทะเบียน:** 2011-11-29
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 18.525 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.38%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

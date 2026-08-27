@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 99.05
 master_fund: "PineBridge India Equity A5CP"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ONE-INDIAOPP
@@ -43,6 +43,9 @@ _ONE INDIA OPPORTUNITY FUND_
 > - **จัดตั้ง:** 2018-02-16 · **จดทะเบียน:** 2018-03-15
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 8.6362 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

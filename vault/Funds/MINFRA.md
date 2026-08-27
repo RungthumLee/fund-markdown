@@ -26,7 +26,7 @@ top10_pct_nav: 101.59
 master_fund: "KBI Glb Sust Infras D EUR Acc"
 master_isin: "IE00BJ5JS448"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # MINFRA
@@ -44,6 +44,9 @@ _MFC Global Sustainable Infrastructure Fund_
 > - **จัดตั้ง:** 2022-07-18 · **จดทะเบียน:** 2022-08-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.375 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.01%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

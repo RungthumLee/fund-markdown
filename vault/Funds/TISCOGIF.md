@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.2
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, theme/infrastructure, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # TISCOGIF
@@ -43,6 +43,9 @@ _TISCO Global Infrastructure Equity Fund_
 > - **จัดตั้ง:** 2017-07-17 · **จดทะเบียน:** 2017-08-09
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.9677 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 6 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.88%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 555257320.94
 holdings_count: 38
 top10_pct_nav: 52.98
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, theme/financials, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # M-RMF
@@ -42,6 +42,9 @@ _MONEY PLUS RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2001-12-17 · **จดทะเบียน:** 2001-12-25
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.5489 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

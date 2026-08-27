@@ -26,7 +26,7 @@ master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, compliance/trigger-fund, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, compliance/trigger-fund, use/accumulate]
 ---
 
 # TISCOC21
@@ -44,6 +44,9 @@ _TISCO China Trigger 8% Fund 21_
 > - **จัดตั้ง:** 2015-05-11 · **จดทะเบียน:** 2015-05-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 5.8624 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -21,7 +21,7 @@ nav: 8.3647
 nav_date: "2026-08-25"
 fund_size: 134716650.11
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/direct, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # ASP-GQG 3M3
@@ -39,6 +39,9 @@ _Asset Plus Global Quality Growth Equity Fund 3M3_
 > - **จัดตั้ง:** 2026-06-10 · **จดทะเบียน:** 2026-07-03
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.3647 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 5.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

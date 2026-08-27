@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 137209457.82
 holdings_count: 38
 top10_pct_nav: 56.33
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHGSELECT
@@ -40,6 +40,9 @@ _LH GLOBAL EQUITY SELECT FUND_
 > - **จัดตั้ง:** 2025-05-20 · **จดทะเบียน:** 2025-07-22
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.2345 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 38 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.47%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

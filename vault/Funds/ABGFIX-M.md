@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 94.82
 master_fund: "abrdn-Short Dtd Enh Inc Z Acc USD"
 master_isin: "LU2628680014"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABGFIX-M
@@ -43,6 +43,9 @@ _abrdn Global Enhanced Fixed Income Fund_
 > - **จัดตั้ง:** 2023-11-08 · **จดทะเบียน:** 2023-12-04
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.6078 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.70%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

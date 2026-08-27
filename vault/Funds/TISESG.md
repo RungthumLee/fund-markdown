@@ -25,7 +25,7 @@ holdings_count: 23
 top10_pct_nav: 66.57
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "นาย ยศวสุสุธารัตนชัยพร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # TISESG
@@ -43,6 +43,9 @@ _TISCO ESG Investment Fund_
 > - **จัดตั้ง:** 2015-09-17 · **จดทะเบียน:** 2015-10-21
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 15.9678 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 23 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.40%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

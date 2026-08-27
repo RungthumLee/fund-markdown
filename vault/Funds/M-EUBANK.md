@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 131.96
 master_fund: "iShares STOXX Europe 600 Banks UCITS ETF (DE)"
 master_isin: "DE000A0F5UJ7"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/europe, theme/financials, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # M-EUBANK
@@ -43,6 +43,9 @@ _MFC European Banks Fund_
 > - **จัดตั้ง:** 2022-02-03 · **จดทะเบียน:** 2022-02-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 32.8434 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.44%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

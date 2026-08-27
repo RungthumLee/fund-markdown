@@ -24,7 +24,7 @@ fund_size: 229501085.13
 holdings_count: 23
 top10_pct_nav: 86.19
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # M-PROP RMF
@@ -42,6 +42,9 @@ _MFC Smart Property Retirement Fund_
 > - **จัดตั้ง:** 2016-04-26 · **จดทะเบียน:** 2016-08-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.8341 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 113696287.16
 master_fund: "Roundhill Memory ETF"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/active, theme/technology/semiconductor, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate, audience/restricted]
 ---
 
 # ASP-MEM
@@ -40,6 +40,9 @@ _Asset Plus Memory Chip Equity Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2026-07-01 · **จดทะเบียน:** 2026-07-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.8043 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.64%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

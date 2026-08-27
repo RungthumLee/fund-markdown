@@ -24,7 +24,7 @@ fund_size: 315159305.16
 holdings_count: 17
 top10_pct_nav: 97.68
 fund_managers: ["นาย คมสัน ผลานุสนธิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ASP-DIGIBLOCRMF
@@ -42,6 +42,9 @@ _Asset Plus Digital Blockchain RMF Fund_
 > - **จัดตั้ง:** 2022-01-17 · **จดทะเบียน:** 2022-01-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.5884 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 17 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.09%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

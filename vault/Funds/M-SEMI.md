@@ -21,7 +21,7 @@ nav: 8.7147
 nav_date: "2026-08-25"
 fund_size: 216121771.55
 master_fund: "Invesco Semiconductors ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # M-SEMI
@@ -39,6 +39,9 @@ _MFC Semiconductors Fund_
 > - **จัดตั้ง:** 2026-07-06 · **จดทะเบียน:** 2026-07-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.7147 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

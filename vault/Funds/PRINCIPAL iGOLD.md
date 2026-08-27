@@ -25,7 +25,7 @@ holdings_count: 24
 top10_pct_nav: 105.71
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL iGOLD
@@ -43,6 +43,9 @@ _Principal Gold Income Fund_
 > - **จัดตั้ง:** 2012-10-03 · **จดทะเบียน:** 2012-11-16
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 18.7253 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.41%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

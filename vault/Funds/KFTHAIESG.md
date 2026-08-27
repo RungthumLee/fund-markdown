@@ -25,7 +25,7 @@ holdings_count: 88
 top10_pct_nav: 45.95
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
 # KFTHAIESG
@@ -43,6 +43,9 @@ _Krungsri Enhanced SET Thailand ESG Fund_
 > - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-20
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.2342 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 88 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.89%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

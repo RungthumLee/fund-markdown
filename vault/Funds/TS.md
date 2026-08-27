@@ -24,7 +24,7 @@ fund_size: 13942583.83
 holdings_count: 36
 top10_pct_nav: 93.57
 fund_managers: ["น.ส. รัตติกาล พูนวศินมงคล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # TS
@@ -42,6 +42,9 @@ _Theerasub Open-end Fund_
 > - **จัดตั้ง:** 1994-03-04 · **จดทะเบียน:** 1994-04-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 1.6704 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 36 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.16%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 96
 top10_pct_nav: 104.25
 master_fund: "Invesco China Technology ETF"
 master_isin: "US46138E8003"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/china, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBCTECH
@@ -43,6 +43,9 @@ _SCB China Technology_
 > - **จัดตั้ง:** 2021-04-09 · **จดทะเบียน:** 2021-04-27
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 4.8285 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

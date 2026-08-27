@@ -23,7 +23,7 @@ fund_size: 221397830.41
 holdings_count: 6
 top10_pct_nav: 103.05
 master_fund: "iShares World Equity High Income Active UCITS ETF USD Acc"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KKP WIN-UH FUND
@@ -41,6 +41,9 @@ _KKP WORLD EQUITY HIGH INCOME FUND - UNHEDGED_
 > - **จัดตั้ง:** 2026-03-27 · **จดทะเบียน:** 2026-04-08
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 11.2546 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

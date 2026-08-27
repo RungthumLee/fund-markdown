@@ -24,7 +24,7 @@ holdings_count: 4
 top10_pct_nav: 198.61
 master_fund: "VFMVN30 ETF"
 master_isin: "VN0E1VFVN306"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # PRINCIPAL VNEI
@@ -42,6 +42,9 @@ _Principal Vietnam Equity Index Fund_
 > - **จัดตั้ง:** 2026-06-11 · **จดทะเบียน:** 2026-06-29
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 9.6331 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.52%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

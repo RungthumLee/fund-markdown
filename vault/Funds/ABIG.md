@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 101.59
 master_fund: "abrdn-Indian Equity Z Acc USD"
 master_isin: "LU0278911523"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ABIG
@@ -43,6 +43,9 @@ _abrdn India Growth Fund_
 > - **จัดตั้ง:** 2011-02-21 · **จดทะเบียน:** 2011-03-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 21.4596 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.03%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 101.4
 master_fund: "iShares MSCI Global Min Vol Factor ETF"
 master_isin: "US4642865251"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # MGMVOL
@@ -44,6 +44,9 @@ _MFC Global Minimum Volatility Fund_
 > - **จัดตั้ง:** 2022-03-23 · **จดทะเบียน:** 2022-04-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.5697 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

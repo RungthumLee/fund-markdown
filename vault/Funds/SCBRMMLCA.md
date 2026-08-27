@@ -24,7 +24,7 @@ fund_size: 114183883.95
 holdings_count: 2
 top10_pct_nav: 100.16
 master_fund: "กองทุนเปิดไทยพาณิชย์ Machine Learning China All Share เพื่อการเลี้ยงชีพ"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMMLCA
@@ -42,6 +42,9 @@ _SCB Machine Learning China All Share RMF_
 > - **จัดตั้ง:** 2021-08-18 · **จดทะเบียน:** 2021-09-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.0697 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.20%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

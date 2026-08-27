@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 23125523.57
 holdings_count: 22
 top10_pct_nav: 74.87
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHTOPPICK
@@ -41,6 +41,9 @@ _LH Top Pick Fund_
 > - **จัดตั้ง:** 2017-09-13 · **จดทะเบียน:** 2017-10-05
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 8.0436 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 22 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.30%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

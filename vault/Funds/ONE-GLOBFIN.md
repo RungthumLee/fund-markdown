@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 110.99
 master_fund: "BlackRock Global Funds - World Financials Fund"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/world, theme/financials, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ONE-GLOBFIN
@@ -43,6 +43,9 @@ _ONE GLOBAL FINANCIAL FUND_
 > - **จัดตั้ง:** 2018-01-26 · **จดทะเบียน:** 2018-02-14
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 19.3351 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

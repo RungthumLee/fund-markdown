@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 439621380.95
 holdings_count: 14
 top10_pct_nav: 92.77
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, geo/china, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # MEGA10AICHINA
@@ -41,6 +41,9 @@ _MEGA 10 ARTIFICIAL INTELLIGENCE CHINA FUND_
 > - **จัดตั้ง:** 2025-03-24 · **จดทะเบียน:** 2025-04-04
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 9.7313 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · พอร์ตถือราว 14 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

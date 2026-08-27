@@ -25,7 +25,7 @@ holdings_count: 126
 top10_pct_nav: 105.76
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, style/dividend, tax/ssf, theme/technology/semiconductor, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBSEMI
@@ -43,6 +43,9 @@ _SCB Semiconductor_
 > - **จัดตั้ง:** 2021-06-07 · **จดทะเบียน:** 2021-06-15
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 34.6774 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

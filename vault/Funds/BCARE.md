@@ -26,7 +26,7 @@ top10_pct_nav: 99.24
 master_fund: "Wellington Global Hlthcr Eq USD S Ac"
 master_isin: "IE00B0590K11"
 peer_group: "Health Care"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # BCARE
@@ -44,6 +44,9 @@ _Bualuang Global Health Care Fund_
 > - **จัดตั้ง:** 2007-07-16 · **จดทะเบียน:** 2007-08-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 45.5716 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

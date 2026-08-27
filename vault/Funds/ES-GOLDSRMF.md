@@ -27,7 +27,7 @@ master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 peer_group: "Commodities Precious Metals"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # ES-GOLDSRMF
@@ -45,6 +45,9 @@ _Eastspring Gold Singapore RMF_
 > - **จัดตั้ง:** 2011-01-18 · **จดทะเบียน:** 2011-02-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 23.3666 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.36%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

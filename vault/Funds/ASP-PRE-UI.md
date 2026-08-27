@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.15
 master_fund: "Brookfield Real Estate Income Trust Inc."
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, theme/real-estate, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # ASP-PRE-UI
@@ -43,6 +43,9 @@ _Asset Plus Private Real Estate Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2022-07-08 · **จดทะเบียน:** 2022-07-20
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.0402 (2026-08-17)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

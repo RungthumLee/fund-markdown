@@ -27,7 +27,7 @@ master_fund: "State Street SPDR S&P 500 ETF Trust"
 master_isin: "US78462F1030"
 peer_group: "US Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TUSRMF
@@ -45,6 +45,9 @@ _TISCO US Equity RMF_
 > - **จัดตั้ง:** 2013-09-27 · **จดทะเบียน:** 2013-11-29
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 32.5371 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.01%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

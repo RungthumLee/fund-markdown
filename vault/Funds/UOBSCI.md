@@ -26,7 +26,7 @@ top10_pct_nav: 100.27
 master_fund: "United China-India Dynamic Gr T SGD Acc"
 master_isin: "SGXZ43502095"
 peer_group: "Asia Pacific Ex Japan"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # UOBSCI
@@ -44,6 +44,9 @@ _UOB Smart China India Fund_
 > - **จัดตั้ง:** 2010-08-09 · **จดทะเบียน:** 2010-12-08
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.7319 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.79%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

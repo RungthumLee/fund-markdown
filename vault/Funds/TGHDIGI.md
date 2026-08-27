@@ -27,7 +27,7 @@ master_fund: "UBS Lux Dgtl Hlth Eq Fd I A2 acc"
 master_isin: "LU1805531933"
 peer_group: "Health Care"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TGHDIGI
@@ -45,6 +45,9 @@ _TISCO Global Digital Health Equity Fund_
 > - **จัดตั้ง:** 2019-02-01 · **จดทะเบียน:** 2019-03-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.1585 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.29%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

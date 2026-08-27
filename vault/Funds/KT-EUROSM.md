@@ -25,7 +25,7 @@ holdings_count: 8
 top10_pct_nav: 99.77
 master_fund: "Invesco Cnttl Eur Sm Cp Eq Z EUR Acc"
 master_isin: "LU1775962050"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-EUROSM
@@ -43,6 +43,9 @@ _KTAM European Small Cap Equity Fund_
 > - **จัดตั้ง:** 2014-01-30 · **จดทะเบียน:** 2014-03-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 21.1933 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

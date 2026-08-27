@@ -27,7 +27,7 @@ master_fund: "iShares Global Energy ETF"
 master_isin: "US4642873412"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GLOBALENERGY
@@ -45,6 +45,9 @@ _Eastspring Global Energy Fund_
 > - **จัดตั้ง:** 2007-10-01 · **จดทะเบียน:** 2007-11-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.3993 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · พอร์ตถือราว 10 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.64%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

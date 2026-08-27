@@ -26,7 +26,7 @@ top10_pct_nav: 104.38
 master_fund: "United China A-Shares Innovt T USD Acc"
 master_isin: "SGXZ16399552"
 peer_group: "China Equity - A Shares"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UCI-M
@@ -44,6 +44,9 @@ _United China A-Shares Innovation Fund_
 > - **จัดตั้ง:** 2020-11-06 · **จดทะเบียน:** 2020-11-20
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 7.8981 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

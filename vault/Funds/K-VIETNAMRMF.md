@@ -24,7 +24,7 @@ fund_size: 2692610738.76
 holdings_count: 4
 top10_pct_nav: 100.35
 master_fund: "กองทุนเปิดเค เวียดนาม หุ้นทุนเพื่อการเลี้ยงชีพ"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-VIETNAMRMF
@@ -42,6 +42,9 @@ _K Vietnam Equity RMF_
 > - **จัดตั้ง:** 2022-03-31 · **จดทะเบียน:** 2022-06-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.887 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

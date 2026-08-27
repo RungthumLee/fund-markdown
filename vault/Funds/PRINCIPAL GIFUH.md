@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 95.47
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
 master_isin: "IE00B3X5FG30"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, theme/infrastructure, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # PRINCIPAL GIFUH
@@ -43,6 +43,9 @@ _Principal Global Infrastructure Equity Fund Unhedged_
 > - **จัดตั้ง:** 2024-08-20 · **จดทะเบียน:** 2024-09-13
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 12.2534 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

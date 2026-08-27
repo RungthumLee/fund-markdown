@@ -26,7 +26,7 @@ top10_pct_nav: 105.95
 master_fund: "Lazard Japanese Strategic Eq A Acc JPY"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/japan, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-JP
@@ -44,6 +44,9 @@ _K Japan Equity Fund_
 > - **จัดตั้ง:** 2014-11-28 · **จดทะเบียน:** 2014-12-19
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 13.4911 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ master_fund: "Pictet - Robotics I USD"
 master_isin: "LU1279333329"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TROBOTICS
@@ -44,6 +44,9 @@ _TISCO Robotics Fund_
 > - **จัดตั้ง:** 2025-12-16 · **จดทะเบียน:** 2026-01-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.9147 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.39%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

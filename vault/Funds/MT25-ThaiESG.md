@@ -24,7 +24,7 @@ fund_size: 165294846.66
 holdings_count: 26
 top10_pct_nav: 63.83
 fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย พิพัฒน์ นรานันทน์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # MT25-ThaiESG
@@ -42,6 +42,9 @@ _MFC Equity Top 25 Thailand ESG Fund_
 > - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.1038 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 26 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

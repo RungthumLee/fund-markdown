@@ -27,7 +27,7 @@ master_fund: "BNY Mellon Global Credit USD W Acc"
 master_isin: "IE00BYZW5L40"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TGBOND
@@ -45,6 +45,9 @@ _TISCO Global Bond Fund_
 > - **จัดตั้ง:** 2023-12-26 · **จดทะเบียน:** 2024-01-19
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.1614 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

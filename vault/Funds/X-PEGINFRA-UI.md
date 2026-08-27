@@ -26,7 +26,7 @@ top10_pct_nav: 100.12
 master_fund: "Macquarie Infrastructure Fund"
 peer_group: "Miscellaneous"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, geo/world, theme/infrastructure, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # X-PEGINFRA-UI
@@ -44,6 +44,9 @@ _XSpring Private Equity Global Infrastructure Not for Retail Investors_
 > - **จัดตั้ง:** 2024-10-16 · **จดทะเบียน:** 2024-12-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7815 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

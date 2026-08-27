@@ -26,7 +26,7 @@ top10_pct_nav: 99.8
 master_fund: "JPM US Equity Premium Income Active UCITS ETF USD Dist"
 master_isin: "IE000U5MJOZ6"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # MUSPIN-H
@@ -44,6 +44,9 @@ _MFC US Equity Premium Income Fund Hedged_
 > - **จัดตั้ง:** 2024-12-26 · **จดทะเบียน:** 2025-01-23
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.4312 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.16%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

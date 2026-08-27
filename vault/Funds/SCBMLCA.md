@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 4307001.85
 holdings_count: 85
 top10_pct_nav: 36.96
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, geo/china, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBMLCA
@@ -41,6 +41,9 @@ _SCB Machine Learning China All Share_
 > - **จัดตั้ง:** 2020-07-23 · **จดทะเบียน:** 2020-12-24
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 8.3399 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 85 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.22%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

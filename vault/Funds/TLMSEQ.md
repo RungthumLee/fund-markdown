@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 98117241.21
 holdings_count: 27
 top10_pct_nav: 46.66
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # TLMSEQ
@@ -41,6 +41,9 @@ _TALIS MID-SMALL CAP EQUITY FUND_
 > - **จัดตั้ง:** 2016-12-09 · **จดทะเบียน:** 2016-12-20
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 12.2671 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 27 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.28%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

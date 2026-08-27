@@ -27,7 +27,7 @@ master_fund: "JPM Global Dividend C acc USD"
 master_isin: "LU0329202922"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GDIV-Acc
@@ -45,6 +45,9 @@ _EASTSPRING Global Dividend Equity Fund (Accumulation)_
 > - **จัดตั้ง:** 2023-06-13 · **จดทะเบียน:** 2023-06-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.9066 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.81%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

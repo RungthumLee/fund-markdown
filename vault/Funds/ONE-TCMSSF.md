@@ -24,7 +24,7 @@ fund_size: 26848904.9
 holdings_count: 50
 top10_pct_nav: 63.38
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ONE-TCMSSF
@@ -42,6 +42,9 @@ _ONE THAI CAPITAL MARKET SUPER SAVINGS FUND_
 > - **จัดตั้ง:** 2020-03-31 · **จดทะเบียน:** 2020-04-22
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.9133 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.77%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

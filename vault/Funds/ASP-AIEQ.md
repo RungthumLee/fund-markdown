@@ -24,7 +24,7 @@ fund_size: 985486470.77
 holdings_count: 62
 top10_pct_nav: 73.67
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-AIEQ
@@ -42,6 +42,9 @@ _Asset Plus Artificial Intelligence Equity Growth Fund_
 > - **จัดตั้ง:** 2017-08-11 · **จดทะเบียน:** 2017-09-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.4696 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 62 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.88%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

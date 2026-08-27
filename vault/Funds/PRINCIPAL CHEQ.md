@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 105.81
 master_fund: "Schroder ISF All China Equity C Acc USD"
 master_isin: "LU1831875205"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL CHEQ
@@ -43,6 +43,9 @@ _Principal China Equity Fund_
 > - **จัดตั้ง:** 2018-08-27 · **จดทะเบียน:** 2018-09-13
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 7.3736 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 44732378.88
 holdings_count: 11
 top10_pct_nav: 98.73
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-CHINATOP10M2
@@ -42,6 +42,9 @@ _ONE CHINA TOP 10M2 FUND_
 > - **จัดตั้ง:** 2022-10-17 · **จดทะเบียน:** 2023-02-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.2896 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.81%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

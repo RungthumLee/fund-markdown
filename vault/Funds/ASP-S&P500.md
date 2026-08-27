@@ -26,7 +26,7 @@ top10_pct_nav: 100.69
 master_fund: "State Street SPDR S&P 500 ETF Trust"
 master_isin: "US78462F1030"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # ASP-S&P500
@@ -44,6 +44,9 @@ _Asset Plus S&P 500 Fund_
 > - **จัดตั้ง:** 2009-06-18 · **จดทะเบียน:** 2009-07-17
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 70.8131 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.60%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

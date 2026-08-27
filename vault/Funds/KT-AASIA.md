@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 98.55
 master_fund: "Fidelity Pacific A-Dis-USD H"
 master_isin: "LU1235295612"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-AASIA
@@ -43,6 +43,9 @@ _KTAM All Asia Pacific Equity Fund_
 > - **จัดตั้ง:** 2015-06-25 · **จดทะเบียน:** 2015-07-23
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 20.83 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

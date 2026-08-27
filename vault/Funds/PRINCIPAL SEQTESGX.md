@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 6881981.49
 holdings_count: 33
 top10_pct_nav: 71.75
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # PRINCIPAL SEQTESGX
@@ -41,6 +41,9 @@ _Principal Selected Dividend Equity Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 13.8592 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 33 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

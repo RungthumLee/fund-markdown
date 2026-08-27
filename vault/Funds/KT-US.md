@@ -25,7 +25,7 @@ holdings_count: 10
 top10_pct_nav: 98.28
 master_fund: "AB American Growth I USD"
 master_isin: "LU0079475348"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/us, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KT-US
@@ -43,6 +43,9 @@ _KTAM US Growth Equity Fund_
 > - **จัดตั้ง:** 2015-02-06 · **จดทะเบียน:** 2015-03-03
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 25.4642 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

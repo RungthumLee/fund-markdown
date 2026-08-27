@@ -24,7 +24,7 @@ fund_size: 172592921.73
 holdings_count: 47
 top10_pct_nav: 72.71
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/dividend, use/income]
 ---
 
 # UOBSAS100D
@@ -42,6 +42,9 @@ _UOB Smart Active SET 100 Dividend Fund_
 > - **จัดตั้ง:** 2008-03-31 · **จดทะเบียน:** 2008-05-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.7846 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 47 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

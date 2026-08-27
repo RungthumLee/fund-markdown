@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 361656992.82
 holdings_count: 70
 top10_pct_nav: 82.94
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBGMLITE
@@ -40,6 +40,9 @@ _SCB Global Multi-Asset Core Portfolio Lite_
 > - **จัดตั้ง:** 2025-10-17 · **จดทะเบียน:** 2025-11-26
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 10.1143 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

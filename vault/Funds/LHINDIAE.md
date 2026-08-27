@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 8954229.36
 holdings_count: 13
 top10_pct_nav: 103.6
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHINDIAE
@@ -41,6 +41,9 @@ _LH INDIA-E Fund_
 > - **จัดตั้ง:** 2017-11-08 · **จดทะเบียน:** 2017-12-14
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.0041 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.29%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

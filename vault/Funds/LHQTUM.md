@@ -23,7 +23,7 @@ fund_size: 360535530.56
 holdings_count: 20
 top10_pct_nav: 104.45
 master_fund: "Defiance Quantum ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHQTUM
@@ -41,6 +41,9 @@ _LH QUANTUM TECHNOLOGY FUND_
 > - **จัดตั้ง:** 2025-03-13 · **จดทะเบียน:** 2025-07-30
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 14.7559 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.47%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

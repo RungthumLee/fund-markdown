@@ -26,7 +26,7 @@ top10_pct_nav: 104.53
 master_fund: "AIA Diversified Fixed Income Z USD"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # AIA-DFI
@@ -44,6 +44,9 @@ _AIA Diversified Fixed Income Fund_
 > - **จัดตั้ง:** 2020-12-22 · **จดทะเบียน:** 2021-03-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.4804 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.23%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

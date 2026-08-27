@@ -27,7 +27,7 @@ master_fund: "GQG Partners US Equity I USD Acc"
 master_isin: "IE00BN4GYG85"
 peer_group: "US Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/us, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KFUSSSF
@@ -45,6 +45,9 @@ _Krungsri US Equity SSF_
 > - **จัดตั้ง:** 2021-10-01 · **จดทะเบียน:** 2021-10-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 5.724 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

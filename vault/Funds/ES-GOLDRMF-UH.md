@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 100.16
 peer_group: "Commodities Precious Metals"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/passive, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # ES-GOLDRMF-UH
@@ -43,6 +43,9 @@ _Eastspring Gold Bullion RMF-Currency Unhedged Fund_
 > - **จัดตั้ง:** 2011-04-12 · **จดทะเบียน:** 2011-06-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 26.8416 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

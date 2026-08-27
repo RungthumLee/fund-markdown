@@ -26,7 +26,7 @@ top10_pct_nav: 106.12
 master_fund: "Fullerton Lux Asia Abs Alpha A USD Cap"
 master_isin: "LU0979878070"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # M-ASIA
@@ -44,6 +44,9 @@ _MFC Asia Alpha Fund_
 > - **จัดตั้ง:** 2022-11-24 · **จดทะเบียน:** 2022-12-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.5721 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

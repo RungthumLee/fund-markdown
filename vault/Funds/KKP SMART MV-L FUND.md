@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 26128.07
 holdings_count: 37
 top10_pct_nav: 50.18
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, use/accumulate]
 ---
 
 # KKP SMART MV-L FUND
@@ -41,6 +41,9 @@ _KKP SMART MINIMUM VOLATILITY-L FUND_
 > - **จัดตั้ง:** 2016-11-08 · **จดทะเบียน:** 2016-11-24
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 13.1583 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 37 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.94%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

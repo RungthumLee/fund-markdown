@@ -25,7 +25,7 @@ holdings_count: 56
 top10_pct_nav: 102.87
 master_fund: "Wellington Glbl Impact Bond USD S Ac"
 master_isin: "IE00BH3Q9069"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBGLOBFUND
@@ -43,6 +43,9 @@ _SCB GLOBAL BOND FUND_
 > - **จัดตั้ง:** 2012-05-28 · **จดทะเบียน:** 2012-07-30
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 8.8546 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.06%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

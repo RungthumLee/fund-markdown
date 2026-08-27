@@ -24,7 +24,7 @@ fund_size: 1686872961.0
 holdings_count: 36
 top10_pct_nav: 68.34
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # BKA
@@ -42,6 +42,9 @@ _Buakaew Open-end Fund_
 > - **จัดตั้ง:** 1993-10-18 · **จดทะเบียน:** 1993-11-03
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 47.1938 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 36 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.23
 peer_group: "Global Equity"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # TGHIDIV
@@ -43,6 +43,9 @@ _TISCO Global High Dividend Fund_
 > - **จัดตั้ง:** 2022-10-04 · **จดทะเบียน:** 2022-10-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.3011 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 6 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

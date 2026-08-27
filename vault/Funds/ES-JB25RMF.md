@@ -25,7 +25,7 @@ holdings_count: 42
 top10_pct_nav: 72.79
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # ES-JB25RMF
@@ -43,6 +43,9 @@ _Eastspring JUMBO 25 RMF_
 > - **จัดตั้ง:** 2004-11-17 · **จดทะเบียน:** 2004-12-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 42.5415 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 42 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.38%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

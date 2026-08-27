@@ -25,7 +25,7 @@ top10_pct_nav: 100.44
 master_fund: "PIMCO GIS Income E USD Inc"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-GDBONDUH
@@ -43,6 +43,9 @@ _K Global Dynamic Bond Unhedged Fund_
 > - **จัดตั้ง:** 2025-08-05 · **จดทะเบียน:** 2025-08-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.5027 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

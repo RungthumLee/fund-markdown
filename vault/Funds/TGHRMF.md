@@ -25,7 +25,7 @@ holdings_count: 7
 top10_pct_nav: 99.37
 peer_group: "Health Care"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/rmf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TGHRMF
@@ -43,6 +43,9 @@ _TISCO Global Healthcare RMF_
 > - **จัดตั้ง:** 2015-07-21 · **จดทะเบียน:** 2015-09-01
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 15.8383 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 7 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.20%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

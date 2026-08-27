@@ -27,7 +27,7 @@ master_fund: "Vanguard FTSE Emerging Markets Index Fund ETF Shares"
 master_isin: "US9220428588"
 peer_group: "Emerging Market"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TISCOGEM
@@ -45,6 +45,9 @@ _TISCO Global Emerging Markets Fund_
 > - **จัดตั้ง:** 2017-03-08 · **จดทะเบียน:** 2017-04-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.2145 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

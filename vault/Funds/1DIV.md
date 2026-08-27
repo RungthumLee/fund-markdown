@@ -24,7 +24,7 @@ fund_size: 282818365.06
 holdings_count: 31
 top10_pct_nav: 77.25
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # 1DIV
@@ -42,6 +42,9 @@ _ThaiDEX SET High Dividend ETF_
 > - **จัดตั้ง:** 2011-07-28 · **จดทะเบียน:** 2011-08-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.1409 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 31 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

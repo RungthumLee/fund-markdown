@@ -24,7 +24,7 @@ fund_size: 160442941.2
 holdings_count: 6
 top10_pct_nav: 100.13
 peer_group: "Commodities Precious Metals"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # BCAP-GOLD
@@ -42,6 +42,9 @@ _BCAP Gold  Fund_
 > - **จัดตั้ง:** 2020-12-18 · **จดทะเบียน:** 2020-12-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 24.8994 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.79%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

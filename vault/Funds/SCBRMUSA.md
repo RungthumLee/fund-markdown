@@ -25,7 +25,7 @@ holdings_count: 26
 top10_pct_nav: 103.41
 master_fund: "MS INVF US Growth Z"
 master_isin: "LU0360477805"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # SCBRMUSA
@@ -43,6 +43,9 @@ _SCB US Active Equity RMF_
 > - **จัดตั้ง:** 2022-03-03 · **จดทะเบียน:** 2022-06-14
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 18.5212 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

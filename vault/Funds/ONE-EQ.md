@@ -24,7 +24,7 @@ fund_size: 41466161.29
 holdings_count: 48
 top10_pct_nav: 64.62
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ONE-EQ
@@ -42,6 +42,9 @@ _ONE EQUITY FUND_
 > - **จัดตั้ง:** 1993-12-24 · **จดทะเบียน:** 1994-01-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.732 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 48 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

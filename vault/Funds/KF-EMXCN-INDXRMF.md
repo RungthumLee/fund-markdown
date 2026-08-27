@@ -27,7 +27,7 @@ master_fund: "iShares MSCI Emerging Markets ex China ETF"
 master_isin: "US46434G7640"
 peer_group: "Emerging Market"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # KF-EMXCN-INDXRMF
@@ -45,6 +45,9 @@ _Krungsri Emerging Markets ex China Index RMF_
 > - **จัดตั้ง:** 2024-11-14 · **จดทะเบียน:** 2024-11-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.5052 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

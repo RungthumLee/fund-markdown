@@ -27,7 +27,7 @@ master_fund: "iShares MSCI ACWI ETF"
 master_isin: "US4642882579"
 peer_group: "Global Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KF-WORLD-INDX
@@ -45,6 +45,9 @@ _Krungsri World Equity Index Fund_
 > - **จัดตั้ง:** 2023-02-16 · **จดทะเบียน:** 2023-11-29
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 14.9746 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

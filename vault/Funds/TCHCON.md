@@ -27,7 +27,7 @@ master_fund: "Global X MSCI China Consumer Discretionary ETF"
 master_isin: "US37950E4089"
 peer_group: "Global Equity - Consumer Goods and Services"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/china, theme/consumer, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TCHCON
@@ -45,6 +45,9 @@ _TISCO China Consumer Fund_
 > - **จัดตั้ง:** 2020-12-23 · **จดทะเบียน:** 2021-02-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 3.536 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

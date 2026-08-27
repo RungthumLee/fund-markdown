@@ -25,7 +25,7 @@ holdings_count: 21
 top10_pct_nav: 100.95
 peer_group: "Global Equity"
 fund_managers: ["นาย พิศิษฏ์ ไชยพร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, geo/world, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # K-GLOBE
@@ -43,6 +43,9 @@ _K Global Equity Fund_
 > - **จัดตั้ง:** 2006-06-27 · **จดทะเบียน:** 2006-08-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.4317 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 21 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

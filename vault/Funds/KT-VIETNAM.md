@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 658215244.57
 holdings_count: 24
 top10_pct_nav: 67.72
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, geo/vietnam, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KT-VIETNAM
@@ -41,6 +41,9 @@ _KTAM Vietnam Equity Fund_
 > - **จัดตั้ง:** 2022-06-28 · **จดทะเบียน:** 2022-07-15
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 9.5372 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 24 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.19%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 110.07
 master_fund: "AZ MA AZ Islmc MAMG Glb Sukuk G-USD Acc"
 master_isin: "LU1435409286"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย อรวิทย์ บุญชม"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # M-SUKUK
@@ -44,6 +44,9 @@ _MFC Global Sukuk Fund_
 > - **จัดตั้ง:** 2018-05-11 · **จดทะเบียน:** 2018-08-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.261 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.92%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

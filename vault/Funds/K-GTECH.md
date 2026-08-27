@@ -26,7 +26,7 @@ top10_pct_nav: 110.91
 master_fund: "Threadneedle (Lux) - Global Technology"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-GTECH
@@ -44,6 +44,9 @@ _K Global Technology Equity Fund_
 > - **จัดตั้ง:** 2023-03-24 · **จดทะเบียน:** 2023-10-03
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 24.9182 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.72%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

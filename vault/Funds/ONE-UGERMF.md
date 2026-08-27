@@ -24,7 +24,7 @@ fund_size: 1732412817.45
 holdings_count: 8
 top10_pct_nav: 100.74
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ONE-UGERMF
@@ -42,6 +42,9 @@ _ONE ULTIMATE GLOBAL EQUITY RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2016-11-28 · **จดทะเบียน:** 2016-12-21
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 18.4903 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 8 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.28%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

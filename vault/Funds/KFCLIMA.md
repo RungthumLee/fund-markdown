@@ -27,7 +27,7 @@ master_fund: "DWS Invest ESG Climate Opps USD TFC"
 master_isin: "LU1885667664"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFCLIMA
@@ -45,6 +45,9 @@ _Krungsri ESG Climate Tech Fund_
 > - **จัดตั้ง:** 2021-03-04 · **จดทะเบียน:** 2021-03-18
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.7244 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

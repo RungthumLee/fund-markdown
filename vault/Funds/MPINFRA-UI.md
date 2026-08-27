@@ -26,7 +26,7 @@ top10_pct_nav: 108.72
 master_fund: "Ares Core Infrastructure Fund"
 master_isin: "US04020E1073"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t1, fx/discretionary, struct/feeder, theme/infrastructure, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t1, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # MPINFRA-UI
@@ -44,6 +44,9 @@ _MFC Core Private Infrastructure Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2025-03-06 · **จดทะเบียน:** 2025-03-24
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.0998 (2026-07-31)**
+
+> [!tip] อ่านง่าย ๆ
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

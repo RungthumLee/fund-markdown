@@ -25,7 +25,7 @@ holdings_count: 137
 top10_pct_nav: 104.05
 master_fund: "Amundi Core Stoxx Europe 600 UCITS ETF Acc"
 master_isin: "LU0908500753"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, geo/europe, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # SCBEUEQFUND
@@ -43,6 +43,9 @@ _SCB EUROPEAN EQUITY FUND_
 > - **จัดตั้ง:** 2014-02-04 · **จดทะเบียน:** 2014-02-26
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 14.5111 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

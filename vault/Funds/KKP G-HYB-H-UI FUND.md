@@ -24,7 +24,7 @@ fund_size: 165618007.13
 holdings_count: 9
 top10_pct_nav: 100.65
 master_fund: "Janus Henderson Hrzn Glb HY Bd F2 USD"
-tags: [fund, sec-data, asset/fixed-income, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KKP G-HYB-H-UI FUND
@@ -42,6 +42,9 @@ _KKP GLOBAL HIGH YIELD BOND FUND – HEDGED NOT FOR RETAIL  INVESTORS_
 > - **จัดตั้ง:** 2021-03-30 · **จดทะเบียน:** 2021-05-14
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 9.9501 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.95%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

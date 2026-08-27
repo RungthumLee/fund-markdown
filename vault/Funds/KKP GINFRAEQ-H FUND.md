@@ -24,7 +24,7 @@ fund_size: 2295545314.28
 holdings_count: 17
 top10_pct_nav: 103.22
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, theme/infrastructure, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # KKP GINFRAEQ-H FUND
@@ -42,6 +42,9 @@ _KKP GLOBAL INFRASTRUCTURE EQUITY FUND-HEDGED_
 > - **จัดตั้ง:** 2020-02-06 · **จดทะเบียน:** 2020-03-12
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 18.6278 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.14%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

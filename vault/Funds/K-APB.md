@@ -26,7 +26,7 @@ top10_pct_nav: 109.6
 master_fund: "LO Funds Asia Value Bond USD NA"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-APB
@@ -44,6 +44,9 @@ _K Asia Pacific Bond Fund_
 > - **จัดตั้ง:** 2017-11-22 · **จดทะเบียน:** 2017-12-07
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.4721 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.88%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

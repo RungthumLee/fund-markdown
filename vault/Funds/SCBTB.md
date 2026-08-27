@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 4828069976.69
 holdings_count: 39
 top10_pct_nav: 89.66
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # SCBTB
@@ -41,6 +41,9 @@ _SCB Thai Sustainability Bond Fund_
 > - **จัดตั้ง:** 2024-08-28 · **จดทะเบียน:** 2024-09-17
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 10.5162 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

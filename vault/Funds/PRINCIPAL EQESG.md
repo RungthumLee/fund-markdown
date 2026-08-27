@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 48922925.53
 holdings_count: 41
 top10_pct_nav: 56.28
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
 # PRINCIPAL EQESG
@@ -41,6 +41,9 @@ _Principal Equity ESG Fund_
 > - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-22
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 11.8801 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 41 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.84%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

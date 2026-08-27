@@ -21,7 +21,7 @@ nav_date: "2026-08-25"
 fund_size: 155630383.25
 master_fund: "Tortoise AI Infrastructure ETF"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/discretionary, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-AIINFRA
@@ -39,6 +39,9 @@ _DAOL AI INFRASTRUCTURE FUND_
 > - **จัดตั้ง:** 2026-06-19 · **จดทะเบียน:** 2026-07-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.1064 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 100.92
 master_fund: "EQT Nexus ENXF A EUR-Z"
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # K-GPEQ-UI
@@ -44,6 +44,9 @@ _K Global Private Equity Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2024-05-09 · **จดทะเบียน:** 2024-05-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.656 (2026-07-01)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.14%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

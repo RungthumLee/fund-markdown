@@ -24,7 +24,7 @@ fund_size: 2807686593.96
 holdings_count: 26
 top10_pct_nav: 85.77
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # M-PROP DIV
@@ -42,6 +42,9 @@ _MFC Property Dividend Fund_
 > - **จัดตั้ง:** 2013-08-21 · **จดทะเบียน:** 2013-10-18
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 11.135 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.22%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

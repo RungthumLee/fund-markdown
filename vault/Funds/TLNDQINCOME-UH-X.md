@@ -24,7 +24,7 @@ holdings_count: 2
 top10_pct_nav: 104.71
 master_fund: "JPM Nasdaq Equity Premium Income Active UCITS ETF USD Acc"
 master_isin: "IE000N6I8IU2"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # TLNDQINCOME-UH-X
@@ -42,6 +42,9 @@ _TALIS NASDAQ EQUITY PREMIUM INCOME FUND-UNHEDGE_
 > - **จัดตั้ง:** 2026-03-05 · **จดทะเบียน:** 2026-03-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0746 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

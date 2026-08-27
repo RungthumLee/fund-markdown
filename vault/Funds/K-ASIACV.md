@@ -25,7 +25,7 @@ holdings_count: 59
 top10_pct_nav: 107.0
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, use/accumulate]
 ---
 
 # K-ASIACV
@@ -43,6 +43,9 @@ _K Asia Controlled Volatility Fund_
 > - **จัดตั้ง:** 2020-08-11 · **จดทะเบียน:** 2020-08-27
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 9.3095 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.69%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 185502032.8
 holdings_count: 48
 top10_pct_nav: 26.53
 peer_group: "Equity Small - Mid Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/passive, use/accumulate]
 ---
 
 # BMSCG
@@ -42,6 +42,9 @@ _BCAP Mid Small CG ETF_
 > - **จัดตั้ง:** 2018-02-09 · **จดทะเบียน:** 2018-03-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.3056 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 48 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.46%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

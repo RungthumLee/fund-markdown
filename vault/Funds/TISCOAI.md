@@ -27,7 +27,7 @@ master_fund: "Xtrackers Artificial Intelligence & Big Data UCITS ETF 1C"
 master_isin: "IE00BGV5VN51"
 peer_group: "Technology Equity"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TISCOAI
@@ -45,6 +45,9 @@ _TISCO AI & Big Data Fund_
 > - **จัดตั้ง:** 2024-03-13 · **จดทะเบียน:** 2024-03-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.5227 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

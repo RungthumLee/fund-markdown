@@ -26,7 +26,7 @@ top10_pct_nav: 103.38
 master_fund: "Franklin Templeton Investment Funds SICAV - Templeton Asian Smaller Companies Fund"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/asia-pacific, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-ASIA
@@ -44,6 +44,9 @@ _K Asian Smaller Companies Equity Fund_
 > - **จัดตั้ง:** 2013-07-29 · **จดทะเบียน:** 2013-11-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.6837 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

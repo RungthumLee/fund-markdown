@@ -21,7 +21,7 @@ nav: 9.9591
 nav_date: "2026-08-25"
 fund_size: 32002156.96
 master_fund: "iShares MSCI Europe Information Technology Sector UCITS ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/discretionary, struct/feeder, style/passive, geo/europe, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-EUROPETECH
@@ -39,6 +39,9 @@ _DAOL EUROPE TECHNOLOGY FUND_
 > - **จัดตั้ง:** 2026-07-17 · **จดทะเบียน:** 2026-08-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.9591 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

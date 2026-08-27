@@ -24,7 +24,7 @@ fund_size: 2723573808.48
 holdings_count: 103
 top10_pct_nav: 43.66
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # BM70SSF
@@ -42,6 +42,9 @@ _Bualuang Mixed 70/30 Super Savings Fund_
 > - **จัดตั้ง:** 2020-05-08 · **จดทะเบียน:** 2020-06-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0476 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

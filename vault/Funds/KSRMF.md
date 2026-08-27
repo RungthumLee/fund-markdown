@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 381087093.05
 holdings_count: 39
 top10_pct_nav: 76.54
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, compliance/sharia, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, compliance/sharia, use/tax-saving]
 ---
 
 # KSRMF
@@ -41,6 +41,9 @@ _The Krung  Thai Shariah Retirement Mutual Fund_
 > - **จัดตั้ง:** 2006-10-30 · **จดทะเบียน:** 2006-12-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 24.5746 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 39 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

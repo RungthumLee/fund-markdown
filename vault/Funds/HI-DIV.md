@@ -24,7 +24,7 @@ fund_size: 80925567.26
 holdings_count: 66
 top10_pct_nav: 48.98
 fund_managers: ["นาย ศรุต สุทธิสำแดง", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # HI-DIV
@@ -42,6 +42,9 @@ _MFC Hi-Dividend Fund_
 > - **จัดตั้ง:** 2008-12-23 · **จดทะเบียน:** 2009-01-22
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 8.7649 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 66 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.27%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 29175070.04
 holdings_count: 13
 top10_pct_nav: 92.16
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, tax/rmf, geo/china, theme/technology/ai-robotics, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, tax/rmf, use/tax-saving]
 ---
 
 # MEGA10AICHINARMF
@@ -41,6 +41,9 @@ _MEGA 10 ARTIFICIAL INTELLIGENCE CHINA RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2025-03-25 · **จดทะเบียน:** 2025-04-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.5055 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

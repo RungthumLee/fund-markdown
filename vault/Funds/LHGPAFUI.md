@@ -23,7 +23,7 @@ fund_size: 29318772.72
 holdings_count: 9
 top10_pct_nav: 100.12
 master_fund: "Hamilton Lane Global Private Assets Fund"
-tags: [fund, sec-data, asset/alternative, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # LHGPAFUI
@@ -41,6 +41,9 @@ _LH GLOBAL PRIVATE ASSETS FUND NOT FOR RETAIL INVESTORS_
 > - **จัดตั้ง:** 2024-06-27 · **จดทะเบียน:** 2024-08-21
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.522 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

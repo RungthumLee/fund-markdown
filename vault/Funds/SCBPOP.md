@@ -25,7 +25,7 @@ holdings_count: 39
 top10_pct_nav: 102.53
 master_fund: "Fidelity Global Demographics Y-Acc-USD"
 master_isin: "LU0528228231"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBPOP
@@ -43,6 +43,9 @@ _SCB Global Sustainable Population Trend Fund_
 > - **จัดตั้ง:** 2017-10-12 · **จดทะเบียน:** 2017-11-07
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 15.0044 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.72%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

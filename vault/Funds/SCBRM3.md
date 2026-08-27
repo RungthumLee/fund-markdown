@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 4262193158.35
 holdings_count: 80
 top10_pct_nav: 55.22
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # SCBRM3
@@ -41,6 +41,9 @@ _SCB FLEXIBLE FUND RMF_
 > - **จัดตั้ง:** 2002-01-23 · **จดทะเบียน:** 2002-02-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 28.4069 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

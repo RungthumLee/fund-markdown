@@ -27,7 +27,7 @@ master_fund: "GS Europe CORE Equity I Acc EUR"
 master_isin: "LU0234682044"
 peer_group: "European Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "น.ส. วรดา ตันติสุนทร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-HEUROPE
@@ -45,6 +45,9 @@ _Krungsri Europe Equity Hedged Fund_
 > - **จัดตั้ง:** 2014-10-08 · **จดทะเบียน:** 2014-11-06
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 21.535 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

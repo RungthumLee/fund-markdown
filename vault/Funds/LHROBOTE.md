@@ -24,7 +24,7 @@ fund_size: 26144001.76
 holdings_count: 14
 top10_pct_nav: 102.48
 master_fund: "PICTET – ROBOTICS"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHROBOTE
@@ -42,6 +42,9 @@ _LH ROBOTICS-E FUND_
 > - **จัดตั้ง:** 2018-01-10 · **จดทะเบียน:** 2018-01-23
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 16.655 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.12%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

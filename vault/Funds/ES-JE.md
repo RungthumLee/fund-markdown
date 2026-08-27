@@ -27,7 +27,7 @@ master_fund: "NEXT FUNDS Nikkei 225 Exchange Traded Fund"
 master_isin: "JP3027650005"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-JE
@@ -45,6 +45,9 @@ _Eastspring Japan Equity Fund_
 > - **จัดตั้ง:** 2014-11-13 · **จดทะเบียน:** 2015-02-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 35.4752 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ master_fund: "JPMorgan Funds - Income Fund C (acc) USD"
 master_isin: "LU1041600427"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # ES-GSBOND
@@ -45,6 +45,9 @@ _EASTSPRING Global Smart Bond Fund_
 > - **จัดตั้ง:** 2020-01-09 · **จดทะเบียน:** 2020-01-23
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 9.7551 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.06%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

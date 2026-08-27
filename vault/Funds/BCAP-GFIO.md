@@ -24,7 +24,7 @@ fund_size: 240674576.66
 holdings_count: 48
 top10_pct_nav: 52.26
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GFIO
@@ -42,6 +42,9 @@ _BCAP Global Fixed Income Opportunity Fund_
 > - **จัดตั้ง:** 2019-09-20 · **จดทะเบียน:** 2020-05-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.8313 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

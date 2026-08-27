@@ -26,7 +26,7 @@ top10_pct_nav: 100.26
 master_fund: "United Global Healthcare SGD Acc"
 master_isin: "SG9999001176"
 peer_group: "Health Care"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/rmf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # UHCRMF
@@ -44,6 +44,9 @@ _United Global Healthcare RMF_
 > - **จัดตั้ง:** 2015-07-29 · **จดทะเบียน:** 2015-08-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.3474 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

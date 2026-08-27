@@ -24,7 +24,7 @@ fund_size: 39402038.11
 holdings_count: 36
 top10_pct_nav: 87.41
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย รุ่งโรจน์ นิลนพคุณ", "นาย อรวิทย์ บุญชม"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, compliance/sharia, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, compliance/sharia, use/accumulate]
 ---
 
 # MIF
@@ -42,6 +42,9 @@ _MFC Islamic Fund_
 > - **จัดตั้ง:** 2004-09-22 · **จดทะเบียน:** 2004-12-21
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 9.2728 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.67%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 100.28
 master_fund: "E.I. Sturdza Funds plc - Strategic Europe Quality Fund A EUR UH"
 master_isin: "IE00B5VJPM77"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ASP-EUROPE QUALITY
@@ -44,6 +44,9 @@ _Asset Plus Europe Quality Fund_
 > - **จัดตั้ง:** 2014-10-27 · **จดทะเบียน:** 2015-02-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.9338 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.88%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

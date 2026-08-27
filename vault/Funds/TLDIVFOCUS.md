@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 14311528.44
 holdings_count: 19
 top10_pct_nav: 70.49
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # TLDIVFOCUS
@@ -41,6 +41,9 @@ _TALIS DIVIDEND STOCK FOCUS FUND_
 > - **จัดตั้ง:** 2017-11-10 · **จดทะเบียน:** 2017-11-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.2716 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 19 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.42%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

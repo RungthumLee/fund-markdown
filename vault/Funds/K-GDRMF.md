@@ -26,7 +26,7 @@ top10_pct_nav: 108.03
 master_fund: "SPDR Gold Shares"
 peer_group: "Commodities Precious Metals"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-GDRMF
@@ -44,6 +44,9 @@ _K GOLD RMF_
 > - **จัดตั้ง:** 2009-12-09 · **จดทะเบียน:** 2009-12-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 30.5614 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

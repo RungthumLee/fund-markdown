@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1238461029.32
 holdings_count: 12
 top10_pct_nav: 99.42
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # UTSB
@@ -41,6 +41,9 @@ _United Thai Sustainable Bond Fund_
 > - **จัดตั้ง:** 2024-12-04 · **จดทะเบียน:** 2024-12-17
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 10.2144 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.49%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

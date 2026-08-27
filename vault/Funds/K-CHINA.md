@@ -26,7 +26,7 @@ top10_pct_nav: 104.47
 master_fund: "JPM China A dist USD"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/china, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # K-CHINA
@@ -44,6 +44,9 @@ _K China Equity Fund_
 > - **จัดตั้ง:** 2009-10-13 · **จดทะเบียน:** 2009-11-04
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 5.5126 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.43%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

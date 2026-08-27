@@ -24,7 +24,7 @@ fund_size: 29141259.73
 holdings_count: 6
 top10_pct_nav: 103.49
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/india, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ASP-INDIARMF
@@ -42,6 +42,9 @@ _Asset Plus India Dynamic Equity RMF Fund_
 > - **จัดตั้ง:** 2024-05-21 · **จดทะเบียน:** 2024-06-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.7868 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 6 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.17%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

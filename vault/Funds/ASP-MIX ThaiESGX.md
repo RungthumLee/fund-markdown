@@ -24,7 +24,7 @@ fund_size: 54333478.24
 holdings_count: 29
 top10_pct_nav: 58.68
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ปิยะณั คุ้มเมธา"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-MIX ThaiESGX
@@ -42,6 +42,9 @@ _Asset Plus Mixed Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.7646 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 2835029614.11
 holdings_count: 15
 top10_pct_nav: 101.31
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, geo/china, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # BCAP-CTECH
@@ -42,6 +42,9 @@ _BCAP China Technology  Fund_
 > - **จัดตั้ง:** 2020-11-18 · **จดทะเบียน:** 2020-12-03
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 4.216 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · พอร์ตถือราว 15 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

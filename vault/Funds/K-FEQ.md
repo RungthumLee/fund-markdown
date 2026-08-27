@@ -25,7 +25,7 @@ holdings_count: 53
 top10_pct_nav: 54.61
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # K-FEQ
@@ -43,6 +43,9 @@ _K Flexible Equity Fund_
 > - **จัดตั้ง:** 2000-03-17 · **จดทะเบียน:** 2000-04-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 79.9063 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

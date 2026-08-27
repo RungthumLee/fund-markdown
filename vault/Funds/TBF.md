@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 329095039.64
 holdings_count: 83
 top10_pct_nav: 50.42
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # TBF
@@ -41,6 +41,9 @@ _Thai Balanced Fund_
 > - **จัดตั้ง:** 1997-06-30 · **จดทะเบียน:** 1997-07-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.5545 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.23%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

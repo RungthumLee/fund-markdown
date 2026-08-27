@@ -26,7 +26,7 @@ top10_pct_nav: 99.01
 master_fund: "Fidelity Global Technology Y-Acc-USD"
 master_isin: "LU1560650563"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-INNOTECHSSF
@@ -44,6 +44,9 @@ _Bualuang Global Innovation & Technology Super Savings Fund_
 > - **จัดตั้ง:** 2022-04-05 · **จดทะเบียน:** 2022-04-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.1651 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1081241598.18
 holdings_count: 20
 top10_pct_nav: 82.59
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # TLMMF
@@ -41,6 +41,9 @@ _TALIS MONEY MARKET FUND_
 > - **จัดตั้ง:** 2016-11-29 · **จดทะเบียน:** 2016-12-09
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.0854 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.19%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

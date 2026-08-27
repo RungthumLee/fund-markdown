@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 14103439316.93
 holdings_count: 47
 top10_pct_nav: 75.17
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KTWC-GROWTH
@@ -41,6 +41,9 @@ _Krungthai World Class Growth_
 > - **จัดตั้ง:** 2023-06-06 · **จดทะเบียน:** 2023-08-16
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 13.2065 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.99%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

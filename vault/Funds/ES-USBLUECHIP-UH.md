@@ -27,7 +27,7 @@ master_fund: "T. Rowe Price US Blue Chip Eq I"
 master_isin: "LU0133088293"
 peer_group: "US Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/us, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-USBLUECHIP-UH
@@ -45,6 +45,9 @@ _Eastspring US Blue Chip Equity Fund-Unhedged_
 > - **จัดตั้ง:** 2025-07-08 · **จดทะเบียน:** 2025-07-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7177 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

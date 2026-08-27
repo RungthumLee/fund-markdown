@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 53278391.53
 holdings_count: 20
 top10_pct_nav: 103.08
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/direct, style/passive, tax/ssf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/direct, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # KKP CHINA-H FUND
@@ -41,6 +41,9 @@ _KKP CHINA FUND - HEDGED_
 > - **จัดตั้ง:** 2022-10-19 · **จดทะเบียน:** 2023-03-02
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 10.5882 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 20 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.39%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

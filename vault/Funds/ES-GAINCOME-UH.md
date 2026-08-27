@@ -26,7 +26,7 @@ master_fund: "Amundi Fds Inc Opps I2 USD C"
 master_isin: "LU1883840305"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GAINCOME-UH
@@ -44,6 +44,9 @@ _EASTSPRING Global Multi Asset Income-Unhedged_
 > - **จัดตั้ง:** 2025-10-09 · **จดทะเบียน:** 2025-10-22
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 11.285 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

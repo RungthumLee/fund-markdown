@@ -26,7 +26,7 @@ top10_pct_nav: 99.2
 master_fund: "Wellington Global Hlthcr Eq USD S Ac"
 master_isin: "IE00B0590K11"
 peer_group: "Health Care"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/rmf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # BCARERMF
@@ -44,6 +44,9 @@ _Bualuang Global Health Care RMF_
 > - **จัดตั้ง:** 2015-04-10 · **จดทะเบียน:** 2015-05-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.8849 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

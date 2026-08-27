@@ -24,7 +24,7 @@ fund_size: 11043137.01
 holdings_count: 40
 top10_pct_nav: 41.52
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย วิญญู ศรีวิริยานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # M-MIDSMALL
@@ -42,6 +42,9 @@ _MFC Mid Small Cap Fund_
 > - **จัดตั้ง:** 2015-03-12 · **จดทะเบียน:** 2015-04-08
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 15.9352 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 40 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

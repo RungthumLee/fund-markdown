@@ -24,7 +24,7 @@ fund_size: 759726194.16
 holdings_count: 10
 top10_pct_nav: 100.02
 peer_group: "Global Equity - Infrastructure"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/world, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # UINFRA
@@ -42,6 +42,9 @@ _United Global Sustainable Infrastructure Equity Fund_
 > - **จัดตั้ง:** 2022-01-24 · **จดทะเบียน:** 2022-07-20
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.8577 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 10 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

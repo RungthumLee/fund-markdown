@@ -27,7 +27,7 @@ master_fund: "State Street Financial Select Sector SPDR ETF"
 master_isin: "US81369Y6059"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/us, theme/financials, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TUSFIN
@@ -45,6 +45,9 @@ _TISCO US Financial Fund_
 > - **จัดตั้ง:** 2017-11-22 · **จดทะเบียน:** 2017-12-08
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 16.9395 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.29%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

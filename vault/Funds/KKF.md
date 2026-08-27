@@ -24,7 +24,7 @@ fund_size: 11267013.03
 holdings_count: 46
 top10_pct_nav: 85.73
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KKF
@@ -42,6 +42,9 @@ _KIATNAKIN  FUND_
 > - **จัดตั้ง:** 1994-05-03 · **จดทะเบียน:** 1995-05-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 3.3078 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 46 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.22%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

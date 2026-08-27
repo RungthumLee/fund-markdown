@@ -25,7 +25,7 @@ top10_pct_nav: 100.44
 master_fund: "CHINAAMC Hang Seng Biotech ETF"
 master_isin: "HK0000711199"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, geo/china, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-CHINABIO
@@ -43,6 +43,9 @@ _DAOL CHINA BIOTECH FUND_
 > - **จัดตั้ง:** 2026-01-13 · **จดทะเบียน:** 2026-01-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.8375 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

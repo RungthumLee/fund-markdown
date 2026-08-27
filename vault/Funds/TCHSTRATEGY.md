@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 101.49
 peer_group: "China Equity - A Shares"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # TCHSTRATEGY
@@ -42,6 +42,9 @@ _TISCO China Strategy Fund_
 > - **จัดตั้ง:** 2022-03-18 · **จดทะเบียน:** 2022-08-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.4716 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 10 หลักทรัพย์
 
 ## 1. ข้อมูลทั่วไป
 

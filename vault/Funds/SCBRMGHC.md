@@ -25,7 +25,7 @@ holdings_count: 80
 top10_pct_nav: 102.64
 master_fund: "Janus Henderson Glb Life Scn I2 USD"
 master_isin: "IE0002141913"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMGHC
@@ -43,6 +43,9 @@ _SCB GLOBAL HEALTH CARE RMF_
 > - **จัดตั้ง:** 2015-10-12 · **จดทะเบียน:** 2015-11-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.717 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

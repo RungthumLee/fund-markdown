@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 101.21
 master_fund: "Vanguard Total World Stock Index Fund ETF Shares"
 master_isin: "US9220427424"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLWORLD-X
@@ -42,6 +42,9 @@ _TALIS WORLD STOCK FUND_
 > - **จัดตั้ง:** 2026-02-10 · **จดทะเบียน:** 2026-02-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.4932 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

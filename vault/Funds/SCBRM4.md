@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 7414464377.31
 holdings_count: 45
 top10_pct_nav: 61.99
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # SCBRM4
@@ -41,6 +41,9 @@ _SCB EQUITY RMF_
 > - **จัดตั้ง:** 2002-01-23 · **จดทะเบียน:** 2002-02-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 58.0558 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 45 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

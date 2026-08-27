@@ -24,7 +24,7 @@ fund_size: 1546859291.8
 holdings_count: 31
 top10_pct_nav: 76.39
 peer_group: "Long Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # UOBGBRMF
@@ -42,6 +42,9 @@ _UOB GOVERNMENT BOND RMF_
 > - **จัดตั้ง:** 2002-05-07 · **จดทะเบียน:** 2002-06-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.3592 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.34%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

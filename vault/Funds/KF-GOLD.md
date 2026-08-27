@@ -27,7 +27,7 @@ master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 peer_group: "Commodities Precious Metals"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # KF-GOLD
@@ -45,6 +45,9 @@ _Krungsri Gold Fund_
 > - **จัดตั้ง:** 2009-02-20 · **จดทะเบียน:** 2009-03-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 34.8713 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.16%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

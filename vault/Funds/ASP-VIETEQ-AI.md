@@ -24,7 +24,7 @@ fund_size: 39070249.99
 holdings_count: 11
 top10_pct_nav: 97.46
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย พีรพัฒน์ จิรารยะพงศ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, theme/technology/ai-robotics, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # ASP-VIETEQ-AI
@@ -42,6 +42,9 @@ _Asset Plus Vietnam Focus Equity Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2024-09-19 · **จดทะเบียน:** 2024-10-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.1068 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 11 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.67%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

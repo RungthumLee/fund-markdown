@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 23899171.8
 holdings_count: 5
 top10_pct_nav: 100.16
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # LHSITHAIESG
@@ -40,6 +40,9 @@ _LH SOVEREIGN INSTRUMENTS THAILAND ESG FUND_
 > - **จัดตั้ง:** 2024-11-13 · **จดทะเบียน:** 2024-11-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.391 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

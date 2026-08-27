@@ -24,7 +24,7 @@ fund_size: 839127770.37
 holdings_count: 13
 top10_pct_nav: 102.18
 master_fund: "Capital Group New Pers (LUX) B"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # KKP GNP RMF-H
@@ -42,6 +42,9 @@ _KKP GLOBAL NEW PERSPECTIVE RMF–HEDGED_
 > - **จัดตั้ง:** 2018-09-18 · **จดทะเบียน:** 2018-12-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.7686 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

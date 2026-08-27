@@ -24,7 +24,7 @@ fund_size: 275363321.55
 holdings_count: 27
 top10_pct_nav: 75.63
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ONEPROP-D
@@ -42,6 +42,9 @@ _ONE PROPERTY PLUS DIVIDEND FUND_
 > - **จัดตั้ง:** 2013-02-22 · **จดทะเบียน:** 2013-03-12
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.5178 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.40%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

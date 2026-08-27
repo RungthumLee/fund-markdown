@@ -25,7 +25,7 @@ holdings_count: 53
 top10_pct_nav: 48.36
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # K-CASH
@@ -43,6 +43,9 @@ _K Cash Management Fund_
 > - **จัดตั้ง:** 2005-09-14 · **จดทะเบียน:** 2005-12-01
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 13.999 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

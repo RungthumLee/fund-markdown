@@ -27,7 +27,7 @@ master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TCHRMF
@@ -45,6 +45,9 @@ _TISCO China H-Shares Equity RMF_
 > - **จัดตั้ง:** 2013-01-14 · **จดทะเบียน:** 2013-02-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.0745 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.35%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

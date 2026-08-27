@@ -24,7 +24,7 @@ fund_size: 338376226.35
 holdings_count: 27
 top10_pct_nav: 65.71
 peer_group: "Fund of Property Fund - Thai and Foreign"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-IR-FOFRMF
@@ -42,6 +42,9 @@ _Bualuang Infrastructure and Real Estate Fund of Funds RMF_
 > - **จัดตั้ง:** 2019-10-08 · **จดทะเบียน:** 2019-11-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.6921 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.38%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

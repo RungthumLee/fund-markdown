@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 71.96
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล", "น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # K-VALUE
@@ -43,6 +43,9 @@ _K Valued Stock Fund_
 > - **จัดตั้ง:** 1995-01-27 · **จดทะเบียน:** 1995-01-27
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 7.4558 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 33 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.20%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

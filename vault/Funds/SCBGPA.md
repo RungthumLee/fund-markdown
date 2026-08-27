@@ -25,7 +25,7 @@ holdings_count: 22
 top10_pct_nav: 104.7
 master_fund: "Hamilton Lane Global Private Assets Fund"
 master_isin: "LU2008199189"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, fx/fully-hedged, struct/feeder, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, fx/fully-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # SCBGPA
@@ -43,6 +43,9 @@ _SCB Global Private Assets Not for Retail Investors_
 > - **จัดตั้ง:** 2021-11-18 · **จดทะเบียน:** 2022-01-25
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 12.6871 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

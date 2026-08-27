@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 289078523.41
 holdings_count: 52
 top10_pct_nav: 59.06
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHIP
@@ -41,6 +41,9 @@ _LH INCOME PLUS FUND_
 > - **จัดตั้ง:** 2016-04-01 · **จดทะเบียน:** 2016-05-11
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 9.6106 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.92%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

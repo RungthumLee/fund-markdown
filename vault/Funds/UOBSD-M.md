@@ -24,7 +24,7 @@ fund_size: 12412841456.5
 holdings_count: 14
 top10_pct_nav: 92.07
 peer_group: "Money Market Government"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # UOBSD-M
@@ -42,6 +42,9 @@ _UOB Sure Daily Open-ended Fund_
 > - **จัดตั้ง:** 2006-04-28 · **จดทะเบียน:** 2006-05-10
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 13.7031 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.14%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

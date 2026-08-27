@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 101.76
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-NASDAQ
@@ -43,6 +43,9 @@ _KTAM NASDAQ 100 Fund_
 > - **จัดตั้ง:** 2025-01-31 · **จดทะเบียน:** 2025-04-11
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 14.7111 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.52%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

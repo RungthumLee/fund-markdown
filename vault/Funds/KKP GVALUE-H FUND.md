@@ -24,7 +24,7 @@ fund_size: 61698174.34
 holdings_count: 12
 top10_pct_nav: 102.08
 master_fund: "MFS Meridian Funds - Contrarian Value Fund"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP GVALUE-H FUND
@@ -42,6 +42,9 @@ _KKP GLOBAL VALUE FUND - HEDGED_
 > - **จัดตั้ง:** 2024-03-14 · **จดทะเบียน:** 2024-03-28
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 14.2735 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.51%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

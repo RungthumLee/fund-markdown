@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 102.19
 master_fund: "ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF"
 master_isin: "HK0000123577"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBCHAFUND
@@ -43,6 +43,9 @@ _SCB CHINA A-SHARES FUND_
 > - **จัดตั้ง:** 2015-01-28 · **จดทะเบียน:** 2015-02-13
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 7.9653 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

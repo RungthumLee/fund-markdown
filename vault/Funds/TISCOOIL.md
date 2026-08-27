@@ -26,7 +26,7 @@ master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
 peer_group: "Commodities Energy"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TISCOOIL
@@ -44,6 +44,9 @@ _TISCO Oil Fund_
 > - **จัดตั้ง:** 2009-02-25 · **จดทะเบียน:** 2009-03-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.087 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองน้ำมัน · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive)
 
 ## 1. ข้อมูลทั่วไป
 

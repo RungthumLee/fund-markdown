@@ -27,7 +27,7 @@ master_fund: "Wellington Strategic Eurp Eq EUR S Ac"
 master_isin: "IE00B6TYHG95"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-EG
@@ -45,6 +45,9 @@ _Eastspring European Growth Fund_
 > - **จัดตั้ง:** 2014-03-25 · **จดทะเบียน:** 2014-05-21
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 26.8806 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

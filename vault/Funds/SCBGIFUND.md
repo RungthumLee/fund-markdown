@@ -25,7 +25,7 @@ holdings_count: 80
 top10_pct_nav: 103.72
 master_fund: "DWS Invest Global Infras IDH (P)"
 master_isin: "LU1217772315"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/infrastructure, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBGIFUND
@@ -43,6 +43,9 @@ _SCB GLOBAL INFRASTRUCTURE EQUITY FUND_
 > - **จัดตั้ง:** 2015-07-06 · **จดทะเบียน:** 2015-10-06
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 15.2702 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

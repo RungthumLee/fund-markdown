@@ -25,7 +25,7 @@ holdings_count: 13
 top10_pct_nav: 99.81
 peer_group: "Global Equity"
 fund_managers: ["นาย พุทธินันท์ วชิราคม  ตั้งแต่ 04 ก.ย. 2566", "นาย สุชาติ เจริญวุฒิคุณ  ตั้งแต่ 24 ส.ค. 2566"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PWINRMF
@@ -43,6 +43,9 @@ _PHILLIP WORLD INNOVATION RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2020-09-18 · **จดทะเบียน:** 2020-10-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.0047 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.00%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 101.15
 master_fund: "AB EM Multi-Asset S1 USD"
 master_isin: "LU0633141881"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UEMIF
@@ -44,6 +44,9 @@ _United Emerging Markets Income Fund_
 > - **จัดตั้ง:** 2017-05-29 · **จดทะเบียน:** 2017-10-17
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 13.3086 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 1054207737.7
 holdings_count: 9
 top10_pct_nav: 95.91
 master_fund: "Oaktree Global Credit Fund I USD Acc"
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
 ---
 
 # KKP GC-UI FUND
@@ -42,6 +42,9 @@ _KKP GLOBAL CREDIT FUND NOT FOR RETAIL INVESTORS_
 > - **จัดตั้ง:** 2024-02-07 · **จดทะเบียน:** 2024-02-22
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.7621 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

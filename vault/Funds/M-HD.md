@@ -24,7 +24,7 @@ fund_size: 193865382.02
 holdings_count: 21
 top10_pct_nav: 77.85
 fund_managers: ["นาย ศรุต สุทธิสำแดง", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # M-HD
@@ -42,6 +42,9 @@ _MFC SET HD Fund_
 > - **จัดตั้ง:** 2025-11-11 · **จดทะเบียน:** 2025-11-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.0849 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 21 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

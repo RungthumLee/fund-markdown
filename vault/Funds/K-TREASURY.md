@@ -25,7 +25,7 @@ holdings_count: 35
 top10_pct_nav: 62.21
 peer_group: "Short Term Government Bond"
 fund_managers: ["น.ส. อัมไพวรรณ เมลืองนนท์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # K-TREASURY
@@ -43,6 +43,9 @@ _K Treasury Fund_
 > - **จัดตั้ง:** 2004-12-17 · **จดทะเบียน:** 2005-03-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.8712 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำ (3/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.31%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

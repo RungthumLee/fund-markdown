@@ -25,7 +25,7 @@ holdings_count: 22
 top10_pct_nav: 102.95
 master_fund: "Jupiter Gold & Silver I USD Acc"
 master_isin: "IE00BYVJRD56"
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-GOLD
@@ -43,6 +43,9 @@ _DAOL GOLD AND SILVER EQUITY FUND_
 > - **จัดตั้ง:** 2019-09-26 · **จดทะเบียน:** 2019-10-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 30.0491 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.01%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

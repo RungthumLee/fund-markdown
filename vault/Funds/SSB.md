@@ -21,7 +21,7 @@ nav_date: "2026-08-26"
 fund_size: 22658694.23
 holdings_count: 33
 top10_pct_nav: 64.07
-tags: [fund, sec-data, asset/mixed, conc/concentrated, struct/direct, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, conc/concentrated, struct/direct, use/accumulate]
 ---
 
 # SSB
@@ -39,6 +39,9 @@ _SUBSOMBOON FUND_
 > - **จัดตั้ง:** 1985-11-12 · **จดทะเบียน:** 1992-01-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 123.8046 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · เหมาะกับสะสมระยะยาว · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน
 
 ## 1. ข้อมูลทั่วไป
 

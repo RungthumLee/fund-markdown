@@ -24,7 +24,7 @@ fund_size: 627150220.19
 holdings_count: 12
 top10_pct_nav: 103.36
 master_fund: "Janus Henderson Capital Funds plc - Global Life Sciences Fund Class A2 USD"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # KKP GHC FUND
@@ -42,6 +42,9 @@ _KKP GLOBAL HEALTH CARE FUND_
 > - **จัดตั้ง:** 2008-02-22 · **จดทะเบียน:** 2008-03-12
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 20.0442 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

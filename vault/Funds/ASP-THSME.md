@@ -24,7 +24,7 @@ fund_size: 183072.22
 holdings_count: 27
 top10_pct_nav: 64.06
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-THSME
@@ -42,6 +42,9 @@ _Asset Plus Thai Small and Mid Cap Equity Fund_
 > - **จัดตั้ง:** 2017-10-30 · **จดทะเบียน:** 2017-11-23
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.8054 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 27 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.67%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

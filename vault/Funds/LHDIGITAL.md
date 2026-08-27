@@ -24,7 +24,7 @@ fund_size: 50922612.43
 holdings_count: 13
 top10_pct_nav: 103.22
 master_fund: "AXA World Funds - Digital Economy A Capitalisation USD"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHDIGITAL
@@ -42,6 +42,9 @@ _LH DIGITAL ECONOMY FUND_
 > - **จัดตั้ง:** 2018-03-12 · **จดทะเบียน:** 2018-03-29
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 15.3717 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.41%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

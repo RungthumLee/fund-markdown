@@ -26,7 +26,7 @@ top10_pct_nav: 100.7
 master_fund: "UBS (Lux) ES All China (USD) I A1 acc"
 master_isin: "LU1867708205"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UCHINA-M
@@ -44,6 +44,9 @@ _United All China Equity Fund_
 > - **จัดตั้ง:** 2019-02-07 · **จดทะเบียน:** 2019-02-27
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 7.1292 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

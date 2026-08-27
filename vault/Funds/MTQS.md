@@ -24,7 +24,7 @@ fund_size: 24122597.9
 holdings_count: 55
 top10_pct_nav: 58.84
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # MTQS
@@ -42,6 +42,9 @@ _MFC Thai Equity Super Savings Fund_
 > - **จัดตั้ง:** 2020-03-27 · **จดทะเบียน:** 2020-04-17
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.5534 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 55 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.83%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

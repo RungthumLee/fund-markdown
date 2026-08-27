@@ -24,7 +24,7 @@ fund_size: 5729084.43
 holdings_count: 15
 top10_pct_nav: 92.9
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/concentrated, struct/direct, style/active, geo/thailand, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-POWER
@@ -42,6 +42,9 @@ _ONE POWER ENERGY FUND_
 > - **จัดตั้ง:** 2017-02-09 · **จดทะเบียน:** 2017-02-27
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.1814 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

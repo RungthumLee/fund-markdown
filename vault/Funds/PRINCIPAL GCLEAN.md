@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 105.63
 master_fund: "VanEck Uranium and Nuclear ETF"
 master_isin: "US92189F6016"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL GCLEAN
@@ -43,6 +43,9 @@ _Principal Global Clean Energy Fund_
 > - **จัดตั้ง:** 2021-03-19 · **จดทะเบียน:** 2021-04-01
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 6.7607 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.06%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

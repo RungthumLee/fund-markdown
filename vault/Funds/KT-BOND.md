@@ -25,7 +25,7 @@ holdings_count: 7
 top10_pct_nav: 98.89
 master_fund: "PIMCO GIS Glb Bd Instl USD Acc"
 master_isin: "IE0002461055"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-BOND
@@ -43,6 +43,9 @@ _KTAM World Bond Fund_
 > - **จัดตั้ง:** 2011-09-28 · **จดทะเบียน:** 2011-10-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7533 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.07%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

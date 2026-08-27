@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 123916051.79
 holdings_count: 105
 top10_pct_nav: 119.02
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBGENOME
@@ -41,6 +41,9 @@ _SCB Genomic Revolution_
 > - **จัดตั้ง:** 2021-05-25 · **จดทะเบียน:** 2021-08-20
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 5.3147 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 105 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.12%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

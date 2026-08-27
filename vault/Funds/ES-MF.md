@@ -25,7 +25,7 @@ holdings_count: 51
 top10_pct_nav: 54.85
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธารดร เขียวมีส่วน", "นาง สุวัลลี ศิริสมบัติยืนยง"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # ES-MF
@@ -43,6 +43,9 @@ _Eastspring Money Fund_
 > - **จัดตั้ง:** 1997-04-24 · **จดทะเบียน:** 1997-05-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 23.4374 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.16%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

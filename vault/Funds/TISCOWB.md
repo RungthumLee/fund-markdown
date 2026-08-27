@@ -25,7 +25,7 @@ holdings_count: 26
 top10_pct_nav: 78.52
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ศรสวรรค์เติมวุฒิกุล", "นาย นิพจน์ไกรลาศโอฬาร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # TISCOWB
@@ -43,6 +43,9 @@ _TISCO Thai Well-being Equity Fund_
 > - **จัดตั้ง:** 2019-04-10 · **จดทะเบียน:** 2019-05-16
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.526 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 26 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

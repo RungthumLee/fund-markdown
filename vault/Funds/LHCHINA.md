@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 132017924.31
 holdings_count: 23
 top10_pct_nav: 102.28
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, geo/china, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # LHCHINA
@@ -41,6 +41,9 @@ _LH EQUITY CHINA OPPORTUNITY FUND_
 > - **จัดตั้ง:** 2020-05-21 · **จดทะเบียน:** 2020-06-17
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 5.2054 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 23 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.89%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

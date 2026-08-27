@@ -25,7 +25,7 @@ top10_pct_nav: 107.73
 master_fund: "SPDR Gold MiniShares"
 master_isin: "US98149E3036"
 fund_managers: ["นาย ธัชธรรม วิจารณกรณ์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ONE-GOLD
@@ -43,6 +43,9 @@ _ONE GOLD FUND_
 > - **จัดตั้ง:** 2026-05-26 · **จดทะเบียน:** 2026-06-10
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.2927 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.35%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 4587665849.85
 holdings_count: 51
 top10_pct_nav: 59.11
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, use/accumulate]
 ---
 
 # SCBRMS50
@@ -41,6 +41,9 @@ _SCB SET50 INDEX RMF_
 > - **จัดตั้ง:** 2011-10-05 · **จดทะเบียน:** 2011-10-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 22.3193 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 51 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.62%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

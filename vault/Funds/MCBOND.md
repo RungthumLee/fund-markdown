@@ -26,7 +26,7 @@ top10_pct_nav: 105.17
 master_fund: "BGF China Bond I2 USD H"
 master_isin: "LU2112291955"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # MCBOND
@@ -44,6 +44,9 @@ _MFC China Bond Fund_
 > - **จัดตั้ง:** 2021-05-06 · **จดทะเบียน:** 2021-05-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.1651 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.61%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

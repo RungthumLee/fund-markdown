@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 100.24
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBGOLDFUND
@@ -43,6 +43,9 @@ _SCB GOLD OPEN END FUND_
 > - **จัดตั้ง:** 2011-04-18 · **จดทะเบียน:** 2011-08-26
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 24.7851 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.11%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

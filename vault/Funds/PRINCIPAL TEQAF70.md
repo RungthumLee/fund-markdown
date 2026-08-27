@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 88254487.63
 holdings_count: 42
 top10_pct_nav: 74.08
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # PRINCIPAL TEQAF70
@@ -41,6 +41,9 @@ _Principal Thai Equity Alpha Focus 70 Fund_
 > - **จัดตั้ง:** 2005-06-14 · **จดทะเบียน:** 2005-07-18
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.3132 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

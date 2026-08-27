@@ -26,7 +26,7 @@ top10_pct_nav: 104.28
 master_fund: "JPMorgan Global Select Equity ETF"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-GSELECT
@@ -44,6 +44,9 @@ _K Global Select Equity Fund_
 > - **จัดตั้ง:** 2024-07-17 · **จดทะเบียน:** 2024-08-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5884 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.43%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

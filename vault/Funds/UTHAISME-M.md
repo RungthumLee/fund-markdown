@@ -23,7 +23,7 @@ fund_size: 75424337.0
 holdings_count: 28
 top10_pct_nav: 59.22
 peer_group: "Equity Small - Mid Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # UTHAISME-M
@@ -41,6 +41,9 @@ _United Thai Equity Small and Mid Cap Fund_
 > - **จัดตั้ง:** 2016-11-08 · **จดทะเบียน:** 2016-12-02
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 9.5752 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 28 หลักทรัพย์
 
 ## 1. ข้อมูลทั่วไป
 

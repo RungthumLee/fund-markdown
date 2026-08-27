@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 930021199.0
 holdings_count: 33
 top10_pct_nav: 104.25
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBGEX
@@ -41,6 +41,9 @@ _SCB Global Experts Fund_
 > - **จัดตั้ง:** 2021-05-06 · **จดทะเบียน:** 2021-05-21
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 11.8238 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 33 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

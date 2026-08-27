@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 9839699.34
 holdings_count: 22
 top10_pct_nav: 65.03
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # MEGATX8020U
@@ -41,6 +41,9 @@ _MEGA 20 THAILAND ESG EXTRA FUND 80-20 U_
 > - **จัดตั้ง:** 2025-04-29 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.3394 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · พอร์ตถือราว 22 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

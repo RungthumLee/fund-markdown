@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 3483541251.66
 holdings_count: 50
 top10_pct_nav: 61.49
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # KTEF
@@ -41,6 +41,9 @@ _Krung Thai Smart  Equity Fund_
 > - **จัดตั้ง:** 2011-05-06 · **จดทะเบียน:** 2011-05-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 23.1127 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 50 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.58%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

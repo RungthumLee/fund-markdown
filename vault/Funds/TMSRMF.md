@@ -25,7 +25,7 @@ holdings_count: 31
 top10_pct_nav: 51.36
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["นาย ณัฐภณอัศวเหม", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TMSRMF
@@ -43,6 +43,9 @@ _TISCO Mid/Small Cap Equity RMF_
 > - **จัดตั้ง:** 2014-07-10 · **จดทะเบียน:** 2014-09-10
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.6013 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 31 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

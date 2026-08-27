@@ -24,7 +24,7 @@ fund_size: 6701794635.61
 holdings_count: 8
 top10_pct_nav: 99.47
 peer_group: "Long Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, use/accumulate]
 ---
 
 # B-SI-THAIESG
@@ -42,6 +42,9 @@ _Bualuang Sovereign Instruments Thailand ESG Fund_
 > - **จัดตั้ง:** 2024-03-20 · **จดทะเบียน:** 2024-04-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7664 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.30%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

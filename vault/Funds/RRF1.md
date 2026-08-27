@@ -24,7 +24,7 @@ fund_size: 37048825.39
 holdings_count: 57
 top10_pct_nav: 71.0
 fund_managers: ["นาย กมลสิฐิ์ ขวัญใจธัญญา", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # RRF1
@@ -42,6 +42,9 @@ _Roongroj One Open-end Fund_
 > - **จัดตั้ง:** 1992-10-14 · **จดทะเบียน:** 1993-02-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.5824 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 57 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

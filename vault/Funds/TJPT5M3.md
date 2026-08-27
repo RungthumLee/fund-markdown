@@ -23,7 +23,7 @@ fund_size: 83585465.26
 master_fund: "NEXT FUNDS Nikkei 225 Exchange Traded Fund"
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, compliance/trigger-fund, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, compliance/trigger-fund, use/accumulate]
 ---
 
 # TJPT5M3
@@ -41,6 +41,9 @@ _TISCO Japan Equity Trigger 5M Fund 3_
 > - **จัดตั้ง:** 2024-09-10 · **จดทะเบียน:** 2026-07-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.5117 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.39%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

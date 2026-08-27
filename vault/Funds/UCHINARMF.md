@@ -26,7 +26,7 @@ top10_pct_nav: 100.34
 master_fund: "UBS (Lux) ES All China (USD) I A1 acc"
 master_isin: "LU1867708205"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/rmf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # UCHINARMF
@@ -44,6 +44,9 @@ _United All China Equity Fund RMF_
 > - **จัดตั้ง:** 2019-06-26 · **จดทะเบียน:** 2019-08-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.1796 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

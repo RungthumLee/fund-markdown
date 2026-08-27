@@ -24,7 +24,7 @@ fund_size: 700426670.51
 holdings_count: 47
 top10_pct_nav: 69.43
 peer_group: "Mid Term Government Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # GBRMF
@@ -42,6 +42,9 @@ _Government Bond Retirement Mutual Fund_
 > - **จัดตั้ง:** 2002-11-21 · **จดทะเบียน:** 2002-12-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.6897 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.29%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

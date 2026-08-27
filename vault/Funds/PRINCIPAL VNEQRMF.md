@@ -24,7 +24,7 @@ fund_size: 353077196.83
 holdings_count: 2
 top10_pct_nav: 99.53
 master_fund: "กองทุนเปิดพรินซิเพิล เวียดนาม อิควิตี้"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL VNEQRMF
@@ -42,6 +42,9 @@ _Principal Vietnam Equity Retirement Mutual Fund_
 > - **จัดตั้ง:** 2023-08-23 · **จดทะเบียน:** 2023-09-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.7913 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.42%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

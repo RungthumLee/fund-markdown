@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 101.15
 master_fund: "Artisan Developing World I USD Acc"
 master_isin: "IE00BYQRBG58"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-DEWORLD
@@ -43,6 +43,9 @@ _DAOL DEVELOPING WORLD FUND_
 > - **จัดตั้ง:** 2021-03-18 · **จดทะเบียน:** 2021-04-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.0241 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.47%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

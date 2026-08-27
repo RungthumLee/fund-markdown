@@ -24,7 +24,7 @@ fund_size: 2536742262.37
 holdings_count: 30
 top10_pct_nav: 47.38
 peer_group: "Vietnam Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # B-VIETNAM
@@ -42,6 +42,9 @@ _Bualuang Vietnam Equity Fund_
 > - **จัดตั้ง:** 2021-09-20 · **จดทะเบียน:** 2021-10-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.4147 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 30 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.79%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 37
 top10_pct_nav: 45.13
 peer_group: "Equity General"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย ปีติ ประติพัทธิ์พงษ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KFDYNAMIC2
@@ -43,6 +43,9 @@ _Krungsri Dynamic Fund 2_
 > - **จัดตั้ง:** 2018-08-27 · **จดทะเบียน:** 2018-11-23
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 9.5136 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 37 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.36%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 129187815.14
 holdings_count: 8
 top10_pct_nav: 100.11
 master_fund: "BGF Global Multi-Asset Inc A5G"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # KKP INCOME-H FUND
@@ -42,6 +42,9 @@ _KKP GLOBAL MULTI ASSET INCOME FUND – HEDGED_
 > - **จัดตั้ง:** 2021-12-08 · **จดทะเบียน:** 2022-01-18
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 10.4904 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

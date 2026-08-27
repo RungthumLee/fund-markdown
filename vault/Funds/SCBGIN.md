@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 101.64
 master_fund: "DWS Multi Opportunities RC"
 master_isin: "LU1590089758"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # SCBGIN
@@ -43,6 +43,9 @@ _SCB Global Income Fund_
 > - **จัดตั้ง:** 2017-01-20 · **จดทะเบียน:** 2017-01-27
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.5687 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.40%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

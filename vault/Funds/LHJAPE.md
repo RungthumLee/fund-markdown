@@ -24,7 +24,7 @@ fund_size: 2944773.16
 holdings_count: 11
 top10_pct_nav: 101.85
 master_fund: "Templeton Japan Fund"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHJAPE
@@ -42,6 +42,9 @@ _LH JAPAN - E FUND_
 > - **จัดตั้ง:** 2016-02-19 · **จดทะเบียน:** 2016-08-10
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 15.5374 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.12%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

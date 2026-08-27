@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1490455396.78
 holdings_count: 13
 top10_pct_nav: 99.71
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/passive, geo/thailand, theme/financials, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/passive, use/accumulate]
 ---
 
 # SCBBANKINGFUND
@@ -41,6 +41,9 @@ _SCB SET BANKING SECTOR INDEX FUND_
 > - **จัดตั้ง:** 2009-12-11 · **จดทะเบียน:** 2011-06-28
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 11.439 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 3963355269.29
 holdings_count: 39
 top10_pct_nav: 77.86
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/partially-hedged, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # KKP GMOD-UI FUND
@@ -40,6 +40,9 @@ _KKP GLOBAL MODERATE ALLOCATION FUND NOT FOR RETAIL INVESTORS_
 > - **จัดตั้ง:** 2025-07-31 · **จดทะเบียน:** 2025-08-29
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.3729 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.39%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

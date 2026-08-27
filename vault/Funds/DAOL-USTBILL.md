@@ -24,7 +24,7 @@ fund_size: 12644177.91
 holdings_count: 17
 top10_pct_nav: 100.96
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, fx/partially-hedged, struct/direct, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, fx/partially-hedged, struct/direct, use/accumulate]
 ---
 
 # DAOL-USTBILL
@@ -42,6 +42,9 @@ _DAOL US TREASURY BILL FUND_
 > - **จัดตั้ง:** 2023-11-28 · **จดทะเบียน:** 2023-12-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.7093 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

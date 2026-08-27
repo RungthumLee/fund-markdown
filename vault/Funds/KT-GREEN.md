@@ -24,7 +24,7 @@ holdings_count: 12
 top10_pct_nav: 101.94
 master_fund: "Schroder ISF Glbl Alt Engy C Acc USD"
 master_isin: "LU2016063229"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, theme/energy, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-GREEN
@@ -42,6 +42,9 @@ _KTAM Green Energy Fund_
 > - **จัดตั้ง:** 2022-12-29 · **จดทะเบียน:** 2023-01-25
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 7.6561 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

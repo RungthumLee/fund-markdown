@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1873850638.85
 holdings_count: 40
 top10_pct_nav: 64.89
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # PRINCIPAL EEF
@@ -41,6 +41,9 @@ _Principal Enhanced Equity Fund_
 > - **จัดตั้ง:** 2005-06-02 · **จดทะเบียน:** 2005-07-19
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 27.5858 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 40 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

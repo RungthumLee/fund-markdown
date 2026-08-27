@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 499934280.19
 holdings_count: 49
 top10_pct_nav: 71.46
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KKP PROP
@@ -41,6 +41,9 @@ _KKP PROPERTY SECTOR FUND_
 > - **จัดตั้ง:** 2011-10-20 · **จดทะเบียน:** 2011-11-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 20.5603 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.92%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

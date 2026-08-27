@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 427764898.92
 holdings_count: 111
 top10_pct_nav: 45.47
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL iPROPEN
@@ -41,6 +41,9 @@ _Principal Enhanced Property and Infrastructure Flex Income Fund_
 > - **จัดตั้ง:** 2019-11-12 · **จดทะเบียน:** 2019-11-26
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 9.1585 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.57%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

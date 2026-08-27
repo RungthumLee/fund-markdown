@@ -21,7 +21,7 @@ nav: 10.5435
 nav_date: "2026-08-26"
 fund_size: 413284.57
 master_fund: "SPDR Gold Shares"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # UGOLD-USD
@@ -39,6 +39,9 @@ _United USD Gold Fund_
 > - **จัดตั้ง:** 2026-07-13 · **จดทะเบียน:** 2026-08-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.5435 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.68%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

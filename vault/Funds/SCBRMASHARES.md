@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 103.39
 master_fund: "Schroder ISF China A C Acc USD"
 master_isin: "LU1713307699"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMASHARES
@@ -43,6 +43,9 @@ _SCB China A Shares Active Equity RMF_
 > - **จัดตั้ง:** 2022-02-02 · **จดทะเบียน:** 2022-02-22
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.52 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 1447953320.81
 holdings_count: 26
 top10_pct_nav: 84.79
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # M-PROPERTY
@@ -42,6 +42,9 @@ _MFC Property Wealth Fund_
 > - **จัดตั้ง:** 2009-10-08 · **จดทะเบียน:** 2009-10-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 35.0761 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.20%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

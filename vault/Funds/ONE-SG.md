@@ -24,7 +24,7 @@ fund_size: 311274177.65
 holdings_count: 63
 top10_pct_nav: 48.52
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-SG
@@ -42,6 +42,9 @@ _ONE SELECTIVE GROWTH FUND_
 > - **จัดตั้ง:** 2005-05-06 · **จดทะเบียน:** 2005-06-02
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 37.0723 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

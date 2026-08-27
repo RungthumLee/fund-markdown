@@ -25,7 +25,7 @@ top10_pct_nav: 100.71
 master_fund: "VistaOne (Lux) Feeder, SICAV SA-I"
 master_isin: "LU2991176186"
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, theme/technology, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # BCAP-EESPE UI
@@ -43,6 +43,9 @@ _BCAP Evergreen Enterprise Software Private Equity Fund Not for Retail Investors
 > - **จัดตั้ง:** 2025-09-18 · **จดทะเบียน:** 2025-11-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.6285 (2026-08-11)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

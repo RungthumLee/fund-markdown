@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 32533676.17
 holdings_count: 81
 top10_pct_nav: 55.04
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL SET100RMF
@@ -41,6 +41,9 @@ _Principal SET100 Retirement Mutual Fund_
 > - **จัดตั้ง:** 2010-11-16 · **จดทะเบียน:** 2010-11-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 22.6076 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 81 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 134240170.05
 holdings_count: 32
 top10_pct_nav: 103.87
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, theme/technology/ai-robotics, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBAUTO
@@ -41,6 +41,9 @@ _SCB Autonomous Technology and Robotics_
 > - **จัดตั้ง:** 2021-05-25 · **จดทะเบียน:** 2021-08-20
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 12.1683 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 32 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.12%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

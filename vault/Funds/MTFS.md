@@ -24,7 +24,7 @@ fund_size: 81983080.71
 holdings_count: 43
 top10_pct_nav: 63.61
 fund_managers: ["นาย กมลสิฐิ์ ขวัญใจธัญญา", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # MTFS
@@ -42,6 +42,9 @@ _MFC Thai Flexible Super Savings Fund_
 > - **จัดตั้ง:** 2020-03-27 · **จดทะเบียน:** 2020-04-17
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.5032 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

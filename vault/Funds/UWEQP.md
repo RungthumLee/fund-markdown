@@ -25,7 +25,7 @@ top10_pct_nav: 88.14
 master_fund: "iShares MSCI ACWI ETF"
 master_isin: "US4642882579"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # UWEQP
@@ -43,6 +43,9 @@ _United World Equity Passive Fund_
 > - **จัดตั้ง:** 2025-04-10 · **จดทะเบียน:** 2026-06-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.2471 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.57%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

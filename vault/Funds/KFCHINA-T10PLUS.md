@@ -25,7 +25,7 @@ holdings_count: 27
 top10_pct_nav: 85.07
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/direct, geo/china, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # KFCHINA-T10PLUS
@@ -43,6 +43,9 @@ _Krungsri China Tech 10 Plus Fund_
 > - **จัดตั้ง:** 2025-06-26 · **จดทะเบียน:** 2025-07-25
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 7.3642 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · พอร์ตถือราว 27 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

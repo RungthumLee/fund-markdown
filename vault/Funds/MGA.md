@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 60577145.26
 holdings_count: 18
 top10_pct_nav: 98.26
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # MGA
@@ -41,6 +41,9 @@ _MFC Global Alpha Fund_
 > - **จัดตั้ง:** 2005-10-13 · **จดทะเบียน:** 2005-11-16
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 13.5725 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 18 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.83%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

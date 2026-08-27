@@ -25,7 +25,7 @@ holdings_count: 20
 top10_pct_nav: 102.61
 master_fund: "Principal European Equity I Acc EUR"
 master_isin: "IE00B60S0X89"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/europe, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL EUEQ
@@ -43,6 +43,9 @@ _Principal European Equity Fund_
 > - **จัดตั้ง:** 2015-05-21 · **จดทะเบียน:** 2015-06-16
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 20.8481 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.02%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

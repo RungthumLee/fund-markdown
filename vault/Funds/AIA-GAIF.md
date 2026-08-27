@@ -23,7 +23,7 @@ fund_size: 5351023244.86
 holdings_count: 5
 top10_pct_nav: 102.88
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-GAIF
@@ -41,6 +41,9 @@ _AIA Global Active Income Fund_
 > - **จัดตั้ง:** 2025-05-20 · **จดทะเบียน:** 2025-07-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.4368 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

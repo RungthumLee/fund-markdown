@@ -25,7 +25,7 @@ holdings_count: 47
 top10_pct_nav: 65.65
 peer_group: "Fund of Property fund - Thai and Foreign"
 fund_managers: ["นาย ธีรวัฒน์ บรรเจิดสุทธิกุล"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # K-PROPI
@@ -43,6 +43,9 @@ _K Property Infrastructure Flexible Fund_
 > - **จัดตั้ง:** 2014-11-05 · **จดทะเบียน:** 2016-06-01
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 8.7381 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.20%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

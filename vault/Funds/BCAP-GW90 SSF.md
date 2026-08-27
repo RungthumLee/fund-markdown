@@ -24,7 +24,7 @@ fund_size: 80959559.19
 holdings_count: 17
 top10_pct_nav: 99.0
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GW90 SSF
@@ -42,6 +42,9 @@ _BCAP Global Wealth 90 Super Saving Fund_
 > - **จัดตั้ง:** 2020-02-26 · **จดทะเบียน:** 2020-08-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.4399 (2026-06-19)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

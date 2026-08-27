@@ -25,7 +25,7 @@ holdings_count: 35
 top10_pct_nav: 71.78
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # TISCOAGF
@@ -43,6 +43,9 @@ _TISCO Aggressive Growth Fund_
 > - **จัดตั้ง:** 2000-04-20 · **จดทะเบียน:** 2001-02-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 101.2868 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 354120153.7
 holdings_count: 44
 top10_pct_nav: 48.48
 peer_group: "Money Market General"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # TCMFENJOY
@@ -42,6 +42,9 @@ _Thai Cash Management Enjoy Fund_
 > - **จัดตั้ง:** 2012-03-20 · **จดทะเบียน:** 2012-03-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.545 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.14%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

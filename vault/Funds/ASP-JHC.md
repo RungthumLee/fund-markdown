@@ -26,7 +26,7 @@ top10_pct_nav: 100.49
 master_fund: "SuMi TRUST Sakigake Hi Aph B JPY Acc"
 master_isin: "LU1824452749"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, geo/japan, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # ASP-JHC
@@ -44,6 +44,9 @@ _Asset Plus Japan High Conviction Fund_
 > - **จัดตั้ง:** 2021-01-06 · **จดทะเบียน:** 2021-01-29
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 13.4371 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.80%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

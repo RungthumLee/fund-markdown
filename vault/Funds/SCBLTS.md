@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 294885860.56
 holdings_count: 113
 top10_pct_nav: 45.35
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBLTS
@@ -41,6 +41,9 @@ _SCB Smart Mixed Fund_
 > - **จัดตั้ง:** 2007-04-24 · **จดทะเบียน:** 2007-06-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.8161 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

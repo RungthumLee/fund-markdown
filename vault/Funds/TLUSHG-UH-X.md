@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 100.35
 master_fund: "Schwab U.S. Large-Cap Growth ETF"
 master_isin: "US8085243009"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLUSHG-UH-X
@@ -42,6 +42,9 @@ _TALIS U.S. LARGE-CAP GROWTH EQUITY FUND-UNHEDGE_
 > - **จัดตั้ง:** 2026-05-14 · **จดทะเบียน:** 2026-05-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.1985 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

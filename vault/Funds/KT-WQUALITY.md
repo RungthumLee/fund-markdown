@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 107.52
 master_fund: "iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc)"
 master_isin: "IE00BP3QZ601"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-WQUALITY
@@ -43,6 +43,9 @@ _KTAM World Quality Factor Equity Passive Fund_
 > - **จัดตั้ง:** 2025-01-15 · **จดทะเบียน:** 2025-04-11
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 12.1504 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.70%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

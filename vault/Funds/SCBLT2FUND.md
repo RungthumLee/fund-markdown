@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2341988737.11
 holdings_count: 47
 top10_pct_nav: 63.67
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBLT2FUND
@@ -41,6 +41,9 @@ _SCB Thai Dividend Equity Fund_
 > - **จัดตั้ง:** 2004-09-30 · **จดทะเบียน:** 2004-10-21
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 28.8041 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 47 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

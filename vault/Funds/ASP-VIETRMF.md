@@ -24,7 +24,7 @@ fund_size: 795146279.92
 holdings_count: 22
 top10_pct_nav: 73.36
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย พีรพัฒน์ จิรารยะพงศ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ASP-VIETRMF
@@ -42,6 +42,9 @@ _Asset Plus Vietnam Growth RMF Fund_
 > - **จัดตั้ง:** 2018-08-14 · **จดทะเบียน:** 2018-09-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.2075 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 22 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.18%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

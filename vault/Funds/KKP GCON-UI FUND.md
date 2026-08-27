@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 4166730301.69
 holdings_count: 26
 top10_pct_nav: 97.1
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/fully-hedged, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # KKP GCON-UI FUND
@@ -40,6 +40,9 @@ _KKP GLOBAL CONSERVATIVE ALLOCATION FUND NOT FOR RETAIL INVESTORS_
 > - **จัดตั้ง:** 2025-07-31 · **จดทะเบียน:** 2025-08-29
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 9.9529 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.29%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

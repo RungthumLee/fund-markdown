@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 75926539.82
 holdings_count: 8
 top10_pct_nav: 190.43
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # TLQUANT-GROW
@@ -40,6 +40,9 @@ _TALIS QUANT GLOBAL RETURN OPTIMIZED WEALTH FUND_
 > - **จัดตั้ง:** 2026-05-29 · **จดทะเบียน:** 2026-06-30
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 10.0249 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 35
 top10_pct_nav: 58.78
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. สาวิณี สุขศรีวงศ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFFLEX2RMF
@@ -43,6 +43,9 @@ _Krungsri Flexible 2 RMF_
 > - **จัดตั้ง:** 2002-06-24 · **จดทะเบียน:** 2002-10-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 45.5273 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.31%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

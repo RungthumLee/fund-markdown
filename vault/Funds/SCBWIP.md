@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 98751215.57
 holdings_count: 20
 top10_pct_nav: 100.26
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBWIP
@@ -41,6 +41,9 @@ _SCB World Integrated Portfolio_
 > - **จัดตั้ง:** 2020-06-25 · **จดทะเบียน:** 2020-08-03
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 9.7982 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

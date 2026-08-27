@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 20295316502.82
 holdings_count: 211
 top10_pct_nav: 64.32
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, use/park-cash]
 ---
 
 # KTSV
@@ -41,6 +41,9 @@ _Krung Thai SV Fund_
 > - **จัดตั้ง:** 2009-04-07 · **จดทะเบียน:** 2009-06-04
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.4169 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

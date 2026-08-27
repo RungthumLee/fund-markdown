@@ -26,7 +26,7 @@ top10_pct_nav: 98.2
 master_fund: "FTGF CB Glb Infras Inc P2 USD Acc"
 master_isin: "IE00BMG7PH05"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/infrastructure, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # B-GLOB-INFRA
@@ -44,6 +44,9 @@ _Bualuang Global Infrastructure Equity Fund_
 > - **จัดตั้ง:** 2022-02-25 · **จดทะเบียน:** 2022-03-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.4398 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

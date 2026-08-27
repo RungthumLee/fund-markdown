@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 248157108.63
 holdings_count: 32
 top10_pct_nav: 58.9
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, compliance/trigger-fund, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, compliance/trigger-fund, use/accumulate]
 ---
 
 # PRINCIPAL VNTG7M1
@@ -41,6 +41,9 @@ _Principal Vietnam Trigger 7M1 Fund_
 > - **จัดตั้ง:** 2022-03-24 · **จดทะเบียน:** 2022-04-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.6782 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.33%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

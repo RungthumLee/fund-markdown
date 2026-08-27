@@ -27,7 +27,7 @@ master_fund: "UBS (Lux) Investment SICAV - China A Opportunity (USD) P-acc USD"
 master_isin: "LU0971614614"
 peer_group: "China Equity - A Shares"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/china, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KF-ACHINASSF
@@ -45,6 +45,9 @@ _Krungsri China A Shares Equity SSF_
 > - **จัดตั้ง:** 2020-12-15 · **จดทะเบียน:** 2020-12-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 5.2515 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 82
 top10_pct_nav: 91.68
 master_fund: "iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc)"
 master_isin: "IE00BP3QZ601"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBGQUAL
@@ -43,6 +43,9 @@ _SCB Global Quality Equity_
 > - **จัดตั้ง:** 2022-06-13 · **จดทะเบียน:** 2022-07-05
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 16.6238 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.11%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

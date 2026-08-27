@@ -24,7 +24,7 @@ fund_size: 4974763871.64
 holdings_count: 4
 top10_pct_nav: 100.14
 master_fund: "Vietnam Long-term Growth Fund"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, geo/vietnam, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KKP VGF-UI FUND
@@ -42,6 +42,9 @@ _KKP VIETNAM GROWTH FUND NOT FOR RETAIL INVESTORS_
 > - **จัดตั้ง:** 2022-02-21 · **จดทะเบียน:** 2022-03-29
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.2205 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

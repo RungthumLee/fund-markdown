@@ -25,7 +25,7 @@ holdings_count: 34
 top10_pct_nav: 101.89
 master_fund: "ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF"
 master_isin: "HK0000123577"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBRMCHA
@@ -43,6 +43,9 @@ _SCB China A-Shares RMF_
 > - **จัดตั้ง:** 2021-05-17 · **จดทะเบียน:** 2021-06-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.5317 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

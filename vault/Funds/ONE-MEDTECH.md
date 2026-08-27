@@ -26,7 +26,7 @@ top10_pct_nav: 103.23
 master_fund: "iShares U.S. Medical Devices ETF"
 master_isin: "US4642888105"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ONE-MEDTECH
@@ -44,6 +44,9 @@ _ONE MEDICAL TECHNOLOGY FUND_
 > - **จัดตั้ง:** 2022-01-07 · **จดทะเบียน:** 2022-01-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.9497 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

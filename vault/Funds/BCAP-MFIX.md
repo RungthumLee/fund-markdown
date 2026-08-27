@@ -24,7 +24,7 @@ fund_size: 3863418033.05
 holdings_count: 75
 top10_pct_nav: 41.29
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-MFIX
@@ -42,6 +42,9 @@ _BCAP Medium Term Fixed Income Fund_
 > - **จัดตั้ง:** 2019-08-23 · **จดทะเบียน:** 2019-11-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.9225 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.41%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

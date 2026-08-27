@@ -25,7 +25,7 @@ holdings_count: 57
 top10_pct_nav: 107.36
 master_fund: "WisdomTree Cloud Computing UCITS ETF - USD Acc"
 master_isin: "IE00BJGWQN72"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL GCLOUD
@@ -43,6 +43,9 @@ _Principal Global Cloud Computing Fund_
 > - **จัดตั้ง:** 2020-09-29 · **จดทะเบียน:** 2020-10-12
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 6.187 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

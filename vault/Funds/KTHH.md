@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 63271430.04
 holdings_count: 36
 top10_pct_nav: 66.15
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/healthcare, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KTHH
@@ -41,6 +41,9 @@ _Krung Thai Happy Health_
 > - **จัดตั้ง:** 2020-06-26 · **จดทะเบียน:** 2020-08-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.9818 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

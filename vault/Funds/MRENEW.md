@@ -26,7 +26,7 @@ top10_pct_nav: 104.26
 master_fund: "BGF Sustainable Energy I2"
 master_isin: "LU0534476519"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # MRENEW
@@ -44,6 +44,9 @@ _MFC Renewable Energy Fund_
 > - **จัดตั้ง:** 2020-03-18 · **จดทะเบียน:** 2020-09-01
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 14.8661 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

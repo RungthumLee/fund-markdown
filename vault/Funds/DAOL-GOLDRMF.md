@@ -26,7 +26,7 @@ top10_pct_nav: 101.59
 master_fund: "Jupiter Gold & Silver I USD Acc"
 master_isin: "IE00BYVJRD56"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # DAOL-GOLDRMF
@@ -44,6 +44,9 @@ _DAOL GOLD AND SILVER EQUITY RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2020-09-21 · **จดทะเบียน:** 2020-10-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.5181 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.68%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

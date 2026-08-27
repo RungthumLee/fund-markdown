@@ -23,7 +23,7 @@ fund_size: 437265192.8
 holdings_count: 16
 top10_pct_nav: 98.78
 master_fund: "กองทุนเปิดไทยพาณิชย์ ตราสารตลาดเงิน เพื่อการเลี้ยงชีพ"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t2, struct/feeder, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t2, struct/feeder, style/active, use/park-cash]
 ---
 
 # SCBRMMONEY
@@ -41,6 +41,9 @@ _SCB Money Market RMF_
 > - **จัดตั้ง:** 2025-09-17 · **จดทะเบียน:** 2025-09-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.0689 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.30%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

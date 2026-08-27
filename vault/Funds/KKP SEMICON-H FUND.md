@@ -24,7 +24,7 @@ fund_size: 1930527045.59
 holdings_count: 27
 top10_pct_nav: 102.82
 master_fund: "iShares Semiconductor ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, theme/technology/semiconductor, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # KKP SEMICON-H FUND
@@ -42,6 +42,9 @@ _KKP SEMICONDUCTOR FUND – HEDGED_
 > - **จัดตั้ง:** 2021-06-22 · **จดทะเบียน:** 2021-07-07
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 28.8266 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.15%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

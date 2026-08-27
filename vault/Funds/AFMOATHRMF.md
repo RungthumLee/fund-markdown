@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 100.23
 master_fund: "VanEck Morningstar Wide Moat ETF"
 master_isin: "US92189F6438"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # AFMOATHRMF
@@ -43,6 +43,9 @@ _AF US WIDE MOAT HEDGE RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2023-10-06 · **จดทะเบียน:** 2023-10-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.2783 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.10%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

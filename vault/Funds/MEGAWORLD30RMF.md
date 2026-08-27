@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 41891449.26
 holdings_count: 34
 top10_pct_nav: 49.33
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, tax/rmf, use/tax-saving]
 ---
 
 # MEGAWORLD30RMF
@@ -41,6 +41,9 @@ _MEGA WORLD 30 RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2025-02-13 · **จดทะเบียน:** 2025-02-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.579 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · พอร์ตถือราว 34 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

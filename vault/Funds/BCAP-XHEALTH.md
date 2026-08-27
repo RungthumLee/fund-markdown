@@ -24,7 +24,7 @@ fund_size: 470754534.69
 holdings_count: 11
 top10_pct_nav: 106.86
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-XHEALTH
@@ -42,6 +42,9 @@ _BCAP NEXT GEN Health Fund_
 > - **จัดตั้ง:** 2021-03-25 · **จดทะเบียน:** 2021-05-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.4293 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 11 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.23%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 1135980124.25
 holdings_count: 17
 top10_pct_nav: 96.7
 fund_managers: ["นาย คมสัน ผลานุสนธิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-DIGIBLOC
@@ -42,6 +42,9 @@ _Asset Plus Digital Blockchain Fund_
 > - **จัดตั้ง:** 2022-01-17 · **จดทะเบียน:** 2022-01-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.7642 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 17 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.87%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

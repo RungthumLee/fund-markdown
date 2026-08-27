@@ -27,7 +27,7 @@ master_fund: "JPM Global Income A mth USD Hdg"
 master_isin: "LU0815074496"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, use/accumulate, audience/restricted]
 ---
 
 # ES-INCOMEAI
@@ -45,6 +45,9 @@ _Eastspring Global Income Fund Not For Retail Investors_
 > - **จัดตั้ง:** 2015-07-29 · **จดทะเบียน:** 2015-12-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.0681 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

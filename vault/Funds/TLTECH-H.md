@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 101.56
 master_fund: "iShares Expanded Tech Sector ETF"
 master_isin: "US4642875490"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLTECH-H
@@ -43,6 +43,9 @@ _TALIS EXPANDED TECH-HEDGE_
 > - **จัดตั้ง:** 2025-04-02 · **จดทะเบียน:** 2025-04-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.8656 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

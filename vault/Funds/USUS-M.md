@@ -26,7 +26,7 @@ top10_pct_nav: 100.22
 master_fund: "Allianz Global Sustainability PT USD"
 master_isin: "LU2232014741"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # USUS-M
@@ -44,6 +44,9 @@ _United Sustainable Equity Solution Fund_
 > - **จัดตั้ง:** 2020-11-06 · **จดทะเบียน:** 2020-11-18
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.1435 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

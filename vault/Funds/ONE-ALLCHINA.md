@@ -24,7 +24,7 @@ fund_size: 527390806.12
 holdings_count: 15
 top10_pct_nav: 101.63
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ONE-ALLCHINA
@@ -42,6 +42,9 @@ _ONE ALL CHINA EQUITY FUND_
 > - **จัดตั้ง:** 2018-08-14 · **จดทะเบียน:** 2018-09-07
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 7.9153 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 15 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

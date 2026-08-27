@@ -25,7 +25,7 @@ holdings_count: 23
 top10_pct_nav: 101.71
 master_fund: "Man TargetRisk I USD"
 master_isin: "IE00BRJT7H22"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
 ---
 
 # SCBGMT
@@ -43,6 +43,9 @@ _SCB Global Multi Strategies (Not for Retail Investors)_
 > - **จัดตั้ง:** 2017-01-31 · **จดทะเบียน:** 2017-02-21
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 8.6825 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

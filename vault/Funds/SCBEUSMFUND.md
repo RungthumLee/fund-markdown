@@ -25,7 +25,7 @@ holdings_count: 28
 top10_pct_nav: 100.72
 master_fund: "abrdn European Smaller Comp D Acc EUR"
 master_isin: "LU0306632687"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBEUSMFUND
@@ -43,6 +43,9 @@ _SCB European Small Cap Equity Fund_
 > - **จัดตั้ง:** 2016-04-26 · **จดทะเบียน:** 2016-05-31
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 15.8162 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.11%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

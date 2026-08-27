@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 441579388.83
 holdings_count: 47
 top10_pct_nav: 52.41
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # SCBTD
@@ -41,6 +41,9 @@ _SCB Thai Sustainable Dividend Equity Fund_
 > - **จัดตั้ง:** 2024-10-31 · **จดทะเบียน:** 2024-11-12
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 11.518 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 47 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

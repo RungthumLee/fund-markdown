@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 100.24
 master_fund: "Principal China-India-Indonesia Opportunities Fund"
 master_isin: "MYU1000DK000"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL CII
@@ -43,6 +43,9 @@ _Principal Daily China-India-Indo Equity Fund_
 > - **จัดตั้ง:** 2010-02-25 · **จดทะเบียน:** 2010-11-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.8078 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.02%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

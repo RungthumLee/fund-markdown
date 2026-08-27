@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 105.14
 master_fund: "Vontobel mtx Em Mkts Ldrs I USD"
 master_isin: "LU0571085686"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-EMEQ
@@ -43,6 +43,9 @@ _KTAM Emerging Markets Equity Fund_
 > - **จัดตั้ง:** 2019-05-24 · **จดทะเบียน:** 2019-06-27
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 13.4383 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

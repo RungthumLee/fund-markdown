@@ -24,7 +24,7 @@ fund_size: 790754409.31
 holdings_count: 12
 top10_pct_nav: 101.32
 master_fund: "iShares MSCI ACWI ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # LHGEQP
@@ -42,6 +42,9 @@ _LH Global Equity Passive Fund_
 > - **จัดตั้ง:** 2022-04-22 · **จดทะเบียน:** 2022-06-22
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 15.2982 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.15%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

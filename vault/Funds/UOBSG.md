@@ -26,7 +26,7 @@ top10_pct_nav: 100.97
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 peer_group: "Commodities Precious Metals"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/unhedged, struct/feeder, style/dividend, theme/metals-mining/gold, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/unhedged, struct/feeder, style/dividend, use/income]
 ---
 
 # UOBSG
@@ -44,6 +44,9 @@ _UOB Smart Gold Fund_
 > - **จัดตั้ง:** 2010-01-21 · **จดทะเบียน:** 2010-08-31
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 25.2251 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

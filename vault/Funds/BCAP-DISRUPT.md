@@ -24,7 +24,7 @@ fund_size: 331001506.15
 holdings_count: 15
 top10_pct_nav: 96.08
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-DISRUPT
@@ -42,6 +42,9 @@ _BCAP Disruptive Technology Fund_
 > - **จัดตั้ง:** 2021-03-25 · **จดทะเบียน:** 2021-10-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.456 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 15 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.30%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

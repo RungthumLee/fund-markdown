@@ -27,7 +27,7 @@ master_fund: "MS INVF Global Brands Z"
 master_isin: "LU0360482987"
 peer_group: "Global Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFGBRAND
@@ -45,6 +45,9 @@ _Krungsri Global Brands Equity Fund_
 > - **จัดตั้ง:** 2016-06-27 · **จดทะเบียน:** 2016-08-05
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 9.5803 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.53%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

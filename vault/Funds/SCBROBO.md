@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 1926546270.03
 holdings_count: 35
 top10_pct_nav: 104.0
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBROBO
@@ -41,6 +41,9 @@ _SCB Global Robotics Fund_
 > - **จัดตั้ง:** 2017-08-11 · **จดทะเบียน:** 2017-09-05
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 24.2196 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

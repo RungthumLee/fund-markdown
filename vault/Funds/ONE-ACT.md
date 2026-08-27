@@ -24,7 +24,7 @@ fund_size: 45082072.88
 holdings_count: 51
 top10_pct_nav: 49.84
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ONE-ACT
@@ -42,6 +42,9 @@ _ONE ANTI-CORRUPTION FUND_
 > - **จัดตั้ง:** 2016-04-04 · **จดทะเบียน:** 2016-05-12
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 7.5843 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

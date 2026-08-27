@@ -26,7 +26,7 @@ top10_pct_nav: 101.56
 master_fund: "Jupiter Merian Glb Eq Abs Rt I USD Acc"
 master_isin: "IE00BLP5S684"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UGEAR-M
@@ -44,6 +44,9 @@ _United Global Equity Absolute Return Fund_
 > - **จัดตั้ง:** 2018-05-28 · **จดทะเบียน:** 2018-06-28
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.9404 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.66%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

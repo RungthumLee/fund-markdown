@@ -25,7 +25,7 @@ top10_pct_nav: 100.32
 master_fund: "กองทุนเปิดอีสท์สปริง Ultimate Global Allocation 2"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-ULTIMATE GA2RMF
@@ -43,6 +43,9 @@ _Eastspring Ultimate Global Allocation Fund 2 RMF_
 > - **จัดตั้ง:** 2025-10-02 · **จดทะเบียน:** 2025-10-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.2972 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.16%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

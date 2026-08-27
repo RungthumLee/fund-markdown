@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 21499775.36
 holdings_count: 19
 top10_pct_nav: 84.48
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, compliance/trigger-fund, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, compliance/trigger-fund, use/accumulate]
 ---
 
 # PRINCIPAL THTG6M1
@@ -41,6 +41,9 @@ _Principal Thai Trigger 6M1 Fund_
 > - **จัดตั้ง:** 2022-05-23 · **จดทะเบียน:** 2022-06-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.0568 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.08%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

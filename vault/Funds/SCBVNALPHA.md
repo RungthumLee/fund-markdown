@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 9602761778.71
 holdings_count: 11
 top10_pct_nav: 99.9
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # SCBVNALPHA
@@ -41,6 +41,9 @@ _SCB Vietnam Alpha Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2024-03-22 · **จดทะเบียน:** 2024-07-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.2932 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 11 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

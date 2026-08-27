@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 139693456.7
 holdings_count: 18
 top10_pct_nav: 87.02
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHPROPINFRA
@@ -41,6 +41,9 @@ _LH Thai Property and Infrastructure Flexible Fund_
 > - **จัดตั้ง:** 2016-10-07 · **จดทะเบียน:** 2016-10-27
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 7.8787 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.68%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

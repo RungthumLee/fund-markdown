@@ -25,7 +25,7 @@ holdings_count: 55
 top10_pct_nav: 102.57
 master_fund: "PIMCO GIS GlInGd Crdt Instl USD Acc"
 master_isin: "IE0034085260"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBGSIFUND
@@ -43,6 +43,9 @@ _SCB GLOBAL STRATEGIC INVESTMENT FUND_
 > - **จัดตั้ง:** 2012-07-13 · **จดทะเบียน:** 2012-07-30
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 12.0076 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.11%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 947334325.33
 holdings_count: 40
 top10_pct_nav: 63.22
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # PRINCIPAL DEF
@@ -41,6 +41,9 @@ _Principal Dividend Equity Fund_
 > - **จัดตั้ง:** 2012-02-17 · **จดทะเบียน:** 2012-02-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.3375 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 40 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

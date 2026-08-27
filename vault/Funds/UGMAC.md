@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 101.56
 master_fund: "JPMorgan Investment Funds – Global Macro Opportunities Fund"
 master_isin: "LU0095938881"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UGMAC
@@ -43,6 +43,9 @@ _United Global Macro Opportunities Fund_
 > - **จัดตั้ง:** 2016-05-31 · **จดทะเบียน:** 2016-06-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.9706 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.03%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

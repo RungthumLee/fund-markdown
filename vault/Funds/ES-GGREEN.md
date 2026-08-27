@@ -27,7 +27,7 @@ master_fund: "KBI Global Energy Transition E USD"
 master_isin: "IE000JRA46G5"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GGREEN
@@ -45,6 +45,9 @@ _Eastspring Global Green Energy Fund_
 > - **จัดตั้ง:** 2020-08-14 · **จดทะเบียน:** 2020-12-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.7449 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 99.78
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBUSDGOLD
@@ -42,6 +42,9 @@ _SCB Gold USD_
 > - **จัดตั้ง:** 2026-01-29 · **จดทะเบียน:** 2026-02-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.1518 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.78%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

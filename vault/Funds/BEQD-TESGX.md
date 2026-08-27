@@ -24,7 +24,7 @@ fund_size: 1581554133.64
 holdings_count: 46
 top10_pct_nav: 64.99
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # BEQD-TESGX
@@ -42,6 +42,9 @@ _Bualuang Equity Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.887 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 46 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.72%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ top10_pct_nav: 106.79
 master_fund: "KraneShares Global Humanoid Robotics and Physical AI Index ETF"
 master_isin: "US5007677512"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # A-HUMANOID
@@ -43,6 +43,9 @@ _Atrackers Global Humanoid Fund_
 > - **จัดตั้ง:** 2026-04-07 · **จดทะเบียน:** 2026-04-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.9383 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

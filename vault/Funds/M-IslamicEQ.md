@@ -24,7 +24,7 @@ fund_size: 58632174.39
 holdings_count: 36
 top10_pct_nav: 83.67
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย รุ่งโรจน์ นิลนพคุณ", "นาย อรวิทย์ บุญชม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, compliance/sharia, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, compliance/sharia, use/tax-saving]
 ---
 
 # M-IslamicEQ
@@ -42,6 +42,9 @@ _MFC Islamic Equity Fund_
 > - **จัดตั้ง:** 2007-06-01 · **จดทะเบียน:** 2007-06-29
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.9472 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 36 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.92%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

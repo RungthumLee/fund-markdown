@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 11980426540.74
 holdings_count: 130
 top10_pct_nav: 51.14
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, use/accumulate]
 ---
 
 # SCBSETFUND
@@ -41,6 +41,9 @@ _SCB SET INDEX FUND_
 > - **จัดตั้ง:** 1996-07-26 · **จดทะเบียน:** 1996-08-20
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 23.461 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 130 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

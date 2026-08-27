@@ -24,7 +24,7 @@ holdings_count: 46
 top10_pct_nav: 50.52
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # TW-BAL
@@ -42,6 +42,9 @@ _TISCO Wealth Balance Fund_
 > - **จัดตั้ง:** 2003-05-22 · **จดทะเบียน:** 2003-07-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 33.7764 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 55
 top10_pct_nav: 59.36
 peer_group: "SET 50 Index Fund"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/passive, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/passive, use/accumulate]
 ---
 
 # KFS50-THAIESGX
@@ -43,6 +43,9 @@ _Krungsri SET50 Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-13
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 13.9591 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 55 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.79%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

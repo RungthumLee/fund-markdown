@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 100.49
 master_fund: "SPDR Gold Shares"
 fund_managers: ["นาย สันธาน เฮงสกุล"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # GOLD-RMF
@@ -43,6 +43,9 @@ _ONE GOLD RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2010-02-08 · **จดทะเบียน:** 2010-04-09
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 25.134 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.11%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

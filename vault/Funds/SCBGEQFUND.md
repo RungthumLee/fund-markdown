@@ -25,7 +25,7 @@ holdings_count: 60
 top10_pct_nav: 102.96
 master_fund: "Veritas Global Focus USD Acc NAV"
 master_isin: "IE00B3RMVW88"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBGEQFUND
@@ -43,6 +43,9 @@ _SCB GLOBAL EQUITY FUND_
 > - **จัดตั้ง:** 2013-01-10 · **จดทะเบียน:** 2013-02-14
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 13.4253 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.72%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

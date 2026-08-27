@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 72.27
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "น.ส. นินัทธ์ วงศ์เสงี่ยม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # K-STAR
@@ -43,6 +43,9 @@ _K STAR Equity Fund_
 > - **จัดตั้ง:** 2006-05-11 · **จดทะเบียน:** 2006-05-29
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 44.6126 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 33 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.05%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

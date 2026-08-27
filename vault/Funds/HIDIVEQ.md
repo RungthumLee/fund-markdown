@@ -24,7 +24,7 @@ fund_size: 33061697.67
 holdings_count: 63
 top10_pct_nav: 48.56
 fund_managers: ["นาย ศรุต สุทธิสำแดง"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # HIDIVEQ
@@ -42,6 +42,9 @@ _MFC Hi-Dividend Equity Fund_
 > - **จัดตั้ง:** 2017-03-16 · **จดทะเบียน:** 2017-11-24
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.0602 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 63 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

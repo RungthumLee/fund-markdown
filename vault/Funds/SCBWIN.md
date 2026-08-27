@@ -25,7 +25,7 @@ holdings_count: 48
 top10_pct_nav: 101.7
 master_fund: "BGF Global Multi-Asset Inc I2"
 master_isin: "LU1523255922"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBWIN
@@ -43,6 +43,9 @@ _SCB World Income Fund_
 > - **จัดตั้ง:** 2017-06-14 · **จดทะเบียน:** 2017-07-18
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.0241 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

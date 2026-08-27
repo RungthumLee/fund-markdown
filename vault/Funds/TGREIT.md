@@ -27,7 +27,7 @@ master_fund: "B&I Global Real Estate Securities Fund S"
 master_isin: "LI0301993643"
 peer_group: "Fund of Property Fund - Foreign"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TGREIT
@@ -45,6 +45,9 @@ _TISCO Global REIT Fund_
 > - **จัดตั้ง:** 2019-08-29 · **จดทะเบียน:** 2019-09-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.6141 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.43%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

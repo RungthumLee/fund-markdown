@@ -26,7 +26,7 @@ top10_pct_nav: 101.43
 master_fund: "กองทุนเปิดกรุงศรีไชน่าเมกะเทรนด์"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFCMEGARMF
@@ -44,6 +44,9 @@ _Krungsri China Megatrends RMF_
 > - **จัดตั้ง:** 2022-09-02 · **จดทะเบียน:** 2022-09-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.3358 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.23%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

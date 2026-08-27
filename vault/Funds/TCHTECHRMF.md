@@ -27,7 +27,7 @@ master_fund: "Invesco China Technology ETF"
 master_isin: "US46138E8003"
 peer_group: "Greater China Equity"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, geo/china, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TCHTECHRMF
@@ -45,6 +45,9 @@ _TISCO China Technology RMF_
 > - **จัดตั้ง:** 2020-11-25 · **จดทะเบียน:** 2020-12-22
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 4.9147 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.35%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

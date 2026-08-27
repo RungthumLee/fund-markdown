@@ -24,7 +24,7 @@ fund_size: 334424067.03
 holdings_count: 78
 top10_pct_nav: 35.6
 peer_group: "Conservative Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, use/accumulate]
 ---
 
 # B-FLEX
@@ -42,6 +42,9 @@ _B-flex Open-end Fund_
 > - **จัดตั้ง:** 2001-07-18 · **จดทะเบียน:** 2002-06-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.9828 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

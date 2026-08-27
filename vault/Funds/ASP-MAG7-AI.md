@@ -24,7 +24,7 @@ fund_size: 108874137.08
 holdings_count: 14
 top10_pct_nav: 119.96
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, theme/technology/ai-robotics, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # ASP-MAG7-AI
@@ -42,6 +42,9 @@ _Asset Plus Magnificent Seven Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2024-03-13 · **จดทะเบียน:** 2024-06-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.3091 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 14 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.07%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

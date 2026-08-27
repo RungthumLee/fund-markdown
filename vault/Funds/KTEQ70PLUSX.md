@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 370215903.58
 holdings_count: 64
 top10_pct_nav: 53.9
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KTEQ70PLUSX
@@ -41,6 +41,9 @@ _Krungthai Equity Plus 70/30 Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.1534 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.81%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

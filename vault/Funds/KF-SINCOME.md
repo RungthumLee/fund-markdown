@@ -27,7 +27,7 @@ master_fund: "PIMCO GIS Income Institutional USD Acc"
 master_isin: "IE00B87KCF77"
 peer_group: "Global Bond Fully F/X Hedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย พงศ์สัณห์ อนุรัตน์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-SINCOME
@@ -45,6 +45,9 @@ _Krungsri Global Smart Income Fund_
 > - **จัดตั้ง:** 2016-08-30 · **จดทะเบียน:** 2016-09-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.7415 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.89%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

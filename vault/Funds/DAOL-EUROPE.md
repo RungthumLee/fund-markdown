@@ -24,7 +24,7 @@ fund_size: 44101137.28
 holdings_count: 17
 top10_pct_nav: 101.96
 fund_managers: ["นาย สร สุรสิทธิ์", "นาย ด ารงฤทธิ์ ส าเร็จวิทย์"]
-tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # DAOL-EUROPE
@@ -42,6 +42,9 @@ _DAOL EUROPE OPPORTUNITY FUND_
 > - **จัดตั้ง:** 2021-07-16 · **จดทะเบียน:** 2021-08-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.5807 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.15%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

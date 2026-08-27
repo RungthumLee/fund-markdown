@@ -25,7 +25,7 @@ holdings_count: 56
 top10_pct_nav: 104.59
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-GMA
@@ -43,6 +43,9 @@ _AIA Global Moderate Allocation Fund_
 > - **จัดตั้ง:** 2020-08-21 · **จดทะเบียน:** 2020-12-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5331 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

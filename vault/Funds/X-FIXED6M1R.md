@@ -24,7 +24,7 @@ fund_size: 411569857.17
 holdings_count: 11
 top10_pct_nav: 100.0
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/buy-hold, geo/thailand, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
 
 # X-FIXED6M1R
@@ -42,6 +42,9 @@ _XSpring Fixed Income Roll Over Fund 6M 1 Not for Retail Investors_
 > - **จัดตั้ง:** 2025-02-20 · **จดทะเบียน:** 2025-03-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.3797 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.47%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

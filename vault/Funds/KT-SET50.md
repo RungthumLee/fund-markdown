@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 4353262758.81
 holdings_count: 52
 top10_pct_nav: 59.96
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, use/accumulate]
 ---
 
 # KT-SET50
@@ -41,6 +41,9 @@ _Krung Thai SET50 Fund_
 > - **จัดตั้ง:** 2017-01-13 · **จดทะเบียน:** 2017-05-30
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 14.1341 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 52 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

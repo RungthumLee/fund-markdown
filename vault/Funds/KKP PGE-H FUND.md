@@ -24,7 +24,7 @@ fund_size: 2697879901.45
 holdings_count: 17
 top10_pct_nav: 102.63
 master_fund: "iShares MSCI ACWI ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # KKP PGE-H FUND
@@ -42,6 +42,9 @@ _KKP PASSIVE GLOBAL EQUITY FUND-HEDGED_
 > - **จัดตั้ง:** 2019-06-06 · **จดทะเบียน:** 2019-06-28
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 19.4715 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.15%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

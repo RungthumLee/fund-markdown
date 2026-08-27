@@ -21,7 +21,7 @@ nav: 9.5343
 nav_date: "2026-08-25"
 fund_size: 26349882.67
 master_fund: "Tortoise AI Infrastructure ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # LHAI-INFRA
@@ -39,6 +39,9 @@ _LH AI INFRASTRUCTURE FUND_
 > - **จัดตั้ง:** 2026-07-17 · **จดทะเบียน:** 2026-08-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.5343 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

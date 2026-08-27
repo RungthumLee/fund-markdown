@@ -25,7 +25,7 @@ holdings_count: 81
 top10_pct_nav: 47.89
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KF-DB70
@@ -43,6 +43,9 @@ _Krungsri Dividend Balance 70/30 Fund_
 > - **จัดตั้ง:** 2007-04-10 · **จดทะเบียน:** 2007-06-22
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.6331 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ master_fund: "Manulife Advanced Fund SPC - U.S. Bank Equity Segregated Portfolio
 master_isin: "KYG5800M4690"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/us, theme/financials, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # FP USBANK
@@ -45,6 +45,9 @@ _FP US Bank Equity FIF_
 > - **จัดตั้ง:** 2018-05-17 · **จดทะเบียน:** 2018-06-12
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.0827 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 5316068325.74
 holdings_count: 52
 top10_pct_nav: 94.43
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, geo/china, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # B-CHINE-EQ
@@ -42,6 +42,9 @@ _Bualuang China Equity Fund_
 > - **จัดตั้ง:** 2018-01-17 · **จดทะเบียน:** 2018-03-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.411 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 52 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.57%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

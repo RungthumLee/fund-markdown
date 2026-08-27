@@ -27,7 +27,7 @@ master_fund: "JPM Japan Equity C acc JPY"
 master_isin: "LU1374269352"
 peer_group: "Japan Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/japan, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFJAPANRMF
@@ -45,6 +45,9 @@ _Krungsri Japan RMF_
 > - **จัดตั้ง:** 2015-10-15 · **จดทะเบียน:** 2015-11-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 20.8975 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

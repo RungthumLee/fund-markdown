@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 137341537.24
 holdings_count: 31
 top10_pct_nav: 62.41
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ABSL
@@ -41,6 +41,9 @@ _abrdn Siam Leaders Fund_
 > - **จัดตั้ง:** 2004-02-06 · **จดทะเบียน:** 2004-03-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 39.2816 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 31 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.07%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

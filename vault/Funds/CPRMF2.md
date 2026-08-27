@@ -24,7 +24,7 @@ fund_size: 39275010.26
 holdings_count: 48
 top10_pct_nav: 97.33
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # CPRMF2
@@ -42,6 +42,9 @@ _Capital Protected Retirement Mutual Fund 2_
 > - **จัดตั้ง:** 2003-11-19 · **จดทะเบียน:** 2003-12-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.5692 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

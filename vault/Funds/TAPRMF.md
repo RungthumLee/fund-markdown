@@ -26,7 +26,7 @@ master_fund: "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc"
 master_isin: "LU1900068328"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, geo/japan, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TAPRMF
@@ -44,6 +44,9 @@ _TISCO Asia Pacific ex Japan Retirement Fund_
 > - **จัดตั้ง:** 2009-10-30 · **จดทะเบียน:** 2009-12-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.347 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

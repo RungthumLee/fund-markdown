@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 100.19
 master_fund: "abrdn-Emerging Markets Bond Z Acc USD"
 master_isin: "LU0278912091"
-tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # AEOB
@@ -43,6 +43,9 @@ _abrdn Emerging Opportunities Bond Fund_
 > - **จัดตั้ง:** 2007-06-01 · **จดทะเบียน:** 2007-07-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.1137 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 34
 top10_pct_nav: 66.7
 peer_group: "Equity General"
 fund_managers: ["น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # K-HDThaiESGX
@@ -43,6 +43,9 @@ _K High Dividend Stock Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 13.8745 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 34 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

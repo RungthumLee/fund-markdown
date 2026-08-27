@@ -24,7 +24,7 @@ fund_size: 10455015548.84
 holdings_count: 157
 top10_pct_nav: 34.75
 peer_group: "Long Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-IC
@@ -42,6 +42,9 @@ _AIA Income Fund_
 > - **จัดตั้ง:** 2020-07-02 · **จดทะเบียน:** 2020-08-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5727 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.48%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

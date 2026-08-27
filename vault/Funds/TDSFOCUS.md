@@ -25,7 +25,7 @@ holdings_count: 20
 top10_pct_nav: 78.2
 peer_group: "Equity General"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "น.ส. ศรสวรรค์เติมวุฒิกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # TDSFOCUS
@@ -43,6 +43,9 @@ _TISCO Thai Dividend Select Equity Focus Fund_
 > - **จัดตั้ง:** 2016-08-30 · **จดทะเบียน:** 2016-09-28
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 15.6093 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 20 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

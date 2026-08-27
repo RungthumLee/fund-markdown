@@ -24,7 +24,7 @@ fund_size: 153853349.34
 holdings_count: 25
 top10_pct_nav: 91.95
 peer_group: "Fund of Property fund-Thai+Foreign"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, geo/world, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # BCAP-GPROP
@@ -42,6 +42,9 @@ _BCAP Global Property and Infrastructure Flex Fund_
 > - **จัดตั้ง:** 2020-01-14 · **จดทะเบียน:** 2020-03-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.7103 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.33%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -20,7 +20,7 @@ nav: 10.004
 nav_date: "2026-08-26"
 fund_size: 186155771.52
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # X-DAILY
@@ -38,6 +38,9 @@ _XSpring Daily Money Fund_
 > - **จัดตั้ง:** 2026-06-22 · **จดทะเบียน:** 2026-07-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.004 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active)
 
 ## 1. ข้อมูลทั่วไป
 

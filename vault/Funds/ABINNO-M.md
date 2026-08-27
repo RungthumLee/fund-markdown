@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 100.22
 master_fund: "abrdn-Future Global Equity Z Acc USD"
 master_isin: "LU1653037256"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABINNO-M
@@ -43,6 +43,9 @@ _abrdn Global Innovation Equity Fund_
 > - **จัดตั้ง:** 2022-02-23 · **จดทะเบียน:** 2022-03-15
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.908 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.12%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ master_fund: "Schroders Capital Semi-Liquid Global Private Equity"
 master_isin: "LU2005485581"
 peer_group: "Miscellaneous"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/alternative, risk/very-high, fx/discretionary, struct/feeder, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, risk/very-high, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KFGPE-UI
@@ -45,6 +45,9 @@ _Krungsri Global Private Equity Fund-Not for Retail Investors_
 > - **จัดตั้ง:** 2022-02-24 · **จดทะเบียน:** 2022-03-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.7761 (2026-06-30)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

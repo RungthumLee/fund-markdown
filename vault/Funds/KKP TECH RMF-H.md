@@ -24,7 +24,7 @@ fund_size: 629157175.01
 holdings_count: 20
 top10_pct_nav: 102.78
 master_fund: "iShares Expanded Tech Sector ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/rmf, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # KKP TECH RMF-H
@@ -42,6 +42,9 @@ _KKP EXPANDED TECH FUND RMF - HEDGED_
 > - **จัดตั้ง:** 2021-11-15 · **จดทะเบียน:** 2021-11-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 18.5964 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.48%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

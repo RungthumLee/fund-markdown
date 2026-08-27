@@ -24,7 +24,7 @@ holdings_count: 48
 top10_pct_nav: 50.29
 peer_group: "Miscellaneous"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/focused, struct/direct, compliance/trigger-fund, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/focused, struct/direct, compliance/trigger-fund, use/accumulate]
 ---
 
 # FP TTG6M1
@@ -42,6 +42,9 @@ _First Plus Thai Trigger Fund 6M1_
 > - **จัดตั้ง:** 2023-03-21 · **จดทะเบียน:** 2023-04-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.3391 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน
 
 ## 1. ข้อมูลทั่วไป
 

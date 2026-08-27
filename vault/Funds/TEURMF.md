@@ -26,7 +26,7 @@ master_fund: "iShares STOXX Europe 600 UCITS ETF (DE) EUR (Dist)"
 master_isin: "DE0002635307"
 peer_group: "European Equity"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, geo/europe, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TEURMF
@@ -44,6 +44,9 @@ _TISCO Europe Equity RMF_
 > - **จัดตั้ง:** 2015-08-17 · **จดทะเบียน:** 2015-10-01
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 20.5491 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

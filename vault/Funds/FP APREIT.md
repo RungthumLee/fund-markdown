@@ -25,7 +25,7 @@ holdings_count: 31
 top10_pct_nav: 65.43
 peer_group: "Fund of Property fund - Foreign"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/asia-pacific, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # FP APREIT
@@ -43,6 +43,9 @@ _First Plus Asia Pacific Property REIT Fund_
 > - **จัดตั้ง:** 2017-06-29 · **จดทะเบียน:** 2017-08-04
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 9.751 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

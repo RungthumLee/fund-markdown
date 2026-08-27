@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 59541137.4
 holdings_count: 22
 top10_pct_nav: 74.6
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # KT-mai
@@ -41,6 +41,9 @@ _Krung Thai mai Equity Fund_
 > - **จัดตั้ง:** 2015-06-23 · **จดทะเบียน:** 2015-07-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.345 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 22 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.60%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

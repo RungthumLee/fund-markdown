@@ -24,7 +24,7 @@ fund_size: 130733806.49
 holdings_count: 73
 top10_pct_nav: 54.59
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย พิพัฒน์ นรานันทน์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # MFLEX-ThaiESG
@@ -42,6 +42,9 @@ _MFC Flexible Thailand ESG Fund_
 > - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.9708 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

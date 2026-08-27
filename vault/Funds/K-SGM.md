@@ -25,7 +25,7 @@ holdings_count: 24
 top10_pct_nav: 98.39
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # K-SGM
@@ -43,6 +43,9 @@ _K Strategic Global Multi-Asset Fund_
 > - **จัดตั้ง:** 2015-09-16 · **จดทะเบียน:** 2015-11-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.5993 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

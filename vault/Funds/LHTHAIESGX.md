@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 48235410.2
 holdings_count: 22
 top10_pct_nav: 72.62
-tags: [fund, sec-data, asset/mixed, liquidity/t2, conc/concentrated, fx/unhedged, struct/direct, style/active, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/mixed, liquidity/t2, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHTHAIESGX
@@ -40,6 +40,9 @@ _LH FLEXIBLE THAILAND ESG EXTRA FUND_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.6293 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.57%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

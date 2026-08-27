@@ -27,7 +27,7 @@ master_fund: "BlackRock Global Funds - World Technology Fund D2"
 master_isin: "LU0724618946"
 peer_group: "Technology Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFHTECH
@@ -45,6 +45,9 @@ _Krungsri World Tech Equity Hedged FX Fund_
 > - **จัดตั้ง:** 2018-06-21 · **จดทะเบียน:** 2019-05-31
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 31.7464 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.53%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

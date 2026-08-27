@@ -24,7 +24,7 @@ fund_size: 187678985.5
 holdings_count: 57
 top10_pct_nav: 50.71
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ONE-S
@@ -42,6 +42,9 @@ _ONE SELECTIVE FUND_
 > - **จัดตั้ง:** 2004-09-09 · **จดทะเบียน:** 2004-10-08
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 21.2735 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

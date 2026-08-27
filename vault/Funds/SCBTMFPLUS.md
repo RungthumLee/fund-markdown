@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 7344115824.52
 holdings_count: 38
 top10_pct_nav: 60.0
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # SCBTMFPLUS
@@ -41,6 +41,9 @@ _SCB TREASURY MONEY PLUS OPEN END FUND_
 > - **จัดตั้ง:** 2012-07-31 · **จดทะเบียน:** 2012-09-05
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 11.968 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

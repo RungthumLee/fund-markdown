@@ -24,7 +24,7 @@ fund_size: 70182014.42
 holdings_count: 11
 top10_pct_nav: 101.43
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, theme/energy, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ASP-NCLRRMF
@@ -42,6 +42,9 @@ _Asset Plus Nuclear Energy RMF Fund_
 > - **จัดตั้ง:** 2021-10-15 · **จดทะเบียน:** 2021-11-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 3.1015 (2026-06-10)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 11 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.10%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

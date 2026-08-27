@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1418549140.75
 holdings_count: 40
 top10_pct_nav: 67.4
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t3, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t3, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-PIF
@@ -41,6 +41,9 @@ _Krung Thai Property and Infrastructure Flexible Fund_
 > - **จัดตั้ง:** 2016-04-26 · **จดทะเบียน:** 2016-07-29
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 12.1537 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.69%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 4990637.4
 holdings_count: 12
 top10_pct_nav: 100.93
 master_fund: "Invesco Funds, SICAV - Invesco Pan European Small Cap Equity Fund"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, geo/europe, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # LHEUROPE
@@ -42,6 +42,9 @@ _LH EUROPE FUND_
 > - **จัดตั้ง:** 2021-10-04 · **จดทะเบียน:** 2021-10-28
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 11.0369 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.16%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

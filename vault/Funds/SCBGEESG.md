@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 105.1
 master_fund: "Janus Henderson Hrzn Glb Sus Eq IU2 USD"
 master_isin: "LU1983259703"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # SCBGEESG
@@ -43,6 +43,9 @@ _SCB Global Sustainable Equity Fund_
 > - **จัดตั้ง:** 2020-11-19 · **จดทะเบียน:** 2020-11-30
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 13.6145 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.72%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

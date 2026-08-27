@@ -27,7 +27,7 @@ master_fund: "State Street SPDR Bloomberg 1-3 Month T-Bill ETF"
 master_isin: "US78468R6633"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/us, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/park-cash]
 ---
 
 # TUSFIX
@@ -45,6 +45,9 @@ _TISCO US Short Term Fixed Income Fund_
 > - **จัดตั้ง:** 2016-02-19 · **จดทะเบียน:** 2016-07-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.9029 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำ (3/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.53%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

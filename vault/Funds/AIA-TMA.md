@@ -25,7 +25,7 @@ holdings_count: 7
 top10_pct_nav: 100.53
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-TMA
@@ -43,6 +43,9 @@ _AIA Moderate Allocation Fund_
 > - **จัดตั้ง:** 2022-01-27 · **จดทะเบียน:** 2022-04-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5714 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

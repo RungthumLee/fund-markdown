@@ -25,7 +25,7 @@ holdings_count: 87
 top10_pct_nav: 104.32
 master_fund: "Invesco China Technology ETF"
 master_isin: "US46138E8003"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/china, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBRMCTECH
@@ -43,6 +43,9 @@ _SCB China Technology RMF_
 > - **จัดตั้ง:** 2021-08-11 · **จดทะเบียน:** 2021-08-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 5.6477 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

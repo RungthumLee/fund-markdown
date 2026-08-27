@@ -24,7 +24,7 @@ fund_size: 620557058.07
 holdings_count: 48
 top10_pct_nav: 74.98
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # VFOCUS-D
@@ -42,6 +42,9 @@ _Thai Value Focus Equity-Dividend Fund_
 > - **จัดตั้ง:** 2012-08-22 · **จดทะเบียน:** 2012-09-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 5.2057 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 48 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

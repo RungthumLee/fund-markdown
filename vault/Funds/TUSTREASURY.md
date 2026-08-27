@@ -27,7 +27,7 @@ master_fund: "iShares U.S. Treasury Bond ETF"
 master_isin: "US46429B2676"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TUSTREASURY
@@ -45,6 +45,9 @@ _TISCO US Treasury Bond Fund_
 > - **จัดตั้ง:** 2022-10-17 · **จดทะเบียน:** 2022-11-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.9413 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.50%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

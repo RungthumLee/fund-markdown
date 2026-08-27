@@ -24,7 +24,7 @@ fund_size: 61605465.16
 holdings_count: 23
 top10_pct_nav: 74.67
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-PROPIN
@@ -42,6 +42,9 @@ _Asset Plus  Property and Infrastructure Flexible Fund_
 > - **จัดตั้ง:** 2020-01-24 · **จดทะเบียน:** 2020-02-12
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.3948 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

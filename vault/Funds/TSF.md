@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 77.51
 peer_group: "Equity General"
 fund_managers: ["น.ส. มัลลิกานิยมในธรรม", "นาย ยศวสุสุธารัตนชัยพร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # TSF
@@ -43,6 +43,9 @@ _TISCO Strategic Fund_
 > - **จัดตั้ง:** 2004-02-19 · **จดทะเบียน:** 2004-03-16
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 71.2648 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 17 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

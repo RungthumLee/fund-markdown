@@ -24,7 +24,7 @@ fund_size: 43855736.43
 holdings_count: 20
 top10_pct_nav: 103.34
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # MCANN
@@ -42,6 +42,9 @@ _MFC Global Cannabis Fund_
 > - **จัดตั้ง:** 2021-03-31 · **จดทะเบียน:** 2021-04-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 0.8417 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 20 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

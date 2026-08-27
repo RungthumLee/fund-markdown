@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 96618370.94
 holdings_count: 34
 top10_pct_nav: 49.1
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
 # MEGAWORLD30
@@ -41,6 +41,9 @@ _MEGA WORLD 30 FUND_
 > - **จัดตั้ง:** 2024-12-06 · **จดทะเบียน:** 2024-12-18
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 13.2368 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · พอร์ตถือราว 34 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.72%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

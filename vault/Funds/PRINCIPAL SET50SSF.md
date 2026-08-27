@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 97517197.38
 holdings_count: 51
 top10_pct_nav: 60.24
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL SET50SSF
@@ -41,6 +41,9 @@ _Principal SET50 Index Super Savings Fund_
 > - **จัดตั้ง:** 2020-03-27 · **จดทะเบียน:** 2020-04-14
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.7608 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 51 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

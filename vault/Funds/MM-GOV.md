@@ -24,7 +24,7 @@ fund_size: 4142428130.05
 holdings_count: 21
 top10_pct_nav: 80.34
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t5, struct/direct, style/enhanced-index, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t5, struct/direct, style/enhanced-index, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # MM-GOV
@@ -42,6 +42,9 @@ _MFC Government Money Market  Fund_
 > - **จัดตั้ง:** 2008-10-21 · **จดทะเบียน:** 2008-11-05
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.4982 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.30%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

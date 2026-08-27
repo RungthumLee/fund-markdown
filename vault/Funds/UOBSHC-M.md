@@ -26,7 +26,7 @@ top10_pct_nav: 100.76
 master_fund: "United Global Healthcare SGD Acc"
 master_isin: "SG9999001176"
 peer_group: "Health Care"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UOBSHC-M
@@ -44,6 +44,9 @@ _UOB Smart Global Healthcare Fund_
 > - **จัดตั้ง:** 2014-08-22 · **จดทะเบียน:** 2014-09-09
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 16.4 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

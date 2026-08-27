@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 9822451.18
 holdings_count: 31
 top10_pct_nav: 65.08
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHACTGF
@@ -41,6 +41,9 @@ _LH Active Growth Fund_
 > - **จัดตั้ง:** 2016-11-08 · **จดทะเบียน:** 2016-12-27
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 13.1889 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

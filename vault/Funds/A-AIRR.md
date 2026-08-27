@@ -25,7 +25,7 @@ top10_pct_nav: 100.88
 master_fund: "First Trust RBA American Industrial RenaissanceTM ETF"
 master_isin: "US33738R7044"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # A-AIRR
@@ -43,6 +43,9 @@ _Atrackers U.S. Industrial Renaissance Fund_
 > - **จัดตั้ง:** 2026-02-26 · **จดทะเบียน:** 2026-03-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.7147 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

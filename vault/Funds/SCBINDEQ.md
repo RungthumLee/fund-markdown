@@ -25,7 +25,7 @@ holdings_count: 41
 top10_pct_nav: 104.05
 master_fund: "UTI India Dynamic Equity USD Instl"
 master_isin: "IE00BYPC7R45"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/india, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBINDEQ
@@ -43,6 +43,9 @@ _SCB India Active Equity_
 > - **จัดตั้ง:** 2021-10-07 · **จดทะเบียน:** 2021-10-20
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 7.7508 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

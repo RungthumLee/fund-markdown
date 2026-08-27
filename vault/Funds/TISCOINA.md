@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.41
 peer_group: "India Equity"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # TISCOINA
@@ -43,6 +43,9 @@ _TISCO India Active Equity Fund_
 > - **จัดตั้ง:** 2018-02-09 · **จดทะเบียน:** 2018-03-08
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 15.4927 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 6 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

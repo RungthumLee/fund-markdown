@@ -27,7 +27,7 @@ master_fund: "Allianz Dyn MltAst Stgy SRI75 P EUR"
 master_isin: "LU1575694655"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # KFGDA
@@ -45,6 +45,9 @@ _Krungsri Global Dynamic Aggressive Allocation SRI Fund_
 > - **จัดตั้ง:** 2024-09-16 · **จดทะเบียน:** 2024-09-27
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 12.765 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

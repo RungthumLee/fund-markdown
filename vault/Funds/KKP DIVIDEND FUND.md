@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 103746069.79
 holdings_count: 27
 top10_pct_nav: 42.53
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP DIVIDEND FUND
@@ -41,6 +41,9 @@ _KKP DIVIDEND EQUITY FUND_
 > - **จัดตั้ง:** 2012-06-05 · **จดทะเบียน:** 2012-06-21
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 14.3069 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 27 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.15%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

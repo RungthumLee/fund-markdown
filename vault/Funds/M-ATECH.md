@@ -24,7 +24,7 @@ fund_size: 211549940.2
 holdings_count: 24
 top10_pct_nav: 106.9
 fund_managers: ["นาย ชาญวุฒิ รุงแสงมนูญ", "นาย กิตติพงษ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, geo/asia-pacific, theme/technology, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # M-ATECH
@@ -42,6 +42,9 @@ _MFC Asia Technology Fund_
 > - **จัดตั้ง:** 2018-09-18 · **จดทะเบียน:** 2018-11-08
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 21.5168 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 24 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.23%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

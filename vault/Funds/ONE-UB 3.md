@@ -24,7 +24,7 @@ fund_size: 43527797.95
 holdings_count: 48
 top10_pct_nav: 65.74
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, theme/financials, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ONE-UB 3
@@ -42,6 +42,9 @@ _ONE-UB 3 FUND_
 > - **จัดตั้ง:** 1993-11-15 · **จดทะเบียน:** 1993-12-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.0777 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 48 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

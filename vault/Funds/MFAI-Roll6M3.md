@@ -24,7 +24,7 @@ fund_size: 733271856.08
 holdings_count: 10
 top10_pct_nav: 100.12
 fund_managers: ["นาย พิพัฒน์ นรานันทน์", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/buy-hold, geo/thailand, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
 
 # MFAI-Roll6M3
@@ -42,6 +42,9 @@ _MFC Fixed Income Rollover Fund 6M3 Not for Retail Investors_
 > - **จัดตั้ง:** 2024-02-21 · **จดทะเบียน:** 2024-03-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.509 (2026-07-31)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

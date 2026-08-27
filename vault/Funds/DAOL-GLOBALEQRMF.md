@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 101.84
 master_fund: "GMO Quality Investment USD Acc"
 master_isin: "IE00B3SBSR82"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # DAOL-GLOBALEQRMF
@@ -43,6 +43,9 @@ _DAOL GLOBAL EQUITY RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2020-11-17 · **จดทะเบียน:** 2020-12-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.3544 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.33%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

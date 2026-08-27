@@ -26,7 +26,7 @@ top10_pct_nav: 102.09
 master_fund: "PIMCO GIS Income Institutional USD Acc"
 master_isin: "IE00B87KCF77"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/discretionary, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/discretionary, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # UGISFX
@@ -44,6 +44,9 @@ _United Global Income Strategic Bond FX Fund_
 > - **จัดตั้ง:** 2024-05-27 · **จดทะเบียน:** 2024-07-11
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.155 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.85%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

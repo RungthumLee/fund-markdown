@@ -24,7 +24,7 @@ fund_size: 3614376.84
 holdings_count: 16
 top10_pct_nav: 79.35
 fund_managers: ["นาย ศรุต สุทธิสำแดง", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # HAPPY D5
@@ -42,6 +42,9 @@ _MFC Happy Dee Five Fund_
 > - **จัดตั้ง:** 2006-09-15 · **จดทะเบียน:** 2006-10-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.1311 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

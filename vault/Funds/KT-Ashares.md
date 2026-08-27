@@ -25,7 +25,7 @@ holdings_count: 13
 top10_pct_nav: 101.2
 master_fund: "Schroder ISF China A Y Acc USD"
 master_isin: "LU2747266877"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-Ashares
@@ -43,6 +43,9 @@ _KTAM China A Shares Equity Fund_
 > - **จัดตั้ง:** 2020-07-24 · **จดทะเบียน:** 2020-08-07
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 8.3761 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.53%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

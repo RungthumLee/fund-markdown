@@ -24,7 +24,7 @@ fund_size: 3745710588.95
 holdings_count: 32
 top10_pct_nav: 46.49
 peer_group: "Vietnam Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-VIETNAMRMF
@@ -42,6 +42,9 @@ _Bualuang Vietnam Equity RMF_
 > - **จัดตั้ง:** 2021-11-08 · **จดทะเบียน:** 2021-12-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.5275 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 32 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

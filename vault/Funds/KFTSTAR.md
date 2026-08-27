@@ -25,7 +25,7 @@ holdings_count: 56
 top10_pct_nav: 50.42
 peer_group: "Equity General"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย เอกชัย บุญยะพงศ์ไชย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KFTSTAR
@@ -43,6 +43,9 @@ _Krungsri Thai All Stars Equity Fund_
 > - **จัดตั้ง:** 2017-02-20 · **จดทะเบียน:** 2017-03-20
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.586 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 56 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.33%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

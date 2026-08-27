@@ -26,7 +26,7 @@ top10_pct_nav: 104.73
 master_fund: "Wellington Endrng Infras Asts EUR G Ac"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/infrastructure, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-GINFRA
@@ -44,6 +44,9 @@ _K Global Infrastructure Equity Fund_
 > - **จัดตั้ง:** 2015-11-20 · **จดทะเบียน:** 2016-03-23
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.2013 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

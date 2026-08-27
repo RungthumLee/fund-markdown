@@ -24,7 +24,7 @@ fund_size: 72481925.88
 holdings_count: 13
 top10_pct_nav: 98.98
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-XDIGI
@@ -42,6 +42,9 @@ _BCAP NEXT GEN Digital Lifestyle Fund_
 > - **จัดตั้ง:** 2024-01-31 · **จดทะเบียน:** 2024-04-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.4074 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.48%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

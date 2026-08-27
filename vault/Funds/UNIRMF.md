@@ -26,7 +26,7 @@ top10_pct_nav: 99.9
 master_fund: "United Global Innovation A USD Acc"
 master_isin: "SGXZ81514606"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # UNIRMF
@@ -44,6 +44,9 @@ _United Global Innovation Fund RMF_
 > - **จัดตั้ง:** 2021-06-01 · **จดทะเบียน:** 2021-06-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.5121 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.00%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

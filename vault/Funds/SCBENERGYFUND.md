@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 326653443.34
 holdings_count: 27
 top10_pct_nav: 87.74
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, struct/direct, style/passive, style/dividend, geo/thailand, theme/energy, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # SCBENERGYFUND
@@ -41,6 +41,9 @@ _SCB SET ENERGY SECTOR INDEX FUND_
 > - **จัดตั้ง:** 2009-10-12 · **จดทะเบียน:** 2011-06-28
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 9.6478 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 27 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.11%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

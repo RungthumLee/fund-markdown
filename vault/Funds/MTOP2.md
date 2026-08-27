@@ -24,7 +24,7 @@ fund_size: 92564962.62
 holdings_count: 40
 top10_pct_nav: 55.18
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # MTOP2
@@ -42,6 +42,9 @@ _MFC Thai Opportunity Fund Series 2_
 > - **จัดตั้ง:** 2021-09-23 · **จดทะเบียน:** 2021-12-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.8787 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

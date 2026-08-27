@@ -24,7 +24,7 @@ fund_size: 2360674813.65
 holdings_count: 104
 top10_pct_nav: 107.32
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/total-market, fx/unhedged, struct/direct, style/active, theme/technology/semiconductor, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/total-market, fx/unhedged, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # M-MEM
@@ -42,6 +42,9 @@ _MFC Memory Chip Equity Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2026-03-19 · **จดทะเบียน:** 2026-04-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.9644 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 104 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

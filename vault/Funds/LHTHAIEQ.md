@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 21733261.3
 holdings_count: 31
 top10_pct_nav: 68.59
-tags: [fund, sec-data, asset/equity, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # LHTHAIEQ
@@ -41,6 +41,9 @@ _LH Thai Equity Fund_
 > - **จัดตั้ง:** 2017-11-02 · **จดทะเบียน:** 2017-11-23
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.9681 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 31 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.41%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

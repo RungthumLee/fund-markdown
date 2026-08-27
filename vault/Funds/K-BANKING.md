@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 102.51
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/passive, geo/thailand, theme/financials, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/passive, use/accumulate]
 ---
 
 # K-BANKING
@@ -43,6 +43,9 @@ _K Banking Sector Index Fund_
 > - **จัดตั้ง:** 2015-06-25 · **จดทะเบียน:** 2015-09-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 22.1164 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 14 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 41152720.0
 holdings_count: 11
 top10_pct_nav: 101.19
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHGINCOME
@@ -41,6 +41,9 @@ _LH Global Income Fund_
 > - **จัดตั้ง:** 2017-07-05 · **จดทะเบียน:** 2017-07-26
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 9.5988 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.39%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

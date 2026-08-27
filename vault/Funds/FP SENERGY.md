@@ -27,7 +27,7 @@ master_fund: "Robeco Smart Energy I-USD Cap"
 master_isin: "LU2145463027"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, theme/energy, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # FP SENERGY
@@ -45,6 +45,9 @@ _First Plus Smart Energy Equities FIF_
 > - **จัดตั้ง:** 2022-03-09 · **จดทะเบียน:** 2022-03-31
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 16.3188 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.71%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

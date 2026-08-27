@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2460325276.52
 holdings_count: 36
 top10_pct_nav: 55.94
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # LHTREASURY
@@ -41,6 +41,9 @@ _LH TREASURY FUND_
 > - **จัดตั้ง:** 2022-03-08 · **จดทะเบียน:** 2022-03-15
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.6153 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

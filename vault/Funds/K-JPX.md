@@ -26,7 +26,7 @@ top10_pct_nav: 101.68
 master_fund: "NEXT FUNDS TOPIX Exchange Traded Fund"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # K-JPX
@@ -44,6 +44,9 @@ _K Japanese Equity Index Fund_
 > - **จัดตั้ง:** 2015-02-26 · **จดทะเบียน:** 2016-04-27
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 32.5754 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

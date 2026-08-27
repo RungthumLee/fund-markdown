@@ -24,7 +24,7 @@ fund_size: 811026041.67
 holdings_count: 62
 top10_pct_nav: 42.71
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, use/accumulate]
 ---
 
 # TFIF
@@ -42,6 +42,9 @@ _Thai Fixed Income Fund_
 > - **จัดตั้ง:** 2000-11-08 · **จดทะเบียน:** 2001-01-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.6862 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

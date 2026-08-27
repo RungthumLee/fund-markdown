@@ -24,7 +24,7 @@ fund_size: 136233166.73
 holdings_count: 17
 top10_pct_nav: 100.61
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-GLOBALTOP8M14
@@ -42,6 +42,9 @@ _ONE GLOBAL TOP 8M14 FUND_
 > - **จัดตั้ง:** 2021-03-02 · **จดทะเบียน:** 2021-03-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.5718 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

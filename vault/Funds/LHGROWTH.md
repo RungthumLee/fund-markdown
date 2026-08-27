@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 686740496.77
 holdings_count: 28
 top10_pct_nav: 66.97
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHGROWTH
@@ -41,6 +41,9 @@ _LH GROWTH FUND_
 > - **จัดตั้ง:** 2013-04-04 · **จดทะเบียน:** 2013-06-05
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 17.5859 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 28 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

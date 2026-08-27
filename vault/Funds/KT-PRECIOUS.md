@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.87
 master_fund: "Franklin Gold and Prec Mtls A(acc)SGD"
 master_isin: "LU0498741890"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-PRECIOUS
@@ -43,6 +43,9 @@ _KTAM World Gold and Precious Equity Fund_
 > - **จัดตั้ง:** 2010-09-15 · **จดทะเบียน:** 2010-11-19
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 17.427 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

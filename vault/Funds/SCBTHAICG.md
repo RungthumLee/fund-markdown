@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 208579852.92
 holdings_count: 28
 top10_pct_nav: 66.5
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBTHAICG
@@ -41,6 +41,9 @@ _SCB Thai Equity CG Fund_
 > - **จัดตั้ง:** 2017-08-28 · **จดทะเบียน:** 2017-09-19
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 14.769 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 28 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

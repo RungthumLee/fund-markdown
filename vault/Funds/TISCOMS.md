@@ -25,7 +25,7 @@ holdings_count: 31
 top10_pct_nav: 51.02
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["นาย ณัฐภณอัศวเหม", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # TISCOMS
@@ -43,6 +43,9 @@ _TISCO Mid/Small Cap Equity Fund_
 > - **จัดตั้ง:** 2013-03-27 · **จดทะเบียน:** 2013-07-11
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.9342 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 31 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.09%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

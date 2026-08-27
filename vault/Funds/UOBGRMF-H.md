@@ -26,7 +26,7 @@ top10_pct_nav: 100.34
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 peer_group: "Commodities Precious Metals"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # UOBGRMF-H
@@ -44,6 +44,9 @@ _UOB Gold RMF - Currency Hedged_
 > - **จัดตั้ง:** 2011-11-30 · **จดทะเบียน:** 2011-12-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 20.1933 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.53%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

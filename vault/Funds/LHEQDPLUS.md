@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 6463177.4
 holdings_count: 31
 top10_pct_nav: 73.34
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # LHEQDPLUS
@@ -41,6 +41,9 @@ _LH EQUITY DIVIDEND PLUS FUND_
 > - **จัดตั้ง:** 2019-01-11 · **จดทะเบียน:** 2019-01-30
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.652 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 31 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

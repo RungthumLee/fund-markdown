@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 185127720.75
 holdings_count: 19
 top10_pct_nav: 99.38
-tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # LHVN
@@ -41,6 +41,9 @@ _LH VIETNAM FUND_
 > - **จัดตั้ง:** 2021-09-10 · **จดทะเบียน:** 2021-11-29
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 7.705 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 19 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.19%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

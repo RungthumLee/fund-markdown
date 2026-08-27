@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 98.95
 master_fund: "กองทุนเปิดบัวหลวงหุ้นจีนเอแชร์เพื่อการเลี้ยงชีพ"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/dividend, geo/china, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/dividend, use/income]
 ---
 
 # B-CHINESSF
@@ -43,6 +43,9 @@ _Bualuang China Equity Super Savings Fund_
 > - **จัดตั้ง:** 2021-05-31 · **จดทะเบียน:** 2021-07-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.4994 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

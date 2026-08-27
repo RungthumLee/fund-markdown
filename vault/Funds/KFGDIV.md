@@ -27,7 +27,7 @@ master_fund: "Fidelity Global Dividend Y-QInc(G)-USD"
 master_isin: "LU1560650217"
 peer_group: "Global Equity Fully FX Risk Hedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/world, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KFGDIV
@@ -45,6 +45,9 @@ _Krungsri Global Dividend Hedged FX Fund_
 > - **จัดตั้ง:** 2020-04-02 · **จดทะเบียน:** 2020-06-24
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 16.314 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.53%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

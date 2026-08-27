@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 295632726.45
 holdings_count: 28
 top10_pct_nav: 51.87
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP SM CAP FUND
@@ -41,6 +41,9 @@ _KKP SMALL AND MID CAP EQUITY FUND_
 > - **จัดตั้ง:** 2016-08-09 · **จดทะเบียน:** 2016-11-17
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 15.1502 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 28 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.14%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

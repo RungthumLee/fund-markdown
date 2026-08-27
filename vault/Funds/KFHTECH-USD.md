@@ -23,7 +23,7 @@ fund_size: 7882800.48
 master_fund: "BGF World Technology Fund"
 peer_group: "Technology Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFHTECH-USD
@@ -41,6 +41,9 @@ _Krungsri World Tech Equity USD Fund_
 > - **จัดตั้ง:** 2026-07-09 · **จดทะเบียน:** 2026-07-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.2667 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

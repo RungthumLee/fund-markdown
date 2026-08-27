@@ -24,7 +24,7 @@ holdings_count: 4
 top10_pct_nav: 99.68
 master_fund: "FF - Global Dividend Pl Y Acc USD"
 master_isin: "LU1711970662"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGDIVP-M
@@ -42,6 +42,9 @@ _United Global Dividend Plus Fund_
 > - **จัดตั้ง:** 2026-01-21 · **จดทะเบียน:** 2026-02-24
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.4536 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

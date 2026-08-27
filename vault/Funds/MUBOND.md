@@ -26,7 +26,7 @@ top10_pct_nav: 104.32
 master_fund: "JPM US Aggregate Bond I acc USD"
 master_isin: "LU0248063595"
 fund_managers: ["นาง พัณณรัชต์ บรรพโต", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # MUBOND
@@ -44,6 +44,9 @@ _MFC US Aggregate Bond Fund_
 > - **จัดตั้ง:** 2023-02-02 · **จดทะเบียน:** 2023-02-21
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 9.6058 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.94%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

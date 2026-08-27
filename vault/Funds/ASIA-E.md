@@ -24,7 +24,7 @@ fund_size: 17075769.13
 holdings_count: 7
 top10_pct_nav: 106.83
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ASIA-E
@@ -42,6 +42,9 @@ _All Asia Equity Fund_
 > - **จัดตั้ง:** 2006-05-03 · **จดทะเบียน:** 2006-06-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.3019 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 7 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

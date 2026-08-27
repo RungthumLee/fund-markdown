@@ -24,7 +24,7 @@ fund_size: 1119218.03
 holdings_count: 16
 top10_pct_nav: 82.33
 fund_managers: ["นาย ภัทรพล โสภณศิรินันท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-THGEQ
@@ -42,6 +42,9 @@ _Asset Plus Thai High Growth Equity Fund_
 > - **จัดตั้ง:** 2006-11-24 · **จดทะเบียน:** 2006-12-20
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 28.8473 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 16 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

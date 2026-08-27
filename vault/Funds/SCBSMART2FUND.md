@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 306457945.57
 holdings_count: 38
 top10_pct_nav: 67.9
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/passive, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBSMART2FUND
@@ -41,6 +41,9 @@ _SCB SMART PLAN 2 OPEN END FUND_
 > - **จัดตั้ง:** 2012-08-27 · **จดทะเบียน:** 2012-09-26
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 10.4413 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

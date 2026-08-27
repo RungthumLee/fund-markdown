@@ -27,7 +27,7 @@ master_fund: "BlackRock Global Uncons Eq D USD Acc"
 master_isin: "IE00BK70NJ20"
 peer_group: "Global Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFGLOBFX
@@ -45,6 +45,9 @@ _Krungsri Global Unconstrained Equity FX Fund_
 > - **จัดตั้ง:** 2024-04-17 · **จดทะเบียน:** 2024-05-02
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.5599 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

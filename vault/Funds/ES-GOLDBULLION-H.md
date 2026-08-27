@@ -25,7 +25,7 @@ holdings_count: 10
 top10_pct_nav: 100.17
 peer_group: "Commodities Precious Metals"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/passive, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/passive, use/accumulate]
 ---
 
 # ES-GOLDBULLION-H
@@ -43,6 +43,9 @@ _Eastspring Gold Bullion-Currency Hedged Fund_
 > - **จัดตั้ง:** 2010-12-30 · **จดทะเบียน:** 2011-03-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 23.3937 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.35%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

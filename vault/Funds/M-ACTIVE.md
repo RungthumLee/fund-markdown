@@ -24,7 +24,7 @@ fund_size: 10485236.93
 holdings_count: 41
 top10_pct_nav: 56.7
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # M-ACTIVE
@@ -42,6 +42,9 @@ _MFC Active Equity Fund_
 > - **จัดตั้ง:** 2010-01-27 · **จดทะเบียน:** 2010-02-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.3133 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 41 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

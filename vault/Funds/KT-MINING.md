@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 99.91
 master_fund: "Allianz Global Investors Fund - Allianz Global Metals and Mining Fund"
 master_isin: "LU0604766674"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-MINING
@@ -43,6 +43,9 @@ _KTAM World Metals and Mining Fund_
 > - **จัดตั้ง:** 2010-04-12 · **จดทะเบียน:** 2010-05-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.149 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

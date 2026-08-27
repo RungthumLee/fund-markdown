@@ -24,7 +24,7 @@ fund_size: 392090263.85
 holdings_count: 40
 top10_pct_nav: 56.07
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # UOBEQ-MSSF
@@ -42,6 +42,9 @@ _United Equity Super Savings Fund_
 > - **จัดตั้ง:** 2020-03-26 · **จดทะเบียน:** 2020-04-10
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.9694 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 40 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

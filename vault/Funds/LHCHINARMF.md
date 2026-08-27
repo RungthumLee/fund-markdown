@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 24674852.49
 holdings_count: 25
 top10_pct_nav: 102.31
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # LHCHINARMF
@@ -41,6 +41,9 @@ _LH EQUITY CHINA OPPORTUNITY RMF FUND_
 > - **จัดตั้ง:** 2020-12-04 · **จดทะเบียน:** 2021-05-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 4.3619 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 25 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.05%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

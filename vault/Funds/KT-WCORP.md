@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 95.43
 master_fund: "BGF Global Corporate Bond A2 USD"
 master_isin: "LU0297942194"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-WCORP
@@ -43,6 +43,9 @@ _KTAM World Corporate Bond Fund_
 > - **จัดตั้ง:** 2013-03-19 · **จดทะเบียน:** 2013-04-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.4685 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.69%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

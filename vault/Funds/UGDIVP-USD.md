@@ -25,7 +25,7 @@ top10_pct_nav: 130.71
 master_fund: "JPM US Technology I acc USD"
 master_isin: "LU0248060906"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGDIVP-USD
@@ -43,6 +43,9 @@ _United USD Global Dividend Plus Fund_
 > - **จัดตั้ง:** 2025-12-02 · **จดทะเบียน:** 2026-02-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.5611 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

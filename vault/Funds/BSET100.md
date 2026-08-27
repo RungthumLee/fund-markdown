@@ -24,7 +24,7 @@ fund_size: 1834981437.26
 holdings_count: 101
 top10_pct_nav: 54.97
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/total-market, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/total-market, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # BSET100
@@ -42,6 +42,9 @@ _BCAP SET100 ETF_
 > - **จัดตั้ง:** 2017-07-07 · **จดทะเบียน:** 2017-09-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.1521 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 101 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.69%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

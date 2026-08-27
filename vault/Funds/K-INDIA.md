@@ -26,7 +26,7 @@ top10_pct_nav: 103.91
 master_fund: "GS India Equity I Acc USD"
 peer_group: "India Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-INDIA
@@ -44,6 +44,9 @@ _K India Equity Fund_
 > - **จัดตั้ง:** 2011-04-05 · **จดทะเบียน:** 2011-06-02
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.9463 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

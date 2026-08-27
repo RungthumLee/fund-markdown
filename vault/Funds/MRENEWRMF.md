@@ -26,7 +26,7 @@ top10_pct_nav: 102.53
 master_fund: "BlackRock Global Funds - Sustainable Energy Fund D2"
 master_isin: "LU0252969661"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/rmf, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # MRENEWRMF
@@ -44,6 +44,9 @@ _MFC Renewable Energy Retirement Fund_
 > - **จัดตั้ง:** 2021-12-01 · **จดทะเบียน:** 2021-12-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7732 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 252083114.69
 holdings_count: 40
 top10_pct_nav: 63.99
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # PRINCIPAL TEQAF
@@ -41,6 +41,9 @@ _Principal Thai Equity Alpha Focus Fund_
 > - **จัดตั้ง:** 2005-11-03 · **จดทะเบียน:** 2005-12-01
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 25.4503 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 40 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

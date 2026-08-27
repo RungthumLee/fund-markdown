@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 5413356.99
 holdings_count: 19
 top10_pct_nav: 72.06
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # LHMSFL
@@ -41,6 +41,9 @@ _LH MS FLEXIBLE FUND_
 > - **จัดตั้ง:** 2015-06-26 · **จดทะเบียน:** 2015-07-22
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 16.4696 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.39%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

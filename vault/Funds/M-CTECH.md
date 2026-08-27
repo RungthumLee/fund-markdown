@@ -24,7 +24,7 @@ fund_size: 492083476.1
 holdings_count: 42
 top10_pct_nav: 101.4
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย ชาญวุฒิ รุงแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, geo/china, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # M-CTECH
@@ -42,6 +42,9 @@ _MFC China Technology Fund_
 > - **จัดตั้ง:** 2025-05-22 · **จดทะเบียน:** 2025-07-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.8794 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 42 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

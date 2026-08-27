@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 205823722.49
 holdings_count: 47
 top10_pct_nav: 71.55
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, theme/real-estate, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KKP PROP-D FUND
@@ -41,6 +41,9 @@ _KKP PROPERTY SECTOR FUND-DIVIDEND_
 > - **จัดตั้ง:** 2013-08-09 · **จดทะเบียน:** 2013-09-17
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.4467 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.26%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

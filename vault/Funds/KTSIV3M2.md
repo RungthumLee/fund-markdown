@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 11799918.64
 holdings_count: 2
 top10_pct_nav: 100.06
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/active, use/accumulate]
 ---
 
 # KTSIV3M2
@@ -41,6 +41,9 @@ _Krung Thai Smart Invest 3M2 Fund_
 > - **จัดตั้ง:** 2008-10-02 · **จดทะเบียน:** 2008-11-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.9638 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

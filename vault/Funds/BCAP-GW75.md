@@ -24,7 +24,7 @@ fund_size: 258056059.32
 holdings_count: 20
 top10_pct_nav: 100.88
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GW75
@@ -42,6 +42,9 @@ _BCAP Global Wealth 75 Fund_
 > - **จัดตั้ง:** 2019-03-19 · **จดทะเบียน:** 2019-05-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.963 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.51%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

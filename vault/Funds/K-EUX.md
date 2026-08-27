@@ -26,7 +26,7 @@ top10_pct_nav: 102.77
 master_fund: "iShares Core EURO STOXX 50 UCITS ETF (DE)"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # K-EUX
@@ -44,6 +44,9 @@ _K European Equity Index Fund_
 > - **จัดตั้ง:** 2016-01-05 · **จดทะเบียน:** 2016-04-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 25.5165 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

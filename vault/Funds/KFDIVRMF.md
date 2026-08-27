@@ -25,7 +25,7 @@ holdings_count: 79
 top10_pct_nav: 46.16
 peer_group: "Equity General"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFDIVRMF
@@ -43,6 +43,9 @@ _Krungsri Dividend Stock RMF_
 > - **จัดตั้ง:** 2007-11-15 · **จดทะเบียน:** 2007-12-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 26.9229 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 79 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.33%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

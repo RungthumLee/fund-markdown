@@ -27,7 +27,7 @@ master_fund: "GS India Equity I Acc USD"
 master_isin: "LU0333811072"
 peer_group: "India Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-INDAE
@@ -45,6 +45,9 @@ _Eastspring India Active Equity Fund_
 > - **จัดตั้ง:** 2018-04-12 · **จดทะเบียน:** 2018-06-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.1553 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

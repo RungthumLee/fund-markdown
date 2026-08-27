@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1326680096.48
 holdings_count: 36
 top10_pct_nav: 56.68
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ABG
@@ -41,6 +41,9 @@ _abrdn Growth Fund_
 > - **จัดตั้ง:** 1997-04-08 · **จดทะเบียน:** 1997-07-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 96.0105 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 36 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.03%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

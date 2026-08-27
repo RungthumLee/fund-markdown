@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 85195537.36
 holdings_count: 28
 top10_pct_nav: 45.69
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # KT-BRAIN
@@ -41,6 +41,9 @@ _Krung Thai AI Brain Fund_
 > - **จัดตั้ง:** 2018-09-05 · **จดทะเบียน:** 2018-10-11
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 7.6394 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 28 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.92%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

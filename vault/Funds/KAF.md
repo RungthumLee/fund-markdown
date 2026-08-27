@@ -24,7 +24,7 @@ fund_size: 7154779.0
 holdings_count: 56
 top10_pct_nav: 83.38
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KAF
@@ -42,6 +42,9 @@ _Karnchana Anan Open-End Fund_
 > - **จัดตั้ง:** 1996-05-09 · **จดทะเบียน:** 1996-08-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.9876 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

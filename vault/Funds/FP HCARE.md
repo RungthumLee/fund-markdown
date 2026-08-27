@@ -27,7 +27,7 @@ master_fund: "Manulife GF Healthcare AA"
 master_isin: "LU0357321016"
 peer_group: "Health Care"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # FP HCARE
@@ -45,6 +45,9 @@ _First Plus Healthcare FIF_
 > - **จัดตั้ง:** 2014-07-22 · **จดทะเบียน:** 2014-08-18
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 20.5425 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

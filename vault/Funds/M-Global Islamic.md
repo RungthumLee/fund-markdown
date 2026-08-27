@@ -21,7 +21,7 @@ nav: 9.8764
 nav_date: "2026-08-24"
 fund_size: 884079.08
 master_fund: "HSBC Islamic Global Equity Index AD"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, compliance/sharia, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, compliance/sharia, use/accumulate]
 ---
 
 # M-Global Islamic
@@ -39,6 +39,9 @@ _MFC Global Islamic Fund_
 > - **จัดตั้ง:** 2026-04-24 · **จดทะเบียน:** 2026-08-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.8764 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 104.43
 master_fund: "AIA Global Select Equity Z USD"
 peer_group: "Global Equity Fully FX Risk Hedge"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # AIA-SEL
@@ -43,6 +43,9 @@ _AIA Global Select Equity Fund_
 > - **จัดตั้ง:** 2023-11-13 · **จดทะเบียน:** 2023-12-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.1084 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

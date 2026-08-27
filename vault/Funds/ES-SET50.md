@@ -25,7 +25,7 @@ holdings_count: 106
 top10_pct_nav: 60.12
 peer_group: "SET 50 Index Fund"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # ES-SET50
@@ -43,6 +43,9 @@ _Eastspring SET50 Fund_
 > - **จัดตั้ง:** 2000-11-23 · **จดทะเบียน:** 2001-03-29
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 124.0841 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 106 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.61%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 105.55
 master_fund: "Baillie Gifford WW EM LdgComs B USD Acc"
 master_isin: "IE00BW0DJL69"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # M-EM
@@ -44,6 +44,9 @@ _MFC Emerging Market Fund_
 > - **จัดตั้ง:** 2020-10-29 · **จดทะเบียน:** 2021-01-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.1184 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

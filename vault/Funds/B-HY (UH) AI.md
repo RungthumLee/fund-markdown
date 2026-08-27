@@ -26,7 +26,7 @@ top10_pct_nav: 98.29
 master_fund: "AXAWF US High Yield Bonds I Cap USD"
 master_isin: "LU0276015889"
 peer_group: "High Yield Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t4, fx/discretionary, struct/feeder, theme/technology/ai-robotics, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # B-HY (UH) AI
@@ -44,6 +44,9 @@ _Bualuang High Yield Fund (Unhedged) not for Retail Investors_
 > - **จัดตั้ง:** 2016-07-13 · **จดทะเบียน:** 2016-08-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.7576 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.07%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

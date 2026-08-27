@@ -26,7 +26,7 @@ top10_pct_nav: 100.57
 master_fund: "Fidelity Funds - Asian Special Situations Fund Y-Acc-USD"
 master_isin: "LU0346390601"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ASP-ASIAN
@@ -44,6 +44,9 @@ _Asset Plus Asian Special Situations Fund_
 > - **จัดตั้ง:** 2007-09-10 · **จดทะเบียน:** 2007-10-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.561 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.93%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

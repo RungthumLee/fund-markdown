@@ -24,7 +24,7 @@ fund_size: 2495335.43
 holdings_count: 38
 top10_pct_nav: 76.01
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย ธนกร ทองมาก"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # DAOL-XPROP
@@ -42,6 +42,9 @@ _DAOL FLEXIBLE PROPERTY INFRA INCOME FUND_
 > - **จัดตั้ง:** 2022-05-27 · **จดทะเบียน:** 2022-06-10
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.8061 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.42%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

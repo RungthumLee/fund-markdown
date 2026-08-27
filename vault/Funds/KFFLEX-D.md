@@ -25,7 +25,7 @@ holdings_count: 35
 top10_pct_nav: 58.68
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. สาวิณี สุขศรีวงศ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KFFLEX-D
@@ -43,6 +43,9 @@ _Krungsri Flexible Dividend Fund_
 > - **จัดตั้ง:** 2002-01-28 · **จดทะเบียน:** 2002-05-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 5.2033 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.20%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

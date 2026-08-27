@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 9978257863.25
 holdings_count: 57
 top10_pct_nav: 103.87
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-GEQ
@@ -41,6 +41,9 @@ _AIA Global Equity Fund_
 > - **จัดตั้ง:** 2021-01-05 · **จดทะเบียน:** 2021-03-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.0675 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 57 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.68%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.45
 master_fund: "abrdn-Japan Sustainable Eqty Z Acc JPY"
 master_isin: "LU1488356244"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/japan, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ABJO
@@ -43,6 +43,9 @@ _abrdn Japanese Sustainable Equity Fund_
 > - **จัดตั้ง:** 2013-08-09 · **จดทะเบียน:** 2013-08-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 22.3701 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 61
 top10_pct_nav: 103.91
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBNDQ
@@ -43,6 +43,9 @@ _SCB US Equity NDQ_
 > - **จัดตั้ง:** 2021-08-11 · **จดทะเบียน:** 2021-08-27
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 16.646 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

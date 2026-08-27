@@ -26,7 +26,7 @@ top10_pct_nav: 100.13
 master_fund: "Goldman Sachs Greater China Equity - P Cap USD"
 master_isin: "LU0119216801"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/unhedged, struct/feeder, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/unhedged, struct/feeder, use/accumulate]
 ---
 
 # GC
@@ -44,6 +44,9 @@ _Greater China Fund_
 > - **จัดตั้ง:** 2009-07-03 · **จดทะเบียน:** 2009-07-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 20.1293 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.45%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

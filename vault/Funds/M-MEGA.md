@@ -24,7 +24,7 @@ fund_size: 59781560.56
 holdings_count: 36
 top10_pct_nav: 57.8
 fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # M-MEGA
@@ -42,6 +42,9 @@ _MFC MEGA Thai Stocks Fund_
 > - **จัดตั้ง:** 2019-03-21 · **จดทะเบียน:** 2019-04-10
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.2166 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 36 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

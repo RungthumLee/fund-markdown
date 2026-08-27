@@ -26,7 +26,7 @@ top10_pct_nav: 112.69
 master_fund: "Polar Capital Global Tech I Inc"
 master_isin: "IE00B42NVC37"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-GTECH
@@ -44,6 +44,9 @@ _DAOL GLOBAL TECHNOLOGY FUND_
 > - **จัดตั้ง:** 2019-05-29 · **จดทะเบียน:** 2019-08-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 33.7385 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

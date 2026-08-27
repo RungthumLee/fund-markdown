@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 101.22
 master_fund: "AXAWF Asian Short Dur Bds I Cap USD"
 master_isin: "LU1196531773"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/asia-pacific, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-ASIANBOND
@@ -43,6 +43,9 @@ _KTAM Asian Bonds Fund_
 > - **จัดตั้ง:** 2022-01-24 · **จดทะเบียน:** 2022-10-11
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 10.3056 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.88%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

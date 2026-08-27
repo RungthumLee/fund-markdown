@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1508607094.9
 holdings_count: 77
 top10_pct_nav: 51.48
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCB70SSF
@@ -41,6 +41,9 @@ _SCB Mixed 70/30 Super Savings Fund_
 > - **จัดตั้ง:** 2020-03-30 · **จดทะเบียน:** 2020-04-08
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.0256 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.69%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

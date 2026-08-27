@@ -27,7 +27,7 @@ master_fund: "GS Europe CORE Equity I Acc EUR"
 master_isin: "LU0234682044"
 peer_group: "European Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "น.ส. วรดา ตันติสุนทร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/europe, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFEURORMF
@@ -45,6 +45,9 @@ _Krungsri Europe Equity RMF_
 > - **จัดตั้ง:** 2013-12-18 · **จดทะเบียน:** 2014-11-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.7696 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

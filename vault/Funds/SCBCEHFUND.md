@@ -25,7 +25,7 @@ holdings_count: 44
 top10_pct_nav: 101.97
 master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBCEHFUND
@@ -43,6 +43,9 @@ _SCB CHINA EQUITY THB HEDGE_
 > - **จัดตั้ง:** 2013-03-08 · **จดทะเบียน:** 2013-03-19
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 8.1861 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 15
 top10_pct_nav: 105.66
 master_fund: "Allianz Global Investors Fund - Allianz Global Artificial Intelligence Fund"
 master_isin: "LU1548497426"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-WTAI
@@ -43,6 +43,9 @@ _KTAM World Technology Artificial Intelligence Equity Fund_
 > - **จัดตั้ง:** 2018-05-15 · **จดทะเบียน:** 2018-05-31
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 20.8282 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

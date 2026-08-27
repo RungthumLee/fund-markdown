@@ -26,7 +26,7 @@ top10_pct_nav: 100.58
 master_fund: "UBS (Lux) Real Estate Funds Selection - Global (EUR) P-acc"
 master_isin: "LU1435275141"
 peer_group: "Fund of Property Fund - Foreign"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, theme/real-estate, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # UGREF-UI
@@ -44,6 +44,9 @@ _United Global Real Estate Fund Selection Not for Retail Investors_
 > - **จัดตั้ง:** 2022-05-11 · **จดทะเบียน:** 2022-05-25
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.2258 (2026-06-30)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

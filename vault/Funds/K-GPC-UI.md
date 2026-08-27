@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 99.57
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/discretionary, struct/direct, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/discretionary, struct/direct, use/accumulate, audience/restricted]
 ---
 
 # K-GPC-UI
@@ -43,6 +43,9 @@ _K Global Private Credit Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2024-07-04 · **จดทะเบียน:** 2024-08-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.8533 (2026-07-01)**
+
+> [!tip] อ่านง่าย ๆ
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.16%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

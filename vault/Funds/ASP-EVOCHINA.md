@@ -24,7 +24,7 @@ fund_size: 735940142.51
 holdings_count: 35
 top10_pct_nav: 55.42
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "นาย กมลยศ สุขุมสุวรรณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-EVOCHINA
@@ -42,6 +42,9 @@ _Asset Plus Evolution China Equity Fund_
 > - **จัดตั้ง:** 2018-10-09 · **จดทะเบียน:** 2018-11-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.7043 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 35 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.72%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

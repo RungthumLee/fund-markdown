@@ -26,7 +26,7 @@ top10_pct_nav: 102.18
 master_fund: "Robeco Global Consumer Trends Eqs I $"
 master_isin: "LU0936248318"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/world, theme/consumer, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # MCONT
@@ -44,6 +44,9 @@ _MFC Global Consumer Trends Fund_
 > - **จัดตั้ง:** 2021-11-11 · **จดทะเบียน:** 2022-01-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.2389 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.16%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 828667412.17
 holdings_count: 68
 top10_pct_nav: 65.16
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # PRINCIPAL iPROP
@@ -41,6 +41,9 @@ _Principal Property Income Fund_
 > - **จัดตั้ง:** 2012-02-02 · **จดทะเบียน:** 2012-02-17
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 17.9028 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

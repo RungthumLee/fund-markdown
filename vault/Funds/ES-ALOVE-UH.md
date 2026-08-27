@@ -27,7 +27,7 @@ master_fund: "Eastspring Inv Asian Low Vol Eq C"
 master_isin: "LU1558648348"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-ALOVE-UH
@@ -45,6 +45,9 @@ _Eastspring Asian Low Volatility Equity Fund-Unhedged_
 > - **จัดตั้ง:** 2025-01-23 · **จดทะเบียน:** 2025-02-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.7953 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.35%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

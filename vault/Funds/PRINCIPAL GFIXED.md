@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 101.16
 master_fund: "PIMCO GIS Income Institutional USD Acc"
 master_isin: "IE00B87KCF77"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/dividend, geo/world, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/dividend, use/income]
 ---
 
 # PRINCIPAL GFIXED
@@ -43,6 +43,9 @@ _Principal Global Fixed Income Fund_
 > - **จัดตั้ง:** 2017-11-22 · **จดทะเบียน:** 2017-12-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.8648 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.89%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

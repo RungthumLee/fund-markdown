@@ -24,7 +24,7 @@ fund_size: 6838475.39
 holdings_count: 7
 top10_pct_nav: 100.66
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "นาย สุชน รัตนหิรัgภรณ์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/partially-hedged, struct/direct, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-CHINABOND
@@ -42,6 +42,9 @@ _Asset Plus China Bond Fund_
 > - **จัดตั้ง:** 2021-08-23 · **จดทะเบียน:** 2022-03-11
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.6119 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

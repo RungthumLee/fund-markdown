@@ -24,7 +24,7 @@ fund_size: 157404642.38
 holdings_count: 6
 top10_pct_nav: 100.07
 fund_managers: ["นาย พิพัฒน์ นรานันทน์", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t5, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t5, struct/direct, style/active, use/accumulate]
 ---
 
 # MSOV-ThaiESG
@@ -42,6 +42,9 @@ _MFC Sovereign Instruments Thailand ESG Fund_
 > - **จัดตั้ง:** 2024-10-22 · **จดทะเบียน:** 2024-11-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.4915 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.40%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

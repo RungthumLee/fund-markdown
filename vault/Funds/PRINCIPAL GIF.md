@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 101.84
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
 master_isin: "IE00B3X5FG30"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/infrastructure, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL GIF
@@ -43,6 +43,9 @@ _Principal Global Infrastructure Equity Fund_
 > - **จัดตั้ง:** 2016-01-29 · **จดทะเบียน:** 2016-02-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.8489 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

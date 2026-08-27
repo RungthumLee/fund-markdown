@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 103.03
 master_fund: "Janus Henderson Capital Funds plc - Global Life Sciences Fund Class H2 USD"
 master_isin: "IE00BFRSYJ83"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/unhedged, struct/feeder, style/active, tax/ssf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/unhedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-HEALTHCARE
@@ -43,6 +43,9 @@ _KTAM World Healthcare Fund_
 > - **จัดตั้ง:** 2015-10-28 · **จดทะเบียน:** 2015-11-27
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 19.0495 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.34%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

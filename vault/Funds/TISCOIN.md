@@ -27,7 +27,7 @@ master_fund: "iShares MSCI India ETF"
 master_isin: "US46429B5984"
 peer_group: "India Equity"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TISCOIN
@@ -45,6 +45,9 @@ _TISCO India Equity Fund_
 > - **จัดตั้ง:** 2015-12-03 · **จดทะเบียน:** 2016-02-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.5508 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

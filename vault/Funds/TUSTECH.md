@@ -27,7 +27,7 @@ master_fund: "State Street Technology Select Sector SPDR ETF"
 master_isin: "US81369Y8030"
 peer_group: "Technology Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/us, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # TUSTECH
@@ -45,6 +45,9 @@ _TISCO US Technology Fund_
 > - **จัดตั้ง:** 2022-09-07 · **จดทะเบียน:** 2022-09-21
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 23.2576 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.37%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

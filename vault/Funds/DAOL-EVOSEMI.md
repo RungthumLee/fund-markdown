@@ -26,7 +26,7 @@ top10_pct_nav: 106.93
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-EVOSEMI
@@ -44,6 +44,9 @@ _DAOL EVOLUTION OF SEMICONDUCTOR FUND_
 > - **จัดตั้ง:** 2021-06-08 · **จดทะเบียน:** 2021-06-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 23.0495 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

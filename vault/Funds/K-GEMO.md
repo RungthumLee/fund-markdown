@@ -26,7 +26,7 @@ top10_pct_nav: 108.18
 master_fund: "Schroder International Selection Fund SICAV - Global Emerging Market Opportunities"
 peer_group: "Emerging Market"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/emerging-markets, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-GEMO
@@ -44,6 +44,9 @@ _K Global Emerging Market Opportunities Fund_
 > - **จัดตั้ง:** 2010-07-20 · **จดทะเบียน:** 2010-09-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.8496 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.81%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

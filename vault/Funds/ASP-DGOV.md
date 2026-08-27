@@ -24,7 +24,7 @@ fund_size: 0.0
 holdings_count: 23
 top10_pct_nav: 68.94
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "นาย สุชน รัตนหิรัgภรณ์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t5, struct/direct, style/active, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t5, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # ASP-DGOV
@@ -42,6 +42,9 @@ _Asset Plus Daily Government Fund_
 > - **จัดตั้ง:** 2019-02-20 · **จดทะเบียน:** 2019-03-13
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.7 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.25%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

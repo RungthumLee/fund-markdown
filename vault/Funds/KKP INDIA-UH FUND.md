@@ -24,7 +24,7 @@ fund_size: 245334638.88
 holdings_count: 4
 top10_pct_nav: 99.63
 master_fund: "Robeco Indian Equities F $"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/ssf, geo/india, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP INDIA-UH FUND
@@ -42,6 +42,9 @@ _KKP INDIA FUND - UNHEDGED_
 > - **จัดตั้ง:** 2024-05-31 · **จดทะเบียน:** 2024-06-27
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 7.8026 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.38%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

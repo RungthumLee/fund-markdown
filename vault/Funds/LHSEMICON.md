@@ -24,7 +24,7 @@ fund_size: 831299549.91
 holdings_count: 31
 top10_pct_nav: 103.73
 master_fund: "iShares Semiconductor ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHSEMICON
@@ -42,6 +42,9 @@ _LH SEMICONDUCTOR FUND_
 > - **จัดตั้ง:** 2021-06-04 · **จดทะเบียน:** 2021-06-29
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 25.7996 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.06%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

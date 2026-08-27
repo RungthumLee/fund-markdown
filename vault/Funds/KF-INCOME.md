@@ -27,7 +27,7 @@ master_fund: "JPM Global Income I mth USD Hdg"
 master_isin: "LU2293733585"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-INCOME
@@ -45,6 +45,9 @@ _Krungsri Global Income Fund_
 > - **จัดตั้ง:** 2014-11-19 · **จดทะเบียน:** 2014-12-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.1963 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

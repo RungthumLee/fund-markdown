@@ -25,7 +25,7 @@ master_fund: "iShares MSCI ACWI ETF"
 master_isin: "US4642882579"
 peer_group: "Global Equity"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # FP GLEQ
@@ -43,6 +43,9 @@ _First Plus Global Equity FIF_
 > - **จัดตั้ง:** 2026-02-11 · **จดทะเบียน:** 2026-03-10
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.3405 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive)
 
 ## 1. ข้อมูลทั่วไป
 

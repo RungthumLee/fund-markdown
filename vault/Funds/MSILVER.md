@@ -26,7 +26,7 @@ top10_pct_nav: 109.16
 master_fund: "iShares MSCI Global Silver and Metals Miners ETF"
 master_isin: "US4642863272"
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # MSILVER
@@ -44,6 +44,9 @@ _MFC Global Silver and Metals Miners Fund_
 > - **จัดตั้ง:** 2025-11-21 · **จดทะเบียน:** 2025-12-03
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.5551 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.42%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

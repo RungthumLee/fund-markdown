@@ -27,7 +27,7 @@ master_fund: "FSSA Indian Subcontinent III USD Acc"
 master_isin: "IE00B6Y13T06"
 peer_group: "India Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย พงศ์สัณห์ อนุรัตน์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/india, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFINDIA
@@ -45,6 +45,9 @@ _Krungsri India Equity Fund_
 > - **จัดตั้ง:** 2017-08-28 · **จดทะเบียน:** 2017-09-22
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.1185 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

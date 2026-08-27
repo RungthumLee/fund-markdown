@@ -25,7 +25,7 @@ holdings_count: 89
 top10_pct_nav: 102.74
 master_fund: "JPMorgan Funds - Asia Pacific Income Fund C (mth) USD"
 master_isin: "LU0784639451"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
 ---
 
 # SCBAPLUSFUND
@@ -43,6 +43,9 @@ _SCB Asia Pacific Income Plus Fund (Not for Retail Investors)_
 > - **จัดตั้ง:** 2016-10-03 · **จดทะเบียน:** 2016-10-26
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 13.2331 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

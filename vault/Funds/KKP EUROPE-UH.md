@@ -23,7 +23,7 @@ fund_size: 55790619.31
 holdings_count: 4
 top10_pct_nav: 101.83
 master_fund: "GS Europe CORE Equity I Acc EUR"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KKP EUROPE-UH
@@ -41,6 +41,9 @@ _KKP EUROPE EQUITY FUND - UNHEDGED_
 > - **จัดตั้ง:** 2026-01-15 · **จดทะเบียน:** 2026-01-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0627 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.04%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

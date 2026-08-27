@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 125293690.9
 master_fund: "JPM Nasdaq Equity Premium Income Active UCITS ETF USD Dist"
 fund_managers: ["นาย วิจักขณ์ ณ เชียงใหม่", "น.ส. นรินทรา ติณรัตน์สกุลชัย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBNDQPINUH
@@ -40,6 +40,9 @@ _SCB Nasdaq Equity Premium Income Unhedged_
 > - **จัดตั้ง:** 2026-07-01 · **จดทะเบียน:** 2026-07-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.738 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.15%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

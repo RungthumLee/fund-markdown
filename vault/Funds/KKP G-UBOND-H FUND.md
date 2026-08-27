@@ -24,7 +24,7 @@ fund_size: 231165606.08
 holdings_count: 7
 top10_pct_nav: 99.86
 master_fund: "Jupiter Dynamic Bond L USD Acc"
-tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # KKP G-UBOND-H FUND
@@ -42,6 +42,9 @@ _KKP GLOBAL UNCONSTRAINED BOND FUND – HEDGED_
 > - **จัดตั้ง:** 2017-10-11 · **จดทะเบียน:** 2017-11-23
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 10.2959 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.16%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

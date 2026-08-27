@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 22653909.88
 holdings_count: 19
 top10_pct_nav: 71.31
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TLDIVRMF
@@ -41,6 +41,9 @@ _TALIS DIVIDEND STOCK RMF_
 > - **จัดตั้ง:** 2017-11-10 · **จดทะเบียน:** 2017-11-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.9058 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 19 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.41%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

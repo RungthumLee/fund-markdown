@@ -25,7 +25,7 @@ holdings_count: 105
 top10_pct_nav: 110.23
 master_fund: "iShares Core Nikkei 225 ETF"
 master_isin: "JP3027710007"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, geo/japan, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # SCBNKY225
@@ -43,6 +43,9 @@ _SCB JAPAN EQUITY FUND_
 > - **จัดตั้ง:** 2013-09-16 · **จดทะเบียน:** 2013-10-11
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 51.5956 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

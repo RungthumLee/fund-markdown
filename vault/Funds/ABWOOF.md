@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 127.48
 master_fund: "abrdn-Global Sustainable Eqty Z Acc USD"
 master_isin: "LU0278912844"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ABWOOF
@@ -43,6 +43,9 @@ _abrdn Global Sustainable Equity Fund_
 > - **จัดตั้ง:** 2006-03-15 · **จดทะเบียน:** 2006-03-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.7765 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.02%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 2564862261.49
 holdings_count: 27
 top10_pct_nav: 77.11
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # BSIRICG
@@ -42,6 +42,9 @@ _Bualuang Siriphol Corporate Governance_
 > - **จัดตั้ง:** 2011-11-24 · **จดทะเบียน:** 2012-04-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.1284 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 27 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

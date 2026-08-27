@@ -24,7 +24,7 @@ fund_size: 41315287.79
 holdings_count: 5
 top10_pct_nav: 100.07
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # CPRMF4
@@ -42,6 +42,9 @@ _Capital Protected Retirement Mutual Fund 4_
 > - **จัดตั้ง:** 2005-11-14 · **จดทะเบียน:** 2005-12-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.841 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.40%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

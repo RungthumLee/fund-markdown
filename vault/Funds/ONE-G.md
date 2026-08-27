@@ -24,7 +24,7 @@ fund_size: 70461478.42
 holdings_count: 48
 top10_pct_nav: 64.54
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-G
@@ -42,6 +42,9 @@ _ONE MULTIPLE GROWTH FUND_
 > - **จัดตั้ง:** 1992-06-24 · **จดทะเบียน:** 1992-07-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 52.9785 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 48 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.29%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

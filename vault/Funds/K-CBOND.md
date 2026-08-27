@@ -25,7 +25,7 @@ holdings_count: 71
 top10_pct_nav: 39.89
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. จริยา พิมลไพบูลย์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-CBOND
@@ -43,6 +43,9 @@ _K Corporate Bond Fund_
 > - **จัดตั้ง:** 1999-10-20 · **จดทะเบียน:** 1999-11-22
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 20.0477 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.53%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

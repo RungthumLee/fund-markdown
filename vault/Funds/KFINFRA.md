@@ -27,7 +27,7 @@ master_fund: "UBS Lux Infras Eq Fd I A1 acc"
 master_isin: "LU1692112649"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, theme/infrastructure, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFINFRA
@@ -45,6 +45,9 @@ _Krungsri Next Generation Infrastructure Fund_
 > - **จัดตั้ง:** 2021-01-29 · **จดทะเบียน:** 2021-02-25
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.8894 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

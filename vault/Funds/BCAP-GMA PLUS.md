@@ -24,7 +24,7 @@ fund_size: 3886473511.28
 holdings_count: 36
 top10_pct_nav: 64.78
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GMA PLUS
@@ -42,6 +42,9 @@ _BCAP Global Multi Asset Plus Fund_
 > - **จัดตั้ง:** 2021-03-15 · **จดทะเบียน:** 2021-09-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.4676 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.09%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 170824455.48
 holdings_count: 25
 top10_pct_nav: 53.05
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBMSEFUND
@@ -41,6 +41,9 @@ _SCB Mid/Small Cap Equity Fund_
 > - **จัดตั้ง:** 2014-11-11 · **จดทะเบียน:** 2015-01-21
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 13.8139 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 25 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.65%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

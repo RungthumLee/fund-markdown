@@ -25,7 +25,7 @@ holdings_count: 58
 top10_pct_nav: 59.31
 peer_group: "Equity General"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-EQUITY
@@ -43,6 +43,9 @@ _Eastspring Equity Fund_
 > - **จัดตั้ง:** 1994-12-02 · **จดทะเบียน:** 1995-01-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.8944 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 58 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.35%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

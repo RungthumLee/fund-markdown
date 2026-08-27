@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 192875759.47
 holdings_count: 58
 top10_pct_nav: 52.83
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL FIRMF
@@ -41,6 +41,9 @@ _Principal Fixed Income Retirement Mutual Fund_
 > - **จัดตั้ง:** 2005-06-30 · **จดทะเบียน:** 2005-08-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.4068 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.74%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

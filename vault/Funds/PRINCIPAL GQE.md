@@ -25,7 +25,7 @@ holdings_count: 15
 top10_pct_nav: 105.64
 master_fund: "Fundsmith Equity Fund I USD Acc"
 master_isin: "LU0893933373"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL GQE
@@ -43,6 +43,9 @@ _Principal Global Quality Equity Fund_
 > - **จัดตั้ง:** 2023-06-22 · **จดทะเบียน:** 2023-07-25
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 10.124 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.02%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

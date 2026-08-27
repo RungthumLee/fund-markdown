@@ -26,7 +26,7 @@ top10_pct_nav: 113.52
 master_fund: "Matthews China Innovators I USD Acc"
 master_isin: "LU0721876877"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-CHIG
@@ -44,6 +44,9 @@ _DAOL CHINA GROWTH FUND_
 > - **จัดตั้ง:** 2020-07-30 · **จดทะเบียน:** 2020-08-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.1945 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

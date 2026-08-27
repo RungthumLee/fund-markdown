@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 1053707152.83
 holdings_count: 51
 top10_pct_nav: 106.21
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBWEQ
@@ -41,6 +41,9 @@ _SCB World Equity_
 > - **จัดตั้ง:** 2024-09-12 · **จดทะเบียน:** 2024-10-03
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 12.8609 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 51 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

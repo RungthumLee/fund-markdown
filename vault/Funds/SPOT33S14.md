@@ -24,7 +24,7 @@ fund_size: 29209889.98
 holdings_count: 43
 top10_pct_nav: 53.04
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # SPOT33S14
@@ -42,6 +42,9 @@ _MFC SPOT 33 Series 14 Fund_
 > - **จัดตั้ง:** 2013-03-14 · **จดทะเบียน:** 2013-05-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.1374 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 8
 top10_pct_nav: 102.87
 master_fund: "abrdn- Global Smaller Comp Z Acc USD"
 master_isin: "LU2530219000"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABGS-M
@@ -43,6 +43,9 @@ _abrdn Global Small Cap Fund_
 > - **จัดตั้ง:** 2021-03-18 · **จดทะเบียน:** 2021-04-07
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 7.5347 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.09%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

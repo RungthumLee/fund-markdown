@@ -24,7 +24,7 @@ fund_size: 105785276.2
 holdings_count: 18
 top10_pct_nav: 92.74
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # BCAP-2050 RMF
@@ -42,6 +42,9 @@ _BCAP Global Target Date 2050 Retirement Mutual Fund_
 > - **จัดตั้ง:** 2020-03-09 · **จดทะเบียน:** 2020-10-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.7356 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.22%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -21,7 +21,7 @@ nav: 9.2058
 nav_date: "2026-08-25"
 fund_size: 269234053.05
 master_fund: "VistaShares Artificial Intelligence Supercycle ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # LHSUPERAI
@@ -39,6 +39,9 @@ _LH ARTIFICIAL INTELLIGENCE SUPERCYCLE FUND_
 > - **จัดตั้ง:** 2026-06-29 · **จดทะเบียน:** 2026-07-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.2058 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

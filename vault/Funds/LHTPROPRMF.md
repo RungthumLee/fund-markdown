@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 582396557.66
 holdings_count: 18
 top10_pct_nav: 87.23
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # LHTPROPRMF
@@ -41,6 +41,9 @@ _LH THAI PROPERTY RMF FUND_
 > - **จัดตั้ง:** 2015-10-14 · **จดทะเบียน:** 2015-11-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.8985 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.92%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

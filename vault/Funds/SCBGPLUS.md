@@ -25,7 +25,7 @@ holdings_count: 23
 top10_pct_nav: 104.87
 master_fund: "DWS Invest Multi Opportunities USD RDMH"
 master_isin: "LU1433454672"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # SCBGPLUS
@@ -43,6 +43,9 @@ _SCB GLOBAL INCOME PLUS FUND (Not for Retail Investors)_
 > - **จัดตั้ง:** 2016-01-25 · **จดทะเบียน:** 2016-02-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.3822 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

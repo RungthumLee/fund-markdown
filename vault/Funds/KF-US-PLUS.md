@@ -27,7 +27,7 @@ master_fund: "JPM US Select Equity Plus I acc USD"
 master_isin: "LU0281485341"
 peer_group: "US Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-US-PLUS
@@ -45,6 +45,9 @@ _Krungsri US Select Equity Plus Fund_
 > - **จัดตั้ง:** 2025-01-30 · **จดทะเบียน:** 2025-02-13
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.2874 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.50%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

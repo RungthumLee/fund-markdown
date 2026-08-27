@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 1117843937.03
 holdings_count: 9
 top10_pct_nav: 104.43
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # SCBGOFIX
@@ -40,6 +40,9 @@ _SCB Global Opportunities Fixed Income_
 > - **จัดตั้ง:** 2026-03-31 · **จดทะเบียน:** 2026-06-23
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 9.8979 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.93%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ master_fund: "LO Funds World Brands SH USD NA"
 master_isin: "LU1809978650"
 peer_group: "Global Equity - Consumer Goods and Services"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TBRAND
@@ -45,6 +45,9 @@ _TISCO World Brands Fund_
 > - **จัดตั้ง:** 2022-01-24 · **จดทะเบียน:** 2022-02-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.2486 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

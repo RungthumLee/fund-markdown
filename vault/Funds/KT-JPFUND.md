@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 103.04
 master_fund: "iShares Core Nikkei 225 ETF"
 master_isin: "JP3027710007"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-JPFUND
@@ -43,6 +43,9 @@ _KTAM Japan Equity Passive Fund_
 > - **จัดตั้ง:** 2019-02-26 · **จดทะเบียน:** 2019-03-12
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 29.4189 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.03%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

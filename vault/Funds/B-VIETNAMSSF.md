@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 98.91
 master_fund: "กองทุนเปิดบัวหลวงหุ้นเวียดนาม"
 peer_group: "Vietnam Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-VIETNAMSSF
@@ -43,6 +43,9 @@ _Bualuang Vietnam Equity Super Savings Fund_
 > - **จัดตั้ง:** 2022-10-17 · **จดทะเบียน:** 2022-11-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.3855 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.72%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

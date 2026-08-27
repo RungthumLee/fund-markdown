@@ -21,7 +21,7 @@ nav: 9.0838
 nav_date: "2026-08-25"
 fund_size: 39383136.82
 master_fund: "Roundhill Memory ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
 ---
 
 # LHDRAM-AI
@@ -39,6 +39,9 @@ _LH MEMORY FUND NOT FOR RETAIL INVESTORS_
 > - **จัดตั้ง:** 2026-07-03 · **จดทะเบียน:** 2026-07-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.0838 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 97.97
 master_fund: "NEXT FUNDS Nikkei 225 Exchange Traded Fund"
 master_isin: "JP3027650005"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # B-JPPASSIVE
@@ -43,6 +43,9 @@ _Bualuang Japan Equity Passive Fund_
 > - **จัดตั้ง:** 2024-07-05 · **จดทะเบียน:** 2024-08-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.3235 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

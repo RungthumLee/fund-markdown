@@ -25,7 +25,7 @@ holdings_count: 27
 top10_pct_nav: 104.61
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, use/accumulate]
 ---
 
 # ES-ULTIMATE GA2
@@ -43,6 +43,9 @@ _Eastspring Ultimate Global Allocation Fund 2_
 > - **จัดตั้ง:** 2024-12-27 · **จดทะเบียน:** 2025-01-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.6613 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.04%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

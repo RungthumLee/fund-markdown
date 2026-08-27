@@ -25,7 +25,7 @@ holdings_count: 37
 top10_pct_nav: 72.59
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/passive, use/accumulate]
 ---
 
 # ES-JB25
@@ -43,6 +43,9 @@ _Eastspring JUMBO 25 Fund_
 > - **จัดตั้ง:** 2004-08-26 · **จดทะเบียน:** 2004-09-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 48.6709 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 37 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.94%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

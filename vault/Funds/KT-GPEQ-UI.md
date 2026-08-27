@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.18
 master_fund: "EQT Nexus ENXF I EUR-Z"
 master_isin: "LU2617117614"
-tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KT-GPEQ-UI
@@ -43,6 +43,9 @@ _KTAM Global Private Equity Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2024-09-04 · **จดทะเบียน:** 2024-10-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.4314 (2026-07-31)**
+
+> [!tip] อ่านง่าย ๆ
+> กองน้ำมัน · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

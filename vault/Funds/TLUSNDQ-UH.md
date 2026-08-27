@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 100.42
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLUSNDQ-UH
@@ -43,6 +43,9 @@ _TALIS US EQUITY NDQ-UNHEDGE_
 > - **จัดตั้ง:** 2025-02-04 · **จดทะเบียน:** 2025-02-13
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 12.6192 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

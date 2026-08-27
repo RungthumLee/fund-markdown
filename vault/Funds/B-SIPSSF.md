@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 98.47
 master_fund: "กองทุนเปิดบัวหลวงยั่งยืน"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # B-SIPSSF
@@ -43,6 +43,9 @@ _Bualuang Sustainable Investing Portfolio Super Savings Fund_
 > - **จัดตั้ง:** 2021-10-18 · **จดทะเบียน:** 2021-11-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7997 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.46%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

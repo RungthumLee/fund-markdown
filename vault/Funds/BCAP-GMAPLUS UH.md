@@ -23,7 +23,7 @@ fund_size: 2739870976.16
 holdings_count: 33
 top10_pct_nav: 64.07
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GMAPLUS UH
@@ -41,6 +41,9 @@ _BCAP Global Multi Asset Plus Unhedged Fund_
 > - **จัดตั้ง:** 2025-08-05 · **จดทะเบียน:** 2025-09-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5287 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

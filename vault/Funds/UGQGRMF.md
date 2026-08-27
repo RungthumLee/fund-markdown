@@ -26,7 +26,7 @@ top10_pct_nav: 100.36
 master_fund: "United Global Quality Growth A USD Acc"
 master_isin: "SG9999014906"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # UGQGRMF
@@ -44,6 +44,9 @@ _United Global Quality Growth Fund RMF_
 > - **จัดตั้ง:** 2018-10-17 · **จดทะเบียน:** 2018-12-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.5452 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.69%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

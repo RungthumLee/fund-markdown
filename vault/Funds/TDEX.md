@@ -24,7 +24,7 @@ fund_size: 4145697992.44
 holdings_count: 53
 top10_pct_nav: 60.02
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, conc/focused, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, conc/focused, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # TDEX
@@ -42,6 +42,9 @@ _ThaiDex SET50 Exchange Traded Fund_
 > - **จัดตั้ง:** 2007-08-20 · **จดทะเบียน:** 2007-09-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.6299 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 53 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.51%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

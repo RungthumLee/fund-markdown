@@ -23,7 +23,7 @@ fund_size: 1051051346.64
 holdings_count: 34
 top10_pct_nav: 110.51
 master_fund: "Roundhill Generative AI & Technology ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHAI
@@ -41,6 +41,9 @@ _LH AI & TECHNOLOGY FUND_
 > - **จัดตั้ง:** 2025-11-25 · **จดทะเบียน:** 2026-01-29
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 13.4083 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

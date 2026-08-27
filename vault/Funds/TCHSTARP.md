@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 99.97
 peer_group: "Greater China Equity"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # TCHSTARP
@@ -43,6 +43,9 @@ _TISCO China Stars Plus Fund_
 > - **จัดตั้ง:** 2014-12-04 · **จดทะเบียน:** 2015-03-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.2258 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 9 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.95%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

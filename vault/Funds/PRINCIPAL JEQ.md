@@ -25,7 +25,7 @@ holdings_count: 31
 top10_pct_nav: 141.8
 master_fund: "DWS Concept Nissay Jpn Val Eq JPY XC Acc"
 master_isin: "LU2838977887"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/ssf, geo/japan, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL JEQ
@@ -43,6 +43,9 @@ _Principal Japanese Equity Fund_
 > - **จัดตั้ง:** 2013-11-20 · **จดทะเบียน:** 2014-02-13
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 24.9957 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.00%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

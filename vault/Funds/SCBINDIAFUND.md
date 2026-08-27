@@ -25,7 +25,7 @@ holdings_count: 46
 top10_pct_nav: 103.3
 master_fund: "iShares India 50 ETF"
 master_isin: "US4642895290"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, style/dividend, geo/india, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # SCBINDIAFUND
@@ -43,6 +43,9 @@ _SCB INDIA EQUITY FUND_
 > - **จัดตั้ง:** 2015-03-10 · **จดทะเบียน:** 2015-03-24
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 10.1256 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

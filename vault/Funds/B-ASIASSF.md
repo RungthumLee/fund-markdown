@@ -26,7 +26,7 @@ top10_pct_nav: 97.84
 master_fund: "Invesco Asian Equity C USD AD"
 master_isin: "LU1775950394"
 peer_group: "Asia Pacific Ex Japan"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-ASIASSF
@@ -44,6 +44,9 @@ _Bualuang Asia Equity Super Savings Fund_
 > - **จัดตั้ง:** 2022-04-05 · **จดทะเบียน:** 2022-04-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.6263 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

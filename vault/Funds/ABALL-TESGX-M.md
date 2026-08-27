@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 45548519.32
 holdings_count: 35
 top10_pct_nav: 49.72
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, fx/unhedged, struct/direct, style/active, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ABALL-TESGX-M
@@ -40,6 +40,9 @@ _abrdn All Seasons Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-29 · **จดทะเบียน:** 2025-05-13
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.3208 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active)
 
 ## 1. ข้อมูลทั่วไป
 

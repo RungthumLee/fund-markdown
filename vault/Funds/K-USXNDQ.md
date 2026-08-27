@@ -26,7 +26,7 @@ top10_pct_nav: 104.73
 master_fund: "Invesco NASDAQ 100 ETF"
 peer_group: "US Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, geo/us, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # K-USXNDQ
@@ -44,6 +44,9 @@ _K US Equity NDQ 100 Index Fund_
 > - **จัดตั้ง:** 2012-07-04 · **จดทะเบียน:** 2013-03-29
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 47.8251 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

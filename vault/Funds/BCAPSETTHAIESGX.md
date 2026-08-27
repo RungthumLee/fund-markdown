@@ -24,7 +24,7 @@ fund_size: 77346148.51
 holdings_count: 122
 top10_pct_nav: 46.56
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, use/accumulate]
 ---
 
 # BCAPSETTHAIESGX
@@ -42,6 +42,9 @@ _BCAP SET Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.8883 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 122 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.02%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

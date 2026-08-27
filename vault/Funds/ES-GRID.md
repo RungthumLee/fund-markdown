@@ -26,7 +26,7 @@ master_fund: "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund
 master_isin: "US33737A1088"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, theme/infrastructure, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-GRID
@@ -44,6 +44,9 @@ _Eastspring Smart Grid Infrastructure Fund_
 > - **จัดตั้ง:** 2026-03-13 · **จดทะเบียน:** 2026-04-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.6343 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.46%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

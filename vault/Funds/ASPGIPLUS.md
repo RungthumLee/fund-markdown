@@ -24,7 +24,7 @@ fund_size: 22843255.84
 holdings_count: 16
 top10_pct_nav: 101.97
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
 # ASPGIPLUS
@@ -42,6 +42,9 @@ _Asset Plus Global Income Plus Fund_
 > - **จัดตั้ง:** 2017-05-16 · **จดทะเบียน:** 2017-06-12
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.5399 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.22%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

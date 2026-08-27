@@ -25,7 +25,7 @@ holdings_count: 31
 top10_pct_nav: 51.5
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["นาย ณัฐภณอัศวเหม", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # TMSFOCUS
@@ -43,6 +43,9 @@ _TISCO Thai Mid/Small Equity Focus Fund_
 > - **จัดตั้ง:** 2016-08-29 · **จดทะเบียน:** 2016-09-28
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.6994 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 31 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

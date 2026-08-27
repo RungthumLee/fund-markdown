@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 54200761.46
 holdings_count: 21
 top10_pct_nav: 59.81
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, use/accumulate]
 ---
 
 # MEGA20THAIESG
@@ -41,6 +41,9 @@ _MEGA 20 THAILAND ESG FUND_
 > - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.2233 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 21 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.79%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

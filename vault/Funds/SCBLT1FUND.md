@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 7447268179.26
 holdings_count: 67
 top10_pct_nav: 53.86
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBLT1FUND
@@ -41,6 +41,9 @@ _SCB Dividend Mixed 70 Fund_
 > - **จัดตั้ง:** 2004-09-30 · **จดทะเบียน:** 2004-10-21
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 14.8559 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

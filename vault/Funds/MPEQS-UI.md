@@ -26,7 +26,7 @@ top10_pct_nav: 101.51
 master_fund: "Franklin Lexington PE Secondaries Fund Series OU$ NL (833922A2)"
 master_isin: "LU2966298809"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, geo/world, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # MPEQS-UI
@@ -44,6 +44,9 @@ _MFC Global Private Equity Secondaries Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2025-07-07 · **จดทะเบียน:** 2025-07-24
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.9298 (2026-06-30)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.42%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

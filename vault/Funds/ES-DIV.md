@@ -25,7 +25,7 @@ holdings_count: 48
 top10_pct_nav: 73.93
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-DIV
@@ -43,6 +43,9 @@ _Eastspring Dividend Stock Fund_
 > - **จัดตั้ง:** 2017-02-28 · **จดทะเบียน:** 2017-03-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.6409 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 48 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

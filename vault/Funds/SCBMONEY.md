@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 11441230471.01
 holdings_count: 46
 top10_pct_nav: 52.39
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # SCBMONEY
@@ -41,6 +41,9 @@ _SCB Money Market Fund_
 > - **จัดตั้ง:** 2024-02-14 · **จดทะเบียน:** 2024-02-28
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 10.3922 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.30%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

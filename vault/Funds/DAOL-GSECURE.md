@@ -25,7 +25,7 @@ holdings_count: 16
 top10_pct_nav: 102.59
 master_fund: "UBS Lux Sec Eq Fd I A1 acc"
 master_isin: "LU1042675485"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-GSECURE
@@ -43,6 +43,9 @@ _DAOL GLOBAL SECURITY EQUITY FUND_
 > - **จัดตั้ง:** 2019-11-12 · **จดทะเบียน:** 2020-01-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.7738 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.11%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

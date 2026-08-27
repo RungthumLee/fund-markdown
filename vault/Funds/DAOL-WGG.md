@@ -24,7 +24,7 @@ holdings_count: 18
 top10_pct_nav: 101.65
 master_fund: "Baillie Gifford WW L/T Glb Gr B USD Acc"
 master_isin: "IE00BYQG5606"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-WGG
@@ -42,6 +42,9 @@ _DAOL WORLDWIDE GLOBAL GROWTH FUND_
 > - **จัดตั้ง:** 2025-07-11 · **จดทะเบียน:** 2025-07-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.9297 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

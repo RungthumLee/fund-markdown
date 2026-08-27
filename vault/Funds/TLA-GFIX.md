@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 1172939416.8
 holdings_count: 13
 top10_pct_nav: 88.92
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # TLA-GFIX
@@ -40,6 +40,9 @@ _TALIS GLOBAL FIXED INCOME ALLOCATION FUND_
 > - **จัดตั้ง:** 2026-05-07 · **จดทะเบียน:** 2026-05-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.0025 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.05%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

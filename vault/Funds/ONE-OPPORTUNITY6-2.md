@@ -24,7 +24,7 @@ fund_size: 23293275.13
 holdings_count: 49
 top10_pct_nav: 63.77
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, use/accumulate]
 ---
 
 # ONE-OPPORTUNITY6/2
@@ -42,6 +42,9 @@ _ONE OPPORTUNITY 6/2 FUND_
 > - **จัดตั้ง:** 2018-09-25 · **จดทะเบียน:** 2018-10-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.5723 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.23%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 47375132.63
 holdings_count: 115
 top10_pct_nav: 83.4
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL MAGLOBAL
@@ -41,6 +41,9 @@ _Principal Multi Asset Global Fund_
 > - **จัดตั้ง:** 2022-03-11 · **จดทะเบียน:** 2022-03-31
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 11.4017 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.46%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

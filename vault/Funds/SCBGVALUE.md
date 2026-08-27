@@ -25,7 +25,7 @@ holdings_count: 104
 top10_pct_nav: 105.97
 master_fund: "iShares Edge MSCI World Value Factor UCITS ETF USD (Acc)"
 master_isin: "IE00BP3QZB59"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # SCBGVALUE
@@ -43,6 +43,9 @@ _SCB Global Value Equity_
 > - **จัดตั้ง:** 2022-06-24 · **จดทะเบียน:** 2022-07-26
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 19.6526 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.11%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 61.66
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "นาย นราธรจารุกุลวนิช"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # TThai70ESGX
@@ -43,6 +43,9 @@ _TISCO Equity 70 Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 12.743 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

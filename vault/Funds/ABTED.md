@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 16437526.79
 holdings_count: 28
 top10_pct_nav: 56.01
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ABTED
@@ -41,6 +41,9 @@ _abrdn Thai Equity Dividend Fund_
 > - **จัดตั้ง:** 2003-04-18 · **จดทะเบียน:** 2003-07-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 3.5489 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 28 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

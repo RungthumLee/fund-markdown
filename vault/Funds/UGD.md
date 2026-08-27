@@ -26,7 +26,7 @@ top10_pct_nav: 101.0
 master_fund: "United Global Durable Eqs USD Acc"
 master_isin: "SG9999014021"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UGD
@@ -44,6 +44,9 @@ _United Global Durable Equities Fund_
 > - **จัดตั้ง:** 2015-11-04 · **จดทะเบียน:** 2015-11-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.7145 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

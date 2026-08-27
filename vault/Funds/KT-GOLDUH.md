@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 103.89
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-GOLDUH
@@ -43,6 +43,9 @@ _KTAM Gold Fund Unhedged_
 > - **จัดตั้ง:** 2024-05-02 · **จดทะเบียน:** 2024-06-27
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 17.1889 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.67%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

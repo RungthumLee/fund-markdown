@@ -26,7 +26,7 @@ top10_pct_nav: 97.83
 master_fund: "Invesco Asian Equity C USD AD"
 master_isin: "LU1775950394"
 peer_group: "Asia Pacific Ex Japan"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/asia-pacific, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-ASIARMF
@@ -44,6 +44,9 @@ _Bualuang Asia Equity RMF_
 > - **จัดตั้ง:** 2018-08-02 · **จดทะเบียน:** 2018-10-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.1954 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.59%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

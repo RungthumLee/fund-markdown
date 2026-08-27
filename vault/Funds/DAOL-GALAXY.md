@@ -25,7 +25,7 @@ top10_pct_nav: 60.32
 master_fund: "Global X Space Tech ETF"
 master_isin: "US37966B7780"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-GALAXY
@@ -43,6 +43,9 @@ _DAOL SPACE TECH FUND_
 > - **จัดตั้ง:** 2026-06-11 · **จดทะเบียน:** 2026-06-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.4458 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

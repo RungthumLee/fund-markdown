@@ -27,7 +27,7 @@ master_fund: "PGIM Global Sel RE Scrts USD I Acc"
 master_isin: "IE00BYM2RB15"
 peer_group: "Fund of Property fund - Foreign"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-GPROPRMF
@@ -45,6 +45,9 @@ _Eastspring Global Property RMF_
 > - **จัดตั้ง:** 2017-12-20 · **จดทะเบียน:** 2018-02-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.8345 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

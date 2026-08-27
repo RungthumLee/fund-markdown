@@ -24,7 +24,7 @@ fund_size: 561502340.67
 holdings_count: 36
 top10_pct_nav: 66.47
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # B-EQ-THAIESG
@@ -42,6 +42,9 @@ _Bualuang Equity Thailand ESG Fund_
 > - **จัดตั้ง:** 2024-10-11 · **จดทะเบียน:** 2024-11-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5297 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 36 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

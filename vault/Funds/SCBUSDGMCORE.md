@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 9771391.36
 holdings_count: 31
 top10_pct_nav: 74.22
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBUSDGMCORE
@@ -40,6 +40,9 @@ _SCB Global Multi-Asset Core Portfolio USD_
 > - **จัดตั้ง:** 2025-12-24 · **จดทะเบียน:** 2026-03-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.8661 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

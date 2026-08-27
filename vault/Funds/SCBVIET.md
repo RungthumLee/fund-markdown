@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1742057423.05
 holdings_count: 29
 top10_pct_nav: 71.67
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, geo/vietnam, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBVIET
@@ -41,6 +41,9 @@ _SCB Vietnam Equity_
 > - **จัดตั้ง:** 2022-01-17 · **จดทะเบียน:** 2022-03-08
 > - **ชนิดหน่วยลงทุน:** 9 class
 > - **NAV 7.664 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 29 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.16%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

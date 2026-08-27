@@ -25,7 +25,7 @@ holdings_count: 107
 top10_pct_nav: 103.71
 master_fund: "iShares MSCI World ETF"
 master_isin: "US4642863926"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBRMWORLD
@@ -43,6 +43,9 @@ _SCB World Equity Index RMF_
 > - **จัดตั้ง:** 2022-07-07 · **จดทะเบียน:** 2022-07-19
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 16.5723 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

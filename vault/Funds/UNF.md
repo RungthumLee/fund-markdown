@@ -24,7 +24,7 @@ fund_size: 37845696.44
 holdings_count: 36
 top10_pct_nav: 61.2
 fund_managers: ["น.ส. รัตติกาล พูนวศินมงคล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # UNF
@@ -42,6 +42,9 @@ _United Open-end Fund_
 > - **จัดตั้ง:** 1994-01-24 · **จดทะเบียน:** 1994-03-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.713 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 36 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.87%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

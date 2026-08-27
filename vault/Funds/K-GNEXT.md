@@ -26,7 +26,7 @@ top10_pct_nav: 112.52
 master_fund: "Capital Group New Economy Fund (LUX) BL"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-GNEXT
@@ -44,6 +44,9 @@ _K Global Next Generation Fund_
 > - **จัดตั้ง:** 2019-06-28 · **จดทะเบียน:** 2019-07-23
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 18.3742 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

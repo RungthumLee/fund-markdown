@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 94.05
 master_fund: "Nomura Fds Global Dynamic Bond I USD"
 master_isin: "IE00BTL1GH31"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # SCBFIN
@@ -43,6 +43,9 @@ _SCB Global Fixed Income Fund_
 > - **จัดตั้ง:** 2018-02-26 · **จดทะเบียน:** 2018-03-06
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 10.179 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.01%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

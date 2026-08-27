@@ -24,7 +24,7 @@ fund_size: 10493481.98
 holdings_count: 16
 top10_pct_nav: 121.67
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # MCONVERT
@@ -42,6 +42,9 @@ _MFC Global Convertible Bond Fund_
 > - **จัดตั้ง:** 2021-10-19 · **จดทะเบียน:** 2021-10-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.2871 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.36%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

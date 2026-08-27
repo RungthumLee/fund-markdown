@@ -25,7 +25,7 @@ holdings_count: 18
 top10_pct_nav: 97.52
 peer_group: "Money Market Government"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, use/park-cash]
 ---
 
 # TISCOSTF
@@ -43,6 +43,9 @@ _TISCO Short Term Government Bond Fund_
 > - **จัดตั้ง:** 2005-05-06 · **จดทะเบียน:** 2005-05-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.6641 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.41%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

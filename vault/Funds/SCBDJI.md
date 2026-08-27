@@ -25,7 +25,7 @@ holdings_count: 92
 top10_pct_nav: 106.32
 master_fund: "State Street SPDR Dow Jones Industrial Average ETF Trust"
 master_isin: "US78467X1090"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBDJI
@@ -43,6 +43,9 @@ _SCB US Equity DJI Fund_
 > - **จัดตั้ง:** 2021-03-31 · **จดทะเบียน:** 2021-04-08
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 14.9132 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.11%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

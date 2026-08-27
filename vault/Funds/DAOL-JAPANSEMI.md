@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 189570169.57
 master_fund: "NEXT FUNDS Nikkei Semiconductor Stock Index Exchange Traded Fun"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/discretionary, struct/feeder, style/passive, geo/japan, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-JAPANSEMI
@@ -40,6 +40,9 @@ _DAOL JAPAN SEMICONDUCTOR FUND_
 > - **จัดตั้ง:** 2026-07-06 · **จดทะเบียน:** 2026-07-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.759 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

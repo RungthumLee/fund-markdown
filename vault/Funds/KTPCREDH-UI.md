@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 96.22
 master_fund: "Ares Strategic Income Offshore Access Fund"
 master_isin: "LU2708805176"
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, geo/us, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KTPCREDH-UI
@@ -43,6 +43,9 @@ _KTAM U.S. Private Credit Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2024-05-16 · **จดทะเบียน:** 2024-06-13
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.4383 (2026-07-31)**
+
+> [!tip] อ่านง่าย ๆ
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

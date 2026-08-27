@@ -25,7 +25,7 @@ holdings_count: 37
 top10_pct_nav: 63.55
 peer_group: "Equity General"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # ES-JBPDIV
@@ -43,6 +43,9 @@ _Eastspring JUMBO PLUS Dividend Fund_
 > - **จัดตั้ง:** 2004-10-29 · **จดทะเบียน:** 2004-11-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.7325 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.38%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

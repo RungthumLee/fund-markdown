@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 604612294.7
 holdings_count: 28
 top10_pct_nav: 72.36
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # LHGOVRMF
@@ -41,6 +41,9 @@ _LH GOVERNMENT BOND RMF_
 > - **จัดตั้ง:** 2012-11-02 · **จดทะเบียน:** 2012-11-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.8976 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.32%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

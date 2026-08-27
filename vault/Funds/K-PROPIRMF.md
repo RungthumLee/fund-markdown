@@ -25,7 +25,7 @@ holdings_count: 47
 top10_pct_nav: 65.25
 peer_group: "Fund of Property fund - Thai and Foreign"
 fund_managers: ["นาย ธีรวัฒน์ บรรเจิดสุทธิกุล"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-PROPIRMF
@@ -43,6 +43,9 @@ _K Property Infrastructure Flexible RMF_
 > - **จัดตั้ง:** 2019-11-01 · **จดทะเบียน:** 2019-11-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.1775 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.26%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 103.88
 master_fund: "AXAWF US High Yield Bonds I Cap USD"
 master_isin: "LU0276015889"
 peer_group: "High Yield Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UOBSHY-M
@@ -44,6 +44,9 @@ _UOB Smart US High Yield Fund_
 > - **จัดตั้ง:** 2014-04-21 · **จดทะเบียน:** 2014-05-14
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.5936 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 88.91
 master_fund: "Pictet-Security I USD"
 master_isin: "LU0256845834"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # UGSE
@@ -44,6 +44,9 @@ _United Global Security Equities Fund_
 > - **จัดตั้ง:** 2015-11-19 · **จดทะเบียน:** 2015-12-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.7109 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.92%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

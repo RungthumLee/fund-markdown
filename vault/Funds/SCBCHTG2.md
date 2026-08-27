@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 413776161.28
 holdings_count: 108
 top10_pct_nav: 37.76
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, compliance/trigger-fund, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, compliance/trigger-fund, use/accumulate]
 ---
 
 # SCBCHTG2
@@ -41,6 +41,9 @@ _SCB China Trigger 2 Fund_
 > - **จัดตั้ง:** 2021-04-05 · **จดทะเบียน:** 2021-06-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.1423 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.33%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ master_fund: "Amundi Fds EM Hrd Ccy Bd A EUR C"
 master_isin: "LU1602583905"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-EBF
@@ -45,6 +45,9 @@ _Eastspring Emerging Bond Fund_
 > - **จัดตั้ง:** 2017-05-12 · **จดทะเบียน:** 2017-05-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.4745 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.09%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

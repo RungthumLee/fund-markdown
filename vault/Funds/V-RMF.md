@@ -24,7 +24,7 @@ fund_size: 659291237.22
 holdings_count: 47
 top10_pct_nav: 67.43
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # V-RMF
@@ -42,6 +42,9 @@ _VALUED STOCK RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2001-12-17 · **จดทะเบียน:** 2001-12-25
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 95.2928 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 47 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.18%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

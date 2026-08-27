@@ -24,7 +24,7 @@ top10_pct_nav: 125.22
 master_fund: "Nomura Fds Japan Strategic Value I JPY"
 master_isin: "IE00B3VTL690"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-JAPANEQ
@@ -42,6 +42,9 @@ _DAOL JAPAN STRATEGIC VALUE FUND_
 > - **จัดตั้ง:** 2026-03-06 · **จดทะเบียน:** 2026-03-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.3856 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active)
 
 ## 1. ข้อมูลทั่วไป
 

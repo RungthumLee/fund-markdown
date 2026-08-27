@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.82
 master_fund: "iShares Agribusiness UCITS ETF USD (Acc)"
 master_isin: "IE00B6R52143"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-AGRIANDFOOD
@@ -43,6 +43,9 @@ _KTAM Sustainable Agriculture and Food Fund_
 > - **จัดตั้ง:** 2011-05-09 · **จดทะเบียน:** 2011-05-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.8946 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.65%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

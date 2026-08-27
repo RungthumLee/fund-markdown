@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1345150931.22
 holdings_count: 41
 top10_pct_nav: 65.0
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL EQRMF
@@ -41,6 +41,9 @@ _Principal Equity Retirement Mutual Fund_
 > - **จัดตั้ง:** 2005-11-01 · **จดทะเบียน:** 2006-11-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.7532 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 41 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.79%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ holdings_count: 23
 top10_pct_nav: 115.22
 master_fund: "Fidelity Japan Value Y-Acc-JPY"
 master_isin: "LU0370789561"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/japan, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-JAPANALL
@@ -42,6 +42,9 @@ _KTAM Japan All Cap Equity Fund_
 > - **จัดตั้ง:** 2024-02-12 · **จดทะเบียน:** 2024-07-24
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 15.7138 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

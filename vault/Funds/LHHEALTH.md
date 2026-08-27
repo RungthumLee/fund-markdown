@@ -24,7 +24,7 @@ fund_size: 59380402.04
 holdings_count: 13
 top10_pct_nav: 108.72
 master_fund: "AB SICAV I - International Health Care Portfolio I Acc"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # LHHEALTH
@@ -42,6 +42,9 @@ _LH HEALTH INNOVATION FUND_
 > - **จัดตั้ง:** 2021-06-22 · **จดทะเบียน:** 2021-09-29
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 6.329 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.16%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

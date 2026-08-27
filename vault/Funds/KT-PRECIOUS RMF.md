@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 101.14
 master_fund: "Franklin Gold and Precious Metals Fund I(acc)USD"
 master_isin: "LU0496368654"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/world, theme/metals-mining/gold, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-PRECIOUS RMF
@@ -43,6 +43,9 @@ _KTAM World Gold and Precious Equity RMF_
 > - **จัดตั้ง:** 2025-11-28 · **จดทะเบียน:** 2025-12-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.0414 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 13619602.47
 holdings_count: 171
 top10_pct_nav: 51.31
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/total-market, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/total-market, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # BCAP-SET RMF
@@ -42,6 +42,9 @@ _BCAP SET Index Retirement Mutual Fund_
 > - **จัดตั้ง:** 2024-09-23 · **จดทะเบียน:** 2024-11-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5732 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 171 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.94%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

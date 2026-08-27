@@ -24,7 +24,7 @@ fund_size: 505110158.65
 holdings_count: 68
 top10_pct_nav: 39.26
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # F-RMF
@@ -42,6 +42,9 @@ _FIXED INCOME PLUS RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2001-12-12 · **จดทะเบียน:** 2001-12-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.0382 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.68%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

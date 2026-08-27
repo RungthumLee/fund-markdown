@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1636409467.13
 holdings_count: 16
 top10_pct_nav: 92.17
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, tax/ssf, geo/china, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
 # MEGA10CHINA
@@ -41,6 +41,9 @@ _MEGA 10 CHINA FUND_
 > - **จัดตั้ง:** 2023-12-19 · **จดทะเบียน:** 2023-12-27
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 12.3208 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · พอร์ตถือราว 16 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

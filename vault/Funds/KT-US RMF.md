@@ -24,7 +24,7 @@ holdings_count: 12
 top10_pct_nav: 100.99
 master_fund: "AB American Growth I USD"
 master_isin: "LU0079475348"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-US RMF
@@ -42,6 +42,9 @@ _KTAM US Growth Equity RMF_
 > - **จัดตั้ง:** 2023-10-20 · **จดทะเบียน:** 2023-12-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.968 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

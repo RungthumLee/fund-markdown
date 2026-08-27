@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 2402070741.01
 holdings_count: 18
 top10_pct_nav: 94.22
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KTWC-INCOME
@@ -41,6 +41,9 @@ _Krungthai World Class Income Fund_
 > - **จัดตั้ง:** 2025-06-13 · **จดทะเบียน:** 2025-06-25
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 10.5157 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.97%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

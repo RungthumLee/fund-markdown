@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 99.61
 master_fund: "BNY Mellon Glb ShrtDtd HY Bd USD W Acc"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # ONE-GLOBHY
@@ -43,6 +43,9 @@ _ONE GLOBAL SHORT-DATED HIGH YIELD BOND FUND_
 > - **จัดตั้ง:** 2017-09-05 · **จดทะเบียน:** 2017-11-15
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.1665 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

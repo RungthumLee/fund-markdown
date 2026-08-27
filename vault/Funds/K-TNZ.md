@@ -25,7 +25,7 @@ holdings_count: 100
 top10_pct_nav: 55.57
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. เพชรรัตน์ โพธิ์วัฒนะเสถียร", "น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, tax/thai-esg, compliance/sri-fund, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # K-TNZ
@@ -43,6 +43,9 @@ _K Target Net Zero Thai Equity Fund_
 > - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-22
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 13.1909 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 100 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.67%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

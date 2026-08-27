@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 100.75
 master_fund: "Schwab U.S. Dividend Equity ETF"
 master_isin: "US8085247976"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLUSHD-H
@@ -42,6 +42,9 @@ _TALIS U.S. DIVIDEND EQUITY FUND-HEDGE_
 > - **จัดตั้ง:** 2026-04-21 · **จดทะเบียน:** 2026-04-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0613 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.48%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 46
 top10_pct_nav: 56.33
 peer_group: "Moderate Allocation"
 fund_managers: ["นาง สาวชนัยกานต์ สวัสดิฤกษ์", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # FP FLEX RMF
@@ -43,6 +43,9 @@ _First Plus Flexible Retirement Mutual Fund_
 > - **จัดตั้ง:** 2008-12-09 · **จดทะเบียน:** 2008-12-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 21.6805 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.81%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

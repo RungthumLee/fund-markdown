@@ -270,6 +270,11 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
         a(f"> - **{nav_line}**")
     a("")
 
+    # plain-language summary: the regulatory facts turned into a sentence
+    a("> [!tip] อ่านง่าย ๆ")
+    a(f"> {tagging.plain_summary(f, _ter)}")
+    a("")
+
     # ---- 1. general
     a("## 1. ข้อมูลทั่วไป")
     a("")
@@ -810,8 +815,6 @@ FACET_LABEL = {
     "asset": ("สินทรัพย์", "ประเภทสินทรัพย์หลักที่กองลงทุน"),
     "use": ("การใช้งาน", "กองนี้เหมาะกับโจทย์แบบไหน"),
     "risk": ("ความเสี่ยง (ภาษาคน)", "แปลระดับ 1–8 เป็นคำที่เข้าใจง่าย"),
-    "geo": ("ภูมิภาค", "พื้นที่ลงทุนหลัก (อ่านจากชื่อกอง)"),
-    "theme": ("ธีม/หมวด", "ธีมการลงทุน (อ่านจากชื่อกอง — ยังเป็น best-effort)"),
     "style": ("กลยุทธ์บริหาร", "active / passive / ปันผล ฯลฯ"),
     "struct": ("โครงสร้าง", "ลงตรง / feeder"),
     "conc": ("การกระจุกตัว", "จำนวนหลักทรัพย์ที่ถือ (เฉพาะกองหุ้น)"),
@@ -839,7 +842,8 @@ def render_tag_index(scoped: list[dict]) -> str:
          "[[00-home|🏠 Home]] · [[screener|🔎 Screener]] · [[all-funds|ทั้งหมด]]", "",
          "> [!INFO] แต่ละกองติดแท็กหลายมิติแบบ deterministic (อ่านจากข้อมูล ก.ล.ต.)",
          "> **คลิกแท็ก** เพื่อดูทุกกองที่ติดแท็กนั้น หรือใช้ Dataview ด้านล่าง",
-         "> ธีม/ภูมิภาคอ่านจากชื่อกอง จึงเป็น best-effort (LLM จะช่วยขัดในเฟสถัดไป)",
+         "> อยากได้กลุ่มตามธีม/ภูมิภาค (จีน · เทคโนโลยี · สุขภาพ) ดูที่ "
+         "[[by-peer-group|กลุ่ม AIMC]] ซึ่งเป็นการจัดกลุ่มจริงจาก factsheet",
          ""]
     for facet in FACET_LABEL:
         rows = by_facet.get(facet)
@@ -863,12 +867,6 @@ def render_tag_index(scoped: list[dict]) -> str:
              'risk_spectrum AS "เสี่ยง"',
              'FROM #use/park-cash', 'WHERE perf_1y',
              'SORT perf_1y DESC', 'LIMIT 20'])
-    o += dv("หุ้นจีน + เทคโนโลยี",
-            "กองที่ติดทั้งภูมิภาคจีนและธีมเทคโนโลยี",
-            ['TABLE perf_1y AS "1y %", ter_retail AS "TER %", '
-             'nav AS "NAV", amc AS "บลจ."',
-             'FROM #geo/china AND #theme/technology',
-             'SORT perf_1y DESC'])
     o += dv("กองปันผล เสี่ยงปานกลาง",
             "กองที่จ่ายปันผล ความเสี่ยงไม่สูงเกินไป",
             ['TABLE perf_1y AS "1y %", ter_retail AS "TER %", policy AS "นโยบาย"',
@@ -879,6 +877,58 @@ def render_tag_index(scoped: list[dict]) -> str:
             ['TABLE ter_retail AS "TER %", perf_1y AS "1y %", policy AS "นโยบาย"',
              'FROM #use/tax-saving', 'WHERE ter_retail',
              'SORT ter_retail ASC', 'LIMIT 25'])
+    return "\n".join(o)
+
+
+_FX_SHORT = {"fx/fully-hedged": "hedge เต็ม", "fx/partially-hedged": "hedge บางส่วน",
+             "fx/discretionary": "ดุลยพินิจ", "fx/unhedged": "ไม่ hedge"}
+
+
+def _top_holding(f: dict) -> str:
+    for x in f.get("top5_holdings") or []:
+        if x.get("name"):
+            return str(x["name"])[:28]
+    for x in (f.get("portfolio") or {}).get("items") or []:
+        if x.get("entity_name") or x.get("name"):
+            return str(x.get("entity_name") or x.get("name"))[:28]
+    return "-"
+
+
+def render_peer_clusters(g_peer: dict[str, list[dict]]) -> str:
+    """The AIMC peer group is the real 'cluster' - the unit Thai investors are
+    told to compare within. Instead of just listing the funds, show a table that
+    makes the differences inside a group obvious: fee, return, risk, currency
+    hedging, structure and biggest holding side by side."""
+    o = ["---", "title: กองทุนแยกตามกลุ่ม AIMC", "tags: [index, peer-group, cluster]",
+         "---", "", "# 🧩 กลุ่มกองทุน (AIMC) — เทียบในกลุ่มเดียวกัน", "",
+         "[[00-home|🏠 Home]] · [[tags|🏷️ แท็ก]] · [[compare-fees|เทียบค่าธรรมเนียม]]", "",
+         "การจัดกลุ่มจริงจาก factsheet ของ AIMC — **เทียบผลตอบแทนได้เฉพาะภายในกลุ่มเดียวกัน**",
+         "",
+         "> [!WARNING] TER = ค่าธรรมเนียมรวมของชนิดที่รายย่อยซื้อได้ · "
+         "ผลตอบแทน 1 ปีเป็นอดีต ไม่รับประกันอนาคต · "
+         "กองที่ factsheet ไม่ระบุกลุ่มจะไม่อยู่ในหน้านี้",
+         f"", f"**รวม {sum(len(v) for v in g_peer.values()):,} กองใน "
+         f"{len(g_peer)} กลุ่ม**", ""]
+
+    for group in sorted(g_peer, key=lambda k: (-len(g_peer[k]), k)):
+        rows = g_peer[group]
+        o.append(f"## {group} ({len(rows)})")
+        o.append("")
+        table_rows = []
+        for f in sorted(rows, key=lambda x: -(fund_perf_1y(x) or -999)):
+            tags = set(tagging.investor_tags(f))
+            fx = next((_FX_SHORT[t] for t in tags if t in _FX_SHORT), "-")
+            struct = "feeder" if "struct/feeder" in tags else "ตรง"
+            table_rows.append([
+                f"[[{f['_note']}|{f.get('abbr')}]]",
+                f"[[{safe_name(f.get('amc_th') or 'ไม่ระบุ')}]]",
+                f.get("risk_spectrum") or "-",
+                fmt(fees.retail_ter(f), digits=2),
+                fmt(fund_perf_1y(f), digits=2),
+                fx, struct, _top_holding(f),
+            ])
+        o.extend(table(["กองทุน", "บลจ.", "เสี่ยง", "TER %", "1y %",
+                        "ค่าเงิน", "โครงสร้าง", "ถือมากสุด"], table_rows))
     return "\n".join(o)
 
 
@@ -1006,13 +1056,8 @@ def main() -> None:
         if peer:
             g_peer[peer[:80]].append(f)
     if g_peer:
-        (idx / "by-peer-group.md").write_text(render_index(
-            "🏷️ กองทุนแยกตามกลุ่ม AIMC",
-            "กลุ่มกองทุนตามการจัดของสมาคมบริษัทจัดการลงทุน (AIMC) "
-            "แกะจาก Factsheet PDF — ข้อมูลนี้ไม่มีใน API\n\n"
-            "การเทียบผลตอบแทนควรเทียบภายในกลุ่มเดียวกันเท่านั้น · "
-            "ดู [วิธีแกะข้อมูล](../../docs/guides/factsheet-extraction.md)",
-            g_peer, "peer-group"), encoding="utf-8")
+        (idx / "by-peer-group.md").write_text(
+            render_peer_clusters(g_peer), encoding="utf-8")
 
     # ---- comparison index: cheapest / best-performing per policy ---------
     def ter_of(f: dict):

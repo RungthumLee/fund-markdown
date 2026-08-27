@@ -27,7 +27,7 @@ master_fund: "ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF"
 master_isin: "HK0000123577"
 peer_group: "China Equity - A Shares"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KFCSI300
@@ -45,6 +45,9 @@ _Krungsri China Equity CSI 300 Fund_
 > - **จัดตั้ง:** 2023-06-09 · **จดทะเบียน:** 2023-06-28
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.4502 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.01%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

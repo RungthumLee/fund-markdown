@@ -25,7 +25,7 @@ holdings_count: 78
 top10_pct_nav: 104.79
 master_fund: "Templeton Glb Climate Change I(acc)EUR"
 master_isin: "LU0195953749"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBCLIMATE
@@ -43,6 +43,9 @@ _SCB Global Climate Change_
 > - **จัดตั้ง:** 2024-06-06 · **จดทะเบียน:** 2024-06-18
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 12.1183 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

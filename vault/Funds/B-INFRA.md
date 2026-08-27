@@ -24,7 +24,7 @@ fund_size: 1380675608.65
 holdings_count: 34
 top10_pct_nav: 57.3
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, theme/infrastructure, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # B-INFRA
@@ -42,6 +42,9 @@ _Bualuang Infrastructure Open-end Fund_
 > - **จัดตั้ง:** 1994-09-20 · **จดทะเบียน:** 1994-11-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 33.1379 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 34 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

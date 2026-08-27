@@ -25,7 +25,7 @@ holdings_count: 71
 top10_pct_nav: 103.28
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBRMNDQ
@@ -43,6 +43,9 @@ _SCB US Equity NDQ RMF_
 > - **จัดตั้ง:** 2022-01-20 · **จดทะเบียน:** 2022-01-31
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 16.7284 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

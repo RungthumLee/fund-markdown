@@ -27,7 +27,7 @@ master_fund: "State Street Energy Select Sector SPDR ETF"
 master_isin: "US81369Y5069"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/us, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TUSENGY
@@ -45,6 +45,9 @@ _TISCO US Energy Fund_
 > - **จัดตั้ง:** 2024-12-20 · **จดทะเบียน:** 2025-02-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.116 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

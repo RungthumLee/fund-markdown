@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2203124812.43
 holdings_count: 54
 top10_pct_nav: 59.14
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-THDIS
@@ -41,6 +41,9 @@ _AIA Thai Equity Discovery_
 > - **จัดตั้ง:** 2020-07-02 · **จดทะเบียน:** 2020-08-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.9716 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 54 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.45%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

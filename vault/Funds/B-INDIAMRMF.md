@@ -26,7 +26,7 @@ top10_pct_nav: 98.65
 master_fund: "Kotak India Midcap J USD Acc"
 master_isin: "LU0675383409"
 peer_group: "India Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/india, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-INDIAMRMF
@@ -44,6 +44,9 @@ _Bualuang India Mid Cap RMF_
 > - **จัดตั้ง:** 2017-08-04 · **จดทะเบียน:** 2017-11-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.5085 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

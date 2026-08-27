@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 18772220.61
 holdings_count: 10
 top10_pct_nav: 100.26
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # LHGINCOMERMF
@@ -41,6 +41,9 @@ _LH Global Income Retirement Mutual Fund_
 > - **จัดตั้ง:** 2017-09-21 · **จดทะเบียน:** 2017-11-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.335 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.43%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

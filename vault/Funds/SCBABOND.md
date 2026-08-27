@@ -25,7 +25,7 @@ holdings_count: 43
 top10_pct_nav: 103.5
 master_fund: "DWS Invest Asian Bonds USD FC50"
 master_isin: "LU1949850538"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/asia-pacific, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBABOND
@@ -43,6 +43,9 @@ _SCB Asian Fixed Income_
 > - **จัดตั้ง:** 2021-07-13 · **จดทะเบียน:** 2021-07-22
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 9.8081 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.85%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

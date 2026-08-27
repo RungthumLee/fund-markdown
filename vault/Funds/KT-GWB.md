@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 16537297.99
 holdings_count: 19
 top10_pct_nav: 78.95
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KT-GWB
@@ -41,6 +41,9 @@ _KTAM Global Wealth Balanced_
 > - **จัดตั้ง:** 2026-01-30 · **จดทะเบียน:** 2026-03-04
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 10.4634 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.37%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

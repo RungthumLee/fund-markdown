@@ -25,7 +25,7 @@ holdings_count: 13
 top10_pct_nav: 102.52
 peer_group: "Health Care"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/ultra-concentrated, fx/partially-hedged, struct/direct, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/ultra-concentrated, fx/partially-hedged, struct/direct, use/accumulate]
 ---
 
 # TGENOME
@@ -43,6 +43,9 @@ _TISCO Genomic Revolution Fund_
 > - **จัดตั้ง:** 2020-11-04 · **จดทะเบียน:** 2021-01-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 3.8903 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

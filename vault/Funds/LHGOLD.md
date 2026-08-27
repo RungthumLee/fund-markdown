@@ -24,7 +24,7 @@ fund_size: 198723375.72
 holdings_count: 12
 top10_pct_nav: 101.45
 master_fund: "SPDR Gold Shares"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/dividend, theme/metals-mining/gold, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/dividend, use/income]
 ---
 
 # LHGOLD
@@ -42,6 +42,9 @@ _LH GOLD FUND_
 > - **จัดตั้ง:** 2020-08-07 · **จดทะเบียน:** 2020-08-17
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 17.5515 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.95%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

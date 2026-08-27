@@ -24,7 +24,7 @@ holdings_count: 2
 top10_pct_nav: 104.34
 master_fund: "Wellspring GBL Fund"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, theme/technology/ai-robotics, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # ASP-POINTAI-UI
@@ -42,6 +42,9 @@ _Asset Plus Point Artificial Intelligence Hedge Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2025-12-11 · **จดทะเบียน:** 2026-01-30
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.5926 (2026-07-01)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.14%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

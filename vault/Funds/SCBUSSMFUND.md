@@ -25,7 +25,7 @@ holdings_count: 49
 top10_pct_nav: 116.33
 master_fund: "Granahan US Focused Growth I USD Acc"
 master_isin: "IE00BF5KD889"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t7, fx/fully-hedged, struct/feeder, style/active, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t7, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBUSSMFUND
@@ -43,6 +43,9 @@ _SCB US SMALL CAP EQUITY FUND_
 > - **จัดตั้ง:** 2015-12-16 · **จดทะเบียน:** 2016-05-31
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 13.6096 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+7 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 475444398.17
 holdings_count: 39
 top10_pct_nav: 65.3
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # BCAP
@@ -42,6 +42,9 @@ _BUALUNG CAPITAL OPEN-END FUND_
 > - **จัดตั้ง:** 1996-11-12 · **จดทะเบียน:** 1996-12-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 1.646 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 39 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.22%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

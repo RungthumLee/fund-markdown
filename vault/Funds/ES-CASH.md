@@ -25,7 +25,7 @@ holdings_count: 57
 top10_pct_nav: 49.78
 peer_group: "Money Market General"
 fund_managers: ["นาง รัชนิภา พรรคพานิช", "นาย ธารดร เขียวมีส่วน"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # ES-CASH
@@ -43,6 +43,9 @@ _Eastspring Cash Management Fund_
 > - **จัดตั้ง:** 2005-07-18 · **จดทะเบียน:** 2005-08-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.533 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

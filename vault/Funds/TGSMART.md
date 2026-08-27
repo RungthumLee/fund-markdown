@@ -26,7 +26,7 @@ master_fund: "Schroder ISF Glbl Trgt Ret C Acc USD"
 master_isin: "LU1516354310"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/world, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # TGSMART
@@ -44,6 +44,9 @@ _TISCO Global Smart Allocation Fund_
 > - **จัดตั้ง:** 2025-07-18 · **จดทะเบียน:** 2025-08-15
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.1343 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.39%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

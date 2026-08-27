@@ -25,7 +25,7 @@ holdings_count: 55
 top10_pct_nav: 101.23
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t1, conc/focused, fx/fully-hedged, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t1, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-IMA
@@ -43,6 +43,9 @@ _AIA Combined Moderate Allocation Fund_
 > - **จัดตั้ง:** 2022-01-26 · **จดทะเบียน:** 2022-04-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.0694 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

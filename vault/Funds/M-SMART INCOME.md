@@ -24,7 +24,7 @@ fund_size: 124136426.16
 holdings_count: 38
 top10_pct_nav: 105.43
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # M-SMART INCOME
@@ -42,6 +42,9 @@ _MFC Global Smart Income Fund_
 > - **จัดตั้ง:** 2017-08-08 · **จดทะเบียน:** 2017-09-14
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.8639 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

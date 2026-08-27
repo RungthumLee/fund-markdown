@@ -24,7 +24,7 @@ fund_size: 80562007.83
 holdings_count: 49
 top10_pct_nav: 64.44
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # THANA1
@@ -42,6 +42,9 @@ _THANA ONE FUND_
 > - **จัดตั้ง:** 1993-12-30 · **จดทะเบียน:** 1994-01-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.3818 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 49 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

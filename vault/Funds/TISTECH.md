@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 101.74
 peer_group: "Technology Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t6, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t6, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # TISTECH
@@ -43,6 +43,9 @@ _TISCO Global Technology Equity Fund_
 > - **จัดตั้ง:** 2017-07-21 · **จดทะเบียน:** 2017-09-27
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 27.606 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 11 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

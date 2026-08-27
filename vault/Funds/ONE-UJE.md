@@ -24,7 +24,7 @@ fund_size: 175050321.83
 holdings_count: 17
 top10_pct_nav: 107.86
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/japan, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ONE-UJE
@@ -42,6 +42,9 @@ _ONE ULTIMATE JAPAN EQUITY FUND_
 > - **จัดตั้ง:** 2021-04-07 · **จดทะเบียน:** 2021-05-14
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 18.8649 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 17 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

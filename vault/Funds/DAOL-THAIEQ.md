@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 14539486.37
 holdings_count: 35
 top10_pct_nav: 61.59
-tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # DAOL-THAIEQ
@@ -41,6 +41,9 @@ _DAOL THAI EQUITY FUND_
 > - **จัดตั้ง:** 2023-06-19 · **จดทะเบียน:** 2023-06-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.4354 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 35 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

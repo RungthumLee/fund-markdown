@@ -23,7 +23,7 @@ fund_size: 8940138.38
 holdings_count: 2
 top10_pct_nav: 99.81
 master_fund: "กองทุนเปิด MEGA 10 CHINA TECHNOLOGY"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/china, theme/technology, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # MEGA10CHINATECHRMF
@@ -41,6 +41,9 @@ _MEGA 10 CHINA TECHNOLOGY RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2025-10-06 · **จดทะเบียน:** 2025-10-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.5542 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

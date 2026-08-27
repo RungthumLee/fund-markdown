@@ -27,7 +27,7 @@ master_fund: "iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc)"
 master_isin: "IE00B3WJKG14"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/us, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-USTECH
@@ -45,6 +45,9 @@ _EASTSPRING US Information Technology Fund_
 > - **จัดตั้ง:** 2022-08-30 · **จดทะเบียน:** 2022-09-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 23.7036 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

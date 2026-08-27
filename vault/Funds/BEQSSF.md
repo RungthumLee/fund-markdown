@@ -24,7 +24,7 @@ fund_size: 3919759722.95
 holdings_count: 42
 top10_pct_nav: 65.23
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # BEQSSF
@@ -42,6 +42,9 @@ _Bualuang Thai Equity Super Savings Fund_
 > - **จัดตั้ง:** 2020-03-25 · **จดทะเบียน:** 2020-04-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.2712 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 42 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.69%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

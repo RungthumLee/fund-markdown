@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 105.53
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLSEMICON-UH
@@ -43,6 +43,9 @@ _TALIS SEMICONDUCTOR-UNHEDGE_
 > - **จัดตั้ง:** 2025-06-04 · **จดทะเบียน:** 2025-06-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 22.7583 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

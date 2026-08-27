@@ -24,7 +24,7 @@ fund_size: 806678818.55
 holdings_count: 43
 top10_pct_nav: 66.47
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # B-MIXED-THAIESG
@@ -42,6 +42,9 @@ _Bualuang Mixed Thailand ESG Fund_
 > - **จัดตั้ง:** 2024-10-11 · **จดทะเบียน:** 2024-11-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.025 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

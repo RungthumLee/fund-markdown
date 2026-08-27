@@ -25,7 +25,7 @@ holdings_count: 30
 top10_pct_nav: 102.72
 master_fund: "Fidelity Global Demographics Y-Acc-USD"
 master_isin: "LU0528228231"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMPOP
@@ -43,6 +43,9 @@ _SCB Global Sustainable Population Trend RMF_
 > - **จัดตั้ง:** 2017-10-30 · **จดทะเบียน:** 2017-11-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.6552 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

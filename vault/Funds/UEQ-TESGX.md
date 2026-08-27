@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 539522.54
 holdings_count: 47
 top10_pct_nav: 52.79
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # UEQ-TESGX
@@ -41,6 +41,9 @@ _United Equity Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-29 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 12.6805 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 47 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

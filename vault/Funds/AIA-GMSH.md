@@ -23,7 +23,7 @@ fund_size: 642019727.66
 holdings_count: 67
 top10_pct_nav: 102.58
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-GMSH
@@ -41,6 +41,9 @@ _AIA Global Moderate Strategic Allocation Fund_
 > - **จัดตั้ง:** 2025-10-15 · **จดทะเบียน:** 2025-12-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7084 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

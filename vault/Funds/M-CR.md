@@ -24,7 +24,7 @@ fund_size: 28526820.25
 holdings_count: 3
 top10_pct_nav: 100.16
 fund_managers: ["นาย กมลสิฐิ์ ขวัญใจธัญญา", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/low, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/low, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # M-CR
@@ -42,6 +42,9 @@ _MFC Capital Protection Retirement Mutual Fund_
 > - **จัดตั้ง:** 2005-10-04 · **จดทะเบียน:** 2005-12-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.3348 (2026-08-21)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.61%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

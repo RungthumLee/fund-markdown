@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 99.79
 master_fund: "BlackRock Global Funds - World Energy Fund"
 master_isin: "LU0122376428"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-ENERGY
@@ -43,6 +43,9 @@ _Ktam World Energy Fund_
 > - **จัดตั้ง:** 2009-06-01 · **จดทะเบียน:** 2009-07-03
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 17.5609 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

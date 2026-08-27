@@ -24,7 +24,7 @@ fund_size: 767977409.25
 holdings_count: 3
 top10_pct_nav: 100.33
 master_fund: "กองทุนเปิดไทยพาณิชย์ หุ้นเวียดนาม"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMVIET
@@ -42,6 +42,9 @@ _SCB Vietnam Equity RMF_
 > - **จัดตั้ง:** 2022-01-25 · **จดทะเบียน:** 2022-03-08
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.0141 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

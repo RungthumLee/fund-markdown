@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 99.73
 master_fund: "iShares MSCI ACWI ETF"
 master_isin: "US4642882579"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # KT-GEQ
@@ -43,6 +43,9 @@ _KTAM Global Equity Passive Fund_
 > - **จัดตั้ง:** 2021-05-18 · **จดทะเบียน:** 2021-06-22
 > - **ชนิดหน่วยลงทุน:** 9 class
 > - **NAV 14.5183 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.67%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

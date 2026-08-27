@@ -24,7 +24,7 @@ fund_size: 54859885.23
 holdings_count: 39
 top10_pct_nav: 36.47
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, geo/europe, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # ONE-STOXXASEANETF
@@ -42,6 +42,9 @@ _ONE STOXX ASEAN  SELECT DIVIDEND INDEX ETF_
 > - **จัดตั้ง:** 2015-06-11 · **จดทะเบียน:** 2015-06-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 105.4902 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 39 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

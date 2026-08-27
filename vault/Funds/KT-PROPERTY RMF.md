@@ -25,7 +25,7 @@ holdings_count: 8
 top10_pct_nav: 97.79
 master_fund: "Janus Henderson Horizon - Global Property Equities Fund"
 master_isin: "LU0209137388"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-PROPERTY RMF
@@ -43,6 +43,9 @@ _KTAM World Property RMF_
 > - **จัดตั้ง:** 2012-10-19 · **จดทะเบียน:** 2012-11-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.6924 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.56%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

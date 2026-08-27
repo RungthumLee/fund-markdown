@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 380939229.31
 holdings_count: 49
 top10_pct_nav: 43.0
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # KTMSEQ
@@ -41,6 +41,9 @@ _Krung Thai Mid-Small Cap Equity Fund_
 > - **จัดตั้ง:** 2015-02-24 · **จดทะเบียน:** 2015-04-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.5381 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 49 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.87%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

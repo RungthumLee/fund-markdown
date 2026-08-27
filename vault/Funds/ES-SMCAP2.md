@@ -25,7 +25,7 @@ holdings_count: 49
 top10_pct_nav: 39.02
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["น.ส. นันทรา ลายจุด", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-SMCAP2
@@ -43,6 +43,9 @@ _Eastspring Small Medium Cap Equity Fund 2_
 > - **จัดตั้ง:** 2016-10-31 · **จดทะเบียน:** 2016-12-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.6194 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 49 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.31%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

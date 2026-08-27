@@ -25,7 +25,7 @@ holdings_count: 51
 top10_pct_nav: 35.88
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["นาย กวิฬ เหรียญเสาวภาคย์", "นาย ฑลิต โชคทิพย์พัฒนา"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # KFTHAISM
@@ -43,6 +43,9 @@ _Krungsri Thai Small-Mid Cap Equity Fund_
 > - **จัดตั้ง:** 2016-01-22 · **จดทะเบียน:** 2016-02-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.1571 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 51 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

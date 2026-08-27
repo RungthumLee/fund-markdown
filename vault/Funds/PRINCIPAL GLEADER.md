@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 92.83
 master_fund: "Brown Advisory Global Leaders B USD Acc"
 master_isin: "IE00BVVHP563"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # PRINCIPAL GLEADER
@@ -43,6 +43,9 @@ _Principal Global Leaders Equity Fund_
 > - **จัดตั้ง:** 2025-01-03 · **จดทะเบียน:** 2025-02-14
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 10.3093 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

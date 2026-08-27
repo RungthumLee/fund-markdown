@@ -25,7 +25,7 @@ holdings_count: 150
 top10_pct_nav: 42.45
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # TFIRMF
@@ -43,6 +43,9 @@ _TISCO  Fixed Income Retirement  Fund_
 > - **จัดตั้ง:** 2002-05-28 · **จดทะเบียน:** 2002-10-03
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 16.3073 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.35%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

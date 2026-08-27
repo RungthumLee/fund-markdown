@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 620872679.37
 holdings_count: 18
 top10_pct_nav: 104.08
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # PRINCIPAL GHEALTH
@@ -41,6 +41,9 @@ _Principal Global Health Innovation Fund_
 > - **จัดตั้ง:** 2021-01-06 · **จดทะเบียน:** 2021-02-05
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 5.3004 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 18 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

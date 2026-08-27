@@ -26,7 +26,7 @@ top10_pct_nav: 99.72
 master_fund: "Heptagon Driehaus US Sm Cp Eq S USD Acc"
 master_isin: "IE00BH3ZJB48"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # ASP-USSMALL
@@ -44,6 +44,9 @@ _Asset Plus U.S. Small Cap Focus Fund_
 > - **จัดตั้ง:** 2023-11-16 · **จดทะเบียน:** 2023-11-29
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 9.6204 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.37%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

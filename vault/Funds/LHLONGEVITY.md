@@ -23,7 +23,7 @@ fund_size: 49655957.87
 holdings_count: 23
 top10_pct_nav: 155.64
 master_fund: "Tema Oncology ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHLONGEVITY
@@ -41,6 +41,9 @@ _LH LONGEVITY HEALTHCARE FUND_
 > - **จัดตั้ง:** 2026-03-11 · **จดทะเบียน:** 2026-03-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.0639 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

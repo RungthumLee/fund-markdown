@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 104.06
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/passive, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBUSDSEMI
@@ -42,6 +42,9 @@ _SCB Semiconductor USD_
 > - **จัดตั้ง:** 2025-12-23 · **จดทะเบียน:** 2026-02-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.2945 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 45
 top10_pct_nav: 103.31
 master_fund: "DWS Invest CROCI Sectors Plus FCH (P)"
 master_isin: "LU1701862812"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBPGFUND
@@ -43,6 +43,9 @@ _SCB PLATINUM GLOBAL OPEN END FUND_
 > - **จัดตั้ง:** 2006-08-21 · **จดทะเบียน:** 2006-09-04
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 27.7398 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.09%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

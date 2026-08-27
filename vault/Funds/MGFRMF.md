@@ -26,7 +26,7 @@ top10_pct_nav: 102.98
 master_fund: "CT (Lux) Global Focus IU"
 master_isin: "LU0096363154"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # MGFRMF
@@ -44,6 +44,9 @@ _MFC Global Focus Retirement Fund_
 > - **จัดตั้ง:** 2020-12-02 · **จดทะเบียน:** 2020-12-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.4755 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

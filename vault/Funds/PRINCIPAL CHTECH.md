@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 892821659.82
 holdings_count: 51
 top10_pct_nav: 109.05
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, geo/china, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # PRINCIPAL CHTECH
@@ -41,6 +41,9 @@ _Principal China Technology Fund_
 > - **จัดตั้ง:** 2021-05-12 · **จดทะเบียน:** 2021-05-28
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 5.0547 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 51 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

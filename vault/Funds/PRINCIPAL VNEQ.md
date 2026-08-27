@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 5617535138.71
 holdings_count: 35
 top10_pct_nav: 57.96
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL VNEQ
@@ -41,6 +41,9 @@ _Principal Vietnam Equity Fund_
 > - **จัดตั้ง:** 2017-09-18 · **จดทะเบียน:** 2017-10-16
 > - **ชนิดหน่วยลงทุน:** 10 class
 > - **NAV 12.2118 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 35 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.06%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

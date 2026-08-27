@@ -26,7 +26,7 @@ top10_pct_nav: 102.41
 master_fund: "United Asia T SGD Acc"
 master_isin: "SGXZ97414734"
 peer_group: "Asia Pacific Ex Japan"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, tax/ssf, geo/asia-pacific, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UOBSA-M
@@ -44,6 +44,9 @@ _UOB Smart Asia Fund_
 > - **จัดตั้ง:** 2007-06-25 · **จดทะเบียน:** 2007-07-16
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 15.6559 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

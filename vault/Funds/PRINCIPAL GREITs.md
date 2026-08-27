@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 233780586.09
 holdings_count: 11
 top10_pct_nav: 100.83
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, geo/world, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # PRINCIPAL GREITs
@@ -41,6 +41,9 @@ _Principal Global REITs Fund_
 > - **จัดตั้ง:** 2017-02-20 · **จดทะเบียน:** 2017-03-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.5762 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.99%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

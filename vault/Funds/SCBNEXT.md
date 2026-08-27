@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 161040505.94
 holdings_count: 40
 top10_pct_nav: 105.87
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, theme/technology, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBNEXT
@@ -41,6 +41,9 @@ _SCB Next Generation Internet_
 > - **จัดตั้ง:** 2021-05-25 · **จดทะเบียน:** 2021-08-20
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 8.4255 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 40 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

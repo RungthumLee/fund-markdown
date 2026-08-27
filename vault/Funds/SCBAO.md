@@ -25,7 +25,7 @@ holdings_count: 54
 top10_pct_nav: 102.99
 master_fund: "MS INVF Asia Opportunity Z"
 master_isin: "LU1378878604"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBAO
@@ -43,6 +43,9 @@ _SCB Asia Opportunity Fund_
 > - **จัดตั้ง:** 2021-01-22 · **จดทะเบียน:** 2021-02-17
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 5.5097 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

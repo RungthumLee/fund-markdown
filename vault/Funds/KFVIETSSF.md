@@ -26,7 +26,7 @@ top10_pct_nav: 100.36
 master_fund: "กองทุนเปิดกรุงศรีเวียดนามอิควิตี้"
 peer_group: "Vietnam Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, style/dividend, geo/vietnam, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KFVIETSSF
@@ -44,6 +44,9 @@ _Krungsri Vietnam Equity SSF_
 > - **จัดตั้ง:** 2022-09-02 · **จดทะเบียน:** 2022-09-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.0883 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

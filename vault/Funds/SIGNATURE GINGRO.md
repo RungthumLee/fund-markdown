@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 104.89
 master_fund: "Signature Dynamic Income and Growth Fund"
 master_isin: "MYU0100B1663"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # SIGNATURE GINGRO
@@ -42,6 +42,9 @@ _Signature Global Dynamic Income and Growth Fund_
 > - **จัดตั้ง:** 2026-03-13 · **จดทะเบียน:** 2026-04-09
 > - **ชนิดหน่วยลงทุน:** 9 class
 > - **NAV 10.8565 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

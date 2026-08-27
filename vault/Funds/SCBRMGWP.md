@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 228718662.06
 holdings_count: 59
 top10_pct_nav: 102.0
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBRMGWP
@@ -41,6 +41,9 @@ _SCB GLOBAL WEALTH PLUS RMF_
 > - **จัดตั้ง:** 2012-04-24 · **จดทะเบียน:** 2012-09-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.6716 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

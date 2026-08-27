@@ -25,7 +25,7 @@ holdings_count: 8
 top10_pct_nav: 100.2
 master_fund: "abrdn Pacific Eq SGD"
 master_isin: "SG9999000459"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/asia-pacific, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ABAPAC-RMF
@@ -43,6 +43,9 @@ _abrdn Asia Pacific Equity Retirement Mutual Fund_
 > - **จัดตั้ง:** 2011-10-26 · **จดทะเบียน:** 2011-12-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 19.0563 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

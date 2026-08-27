@@ -26,7 +26,7 @@ top10_pct_nav: 109.79
 master_fund: "Invesco DB Oil Fund"
 peer_group: "Commodities Energy"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # K-OIL
@@ -44,6 +44,9 @@ _K Oil Fund_
 > - **จัดตั้ง:** 2009-06-05 · **จดทะเบียน:** 2009-08-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.718 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองน้ำมัน · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.01%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

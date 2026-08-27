@@ -25,7 +25,7 @@ holdings_count: 47
 top10_pct_nav: 110.31
 master_fund: "Nomura Japan Small Cap Equity I JPY Acc"
 master_isin: "IE00BJCW7C72"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBJPSM
@@ -43,6 +43,9 @@ _SCB Japan Small Cap Equity Fund_
 > - **จัดตั้ง:** 2018-05-03 · **จดทะเบียน:** 2018-07-03
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 13.5136 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

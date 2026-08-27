@@ -25,7 +25,7 @@ holdings_count: 78
 top10_pct_nav: 58.81
 peer_group: "Equity General"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-LOWBETA
@@ -43,6 +43,9 @@ _Eastspring Low Beta Fund_
 > - **จัดตั้ง:** 2012-01-13 · **จดทะเบียน:** 2012-03-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 20.1597 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 78 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.30%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

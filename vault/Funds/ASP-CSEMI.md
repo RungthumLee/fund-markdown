@@ -25,7 +25,7 @@ top10_pct_nav: 228.3
 master_fund: "Global X ETF Series OFC - Global X China Semiconductor ETF"
 master_isin: "HK0000637832"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, geo/china, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ASP-CSEMI
@@ -43,6 +43,9 @@ _Asset Plus China Semiconductor Equity Fund_
 > - **จัดตั้ง:** 2026-05-29 · **จดทะเบียน:** 2026-06-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.5795 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.64%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

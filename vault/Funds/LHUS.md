@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 19410711.31
 holdings_count: 13
 top10_pct_nav: 103.78
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/us, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # LHUS
@@ -40,6 +40,9 @@ _LH US EQUITY FUND_
 > - **จัดตั้ง:** 2024-02-08 · **จดทะเบียน:** 2024-02-28
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 10.1414 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ master_fund: "Vietnam Equity (UCITS) A USD"
 master_isin: "IE00BD5HPH84"
 peer_group: "Vietnam Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ศตนนท์ ทัน"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/feeder, style/active, geo/vietnam, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-VIETNAM
@@ -45,6 +45,9 @@ _Eastspring Vietnam Active Equity Fund_
 > - **จัดตั้ง:** 2021-12-17 · **จดทะเบียน:** 2022-01-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.6298 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · พอร์ตถือราว 5 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.79%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

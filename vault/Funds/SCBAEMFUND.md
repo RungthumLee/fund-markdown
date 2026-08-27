@@ -25,7 +25,7 @@ holdings_count: 76
 top10_pct_nav: 104.14
 master_fund: "BGF Asian Growth Leaders D2"
 master_isin: "LU0859042482"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBAEMFUND
@@ -43,6 +43,9 @@ _SCB ASIAN EMERGING MARKETS OPEN END FUND_
 > - **จัดตั้ง:** 2008-01-15 · **จดทะเบียน:** 2008-02-06
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 15.3125 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 1041173740.47
 holdings_count: 11
 top10_pct_nav: 102.2
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GFIA
@@ -42,6 +42,9 @@ _BCAP Global Fixed Income Allocation Fund_
 > - **จัดตั้ง:** 2019-11-26 · **จดทะเบียน:** 2020-02-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.445 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.69%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

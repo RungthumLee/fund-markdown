@@ -25,7 +25,7 @@ holdings_count: 25
 top10_pct_nav: 78.63
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย จตุพล ดาวภคนันท์", "นาง สาว อริยา เต็มรังสิธรรัตน์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/discretionary, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-ST
@@ -43,6 +43,9 @@ _AIA Short Term Fixed Income_
 > - **จัดตั้ง:** 2020-07-31 · **จดทะเบียน:** 2020-08-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7867 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

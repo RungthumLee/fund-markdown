@@ -24,7 +24,7 @@ fund_size: 172665870.8
 holdings_count: 13
 top10_pct_nav: 91.36
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ยุรนันท์ วิภูศิริ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-T12
@@ -42,6 +42,9 @@ _Asset Plus Thai Top 12 Fund_
 > - **จัดตั้ง:** 2021-04-12 · **จดทะเบียน:** 2021-05-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.3418 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

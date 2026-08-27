@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 102.21
 master_fund: "Schroder ISF All China Equity C Acc USD"
 master_isin: "LU1831875205"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBCHEQ
@@ -43,6 +43,9 @@ _SCB All China Equity Fund_
 > - **จัดตั้ง:** 2018-05-02 · **จดทะเบียน:** 2018-05-30
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 6.9461 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

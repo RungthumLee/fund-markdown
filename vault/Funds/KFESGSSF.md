@@ -27,7 +27,7 @@ master_fund: "AB Sustainable Glb Thematic S1 USD"
 master_isin: "LU0462791079"
 peer_group: "Global Equity Fully FX Risk Hedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/world, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KFESGSSF
@@ -45,6 +45,9 @@ _Krungsri Equity Sustainable Global Growth SSF_
 > - **จัดตั้ง:** 2022-08-31 · **จดทะเบียน:** 2022-09-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.7792 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.68%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

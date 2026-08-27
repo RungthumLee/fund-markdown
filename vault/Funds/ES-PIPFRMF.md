@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 68.06
 peer_group: "Fund of Property fund - Thai and Foreign"
 fund_managers: ["น.ส. ดาราวรรณ ประกายทิพย์", "น.ส. กมลวรรณ ชัยรักษ์วัฒนา"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-PIPFRMF
@@ -43,6 +43,9 @@ _Eastspring Property and Infrastructure Income Plus Flexible RMF_
 > - **จัดตั้ง:** 2014-06-04 · **จดทะเบียน:** 2014-07-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.1526 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

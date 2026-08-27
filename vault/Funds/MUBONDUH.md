@@ -26,7 +26,7 @@ top10_pct_nav: 101.67
 master_fund: "JPM US Aggregate Bond I acc USD"
 master_isin: "LU0248063595"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, style/dividend, tax/ssf, geo/us, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # MUBONDUH
@@ -44,6 +44,9 @@ _MFC US Aggregate Bond Unhedged Fund_
 > - **จัดตั้ง:** 2023-10-06 · **จดทะเบียน:** 2023-10-27
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.7235 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.94%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

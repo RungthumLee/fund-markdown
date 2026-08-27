@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 133945548.73
 holdings_count: 22
 top10_pct_nav: 116.86
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/fully-hedged, struct/direct, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # LHGBLOCK
@@ -40,6 +40,9 @@ _LH GLOBAL BLOCKCHAIN FUND_
 > - **จัดตั้ง:** 2024-05-16 · **จดทะเบียน:** 2024-06-21
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 14.0414 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 22 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.34%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

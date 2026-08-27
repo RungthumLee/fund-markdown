@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 103.94
 master_fund: "abrdn-European Sust Equity Z Acc EUR"
 master_isin: "LU0278923536"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/europe, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ABEG
@@ -43,6 +43,9 @@ _abrdn European Sustainable Equity Fund_
 > - **จัดตั้ง:** 2006-11-08 · **จดทะเบียน:** 2006-12-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.8707 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.05%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

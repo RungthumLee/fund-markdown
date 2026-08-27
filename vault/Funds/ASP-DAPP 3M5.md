@@ -25,7 +25,7 @@ top10_pct_nav: 100.64
 master_fund: "VanEck Digital Transformation ETF"
 master_isin: "US92189H8218"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ASP-DAPP 3M5
@@ -43,6 +43,9 @@ _Asset Plus Digital Transformation Fund 3M5_
 > - **จัดตั้ง:** 2025-10-01 · **จดทะเบียน:** 2025-10-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.0974 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 5.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 104.99
 master_fund: "BGF Continental Eurp Flex I2"
 master_isin: "LU0888974473"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, geo/europe, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # MEURO
@@ -44,6 +44,9 @@ _MFC Continental European Equity Fund_
 > - **จัดตั้ง:** 2021-02-04 · **จดทะเบียน:** 2021-03-25
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 13.6766 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

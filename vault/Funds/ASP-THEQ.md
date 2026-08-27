@@ -24,7 +24,7 @@ fund_size: 24510720.19
 holdings_count: 16
 top10_pct_nav: 83.89
 fund_managers: ["นาย ยุรนันท์ วิภูศิริ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-THEQ
@@ -42,6 +42,9 @@ _Asset Plus Thai Equity Fund_
 > - **จัดตั้ง:** 2014-02-06 · **จดทะเบียน:** 2014-05-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.691 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 16 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

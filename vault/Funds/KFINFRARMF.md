@@ -27,7 +27,7 @@ master_fund: "UBS Lux Infras Eq Fd I A1 acc"
 master_isin: "LU1692112649"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, theme/infrastructure, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFINFRARMF
@@ -45,6 +45,9 @@ _Krungsri Next Generation Infrastructure RMF_
 > - **จัดตั้ง:** 2021-10-01 · **จดทะเบียน:** 2021-10-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.3341 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.61%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

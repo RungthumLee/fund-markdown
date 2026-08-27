@@ -24,7 +24,7 @@ fund_size: 32273.39
 holdings_count: 17
 top10_pct_nav: 76.07
 fund_managers: ["นาย ยุรนันท์ วิภูศิริ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ASP-THDEQ
@@ -42,6 +42,9 @@ _Asset Plus Thai Dividend Equity Fund_
 > - **จัดตั้ง:** 2004-10-29 · **จดทะเบียน:** 2004-11-23
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.5372 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 17 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

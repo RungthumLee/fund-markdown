@@ -26,7 +26,7 @@ master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 peer_group: "Miscellaneous"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, compliance/trigger-fund, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, compliance/trigger-fund, use/accumulate]
 ---
 
 # TGOLD5M2
@@ -44,6 +44,9 @@ _TISCO Gold Trigger 5M Fund 2_
 > - **จัดตั้ง:** 2026-01-22 · **จดทะเบียน:** 2026-03-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.7945 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.44%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 98.61
 master_fund: "JPM US Growth I acc USD"
 master_isin: "LU0248059726"
 peer_group: "US Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/us, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # B-USALPHA
@@ -44,6 +44,9 @@ _Bualuang US Alpha Fund_
 > - **จัดตั้ง:** 2021-08-04 · **จดทะเบียน:** 2021-08-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.0706 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.53%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 42293582440.51
 holdings_count: 44
 top10_pct_nav: 66.01
 fund_managers: ["นาง สาวปริยนุช", "นาง สาวอรุณี", "นาง สาวศิรารัตน์", "นาย ปัญญพัฒน์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # B-TREASURY
@@ -42,6 +42,9 @@ _Bualuang Treasury Fund_
 > - **จัดตั้ง:** 2011-07-11 · **จดทะเบียน:** 2012-08-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.8676 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.29%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

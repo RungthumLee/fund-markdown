@@ -25,7 +25,7 @@ top10_pct_nav: 103.37
 master_fund: "VistaShares Artificial Intelligence Supercycle ETF"
 master_isin: "US45259A8457"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล  ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-SUPERAI
@@ -43,6 +43,9 @@ _DAOL ARTIFICIAL INTELLIGENCE SUPERCYCLE FUND_
 > - **จัดตั้ง:** 2026-05-26 · **จดทะเบียน:** 2026-06-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.3586 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

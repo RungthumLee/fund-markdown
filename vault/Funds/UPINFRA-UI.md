@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 100.29
 master_fund: "EQT Nexus Fund SICAV - ENIF I EUR-Z"
 master_isin: "LU2984100870"
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, theme/infrastructure, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # UPINFRA-UI
@@ -42,6 +42,9 @@ _United Private Infrastructure Fund Not for Retail Investors_
 > - **จัดตั้ง:** 2025-06-23 · **จดทะเบียน:** 2025-07-22
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.5105 (2026-06-30)**
+
+> [!tip] อ่านง่าย ๆ
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

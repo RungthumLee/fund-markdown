@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 71.23
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย ธีรภาพ จิรศักยกุล", "น.ส. รัมภารัจน์ ยุธานหัส"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFLTGOVRMF
@@ -43,6 +43,9 @@ _Krungsri Long Term Government Bond RMF_
 > - **จัดตั้ง:** 2002-06-24 · **จดทะเบียน:** 2002-10-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.6351 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.42%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.61
 master_fund: "JPM Global Macro Opps I acc EUR"
 master_isin: "LU0248010471"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-GMO
@@ -43,6 +43,9 @@ _KTAM Global Macro Opportunities Fund_
 > - **จัดตั้ง:** 2016-03-18 · **จดทะเบียน:** 2016-04-04
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 10.8227 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.33%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

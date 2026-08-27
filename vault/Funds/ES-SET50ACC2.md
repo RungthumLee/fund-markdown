@@ -25,7 +25,7 @@ holdings_count: 52
 top10_pct_nav: 60.34
 peer_group: "SET 50 Index Fund"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, use/accumulate]
 ---
 
 # ES-SET50ACC2
@@ -43,6 +43,9 @@ _Eastspring SET50 Accumulate Fund 2_
 > - **จัดตั้ง:** 2019-05-15 · **จดทะเบียน:** 2019-05-24
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.1733 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 52 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

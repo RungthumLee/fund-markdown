@@ -24,7 +24,7 @@ fund_size: 21611101.26
 holdings_count: 14
 top10_pct_nav: 103.01
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # I-Emerging 10S2
@@ -42,6 +42,9 @@ _MFC International Emerging 10 Fund Series 2_
 > - **จัดตั้ง:** 2011-01-27 · **จดทะเบียน:** 2011-03-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.5662 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.48%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

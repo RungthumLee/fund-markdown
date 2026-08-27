@@ -27,7 +27,7 @@ master_fund: "Invesco WilderHill Clean Energy ETF"
 master_isin: "US46137V1347"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TNEWENGY
@@ -45,6 +45,9 @@ _TISCO New Energy Fund_
 > - **จัดตั้ง:** 2021-03-03 · **จดทะเบียน:** 2021-03-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 2.8542 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.37%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

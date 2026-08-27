@@ -25,7 +25,7 @@ holdings_count: 18
 top10_pct_nav: 99.95
 master_fund: "GMO Quality Investment USD Acc"
 master_isin: "IE00B3SBSR82"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-GEQUITY
@@ -43,6 +43,9 @@ _DAOL GLOBAL EQUITY FUND_
 > - **จัดตั้ง:** 2019-12-09 · **จดทะเบียน:** 2019-12-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.4152 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.14%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

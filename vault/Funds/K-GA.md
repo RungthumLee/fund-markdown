@@ -26,7 +26,7 @@ top10_pct_nav: 105.77
 master_fund: "BlackRock Global Funds - Global Allocation Fund"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-GA
@@ -44,6 +44,9 @@ _K Global Allocation Fund_
 > - **จัดตั้ง:** 2002-04-30 · **จดทะเบียน:** 2002-05-21
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 14.6528 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

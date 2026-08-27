@@ -25,7 +25,7 @@ holdings_count: 25
 top10_pct_nav: 104.09
 master_fund: "Ashoka WhiteOak India Opps D USD Acc"
 master_isin: "IE00BH3N4915"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/india, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL INDIAEQ
@@ -43,6 +43,9 @@ _Principal India Equity Fund_
 > - **จัดตั้ง:** 2024-07-25 · **จดทะเบียน:** 2024-08-14
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 8.8592 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.02%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

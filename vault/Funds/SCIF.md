@@ -24,7 +24,7 @@ fund_size: 103106669.41
 holdings_count: 57
 top10_pct_nav: 74.94
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # SCIF
@@ -42,6 +42,9 @@ _Siam City Open-End-Fund_
 > - **จัดตั้ง:** 1993-10-26 · **จดทะเบียน:** 1993-11-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 3.0972 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 57 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 140337577.81
 holdings_count: 12
 top10_pct_nav: 100.01
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL PRMF
@@ -41,6 +41,9 @@ _Principal Protected Retirement Mutual Fund_
 > - **จัดตั้ง:** 2005-11-03 · **จดทะเบียน:** 2005-12-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.9599 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.17%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

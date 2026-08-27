@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 103.6
 master_fund: "Schroder ISF Glbl Sust Gr C Acc USD"
 master_isin: "LU0557290854"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL GESG
@@ -43,6 +43,9 @@ _Principal Global Equity ESG Fund_
 > - **จัดตั้ง:** 2022-05-06 · **จดทะเบียน:** 2022-05-20
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 14.3416 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.99%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ master_fund: "Schroder Asian Income SGD X Dis"
 master_isin: "SG9999009757"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-AINCOME
@@ -45,6 +45,9 @@ _Krungsri Asian Income Hedged Fund_
 > - **จัดตั้ง:** 2015-05-13 · **จดทะเบียน:** 2015-05-29
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.028 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

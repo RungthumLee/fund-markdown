@@ -24,7 +24,7 @@ fund_size: 261449889.9
 holdings_count: 12
 top10_pct_nav: 88.41
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # B-TOPTEN
@@ -42,6 +42,9 @@ _Bualuang Equity Top-Ten Fund_
 > - **จัดตั้ง:** 2019-02-20 · **จดทะเบียน:** 2019-03-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.7419 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 12 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

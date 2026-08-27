@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 980474380.23
 holdings_count: 29
 top10_pct_nav: 71.98
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KT-SAGA
@@ -41,6 +41,9 @@ _Krung Thai Strategic Active Global Allocation Fund_
 > - **จัดตั้ง:** 2019-02-04 · **จดทะเบียน:** 2019-03-20
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 11.3243 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

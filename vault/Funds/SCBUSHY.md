@@ -25,7 +25,7 @@ holdings_count: 24
 top10_pct_nav: 103.36
 master_fund: "AXAIMFIIS US Short Dur HY B Cap USD"
 master_isin: "LU0211118053"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # SCBUSHY
@@ -43,6 +43,9 @@ _SCB US Short Duration High Income Bond_
 > - **จัดตั้ง:** 2017-02-20 · **จดทะเบียน:** 2017-03-28
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.4525 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.93%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

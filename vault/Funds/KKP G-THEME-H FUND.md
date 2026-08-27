@@ -24,7 +24,7 @@ fund_size: 263987212.85
 holdings_count: 13
 top10_pct_nav: 102.07
 master_fund: "Lazard Global Thematic Focus A Acc USD"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP G-THEME-H FUND
@@ -42,6 +42,9 @@ _KKP GLOBAL THEMATIC OPPORTUNITIES FUND – HEDGED_
 > - **จัดตั้ง:** 2021-01-06 · **จดทะเบียน:** 2021-02-10
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 8.7165 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.15%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

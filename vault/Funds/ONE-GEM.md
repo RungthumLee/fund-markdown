@@ -24,7 +24,7 @@ fund_size: 9707870.02
 holdings_count: 19
 top10_pct_nav: 102.67
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, geo/emerging-markets, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # ONE-GEM
@@ -42,6 +42,9 @@ _ONE GLOBAL EMERGING MARKET EQUITY FUND_
 > - **จัดตั้ง:** 2005-11-14 · **จดทะเบียน:** 2005-12-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.1212 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · พอร์ตถือราว 19 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

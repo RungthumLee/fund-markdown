@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 545038197.91
 holdings_count: 21
 top10_pct_nav: 64.64
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # KKP EQ THAI ESG
@@ -41,6 +41,9 @@ _KKP EQUITY THAILAND ESG FUND_
 > - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.9245 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 21 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

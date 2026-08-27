@@ -25,7 +25,7 @@ holdings_count: 18
 top10_pct_nav: 76.03
 peer_group: "Equity General"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "น.ส. ศรสวรรค์เติมวุฒิกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # TDSThaiESG
@@ -43,6 +43,9 @@ _TISCO Dividend Select Equity Thailand ESG Fund_
 > - **จัดตั้ง:** 2024-11-05 · **จดทะเบียน:** 2024-11-21
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.8143 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 18 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.83%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

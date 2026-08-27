@@ -26,7 +26,7 @@ top10_pct_nav: 103.8
 master_fund: "Freedom 100 Emerging Markets ETF"
 master_isin: "US02072L6074"
 fund_managers: ["นาย กิตติพงษ์ กังวานเกียรติชัย", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # M-FREEDOM
@@ -44,6 +44,9 @@ _MFC Freedom Emerging Markets Fund_
 > - **จัดตั้ง:** 2026-02-25 · **จดทะเบียน:** 2026-03-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.2578 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

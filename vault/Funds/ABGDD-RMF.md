@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.39
 master_fund: "abrdn-Global Dynamic Div Z Grs MIncAUSD"
 master_isin: "LU2237444604"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ABGDD-RMF
@@ -43,6 +43,9 @@ _abrdn Global Dynamic Dividend Retirement Mutual Fund_
 > - **จัดตั้ง:** 2022-11-30 · **จดทะเบียน:** 2022-12-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.8374 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

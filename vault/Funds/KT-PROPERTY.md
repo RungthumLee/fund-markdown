@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 96.8
 master_fund: "Janus Henderson Horizon - Global Property Equities Fund"
 master_isin: "LU0209137388"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-PROPERTY
@@ -42,6 +42,9 @@ _KTAM World Property Fund_
 > - **จัดตั้ง:** 2011-09-02 · **จดทะเบียน:** 2011-09-23
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 11.72 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

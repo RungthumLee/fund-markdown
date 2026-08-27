@@ -24,7 +24,7 @@ fund_size: 693773490.36
 holdings_count: 13
 top10_pct_nav: 98.44
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # 1AM-TG
@@ -42,6 +42,9 @@ _1 A.M. THAI GOVERNMENT BOND FUND_
 > - **จัดตั้ง:** 2008-10-31 · **จดทะเบียน:** 2008-11-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.779 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.44%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

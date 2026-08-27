@@ -24,7 +24,7 @@ fund_size: 15004844.83
 holdings_count: 13
 top10_pct_nav: 89.1
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ยุรนันท์ วิภูศิริ"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated, struct/direct, compliance/trigger-fund, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated, struct/direct, compliance/trigger-fund, use/accumulate]
 ---
 
 # ASP-THAITRIG 5M1
@@ -42,6 +42,9 @@ _Asset Plus Thai Trigger Fund 5M1_
 > - **จัดตั้ง:** 2023-04-10 · **จดทะเบียน:** 2023-05-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.3414 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

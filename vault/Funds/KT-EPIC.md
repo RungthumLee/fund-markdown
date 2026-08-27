@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 102.06
 master_fund: "E.P.I.C Global Equity Opps Instl I (USD)"
 master_isin: "IE000XAUGXW1"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-EPIC
@@ -43,6 +43,9 @@ _KTAM E.P.I.C. Global Equity Opportunities Fund_
 > - **จัดตั้ง:** 2022-02-23 · **จดทะเบียน:** 2022-03-14
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 12.1148 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.36%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

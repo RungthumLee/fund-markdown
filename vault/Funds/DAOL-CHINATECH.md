@@ -26,7 +26,7 @@ top10_pct_nav: 99.84
 master_fund: "HSBC Hang Seng Tech UCITS ETF"
 master_isin: "IE00BMWXKN31"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, geo/china, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-CHINATECH
@@ -44,6 +44,9 @@ _DAOL CHINA TECH FUND_
 > - **จัดตั้ง:** 2025-04-11 · **จดทะเบียน:** 2025-05-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.223 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

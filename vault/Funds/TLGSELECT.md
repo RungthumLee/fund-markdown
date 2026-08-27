@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 225747131.71
 holdings_count: 29
 top10_pct_nav: 59.79
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # TLGSELECT
@@ -41,6 +41,9 @@ _TALIS GLOBAL SELECT FUND_
 > - **จัดตั้ง:** 2025-04-23 · **จดทะเบียน:** 2025-05-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.5615 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.08%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

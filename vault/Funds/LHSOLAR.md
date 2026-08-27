@@ -23,7 +23,7 @@ fund_size: 459231722.15
 holdings_count: 20
 top10_pct_nav: 102.16
 master_fund: "Invesco Solar ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # LHSOLAR
@@ -41,6 +41,9 @@ _LH SOLAR ENERGY FUND_
 > - **จัดตั้ง:** 2026-05-11 · **จดทะเบียน:** 2026-05-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.8824 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

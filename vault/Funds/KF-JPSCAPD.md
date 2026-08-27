@@ -27,7 +27,7 @@ master_fund: "MUFG Japan Equity Small Cap I JPY Acc"
 master_isin: "LU1163552489"
 peer_group: "Japan Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/japan, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KF-JPSCAPD
@@ -45,6 +45,9 @@ _Krungsri Japan Small Cap Equity Dividend Fund_
 > - **จัดตั้ง:** 2017-04-28 · **จดทะเบียน:** 2017-05-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.5298 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

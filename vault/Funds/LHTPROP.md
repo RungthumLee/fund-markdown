@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1183041848.7
 holdings_count: 18
 top10_pct_nav: 87.1
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHTPROP
@@ -41,6 +41,9 @@ _LH THAI PROPERTY FUND_
 > - **จัดตั้ง:** 2013-07-29 · **จดทะเบียน:** 2013-09-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.845 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

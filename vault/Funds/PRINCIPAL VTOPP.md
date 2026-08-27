@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 316047803.5
 holdings_count: 38
 top10_pct_nav: 51.43
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL VTOPP
@@ -41,6 +41,9 @@ _Principal Vietnam Thai Opportunity Fund_
 > - **จัดตั้ง:** 2021-10-29 · **จดทะเบียน:** 2021-11-19
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 9.0221 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 38 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.47%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

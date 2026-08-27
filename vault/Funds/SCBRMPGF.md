@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 102.56
 master_fund: "DWS Invest CROCI Sectors Plus FCH (P)"
 master_isin: "LU1701862812"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMPGF
@@ -43,6 +43,9 @@ _SCB Platinum Global RMF_
 > - **จัดตั้ง:** 2022-05-12 · **จดทะเบียน:** 2022-05-24
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.6855 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

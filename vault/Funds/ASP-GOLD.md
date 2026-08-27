@@ -26,7 +26,7 @@ top10_pct_nav: 101.02
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # ASP-GOLD
@@ -44,6 +44,9 @@ _Asset Plus Gold Fund_
 > - **จัดตั้ง:** 2009-06-05 · **จดทะเบียน:** 2009-07-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 30.534 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.31%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

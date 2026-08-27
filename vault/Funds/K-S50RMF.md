@@ -25,7 +25,7 @@ holdings_count: 52
 top10_pct_nav: 59.7
 peer_group: "SET 50 Index Fund"
 fund_managers: ["น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # K-S50RMF
@@ -43,6 +43,9 @@ _K SET50 RMF_
 > - **จัดตั้ง:** 2013-11-13 · **จดทะเบียน:** 2013-11-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.0562 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 52 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.74%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

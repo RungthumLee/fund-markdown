@@ -24,7 +24,7 @@ fund_size: 270840511.62
 holdings_count: 23
 top10_pct_nav: 64.45
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-ERF
@@ -42,6 +42,9 @@ _Asset Plus Equity RMF_
 > - **จัดตั้ง:** 2004-11-24 · **จดทะเบียน:** 2004-12-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 37.2734 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 23 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 99.41
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, use/accumulate]
 ---
 
 # TSIThaiESG
@@ -43,6 +43,9 @@ _TISCO Sovereign Instruments Thailand ESG Fund_
 > - **จัดตั้ง:** 2024-08-27 · **จดทะเบียน:** 2024-10-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.4997 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.50%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

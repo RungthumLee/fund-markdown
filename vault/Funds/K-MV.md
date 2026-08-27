@@ -25,7 +25,7 @@ holdings_count: 30
 top10_pct_nav: 62.95
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พักตร์พริ้ง พู่ไพจิตรกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, use/accumulate]
 ---
 
 # K-MV
@@ -43,6 +43,9 @@ _K Minimum Volatility Quantitative Fund_
 > - **จัดตั้ง:** 2016-09-29 · **จดทะเบียน:** 2016-11-23
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 12.1188 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 30 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

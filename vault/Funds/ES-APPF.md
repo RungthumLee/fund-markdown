@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.22
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, style/dividend, geo/asia-pacific, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-APPF
@@ -43,6 +43,9 @@ _Eastspring Asia Pacific Property Flexible Fund_
 > - **จัดตั้ง:** 2018-07-23 · **จดทะเบียน:** 2019-01-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.9386 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (7/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.46%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

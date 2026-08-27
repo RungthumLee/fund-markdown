@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 100.98
 master_fund: "BNP Paribas Aqua I"
 master_isin: "LU2005507657"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-AQUA
@@ -43,6 +43,9 @@ _DAOL GLOBAL WATER FUND_
 > - **จัดตั้ง:** 2021-11-10 · **จดทะเบียน:** 2021-11-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.3736 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

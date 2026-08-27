@@ -25,7 +25,7 @@ holdings_count: 47
 top10_pct_nav: 54.65
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # FP LARGE
@@ -43,6 +43,9 @@ _First Plus Large Cap Equity Fund_
 > - **จัดตั้ง:** 2007-06-07 · **จดทะเบียน:** 2007-06-21
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 36.7696 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 47 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.47%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

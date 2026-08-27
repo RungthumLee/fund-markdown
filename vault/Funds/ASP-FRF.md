@@ -24,7 +24,7 @@ fund_size: 1172205087.91
 holdings_count: 71
 top10_pct_nav: 33.08
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "น.ส. มณีวรรณ อรุณธีรวุฒิ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-FRF
@@ -42,6 +42,9 @@ _Asset Plus Fixed RMF_
 > - **จัดตั้ง:** 2004-11-04 · **จดทะเบียน:** 2004-12-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.7747 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.37%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

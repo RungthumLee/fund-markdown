@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 152817200.9
 holdings_count: 49
 top10_pct_nav: 57.95
-tags: [fund, sec-data, asset/mixed, liquidity/t4, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, liquidity/t4, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHSMART
@@ -41,6 +41,9 @@ _LH Smart Income Fund_
 > - **จัดตั้ง:** 2016-04-19 · **จดทะเบียน:** 2016-05-11
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 8.5359 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.95%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

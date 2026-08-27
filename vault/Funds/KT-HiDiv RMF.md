@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1411166007.99
 holdings_count: 59
 top10_pct_nav: 60.46
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-HiDiv RMF
@@ -41,6 +41,9 @@ _Krung Thai High Dividend Equity RMF_
 > - **จัดตั้ง:** 2013-11-05 · **จดทะเบียน:** 2013-11-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 20.3672 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 59 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.13%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

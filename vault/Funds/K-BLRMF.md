@@ -25,7 +25,7 @@ holdings_count: 88
 top10_pct_nav: 39.03
 peer_group: "Conservative Allocation"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "นาย ธิติวุฒิ ตั้งพิกุลทอง"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-BLRMF
@@ -43,6 +43,9 @@ _K Balanced RMF_
 > - **จัดตั้ง:** 2001-11-30 · **จดทะเบียน:** 2001-12-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 29.9654 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 103.45
 master_fund: "PGIM Global Sel RE Scrts USD I Acc"
 master_isin: "IE00BYM2RB15"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # MGPROP
@@ -44,6 +44,9 @@ _MFC Global Property Equity Fund_
 > - **จัดตั้ง:** 2024-03-04 · **จดทะเบียน:** 2024-03-18
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.5155 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

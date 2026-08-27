@@ -26,7 +26,7 @@ top10_pct_nav: 110.97
 master_fund: "T. Rowe Price China Evolution Equity I"
 master_isin: "LU2187417469"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # MCHEVO
@@ -44,6 +44,9 @@ _MFC China Evolution Fund_
 > - **จัดตั้ง:** 2021-05-25 · **จดทะเบียน:** 2021-08-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.3733 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

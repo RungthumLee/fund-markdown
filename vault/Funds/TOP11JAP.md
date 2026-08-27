@@ -21,7 +21,7 @@ nav: 9.9859
 nav_date: "2026-08-26"
 fund_size: 19352020.26
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/unhedged, struct/direct, geo/japan, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, fx/unhedged, struct/direct, use/accumulate]
 ---
 
 # TOP11JAP
@@ -39,6 +39,9 @@ _TOP 11 JAPAN FUND_
 > - **จัดตั้ง:** 2026-07-06 · **จดทะเบียน:** 2026-08-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.9859 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

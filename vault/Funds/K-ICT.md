@@ -25,7 +25,7 @@ holdings_count: 24
 top10_pct_nav: 92.97
 peer_group: "Equity General"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/passive, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/passive, use/accumulate]
 ---
 
 # K-ICT
@@ -43,6 +43,9 @@ _K ICT Sector Index Fund_
 > - **จัดตั้ง:** 2015-04-24 · **จดทะเบียน:** 2015-05-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.4436 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 24 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 42376945.79
 holdings_count: 31
 top10_pct_nav: 54.98
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBLOWBETA
@@ -41,6 +41,9 @@ _SCB Thai Low Beta Equity_
 > - **จัดตั้ง:** 2024-02-22 · **จดทะเบียน:** 2024-03-12
 > - **ชนิดหน่วยลงทุน:** 9 class
 > - **NAV 12.5678 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 31 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.88%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

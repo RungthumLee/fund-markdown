@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.35
 master_fund: "Robeco Global Stars Equities IL USD"
 master_isin: "LU2080584019"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # UGSTAR-M
@@ -43,6 +43,9 @@ _United Global Stars Equity Fund_
 > - **จัดตั้ง:** 2020-06-12 · **จดทะเบียน:** 2020-08-25
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 18.9111 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 5192555978.59
 holdings_count: 24
 top10_pct_nav: 82.85
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
 # SCBTMF
@@ -41,6 +41,9 @@ _SCB TREASURY MONEY OPEN END FUND_
 > - **จัดตั้ง:** 2009-07-09 · **จดทะเบียน:** 2009-07-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.1187 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.30%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

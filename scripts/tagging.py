@@ -47,38 +47,11 @@ _STYLE = {
     "LM": "leveraged", "LN": "leveraged", "BH": "buy-hold",
 }
 
-# keyword -> geo tag. Order matters: first hit wins for the primary region.
-_GEO = [
-    (r"เวียดนาม|vietnam", "geo/vietnam"),
-    (r"อินเดีย|india", "geo/india"),
-    (r"ญี่ปุ่น|japan", "geo/japan"),
-    (r"เกาหลี|korea", "geo/korea"),
-    (r"ไต้หวัน|taiwan", "geo/taiwan"),
-    (r"จีน|china|a-?shares?|h-?shares?", "geo/china"),
-    (r"เอเชีย|asia", "geo/asia-pacific"),
-    (r"ยุโรป|europe|stoxx|เยอรมัน|german", "geo/europe"),
-    (r"สหรัฐ|อเมริกา|\bus\b|u\.s\.|s&p ?500|nasdaq|russell", "geo/us"),
-    (r"เกิดใหม่|emerging", "geo/emerging-markets"),
-    (r"โกลบอล|global|world|ทั่วโลก", "geo/world"),
-]
-
-# keyword -> theme tag (best-effort; an LLM pass refines these later)
-_THEME = [
-    (r"เซมิคอนดักเตอร์|semiconductor|ชิป|\bchip", "theme/technology/semiconductor"),
-    (r"\bai\b|เอไอ|artificial intel|robot|หุ่นยนต์", "theme/technology/ai-robotics"),
-    (r"เทคโนโลยี|technology|\btech\b|internet|ดิจิทัล|digital|cloud|software",
-     "theme/technology"),
-    (r"สุขภาพ|health|biotech|pharma|เภสัช|medical|genomic", "theme/healthcare"),
-    (r"พลังงานสะอาด|clean energy|renewable|ev[- ]?battery|electric vehicle|"
-     r"รถไฟฟ้า|แบตเตอรี่|battery|solar|ยั่งยืน|\besg\b|sustainab",
-     "theme/sustainability"),
-    (r"พลังงาน|energy|น้ำมัน|oil|ปิโตร|petro", "theme/energy"),
-    (r"อสังหา|property|reit|real ?estate", "theme/real-estate"),
-    (r"ผู้บริโภค|consumer|อุปโภค", "theme/consumer"),
-    (r"การเงิน|financ|ธนาคาร|bank", "theme/financials"),
-    (r"ทองคำ|\bgold\b", "theme/metals-mining/gold"),
-    (r"โครงสร้างพื้นฐาน|infrastructure", "theme/infrastructure"),
-]
+# NOTE: theme/* and geo/* facets were removed on purpose. They were the only
+# keyword-guessed tags (read from the fund name) and were not reliable enough -
+# "China AI" is better answered by the AIMC peer_group ("Greater China Equity",
+# "Technology Equity"), which is real factsheet data, not a guess. Clustering
+# lives in the by-peer-group index instead. Everything below is deterministic.
 
 _HEDGE_DISCRETION = re.compile(r"ดุลยพินิจ|ตามความเหมาะสม|discretion", re.I)
 _HEDGE_WORD = re.compile(r"ป้องกันความเสี่ยง.*อัตราแลกเปลี่ยน|hedg", re.I)
@@ -205,8 +178,6 @@ def _use_tags(f: dict, tags: set[str]) -> list[str]:
         out.append("use/tax-saving")
     if "style/dividend" in tags:
         out.append("use/income")
-    if any(t.startswith("theme/") for t in tags) and "use/park-cash" not in out:
-        out.append("use/thematic")
     if not out:
         out.append("use/accumulate")
     return out
@@ -247,20 +218,6 @@ def investor_tags(f: dict) -> list[str]:
     if re.search(r"ทริกเกอร์|trigger", name):
         tags.append("compliance/trigger-fund")
 
-    # geography: domestic split first, then the first keyword region (name only)
-    if f.get("invest_country_flag") == "3":
-        tags.append("geo/thailand")
-    for pat, tag in _GEO:
-        if re.search(pat, name, re.I):
-            tags.append(tag)
-            break
-
-    # theme (best-effort keyword on the name; refined by a later LLM pass)
-    for pat, tag in _THEME:
-        if re.search(pat, name, re.I):
-            tags.append(tag)
-            break
-
     tags += _use_tags(f, set(tags))
 
     # de-duplicate, keep first-seen order
@@ -271,3 +228,87 @@ def investor_tags(f: dict) -> list[str]:
             seen.add(t)
             out.append(t)
     return out
+
+
+# ---- plain-language summary ---------------------------------------------
+# The point of the tag layer: turn the facets back into a sentence an ordinary
+# reader understands, instead of "policy=ตราสารหนี้, risk 1, settlement T+1".
+
+_ASSET_PHRASE = {
+    "asset/fixed-income/money-market": "กองตลาดเงิน",
+    "asset/fixed-income/short-term": "กองตราสารหนี้ระยะสั้น",
+    "asset/fixed-income": "กองตราสารหนี้",
+    "asset/equity": "กองหุ้น",
+    "asset/mixed": "กองผสม",
+    "asset/commodity/gold": "กองทองคำ",
+    "asset/commodity/oil": "กองน้ำมัน",
+    "asset/real-estate": "กองอสังหา/REIT",
+    "asset/alternative": "กองสินทรัพย์ทางเลือก",
+    "asset/other": "กองประเภทอื่น",
+}
+_RISK_PHRASE = {"very-low": "ความเสี่ยงต่ำมาก", "low": "ความเสี่ยงต่ำ",
+                "moderate": "ความเสี่ยงปานกลาง", "high": "ความเสี่ยงสูง",
+                "very-high": "ความเสี่ยงสูงมาก"}
+_USE_PHRASE = {"park-cash": "พักเงินระยะสั้น", "income": "รับกระแสเงินปันผล",
+               "tax-saving": "ลดหย่อนภาษี", "accumulate": "สะสมระยะยาว"}
+_FX_PHRASE = {"fx/fully-hedged": "ป้องกันความเสี่ยงค่าเงินเต็มจำนวน",
+              "fx/partially-hedged": "ป้องกันค่าเงินบางส่วน",
+              "fx/discretionary": "ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ",
+              "fx/unhedged": "ไม่ป้องกันความเสี่ยงค่าเงิน"}
+
+
+def plain_summary(f: dict, ter: float | None = None) -> str:
+    """One-paragraph, investor-language description built from the fund's own
+    facts. Deterministic - no claim the data does not support, no prediction."""
+    tags = investor_tags(f)
+    tset = set(tags)
+
+    # asset: the most specific asset/* tag wins
+    asset = next((_ASSET_PHRASE[t] for t in sorted(tags, key=len, reverse=True)
+                  if t in _ASSET_PHRASE), "กองทุนรวม")
+    parts = [asset]
+
+    risk = next((_RISK_PHRASE[t.split("/")[1]] for t in tags
+                 if t.startswith("risk/")), None)
+    rn = f.get("risk_spectrum")
+    if risk:
+        parts.append(f"{risk} ({rn}/8)" if rn else risk)
+
+    uses = [_USE_PHRASE[t.split("/")[1]] for t in tags
+            if t.startswith("use/") and t.split("/")[1] in _USE_PHRASE]
+    if uses:
+        parts.append("เหมาะกับ" + " / ".join(uses))
+
+    # settlement (reliable, from dealing periods)
+    liq = next((t for t in tags if t.startswith("liquidity/")), None)
+    if liq:
+        parts.append(f"ขายคืนแล้วได้เงินภายใน {liq.split('/')[1].upper().replace('T','T+')}")
+
+    # domestic vs foreign from the flag, plus hedging when foreign
+    flag = f.get("invest_country_flag")
+    if flag == "3":
+        parts.append("ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน")
+    elif flag in ("1", "2", "4"):
+        fx = next((_FX_PHRASE[t] for t in tags if t in _FX_PHRASE), None)
+        parts.append("ลงทุนต่างประเทศ" + (f" · {fx}" if fx else ""))
+
+    if "struct/feeder" in tset:
+        parts.append("ลงทุนผ่านกองทุนหลัก (feeder)")
+    if "style/passive" in tset:
+        parts.append("บริหารแบบอิงดัชนี (passive)")
+    elif "style/active" in tset:
+        parts.append("บริหารเชิงรุก (active)")
+
+    if any(t.startswith("conc/") for t in tags) and "asset/equity" in tset:
+        n = (f.get("portfolio") or {}).get("total_rows")
+        if n:
+            parts.append(f"พอร์ตถือราว {n} หลักทรัพย์")
+
+    if ter is not None:
+        parts.append(f"ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว {ter:.2f}%/ปี")
+
+    tax = [t.split("/")[1].upper() for t in tags if t.startswith("tax/")]
+    if tax:
+        parts.append("ได้สิทธิลดหย่อนภาษี (" + "/".join(tax) + ")")
+
+    return " · ".join(parts)

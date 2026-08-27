@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 127.41
 master_fund: "Global X Robotics & Artificial Intelligence ETF"
 master_isin: "US37954Y7159"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # UBOT
@@ -43,6 +43,9 @@ _United Robotics & Artificial Intelligence ETF_
 > - **จัดตั้ง:** 2022-04-28 · **จดทะเบียน:** 2022-07-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.7301 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.68%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

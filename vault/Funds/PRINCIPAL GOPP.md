@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 104.51
 master_fund: "MS INVF Global Opportunity Z"
 master_isin: "LU0552385535"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL GOPP
@@ -43,6 +43,9 @@ _Principal Global Opportunity Fund_
 > - **จัดตั้ง:** 2017-04-18 · **จดทะเบียน:** 2017-05-23
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 21.5271 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.19%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

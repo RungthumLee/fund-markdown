@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 102758806.8
 holdings_count: 18
 top10_pct_nav: 99.12
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHGLIFEE
@@ -41,6 +41,9 @@ _LH Global Lifestyle Equity Fund_
 > - **จัดตั้ง:** 2017-08-11 · **จดทะเบียน:** 2017-08-30
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 11.6323 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 18 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.89%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 48
 top10_pct_nav: 50.28
 peer_group: "Equity General"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # FP THEQ
@@ -43,6 +43,9 @@ _First Plus Thai Equity Fund_
 > - **จัดตั้ง:** 2007-06-07 · **จดทะเบียน:** 2007-06-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 34.844 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 48 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.83%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 101.98
 master_fund: "Eleva UCITS Fund - Eleva European Selection Fund"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ONE-EUROEQ
@@ -43,6 +43,9 @@ _ONE EUROPEAN EQUITY FUND_
 > - **จัดตั้ง:** 2018-03-15 · **จดทะเบียน:** 2018-03-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 20.769 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

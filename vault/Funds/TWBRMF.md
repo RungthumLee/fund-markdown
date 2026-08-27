@@ -24,7 +24,7 @@ holdings_count: 26
 top10_pct_nav: 67.63
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ศรสวรรค์เติมวุฒิกุล", "นาย นิพจน์ไกรลาศโอฬาร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TWBRMF
@@ -42,6 +42,9 @@ _TISCO Thai Well-being Equity RMF_
 > - **จัดตั้ง:** 2023-08-31 · **จดทะเบียน:** 2023-09-20
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 8.37 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 26 หลักทรัพย์ · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

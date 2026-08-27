@@ -24,7 +24,7 @@ fund_size: 9841198.17
 holdings_count: 35
 top10_pct_nav: 60.86
 fund_managers: ["นาย ธนกร ทองมาก", "นาย วงศกร เหมพันธ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, struct/direct, style/active, compliance/trigger-fund, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, struct/direct, style/active, compliance/trigger-fund, use/accumulate]
 ---
 
 # DAOL-THAITRIG6M
@@ -42,6 +42,9 @@ _DAOL THAI TRIGGER 6M FUND_
 > - **จัดตั้ง:** 2022-05-10 · **จดทะเบียน:** 2022-05-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.8686 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.05%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 116
 top10_pct_nav: 42.69
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตร อัศวมงคลกุล"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-FIXED
@@ -43,6 +43,9 @@ _K Fixed Income Fund_
 > - **จัดตั้ง:** 1995-03-17 · **จดทะเบียน:** 1995-05-02
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.0807 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

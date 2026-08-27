@@ -25,7 +25,7 @@ holdings_count: 53
 top10_pct_nav: 102.93
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBRMS&P500
@@ -43,6 +43,9 @@ _SCB US EQUITY RMF_
 > - **จัดตั้ง:** 2019-08-15 · **จดทะเบียน:** 2019-09-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 22.9211 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.85%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

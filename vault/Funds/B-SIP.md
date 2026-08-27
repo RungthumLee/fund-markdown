@@ -24,7 +24,7 @@ fund_size: 2123148475.04
 holdings_count: 31
 top10_pct_nav: 96.95
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # B-SIP
@@ -42,6 +42,9 @@ _Bualuang Sustainable Investing Portfolio_
 > - **จัดตั้ง:** 2021-02-15 · **จดทะเบียน:** 2021-03-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.1191 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 31 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.45%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

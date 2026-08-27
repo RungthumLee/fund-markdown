@@ -25,7 +25,7 @@ holdings_count: 90
 top10_pct_nav: 105.29
 master_fund: "Lazard Emerging Markets Eq S Acc USD"
 master_isin: "IE00B94NQ323"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/emerging-markets, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBEMEQFUND
@@ -43,6 +43,9 @@ _SCB Sustainable Emerging Markets Equity Fund_
 > - **จัดตั้ง:** 2012-11-09 · **จดทะเบียน:** 2012-12-18
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 8.403 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

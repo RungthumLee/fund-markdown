@@ -24,7 +24,7 @@ fund_size: 39541885.49
 holdings_count: 54
 top10_pct_nav: 58.17
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # MCORE
@@ -42,6 +42,9 @@ _MFC Core Equity Fund_
 > - **จัดตั้ง:** 2005-06-28 · **จดทะเบียน:** 2005-07-27
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 36.0631 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 54 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.82%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

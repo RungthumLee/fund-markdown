@@ -24,7 +24,7 @@ fund_size: 270278456.47
 holdings_count: 70
 top10_pct_nav: 39.81
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # FLEXAR
@@ -42,6 +42,9 @@ _1 A.M. Flexible Automatic Redemption Fund_
 > - **จัดตั้ง:** 2003-05-14 · **จดทะเบียน:** 2003-06-03
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 32.6933 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

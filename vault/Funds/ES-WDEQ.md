@@ -27,7 +27,7 @@ master_fund: "Amundi MSCI World Swap II UCITS ETF Dist"
 master_isin: "FR0010315770"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-WDEQ
@@ -45,6 +45,9 @@ _Eastspring World Equity Index Fund_
 > - **จัดตั้ง:** 2007-07-27 · **จดทะเบียน:** 2007-08-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 33.6951 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.13%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

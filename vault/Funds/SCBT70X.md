@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 331732558.59
 holdings_count: 68
 top10_pct_nav: 64.0
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, theme/sustainability, use/income, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # SCBT70X
@@ -41,6 +41,9 @@ _SCB Mixed 70 Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 12.2175 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.69%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

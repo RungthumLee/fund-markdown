@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 107.4
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/passive, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TISCONA
@@ -43,6 +43,9 @@ _TISCO North Asia Equity Fund_
 > - **จัดตั้ง:** 2014-01-07 · **จดทะเบียน:** 2014-03-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 21.615 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 11 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

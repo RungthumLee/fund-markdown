@@ -25,7 +25,7 @@ holdings_count: 59
 top10_pct_nav: 59.34
 peer_group: "SET 50 Index Fund"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, use/accumulate]
 ---
 
 # KF-SET50
@@ -43,6 +43,9 @@ _Krungsri SET50 Fund_
 > - **จัดตั้ง:** 2004-10-15 · **จดทะเบียน:** 2004-11-17
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 43.4502 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 59 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

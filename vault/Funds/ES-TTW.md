@@ -25,7 +25,7 @@ holdings_count: 90
 top10_pct_nav: 54.64
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-TTW
@@ -43,6 +43,9 @@ _Eastspring Tuntawee Fund_
 > - **จัดตั้ง:** 2003-07-09 · **จดทะเบียน:** 2003-07-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.8017 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.01%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

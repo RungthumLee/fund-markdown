@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 102.51
 master_fund: "JPM Asia Growth I acc USD"
 master_isin: "LU0943624824"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/asia-pacific, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KT-ASIAG
@@ -43,6 +43,9 @@ _KTAM Asia Growth Equity Fund_
 > - **จัดตั้ง:** 2021-02-15 · **จดทะเบียน:** 2021-02-25
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 9.362 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.53%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 95.25
 master_fund: "Wellington Asia Tech USD S Acc"
 master_isin: "LU1751457539"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/asia-pacific, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-ASIATECH
@@ -44,6 +44,9 @@ _Bualuang Asia Technology Fund_
 > - **จัดตั้ง:** 2024-02-20 · **จดทะเบียน:** 2024-03-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.5239 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.20%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

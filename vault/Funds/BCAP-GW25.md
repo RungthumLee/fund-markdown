@@ -24,7 +24,7 @@ fund_size: 1185536570.19
 holdings_count: 21
 top10_pct_nav: 102.53
 peer_group: "Conservative Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GW25
@@ -42,6 +42,9 @@ _BCAP Global Wealth 25 Fund_
 > - **จัดตั้ง:** 2019-02-27 · **จดทะเบียน:** 2019-05-28
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.3712 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.12%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

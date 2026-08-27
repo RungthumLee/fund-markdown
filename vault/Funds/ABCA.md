@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 102.27
 master_fund: "abrdn-China A Share Sust Eq Z Acc USD"
 master_isin: "LU1130125955"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/china, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABCA
@@ -43,6 +43,9 @@ _abrdn China A Share Sustainable Equity Fund_
 > - **จัดตั้ง:** 2021-08-30 · **จดทะเบียน:** 2023-06-20
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.2524 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.07%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

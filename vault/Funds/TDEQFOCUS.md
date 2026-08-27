@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 66.28
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. มัลลิกานิยมในธรรม", "นาย ณพัฒน์ศรีวรพงษ์พันธ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # TDEQFOCUS
@@ -43,6 +43,9 @@ _TISCO Thai Equity Focus Dividend Fund_
 > - **จัดตั้ง:** 2007-05-16 · **จดทะเบียน:** 2007-06-13
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 20.1659 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 32 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.83%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

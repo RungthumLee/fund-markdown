@@ -24,7 +24,7 @@ fund_size: 890905035.19
 holdings_count: 27
 top10_pct_nav: 75.04
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ONE-PROP
@@ -42,6 +42,9 @@ _ONE PROPERTY PLUS FUND_
 > - **จัดตั้ง:** 2009-11-05 · **จดทะเบียน:** 2009-11-18
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 27.3583 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

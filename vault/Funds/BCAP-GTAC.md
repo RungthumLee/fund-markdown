@@ -24,7 +24,7 @@ fund_size: 5964833118.38
 holdings_count: 46
 top10_pct_nav: 75.4
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GTAC
@@ -42,6 +42,9 @@ _BCAP Global Tactical Fund_
 > - **จัดตั้ง:** 2020-04-28 · **จดทะเบียน:** 2020-06-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.8146 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.66%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 71
 top10_pct_nav: 104.67
 master_fund: "BNP Clean Energy SolutionsI C"
 master_isin: "LU0823414809"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBCLEAN
@@ -43,6 +43,9 @@ _SCB Global Clean Energy_
 > - **จัดตั้ง:** 2021-02-15 · **จดทะเบียน:** 2021-03-09
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 5.0598 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

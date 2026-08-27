@@ -27,7 +27,7 @@ master_fund: "Janus Henderson Glb Rl EstEqInc I1qUSD"
 master_isin: "IE0033534888"
 peer_group: "Fund of Property fund - Foreign"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFGPROP
@@ -45,6 +45,9 @@ _Krungsri Global Property Fund_
 > - **จัดตั้ง:** 2016-03-14 · **จดทะเบียน:** 2016-03-31
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.9701 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

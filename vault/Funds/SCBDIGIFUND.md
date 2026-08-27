@@ -25,7 +25,7 @@ holdings_count: 99
 top10_pct_nav: 106.42
 master_fund: "BNP Paribas Disrpt Tech I USD C"
 master_isin: "LU2005507905"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBDIGIFUND
@@ -43,6 +43,9 @@ _SCB GLOBAL DIGITAL FUND_
 > - **จัดตั้ง:** 2016-06-01 · **จดทะเบียน:** 2016-06-28
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 26.8758 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

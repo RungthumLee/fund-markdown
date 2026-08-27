@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 29107125.52
 holdings_count: 5
 top10_pct_nav: 101.67
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, theme/metals-mining/gold, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # TLGOLDPLUS
@@ -40,6 +40,9 @@ _TALIS GOLD PLUS FUND_
 > - **จัดตั้ง:** 2026-03-12 · **จดทะเบียน:** 2026-03-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.9109 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

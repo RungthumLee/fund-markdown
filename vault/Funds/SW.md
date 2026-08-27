@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 22261389.91
 holdings_count: 37
 top10_pct_nav: 64.81
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SW
@@ -41,6 +41,9 @@ _Sawakami Mixed Fund_
 > - **จัดตั้ง:** 2023-05-15 · **จดทะเบียน:** 2023-07-19
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.1499 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.20%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

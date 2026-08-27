@@ -27,7 +27,7 @@ master_fund: "JPMorgan Funds - Global Healthcare Fund C (acc) USD"
 master_isin: "LU0432979887"
 peer_group: "Health Care"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFHEALTH
@@ -45,6 +45,9 @@ _Krungsri Global Healthcare Equity Fund_
 > - **จัดตั้ง:** 2014-07-04 · **จดทะเบียน:** 2014-08-01
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.2413 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.53%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 148910342.52
 holdings_count: 8
 top10_pct_nav: 103.11
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-IHEALTH
@@ -42,6 +42,9 @@ _Asset Plus Innovative Healthcare Fund_
 > - **จัดตั้ง:** 2019-02-27 · **จดทะเบียน:** 2019-03-29
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 18.1283 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 8 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.83%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

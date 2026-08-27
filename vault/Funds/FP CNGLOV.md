@@ -24,7 +24,7 @@ holdings_count: 28
 top10_pct_nav: 258.1
 peer_group: "Greater China Equity"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, use/accumulate]
 ---
 
 # FP CNGLOV
@@ -42,6 +42,9 @@ _First Plus China Global Vision Fund_
 > - **จัดตั้ง:** 2025-03-14 · **จดทะเบียน:** 2025-07-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.5535 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · พอร์ตถือราว 28 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.31%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

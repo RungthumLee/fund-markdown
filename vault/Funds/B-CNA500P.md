@@ -26,7 +26,7 @@ top10_pct_nav: 96.94
 master_fund: "China Asset Management Co., Ltd.- Chinaamc Csi A500 Index Etf"
 master_isin: "CNE100006NM0"
 peer_group: "China Equity - A Shares"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # B-CNA500P
@@ -44,6 +44,9 @@ _Bualuang China Equity A500 Passive Fund_
 > - **จัดตั้ง:** 2025-05-30 · **จดทะเบียน:** 2025-06-13
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.5243 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ fund_size: 309747034.1
 holdings_count: 6
 top10_pct_nav: 188.02
 master_fund: "Global X Asia Semiconductor ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/asia-pacific, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # LHASIASEMICON
@@ -41,6 +41,9 @@ _LH ASIA SEMICONDUCTOR EQUITY FUND_
 > - **จัดตั้ง:** 2026-03-19 · **จดทะเบียน:** 2026-06-30
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.4148 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.10%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

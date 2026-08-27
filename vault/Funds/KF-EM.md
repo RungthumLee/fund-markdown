@@ -27,7 +27,7 @@ master_fund: "MS INVF Emerging Leaders Equity Z"
 master_isin: "LU0815264279"
 peer_group: "Emerging Market"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย พงศ์สัณห์ อนุรัตน์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-EM
@@ -45,6 +45,9 @@ _Krungsri Emerging Markets Equity Fund_
 > - **จัดตั้ง:** 2012-10-04 · **จดทะเบียน:** 2012-10-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.0776 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.65%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

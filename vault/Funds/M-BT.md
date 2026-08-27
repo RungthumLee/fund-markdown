@@ -24,7 +24,7 @@ fund_size: 223518547.77
 holdings_count: 31
 top10_pct_nav: 58.65
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # M-BT
@@ -42,6 +42,9 @@ _MFC-BT INCOME GROWTH FUND_
 > - **จัดตั้ง:** 2003-09-17 · **จดทะเบียน:** 2003-10-14
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 21.3629 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.22%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 165037070.61
 holdings_count: 15
 top10_pct_nav: 113.99
 master_fund: "First Trust Nasdaq Cybersecurity UCITS ETF Class A USD Accumulation"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # LHCYBER
@@ -42,6 +42,9 @@ _LH GLOBAL CYBERSECURITY FUND_
 > - **จัดตั้ง:** 2021-03-12 · **จดทะเบียน:** 2021-08-06
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 11.8068 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.97%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

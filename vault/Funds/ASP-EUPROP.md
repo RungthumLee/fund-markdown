@@ -26,7 +26,7 @@ top10_pct_nav: 101.21
 master_fund: "AXAWF Eurp Rl Est Secs I Cap EUR"
 master_isin: "LU0227125514"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, geo/europe, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ASP-EUPROP
@@ -44,6 +44,9 @@ _Asset plus Europe Property Fund_
 > - **จัดตั้ง:** 2014-12-29 · **จดทะเบียน:** 2015-08-11
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.4564 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

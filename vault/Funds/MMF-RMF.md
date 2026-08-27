@@ -24,7 +24,7 @@ fund_size: 377162622.03
 holdings_count: 20
 top10_pct_nav: 73.13
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t5, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t5, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # MMF-RMF
@@ -42,6 +42,9 @@ _MFC Money Market Retirement Fund_
 > - **จัดตั้ง:** 2002-06-21 · **จดทะเบียน:** 2002-08-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.5539 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.60%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

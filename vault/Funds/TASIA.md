@@ -27,7 +27,7 @@ master_fund: "BlackRock Advtg Asia ex Jpn Eq D USD Acc"
 master_isin: "IE00BFZP7Q95"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # TASIA
@@ -45,6 +45,9 @@ _TISCO Asia Equity Fund_
 > - **จัดตั้ง:** 2024-12-24 · **จดทะเบียน:** 2025-01-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.373 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

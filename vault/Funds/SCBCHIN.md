@@ -25,7 +25,7 @@ holdings_count: 65
 top10_pct_nav: 105.01
 master_fund: "UBS (Lux) ES All China (USD) I A1 acc"
 master_isin: "LU1867708205"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBCHIN
@@ -43,6 +43,9 @@ _SCB Active All China Equity Fund_
 > - **จัดตั้ง:** 2021-03-09 · **จดทะเบียน:** 2021-03-23
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 5.091 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

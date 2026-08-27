@@ -24,7 +24,7 @@ fund_size: 68134559.27
 holdings_count: 52
 top10_pct_nav: 51.96
 fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย ธนัย ลิขิตชัยกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # MGCORE
@@ -42,6 +42,9 @@ _MFC Global Core Equity Fund_
 > - **จัดตั้ง:** 2007-05-30 · **จดทะเบียน:** 2007-06-29
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.904 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · พอร์ตถือราว 52 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 101.5
 master_fund: "Fullgoal China A Share I USD Inc"
 master_isin: "LU2568635531"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ASP-CHINA
@@ -44,6 +44,9 @@ _Asset Plus China Fund_
 > - **จัดตั้ง:** 2014-05-19 · **จดทะเบียน:** 2014-07-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.3552 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.06%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

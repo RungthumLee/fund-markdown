@@ -26,7 +26,7 @@ master_fund: "Global X ETF Series OFC - Global X China Clean Energy ETF"
 master_isin: "HK0000562675"
 peer_group: "Global Equity- Alternative Energy"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, geo/china, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TCHNEWENGY
@@ -44,6 +44,9 @@ _TISCO China New Energy Fund_
 > - **จัดตั้ง:** 2023-03-16 · **จดทะเบียน:** 2023-03-31
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 7.8283 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive)
 
 ## 1. ข้อมูลทั่วไป
 

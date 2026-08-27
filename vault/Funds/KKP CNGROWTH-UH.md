@@ -21,7 +21,7 @@ nav: 9.5308
 nav_date: "2026-08-24"
 fund_size: 3112555442.93
 master_fund: "Fullgoal China Small-Mid Cap Growth Fund I1 (USD)"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/china, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KKP CNGROWTH-UH
@@ -39,6 +39,9 @@ _KKP ALL CHINA GROWTH FUND - UNHEDGED_
 > - **จัดตั้ง:** 2026-07-08 · **จดทะเบียน:** 2026-07-22
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.5308 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

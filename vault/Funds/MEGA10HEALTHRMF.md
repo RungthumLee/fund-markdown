@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 11156643.74
 holdings_count: 12
 top10_pct_nav: 93.91
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, tax/rmf, theme/healthcare, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, tax/rmf, use/tax-saving]
 ---
 
 # MEGA10HEALTHRMF
@@ -41,6 +41,9 @@ _MEGA 10 HEALTHCARE RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2025-05-28 · **จดทะเบียน:** 2025-06-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.034 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · พอร์ตถือราว 12 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1149209249.73
 holdings_count: 54
 top10_pct_nav: 65.7
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL iPROPRMF
@@ -41,6 +41,9 @@ _Principal Property Income Retirement Mutual Fund_
 > - **จัดตั้ง:** 2012-11-16 · **จดทะเบียน:** 2012-12-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 17.0813 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.27%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

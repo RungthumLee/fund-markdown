@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 44404917.56
 holdings_count: 12
 top10_pct_nav: 95.16
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # MEGA10CYBER
@@ -40,6 +40,9 @@ _MEGA 10 CYBERSECURITY AND ENTERPRISE SOFTWARE FUND_
 > - **จัดตั้ง:** 2025-11-03 · **จดทะเบียน:** 2025-11-13
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 8.3613 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · พอร์ตถือราว 12 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

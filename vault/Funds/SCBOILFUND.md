@@ -25,7 +25,7 @@ holdings_count: 110
 top10_pct_nav: 108.47
 master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
-tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBOILFUND
@@ -43,6 +43,9 @@ _SCB OIL FUND_
 > - **จัดตั้ง:** 2012-07-31 · **จดทะเบียน:** 2012-10-03
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 7.9265 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองน้ำมัน · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

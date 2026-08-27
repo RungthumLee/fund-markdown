@@ -24,7 +24,7 @@ fund_size: 179637549.64
 holdings_count: 22
 top10_pct_nav: 92.2
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # 1US-OPP
@@ -42,6 +42,9 @@ _1 A.M. US Recovery Opportunity Fund_
 > - **จัดตั้ง:** 2008-05-16 · **จดทะเบียน:** 2008-06-16
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 25.2769 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

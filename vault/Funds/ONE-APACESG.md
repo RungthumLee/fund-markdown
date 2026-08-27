@@ -26,7 +26,7 @@ top10_pct_nav: 117.49
 master_fund: "BNP Paribas Green Tigers I Cap"
 master_isin: "LU0823438493"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/asia-pacific, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ONE-APACESG
@@ -44,6 +44,9 @@ _ONE ASIA PACIFIC ESG FUND_
 > - **จัดตั้ง:** 2021-07-15 · **จดทะเบียน:** 2021-08-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.0483 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.89%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

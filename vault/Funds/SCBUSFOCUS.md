@@ -25,7 +25,7 @@ holdings_count: 120
 top10_pct_nav: 104.58
 master_fund: "BlackRock Advantage US Eq D USD Acc"
 master_isin: "IE00BFZP7V49"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/us, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBUSFOCUS
@@ -43,6 +43,9 @@ _SCB US Sustainable Core Focus Equity_
 > - **จัดตั้ง:** 2025-01-31 · **จดทะเบียน:** 2025-02-11
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 12.5993 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

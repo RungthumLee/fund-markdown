@@ -26,7 +26,7 @@ top10_pct_nav: 98.14
 master_fund: "State Street SPDR S&P 500 ETF Trust"
 master_isin: "US78462F1030"
 peer_group: "US Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # B-USPASSIVE
@@ -44,6 +44,9 @@ _Bualuang US Equity Passive Fund_
 > - **จัดตั้ง:** 2024-07-05 · **จดทะเบียน:** 2024-08-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.6294 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.80%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

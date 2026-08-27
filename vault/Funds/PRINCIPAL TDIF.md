@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 101516145.76
 holdings_count: 33
 top10_pct_nav: 72.17
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL TDIF
@@ -41,6 +41,9 @@ _Principal Thai Dynamic Income Equity  Fund_
 > - **จัดตั้ง:** 2017-01-09 · **จดทะเบียน:** 2017-01-31
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 11.3073 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 33 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.25%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

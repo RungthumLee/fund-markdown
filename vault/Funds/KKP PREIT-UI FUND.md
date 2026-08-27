@@ -24,7 +24,7 @@ fund_size: 147303682.46
 holdings_count: 4
 top10_pct_nav: 100.25
 master_fund: "Blackstone Real Estate Income Trust iCapital Offshore Access Fund SPC"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, theme/real-estate, use/thematic, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KKP PREIT-UI FUND
@@ -42,6 +42,9 @@ _KKP PRIVATE REIT FUND NOT FOR RETAIL INVESTORS_
 > - **จัดตั้ง:** 2022-08-02 · **จดทะเบียน:** 2022-09-19
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 9.6463 (2026-07-31)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

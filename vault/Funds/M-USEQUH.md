@@ -26,7 +26,7 @@ top10_pct_nav: 100.23
 master_fund: "MS INVF US Core Equity Z"
 master_isin: "LU1439782225"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # M-USEQUH
@@ -44,6 +44,9 @@ _MFC US Core Equity Unhedged Fund_
 > - **จัดตั้ง:** 2024-06-17 · **จดทะเบียน:** 2024-07-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.0515 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.08%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

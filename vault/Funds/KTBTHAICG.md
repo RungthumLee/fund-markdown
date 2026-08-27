@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 65757044.4
 holdings_count: 49
 top10_pct_nav: 68.76
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # KTBTHAICG
@@ -41,6 +41,9 @@ _Krung Thai Boon Trong Thai CG Fund_
 > - **จัดตั้ง:** 2017-09-13 · **จดทะเบียน:** 2017-09-27
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 12.5425 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 49 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.90%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

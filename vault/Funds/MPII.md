@@ -24,7 +24,7 @@ fund_size: 86824888.76
 holdings_count: 47
 top10_pct_nav: 63.95
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # MPII
@@ -42,6 +42,9 @@ _MFC Property and Infrastructure Flexible Income Fund_
 > - **จัดตั้ง:** 2019-05-24 · **จดทะเบียน:** 2019-06-28
 > - **ชนิดหน่วยลงทุน:** 5 class
 > - **NAV 8.4657 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

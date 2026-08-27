@@ -24,7 +24,7 @@ fund_size: 149315421.65
 holdings_count: 57
 top10_pct_nav: 56.1
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # SF5
@@ -42,6 +42,9 @@ _Sinpinyo Five Open-end Fund_
 > - **จัดตั้ง:** 1987-07-31 · **จดทะเบียน:** 1997-08-07
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 49.3783 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 57 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.13%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

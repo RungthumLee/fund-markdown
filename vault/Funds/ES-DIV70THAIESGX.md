@@ -25,7 +25,7 @@ holdings_count: 57
 top10_pct_nav: 70.55
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-DIV70THAIESGX
@@ -43,6 +43,9 @@ _Eastspring Dividend Stock 70 Thailand ESG Extra Fund_
 > - **จัดตั้ง:** 2025-04-29 · **จดทะเบียน:** 2025-05-09
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 12.5411 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.48%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

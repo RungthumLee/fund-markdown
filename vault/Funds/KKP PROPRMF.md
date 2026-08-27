@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 308980896.62
 holdings_count: 47
 top10_pct_nav: 71.82
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KKP PROPRMF
@@ -41,6 +41,9 @@ _KKP PROPERTY SECTOR RETIREMENT MUTUAL FUND_
 > - **จัดตั้ง:** 2011-11-23 · **จดทะเบียน:** 2011-12-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 18.6893 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.29%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

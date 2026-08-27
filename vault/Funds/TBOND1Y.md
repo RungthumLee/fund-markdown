@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 96.23
 peer_group: "Short Term Government Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t2, struct/direct, style/enhanced-index, use/park-cash]
 ---
 
 # TBOND1Y
@@ -43,6 +43,9 @@ _TISCO 1 Year Bond Fund_
 > - **จัดตั้ง:** 2011-12-02 · **จดทะเบียน:** 2012-05-04
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.5014 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำ (3/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.42%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

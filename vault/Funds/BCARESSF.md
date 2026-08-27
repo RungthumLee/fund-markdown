@@ -26,7 +26,7 @@ top10_pct_nav: 98.83
 master_fund: "Wellington Global Hlthcr Eq USD S Ac"
 master_isin: "IE00B0590K11"
 peer_group: "Health Care"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # BCARESSF
@@ -44,6 +44,9 @@ _Bualuang Global Health Care Super Savings Fund_
 > - **จัดตั้ง:** 2022-10-17 · **จดทะเบียน:** 2022-11-09
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.8017 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.23%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

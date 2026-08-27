@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 66.25
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. มัลลิกานิยมในธรรม", "นาย ณพัฒน์ศรีวรพงษ์พันธ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TEGRMF
@@ -43,6 +43,9 @@ _TISCO Equity Growth Retirement  Fund_
 > - **จัดตั้ง:** 2002-05-28 · **จดทะเบียน:** 2002-10-03
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 75.0087 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 32 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.27%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

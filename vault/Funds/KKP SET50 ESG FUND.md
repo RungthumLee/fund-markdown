@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 351477402.08
 holdings_count: 49
 top10_pct_nav: 63.24
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, tax/ssf, geo/thailand, theme/sustainability, use/tax-saving, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # KKP SET50 ESG FUND
@@ -41,6 +41,9 @@ _KKP SET50 ESG FUND_
 > - **จัดตั้ง:** 2020-03-30 · **จดทะเบียน:** 2020-04-10
 > - **ชนิดหน่วยลงทุน:** 7 class
 > - **NAV 15.9664 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 49 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.14%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

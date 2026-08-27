@@ -24,7 +24,7 @@ fund_size: 136010858.58
 holdings_count: 48
 top10_pct_nav: 73.09
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KPLUS
@@ -42,6 +42,9 @@ _Kamrai Permpoon Open-ended Fund_
 > - **จัดตั้ง:** 1993-11-22 · **จดทะเบียน:** 1994-01-06
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 6.9107 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 48 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.54%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

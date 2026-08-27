@@ -25,7 +25,7 @@ holdings_count: 50
 top10_pct_nav: 55.75
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย ปีติ ประติพัทธิ์พงษ์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KF-GB70
@@ -43,6 +43,9 @@ _Krungsri Growth Balance 70/30 Fund_
 > - **จัดตั้ง:** 2006-10-31 · **จดทะเบียน:** 2006-11-30
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.9931 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.02%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

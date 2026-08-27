@@ -26,7 +26,7 @@ top10_pct_nav: 99.81
 master_fund: "BlueBay Emerging Markets Bond Fund (Canada) Series D U$ NL (475711A2)"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/discretionary, struct/feeder, style/active, geo/emerging-markets, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # X-EMBOND
@@ -44,6 +44,9 @@ _XSpring Emerging Market Bond Fund_
 > - **จัดตั้ง:** 2025-07-24 · **จดทะเบียน:** 2025-08-27
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.6838 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

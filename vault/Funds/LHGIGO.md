@@ -23,7 +23,7 @@ fund_size: 844138940.64
 holdings_count: 11
 top10_pct_nav: 104.08
 master_fund: "Man GlInGd Opports DYV USD Acc"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/world, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # LHGIGO
@@ -41,6 +41,9 @@ _LH GLOBAL INVESTMENT GRADE OPPORTUNITIES FUND_
 > - **จัดตั้ง:** 2025-04-02 · **จดทะเบียน:** 2025-04-30
 > - **ชนิดหน่วยลงทุน:** 3 class
 > - **NAV 10.3337 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

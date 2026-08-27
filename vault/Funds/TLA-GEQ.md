@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 2810936479.15
 holdings_count: 16
 top10_pct_nav: 89.2
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # TLA-GEQ
@@ -40,6 +40,9 @@ _TALIS GLOBAL EQUITY ALLOCATION FUND_
 > - **จัดตั้ง:** 2025-09-09 · **จดทะเบียน:** 2025-11-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 12.5172 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 16 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.64%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

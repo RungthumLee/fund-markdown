@@ -24,7 +24,7 @@ fund_size: 7614571359.07
 holdings_count: 79
 top10_pct_nav: 51.45
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # B-MIXED75
@@ -42,6 +42,9 @@ _Bualuang Mixed 75/25 Fund_
 > - **จัดตั้ง:** 2007-03-26 · **จดทะเบียน:** 2007-05-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 26.4129 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

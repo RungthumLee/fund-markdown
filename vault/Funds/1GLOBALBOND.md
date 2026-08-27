@@ -24,7 +24,7 @@ fund_size: 4762247.08
 holdings_count: 10
 top10_pct_nav: 100.5
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/partially-hedged, struct/direct, style/enhanced-index, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # 1GLOBALBOND
@@ -42,6 +42,9 @@ _1 A.M. GLOBAL OPPORTUNITY BOND FUND_
 > - **จัดตั้ง:** 2008-01-15 · **จดทะเบียน:** 2008-02-18
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.7721 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.94%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 103.99
 master_fund: "Signature Dynamic Income Fund"
 master_isin: "MYU0100A9261"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t6, fx/discretionary, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t6, fx/discretionary, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SIGNATURE GINCOME
@@ -43,6 +43,9 @@ _Signature Global Dynamic Income Fund_
 > - **จัดตั้ง:** 2024-08-28 · **จดทะเบียน:** 2025-04-29
 > - **ชนิดหน่วยลงทุน:** 10 class
 > - **NAV 10.6033 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตลาดเงิน · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.30%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

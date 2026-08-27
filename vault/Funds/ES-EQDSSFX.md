@@ -25,7 +25,7 @@ holdings_count: 46
 top10_pct_nav: 51.24
 peer_group: "Equity General"
 fund_managers: ["นาย สมิทธ์ ศักดิ์กำจร", "น.ส. นันทรา ลายจุด"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, style/dividend, geo/thailand, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # ES-EQDSSFX
@@ -43,6 +43,9 @@ _Eastspring Equity Dividend SSFX_
 > - **จัดตั้ง:** 2020-03-30 · **จดทะเบียน:** 2020-04-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.8804 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 46 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.64%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

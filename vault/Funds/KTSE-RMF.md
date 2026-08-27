@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 452886343.0
 holdings_count: 28
 top10_pct_nav: 72.14
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KTSE-RMF
@@ -41,6 +41,9 @@ _Krung Thai Selective Equity RMF_
 > - **จัดตั้ง:** 2012-09-11 · **จดทะเบียน:** 2012-10-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.4264 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 28 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 5079178.06
 holdings_count: 123
 top10_pct_nav: 52.07
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBLTSET
@@ -41,6 +41,9 @@ _SCB SET Equity Fund_
 > - **จัดตั้ง:** 2018-09-12 · **จดทะเบียน:** 2018-09-25
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 10.8407 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 123 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.17%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

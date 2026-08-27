@@ -157,10 +157,18 @@ tag ภาษานักลงทุน) เป็น markdown ล้วน ใ
 - [x] **T-114** ยืนยันผล: `#geo/china #theme/technology` = 16 กอง (คลีน) · `#use/park-cash` = 48 กอง ·
   validate_vault/semantics เขียว
 
-### เฟส 2–3 (ยังไม่ทำ)
-- [ ] **T-115** โน้ต cluster + ตารางเทียบ "ต่างกันยังไง" ต่อกลุ่มธีม
-- [ ] **T-116** สรุปภาษาคน 1 ย่อหน้า/กอง (template จาก tag ก่อน → LLM ขัดทีหลัง)
-- [ ] **T-117** ขัด theme/geo ด้วย Ollama (a-shares/h-shares, semiconductor vs internet) + cap-size
+### เฟส 2 — สรุปภาษาคน + cluster เทียบ (ทำแล้ว)
+- [x] **T-115** ตัด facet **theme/geo** ทิ้ง (เป็น keyword ไม่ชัวร์ตามที่ผู้ใช้สั่ง) เหลือ 10 facet
+  ที่ deterministic 100% · แทน cluster ธีมด้วย **AIMC peer_group** (ข้อมูลจริงจาก factsheet)
+- [x] **T-116** **สรุปภาษาคน** 1 ย่อหน้า/กอง — `tagging.plain_summary()` (template จาก facet)
+  ขึ้นเป็น callout `> [!tip] อ่านง่าย ๆ` ในทุกโน้ตกอง
+  เช่น "กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ได้เงินภายใน T+1 · ..."
+- [x] **T-117** ยกระดับ [[../../vault/Indexes/by-peer-group|by-peer-group]] เป็น
+  **ตารางเทียบในกลุ่ม** (TER · 1y% · เสี่ยง · ค่าเงิน · โครงสร้าง · ถือมากสุด) →
+  ตอบ "ในกลุ่มนี้ต่างกันยังไง" เช่น Technology Equity 39 กอง เห็น K-ATECH 101% vs BCAP-DISRUPT 37%
+
+> เฟส 3 (LLM ขัด theme/geo) **ยกเลิก** — ผู้ใช้เลือกใช้ AIMC peer_group ที่แม่นกว่าแทน
+> เหลือ optional: LLM ขัดสำนวนสรุปให้ลื่นขึ้น (ตอนนี้ template ก็อ่านรู้เรื่องแล้ว)
 
 ---
 

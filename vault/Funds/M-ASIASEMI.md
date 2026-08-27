@@ -21,7 +21,7 @@ nav: 9.4427
 nav_date: "2026-08-26"
 fund_size: 41913211.96
 master_fund: "Global X Asia Semiconductor ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, geo/asia-pacific, theme/technology/semiconductor, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # M-ASIASEMI
@@ -39,6 +39,9 @@ _MFC Asia Semiconductor Fund_
 > - **จัดตั้ง:** 2026-08-06 · **จดทะเบียน:** 2026-08-17
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.4427 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.98%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

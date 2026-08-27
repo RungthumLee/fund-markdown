@@ -26,7 +26,7 @@ top10_pct_nav: 99.27
 master_fund: "Invesco Asian Equity C USD AD"
 master_isin: "LU1775950394"
 peer_group: "Asia Pacific Ex Japan"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/asia-pacific, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # B-ASIA
@@ -44,6 +44,9 @@ _Bualuang Asia Equity Fund_
 > - **จัดตั้ง:** 2014-12-24 · **จดทะเบียน:** 2015-04-02
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 20.8584 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

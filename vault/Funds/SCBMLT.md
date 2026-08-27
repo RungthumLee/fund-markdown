@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 893142.79
 holdings_count: 67
 top10_pct_nav: 58.3
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, tax/ssf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, tax/ssf, use/tax-saving]
 ---
 
 # SCBMLT
@@ -41,6 +41,9 @@ _SCB Machine Learning Thai Equity Fund_
 > - **จัดตั้ง:** 2017-11-21 · **จดทะเบียน:** 2017-12-06
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 11.3207 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 67 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

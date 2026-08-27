@@ -25,7 +25,7 @@ holdings_count: 54
 top10_pct_nav: 105.28
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-GAA
@@ -43,6 +43,9 @@ _AIA Global Aggressive Allocation Fund_
 > - **จัดตั้ง:** 2020-08-21 · **จดทะเบียน:** 2020-12-01
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.6059 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

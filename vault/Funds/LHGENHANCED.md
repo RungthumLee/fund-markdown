@@ -23,7 +23,7 @@ fund_size: 75094632.93
 holdings_count: 28
 top10_pct_nav: 100.44
 master_fund: "iShares MSCI World ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHGENHANCED
@@ -41,6 +41,9 @@ _LH GLOBAL ENHANCED FUND_
 > - **จัดตั้ง:** 2025-05-07 · **จดทะเบียน:** 2025-11-06
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 11.2743 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

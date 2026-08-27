@@ -25,7 +25,7 @@ top10_pct_nav: 110.77
 master_fund: "JPM US Technology I acc USD"
 master_isin: "LU0248060906"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/us, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UUSTECH
@@ -43,6 +43,9 @@ _United US Technology Equity Fund_
 > - **จัดตั้ง:** 2025-08-07 · **จดทะเบียน:** 2025-09-05
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.8499 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.84%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

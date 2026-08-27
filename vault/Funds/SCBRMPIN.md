@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 293948969.23
 holdings_count: 115
 top10_pct_nav: 63.28
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/total-market, fx/fully-hedged, struct/direct, style/active, theme/real-estate, use/thematic]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/total-market, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBRMPIN
@@ -41,6 +41,9 @@ _SCB Property and Infrastructure Flexible RMF_
 > - **จัดตั้ง:** 2019-08-08 · **จดทะเบียน:** 2019-09-10
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 9.0131 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.19%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

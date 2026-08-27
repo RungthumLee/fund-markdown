@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 94.84
 peer_group: "Energy"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/passive, theme/energy, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/passive, use/accumulate]
 ---
 
 # K-ENERGY
@@ -43,6 +43,9 @@ _K Energy Sector Index Fund_
 > - **จัดตั้ง:** 2015-03-31 · **จดทะเบียน:** 2015-05-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.9457 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 33 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.79%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

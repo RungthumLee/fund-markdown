@@ -25,7 +25,7 @@ holdings_count: 62
 top10_pct_nav: 103.45
 master_fund: "BGF World Real Estate Securities D2"
 master_isin: "LU0842063264"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/world, theme/real-estate, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # SCBGPROPFUND
@@ -43,6 +43,9 @@ _SCB GLOBAL PROPERTY_
 > - **จัดตั้ง:** 2016-09-13 · **จดทะเบียน:** 2016-10-04
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 7.2902 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.73%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

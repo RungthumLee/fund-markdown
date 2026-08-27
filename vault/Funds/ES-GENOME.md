@@ -27,7 +27,7 @@ master_fund: "ARK Genomic Revolution UCITS ETF Class A USD Accumulation"
 master_isin: "IE000O5M6XO1"
 peer_group: "Health Care"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/active, theme/healthcare, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GENOME
@@ -45,6 +45,9 @@ _Eastspring Genomic Revolution Fund_
 > - **จัดตั้ง:** 2021-03-03 · **จดทะเบียน:** 2021-03-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 4.7567 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · พอร์ตถือราว 14 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

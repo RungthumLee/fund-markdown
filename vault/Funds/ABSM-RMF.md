@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 40893972.42
 holdings_count: 32
 top10_pct_nav: 57.28
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ABSM-RMF
@@ -41,6 +41,9 @@ _abrdn Small-Mid Cap Retirement Mutual Fund_
 > - **จัดตั้ง:** 2022-11-30 · **จดทะเบียน:** 2022-12-20
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.8818 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 32 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.05%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

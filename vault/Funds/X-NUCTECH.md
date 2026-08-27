@@ -26,7 +26,7 @@ top10_pct_nav: 105.28
 master_fund: "VanEck Uranium and Nuclear Technologies UCITS ETF A USD Acc"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, fx/unhedged, struct/feeder, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, fx/unhedged, struct/feeder, use/accumulate]
 ---
 
 # X-NUCTECH
@@ -44,6 +44,9 @@ _XSpring Nuclear Power Technologies and Uranium Fund_
 > - **จัดตั้ง:** 2025-04-23 · **จดทะเบียน:** 2025-07-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 11.7504 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

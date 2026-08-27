@@ -26,7 +26,7 @@ top10_pct_nav: 101.64
 master_fund: "Invesco Cnttl Eur Sm Cp Eq Z EUR Acc"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-EUSMALL
@@ -44,6 +44,9 @@ _K European Small Cap Equity Fund_
 > - **จัดตั้ง:** 2018-02-27 · **จดทะเบียน:** 2018-03-21
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.9922 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.74%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -24,7 +24,7 @@ fund_size: 94615893456.72
 holdings_count: 38
 top10_pct_nav: 69.99
 peer_group: "Short Term Government Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, use/accumulate]
 ---
 
 # B-TNTV
@@ -42,6 +42,9 @@ _Bualuang Thanatavee Fixed Income Fund_
 > - **จัดตั้ง:** 2005-01-26 · **จดทะเบียน:** 2005-03-08
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.1459 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

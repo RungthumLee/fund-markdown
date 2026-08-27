@@ -24,7 +24,7 @@ fund_size: 86526972.53
 holdings_count: 37
 top10_pct_nav: 56.82
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # PMIX
@@ -42,6 +42,9 @@ _Phillip Mixed Fund_
 > - **จัดตั้ง:** 2007-05-25 · **จดทะเบียน:** 2007-06-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 23.9594 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

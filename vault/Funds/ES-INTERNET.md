@@ -27,7 +27,7 @@ master_fund: "ARK Innovation UCITS ETF Class A USD Accumulation"
 master_isin: "IE000GA3D489"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/feeder, style/active, theme/technology, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-INTERNET
@@ -45,6 +45,9 @@ _Eastspring Next Generation Internet Fund_
 > - **จัดตั้ง:** 2021-03-03 · **จดทะเบียน:** 2021-03-23
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 8.4982 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · พอร์ตถือราว 15 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

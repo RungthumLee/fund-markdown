@@ -24,7 +24,7 @@ fund_size: 1280457081.29
 holdings_count: 22
 top10_pct_nav: 71.84
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย พีรพัฒน์ จิรารยะพงศ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, geo/vietnam, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ASP-VIET
@@ -42,6 +42,9 @@ _Asset Plus Vietnam Growth Fund_
 > - **จัดตั้ง:** 2017-12-14 · **จดทะเบียน:** 2018-01-18
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 10.8226 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 22 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 3.19%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

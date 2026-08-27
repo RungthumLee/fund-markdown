@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 102.97
 master_fund: "BNP Paribas Health Cr Innovtr I Cap"
 master_isin: "LU0823417067"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, theme/healthcare, use/tax-saving, use/income, use/thematic]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBIHEALTH
@@ -43,6 +43,9 @@ _SCB Healthcare Innovation_
 > - **จัดตั้ง:** 2021-06-04 · **จดทะเบียน:** 2021-06-29
 > - **ชนิดหน่วยลงทุน:** 8 class
 > - **NAV 4.7299 (2026-08-24)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

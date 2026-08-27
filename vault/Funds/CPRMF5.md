@@ -24,7 +24,7 @@ fund_size: 46600485.58
 holdings_count: 46
 top10_pct_nav: 98.96
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # CPRMF5
@@ -42,6 +42,9 @@ _Capital Protected Retirement Mutual Fund 5_
 > - **จัดตั้ง:** 2006-11-24 · **จดทะเบียน:** 2006-12-25
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 16.2251 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

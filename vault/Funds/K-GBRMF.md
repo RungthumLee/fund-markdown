@@ -25,7 +25,7 @@ holdings_count: 60
 top10_pct_nav: 49.01
 peer_group: "Long Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม", "นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # K-GBRMF
@@ -43,6 +43,9 @@ _K Government Bond RMF_
 > - **จัดตั้ง:** 2001-11-30 · **จดทะเบียน:** 2001-12-19
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 15.9968 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

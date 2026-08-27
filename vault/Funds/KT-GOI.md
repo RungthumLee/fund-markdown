@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 100.85
 master_fund: "AXAWF Global Optimal Income F Cap EUR"
 master_isin: "LU0465917473"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-GOI
@@ -42,6 +42,9 @@ _KTAM Global Optimal Income Fund_
 > - **จัดตั้ง:** 2017-02-08 · **จดทะเบียน:** 2017-09-29
 > - **ชนิดหน่วยลงทุน:** 4 class
 > - **NAV 13.0775 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 472514466.64
 holdings_count: 48
 top10_pct_nav: 57.43
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # KT-FLEX
@@ -41,6 +41,9 @@ _Krung Thai Flexible Fund_
 > - **จัดตั้ง:** 2013-09-03 · **จดทะเบียน:** 2013-09-26
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 13.1876 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

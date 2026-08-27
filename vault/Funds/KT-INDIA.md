@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 96.66
 master_fund: "Invesco Funds - Invesco India Equity Fund"
 master_isin: "LU0267983889"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/india, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-INDIA
@@ -42,6 +42,9 @@ _KTAM India Equity Fund_
 > - **จัดตั้ง:** 2015-12-02 · **จดทะเบียน:** 2016-02-09
 > - **ชนิดหน่วยลงทุน:** 6 class
 > - **NAV 20.1958 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

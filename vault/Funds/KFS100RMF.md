@@ -25,7 +25,7 @@ holdings_count: 93
 top10_pct_nav: 54.83
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # KFS100RMF
@@ -43,6 +43,9 @@ _Krungsri SET100 RMF_
 > - **จัดตั้ง:** 2005-06-23 · **จดทะเบียน:** 2005-07-12
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 42.1924 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 93 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.73%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

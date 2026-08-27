@@ -21,7 +21,7 @@ nav: 10.0803
 nav_date: "2026-08-25"
 fund_size: 68656518.63
 master_fund: "Vanguard Total International Stock Index Fund ETF Shares"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, geo/us, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLWORLDXUS-X
@@ -39,6 +39,9 @@ _TALIS WORLD EX US FUND_
 > - **จัดตั้ง:** 2026-07-06 · **จดทะเบียน:** 2026-07-15
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 10.0803 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.79%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

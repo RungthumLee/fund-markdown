@@ -24,7 +24,7 @@ fund_size: 54793295.26
 holdings_count: 33
 top10_pct_nav: 89.77
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # M-BOND
@@ -42,6 +42,9 @@ _MFC Retirement Bond Fund_
 > - **จัดตั้ง:** 2002-06-21 · **จดทะเบียน:** 2002-08-14
 > - **ชนิดหน่วยลงทุน:** 1 class
 > - **NAV 14.2931 (2026-08-26)**
+
+> [!tip] อ่านง่าย ๆ
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.66%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

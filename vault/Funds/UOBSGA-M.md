@@ -26,7 +26,7 @@ top10_pct_nav: 100.08
 master_fund: "BGF Global Allocation A2"
 master_isin: "LU0072462426"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UOBSGA-M
@@ -44,6 +44,9 @@ _UOB Smart Global Allocation Fund_
 > - **จัดตั้ง:** 2014-12-22 · **จดทะเบียน:** 2015-02-18
 > - **ชนิดหน่วยลงทุน:** 2 class
 > - **NAV 14.9674 (2026-08-25)**
+
+> [!tip] อ่านง่าย ๆ
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.22%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
