@@ -26,7 +26,7 @@ top10_pct_nav: 101.47
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
 peer_group: "US Equity"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
 ---
 
 # BCAP-USND100

@@ -24,7 +24,7 @@ fund_size: 7878991.87
 holdings_count: 13
 top10_pct_nav: 106.07
 master_fund: "Schroder ISF Global Innov A Acc USD"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHMEGA

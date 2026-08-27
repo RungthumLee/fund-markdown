@@ -24,7 +24,7 @@ fund_size: 124136426.16
 holdings_count: 38
 top10_pct_nav: 105.43
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # M-SMART INCOME

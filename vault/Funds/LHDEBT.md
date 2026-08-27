@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 163220225.37
 holdings_count: 34
 top10_pct_nav: 52.92
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # LHDEBT

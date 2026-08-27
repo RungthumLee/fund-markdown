@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 4013276.41
 holdings_count: 47
 top10_pct_nav: 102.72
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBFINTECH

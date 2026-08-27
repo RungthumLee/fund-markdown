@@ -24,7 +24,7 @@ fund_size: 193865382.02
 holdings_count: 21
 top10_pct_nav: 77.85
 fund_managers: ["นาย ศรุต สุทธิสำแดง", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # M-HD

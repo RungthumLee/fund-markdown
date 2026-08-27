@@ -25,7 +25,7 @@ holdings_count: 16
 top10_pct_nav: 104.38
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # ES-GLOBALEQRMF

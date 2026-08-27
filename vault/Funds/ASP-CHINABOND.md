@@ -24,7 +24,7 @@ fund_size: 6838475.39
 holdings_count: 7
 top10_pct_nav: 100.66
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "นาย สุชน รัตนหิรัgภรณ์"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/partially-hedged, struct/direct, style/active, geo/china, use/accumulate]
 ---
 
 # ASP-CHINABOND

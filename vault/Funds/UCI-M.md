@@ -26,7 +26,7 @@ top10_pct_nav: 104.38
 master_fund: "United China A-Shares Innovt T USD Acc"
 master_isin: "SGXZ16399552"
 peer_group: "China Equity - A Shares"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, geo/china, use/tax-saving]
 ---
 
 # UCI-M

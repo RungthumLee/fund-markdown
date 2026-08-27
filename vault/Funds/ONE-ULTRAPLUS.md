@@ -24,7 +24,7 @@ fund_size: 48756913.62
 holdings_count: 77
 top10_pct_nav: 87.1
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ปณิธิ จิตรีโภชน์"]
-tags: [fund, sec-data, policy/mixed, risk/6, passive, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # ONE-ULTRAPLUS

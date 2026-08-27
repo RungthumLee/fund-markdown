@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2442804798.1
 holdings_count: 76
 top10_pct_nav: 45.14
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # RMF2

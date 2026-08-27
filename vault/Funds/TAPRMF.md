@@ -26,7 +26,7 @@ master_fund: "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc"
 master_isin: "LU1900068328"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, geo/japan, use/tax-saving]
 ---
 
 # TAPRMF

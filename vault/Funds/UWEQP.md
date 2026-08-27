@@ -25,7 +25,7 @@ top10_pct_nav: 88.14
 master_fund: "iShares MSCI ACWI ETF"
 master_isin: "US4642882579"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
 ---
 
 # UWEQP

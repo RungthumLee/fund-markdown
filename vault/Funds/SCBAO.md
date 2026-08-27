@@ -25,7 +25,7 @@ holdings_count: 54
 top10_pct_nav: 102.99
 master_fund: "MS INVF Asia Opportunity Z"
 master_isin: "LU1378878604"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
 ---
 
 # SCBAO

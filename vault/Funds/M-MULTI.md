@@ -24,7 +24,7 @@ fund_size: 11325380.58
 holdings_count: 26
 top10_pct_nav: 119.69
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # M-MULTI

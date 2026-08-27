@@ -24,7 +24,7 @@ fund_size: 1238307853.77
 holdings_count: 54
 top10_pct_nav: 58.66
 peer_group: "Short Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # UOBID

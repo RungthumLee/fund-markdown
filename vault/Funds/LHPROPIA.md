@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 8586904.74
 holdings_count: 45
 top10_pct_nav: 64.57
-tags: [fund, sec-data, policy/mixed, risk/8, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/ssf, theme/real-estate, use/tax-saving, use/thematic]
 ---
 
 # LHPROPIA

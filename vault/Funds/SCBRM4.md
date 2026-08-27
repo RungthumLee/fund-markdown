@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 7414464377.31
 holdings_count: 45
 top10_pct_nav: 61.99
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
 ---
 
 # SCBRM4

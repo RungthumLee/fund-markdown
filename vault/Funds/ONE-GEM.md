@@ -24,7 +24,7 @@ fund_size: 9707870.02
 holdings_count: 19
 top10_pct_nav: 102.67
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, geo/emerging-markets, use/income]
 ---
 
 # ONE-GEM

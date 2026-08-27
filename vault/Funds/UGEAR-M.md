@@ -26,7 +26,7 @@ top10_pct_nav: 101.56
 master_fund: "Jupiter Merian Glb Eq Abs Rt I USD Acc"
 master_isin: "IE00BLP5S684"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # UGEAR-M

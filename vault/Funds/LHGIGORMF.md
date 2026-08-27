@@ -23,7 +23,7 @@ fund_size: 7065617.48
 holdings_count: 10
 top10_pct_nav: 99.33
 master_fund: "Man GlInGd Opports DYV USD Acc"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # LHGIGORMF

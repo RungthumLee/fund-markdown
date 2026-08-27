@@ -24,7 +24,7 @@ fund_size: 1447953320.81
 holdings_count: 26
 top10_pct_nav: 84.79
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/mixed, risk/7, active]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, theme/real-estate, use/thematic]
 ---
 
 # M-PROPERTY

@@ -24,7 +24,7 @@ fund_size: 585786247.97
 holdings_count: 58
 top10_pct_nav: 41.1
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # B-ENHANCED

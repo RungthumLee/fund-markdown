@@ -26,7 +26,7 @@ top10_pct_nav: 99.24
 master_fund: "Wellington Global Hlthcr Eq USD S Ac"
 master_isin: "IE00B0590K11"
 peer_group: "Health Care"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/healthcare, use/thematic]
 ---
 
 # BCARE

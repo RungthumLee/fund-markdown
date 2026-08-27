@@ -24,7 +24,7 @@ fund_size: 138981.64
 holdings_count: 65
 top10_pct_nav: 60.3
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย พิพัฒน์ นรานันทน์"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # MIX-Thai ESGX

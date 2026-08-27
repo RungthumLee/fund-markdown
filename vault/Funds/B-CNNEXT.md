@@ -23,7 +23,7 @@ fund_size: 2029114522.78
 holdings_count: 34
 top10_pct_nav: 91.0
 peer_group: "China Equity - A Shares"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/china, use/accumulate]
 ---
 
 # B-CNNEXT

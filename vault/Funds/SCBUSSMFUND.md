@@ -25,7 +25,7 @@ holdings_count: 49
 top10_pct_nav: 116.33
 master_fund: "Granahan US Focused Growth I USD Acc"
 master_isin: "IE00BF5KD889"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t7, fx/fully-hedged, struct/feeder, style/active, geo/us, use/accumulate]
 ---
 
 # SCBUSSMFUND

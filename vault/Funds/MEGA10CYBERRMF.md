@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 8837513.04
 holdings_count: 12
 top10_pct_nav: 95.04
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, tax/rmf, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # MEGA10CYBERRMF

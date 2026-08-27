@@ -24,7 +24,7 @@ fund_size: 165618007.13
 holdings_count: 9
 top10_pct_nav: 100.65
 master_fund: "Janus Henderson Hrzn Glb HY Bd F2 USD"
-tags: [fund, sec-data, policy/fixed-income, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate, audience/restricted]
 ---
 
 # KKP G-HYB-H-UI FUND

@@ -26,7 +26,7 @@ top10_pct_nav: 101.64
 master_fund: "Invesco Cnttl Eur Sm Cp Eq Z EUR Acc"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
 ---
 
 # K-EUSMALL

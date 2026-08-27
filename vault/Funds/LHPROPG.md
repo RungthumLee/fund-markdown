@@ -24,7 +24,7 @@ fund_size: 6505526.29
 holdings_count: 12
 top10_pct_nav: 99.36
 master_fund: "Janus Henderson Capital Funds PLC - Janus Henderson Global Real Estate Equity Income Fund"
-tags: [fund, sec-data, policy/alternative, risk/8, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/world, theme/real-estate, use/thematic]
 ---
 
 # LHPROPG

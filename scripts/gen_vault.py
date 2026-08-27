@@ -13,11 +13,12 @@ from __future__ import annotations
 import json
 import re
 import sys
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fees  # noqa: E402
+import tagging  # noqa: E402
 from sec_client import ROOT, get_logger  # noqa: E402
 
 LOG = get_logger("gen_vault")
@@ -170,32 +171,15 @@ def table(headers: list[str], rows: list[list]) -> list[str]:
 # ------------------------------------------------------------- fund note
 
 def fund_tags(f: dict) -> list[str]:
+    """Faceted, investor-language tags. The deterministic taxonomy lives in
+    scripts/tagging.py; here we add the two orthogonal audience flags and the
+    `fund` tag the Dataview screener queries with (`FROM #fund`)."""
     tags = ["fund", "sec-data"]
-    tags.append(f"policy/{POLICY_SLUG.get(f.get('policy'), 'other')}")
-    if f.get("risk_spectrum"):
-        tags.append(f"risk/{f['risk_spectrum']}")
-    style = f.get("management_style") or ""
-    if style in ("AM", "AN"):
-        tags.append("active")
-    if style in ("PM", "PN", "SM"):
-        tags.append("passive")
-    if style in ("AN", "PN", "IN", "LN"):
-        tags.append("feeder")
-    if style in ("LM", "LN", "IM", "IN"):
-        tags.append("leveraged-inverse")
+    tags += tagging.investor_tags(f)
     if f.get("retail_type") in ("A", "B", "H", "N", "X"):
-        tags.append("restricted-investor")
+        tags.append("audience/restricted")
     if f.get("retail_type") == "G":
-        tags.append("government-policy")
-    if f.get("invest_country_flag") in ("1", "2", "4"):
-        tags.append("foreign-exposure")
-    taxes = {c.get("tax_incentive") for c in f.get("classes") or []}
-    if any("SSF" in str(t) for t in taxes):
-        tags.append("tax/ssf")
-    if any("ESG" in str(t) for t in taxes):
-        tags.append("tax/thai-esg")
-    if "RMF" in str(f.get("abbr") or "").upper():
-        tags.append("tax/rmf")
+        tags.append("audience/government")
     return tags
 
 
@@ -821,6 +805,83 @@ def render_index(title: str, desc: str, groups: dict[str, list[dict]],
     return "\n".join(o)
 
 
+# faceted tag browser: top-level facet -> (Thai heading, one-line note)
+FACET_LABEL = {
+    "asset": ("สินทรัพย์", "ประเภทสินทรัพย์หลักที่กองลงทุน"),
+    "use": ("การใช้งาน", "กองนี้เหมาะกับโจทย์แบบไหน"),
+    "risk": ("ความเสี่ยง (ภาษาคน)", "แปลระดับ 1–8 เป็นคำที่เข้าใจง่าย"),
+    "geo": ("ภูมิภาค", "พื้นที่ลงทุนหลัก (อ่านจากชื่อกอง)"),
+    "theme": ("ธีม/หมวด", "ธีมการลงทุน (อ่านจากชื่อกอง — ยังเป็น best-effort)"),
+    "style": ("กลยุทธ์บริหาร", "active / passive / ปันผล ฯลฯ"),
+    "struct": ("โครงสร้าง", "ลงตรง / feeder"),
+    "conc": ("การกระจุกตัว", "จำนวนหลักทรัพย์ที่ถือ (เฉพาะกองหุ้น)"),
+    "fx": ("การป้องกันค่าเงิน", "hedge เต็ม/บางส่วน/ไม่ hedge/ตามดุลยพินิจ"),
+    "liquidity": ("สภาพคล่อง", "ได้เงินคืนกี่วันทำการหลังขาย"),
+    "tax": ("สิทธิภาษี", "RMF / SSF / Thai ESG"),
+    "compliance": ("ข้อกำหนดพิเศษ", "ESG / ชารีอะห์ / trigger"),
+    "audience": ("กลุ่มผู้ลงทุน", "ข้อจำกัดผู้ซื้อ"),
+}
+
+
+def render_tag_index(scoped: list[dict]) -> str:
+    """The faceted tag overview - every tag with its fund count, grouped by
+    facet, plus ready-made Dataview queries for the questions people ask."""
+    counts: Counter = Counter()
+    for f in scoped:
+        counts.update(tagging.investor_tags(f))
+
+    by_facet: dict[str, list[tuple[str, int]]] = defaultdict(list)
+    for tag, n in counts.items():
+        by_facet[tag.split("/")[0]].append((tag, n))
+
+    o = ["---", "title: แท็กทั้งหมด", "tags: [index, tags]", "---", "",
+         "# 🏷️ แท็กกองทุน (faceted)", "",
+         "[[00-home|🏠 Home]] · [[screener|🔎 Screener]] · [[all-funds|ทั้งหมด]]", "",
+         "> [!INFO] แต่ละกองติดแท็กหลายมิติแบบ deterministic (อ่านจากข้อมูล ก.ล.ต.)",
+         "> **คลิกแท็ก** เพื่อดูทุกกองที่ติดแท็กนั้น หรือใช้ Dataview ด้านล่าง",
+         "> ธีม/ภูมิภาคอ่านจากชื่อกอง จึงเป็น best-effort (LLM จะช่วยขัดในเฟสถัดไป)",
+         ""]
+    for facet in FACET_LABEL:
+        rows = by_facet.get(facet)
+        if not rows:
+            continue
+        title, note = FACET_LABEL[facet]
+        o += [f"## {title} · `{facet}`", "", f"_{note}_", ""]
+        for tag, n in sorted(rows, key=lambda kv: (-kv[1], kv[0])):
+            o.append(f"- #{tag} · **{n}**")
+        o.append("")
+
+    # ready-made intent queries - the whole point of the tag layer
+    def dv(title, note, query):
+        return [f"### {title}", "", note, "", "```dataview", *query, "```", ""]
+
+    o += ["---", "", "## 🔎 คำถามยอดฮิต (Dataview)", "",
+          "> ต้องเปิดใน Obsidian ที่ติดตั้งปลั๊กอิน Dataview", ""]
+    o += dv("พักเงินระยะสั้น เสี่ยงต่ำ ถอนไว",
+            "กองตลาดเงิน/ตราสารหนี้สั้น เรียงตามผลตอบแทน 1 ปี",
+            ['TABLE ter_retail AS "TER %", perf_1y AS "1y %", '
+             'risk_spectrum AS "เสี่ยง"',
+             'FROM #use/park-cash', 'WHERE perf_1y',
+             'SORT perf_1y DESC', 'LIMIT 20'])
+    o += dv("หุ้นจีน + เทคโนโลยี",
+            "กองที่ติดทั้งภูมิภาคจีนและธีมเทคโนโลยี",
+            ['TABLE perf_1y AS "1y %", ter_retail AS "TER %", '
+             'nav AS "NAV", amc AS "บลจ."',
+             'FROM #geo/china AND #theme/technology',
+             'SORT perf_1y DESC'])
+    o += dv("กองปันผล เสี่ยงปานกลาง",
+            "กองที่จ่ายปันผล ความเสี่ยงไม่สูงเกินไป",
+            ['TABLE perf_1y AS "1y %", ter_retail AS "TER %", policy AS "นโยบาย"',
+             'FROM #use/income', 'WHERE risk_spectrum <= 5',
+             'SORT perf_1y DESC', 'LIMIT 20'])
+    o += dv("ลดหย่อนภาษี (RMF/SSF/ThaiESG) ค่าธรรมเนียมต่ำ",
+            "กองประหยัดภาษี เรียงจากค่าธรรมเนียมถูกสุด",
+            ['TABLE ter_retail AS "TER %", perf_1y AS "1y %", policy AS "นโยบาย"',
+             'FROM #use/tax-saving', 'WHERE ter_retail',
+             'SORT ter_retail ASC', 'LIMIT 25'])
+    return "\n".join(o)
+
+
 # ------------------------------------------------------------------ main
 
 def main() -> None:
@@ -1081,6 +1142,9 @@ def main() -> None:
              'SORT length(rows) DESC'])
     (idx / "screener.md").write_text("\n".join(o), encoding="utf-8")
 
+    # faceted tag browser + intent queries
+    (idx / "tags.md").write_text(render_tag_index(scoped), encoding="utf-8")
+
     # by AMC index
     o = ["---", "title: บลจ. ทั้งหมด", "tags: [index, amc]", "---", "",
          "# 🏢 บริษัทจัดการกองทุน (บลจ.)", "", "[[00-home|🏠 Home]]", "",
@@ -1124,6 +1188,7 @@ def main() -> None:
          "| [[changelog]] | สิ่งที่เปลี่ยนในแต่ละรอบการรัน |",
          "| [[compare-fees]] | เทียบค่าธรรมเนียมในหมวดเดียวกัน |",
          "| [[screener]] | 🔎 คัดกรอง/เรียงกองด้วย Dataview (interactive) |",
+         "| [[tags]] | 🏷️ แท็ก faceted + คำถามยอดฮิต (พักเงิน/จีน AI/ปันผล) |",
          "| [[../Factsheets/00-factsheets-index\\|Factsheets]] | ข้อความจาก PDF |",
          "", "## 📚 แนวคิดพื้นฐาน", "",
          "- [[ค่าธรรมเนียมกองทุนรวม]]",

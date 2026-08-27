@@ -25,7 +25,7 @@ top10_pct_nav: 100.64
 master_fund: "VanEck Digital Transformation ETF"
 master_isin: "US92189H8218"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, theme/technology, use/thematic]
 ---
 
 # ASP-DAPP 3M5

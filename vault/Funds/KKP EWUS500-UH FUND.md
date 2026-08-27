@@ -24,7 +24,7 @@ fund_size: 171264851.2
 holdings_count: 4
 top10_pct_nav: 100.26
 master_fund: "Invesco S&P 500 Equal Weight ETF"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # KKP EWUS500-UH FUND

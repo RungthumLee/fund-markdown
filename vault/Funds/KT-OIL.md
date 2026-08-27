@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 101.47
 master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, theme/energy, use/thematic]
 ---
 
 # KT-OIL

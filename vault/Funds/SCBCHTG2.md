@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 413776161.28
 holdings_count: 108
 top10_pct_nav: 37.76
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, compliance/trigger-fund, geo/china, use/accumulate]
 ---
 
 # SCBCHTG2

@@ -26,7 +26,7 @@ top10_pct_nav: 103.8
 master_fund: "Freedom 100 Emerging Markets ETF"
 master_isin: "US02072L6074"
 fund_managers: ["นาย กิตติพงษ์ กังวานเกียรติชัย", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, geo/emerging-markets, use/accumulate]
 ---
 
 # M-FREEDOM

@@ -24,7 +24,7 @@ holdings_count: 6
 top10_pct_nav: 106.32
 master_fund: "JPM Nasdaq Equity Premium Income Active UCITS ETF USD Acc"
 master_isin: "IE000N6I8IU2"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/us, use/accumulate]
 ---
 
 # TLNDQINCOME-H-X

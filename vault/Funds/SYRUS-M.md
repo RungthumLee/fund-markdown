@@ -24,7 +24,7 @@ fund_size: 29992823.9
 holdings_count: 48
 top10_pct_nav: 71.06
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # SYRUS-M

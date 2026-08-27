@@ -27,7 +27,7 @@ master_fund: "Allianz Dyn MltAst Stgy SRI 50 P EUR"
 master_isin: "LU1706852701"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/mixed, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # KFGDB

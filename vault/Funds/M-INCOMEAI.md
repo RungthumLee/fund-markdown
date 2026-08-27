@@ -24,7 +24,7 @@ fund_size: 260450725.08
 holdings_count: 88
 top10_pct_nav: 72.84
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # M-INCOMEAI

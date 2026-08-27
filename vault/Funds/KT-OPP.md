@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 66636951.46
 holdings_count: 40
 top10_pct_nav: 73.36
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KT-OPP

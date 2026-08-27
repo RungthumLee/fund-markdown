@@ -24,7 +24,7 @@ fund_size: 149222085.89
 holdings_count: 18
 top10_pct_nav: 82.3
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-DISRUPT

@@ -23,7 +23,7 @@ fund_size: 97931149.85
 master_fund: "VanEck Semiconductor ETF"
 peer_group: "Technology Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/technology/semiconductor, use/thematic]
 ---
 
 # TSEMICON

@@ -25,7 +25,7 @@ holdings_count: 58
 top10_pct_nav: 103.16
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, style/dividend, tax/ssf, geo/us, use/tax-saving, use/income]
 ---
 
 # SCBS&P500FUND

@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 71.23
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย ธีรภาพ จิรศักยกุล", "น.ส. รัมภารัจน์ ยุธานหัส"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # KFLTGOVRMF

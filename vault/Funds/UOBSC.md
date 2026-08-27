@@ -26,7 +26,7 @@ top10_pct_nav: 99.77
 master_fund: "DWS Invest Enh Cmdty Strat LC"
 master_isin: "LU1881477043"
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, policy/alternative, risk/8, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # UOBSC

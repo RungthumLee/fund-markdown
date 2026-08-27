@@ -26,7 +26,7 @@ top10_pct_nav: 98.96
 master_fund: "BGF FinTech D2"
 master_isin: "LU1861217161"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-FINTECH

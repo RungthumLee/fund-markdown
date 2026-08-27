@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.02
 peer_group: "Long Term General Bond"
 fund_managers: ["น.ส. ณัฐยา เตรียมวิทยา", "น.ส. รัมภารัจน์ ยุธานหัส"]
-tags: [fund, sec-data, policy/fixed-income, risk/3, active, foreign-exposure, tax/thai-esg]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # KFGBTHAIESG

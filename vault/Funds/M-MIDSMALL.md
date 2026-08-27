@@ -24,7 +24,7 @@ fund_size: 11043137.01
 holdings_count: 40
 top10_pct_nav: 41.52
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย วิญญู ศรีวิริยานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
 ---
 
 # M-MIDSMALL

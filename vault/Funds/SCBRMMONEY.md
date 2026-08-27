@@ -23,7 +23,7 @@ fund_size: 437265192.8
 holdings_count: 16
 top10_pct_nav: 98.78
 master_fund: "กองทุนเปิดไทยพาณิชย์ ตราสารตลาดเงิน เพื่อการเลี้ยงชีพ"
-tags: [fund, sec-data, policy/fixed-income, risk/1, active, feeder]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t2, struct/feeder, style/active, geo/thailand, use/park-cash]
 ---
 
 # SCBRMMONEY

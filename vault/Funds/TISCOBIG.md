@@ -25,7 +25,7 @@ holdings_count: 22
 top10_pct_nav: 68.95
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ณพัฒน์ศรีวรพงษ์พันธ์", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # TISCOBIG

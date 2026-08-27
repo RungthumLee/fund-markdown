@@ -24,7 +24,7 @@ fund_size: 4234538.28
 holdings_count: 35
 top10_pct_nav: 117.65
 fund_managers: ["น.ส. รัตติกาล พูนวศินมงคล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # SCDF

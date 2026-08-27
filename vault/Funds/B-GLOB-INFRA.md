@@ -26,7 +26,7 @@ top10_pct_nav: 98.2
 master_fund: "FTGF CB Glb Infras Inc P2 USD Acc"
 master_isin: "IE00BMG7PH05"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/infrastructure, use/thematic]
 ---
 
 # B-GLOB-INFRA

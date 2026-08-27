@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 127.41
 master_fund: "Global X Robotics & Artificial Intelligence ETF"
 master_isin: "US37954Y7159"
-tags: [fund, sec-data, policy/equity, risk/6, passive, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, theme/technology/ai-robotics, use/thematic]
 ---
 
 # UBOT

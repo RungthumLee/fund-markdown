@@ -25,7 +25,7 @@ holdings_count: 100
 top10_pct_nav: 55.57
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. เพชรรัตน์ โพธิ์วัฒนะเสถียร", "น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, tax/thai-esg]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, tax/thai-esg, compliance/sri-fund, geo/thailand, use/tax-saving]
 ---
 
 # K-TNZ

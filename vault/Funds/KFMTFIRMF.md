@@ -25,7 +25,7 @@ holdings_count: 82
 top10_pct_nav: 45.03
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. ณัฐยา เตรียมวิทยา", "นาย เอกพจน์ ภู่วิบูลย์พาณิชย์"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # KFMTFIRMF

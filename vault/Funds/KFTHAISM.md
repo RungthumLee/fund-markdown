@@ -25,7 +25,7 @@ holdings_count: 51
 top10_pct_nav: 35.88
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["นาย กวิฬ เหรียญเสาวภาคย์", "นาย ฑลิต โชคทิพย์พัฒนา"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # KFTHAISM

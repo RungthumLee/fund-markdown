@@ -24,7 +24,7 @@ fund_size: 100670004.42
 holdings_count: 7
 top10_pct_nav: 124.63
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/ssf, geo/india, use/tax-saving]
 ---
 
 # ASP-INDIA

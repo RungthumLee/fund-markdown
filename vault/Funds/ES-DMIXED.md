@@ -25,7 +25,7 @@ holdings_count: 86
 top10_pct_nav: 56.54
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # ES-DMIXED

@@ -24,7 +24,7 @@ fund_size: 141393274.99
 holdings_count: 15
 top10_pct_nav: 104.98
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # M-META

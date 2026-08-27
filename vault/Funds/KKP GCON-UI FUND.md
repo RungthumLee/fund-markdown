@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 4166730301.69
 holdings_count: 26
 top10_pct_nav: 97.1
-tags: [fund, sec-data, policy/other, risk/8+, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate, audience/restricted]
 ---
 
 # KKP GCON-UI FUND

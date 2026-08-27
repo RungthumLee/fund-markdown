@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 61.66
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "นาย นราธรจารุกุลวนิช"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # TThai70ESGX

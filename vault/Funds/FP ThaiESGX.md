@@ -25,7 +25,7 @@ holdings_count: 42
 top10_pct_nav: 48.35
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # FP ThaiESGX

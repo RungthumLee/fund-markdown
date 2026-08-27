@@ -24,7 +24,7 @@ fund_size: 358583592.76
 holdings_count: 71
 top10_pct_nav: 55.83
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
 ---
 
 # KF70-THAIESGX

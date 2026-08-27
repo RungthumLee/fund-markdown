@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 630394286.69
 holdings_count: 48
 top10_pct_nav: 74.09
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP CorePath Ultra Light FUND

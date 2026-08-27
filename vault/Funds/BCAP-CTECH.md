@@ -24,7 +24,7 @@ fund_size: 2835029614.11
 holdings_count: 15
 top10_pct_nav: 101.31
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, geo/china, theme/technology, use/thematic]
 ---
 
 # BCAP-CTECH

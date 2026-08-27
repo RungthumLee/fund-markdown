@@ -24,7 +24,7 @@ fund_size: 61605465.16
 holdings_count: 23
 top10_pct_nav: 74.67
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, policy/mixed, risk/8, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, theme/real-estate, use/thematic]
 ---
 
 # ASP-PROPIN

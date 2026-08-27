@@ -24,7 +24,7 @@ fund_size: 16184347.23
 holdings_count: 5
 top10_pct_nav: 147.26
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ภัทรพล โสภณศิรินันท์"]
-tags: [fund, sec-data, policy/equity, risk/8+, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # ASP-INDO-UI

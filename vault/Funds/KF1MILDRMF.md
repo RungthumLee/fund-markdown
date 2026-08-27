@@ -26,7 +26,7 @@ top10_pct_nav: 99.76
 master_fund: "กองทุนเปิดกรุงศรี The One Mild เพื่อการเลี้ยงชีพ"
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KF1MILDRMF

@@ -25,7 +25,7 @@ top10_pct_nav: 100.44
 master_fund: "CHINAAMC Hang Seng Biotech ETF"
 master_isin: "HK0000711199"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, geo/china, theme/healthcare, use/thematic]
 ---
 
 # DAOL-CHINABIO

@@ -25,7 +25,7 @@ top10_pct_nav: 103.37
 master_fund: "VistaShares Artificial Intelligence Supercycle ETF"
 master_isin: "US45259A8457"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล  ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
 ---
 
 # DAOL-SUPERAI

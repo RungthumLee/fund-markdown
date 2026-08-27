@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 68.06
 peer_group: "Fund of Property fund - Thai and Foreign"
 fund_managers: ["น.ส. ดาราวรรณ ประกายทิพย์", "น.ส. กมลวรรณ ชัยรักษ์วัฒนา"]
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
 ---
 
 # ES-PIPFRMF

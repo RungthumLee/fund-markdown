@@ -26,7 +26,7 @@ top10_pct_nav: 101.39
 master_fund: "Allianz Global Investors Fund - Allianz Europe Equity Growth"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/europe, use/tax-saving]
 ---
 
 # K-EURMF

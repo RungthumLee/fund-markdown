@@ -24,7 +24,7 @@ fund_size: 11117514.69
 holdings_count: 43
 top10_pct_nav: 52.31
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # MFX

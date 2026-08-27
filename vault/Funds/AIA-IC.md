@@ -24,7 +24,7 @@ fund_size: 10455015548.84
 holdings_count: 157
 top10_pct_nav: 34.75
 peer_group: "Long Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
 ---
 
 # AIA-IC

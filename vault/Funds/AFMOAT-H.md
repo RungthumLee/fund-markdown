@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 99.75
 master_fund: "VanEck Morningstar Wide Moat ETF"
 master_isin: "US92189F6438"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/us, use/tax-saving]
 ---
 
 # AFMOAT-H

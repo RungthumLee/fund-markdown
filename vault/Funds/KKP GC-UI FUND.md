@@ -24,7 +24,7 @@ fund_size: 1054207737.7
 holdings_count: 9
 top10_pct_nav: 95.91
 master_fund: "Oaktree Global Credit Fund I USD Acc"
-tags: [fund, sec-data, policy/other, risk/8+, active, feeder, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate, audience/restricted]
 ---
 
 # KKP GC-UI FUND

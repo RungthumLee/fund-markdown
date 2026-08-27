@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 155555682.44
 holdings_count: 36
 top10_pct_nav: 73.34
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KTMEE

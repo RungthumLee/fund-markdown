@@ -25,7 +25,7 @@ holdings_count: 10
 top10_pct_nav: 98.28
 master_fund: "AB American Growth I USD"
 master_isin: "LU0079475348"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/us, use/tax-saving, use/income]
 ---
 
 # KT-US

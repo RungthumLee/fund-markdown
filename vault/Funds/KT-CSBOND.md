@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.17
 master_fund: "PIMCO GIS Capital Scs Instl USD Acc"
 master_isin: "IE00B6VH4D24"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-CSBOND

@@ -24,7 +24,7 @@ fund_size: 100147537.19
 holdings_count: 31
 top10_pct_nav: 68.54
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # B-THAICG

@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 23423859.77
 holdings_count: 24
 top10_pct_nav: 66.97
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBSPICY

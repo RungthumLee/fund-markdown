@@ -27,7 +27,7 @@ master_fund: "Templeton Latin America A(acc)SGD"
 master_isin: "LU0320763518"
 peer_group: "Emerging Market"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย พงศ์สัณห์ อนุรัตน์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/us, use/accumulate]
 ---
 
 # KF-LATAM

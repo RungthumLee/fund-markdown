@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1149209249.73
 holdings_count: 54
 top10_pct_nav: 65.7
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
 ---
 
 # PRINCIPAL iPROPRMF

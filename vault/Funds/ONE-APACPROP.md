@@ -24,7 +24,7 @@ fund_size: 8638858.52
 holdings_count: 16
 top10_pct_nav: 102.32
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, geo/asia-pacific, theme/real-estate, use/income, use/thematic]
 ---
 
 # ONE-APACPROP

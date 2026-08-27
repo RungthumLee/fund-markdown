@@ -26,7 +26,7 @@ top10_pct_nav: 109.04
 master_fund: "State Street Bridgewater All Weather ETF"
 master_isin: "US78470P6300"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # MGALL-H

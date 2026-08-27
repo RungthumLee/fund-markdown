@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 102.17
 master_fund: "DWS Invest Global Infras IDH (P)"
 master_isin: "LU1217772315"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/infrastructure, use/thematic]
 ---
 
 # SCBRMGIF

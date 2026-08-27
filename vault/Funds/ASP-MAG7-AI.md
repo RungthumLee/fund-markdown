@@ -24,7 +24,7 @@ fund_size: 108874137.08
 holdings_count: 14
 top10_pct_nav: 119.96
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/6, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, theme/technology/ai-robotics, use/thematic, audience/restricted]
 ---
 
 # ASP-MAG7-AI

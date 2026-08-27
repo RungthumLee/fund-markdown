@@ -24,7 +24,7 @@ fund_size: 505948069.21
 holdings_count: 30
 top10_pct_nav: 71.91
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t1, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # X-Plus

@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 1161569873.28
 holdings_count: 56
 top10_pct_nav: 92.82
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BYOU-COREPORT

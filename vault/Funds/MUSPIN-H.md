@@ -26,7 +26,7 @@ top10_pct_nav: 99.8
 master_fund: "JPM US Equity Premium Income Active UCITS ETF USD Dist"
 master_isin: "IE000U5MJOZ6"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/us, use/accumulate]
 ---
 
 # MUSPIN-H

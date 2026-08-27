@@ -26,7 +26,7 @@ top10_pct_nav: 100.34
 master_fund: "UBS (Lux) ES All China (USD) I A1 acc"
 master_isin: "LU1867708205"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/rmf, geo/china, use/tax-saving]
 ---
 
 # UCHINARMF

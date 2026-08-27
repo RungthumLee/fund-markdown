@@ -24,7 +24,7 @@ fund_size: 1834981437.26
 holdings_count: 101
 top10_pct_nav: 54.97
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/total-market, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
 ---
 
 # BSET100

@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 101.84
 master_fund: "GMO Quality Investment USD Acc"
 master_isin: "IE00B3SBSR82"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # DAOL-GLOBALEQRMF

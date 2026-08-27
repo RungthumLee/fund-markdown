@@ -25,7 +25,7 @@ holdings_count: 44
 top10_pct_nav: 102.44
 master_fund: "BNP Clean Energy SolutionsI C"
 master_isin: "LU0823414809"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/sustainability, use/thematic]
 ---
 
 # SCBRMCLEAN

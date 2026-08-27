@@ -23,7 +23,7 @@ fund_size: 49655957.87
 holdings_count: 23
 top10_pct_nav: 155.64
 master_fund: "Tema Oncology ETF"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, theme/healthcare, use/thematic]
 ---
 
 # LHLONGEVITY

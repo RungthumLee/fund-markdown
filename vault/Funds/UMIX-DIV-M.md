@@ -23,7 +23,7 @@ fund_size: 233497673.61
 holdings_count: 41
 top10_pct_nav: 67.31
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # UMIX-DIV-M

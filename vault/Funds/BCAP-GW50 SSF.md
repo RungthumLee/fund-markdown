@@ -24,7 +24,7 @@ fund_size: 39935368.32
 holdings_count: 17
 top10_pct_nav: 93.07
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # BCAP-GW50 SSF

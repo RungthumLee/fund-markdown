@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 229610735.28
 holdings_count: 33
 top10_pct_nav: 78.05
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KTMUNG

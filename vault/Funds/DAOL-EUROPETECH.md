@@ -21,7 +21,7 @@ nav: 9.9591
 nav_date: "2026-08-25"
 fund_size: 32002156.96
 master_fund: "iShares MSCI Europe Information Technology Sector UCITS ETF"
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/discretionary, struct/feeder, style/passive, geo/europe, theme/technology, use/thematic]
 ---
 
 # DAOL-EUROPETECH

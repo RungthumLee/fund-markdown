@@ -21,7 +21,7 @@ nav: 9.9783
 nav_date: "2026-08-25"
 fund_size: 58229877.84
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/unhedged, struct/direct, use/accumulate]
 ---
 
 # TOP11USA

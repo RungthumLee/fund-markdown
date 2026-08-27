@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 96.23
 peer_group: "Short Term Government Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, policy/fixed-income, risk/3, passive]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/park-cash]
 ---
 
 # TBOND1Y

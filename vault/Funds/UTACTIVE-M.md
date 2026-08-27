@@ -24,7 +24,7 @@ fund_size: 31778.34
 holdings_count: 40
 top10_pct_nav: 57.13
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # UTACTIVE-M

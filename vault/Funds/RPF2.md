@@ -24,7 +24,7 @@ fund_size: 146987974.85
 holdings_count: 57
 top10_pct_nav: 60.92
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # RPF2

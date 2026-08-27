@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 787884958.82
 holdings_count: 47
 top10_pct_nav: 51.37
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/thai-esg]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # UTSEQ

@@ -25,7 +25,7 @@ holdings_count: 67
 top10_pct_nav: 51.31
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # TINC

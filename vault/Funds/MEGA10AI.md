@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 436071398.36
 holdings_count: 12
 top10_pct_nav: 96.51
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, fx/unhedged, struct/direct, tax/ssf, theme/technology/ai-robotics, use/tax-saving, use/thematic]
 ---
 
 # MEGA10AI

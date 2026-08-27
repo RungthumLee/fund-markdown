@@ -26,7 +26,7 @@ top10_pct_nav: 99.94
 master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/alternative, risk/8, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, theme/energy, use/thematic]
 ---
 
 # ASP-OIL

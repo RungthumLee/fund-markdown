@@ -26,7 +26,7 @@ top10_pct_nav: 104.43
 master_fund: "JPMorgan Investment Funds - Global Income Fund"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # K-GINCOME

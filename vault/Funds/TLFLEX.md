@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 43870508.89
 holdings_count: 15
 top10_pct_nav: 87.41
-tags: [fund, sec-data, policy/mixed, risk/6, active]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # TLFLEX

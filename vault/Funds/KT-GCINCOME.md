@@ -24,7 +24,7 @@ holdings_count: 9
 top10_pct_nav: 96.82
 master_fund: "Schroder ISF Glb Crdt Inc C Dis USD M"
 master_isin: "LU1514167219"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
 ---
 
 # KT-GCINCOME

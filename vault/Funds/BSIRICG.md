@@ -24,7 +24,7 @@ fund_size: 2564862261.49
 holdings_count: 27
 top10_pct_nav: 77.11
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # BSIRICG

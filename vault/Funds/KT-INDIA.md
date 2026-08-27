@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 96.66
 master_fund: "Invesco Funds - Invesco India Equity Fund"
 master_isin: "LU0267983889"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/india, use/tax-saving]
 ---
 
 # KT-INDIA

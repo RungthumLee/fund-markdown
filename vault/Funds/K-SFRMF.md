@@ -25,7 +25,7 @@ holdings_count: 90
 top10_pct_nav: 28.93
 peer_group: "Short Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # K-SFRMF

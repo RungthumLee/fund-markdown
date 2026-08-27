@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 107.4
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/passive, geo/asia-pacific, use/accumulate]
 ---
 
 # TISCONA

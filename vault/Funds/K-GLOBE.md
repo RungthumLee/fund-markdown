@@ -25,7 +25,7 @@ holdings_count: 21
 top10_pct_nav: 100.95
 peer_group: "Global Equity"
 fund_managers: ["นาย พิศิษฏ์ ไชยพร"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, geo/world, use/income]
 ---
 
 # K-GLOBE

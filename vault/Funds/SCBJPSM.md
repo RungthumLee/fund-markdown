@@ -25,7 +25,7 @@ holdings_count: 47
 top10_pct_nav: 110.31
 master_fund: "Nomura Japan Small Cap Equity I JPY Acc"
 master_isin: "IE00BJCW7C72"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/japan, use/accumulate]
 ---
 
 # SCBJPSM

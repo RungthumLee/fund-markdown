@@ -24,7 +24,7 @@ fund_size: 2495335.43
 holdings_count: 38
 top10_pct_nav: 76.01
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย ธนกร ทองมาก"]
-tags: [fund, sec-data, policy/mixed, risk/8, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
 ---
 
 # DAOL-XPROP

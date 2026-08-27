@@ -26,7 +26,7 @@ top10_pct_nav: 104.97
 master_fund: "First Eagle Amundi International IU2-C"
 master_isin: "LU0433182259"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # M-VI

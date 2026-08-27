@@ -24,7 +24,7 @@ holdings_count: 11
 top10_pct_nav: 101.82
 master_fund: "Fidelity Funds - Global Financial Services Fund"
 master_isin: "LU0114722498"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, theme/financials, use/tax-saving, use/thematic]
 ---
 
 # KT-FINANCE

@@ -24,7 +24,7 @@ fund_size: 3585641340.83
 holdings_count: 55
 top10_pct_nav: 58.31
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, theme/sustainability, use/thematic]
 ---
 
 # BM70-TESGX

@@ -25,7 +25,7 @@ holdings_count: 49
 top10_pct_nav: 39.28
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["น.ส. นันทรา ลายจุด", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # ES-SMCAP

@@ -24,7 +24,7 @@ fund_size: 493556960.49
 holdings_count: 29
 top10_pct_nav: 92.54
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-FUTURERMF

@@ -24,7 +24,7 @@ fund_size: 13582250.89
 holdings_count: 27
 top10_pct_nav: 58.45
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, geo/asia-pacific, use/income]
 ---
 
 # MDIVA

@@ -24,7 +24,7 @@ fund_size: 31604934.59
 holdings_count: 20
 top10_pct_nav: 66.67
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ภัทรพล โสภณศิรินันท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
 ---
 
 # ASP-DEQ ThaiESGX

@@ -24,7 +24,7 @@ fund_size: 6012069537.78
 holdings_count: 42
 top10_pct_nav: 104.63
 peer_group: "US Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, theme/technology/ai-robotics, use/thematic]
 ---
 
 # AIA-US500

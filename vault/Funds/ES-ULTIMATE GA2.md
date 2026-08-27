@@ -25,7 +25,7 @@ holdings_count: 27
 top10_pct_nav: 104.61
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, geo/world, use/accumulate]
 ---
 
 # ES-ULTIMATE GA2

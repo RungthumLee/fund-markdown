@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 53587453.92
 holdings_count: 3
 top10_pct_nav: 100.13
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/unhedged, struct/direct, use/accumulate]
 ---
 
 # SCBRAA

@@ -25,7 +25,7 @@ holdings_count: 93
 top10_pct_nav: 54.72
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-STSD

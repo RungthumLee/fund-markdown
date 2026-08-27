@@ -24,7 +24,7 @@ fund_size: 315804224.93
 holdings_count: 34
 top10_pct_nav: 65.98
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BKIND

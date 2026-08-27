@@ -26,7 +26,7 @@ top10_pct_nav: 100.19
 master_fund: "KraneShares MSCI China Clean Technology ETF"
 master_isin: "US5007678502"
 peer_group: "Global Equity - Alternative Energy"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, geo/china, theme/energy, use/thematic]
 ---
 
 # P-CGREEN

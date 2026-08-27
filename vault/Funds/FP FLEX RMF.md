@@ -25,7 +25,7 @@ holdings_count: 46
 top10_pct_nav: 56.33
 peer_group: "Moderate Allocation"
 fund_managers: ["นาง สาวชนัยกานต์ สวัสดิฤกษ์", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # FP FLEX RMF

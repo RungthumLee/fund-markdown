@@ -26,7 +26,7 @@ top10_pct_nav: 103.38
 master_fund: "Franklin Templeton Investment Funds SICAV - Templeton Asian Smaller Companies Fund"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/asia-pacific, use/income]
 ---
 
 # K-ASIA

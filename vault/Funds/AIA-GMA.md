@@ -25,7 +25,7 @@ holdings_count: 56
 top10_pct_nav: 104.59
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
 ---
 
 # AIA-GMA

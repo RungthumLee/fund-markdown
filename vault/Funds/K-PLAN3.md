@@ -25,7 +25,7 @@ holdings_count: 81
 top10_pct_nav: 44.87
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย นราธิป พฤทธิ์ธโนปจัย", "นาย ธิติวุฒิ ตั้งพิกุลทอง"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-PLAN3

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 5192555978.59
 holdings_count: 24
 top10_pct_nav: 82.85
-tags: [fund, sec-data, policy/fixed-income, risk/1, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
 ---
 
 # SCBTMF

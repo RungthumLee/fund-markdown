@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 113696287.16
 master_fund: "Roundhill Memory ETF"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/active, theme/technology/semiconductor, use/thematic, audience/restricted]
 ---
 
 # ASP-MEM

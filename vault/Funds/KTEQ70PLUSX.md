@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 370215903.58
 holdings_count: 64
 top10_pct_nav: 53.9
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
 ---
 
 # KTEQ70PLUSX

@@ -24,7 +24,7 @@ fund_size: 527390806.12
 holdings_count: 15
 top10_pct_nav: 101.63
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/china, use/tax-saving]
 ---
 
 # ONE-ALLCHINA

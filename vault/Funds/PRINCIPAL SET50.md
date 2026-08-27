@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 215140356.25
 holdings_count: 51
 top10_pct_nav: 64.71
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, geo/thailand, use/accumulate]
 ---
 
 # PRINCIPAL SET50

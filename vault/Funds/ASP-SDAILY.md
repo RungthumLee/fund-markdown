@@ -24,7 +24,7 @@ fund_size: 3615165445.41
 holdings_count: 38
 top10_pct_nav: 52.2
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-SDAILY

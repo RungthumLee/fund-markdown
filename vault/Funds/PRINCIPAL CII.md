@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 100.24
 master_fund: "Principal China-India-Indonesia Opportunities Fund"
 master_isin: "MYU1000DK000"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, geo/india, use/accumulate]
 ---
 
 # PRINCIPAL CII

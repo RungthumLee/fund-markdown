@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 103.6
 master_fund: "Schroder ISF Glbl Sust Gr C Acc USD"
 master_isin: "LU0557290854"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # PRINCIPAL GESG

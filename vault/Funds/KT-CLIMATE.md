@@ -25,7 +25,7 @@ holdings_count: 8
 top10_pct_nav: 98.71
 master_fund: "Schroder ISF Glb Clmt Chg Eq C Acc USD"
 master_isin: "LU0302446132"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # KT-CLIMATE

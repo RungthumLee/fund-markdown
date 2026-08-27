@@ -24,7 +24,7 @@ fund_size: 129187815.14
 holdings_count: 8
 top10_pct_nav: 100.11
 master_fund: "BGF Global Multi-Asset Inc A5G"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # KKP INCOME-H FUND

@@ -26,7 +26,7 @@ master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
 peer_group: "Commodities Energy"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, theme/energy, use/thematic]
 ---
 
 # TISCOOIL

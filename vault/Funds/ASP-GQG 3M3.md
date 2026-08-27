@@ -21,7 +21,7 @@ nav: 8.3647
 nav_date: "2026-08-25"
 fund_size: 134716650.11
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/direct, geo/world, use/accumulate]
 ---
 
 # ASP-GQG 3M3

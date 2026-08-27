@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 2810936479.15
 holdings_count: 16
 top10_pct_nav: 89.2
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # TLA-GEQ

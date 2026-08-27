@@ -25,7 +25,7 @@ holdings_count: 133
 top10_pct_nav: 63.83
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. นันทรา ลายจุด"]
-tags: [fund, sec-data, policy/mixed, risk/5, tax/thai-esg]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/dividend, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/income, use/thematic]
 ---
 
 # ES-ESG3070

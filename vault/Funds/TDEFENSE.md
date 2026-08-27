@@ -26,7 +26,7 @@ master_fund: "iShares U.S. Aerospace & Defense ETF"
 master_isin: "US4642887602"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
 ---
 
 # TDEFENSE

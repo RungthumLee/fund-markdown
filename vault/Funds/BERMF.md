@@ -24,7 +24,7 @@ fund_size: 9306103007.84
 holdings_count: 43
 top10_pct_nav: 67.36
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # BERMF

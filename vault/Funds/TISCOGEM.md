@@ -27,7 +27,7 @@ master_fund: "Vanguard FTSE Emerging Markets Index Fund ETF Shares"
 master_isin: "US9220428588"
 peer_group: "Emerging Market"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/emerging-markets, use/accumulate]
 ---
 
 # TISCOGEM

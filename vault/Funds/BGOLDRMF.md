@@ -26,7 +26,7 @@ top10_pct_nav: 98.6
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 peer_group: "Commodities Precious Metals"
-tags: [fund, sec-data, policy/alternative, risk/8, passive, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
 ---
 
 # BGOLDRMF

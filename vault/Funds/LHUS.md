@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 19410711.31
 holdings_count: 13
 top10_pct_nav: 103.78
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/us, use/tax-saving]
 ---
 
 # LHUS

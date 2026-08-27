@@ -25,7 +25,7 @@ holdings_count: 56
 top10_pct_nav: 102.87
 master_fund: "Wellington Glbl Impact Bond USD S Ac"
 master_isin: "IE00BH3Q9069"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # SCBGLOBFUND

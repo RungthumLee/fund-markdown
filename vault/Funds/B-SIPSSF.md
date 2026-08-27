@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 98.47
 master_fund: "กองทุนเปิดบัวหลวงยั่งยืน"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, theme/sustainability, use/thematic]
 ---
 
 # B-SIPSSF

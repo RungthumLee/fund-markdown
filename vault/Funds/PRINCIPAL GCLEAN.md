@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 105.63
 master_fund: "VanEck Uranium and Nuclear ETF"
 master_isin: "US92189F6016"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/sustainability, use/thematic]
 ---
 
 # PRINCIPAL GCLEAN

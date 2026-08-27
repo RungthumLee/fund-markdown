@@ -26,7 +26,7 @@ top10_pct_nav: 104.23
 master_fund: "LO Funds Planetary Transition Sd USD MD"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-PLANETRMF

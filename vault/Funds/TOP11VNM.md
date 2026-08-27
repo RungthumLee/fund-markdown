@@ -23,7 +23,7 @@ fund_size: 195208911.31
 holdings_count: 13
 top10_pct_nav: 85.75
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, conc/ultra-concentrated, fx/unhedged, struct/direct, geo/vietnam, use/accumulate]
 ---
 
 # TOP11VNM

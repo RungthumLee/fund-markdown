@@ -25,7 +25,7 @@ holdings_count: 115
 top10_pct_nav: 47.57
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "น.ส. นันทรา ลายจุด"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, tax/thai-esg]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, tax/thai-esg, compliance/sri-fund, geo/thailand, use/tax-saving]
 ---
 
 # ES-SETESG

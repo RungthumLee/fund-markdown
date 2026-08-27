@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 92.75
 master_fund: "Neuberger US RE Scs USD I Acc"
 master_isin: "IE00B0T0GP78"
-tags: [fund, sec-data, policy/alternative, risk/8, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, fx/partially-hedged, struct/feeder, style/active, geo/us, theme/real-estate, use/thematic]
 ---
 
 # DAOL-USREIT

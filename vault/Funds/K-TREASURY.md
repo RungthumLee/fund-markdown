@@ -25,7 +25,7 @@ holdings_count: 35
 top10_pct_nav: 62.21
 peer_group: "Short Term Government Bond"
 fund_managers: ["น.ส. อัมไพวรรณ เมลืองนนท์"]
-tags: [fund, sec-data, policy/fixed-income, risk/3, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
 ---
 
 # K-TREASURY

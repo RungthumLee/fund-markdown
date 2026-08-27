@@ -26,7 +26,7 @@ top10_pct_nav: 100.12
 master_fund: "AXAIMFIIS US Short Dur HY A Cap USD"
 master_isin: "LU0188167505"
 peer_group: "High Yield Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # USDHY

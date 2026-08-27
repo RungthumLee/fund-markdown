@@ -25,7 +25,7 @@ holdings_count: 64
 top10_pct_nav: 53.47
 peer_group: "Equity General"
 fund_managers: ["นาย ศตนนท์ ทัน"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-BIGCAPEQ

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 4528417795.51
 holdings_count: 72
 top10_pct_nav: 42.57
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KTFIXPLUS

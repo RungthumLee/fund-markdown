@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.48
 peer_group: "Vietnam Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, use/accumulate]
 ---
 
 # TVIETNAM

@@ -27,7 +27,7 @@ master_fund: "Invesco WilderHill Clean Energy ETF"
 master_isin: "US46137V1347"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, theme/energy, use/thematic]
 ---
 
 # TNEWENGY

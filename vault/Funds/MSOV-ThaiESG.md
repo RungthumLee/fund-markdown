@@ -24,7 +24,7 @@ fund_size: 157404642.38
 holdings_count: 6
 top10_pct_nav: 100.07
 fund_managers: ["นาย พิพัฒน์ นรานันทน์", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/fixed-income, risk/3, active]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t5, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # MSOV-ThaiESG

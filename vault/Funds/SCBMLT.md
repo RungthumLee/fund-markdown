@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 893142.79
 holdings_count: 67
 top10_pct_nav: 58.3
-tags: [fund, sec-data, policy/equity, risk/6, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, tax/ssf, geo/thailand, use/tax-saving]
 ---
 
 # SCBMLT

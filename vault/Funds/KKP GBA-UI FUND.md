@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 12240560150.81
 holdings_count: 41
 top10_pct_nav: 69.88
-tags: [fund, sec-data, policy/other, risk/8+, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate, audience/restricted]
 ---
 
 # KKP GBA-UI FUND

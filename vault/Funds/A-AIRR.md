@@ -25,7 +25,7 @@ top10_pct_nav: 100.88
 master_fund: "First Trust RBA American Industrial RenaissanceTM ETF"
 master_isin: "US33738R7044"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
 ---
 
 # A-AIRR

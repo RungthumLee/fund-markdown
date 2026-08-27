@@ -26,7 +26,7 @@ top10_pct_nav: 96.94
 master_fund: "China Asset Management Co., Ltd.- Chinaamc Csi A500 Index Etf"
 master_isin: "CNE100006NM0"
 peer_group: "China Equity - A Shares"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/china, use/accumulate]
 ---
 
 # B-CNA500P

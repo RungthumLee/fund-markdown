@@ -26,7 +26,7 @@ top10_pct_nav: 100.69
 master_fund: "State Street SPDR S&P 500 ETF Trust"
 master_isin: "US78462F1030"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, geo/us, use/tax-saving]
 ---
 
 # ASP-S&P500

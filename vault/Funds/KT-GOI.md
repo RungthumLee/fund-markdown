@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 100.85
 master_fund: "AXAWF Global Optimal Income F Cap EUR"
 master_isin: "LU0465917473"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # KT-GOI

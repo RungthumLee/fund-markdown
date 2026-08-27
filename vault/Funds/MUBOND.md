@@ -26,7 +26,7 @@ top10_pct_nav: 104.32
 master_fund: "JPM US Aggregate Bond I acc USD"
 master_isin: "LU0248063595"
 fund_managers: ["นาง พัณณรัชต์ บรรพโต", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/us, use/tax-saving]
 ---
 
 # MUBOND

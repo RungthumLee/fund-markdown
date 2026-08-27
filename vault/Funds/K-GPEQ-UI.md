@@ -26,7 +26,7 @@ top10_pct_nav: 100.92
 master_fund: "EQT Nexus ENXF A EUR-Z"
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, geo/world, use/accumulate, audience/restricted]
 ---
 
 # K-GPEQ-UI

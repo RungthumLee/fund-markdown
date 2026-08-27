@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 104.89
 master_fund: "Signature Dynamic Income and Growth Fund"
 master_isin: "MYU0100B1663"
-tags: [fund, sec-data, policy/mixed, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # SIGNATURE GINGRO

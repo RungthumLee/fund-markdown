@@ -25,7 +25,7 @@ holdings_count: 52
 top10_pct_nav: 47.53
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "นาย ชัชพล ตรีวิภานนท์"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
 ---
 
 # RKBC

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2526988060.66
 holdings_count: 137
 top10_pct_nav: 30.9
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # KKP INRMF FUND

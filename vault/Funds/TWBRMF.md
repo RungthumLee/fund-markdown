@@ -24,7 +24,7 @@ holdings_count: 26
 top10_pct_nav: 67.63
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ศรสวรรค์เติมวุฒิกุล", "นาย นิพจน์ไกรลาศโอฬาร"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # TWBRMF

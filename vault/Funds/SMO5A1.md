@@ -24,7 +24,7 @@ fund_size: 33993108.6
 holdings_count: 49
 top10_pct_nav: 89.96
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย ประวีร์ อัจจิมากุล"]
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SMO5A1

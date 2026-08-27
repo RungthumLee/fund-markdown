@@ -24,7 +24,7 @@ fund_size: 121255298.81
 holdings_count: 7
 top10_pct_nav: 100.04
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, fx/discretionary, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
 
 # DAOL-BOND6M3

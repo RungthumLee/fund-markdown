@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 125293690.9
 master_fund: "JPM Nasdaq Equity Premium Income Active UCITS ETF USD Dist"
 fund_managers: ["นาย วิจักขณ์ ณ เชียงใหม่", "น.ส. นรินทรา ติณรัตน์สกุลชัย"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, geo/us, use/accumulate]
 ---
 
 # SCBNDQPINUH

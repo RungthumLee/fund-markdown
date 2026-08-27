@@ -25,7 +25,7 @@ holdings_count: 90
 top10_pct_nav: 105.29
 master_fund: "Lazard Emerging Markets Eq S Acc USD"
 master_isin: "IE00B94NQ323"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/emerging-markets, theme/sustainability, use/thematic]
 ---
 
 # SCBEMEQFUND

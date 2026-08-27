@@ -25,7 +25,7 @@ holdings_count: 43
 top10_pct_nav: 47.9
 peer_group: "Equity General"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/thai-esg]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # FP ThaiESG

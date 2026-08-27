@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 29107125.52
 holdings_count: 5
 top10_pct_nav: 101.67
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, theme/metals-mining/gold, use/thematic]
 ---
 
 # TLGOLDPLUS

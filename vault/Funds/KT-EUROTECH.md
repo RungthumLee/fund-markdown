@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 101.66
 master_fund: "JPM Europe Dynamic Techs I acc EUR"
 master_isin: "LU0248050006"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/europe, theme/technology, use/tax-saving, use/income, use/thematic]
 ---
 
 # KT-EUROTECH

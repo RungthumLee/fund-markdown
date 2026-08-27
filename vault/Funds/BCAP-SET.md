@@ -24,7 +24,7 @@ fund_size: 468286030.44
 holdings_count: 172
 top10_pct_nav: 49.94
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/total-market, struct/direct, style/passive, geo/thailand, use/accumulate]
 ---
 
 # BCAP-SET

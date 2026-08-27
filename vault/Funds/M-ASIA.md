@@ -26,7 +26,7 @@ top10_pct_nav: 106.12
 master_fund: "Fullerton Lux Asia Abs Alpha A USD Cap"
 master_isin: "LU0979878070"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/asia-pacific, use/accumulate]
 ---
 
 # M-ASIA

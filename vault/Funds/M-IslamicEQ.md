@@ -24,7 +24,7 @@ fund_size: 58632174.39
 holdings_count: 36
 top10_pct_nav: 83.67
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย รุ่งโรจน์ นิลนพคุณ", "นาย อรวิทย์ บุญชม"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, compliance/sharia, geo/thailand, use/tax-saving]
 ---
 
 # M-IslamicEQ

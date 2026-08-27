@@ -25,7 +25,7 @@ holdings_count: 72
 top10_pct_nav: 58.04
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
 ---
 
 # KFENSET50

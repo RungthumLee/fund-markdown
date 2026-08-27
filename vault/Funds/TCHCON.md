@@ -27,7 +27,7 @@ master_fund: "Global X MSCI China Consumer Discretionary ETF"
 master_isin: "US37950E4089"
 peer_group: "Global Equity - Consumer Goods and Services"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/china, theme/consumer, use/thematic]
 ---
 
 # TCHCON

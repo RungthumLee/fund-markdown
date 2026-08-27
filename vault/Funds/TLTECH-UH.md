@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.03
 master_fund: "iShares Expanded Tech Sector ETF"
 master_isin: "US4642875490"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, theme/technology, use/thematic]
 ---
 
 # TLTECH-UH

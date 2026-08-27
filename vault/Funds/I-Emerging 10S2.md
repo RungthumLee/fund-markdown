@@ -24,7 +24,7 @@ fund_size: 21611101.26
 holdings_count: 14
 top10_pct_nav: 103.01
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/emerging-markets, use/accumulate]
 ---
 
 # I-Emerging 10S2

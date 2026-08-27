@@ -26,7 +26,7 @@ top10_pct_nav: 100.23
 master_fund: "MS INVF US Core Equity Z"
 master_isin: "LU1439782225"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/us, use/accumulate]
 ---
 
 # M-USEQUH

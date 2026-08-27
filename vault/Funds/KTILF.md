@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 833919174.55
 holdings_count: 4
 top10_pct_nav: 104.64
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/discretionary, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # KTILF

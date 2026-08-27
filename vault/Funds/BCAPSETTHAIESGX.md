@@ -24,7 +24,7 @@ fund_size: 77346148.51
 holdings_count: 122
 top10_pct_nav: 46.56
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # BCAPSETTHAIESGX

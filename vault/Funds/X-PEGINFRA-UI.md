@@ -26,7 +26,7 @@ top10_pct_nav: 100.12
 master_fund: "Macquarie Infrastructure Fund"
 peer_group: "Miscellaneous"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, geo/world, theme/infrastructure, use/thematic, audience/restricted]
 ---
 
 # X-PEGINFRA-UI

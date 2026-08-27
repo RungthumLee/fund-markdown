@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 3231803852.31
 holdings_count: 29
 top10_pct_nav: 92.0
-tags: [fund, sec-data, policy/other, risk/8+, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t6, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate, audience/restricted]
 ---
 
 # KKP GENH-UI FUND

@@ -24,7 +24,7 @@ holdings_count: 23
 top10_pct_nav: 115.22
 master_fund: "Fidelity Japan Value Y-Acc-JPY"
 master_isin: "LU0370789561"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/japan, use/tax-saving]
 ---
 
 # KT-JAPANALL

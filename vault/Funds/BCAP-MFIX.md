@@ -24,7 +24,7 @@ fund_size: 3863418033.05
 holdings_count: 75
 top10_pct_nav: 41.29
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # BCAP-MFIX

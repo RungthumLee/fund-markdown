@@ -24,7 +24,7 @@ fund_size: 4974763871.64
 holdings_count: 4
 top10_pct_nav: 100.14
 master_fund: "Vietnam Long-term Growth Fund"
-tags: [fund, sec-data, policy/equity, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, geo/vietnam, use/accumulate, audience/restricted]
 ---
 
 # KKP VGF-UI FUND

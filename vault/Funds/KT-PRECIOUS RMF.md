@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 101.14
 master_fund: "Franklin Gold and Precious Metals Fund I(acc)USD"
 master_isin: "LU0496368654"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/world, theme/metals-mining/gold, use/tax-saving, use/thematic]
 ---
 
 # KT-PRECIOUS RMF

@@ -24,7 +24,7 @@ fund_size: 263987212.85
 holdings_count: 13
 top10_pct_nav: 102.07
 master_fund: "Lazard Global Thematic Focus A Acc USD"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # KKP G-THEME-H FUND

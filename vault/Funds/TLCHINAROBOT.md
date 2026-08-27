@@ -24,7 +24,7 @@ holdings_count: 2
 top10_pct_nav: 100.38
 master_fund: "China Asset Management Co Ltd. - Robot ETF"
 master_isin: "CNE100004WL8"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/china, theme/technology/ai-robotics, use/thematic]
 ---
 
 # TLCHINAROBOT

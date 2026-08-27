@@ -24,7 +24,7 @@ holdings_count: 4
 top10_pct_nav: 198.61
 master_fund: "VFMVN30 ETF"
 master_isin: "VN0E1VFVN306"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, geo/vietnam, use/accumulate]
 ---
 
 # PRINCIPAL VNEI

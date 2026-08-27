@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 100.3
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # tsp1-preserver

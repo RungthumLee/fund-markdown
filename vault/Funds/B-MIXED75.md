@@ -24,7 +24,7 @@ fund_size: 7614571359.07
 holdings_count: 79
 top10_pct_nav: 51.45
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # B-MIXED75

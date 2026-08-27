@@ -27,7 +27,7 @@ master_fund: "Eastspring Inv Global Technology C"
 master_isin: "LU2927567557"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # ES-TECHRMF

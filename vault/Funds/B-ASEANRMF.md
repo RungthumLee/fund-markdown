@@ -24,7 +24,7 @@ fund_size: 895919381.83
 holdings_count: 33
 top10_pct_nav: 61.45
 peer_group: "ASEAN Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-ASEANRMF

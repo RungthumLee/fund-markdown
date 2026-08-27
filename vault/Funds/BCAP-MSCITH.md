@@ -24,7 +24,7 @@ fund_size: 75589230.33
 holdings_count: 19
 top10_pct_nav: 78.28
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/passive, geo/thailand, use/accumulate]
 ---
 
 # BCAP-MSCITH

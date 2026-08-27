@@ -24,7 +24,7 @@ holdings_count: 19
 top10_pct_nav: 101.43
 master_fund: "VanEck Rare Earth and Strategic Metals ETF"
 master_isin: "US92189H8051"
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBRARE

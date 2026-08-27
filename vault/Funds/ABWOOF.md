@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 127.48
 master_fund: "abrdn-Global Sustainable Eqty Z Acc USD"
 master_isin: "LU0278912844"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/sustainability, use/thematic]
 ---
 
 # ABWOOF

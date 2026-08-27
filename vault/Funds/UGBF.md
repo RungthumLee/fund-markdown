@@ -26,7 +26,7 @@ top10_pct_nav: 100.66
 master_fund: "JPMorgan Investment Funds - Global Balanced Fund C (acc) - USD (hedged)"
 master_isin: "LU0957039927"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # UGBF

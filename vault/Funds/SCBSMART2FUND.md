@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 306457945.57
 holdings_count: 38
 top10_pct_nav: 67.9
-tags: [fund, sec-data, policy/mixed, risk/5, passive, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/passive, tax/ssf, geo/thailand, use/tax-saving]
 ---
 
 # SCBSMART2FUND

@@ -24,7 +24,7 @@ fund_size: 470754534.69
 holdings_count: 11
 top10_pct_nav: 106.86
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, theme/healthcare, use/thematic]
 ---
 
 # BCAP-XHEALTH

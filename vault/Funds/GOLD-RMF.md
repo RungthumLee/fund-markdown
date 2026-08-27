@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 100.49
 master_fund: "SPDR Gold Shares"
 fund_managers: ["นาย สันธาน เฮงสกุล"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
 ---
 
 # GOLD-RMF

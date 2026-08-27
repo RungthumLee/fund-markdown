@@ -25,7 +25,7 @@ holdings_count: 29
 top10_pct_nav: 63.73
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "น.ส. ศรสวรรค์เติมวุฒิกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # THDRMF

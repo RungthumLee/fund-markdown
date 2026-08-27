@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.45
 master_fund: "abrdn-Japan Sustainable Eqty Z Acc JPY"
 master_isin: "LU1488356244"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/japan, theme/sustainability, use/thematic]
 ---
 
 # ABJO

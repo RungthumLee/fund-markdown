@@ -24,7 +24,7 @@ fund_size: 42293582440.51
 holdings_count: 44
 top10_pct_nav: 66.01
 fund_managers: ["นาง สาวปริยนุช", "นาง สาวอรุณี", "นาง สาวศิรารัตน์", "นาย ปัญญพัฒน์"]
-tags: [fund, sec-data, policy/fixed-income, risk/1, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
 ---
 
 # B-TREASURY

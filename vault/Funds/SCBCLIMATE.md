@@ -25,7 +25,7 @@ holdings_count: 78
 top10_pct_nav: 104.79
 master_fund: "Templeton Glb Climate Change I(acc)EUR"
 master_isin: "LU0195953749"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # SCBCLIMATE

@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 3372011156.12
 holdings_count: 14
 top10_pct_nav: 98.59
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/japan, use/accumulate]
 ---
 
 # TLFVMR-ASIAX

@@ -25,7 +25,7 @@ holdings_count: 24
 top10_pct_nav: 92.97
 peer_group: "Equity General"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/passive, theme/technology, use/thematic]
 ---
 
 # K-ICT

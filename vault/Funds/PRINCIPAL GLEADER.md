@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 92.83
 master_fund: "Brown Advisory Global Leaders B USD Acc"
 master_isin: "IE00BVVHP563"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # PRINCIPAL GLEADER

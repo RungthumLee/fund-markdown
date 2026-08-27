@@ -24,7 +24,7 @@ fund_size: 629157175.01
 holdings_count: 20
 top10_pct_nav: 102.78
 master_fund: "iShares Expanded Tech Sector ETF"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/rmf, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # KKP TECH RMF-H

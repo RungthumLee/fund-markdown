@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 103.99
 master_fund: "Signature Dynamic Income Fund"
 master_isin: "MYU0100A9261"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t6, fx/discretionary, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # SIGNATURE GINCOME

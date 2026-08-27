@@ -24,7 +24,7 @@ holdings_count: 42
 top10_pct_nav: 53.74
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย พีรภัทร์แสงทองฉาย", "นาย ภัคพลวนวิทย์"]
-tags: [fund, sec-data, policy/mixed, risk/6, active]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # TISCOFLEX

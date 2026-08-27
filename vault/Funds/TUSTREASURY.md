@@ -27,7 +27,7 @@ master_fund: "iShares U.S. Treasury Bond ETF"
 master_isin: "US46429B2676"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/fixed-income, risk/3, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
 ---
 
 # TUSTREASURY

@@ -26,7 +26,7 @@ top10_pct_nav: 99.58
 master_fund: "Apollo Debt Solutions BDC iCapital Offshore Access Fund SPC"
 master_isin: "KYG0R73M2558"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # MPCREDIT-UI

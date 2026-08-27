@@ -24,7 +24,7 @@ fund_size: 474421964.5
 holdings_count: 5
 top10_pct_nav: 99.72
 master_fund: "Neuberger Strategic Income USD I Acc"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP SIB-UH FUND

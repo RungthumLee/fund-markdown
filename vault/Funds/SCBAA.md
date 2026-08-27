@@ -25,7 +25,7 @@ holdings_count: 7
 top10_pct_nav: 100.11
 master_fund: "Invesco Global Income C EUR Acc"
 master_isin: "LU1097689365"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBAA

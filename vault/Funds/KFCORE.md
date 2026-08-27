@@ -27,7 +27,7 @@ master_fund: "BGF ESG Multi-Asset I2 USD H"
 master_isin: "LU2349430145"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # KFCORE

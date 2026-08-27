@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 131.96
 master_fund: "iShares STOXX Europe 600 Banks UCITS ETF (DE)"
 master_isin: "DE000A0F5UJ7"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/europe, theme/financials, use/thematic]
 ---
 
 # M-EUBANK

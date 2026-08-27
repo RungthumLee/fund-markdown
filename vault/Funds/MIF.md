@@ -24,7 +24,7 @@ fund_size: 39402038.11
 holdings_count: 36
 top10_pct_nav: 87.41
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย รุ่งโรจน์ นิลนพคุณ", "นาย อรวิทย์ บุญชม"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, compliance/sharia, geo/thailand, use/accumulate]
 ---
 
 # MIF

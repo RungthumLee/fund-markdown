@@ -23,7 +23,7 @@ fund_size: 29318772.72
 holdings_count: 9
 top10_pct_nav: 100.12
 master_fund: "Hamilton Lane Global Private Assets Fund"
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, use/accumulate, audience/restricted]
 ---
 
 # LHGPAFUI

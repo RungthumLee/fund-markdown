@@ -27,7 +27,7 @@ master_fund: "Invesco Dynamic Leisure and Entertainment ETF"
 master_isin: "US46137V7203"
 peer_group: "Global Equity - Consumer Goods and Services"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-CHILL

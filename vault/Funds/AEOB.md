@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 100.19
 master_fund: "abrdn-Emerging Markets Bond Z Acc USD"
 master_isin: "LU0278912091"
-tags: [fund, sec-data, policy/fixed-income, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/emerging-markets, use/accumulate]
 ---
 
 # AEOB

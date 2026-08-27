@@ -26,7 +26,7 @@ top10_pct_nav: 106.93
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, theme/technology/semiconductor, use/thematic]
 ---
 
 # DAOL-EVOSEMI

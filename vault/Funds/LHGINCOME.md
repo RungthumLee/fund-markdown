@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 41152720.0
 holdings_count: 11
 top10_pct_nav: 101.19
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # LHGINCOME

@@ -25,7 +25,7 @@ holdings_count: 60
 top10_pct_nav: 50.42
 peer_group: "Equity General"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย เอกชัย บุญยะพงศ์ไชย"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
 ---
 
 # KFAEQ-THAIESGX

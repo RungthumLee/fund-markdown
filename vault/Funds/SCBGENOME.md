@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 123916051.79
 holdings_count: 105
 top10_pct_nav: 119.02
-tags: [fund, sec-data, policy/equity, risk/7, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, theme/healthcare, use/tax-saving, use/thematic]
 ---
 
 # SCBGENOME

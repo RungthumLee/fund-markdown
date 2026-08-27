@@ -24,7 +24,7 @@ holdings_count: 48
 top10_pct_nav: 50.29
 peer_group: "Miscellaneous"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/mixed, risk/6]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/focused, struct/direct, compliance/trigger-fund, geo/thailand, use/accumulate]
 ---
 
 # FP TTG6M1

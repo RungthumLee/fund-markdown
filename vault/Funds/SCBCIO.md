@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 12199733578.53
 holdings_count: 28
 top10_pct_nav: 84.84
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBCIO

@@ -24,7 +24,7 @@ fund_size: 145732325.98
 holdings_count: 10
 top10_pct_nav: 100.37
 master_fund: "VanEck Video Gaming and eSports ETF"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/dividend, use/income]
 ---
 
 # LHESPORT

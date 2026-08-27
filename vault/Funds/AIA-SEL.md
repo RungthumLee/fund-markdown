@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 104.43
 master_fund: "AIA Global Select Equity Z USD"
 peer_group: "Global Equity Fully FX Risk Hedge"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
 ---
 
 # AIA-SEL

@@ -24,7 +24,7 @@ fund_size: 13603041477.89
 holdings_count: 115
 top10_pct_nav: 36.54
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # BFRMF

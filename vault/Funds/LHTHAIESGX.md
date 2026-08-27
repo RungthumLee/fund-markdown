@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 48235410.2
 holdings_count: 22
 top10_pct_nav: 72.62
-tags: [fund, sec-data, policy/mixed, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, liquidity/t2, conc/concentrated, fx/unhedged, struct/direct, style/active, theme/sustainability, use/thematic]
 ---
 
 # LHTHAIESGX

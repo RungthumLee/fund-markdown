@@ -23,7 +23,7 @@ fund_size: 1691455253.2
 holdings_count: 48
 top10_pct_nav: 62.11
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # UVALUE-DIV-M

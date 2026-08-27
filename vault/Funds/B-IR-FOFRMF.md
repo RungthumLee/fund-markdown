@@ -24,7 +24,7 @@ fund_size: 338376226.35
 holdings_count: 27
 top10_pct_nav: 65.71
 peer_group: "Fund of Property Fund - Thai and Foreign"
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
 ---
 
 # B-IR-FOFRMF

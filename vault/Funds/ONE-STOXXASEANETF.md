@@ -24,7 +24,7 @@ fund_size: 54859885.23
 holdings_count: 39
 top10_pct_nav: 36.47
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, geo/europe, use/income]
 ---
 
 # ONE-STOXXASEANETF

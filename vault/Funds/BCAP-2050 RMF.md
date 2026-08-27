@@ -24,7 +24,7 @@ fund_size: 105785276.2
 holdings_count: 18
 top10_pct_nav: 92.74
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # BCAP-2050 RMF

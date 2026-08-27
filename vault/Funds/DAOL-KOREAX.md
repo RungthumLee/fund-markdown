@@ -24,7 +24,7 @@ holdings_count: 17
 top10_pct_nav: 112.81
 master_fund: "Xtrackers MSCI Korea UCITS ETF 1C"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, geo/korea, use/accumulate]
 ---
 
 # DAOL-KOREAX

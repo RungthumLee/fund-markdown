@@ -25,7 +25,7 @@ holdings_count: 137
 top10_pct_nav: 104.05
 master_fund: "Amundi Core Stoxx Europe 600 UCITS ETF Acc"
 master_isin: "LU0908500753"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, geo/europe, use/income]
 ---
 
 # SCBEUEQFUND

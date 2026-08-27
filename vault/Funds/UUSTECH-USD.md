@@ -25,7 +25,7 @@ top10_pct_nav: 100.17
 master_fund: "FF - Global Dividend Pl Y Acc USD"
 master_isin: "LU1711970662"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/us, theme/technology, use/thematic]
 ---
 
 # UUSTECH-USD

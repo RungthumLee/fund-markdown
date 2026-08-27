@@ -21,7 +21,7 @@ nav: 9.5343
 nav_date: "2026-08-25"
 fund_size: 26349882.67
 master_fund: "Tortoise AI Infrastructure ETF"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
 ---
 
 # LHAI-INFRA

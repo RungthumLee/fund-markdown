@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 9860686.34
 holdings_count: 101
 top10_pct_nav: 95.82
-tags: [fund, sec-data, policy/equity, risk/6, passive, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/enhanced-index, geo/world, use/accumulate]
 ---
 
 # PRINCIPAL GEF

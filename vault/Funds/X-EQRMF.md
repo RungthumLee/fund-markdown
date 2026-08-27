@@ -25,7 +25,7 @@ holdings_count: 22
 top10_pct_nav: 69.87
 peer_group: "Equity General"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # X-EQRMF

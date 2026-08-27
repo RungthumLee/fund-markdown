@@ -24,7 +24,7 @@ fund_size: 112842403.25
 holdings_count: 27
 top10_pct_nav: 64.22
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
 ---
 
 # ASP-SME-MSSF

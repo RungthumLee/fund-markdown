@@ -24,7 +24,7 @@ fund_size: 11473445159.19
 holdings_count: 68
 top10_pct_nav: 38.97
 peer_group: "Money Market General"
-tags: [fund, sec-data, policy/fixed-income, risk/2, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/fully-hedged, struct/direct, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # MM-RMF

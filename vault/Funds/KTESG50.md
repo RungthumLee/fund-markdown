@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 791064657.19
 holdings_count: 51
 top10_pct_nav: 47.85
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/thai-esg]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, geo/thailand, use/tax-saving, use/income]
 ---
 
 # KTESG50

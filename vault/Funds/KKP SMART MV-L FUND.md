@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 26128.07
 holdings_count: 37
 top10_pct_nav: 50.18
-tags: [fund, sec-data, policy/equity, risk/6]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, geo/thailand, use/accumulate]
 ---
 
 # KKP SMART MV-L FUND

@@ -21,7 +21,7 @@ nav: 9.9697
 nav_date: "2026-08-24"
 fund_size: 1759407358.65
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, policy/mixed, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t6, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # B-WEALTHD

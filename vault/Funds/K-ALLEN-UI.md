@@ -26,7 +26,7 @@ top10_pct_nav: 105.64
 master_fund: "LO Funds IV - All Roads Enhanced USD IA"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, policy/mixed, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t6, fx/partially-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # K-ALLEN-UI

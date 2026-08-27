@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 545038197.91
 holdings_count: 21
 top10_pct_nav: 64.64
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # KKP EQ THAI ESG

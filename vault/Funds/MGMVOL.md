@@ -26,7 +26,7 @@ top10_pct_nav: 101.4
 master_fund: "iShares MSCI Global Min Vol Factor ETF"
 master_isin: "US4642865251"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # MGMVOL

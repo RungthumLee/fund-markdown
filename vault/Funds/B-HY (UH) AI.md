@@ -26,7 +26,7 @@ top10_pct_nav: 98.29
 master_fund: "AXAWF US High Yield Bonds I Cap USD"
 master_isin: "LU0276015889"
 peer_group: "High Yield Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/6, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t4, fx/discretionary, struct/feeder, theme/technology/ai-robotics, use/thematic, audience/restricted]
 ---
 
 # B-HY (UH) AI

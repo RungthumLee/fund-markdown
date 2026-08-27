@@ -25,7 +25,7 @@ holdings_count: 55
 top10_pct_nav: 102.57
 master_fund: "PIMCO GIS GlInGd Crdt Instl USD Acc"
 master_isin: "IE0034085260"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
 ---
 
 # SCBGSIFUND

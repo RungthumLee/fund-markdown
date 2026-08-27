@@ -24,7 +24,7 @@ fund_size: 165294846.66
 holdings_count: 26
 top10_pct_nav: 63.83
 fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย พิพัฒน์ นรานันทน์"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, theme/sustainability, use/income, use/thematic]
 ---
 
 # MT25-ThaiESG

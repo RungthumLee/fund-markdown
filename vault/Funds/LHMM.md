@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1913555965.85
 holdings_count: 47
 top10_pct_nav: 51.34
-tags: [fund, sec-data, policy/fixed-income, risk/2, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # LHMM

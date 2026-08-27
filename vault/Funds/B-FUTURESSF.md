@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 98.94
 master_fund: "กองทุนเปิดบัวหลวงหุ้นเพื่อคนรุ่นใหม่"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/dividend, use/income]
 ---
 
 # B-FUTURESSF

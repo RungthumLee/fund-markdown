@@ -24,7 +24,7 @@ fund_size: 175050321.83
 holdings_count: 17
 top10_pct_nav: 107.86
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/japan, use/tax-saving]
 ---
 
 # ONE-UJE

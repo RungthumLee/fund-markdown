@@ -25,7 +25,7 @@ top10_pct_nav: 228.3
 master_fund: "Global X ETF Series OFC - Global X China Semiconductor ETF"
 master_isin: "HK0000637832"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, geo/china, theme/technology/semiconductor, use/thematic]
 ---
 
 # ASP-CSEMI

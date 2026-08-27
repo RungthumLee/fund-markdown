@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 47375132.63
 holdings_count: 115
 top10_pct_nav: 83.4
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # PRINCIPAL MAGLOBAL

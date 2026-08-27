@@ -24,7 +24,7 @@ fund_size: 43179063.45
 holdings_count: 7
 top10_pct_nav: 98.55
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # UPINCM-M

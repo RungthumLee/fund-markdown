@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 90.29
 peer_group: "Fund of Property fund - Thai"
 fund_managers: ["น.ส. ดาราวรรณ ประกายทิพย์", "น.ส. กมลวรรณ ชัยรักษ์วัฒนา"]
-tags: [fund, sec-data, policy/mixed, risk/8, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
 ---
 
 # ES-PROPINFRAFLEX

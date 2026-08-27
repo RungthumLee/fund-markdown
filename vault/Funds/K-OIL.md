@@ -26,7 +26,7 @@ top10_pct_nav: 109.79
 master_fund: "Invesco DB Oil Fund"
 peer_group: "Commodities Energy"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, theme/energy, use/thematic]
 ---
 
 # K-OIL

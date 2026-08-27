@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 2126649988.06
 holdings_count: 27
 top10_pct_nav: 97.36
-tags: [fund, sec-data, policy/other, risk/8+, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t4, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate, audience/restricted]
 ---
 
 # KKP GGRO-UI FUND

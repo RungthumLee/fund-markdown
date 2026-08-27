@@ -24,7 +24,7 @@ fund_size: 33061697.67
 holdings_count: 63
 top10_pct_nav: 48.56
 fund_managers: ["นาย ศรุต สุทธิสำแดง"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # HIDIVEQ

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2914134397.39
 holdings_count: 37
 top10_pct_nav: 60.26
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # ABSC-RMF

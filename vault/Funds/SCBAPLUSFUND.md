@@ -25,7 +25,7 @@ holdings_count: 89
 top10_pct_nav: 102.74
 master_fund: "JPMorgan Funds - Asia Pacific Income Fund C (mth) USD"
 master_isin: "LU0784639451"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate, audience/restricted]
 ---
 
 # SCBAPLUSFUND

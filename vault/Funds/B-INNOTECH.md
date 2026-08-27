@@ -26,7 +26,7 @@ top10_pct_nav: 98.31
 master_fund: "Fidelity Global Technology Y-Acc-USD"
 master_isin: "LU1560650563"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
 ---
 
 # B-INNOTECH

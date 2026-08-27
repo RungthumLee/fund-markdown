@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 99.97
 peer_group: "Greater China Equity"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/china, use/accumulate]
 ---
 
 # TCHSTARP

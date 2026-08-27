@@ -24,7 +24,7 @@ fund_size: 1930527045.59
 holdings_count: 27
 top10_pct_nav: 102.82
 master_fund: "iShares Semiconductor ETF"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, theme/technology/semiconductor, use/tax-saving, use/thematic]
 ---
 
 # KKP SEMICON-H FUND

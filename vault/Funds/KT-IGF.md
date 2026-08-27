@@ -24,7 +24,7 @@ holdings_count: 7
 top10_pct_nav: 95.35
 master_fund: "Allianz Global Investors Fund - Allianz Income and Growth AM USD"
 master_isin: "LU0820561818"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-IGF

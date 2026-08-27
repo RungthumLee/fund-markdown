@@ -23,7 +23,7 @@ fund_size: 142525183.66
 holdings_count: 19
 top10_pct_nav: 103.56
 master_fund: "Global X Copper Miners ETF"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # LHCOPPER

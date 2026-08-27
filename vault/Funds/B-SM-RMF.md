@@ -24,7 +24,7 @@ fund_size: 799748065.85
 holdings_count: 37
 top10_pct_nav: 42.9
 peer_group: "Equity Small - Mid Cap"
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # B-SM-RMF

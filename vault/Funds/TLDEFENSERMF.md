@@ -24,7 +24,7 @@ holdings_count: 2
 top10_pct_nav: 99.27
 master_fund: "Global X Defense Tech ETF"
 master_isin: "US37960A5294"
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # TLDEFENSERMF

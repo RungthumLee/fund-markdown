@@ -24,7 +24,7 @@ fund_size: 3919759722.95
 holdings_count: 42
 top10_pct_nav: 65.23
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # BEQSSF

@@ -26,7 +26,7 @@ top10_pct_nav: 101.59
 master_fund: "KBI Glb Sust Infras D EUR Acc"
 master_isin: "IE00BJ5JS448"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/sustainability, use/thematic]
 ---
 
 # MINFRA

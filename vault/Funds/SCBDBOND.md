@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 16832448289.45
 holdings_count: 176
 top10_pct_nav: 49.04
-tags: [fund, sec-data, policy/fixed-income, risk/4, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t3, fx/fully-hedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
 # SCBDBOND

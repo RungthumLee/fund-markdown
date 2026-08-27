@@ -24,7 +24,7 @@ fund_size: 2360674813.65
 holdings_count: 104
 top10_pct_nav: 107.32
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/equity, risk/7, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/total-market, fx/unhedged, struct/direct, style/active, theme/technology/semiconductor, use/thematic, audience/restricted]
 ---
 
 # M-MEM

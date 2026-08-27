@@ -26,7 +26,7 @@ top10_pct_nav: 99.81
 master_fund: "BlueBay Emerging Markets Bond Fund (Canada) Series D U$ NL (475711A2)"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/discretionary, struct/feeder, style/active, geo/emerging-markets, use/accumulate]
 ---
 
 # X-EMBOND

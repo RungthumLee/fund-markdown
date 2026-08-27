@@ -21,7 +21,7 @@ nav: 9.5308
 nav_date: "2026-08-24"
 fund_size: 3112555442.93
 master_fund: "Fullgoal China Small-Mid Cap Growth Fund I1 (USD)"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/china, use/accumulate]
 ---
 
 # KKP CNGROWTH-UH

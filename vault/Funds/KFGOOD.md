@@ -25,7 +25,7 @@ holdings_count: 89
 top10_pct_nav: 31.58
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KFGOOD

@@ -24,7 +24,7 @@ fund_size: 23076541.0
 holdings_count: 14
 top10_pct_nav: 100.9
 master_fund: "Wellington Climate Strategy USD N Ac"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # LHGREEN

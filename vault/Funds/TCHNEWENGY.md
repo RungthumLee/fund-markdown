@@ -26,7 +26,7 @@ master_fund: "Global X ETF Series OFC - Global X China Clean Energy ETF"
 master_isin: "HK0000562675"
 peer_group: "Global Equity- Alternative Energy"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, geo/china, theme/energy, use/thematic]
 ---
 
 # TCHNEWENGY

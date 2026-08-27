@@ -25,7 +25,7 @@ holdings_count: 63
 top10_pct_nav: 37.78
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. จริยา พิมลไพบูลย์"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, restricted-investor]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/accumulate, audience/restricted]
 ---
 
 # KACB

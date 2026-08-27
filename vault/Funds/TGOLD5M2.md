@@ -26,7 +26,7 @@ master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 peer_group: "Miscellaneous"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/alternative, risk/8, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, compliance/trigger-fund, theme/metals-mining/gold, use/thematic]
 ---
 
 # TGOLD5M2

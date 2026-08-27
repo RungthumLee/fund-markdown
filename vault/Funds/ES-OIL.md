@@ -26,7 +26,7 @@ top10_pct_nav: 100.53
 master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/energy, use/thematic]
 ---
 
 # ES-OIL

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 105265496.26
 holdings_count: 31
 top10_pct_nav: 65.12
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # LHSMARTMIX

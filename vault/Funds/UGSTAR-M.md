@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.35
 master_fund: "Robeco Global Stars Equities IL USD"
 master_isin: "LU2080584019"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
 ---
 
 # UGSTAR-M

@@ -24,7 +24,7 @@ fund_size: 51876574.24
 holdings_count: 15
 top10_pct_nav: 105.56
 master_fund: "iShares U.S. Financial Services ETF"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, geo/us, theme/financials, use/tax-saving, use/thematic]
 ---
 
 # LHUSFIN

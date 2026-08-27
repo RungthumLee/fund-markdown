@@ -26,7 +26,7 @@ top10_pct_nav: 104.84
 master_fund: "JPM China A dist USD"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/china, use/tax-saving]
 ---
 
 # K-CHINARMF

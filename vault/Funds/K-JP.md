@@ -26,7 +26,7 @@ top10_pct_nav: 105.95
 master_fund: "Lazard Japanese Strategic Eq A Acc JPY"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/japan, use/income]
 ---
 
 # K-JP

@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 100.16
 peer_group: "Commodities Precious Metals"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/passive, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
 ---
 
 # ES-GOLDRMF-UH

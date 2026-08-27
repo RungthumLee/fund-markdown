@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 321676234.88
 holdings_count: 90
 top10_pct_nav: 55.1
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # SCBTS100X

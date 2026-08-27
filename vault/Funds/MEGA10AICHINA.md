@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 439621380.95
 holdings_count: 14
 top10_pct_nav: 92.77
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, geo/china, theme/technology/ai-robotics, use/thematic]
 ---
 
 # MEGA10AICHINA

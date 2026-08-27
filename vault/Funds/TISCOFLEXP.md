@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 79.33
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. มัลลิกานิยมในธรรม", "นาย ณพัฒน์ศรีวรพงษ์พันธ์"]
-tags: [fund, sec-data, policy/mixed, risk/6, active]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # TISCOFLEXP

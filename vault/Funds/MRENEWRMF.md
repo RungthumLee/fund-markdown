@@ -26,7 +26,7 @@ top10_pct_nav: 102.53
 master_fund: "BlackRock Global Funds - Sustainable Energy Fund D2"
 master_isin: "LU0252969661"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/rmf, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # MRENEWRMF

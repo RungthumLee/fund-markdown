@@ -25,7 +25,7 @@ holdings_count: 53
 top10_pct_nav: 54.61
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์"]
-tags: [fund, sec-data, policy/mixed, risk/6, active]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # K-FEQ

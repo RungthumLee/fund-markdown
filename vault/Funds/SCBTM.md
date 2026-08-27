@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2412256796.57
 holdings_count: 53
 top10_pct_nav: 52.33
-tags: [fund, sec-data, policy/mixed, risk/5, active, tax/thai-esg]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # SCBTM

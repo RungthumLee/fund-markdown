@@ -26,7 +26,7 @@ top10_pct_nav: 105.17
 master_fund: "BGF China Bond I2 USD H"
 master_isin: "LU2112291955"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, geo/china, use/accumulate]
 ---
 
 # MCBOND

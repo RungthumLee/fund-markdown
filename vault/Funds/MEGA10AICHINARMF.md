@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 29175070.04
 holdings_count: 13
 top10_pct_nav: 92.16
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, tax/rmf, geo/china, theme/technology/ai-robotics, use/tax-saving, use/thematic]
 ---
 
 # MEGA10AICHINARMF

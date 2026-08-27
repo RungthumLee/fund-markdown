@@ -23,7 +23,7 @@ fund_size: 163830197.98
 holdings_count: 23
 top10_pct_nav: 109.2
 master_fund: "Fullerton Lux Global Abs Alpha I USD C"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # LHGALPHA

@@ -27,7 +27,7 @@ master_fund: "PGIM Global Total Return Bond USD I Acc"
 master_isin: "IE00BFD2HD96"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # ES-GLOBALFI

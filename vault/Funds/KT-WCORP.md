@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 95.43
 master_fund: "BGF Global Corporate Bond A2 USD"
 master_isin: "LU0297942194"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # KT-WCORP

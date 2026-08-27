@@ -24,7 +24,7 @@ fund_size: 15545598.2
 holdings_count: 11
 top10_pct_nav: 109.92
 fund_managers: ["นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569", "นาย ด ารงฤทธิ์ ส าเร็จวิทย์"]
-tags: [fund, sec-data, policy/fixed-income, risk/2, passive, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, fx/discretionary, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # DAOL-MONYRMF

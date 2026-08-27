@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 63391514.2
 holdings_count: 43
 top10_pct_nav: 57.91
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBST555B

@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 18772220.61
 holdings_count: 10
 top10_pct_nav: 100.26
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # LHGINCOMERMF

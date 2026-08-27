@@ -25,7 +25,7 @@ holdings_count: 52
 top10_pct_nav: 59.7
 peer_group: "SET 50 Index Fund"
 fund_managers: ["น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # K-S50RMF

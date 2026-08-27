@@ -25,7 +25,7 @@ holdings_count: 16
 top10_pct_nav: 101.65
 master_fund: "KIM Inv-KIM Vietnam Growth I USD Acc"
 master_isin: "LU1586949999"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/vietnam, use/accumulate]
 ---
 
 # DAOL-VIETGROWTH

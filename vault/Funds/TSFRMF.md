@@ -26,7 +26,7 @@ top10_pct_nav: 100.07
 master_fund: "กองทุนเปิด ทิสโก้ สแตรทิจิก ฟันด์"
 peer_group: "Equity General"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, policy/equity, risk/6, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, struct/feeder, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # TSFRMF

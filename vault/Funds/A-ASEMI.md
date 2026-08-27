@@ -25,7 +25,7 @@ top10_pct_nav: 118.86
 master_fund: "Global X Asia Semiconductor ETF"
 master_isin: "HK0000756236"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, geo/asia-pacific, theme/technology/semiconductor, use/thematic]
 ---
 
 # A-ASEMI

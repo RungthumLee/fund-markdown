@@ -25,7 +25,7 @@ top10_pct_nav: 101.21
 master_fund: "United CIO Growth T USD Acc"
 master_isin: "SGXZ33899576"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # UGFTRMF

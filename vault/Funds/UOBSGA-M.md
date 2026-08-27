@@ -26,7 +26,7 @@ top10_pct_nav: 100.08
 master_fund: "BGF Global Allocation A2"
 master_isin: "LU0072462426"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # UOBSGA-M

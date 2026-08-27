@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 100.15
 peer_group: "Commodities Precious Metals"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/passive, theme/metals-mining/gold, use/thematic]
 ---
 
 # ES-GOLDBULLION-UH

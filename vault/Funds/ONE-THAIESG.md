@@ -24,7 +24,7 @@ fund_size: 170702317.81
 holdings_count: 49
 top10_pct_nav: 62.92
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # ONE-THAIESG

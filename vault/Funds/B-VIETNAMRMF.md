@@ -24,7 +24,7 @@ fund_size: 3745710588.95
 holdings_count: 32
 top10_pct_nav: 46.49
 peer_group: "Vietnam Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, geo/vietnam, use/tax-saving]
 ---
 
 # B-VIETNAMRMF

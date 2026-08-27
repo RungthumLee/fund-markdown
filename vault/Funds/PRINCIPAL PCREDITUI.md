@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 91.9
 master_fund: "Principal Private Credit Fund iCapital Offshore Access Fund SPC"
 master_isin: "KYG7256F1138"
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t2, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # PRINCIPAL PCREDITUI

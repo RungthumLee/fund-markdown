@@ -24,7 +24,7 @@ fund_size: 3703024748.37
 holdings_count: 104
 top10_pct_nav: 39.75
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, use/accumulate]
 ---
 
 # B-INCOME

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 641712864.77
 holdings_count: 53
 top10_pct_nav: 68.24
-tags: [fund, sec-data, policy/mixed, risk/5, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income, audience/restricted]
 ---
 
 # TOF

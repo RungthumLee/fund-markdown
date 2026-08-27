@@ -24,7 +24,7 @@ fund_size: 145696977.86
 holdings_count: 23
 top10_pct_nav: 70.61
 fund_managers: ["นาย พีรพัฒน์ จิรารยะพงศ์"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # ASP-MRF

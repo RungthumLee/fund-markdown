@@ -24,7 +24,7 @@ fund_size: 353077196.83
 holdings_count: 2
 top10_pct_nav: 99.53
 master_fund: "กองทุนเปิดพรินซิเพิล เวียดนาม อิควิตี้"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/vietnam, use/tax-saving]
 ---
 
 # PRINCIPAL VNEQRMF

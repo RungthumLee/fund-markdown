@@ -24,7 +24,7 @@ fund_size: 4238450639.86
 holdings_count: 51
 top10_pct_nav: 42.8
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # MMM-PLUS

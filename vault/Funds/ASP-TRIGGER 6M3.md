@@ -24,7 +24,7 @@ fund_size: 288610938.8
 holdings_count: 19
 top10_pct_nav: 87.4
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย กมลยศ สุขุมสุวรรณ"]
-tags: [fund, sec-data, policy/mixed, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, compliance/trigger-fund, use/accumulate]
 ---
 
 # ASP-TRIGGER 6M3

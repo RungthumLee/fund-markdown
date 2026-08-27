@@ -26,7 +26,7 @@ top10_pct_nav: 102.49
 master_fund: "Baillie Gifford WW US Equity Gr B USD"
 master_isin: "IE00B8HW2209"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/us, use/accumulate]
 ---
 
 # DAOL-USEQG

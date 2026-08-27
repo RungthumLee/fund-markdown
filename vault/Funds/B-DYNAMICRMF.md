@@ -24,7 +24,7 @@ fund_size: 753267786.94
 holdings_count: 36
 top10_pct_nav: 99.32
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-DYNAMICRMF

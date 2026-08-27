@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 99.05
 master_fund: "PineBridge India Equity A5CP"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, geo/india, use/accumulate]
 ---
 
 # ONE-INDIAOPP

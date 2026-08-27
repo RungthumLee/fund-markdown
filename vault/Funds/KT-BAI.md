@@ -22,7 +22,7 @@ nav: 9.0623
 nav_date: "2026-08-25"
 fund_size: 69128637.75
 master_fund: "iShares A.I. Innovation and Tech Active ETF"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # KT-BAI

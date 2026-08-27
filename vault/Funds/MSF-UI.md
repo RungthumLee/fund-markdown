@@ -27,7 +27,7 @@ master_fund: "AQR Apex UCITS IAUFT Acc"
 master_isin: "LU1662495545"
 peer_group: "AQR UCITS Funds"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/mixed, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # MSF-UI

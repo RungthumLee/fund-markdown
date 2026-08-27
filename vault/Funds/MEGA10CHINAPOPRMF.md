@@ -23,7 +23,7 @@ fund_size: 3434423.97
 holdings_count: 2
 top10_pct_nav: 99.07
 master_fund: "กองทุนเปิด MEGA 10 CHINA POPULAR CONSUMER BRAND"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/china, theme/consumer, use/tax-saving, use/thematic]
 ---
 
 # MEGA10CHINAPOPRMF

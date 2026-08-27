@@ -24,7 +24,7 @@ holdings_count: 12
 top10_pct_nav: 99.48
 master_fund: "BGF China D2"
 master_isin: "LU0359204475"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/china, use/tax-saving]
 ---
 
 # KT-CHINA RMF

@@ -27,7 +27,7 @@ master_fund: "State Street SPDR Bloomberg 1-3 Month T-Bill ETF"
 master_isin: "US78468R6633"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/fixed-income, risk/3, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/us, use/park-cash]
 ---
 
 # TUSFIX

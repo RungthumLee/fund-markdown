@@ -26,7 +26,7 @@ top10_pct_nav: 88.91
 master_fund: "Pictet-Security I USD"
 master_isin: "LU0256845834"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # UGSE

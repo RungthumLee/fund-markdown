@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 1053707152.83
 holdings_count: 51
 top10_pct_nav: 106.21
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # SCBWEQ

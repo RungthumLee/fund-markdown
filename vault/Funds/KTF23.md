@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 80303244.22
 holdings_count: 8
 top10_pct_nav: 92.68
-tags: [fund, sec-data, policy/fixed-income, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, liquidity/t5, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # KTF23

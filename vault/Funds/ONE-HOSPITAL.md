@@ -24,7 +24,7 @@ fund_size: 22373154.44
 holdings_count: 14
 top10_pct_nav: 109.21
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "น.ส. จารุภัทร์ ศรีจำเริญ"]
-tags: [fund, sec-data, policy/mixed, risk/7, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-HOSPITAL

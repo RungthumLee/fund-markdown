@@ -27,7 +27,7 @@ master_fund: "iShares MSCI India ETF"
 master_isin: "US46429B5984"
 peer_group: "India Equity"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/india, use/accumulate]
 ---
 
 # TISCOIN

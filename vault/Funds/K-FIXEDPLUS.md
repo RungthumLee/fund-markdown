@@ -25,7 +25,7 @@ holdings_count: 143
 top10_pct_nav: 43.84
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตร อัศวมงคลกุล"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # K-FIXEDPLUS

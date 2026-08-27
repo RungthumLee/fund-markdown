@@ -26,7 +26,7 @@ top10_pct_nav: 109.77
 master_fund: "BGF Next Generation Technology I2"
 master_isin: "LU1861216270"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, theme/technology, use/thematic]
 ---
 
 # MGTECH

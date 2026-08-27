@@ -26,7 +26,7 @@ top10_pct_nav: 98.38
 master_fund: "Pictet-Premium Brands R EUR"
 master_isin: "LU0217138485"
 peer_group: "Global Equity - Consumer Goods and Services"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-PREMIUM

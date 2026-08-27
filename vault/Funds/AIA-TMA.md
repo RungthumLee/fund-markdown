@@ -25,7 +25,7 @@ holdings_count: 7
 top10_pct_nav: 100.53
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
 ---
 
 # AIA-TMA

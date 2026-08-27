@@ -23,7 +23,7 @@ fund_size: 83585465.26
 master_fund: "NEXT FUNDS Nikkei 225 Exchange Traded Fund"
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, compliance/trigger-fund, geo/japan, use/accumulate]
 ---
 
 # TJPT5M3

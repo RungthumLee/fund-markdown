@@ -24,7 +24,7 @@ fund_size: 592661768.03
 holdings_count: 4
 top10_pct_nav: 100.57
 master_fund: "iShares MSCI ACWI ETF"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # KKP PGE RMF-UH

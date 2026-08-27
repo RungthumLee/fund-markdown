@@ -24,7 +24,7 @@ fund_size: 12644177.91
 holdings_count: 17
 top10_pct_nav: 100.96
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, fx/partially-hedged, struct/direct, geo/us, use/accumulate]
 ---
 
 # DAOL-USTBILL

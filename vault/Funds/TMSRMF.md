@@ -25,7 +25,7 @@ holdings_count: 31
 top10_pct_nav: 51.36
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["นาย ณัฐภณอัศวเหม", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # TMSRMF

@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 102.27
 master_fund: "abrdn-China A Share Sust Eq Z Acc USD"
 master_isin: "LU1130125955"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/china, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # ABCA

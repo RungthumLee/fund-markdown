@@ -24,7 +24,7 @@ fund_size: 22843255.84
 holdings_count: 16
 top10_pct_nav: 101.97
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # ASPGIPLUS

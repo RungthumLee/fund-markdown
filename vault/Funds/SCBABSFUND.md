@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 16434464.71
 holdings_count: 31
 top10_pct_nav: 59.24
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # SCBABSFUND

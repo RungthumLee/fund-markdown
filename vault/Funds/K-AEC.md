@@ -25,7 +25,7 @@ holdings_count: 22
 top10_pct_nav: 78.73
 peer_group: "ASEAN Equity"
 fund_managers: ["นาย สุธี เลิศสาครศิริ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # K-AEC

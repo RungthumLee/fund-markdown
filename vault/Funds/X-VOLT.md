@@ -26,7 +26,7 @@ top10_pct_nav: 103.17
 master_fund: "Tema Electrification ETF"
 peer_group: "Global Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # X-VOLT

@@ -26,7 +26,7 @@ top10_pct_nav: 102.59
 master_fund: "BGF World Healthscience X10"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/fixed-income, risk/8+, active, feeder, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate, audience/restricted]
 ---
 
 # K-AHYC-UI

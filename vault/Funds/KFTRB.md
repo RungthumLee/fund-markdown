@@ -27,7 +27,7 @@ master_fund: "PIMCO GIS Total Return Bond Fund E Class USD Accumulation"
 master_isin: "IE00B11XZ988"
 peer_group: "Global Bond Fully F/X Hedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย พงศ์สัณห์ อนุรัตน์"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFTRB

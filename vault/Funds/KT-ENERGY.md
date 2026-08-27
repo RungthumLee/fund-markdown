@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 99.79
 master_fund: "BlackRock Global Funds - World Energy Fund"
 master_isin: "LU0122376428"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, theme/energy, use/thematic]
 ---
 
 # KT-ENERGY

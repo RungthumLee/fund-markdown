@@ -24,7 +24,7 @@ fund_size: 5729084.43
 holdings_count: 15
 top10_pct_nav: 92.9
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, policy/mixed, risk/7, active]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/concentrated, struct/direct, style/active, geo/thailand, theme/energy, use/thematic]
 ---
 
 # ONE-POWER

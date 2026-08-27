@@ -25,7 +25,7 @@ top10_pct_nav: 110.77
 master_fund: "JPM US Technology I acc USD"
 master_isin: "LU0248060906"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/us, theme/technology, use/thematic]
 ---
 
 # UUSTECH

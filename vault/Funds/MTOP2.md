@@ -24,7 +24,7 @@ fund_size: 92564962.62
 holdings_count: 40
 top10_pct_nav: 55.18
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # MTOP2

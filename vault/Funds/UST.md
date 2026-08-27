@@ -26,7 +26,7 @@ top10_pct_nav: 105.37
 master_fund: "BNP Paribas Sust Mul Ast Gr I EUR Acc"
 master_isin: "LU1956156910"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # UST

@@ -25,7 +25,7 @@ holdings_count: 60
 top10_pct_nav: 102.96
 master_fund: "Veritas Global Focus USD Acc NAV"
 master_isin: "IE00B3RMVW88"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # SCBGEQFUND

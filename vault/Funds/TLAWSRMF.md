@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 307646613.08
 holdings_count: 22
 top10_pct_nav: 89.9
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TLAWSRMF

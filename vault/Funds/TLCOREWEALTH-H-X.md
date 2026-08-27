@@ -21,7 +21,7 @@ nav: 10.1722
 nav_date: "2026-08-25"
 fund_size: 171830869.43
 master_fund: "iShares Core 60/40 Balanced Allocation ETF"
-tags: [fund, sec-data, policy/mixed, risk/5, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLCOREWEALTH-H-X

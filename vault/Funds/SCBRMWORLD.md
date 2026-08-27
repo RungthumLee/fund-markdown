@@ -25,7 +25,7 @@ holdings_count: 107
 top10_pct_nav: 103.71
 master_fund: "iShares MSCI World ETF"
 master_isin: "US4642863926"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
 ---
 
 # SCBRMWORLD

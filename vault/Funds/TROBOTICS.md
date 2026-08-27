@@ -26,7 +26,7 @@ master_fund: "Pictet - Robotics I USD"
 master_isin: "LU1279333329"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
 ---
 
 # TROBOTICS

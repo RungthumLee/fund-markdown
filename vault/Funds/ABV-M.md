@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 118075657.06
 holdings_count: 45
 top10_pct_nav: 51.44
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ABV-M

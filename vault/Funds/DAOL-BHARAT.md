@@ -26,7 +26,7 @@ top10_pct_nav: 100.07
 master_fund: "Mirae Asset Global Discovery Fund - Mirae Asset India Mid Cap Equity Fund"
 master_isin: "LU1689658778"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # DAOL-BHARAT

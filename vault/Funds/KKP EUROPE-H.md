@@ -23,7 +23,7 @@ fund_size: 23213275.68
 holdings_count: 12
 top10_pct_nav: 95.93
 master_fund: "GS Europe CORE Equity I Acc EUR"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
 ---
 
 # KKP EUROPE-H

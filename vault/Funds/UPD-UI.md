@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 100.17
 master_fund: "PIMCO Private Diversified Lending Fund Ltd (Class C)"
 peer_group: "Miscelleneous"
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # UPD-UI

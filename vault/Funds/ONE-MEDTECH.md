@@ -26,7 +26,7 @@ top10_pct_nav: 103.23
 master_fund: "iShares U.S. Medical Devices ETF"
 master_isin: "US4642888105"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, theme/technology, use/thematic]
 ---
 
 # ONE-MEDTECH

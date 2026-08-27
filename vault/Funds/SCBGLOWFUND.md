@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 25393223.32
 holdings_count: 63
 top10_pct_nav: 95.67
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # SCBGLOWFUND

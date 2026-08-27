@@ -24,7 +24,7 @@ fund_size: 1546859291.8
 holdings_count: 31
 top10_pct_nav: 76.39
 peer_group: "Long Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/3, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # UOBGBRMF

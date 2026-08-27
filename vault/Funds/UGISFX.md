@@ -26,7 +26,7 @@ top10_pct_nav: 102.09
 master_fund: "PIMCO GIS Income Institutional USD Acc"
 master_isin: "IE00B87KCF77"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/discretionary, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # UGISFX

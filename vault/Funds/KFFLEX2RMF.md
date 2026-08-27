@@ -25,7 +25,7 @@ holdings_count: 35
 top10_pct_nav: 58.78
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. สาวิณี สุขศรีวงศ์"]
-tags: [fund, sec-data, policy/mixed, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # KFFLEX2RMF

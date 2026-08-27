@@ -24,7 +24,7 @@ fund_size: 422353579.3
 holdings_count: 48
 top10_pct_nav: 64.11
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, policy/mixed, risk/6, active]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # UOBSMG

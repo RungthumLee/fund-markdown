@@ -25,7 +25,7 @@ holdings_count: 8
 top10_pct_nav: 102.87
 master_fund: "abrdn- Global Smaller Comp Z Acc USD"
 master_isin: "LU2530219000"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # ABGS-M

@@ -24,7 +24,7 @@ fund_size: 46842751.06
 holdings_count: 34
 top10_pct_nav: 56.35
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
 ---
 
 # SMART

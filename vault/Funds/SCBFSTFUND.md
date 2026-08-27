@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 780022294.18
 holdings_count: 26
 top10_pct_nav: 82.7
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t3, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBFSTFUND

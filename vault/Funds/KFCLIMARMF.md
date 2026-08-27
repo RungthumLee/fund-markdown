@@ -27,7 +27,7 @@ master_fund: "DWS Invest ESG Climate Opps USD TFC"
 master_isin: "LU1885667664"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # KFCLIMARMF

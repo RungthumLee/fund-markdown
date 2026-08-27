@@ -26,7 +26,7 @@ top10_pct_nav: 112.52
 master_fund: "Capital Group New Economy Fund (LUX) BL"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # K-GNEXT

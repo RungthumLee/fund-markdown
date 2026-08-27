@@ -26,7 +26,7 @@ top10_pct_nav: 112.69
 master_fund: "Polar Capital Global Tech I Inc"
 master_isin: "IE00B42NVC37"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
 ---
 
 # DAOL-GTECH

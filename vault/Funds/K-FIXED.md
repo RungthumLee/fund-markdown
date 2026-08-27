@@ -25,7 +25,7 @@ holdings_count: 116
 top10_pct_nav: 42.69
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตร อัศวมงคลกุล"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
 ---
 
 # K-FIXED

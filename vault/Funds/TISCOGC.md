@@ -26,7 +26,7 @@ master_fund: "iShares Global Consumer Staples ETF"
 master_isin: "US4642887370"
 peer_group: "Global Equity - Consumer Goods and Services"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/world, theme/consumer, use/thematic]
 ---
 
 # TISCOGC

@@ -27,7 +27,7 @@ master_fund: "Manulife Advanced Fund SPC - U.S. Bank Equity Segregated Portfolio
 master_isin: "KYG5800M4690"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/us, theme/financials, use/thematic]
 ---
 
 # FP USBANK

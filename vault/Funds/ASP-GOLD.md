@@ -26,7 +26,7 @@ top10_pct_nav: 101.02
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/alternative, risk/8, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, theme/metals-mining/gold, use/thematic]
 ---
 
 # ASP-GOLD

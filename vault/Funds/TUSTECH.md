@@ -27,7 +27,7 @@ master_fund: "State Street Technology Select Sector SPDR ETF"
 master_isin: "US81369Y8030"
 peer_group: "Technology Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/us, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # TUSTECH

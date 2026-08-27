@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 100.74
 master_fund: "Janus Henderson Capital Funds plc - Global Life Sciences Fund Class H2 USD"
 master_isin: "IE00BFRSYJ83"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
 ---
 
 # KT-HEALTHC RMF

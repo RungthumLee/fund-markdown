@@ -26,7 +26,7 @@ top10_pct_nav: 100.36
 master_fund: "กองทุนเปิดกรุงศรีเวียดนามอิควิตี้"
 peer_group: "Vietnam Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/vietnam, use/tax-saving]
 ---
 
 # KFVIETRMF

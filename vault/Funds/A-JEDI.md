@@ -25,7 +25,7 @@ top10_pct_nav: 104.76
 master_fund: "VanEck Space Innovators UCITS ETF A USD Acc"
 master_isin: "IE000YU9K6K2"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # A-JEDI

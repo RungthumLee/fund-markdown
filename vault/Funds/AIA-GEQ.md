@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 9978257863.25
 holdings_count: 57
 top10_pct_nav: 103.87
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
 ---
 
 # AIA-GEQ

@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 247176690.81
 holdings_count: 36
 top10_pct_nav: 105.02
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # SCBMEGA

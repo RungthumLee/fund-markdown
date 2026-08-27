@@ -24,7 +24,7 @@ fund_size: 811026041.67
 holdings_count: 62
 top10_pct_nav: 42.71
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, geo/thailand, use/accumulate]
 ---
 
 # TFIF

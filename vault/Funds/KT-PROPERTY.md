@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 96.8
 master_fund: "Janus Henderson Horizon - Global Property Equities Fund"
 master_isin: "LU0209137388"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, theme/real-estate, use/tax-saving, use/thematic]
 ---
 
 # KT-PROPERTY

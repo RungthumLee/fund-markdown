@@ -27,7 +27,7 @@ master_fund: "Vanguard Real Estate Index Fund ETF Shares"
 master_isin: "US9229085538"
 peer_group: "Fund of Property Fund - Foreign"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/us, theme/real-estate, use/thematic]
 ---
 
 # TUSREIT

@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 15957936.65
 holdings_count: 13
 top10_pct_nav: 101.61
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHMOBILITY

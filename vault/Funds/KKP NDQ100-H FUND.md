@@ -24,7 +24,7 @@ fund_size: 1523180623.71
 holdings_count: 11
 top10_pct_nav: 101.56
 master_fund: "Invesco NASDAQ 100 ETF"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # KKP NDQ100-H FUND

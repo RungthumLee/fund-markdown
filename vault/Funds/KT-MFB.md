@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 100.22
 master_fund: "BNP Paribas Global Inc Bd I USD Acc"
 master_isin: "LU2925037686"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-MFB

@@ -24,7 +24,7 @@ fund_size: 187081746.56
 holdings_count: 46
 top10_pct_nav: 65.14
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, policy/equity, risk/6]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, geo/thailand, use/accumulate]
 ---
 
 # UOBSAS100

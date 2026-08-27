@@ -25,7 +25,7 @@ holdings_count: 13
 top10_pct_nav: 101.2
 master_fund: "Schroder ISF China A Y Acc USD"
 master_isin: "LU2747266877"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/china, use/tax-saving]
 ---
 
 # KT-Ashares

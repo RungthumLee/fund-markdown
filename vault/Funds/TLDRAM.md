@@ -21,7 +21,7 @@ nav: 9.732
 nav_date: "2026-08-25"
 fund_size: 14626362.47
 master_fund: "Defiance Memory UCITS ETF"
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLDRAM

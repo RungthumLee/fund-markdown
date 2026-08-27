@@ -25,7 +25,7 @@ holdings_count: 57
 top10_pct_nav: 107.36
 master_fund: "WisdomTree Cloud Computing UCITS ETF - USD Acc"
 master_isin: "IE00BJGWQN72"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/world, theme/technology, use/thematic]
 ---
 
 # PRINCIPAL GCLOUD

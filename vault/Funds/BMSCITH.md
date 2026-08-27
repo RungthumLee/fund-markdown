@@ -24,7 +24,7 @@ fund_size: 851770877.43
 holdings_count: 19
 top10_pct_nav: 78.67
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, policy/equity, risk/6, passive, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # BMSCITH

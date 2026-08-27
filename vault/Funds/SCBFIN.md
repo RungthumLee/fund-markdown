@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 94.05
 master_fund: "Nomura Fds Global Dynamic Bond I USD"
 master_isin: "IE00BTL1GH31"
-tags: [fund, sec-data, policy/fixed-income, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # SCBFIN

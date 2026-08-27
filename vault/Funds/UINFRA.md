@@ -24,7 +24,7 @@ fund_size: 759726194.16
 holdings_count: 10
 top10_pct_nav: 100.02
 peer_group: "Global Equity - Infrastructure"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/world, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # UINFRA

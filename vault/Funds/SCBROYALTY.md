@@ -24,7 +24,7 @@ holdings_count: 4
 top10_pct_nav: 100.1
 master_fund: "PARTNERS GROUP EVERGREEN ROYALTIES OPPORTUNITIES"
 master_isin: "LU2911154891"
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # SCBROYALTY

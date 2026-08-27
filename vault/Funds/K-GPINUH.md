@@ -26,7 +26,7 @@ top10_pct_nav: 99.56
 master_fund: "JPM Global Equity Premium Income Active UCITS ETF - USD (dist)"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # K-GPINUH

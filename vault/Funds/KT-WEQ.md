@@ -24,7 +24,7 @@ holdings_count: 9
 top10_pct_nav: 100.11
 master_fund: "AB SICAV I - Low Volatility Equity Portfolio I Acc"
 master_isin: "LU0861579349"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
 ---
 
 # KT-WEQ

@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 105.59
 master_fund: "Fidelity Global Technology Y-Acc-USD"
 master_isin: "LU1560650563"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # KT-TECHNOLOGY

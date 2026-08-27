@@ -22,7 +22,7 @@ fund_size: 30150670.32
 holdings_count: 3
 top10_pct_nav: 104.24
 master_fund: "PGIM Global AAA CLO Fund H EUR H Dis"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KKP AAA CLO-USD

@@ -25,7 +25,7 @@ holdings_count: 51
 top10_pct_nav: 54.85
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธารดร เขียวมีส่วน", "นาง สุวัลลี ศิริสมบัติยืนยง"]
-tags: [fund, sec-data, policy/fixed-income, risk/1, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
 ---
 
 # ES-MF

@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 4307001.85
 holdings_count: 85
 top10_pct_nav: 36.96
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, geo/china, use/tax-saving, use/income]
 ---
 
 # SCBMLCA

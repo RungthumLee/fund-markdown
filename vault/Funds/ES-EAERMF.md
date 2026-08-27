@@ -27,7 +27,7 @@ master_fund: "Baillie Gifford WW EM LdgComs B USD Acc"
 master_isin: "IE00BW0DJL69"
 peer_group: "Emerging Market"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/emerging-markets, use/tax-saving]
 ---
 
 # ES-EAERMF

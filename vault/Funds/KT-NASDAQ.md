@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 101.76
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
 ---
 
 # KT-NASDAQ

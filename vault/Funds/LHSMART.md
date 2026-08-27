@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 152817200.9
 holdings_count: 49
 top10_pct_nav: 57.95
-tags: [fund, sec-data, policy/mixed, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, liquidity/t4, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
 ---
 
 # LHSMART

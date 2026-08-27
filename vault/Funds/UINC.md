@@ -26,7 +26,7 @@ top10_pct_nav: 100.1
 master_fund: "JPMorgan Funds - Income Fund C (acc) USD"
 master_isin: "LU1041600427"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, policy/fixed-income, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UINC

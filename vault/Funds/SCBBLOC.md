@@ -25,7 +25,7 @@ holdings_count: 46
 top10_pct_nav: 107.21
 master_fund: "Invesco CoinShares Global Blockchain UCITS ETF"
 master_isin: "IE00BGBN6P67"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBBLOC

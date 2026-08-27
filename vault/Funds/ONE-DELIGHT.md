@@ -24,7 +24,7 @@ fund_size: 22493561.96
 holdings_count: 31
 top10_pct_nav: 56.5
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-DELIGHT

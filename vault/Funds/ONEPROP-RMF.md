@@ -24,7 +24,7 @@ fund_size: 122277811.23
 holdings_count: 27
 top10_pct_nav: 75.12
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
 ---
 
 # ONEPROP-RMF

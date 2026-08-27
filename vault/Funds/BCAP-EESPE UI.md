@@ -25,7 +25,7 @@ top10_pct_nav: 100.71
 master_fund: "VistaOne (Lux) Feeder, SICAV SA-I"
 master_isin: "LU2991176186"
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, theme/technology, use/thematic, audience/restricted]
 ---
 
 # BCAP-EESPE UI

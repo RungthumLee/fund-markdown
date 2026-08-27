@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 222444243.47
 holdings_count: 39
 top10_pct_nav: 68.63
-tags: [fund, sec-data, policy/mixed, risk/8, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t3, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
 ---
 
 # KT-PIF RMF

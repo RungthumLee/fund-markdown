@@ -25,7 +25,7 @@ holdings_count: 71
 top10_pct_nav: 58.65
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย สมิทธ์ ศักดิ์กำจร", "น.ส. นันทรา ลายจุด"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-EQRMF

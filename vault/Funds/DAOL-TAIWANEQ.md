@@ -26,7 +26,7 @@ top10_pct_nav: 96.84
 master_fund: "iShares MSCI Taiwan ETF"
 master_isin: "US46434G7723"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, geo/taiwan, use/accumulate]
 ---
 
 # DAOL-TAIWANEQ

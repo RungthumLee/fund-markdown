@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 101.64
 master_fund: "DWS Multi Opportunities RC"
 master_isin: "LU1590089758"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # SCBGIN

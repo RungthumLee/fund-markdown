@@ -25,7 +25,7 @@ holdings_count: 114
 top10_pct_nav: 86.99
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/total-market, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-WPSPARK

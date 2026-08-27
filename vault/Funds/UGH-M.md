@@ -26,7 +26,7 @@ top10_pct_nav: 100.2
 master_fund: "United Global Healthcare SGD Acc"
 master_isin: "SG9999001176"
 peer_group: "Health Care"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
 ---
 
 # UGH-M

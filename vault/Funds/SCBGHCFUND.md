@@ -25,7 +25,7 @@ holdings_count: 162
 top10_pct_nav: 107.82
 master_fund: "Janus Henderson Glb Life Scn I2 USD"
 master_isin: "IE0002141913"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/world, theme/healthcare, use/income, use/thematic]
 ---
 
 # SCBGHCFUND

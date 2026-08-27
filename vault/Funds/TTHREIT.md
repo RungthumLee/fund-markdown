@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 76.97
 peer_group: "Fund of Property Fund - Thai"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, policy/mixed, risk/8, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, theme/real-estate, use/thematic]
 ---
 
 # TTHREIT

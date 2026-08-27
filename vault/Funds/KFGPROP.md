@@ -27,7 +27,7 @@ master_fund: "Janus Henderson Glb Rl EstEqInc I1qUSD"
 master_isin: "IE0033534888"
 peer_group: "Fund of Property fund - Foreign"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/mixed, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/real-estate, use/thematic]
 ---
 
 # KFGPROP

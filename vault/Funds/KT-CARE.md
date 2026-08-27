@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 63494954.06
 holdings_count: 57
 top10_pct_nav: 65.98
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # KT-CARE

@@ -25,7 +25,7 @@ top10_pct_nav: 100.32
 master_fund: "กองทุนเปิดอีสท์สปริง Ultimate Global Allocation 2"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # ES-ULTIMATE GA2RMF

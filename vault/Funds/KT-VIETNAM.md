@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 658215244.57
 holdings_count: 24
 top10_pct_nav: 67.72
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, geo/vietnam, use/tax-saving, use/income]
 ---
 
 # KT-VIETNAM

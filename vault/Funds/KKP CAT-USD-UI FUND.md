@@ -23,7 +23,7 @@ fund_size: 3337012.27
 holdings_count: 3
 top10_pct_nav: 103.56
 master_fund: "Fermat UCITS Cat Bd Ordinary USD Acc"
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t8, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KKP CAT-USD-UI FUND

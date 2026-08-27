@@ -25,7 +25,7 @@ holdings_count: 57
 top10_pct_nav: 70.55
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # ES-DIV70THAIESGX

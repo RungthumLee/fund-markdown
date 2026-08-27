@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1238461029.32
 holdings_count: 12
 top10_pct_nav: 99.42
-tags: [fund, sec-data, policy/fixed-income, risk/3, active, foreign-exposure, tax/thai-esg]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # UTSB

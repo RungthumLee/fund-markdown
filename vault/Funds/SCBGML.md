@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 31792655.11
 holdings_count: 63
 top10_pct_nav: 54.68
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # SCBGML

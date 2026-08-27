@@ -25,7 +25,7 @@ holdings_count: 39
 top10_pct_nav: 57.99
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ศตนนท์ ทัน"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, theme/healthcare, use/income, use/thematic]
 ---
 
 # ES-HEALTHPLUS

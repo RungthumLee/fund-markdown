@@ -24,7 +24,7 @@ fund_size: 831299549.91
 holdings_count: 31
 top10_pct_nav: 103.73
 master_fund: "iShares Semiconductor ETF"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, theme/technology/semiconductor, use/thematic]
 ---
 
 # LHSEMICON

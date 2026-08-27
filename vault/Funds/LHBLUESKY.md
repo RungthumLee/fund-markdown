@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 158168289.78
 holdings_count: 6
 top10_pct_nav: 100.03
-tags: [fund, sec-data, policy/fixed-income, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, liquidity/t4, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHBLUESKY

@@ -27,7 +27,7 @@ master_fund: "Wellington Strategic Eurp Eq EUR S Ac"
 master_isin: "IE00B6TYHG95"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/europe, use/tax-saving]
 ---
 
 # ES-EGRMF

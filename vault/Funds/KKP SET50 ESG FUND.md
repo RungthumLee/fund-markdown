@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 351477402.08
 holdings_count: 49
 top10_pct_nav: 63.24
-tags: [fund, sec-data, policy/equity, risk/6, passive, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, tax/ssf, geo/thailand, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # KKP SET50 ESG FUND

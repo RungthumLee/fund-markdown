@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 4828069976.69
 holdings_count: 39
 top10_pct_nav: 89.66
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, tax/thai-esg]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # SCBTB

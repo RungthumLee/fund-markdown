@@ -26,7 +26,7 @@ top10_pct_nav: 99.84
 master_fund: "JPMorgan Global Select Equity ETF"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # K-GSELECTU

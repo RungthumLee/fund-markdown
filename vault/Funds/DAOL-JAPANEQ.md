@@ -24,7 +24,7 @@ top10_pct_nav: 125.22
 master_fund: "Nomura Fds Japan Strategic Value I JPY"
 master_isin: "IE00B3VTL690"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/japan, use/accumulate]
 ---
 
 # DAOL-JAPANEQ

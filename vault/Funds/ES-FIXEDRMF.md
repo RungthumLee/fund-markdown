@@ -25,7 +25,7 @@ holdings_count: 139
 top10_pct_nav: 20.36
 peer_group: "Mid Term Government Bond"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. วิภาสิริ เกษมศุข"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-FIXEDRMF

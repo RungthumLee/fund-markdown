@@ -24,7 +24,7 @@ fund_size: 629080708.34
 holdings_count: 5
 top10_pct_nav: 100.09
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t2, fx/discretionary, struct/direct, use/accumulate, audience/restricted]
 ---
 
 # ONE-BTCETFOF-UI

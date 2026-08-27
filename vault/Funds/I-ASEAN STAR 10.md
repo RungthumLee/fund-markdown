@@ -24,7 +24,7 @@ fund_size: 5743476.44
 holdings_count: 15
 top10_pct_nav: 78.99
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # I-ASEAN STAR 10

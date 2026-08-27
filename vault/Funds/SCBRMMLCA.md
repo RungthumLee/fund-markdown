@@ -24,7 +24,7 @@ fund_size: 114183883.95
 holdings_count: 2
 top10_pct_nav: 100.16
 master_fund: "กองทุนเปิดไทยพาณิชย์ Machine Learning China All Share เพื่อการเลี้ยงชีพ"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/china, use/accumulate]
 ---
 
 # SCBRMMLCA

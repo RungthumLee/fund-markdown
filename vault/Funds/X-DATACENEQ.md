@@ -26,7 +26,7 @@ top10_pct_nav: 99.77
 master_fund: "Global X Data Center & Digital Infrastructure ETF"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, fx/discretionary, struct/feeder, style/passive, theme/technology, use/thematic]
 ---
 
 # X-DATACENEQ

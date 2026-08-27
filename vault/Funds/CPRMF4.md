@@ -24,7 +24,7 @@ fund_size: 41315287.79
 holdings_count: 5
 top10_pct_nav: 100.07
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, policy/mixed, risk/5, passive, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # CPRMF4

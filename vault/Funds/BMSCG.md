@@ -24,7 +24,7 @@ fund_size: 185502032.8
 holdings_count: 48
 top10_pct_nav: 26.53
 peer_group: "Equity Small - Mid Cap"
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/passive, geo/thailand, use/accumulate]
 ---
 
 # BMSCG

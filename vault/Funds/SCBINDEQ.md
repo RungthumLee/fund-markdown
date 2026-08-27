@@ -25,7 +25,7 @@ holdings_count: 41
 top10_pct_nav: 104.05
 master_fund: "UTI India Dynamic Equity USD Instl"
 master_isin: "IE00BYPC7R45"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/india, use/tax-saving]
 ---
 
 # SCBINDEQ

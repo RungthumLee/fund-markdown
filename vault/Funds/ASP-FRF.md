@@ -24,7 +24,7 @@ fund_size: 1172205087.91
 holdings_count: 71
 top10_pct_nav: 33.08
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "น.ส. มณีวรรณ อรุณธีรวุฒิ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # ASP-FRF

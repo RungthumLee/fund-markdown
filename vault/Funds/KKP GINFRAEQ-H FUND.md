@@ -24,7 +24,7 @@ fund_size: 2295545314.28
 holdings_count: 17
 top10_pct_nav: 103.22
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, theme/infrastructure, use/tax-saving, use/thematic]
 ---
 
 # KKP GINFRAEQ-H FUND

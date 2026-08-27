@@ -25,7 +25,7 @@ holdings_count: 8
 top10_pct_nav: 99.88
 master_fund: "Architas Multi-Asset Balanced R USD Acc"
 master_isin: "IE00BZ127T76"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-MAB

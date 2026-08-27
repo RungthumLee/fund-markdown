@@ -21,7 +21,7 @@ nav: 10.4857
 nav_date: "2026-08-25"
 fund_size: 76217692.06
 master_fund: "VanEck Space Innovators UCITS ETF A USD Acc"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/unhedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBSPACE

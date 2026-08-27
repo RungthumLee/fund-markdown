@@ -25,7 +25,7 @@ holdings_count: 23
 top10_pct_nav: 66.37
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "นาย ยศวสุสุธารัตนชัยพร"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/thai-esg]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/income, use/thematic]
 ---
 
 # T-ThaiESG

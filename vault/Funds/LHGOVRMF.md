@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 604612294.7
 holdings_count: 28
 top10_pct_nav: 72.36
-tags: [fund, sec-data, policy/fixed-income, risk/3, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # LHGOVRMF

@@ -24,7 +24,7 @@ fund_size: 295930000.29
 holdings_count: 18
 top10_pct_nav: 99.36
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # BCAP-GW90

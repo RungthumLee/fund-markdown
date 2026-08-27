@@ -23,7 +23,7 @@ fund_size: 2531760259.18
 holdings_count: 6
 top10_pct_nav: 100.08
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/discretionary, struct/direct, use/accumulate, audience/restricted]
 ---
 
 # BCAP-EPC UI

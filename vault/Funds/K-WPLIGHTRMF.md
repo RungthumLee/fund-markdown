@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 9557092.16
 peer_group: "Conservative Allocation"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-WPLIGHTRMF

@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 103.89
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
 ---
 
 # KT-GOLDUH

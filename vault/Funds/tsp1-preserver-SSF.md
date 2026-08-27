@@ -26,7 +26,7 @@ top10_pct_nav: 100.11
 master_fund: "กองทุนเปิด ttb smart port 1 preserver"
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # tsp1-preserver-SSF

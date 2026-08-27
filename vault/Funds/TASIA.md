@@ -27,7 +27,7 @@ master_fund: "BlackRock Advtg Asia ex Jpn Eq D USD Acc"
 master_isin: "IE00BFZP7Q95"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
 ---
 
 # TASIA

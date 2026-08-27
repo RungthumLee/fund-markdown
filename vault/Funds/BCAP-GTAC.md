@@ -24,7 +24,7 @@ fund_size: 5964833118.38
 holdings_count: 46
 top10_pct_nav: 75.4
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # BCAP-GTAC

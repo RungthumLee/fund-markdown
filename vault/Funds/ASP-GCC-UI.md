@@ -26,7 +26,7 @@ top10_pct_nav: 97.73
 master_fund: "KraneShares Global Carbon ETF"
 master_isin: "US5007676787"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/world, use/accumulate, audience/restricted]
 ---
 
 # ASP-GCC-UI

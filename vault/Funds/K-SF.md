@@ -25,7 +25,7 @@ holdings_count: 200
 top10_pct_nav: 24.42
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย สารัช อรุณากูร"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # K-SF

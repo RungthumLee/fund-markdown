@@ -25,7 +25,7 @@ holdings_count: 74
 top10_pct_nav: 45.18
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TINRMF

@@ -27,7 +27,7 @@ master_fund: "Premia China STAR50 ETF"
 master_isin: "HK0000761418"
 peer_group: "Greater China Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # ES-STARTECHRMF

@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 189570169.57
 master_fund: "NEXT FUNDS Nikkei Semiconductor Stock Index Exchange Traded Fun"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/discretionary, struct/feeder, style/passive, geo/japan, theme/technology/semiconductor, use/thematic]
 ---
 
 # DAOL-JAPANSEMI

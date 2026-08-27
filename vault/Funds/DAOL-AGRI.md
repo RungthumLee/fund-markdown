@@ -25,7 +25,7 @@ top10_pct_nav: 100.17
 master_fund: "iShares Agribusiness UCITS ETF USD (Acc)"
 master_isin: "IE00B6R52143"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-AGRI

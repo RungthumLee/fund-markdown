@@ -24,7 +24,7 @@ fund_size: 4982716087.16
 holdings_count: 17
 top10_pct_nav: 106.63
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, policy/mixed, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate, audience/restricted]
 ---
 
 # BCAP-MNH UI

@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 100.72
 master_fund: "PIMCO GIS Glb Bd Instl USD Acc"
 master_isin: "IE0002461055"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # KT-BOND RMF

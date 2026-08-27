@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 41891449.26
 holdings_count: 34
 top10_pct_nav: 49.33
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # MEGAWORLD30RMF

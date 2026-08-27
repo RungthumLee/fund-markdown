@@ -25,7 +25,7 @@ holdings_count: 61
 top10_pct_nav: 103.91
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/us, use/tax-saving]
 ---
 
 # SCBNDQ

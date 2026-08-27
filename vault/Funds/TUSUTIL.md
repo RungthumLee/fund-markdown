@@ -26,7 +26,7 @@ master_fund: "State Street Utilities Select Sector SPDR ETF"
 master_isin: "US81369Y8865"
 peer_group: "US Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
 ---
 
 # TUSUTIL

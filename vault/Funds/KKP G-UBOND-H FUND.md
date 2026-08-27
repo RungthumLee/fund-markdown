@@ -24,7 +24,7 @@ fund_size: 231165606.08
 holdings_count: 7
 top10_pct_nav: 99.86
 master_fund: "Jupiter Dynamic Bond L USD Acc"
-tags: [fund, sec-data, policy/fixed-income, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # KKP G-UBOND-H FUND

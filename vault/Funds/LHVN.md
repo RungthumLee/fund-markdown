@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 185127720.75
 holdings_count: 19
 top10_pct_nav: 99.38
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, geo/vietnam, use/tax-saving]
 ---
 
 # LHVN

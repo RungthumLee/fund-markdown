@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 980474380.23
 holdings_count: 29
 top10_pct_nav: 71.98
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # KT-SAGA

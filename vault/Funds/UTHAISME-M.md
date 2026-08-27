@@ -23,7 +23,7 @@ fund_size: 75424337.0
 holdings_count: 28
 top10_pct_nav: 59.22
 peer_group: "Equity Small - Mid Cap"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # UTHAISME-M

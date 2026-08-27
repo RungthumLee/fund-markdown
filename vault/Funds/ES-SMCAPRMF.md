@@ -25,7 +25,7 @@ holdings_count: 48
 top10_pct_nav: 38.76
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. นันทรา ลายจุด", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # ES-SMCAPRMF

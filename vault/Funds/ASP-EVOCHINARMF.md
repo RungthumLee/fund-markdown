@@ -24,7 +24,7 @@ fund_size: 138969831.82
 holdings_count: 34
 top10_pct_nav: 54.67
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "นาย กมลยศ สุขุมสุวรรณ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/china, use/tax-saving]
 ---
 
 # ASP-EVOCHINARMF

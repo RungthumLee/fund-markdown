@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 60914279.22
 holdings_count: 16
 top10_pct_nav: 80.66
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # KT-GWA

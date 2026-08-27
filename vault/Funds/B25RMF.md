@@ -24,7 +24,7 @@ fund_size: 3899588288.47
 holdings_count: 145
 top10_pct_nav: 32.57
 peer_group: "Conservative Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # B25RMF

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 551502469.26
 holdings_count: 26
 top10_pct_nav: 71.22
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ABSI-RMF

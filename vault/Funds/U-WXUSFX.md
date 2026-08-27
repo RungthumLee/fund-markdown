@@ -25,7 +25,7 @@ top10_pct_nav: 100.51
 master_fund: "Invesco International BuyBack Achievers ETF"
 master_isin: "US46138E6445"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/us, use/accumulate]
 ---
 
 # U-WXUSFX

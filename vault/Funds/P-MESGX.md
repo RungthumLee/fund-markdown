@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 64.89
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย พุทธินันท์ วชิราคม  ตั้งแต่ 09 พ.ค. 2568", "นาย สุชาติ เจริญวุฒิคุณ  ตั้งแต่ 09 พ.ค. 2568"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # P-MESGX

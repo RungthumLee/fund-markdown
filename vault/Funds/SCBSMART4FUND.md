@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 44153677.47
 holdings_count: 38
 top10_pct_nav: 57.31
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # SCBSMART4FUND

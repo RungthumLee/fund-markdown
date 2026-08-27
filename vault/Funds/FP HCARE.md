@@ -27,7 +27,7 @@ master_fund: "Manulife GF Healthcare AA"
 master_isin: "LU0357321016"
 peer_group: "Health Care"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, theme/healthcare, use/thematic]
 ---
 
 # FP HCARE

@@ -25,7 +25,7 @@ holdings_count: 103
 top10_pct_nav: 105.87
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, theme/metals-mining/gold, use/tax-saving, use/thematic]
 ---
 
 # SCBGOLDHFUND

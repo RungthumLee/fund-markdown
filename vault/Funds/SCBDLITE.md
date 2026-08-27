@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 588681271.85
 holdings_count: 95
 top10_pct_nav: 56.02
-tags: [fund, sec-data, policy/fixed-income, risk/4, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # SCBDLITE

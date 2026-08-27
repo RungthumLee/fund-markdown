@@ -26,7 +26,7 @@ top10_pct_nav: 101.68
 master_fund: "NEXT FUNDS TOPIX Exchange Traded Fund"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/japan, use/accumulate]
 ---
 
 # K-JPX

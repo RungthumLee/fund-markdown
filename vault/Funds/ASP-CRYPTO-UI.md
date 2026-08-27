@@ -24,7 +24,7 @@ fund_size: 125877794.36
 holdings_count: 6
 top10_pct_nav: 99.49
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/partially-hedged, struct/direct, use/accumulate, audience/restricted]
 ---
 
 # ASP-CRYPTO-UI

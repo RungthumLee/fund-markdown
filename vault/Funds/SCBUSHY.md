@@ -25,7 +25,7 @@ holdings_count: 24
 top10_pct_nav: 103.36
 master_fund: "AXAIMFIIS US Short Dur HY B Cap USD"
 master_isin: "LU0211118053"
-tags: [fund, sec-data, policy/fixed-income, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/us, use/accumulate]
 ---
 
 # SCBUSHY

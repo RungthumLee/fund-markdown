@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 166717703.37
 holdings_count: 33
 top10_pct_nav: 79.05
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KTMUNG-RMF

@@ -26,7 +26,7 @@ top10_pct_nav: 113.52
 master_fund: "Matthews China Innovators I USD Acc"
 master_isin: "LU0721876877"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/china, use/accumulate]
 ---
 
 # DAOL-CHIG

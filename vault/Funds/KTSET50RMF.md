@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1183473001.86
 holdings_count: 52
 top10_pct_nav: 60.51
-tags: [fund, sec-data, policy/equity, risk/6, passive, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # KTSET50RMF

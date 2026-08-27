@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1183041848.7
 holdings_count: 18
 top10_pct_nav: 87.1
-tags: [fund, sec-data, policy/alternative, risk/8, active]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, theme/real-estate, use/income, use/thematic]
 ---
 
 # LHTPROP

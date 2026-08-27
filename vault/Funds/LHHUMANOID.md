@@ -23,7 +23,7 @@ fund_size: 132833688.68
 holdings_count: 21
 top10_pct_nav: 104.3
 master_fund: "Themes Humanoid Robotics ETF"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # LHHUMANOID

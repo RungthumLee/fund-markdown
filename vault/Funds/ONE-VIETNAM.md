@@ -24,7 +24,7 @@ fund_size: 237924080.03
 holdings_count: 13
 top10_pct_nav: 99.97
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/vietnam, use/accumulate]
 ---
 
 # ONE-VIETNAM

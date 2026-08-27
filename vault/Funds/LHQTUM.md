@@ -23,7 +23,7 @@ fund_size: 360535530.56
 holdings_count: 20
 top10_pct_nav: 104.45
 master_fund: "Defiance Quantum ETF"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, theme/technology, use/thematic]
 ---
 
 # LHQTUM

@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.82
 master_fund: "iShares Agribusiness UCITS ETF USD (Acc)"
 master_isin: "IE00B6R52143"
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/sustainability, use/thematic]
 ---
 
 # KT-AGRIANDFOOD

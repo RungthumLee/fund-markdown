@@ -25,7 +25,7 @@ holdings_count: 10
 top10_pct_nav: 100.87
 master_fund: "Architas Flexible Equity R USD Acc"
 master_isin: "IE00BZ127Z37"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-MFE

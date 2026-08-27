@@ -25,7 +25,7 @@ holdings_count: 58
 top10_pct_nav: 58.8
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-EQDIV

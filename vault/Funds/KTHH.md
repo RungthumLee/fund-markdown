@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 63271430.04
 holdings_count: 36
 top10_pct_nav: 66.15
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/healthcare, use/income, use/thematic]
 ---
 
 # KTHH

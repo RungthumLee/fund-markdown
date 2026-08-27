@@ -25,7 +25,7 @@ holdings_count: 13
 top10_pct_nav: 99.81
 peer_group: "Global Equity"
 fund_managers: ["นาย พุทธินันท์ วชิราคม  ตั้งแต่ 04 ก.ย. 2566", "นาย สุชาติ เจริญวุฒิคุณ  ตั้งแต่ 24 ส.ค. 2566"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # PWINRMF

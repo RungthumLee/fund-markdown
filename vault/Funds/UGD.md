@@ -26,7 +26,7 @@ top10_pct_nav: 101.0
 master_fund: "United Global Durable Eqs USD Acc"
 master_isin: "SG9999014021"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # UGD

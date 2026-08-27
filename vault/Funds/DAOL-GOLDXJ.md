@@ -25,7 +25,7 @@ top10_pct_nav: 101.99
 master_fund: "VanEck Junior Gold Miners ETF"
 master_isin: "US92189F7915"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
 ---
 
 # DAOL-GOLDXJ

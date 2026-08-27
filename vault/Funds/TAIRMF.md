@@ -27,7 +27,7 @@ master_fund: "Xtrackers Artificial Intelligence & Big Data UCITS ETF 1C"
 master_isin: "IE00BGV5VN51"
 peer_group: "Technology Equity"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, theme/technology/ai-robotics, use/tax-saving, use/thematic]
 ---
 
 # TAIRMF

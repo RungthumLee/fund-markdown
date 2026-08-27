@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 5617535138.71
 holdings_count: 35
 top10_pct_nav: 57.96
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, geo/vietnam, use/tax-saving]
 ---
 
 # PRINCIPAL VNEQ

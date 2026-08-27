@@ -25,7 +25,7 @@ holdings_count: 41
 top10_pct_nav: 63.94
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พักตร์พริ้ง พู่ไพจิตรกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # K-GROWTH

@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 161040505.94
 holdings_count: 40
 top10_pct_nav: 105.87
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, theme/technology, use/tax-saving, use/income, use/thematic]
 ---
 
 # SCBNEXT

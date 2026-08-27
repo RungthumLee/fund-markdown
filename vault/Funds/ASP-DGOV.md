@@ -24,7 +24,7 @@ fund_size: 0.0
 holdings_count: 23
 top10_pct_nav: 68.94
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "นาย สุชน รัตนหิรัgภรณ์"]
-tags: [fund, sec-data, policy/fixed-income, risk/1, active, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t5, struct/direct, style/active, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
 ---
 
 # ASP-DGOV

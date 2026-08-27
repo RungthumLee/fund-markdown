@@ -24,7 +24,7 @@ fund_size: 4968191820.88
 holdings_count: 12
 top10_pct_nav: 88.01
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # BTP

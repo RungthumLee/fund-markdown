@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 7279956961.38
 holdings_count: 98
 top10_pct_nav: 38.73
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP ACT FIXED FUND

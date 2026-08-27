@@ -26,7 +26,7 @@ top10_pct_nav: 540.8
 master_fund: "United States Oil Fund, LP"
 master_isin: "US91232N2071"
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, theme/energy, use/thematic]
 ---
 
 # I-OIL

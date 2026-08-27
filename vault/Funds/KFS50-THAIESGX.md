@@ -25,7 +25,7 @@ holdings_count: 55
 top10_pct_nav: 59.36
 peer_group: "SET 50 Index Fund"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/passive, theme/sustainability, use/thematic]
 ---
 
 # KFS50-THAIESGX

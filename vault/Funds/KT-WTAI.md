@@ -25,7 +25,7 @@ holdings_count: 15
 top10_pct_nav: 105.66
 master_fund: "Allianz Global Investors Fund - Allianz Global Artificial Intelligence Fund"
 master_isin: "LU1548497426"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
 ---
 
 # KT-WTAI

@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 228718662.06
 holdings_count: 59
 top10_pct_nav: 102.0
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # SCBRMGWP

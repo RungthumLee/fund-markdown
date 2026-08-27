@@ -24,7 +24,7 @@ fund_size: 2536742262.37
 holdings_count: 30
 top10_pct_nav: 47.38
 peer_group: "Vietnam Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, use/accumulate]
 ---
 
 # B-VIETNAM

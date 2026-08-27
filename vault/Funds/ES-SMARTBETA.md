@@ -25,7 +25,7 @@ holdings_count: 75
 top10_pct_nav: 48.34
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. จิรันธนิน โสภณวิริยานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # ES-SMARTBETA

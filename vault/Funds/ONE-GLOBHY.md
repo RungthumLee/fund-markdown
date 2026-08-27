@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 99.61
 master_fund: "BNY Mellon Glb ShrtDtd HY Bd USD W Acc"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/fixed-income, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # ONE-GLOBHY

@@ -24,7 +24,7 @@ fund_size: 757054705.67
 holdings_count: 17
 top10_pct_nav: 99.86
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # ONE-GECOM

@@ -24,7 +24,7 @@ fund_size: 282818365.06
 holdings_count: 31
 top10_pct_nav: 77.25
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
 ---
 
 # 1DIV

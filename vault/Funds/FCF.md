@@ -24,7 +24,7 @@ fund_size: 199473130.49
 holdings_count: 36
 top10_pct_nav: 54.46
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # FCF

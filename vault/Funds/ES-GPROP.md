@@ -27,7 +27,7 @@ master_fund: "PGIM Global Sel RE Scrts USD I Acc"
 master_isin: "IE00BYM2RB15"
 peer_group: "Fund of Property fund - Foreign"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/alternative, risk/8, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/real-estate, use/thematic]
 ---
 
 # ES-GPROP

@@ -25,7 +25,7 @@ holdings_count: 16
 top10_pct_nav: 102.59
 master_fund: "UBS Lux Sec Eq Fd I A1 acc"
 master_isin: "LU1042675485"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # DAOL-GSECURE

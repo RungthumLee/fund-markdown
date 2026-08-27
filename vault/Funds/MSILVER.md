@@ -26,7 +26,7 @@ top10_pct_nav: 109.16
 master_fund: "iShares MSCI Global Silver and Metals Miners ETF"
 master_isin: "US4642863272"
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
 ---
 
 # MSILVER

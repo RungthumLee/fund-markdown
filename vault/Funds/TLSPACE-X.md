@@ -24,7 +24,7 @@ holdings_count: 2
 top10_pct_nav: 100.43
 master_fund: "Global X Space Tech ETF"
 master_isin: "US37966B7780"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, theme/technology, use/thematic]
 ---
 
 # TLSPACE-X

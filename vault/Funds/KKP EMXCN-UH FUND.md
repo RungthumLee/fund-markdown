@@ -24,7 +24,7 @@ fund_size: 282224173.34
 holdings_count: 4
 top10_pct_nav: 100.55
 master_fund: "iShares MSCI Emerging Markets ex China ETF"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/ssf, geo/china, use/tax-saving]
 ---
 
 # KKP EMXCN-UH FUND

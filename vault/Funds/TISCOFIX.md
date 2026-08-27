@@ -25,7 +25,7 @@ holdings_count: 103
 top10_pct_nav: 60.59
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # TISCOFIX

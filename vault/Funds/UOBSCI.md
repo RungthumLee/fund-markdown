@@ -26,7 +26,7 @@ top10_pct_nav: 100.27
 master_fund: "United China-India Dynamic Gr T SGD Acc"
 master_isin: "SGXZ43502095"
 peer_group: "Asia Pacific Ex Japan"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, geo/india, use/accumulate]
 ---
 
 # UOBSCI

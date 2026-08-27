@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 132017924.31
 holdings_count: 23
 top10_pct_nav: 102.28
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, geo/china, use/tax-saving, use/income]
 ---
 
 # LHCHINA

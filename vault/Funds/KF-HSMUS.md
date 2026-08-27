@@ -27,7 +27,7 @@ master_fund: "Schroder ISF US S&M-Cap Eq X Acc USD"
 master_isin: "LU0607219986"
 peer_group: "US Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/us, use/accumulate]
 ---
 
 # KF-HSMUS

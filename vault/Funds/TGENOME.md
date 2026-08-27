@@ -25,7 +25,7 @@ holdings_count: 13
 top10_pct_nav: 102.52
 peer_group: "Health Care"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/ultra-concentrated, fx/partially-hedged, struct/direct, theme/healthcare, use/thematic]
 ---
 
 # TGENOME

@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 100.75
 master_fund: "Schwab U.S. Dividend Equity ETF"
 master_isin: "US8085247976"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/us, use/accumulate]
 ---
 
 # TLUSHD-H

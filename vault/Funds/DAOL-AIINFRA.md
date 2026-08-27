@@ -21,7 +21,7 @@ nav_date: "2026-08-25"
 fund_size: 155630383.25
 master_fund: "Tortoise AI Infrastructure ETF"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/discretionary, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
 ---
 
 # DAOL-AIINFRA

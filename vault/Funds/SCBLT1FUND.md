@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 7447268179.26
 holdings_count: 67
 top10_pct_nav: 53.86
-tags: [fund, sec-data, policy/mixed, risk/5, active, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
 ---
 
 # SCBLT1FUND

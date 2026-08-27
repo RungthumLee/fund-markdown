@@ -24,7 +24,7 @@ fund_size: 94615893456.72
 holdings_count: 38
 top10_pct_nav: 69.99
 peer_group: "Short Term Government Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # B-TNTV

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 11441230471.01
 holdings_count: 46
 top10_pct_nav: 52.39
-tags: [fund, sec-data, policy/fixed-income, risk/1, active, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
 ---
 
 # SCBMONEY

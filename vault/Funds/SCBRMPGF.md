@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 102.56
 master_fund: "DWS Invest CROCI Sectors Plus FCH (P)"
 master_isin: "LU1701862812"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # SCBRMPGF

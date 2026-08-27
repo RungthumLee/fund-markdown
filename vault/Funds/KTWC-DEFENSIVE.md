@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 4540399537.79
 holdings_count: 48
 top10_pct_nav: 77.44
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
 ---
 
 # KTWC-DEFENSIVE

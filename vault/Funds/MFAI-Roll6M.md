@@ -24,7 +24,7 @@ fund_size: 787405079.32
 holdings_count: 10
 top10_pct_nav: 94.88
 fund_managers: ["นาย พิพัฒน์ นรานันทน์", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, restricted-investor]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/buy-hold, geo/thailand, use/accumulate, audience/restricted]
 ---
 
 # MFAI-Roll6M

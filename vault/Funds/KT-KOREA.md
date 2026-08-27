@@ -25,7 +25,7 @@ holdings_count: 25
 top10_pct_nav: 124.22
 master_fund: "iShares MSCI South Korea ETF"
 master_isin: "US4642867729"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, geo/korea, use/accumulate]
 ---
 
 # KT-KOREA

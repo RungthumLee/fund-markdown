@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 89.85
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/concentrated, fx/discretionary, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-FITL

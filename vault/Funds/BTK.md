@@ -24,7 +24,7 @@ fund_size: 728591495.93
 holdings_count: 17
 top10_pct_nav: 83.85
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # BTK

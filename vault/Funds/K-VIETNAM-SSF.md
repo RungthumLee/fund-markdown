@@ -24,7 +24,7 @@ fund_size: 1404134841.31
 holdings_count: 4
 top10_pct_nav: 100.15
 master_fund: "กองทุนเปิดเค เวียดนาม หุ้นทุนเพื่อการเลี้ยงชีพ"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/vietnam, use/accumulate]
 ---
 
 # K-VIETNAM-SSF

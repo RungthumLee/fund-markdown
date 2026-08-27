@@ -25,7 +25,7 @@ holdings_count: 20
 top10_pct_nav: 74.34
 peer_group: "Equity General"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "น.ส. กอบพร กุลสุรกิจ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # K-SELECT

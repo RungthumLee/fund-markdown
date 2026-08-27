@@ -25,7 +25,7 @@ holdings_count: 46
 top10_pct_nav: 103.3
 master_fund: "iShares India 50 ETF"
 master_isin: "US4642895290"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, style/dividend, geo/india, use/income]
 ---
 
 # SCBINDIAFUND

@@ -26,7 +26,7 @@ top10_pct_nav: 98.94
 master_fund: "Allianz China A Shares PT USD"
 master_isin: "LU1997246811"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/china, use/tax-saving]
 ---
 
 # B-CHINAARMF

@@ -25,7 +25,7 @@ holdings_count: 8
 top10_pct_nav: 132.76
 peer_group: "Money Market Government"
 fund_managers: ["นาง สาวชนัยกานต์ สวัสดิฤกษ์", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/fixed-income, risk/2, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/park-cash]
 ---
 
 # FP MONEY

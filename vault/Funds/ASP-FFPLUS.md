@@ -24,7 +24,7 @@ fund_size: 1224916.83
 holdings_count: 9
 top10_pct_nav: 100.37
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "นาย สุชน รัตนหิรัgภรณ์"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-FFPLUS

@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 105.14
 master_fund: "Vontobel mtx Em Mkts Ldrs I USD"
 master_isin: "LU0571085686"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/emerging-markets, use/accumulate]
 ---
 
 # KT-EMEQ

@@ -27,7 +27,7 @@ master_fund: "GS India Equity I Acc USD"
 master_isin: "LU0333811072"
 peer_group: "India Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/india, use/accumulate]
 ---
 
 # ES-INDAE

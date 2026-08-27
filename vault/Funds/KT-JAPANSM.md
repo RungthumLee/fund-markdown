@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 104.84
 master_fund: "Janus Henderson Hrzn Jpn Smr Coms A2 JPY"
 master_isin: "LU0572961604"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/japan, use/tax-saving, use/income]
 ---
 
 # KT-JAPANSM

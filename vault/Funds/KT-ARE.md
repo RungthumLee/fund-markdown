@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 101.72
 master_fund: "Fidelity Abs Ret Glb Eq Y-PF-Acc-USD"
 master_isin: "LU2210152661"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # KT-ARE

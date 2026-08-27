@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 10922664501.19
 holdings_count: 95
 top10_pct_nav: 50.21
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
 ---
 
 # SCBRM2

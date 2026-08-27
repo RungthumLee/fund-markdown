@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 21499775.36
 holdings_count: 19
 top10_pct_nav: 84.48
-tags: [fund, sec-data, policy/mixed, risk/6]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, compliance/trigger-fund, geo/thailand, use/accumulate]
 ---
 
 # PRINCIPAL THTG6M1

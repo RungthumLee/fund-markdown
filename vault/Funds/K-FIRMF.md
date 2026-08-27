@@ -25,7 +25,7 @@ holdings_count: 95
 top10_pct_nav: 30.52
 peer_group: "Long Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม", "นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # K-FIRMF

@@ -24,7 +24,7 @@ fund_size: 492083476.1
 holdings_count: 42
 top10_pct_nav: 101.4
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย ชาญวุฒิ รุงแสงมนูญ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, geo/china, theme/technology, use/thematic]
 ---
 
 # M-CTECH

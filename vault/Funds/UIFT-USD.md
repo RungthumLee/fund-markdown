@@ -25,7 +25,7 @@ top10_pct_nav: 100.13
 master_fund: "United CIO Income T USD Acc"
 master_isin: "SGXZ10538536"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # UIFT-USD

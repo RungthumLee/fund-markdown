@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 104.51
 master_fund: "MS INVF Global Opportunity Z"
 master_isin: "LU0552385535"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # PRINCIPAL GOPP

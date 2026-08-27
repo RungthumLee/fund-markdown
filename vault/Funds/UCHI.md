@@ -24,7 +24,7 @@ fund_size: 928394122.61
 holdings_count: 5
 top10_pct_nav: 101.83
 peer_group: "Health Care"
-tags: [fund, sec-data, policy/equity, risk/7, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/china, theme/healthcare, use/thematic]
 ---
 
 # UCHI

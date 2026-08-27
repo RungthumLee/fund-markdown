@@ -26,7 +26,7 @@ top10_pct_nav: 100.05
 master_fund: "Stt Strt USD Lqudty LVNAV Sel Acc"
 master_isin: "IE00BBT33R47"
 peer_group: "Global Bond Fully F/X Hedge"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # USDAILY

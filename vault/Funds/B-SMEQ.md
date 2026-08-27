@@ -24,7 +24,7 @@ fund_size: 110840170.88
 holdings_count: 37
 top10_pct_nav: 43.55
 peer_group: "Equity Small - Mid Cap"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # B-SMEQ

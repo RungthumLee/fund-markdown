@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 101.48
 master_fund: "VanEck Video Gaming and eSports ETF"
 master_isin: "US92189F1140"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-PLAY

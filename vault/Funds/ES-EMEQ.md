@@ -27,7 +27,7 @@ master_fund: "iShares MSCI Emerging Markets ETF"
 master_isin: "US4642872349"
 peer_group: "Emerging Market"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/emerging-markets, use/accumulate]
 ---
 
 # ES-EMEQ

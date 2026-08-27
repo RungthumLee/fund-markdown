@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 991934566.34
 holdings_count: 18
 top10_pct_nav: 86.82
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
 ---
 
 # LHPROP-I

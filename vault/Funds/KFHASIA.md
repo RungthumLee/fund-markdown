@@ -27,7 +27,7 @@ master_fund: "Baillie Gifford Pacific B Acc"
 master_isin: "GB0006063233"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "น.ส. วรดา ตันติสุนทร"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
 ---
 
 # KFHASIA

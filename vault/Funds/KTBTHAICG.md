@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 65757044.4
 holdings_count: 49
 top10_pct_nav: 68.76
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # KTBTHAICG

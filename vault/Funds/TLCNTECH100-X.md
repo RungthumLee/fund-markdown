@@ -21,7 +21,7 @@ nav: 9.4569
 nav_date: "2026-08-25"
 fund_size: 30109285.56
 master_fund: "Rayliant-ChinaAMC Transformative China Tech ETF"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, geo/china, theme/technology, use/thematic]
 ---
 
 # TLCNTECH100-X

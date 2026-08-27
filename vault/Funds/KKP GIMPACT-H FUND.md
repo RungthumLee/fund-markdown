@@ -24,7 +24,7 @@ fund_size: 32313695.61
 holdings_count: 13
 top10_pct_nav: 103.41
 master_fund: "Wellington Global Impact USD DL Ac"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # KKP GIMPACT-H FUND

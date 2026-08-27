@@ -24,7 +24,7 @@ fund_size: 46191373.56
 holdings_count: 46
 top10_pct_nav: 97.7
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # CPRMF3

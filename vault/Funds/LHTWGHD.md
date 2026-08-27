@@ -23,7 +23,7 @@ fund_size: 54202493.27
 holdings_count: 6
 top10_pct_nav: 109.82
 master_fund: "CTBC TIP Customized Taiwan Growth and High Dividend ETF"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, geo/taiwan, use/accumulate]
 ---
 
 # LHTWGHD

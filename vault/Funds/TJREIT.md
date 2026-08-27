@@ -26,7 +26,7 @@ master_fund: "NEXT FUNDS REIT INDEX ETF"
 master_isin: "JP3047010008"
 peer_group: "Fund of Property Fund - Foreign"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, geo/japan, theme/real-estate, use/thematic]
 ---
 
 # TJREIT

@@ -24,7 +24,7 @@ fund_size: 767977409.25
 holdings_count: 3
 top10_pct_nav: 100.33
 master_fund: "กองทุนเปิดไทยพาณิชย์ หุ้นเวียดนาม"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/vietnam, use/accumulate]
 ---
 
 # SCBRMVIET

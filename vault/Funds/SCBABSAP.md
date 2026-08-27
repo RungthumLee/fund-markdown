@@ -24,7 +24,7 @@ holdings_count: 107
 top10_pct_nav: 103.53
 master_fund: "BSF Systematic APAC Eq Abs Rt D2 USD"
 master_isin: "LU1508158190"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/asia-pacific, use/accumulate]
 ---
 
 # SCBABSAP

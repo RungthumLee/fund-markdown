@@ -25,7 +25,7 @@ holdings_count: 41
 top10_pct_nav: 76.21
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย วีรชัย จันเป็ง", "น.ส. พัชราภา มหัทธนกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, theme/sustainability, use/income, use/thematic]
 ---
 
 # ES-DIVTHAIESGX

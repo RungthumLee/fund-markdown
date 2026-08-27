@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 455054356.84
 holdings_count: 14
 top10_pct_nav: 94.78
-tags: [fund, sec-data, policy/fixed-income, risk/2, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/park-cash]
 ---
 
 # PRINCIPAL TREASURY

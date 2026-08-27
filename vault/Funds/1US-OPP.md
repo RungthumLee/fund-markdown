@@ -24,7 +24,7 @@ fund_size: 179637549.64
 holdings_count: 22
 top10_pct_nav: 92.2
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/mixed, risk/6, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, geo/us, use/accumulate]
 ---
 
 # 1US-OPP

@@ -24,7 +24,7 @@ fund_size: 137276928.74
 holdings_count: 30
 top10_pct_nav: 81.54
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # UFIN

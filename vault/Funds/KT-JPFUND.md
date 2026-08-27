@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 103.04
 master_fund: "iShares Core Nikkei 225 ETF"
 master_isin: "JP3027710007"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/japan, use/accumulate]
 ---
 
 # KT-JPFUND

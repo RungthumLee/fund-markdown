@@ -26,7 +26,7 @@ top10_pct_nav: 104.77
 master_fund: "CSOP ETF Series - CSOP FTSE China A50 ETF"
 peer_group: "China Equity - A Shares"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/china, use/accumulate]
 ---
 
 # K-CHX

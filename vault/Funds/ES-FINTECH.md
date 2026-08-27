@@ -27,7 +27,7 @@ master_fund: "ARK Blockchain & Fintech Innovation ETF"
 master_isin: "US00214Q7088"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-FINTECH

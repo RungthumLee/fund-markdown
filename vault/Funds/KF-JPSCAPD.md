@@ -27,7 +27,7 @@ master_fund: "MUFG Japan Equity Small Cap I JPY Acc"
 master_isin: "LU1163552489"
 peer_group: "Japan Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/japan, use/income]
 ---
 
 # KF-JPSCAPD

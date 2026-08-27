@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1508607094.9
 holdings_count: 77
 top10_pct_nav: 51.48
-tags: [fund, sec-data, policy/mixed, risk/5, active, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
 ---
 
 # SCB70SSF

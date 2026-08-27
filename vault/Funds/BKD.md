@@ -24,7 +24,7 @@ fund_size: 2231615885.8
 holdings_count: 36
 top10_pct_nav: 68.4
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # BKD

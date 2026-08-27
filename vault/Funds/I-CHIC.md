@@ -26,7 +26,7 @@ top10_pct_nav: 113.35
 master_fund: "Dominion Global Trends Lxy Cnsmr EUR IC"
 master_isin: "MT7000004115"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # I-CHIC

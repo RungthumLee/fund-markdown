@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 3502208367.02
 holdings_count: 37
 top10_pct_nav: 67.89
-tags: [fund, sec-data, policy/fixed-income, risk/2, passive, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, fx/discretionary, struct/direct, style/enhanced-index, use/park-cash]
 ---
 
 # DAOL-MONEY

@@ -24,7 +24,7 @@ fund_size: 8134327.89
 holdings_count: 6
 top10_pct_nav: 100.27
 fund_managers: ["นาย ปรินทร เดชศรี", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # M-MIX50

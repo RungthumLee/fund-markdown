@@ -26,7 +26,7 @@ top10_pct_nav: 100.57
 master_fund: "Fidelity Funds - Asian Special Situations Fund Y-Acc-USD"
 master_isin: "LU0346390601"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/asia-pacific, use/accumulate]
 ---
 
 # ASP-ASIAN

@@ -24,7 +24,7 @@ fund_size: 588486310.34
 holdings_count: 4
 top10_pct_nav: 99.92
 master_fund: "iShares Expanded Tech Sector ETF"
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/ssf, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # KKP TECH-UH FUND

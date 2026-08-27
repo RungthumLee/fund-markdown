@@ -25,7 +25,7 @@ top10_pct_nav: 105.21
 master_fund: "Franklin Technology I Acc USD"
 master_isin: "LU0626261944"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
 ---
 
 # UGTECH-USD

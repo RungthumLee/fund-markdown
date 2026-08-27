@@ -26,7 +26,7 @@ top10_pct_nav: 101.5
 master_fund: "Fullgoal China A Share I USD Inc"
 master_isin: "LU2568635531"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/china, use/accumulate]
 ---
 
 # ASP-CHINA

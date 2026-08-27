@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 48922925.53
 holdings_count: 41
 top10_pct_nav: 56.28
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/thai-esg]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/income, use/thematic]
 ---
 
 # PRINCIPAL EQESG

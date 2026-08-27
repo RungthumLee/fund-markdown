@@ -27,7 +27,7 @@ master_fund: "Xtrackers DAX UCITS ETF 1C"
 master_isin: "LU0274211480"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/europe, use/accumulate]
 ---
 
 # ES-GER

@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 53278391.53
 holdings_count: 20
 top10_pct_nav: 103.08
-tags: [fund, sec-data, policy/equity, risk/6, passive, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/direct, style/passive, tax/ssf, geo/china, use/tax-saving]
 ---
 
 # KKP CHINA-H FUND

@@ -24,7 +24,7 @@ fund_size: 66033424.17
 holdings_count: 63
 top10_pct_nav: 48.79
 fund_managers: ["นาย ศรุต สุทธิสำแดง"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # HI-DIV RMF

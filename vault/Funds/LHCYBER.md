@@ -24,7 +24,7 @@ fund_size: 165037070.61
 holdings_count: 15
 top10_pct_nav: 113.99
 master_fund: "First Trust Nasdaq Cybersecurity UCITS ETF Class A USD Accumulation"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # LHCYBER

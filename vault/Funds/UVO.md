@@ -24,7 +24,7 @@ fund_size: 82974471.69
 holdings_count: 6
 top10_pct_nav: 100.21
 peer_group: "Vietnam Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, geo/vietnam, use/accumulate]
 ---
 
 # UVO

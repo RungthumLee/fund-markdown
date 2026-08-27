@@ -24,7 +24,7 @@ fund_size: 806678818.55
 holdings_count: 43
 top10_pct_nav: 66.47
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, theme/sustainability, use/thematic]
 ---
 
 # B-MIXED-THAIESG

@@ -25,7 +25,7 @@ holdings_count: 38
 top10_pct_nav: 63.49
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # K-FIXEDPRO

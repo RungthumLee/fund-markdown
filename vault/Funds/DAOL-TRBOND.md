@@ -25,7 +25,7 @@ holdings_count: 15
 top10_pct_nav: 101.56
 master_fund: "H2O Multi Aggregate I-B USD"
 master_isin: "IE00BHNZKL13"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-TRBOND

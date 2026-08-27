@@ -25,7 +25,7 @@ holdings_count: 18
 top10_pct_nav: 97.52
 peer_group: "Money Market Government"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, policy/fixed-income, risk/1, passive]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, geo/thailand, use/park-cash]
 ---
 
 # TISCOSTF

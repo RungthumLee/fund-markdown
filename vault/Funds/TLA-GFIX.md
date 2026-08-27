@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 1172939416.8
 holdings_count: 13
 top10_pct_nav: 88.92
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # TLA-GFIX

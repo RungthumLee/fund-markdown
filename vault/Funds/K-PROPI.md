@@ -25,7 +25,7 @@ holdings_count: 47
 top10_pct_nav: 65.65
 peer_group: "Fund of Property fund - Thai and Foreign"
 fund_managers: ["นาย ธีรวัฒน์ บรรเจิดสุทธิกุล"]
-tags: [fund, sec-data, policy/mixed, risk/8, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, theme/real-estate, use/income, use/thematic]
 ---
 
 # K-PROPI

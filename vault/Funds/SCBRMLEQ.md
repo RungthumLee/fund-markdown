@@ -25,7 +25,7 @@ holdings_count: 34
 top10_pct_nav: 100.95
 master_fund: "AB SICAV I - Low Volatility Equity Portfolio I Acc"
 master_isin: "LU0861579349"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMLEQ

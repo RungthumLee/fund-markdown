@@ -27,7 +27,7 @@ master_fund: "GS Europe CORE Equity I Acc EUR"
 master_isin: "LU0234682044"
 peer_group: "European Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "น.ส. วรดา ตันติสุนทร"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
 ---
 
 # KF-HEUROPE

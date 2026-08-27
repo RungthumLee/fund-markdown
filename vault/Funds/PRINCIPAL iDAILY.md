@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 518823028.23
 holdings_count: 24
 top10_pct_nav: 74.84
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # PRINCIPAL iDAILY

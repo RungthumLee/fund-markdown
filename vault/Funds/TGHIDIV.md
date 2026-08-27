@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.23
 peer_group: "Global Equity"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # TGHIDIV

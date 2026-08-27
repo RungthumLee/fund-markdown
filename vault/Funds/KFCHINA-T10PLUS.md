@@ -25,7 +25,7 @@ holdings_count: 27
 top10_pct_nav: 85.07
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/direct, geo/china, theme/technology, use/thematic]
 ---
 
 # KFCHINA-T10PLUS

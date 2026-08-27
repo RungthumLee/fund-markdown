@@ -24,7 +24,7 @@ fund_size: 6701794635.61
 holdings_count: 8
 top10_pct_nav: 99.47
 peer_group: "Long Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/3, active]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # B-SI-THAIESG

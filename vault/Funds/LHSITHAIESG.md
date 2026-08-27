@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 23899171.8
 holdings_count: 5
 top10_pct_nav: 100.16
-tags: [fund, sec-data, policy/fixed-income, risk/3, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, theme/sustainability, use/thematic]
 ---
 
 # LHSITHAIESG

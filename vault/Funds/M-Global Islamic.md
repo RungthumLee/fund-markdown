@@ -21,7 +21,7 @@ nav: 9.8764
 nav_date: "2026-08-24"
 fund_size: 884079.08
 master_fund: "HSBC Islamic Global Equity Index AD"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, compliance/sharia, geo/world, use/accumulate]
 ---
 
 # M-Global Islamic

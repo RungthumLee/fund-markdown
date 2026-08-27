@@ -24,7 +24,7 @@ fund_size: 273042097.59
 holdings_count: 16
 top10_pct_nav: 91.16
 peer_group: "Money Market Government"
-tags: [fund, sec-data, policy/fixed-income, risk/1, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
 ---
 
 # PCASH

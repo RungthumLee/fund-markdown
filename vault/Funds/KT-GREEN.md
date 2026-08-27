@@ -24,7 +24,7 @@ holdings_count: 12
 top10_pct_nav: 101.94
 master_fund: "Schroder ISF Glbl Alt Engy C Acc USD"
 master_isin: "LU2016063229"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, theme/energy, use/tax-saving, use/thematic]
 ---
 
 # KT-GREEN

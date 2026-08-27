@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 113.91
 master_fund: "JPM Korea Equity I acc USD"
 master_isin: "LU0301639745"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, geo/korea, use/accumulate]
 ---
 
 # PRINCIPAL KEQ

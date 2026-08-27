@@ -27,7 +27,7 @@ master_fund: "iShares Core EURO STOXX 50 UCITS ETF EUR (Dist)"
 master_isin: "IE0008471009"
 peer_group: "European Equity"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, geo/europe, use/tax-saving]
 ---
 
 # TISCOEU

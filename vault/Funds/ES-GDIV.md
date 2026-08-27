@@ -27,7 +27,7 @@ master_fund: "JPM Global Dividend C acc USD"
 master_isin: "LU0329202922"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/world, use/income]
 ---
 
 # ES-GDIV

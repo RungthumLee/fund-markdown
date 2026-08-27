@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 99.41
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, policy/fixed-income, risk/3, active]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # TSIThaiESG

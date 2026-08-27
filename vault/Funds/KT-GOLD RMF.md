@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 101.41
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, theme/metals-mining/gold, use/tax-saving, use/thematic]
 ---
 
 # KT-GOLD RMF

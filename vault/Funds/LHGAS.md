@@ -23,7 +23,7 @@ fund_size: 90814513.78
 holdings_count: 15
 top10_pct_nav: 102.39
 master_fund: "First Trust Natural Gas ETF"
-tags: [fund, sec-data, policy/equity, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # LHGAS

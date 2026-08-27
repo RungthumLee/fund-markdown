@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 128010549.77
 holdings_count: 3
 top10_pct_nav: 98.76
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t2, fx/discretionary, struct/direct, use/accumulate, audience/restricted]
 ---
 
 # KT-BTCETFFOF-UI

@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 98.91
 master_fund: "กองทุนเปิดบัวหลวงหุ้นเวียดนาม"
 peer_group: "Vietnam Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, geo/vietnam, use/accumulate]
 ---
 
 # B-VIETNAMSSF

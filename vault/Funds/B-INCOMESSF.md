@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 98.28
 master_fund: "กองทุนเปิดบัวหลวงอินคัมเพื่อการออม"
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # B-INCOMESSF

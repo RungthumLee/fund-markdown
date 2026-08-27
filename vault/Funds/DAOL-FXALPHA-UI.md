@@ -25,7 +25,7 @@ holdings_count: 13
 top10_pct_nav: 74.78
 master_fund: "P/E FX Strategy Fund USD Cl"
 master_isin: "IE00BYQD3C34"
-tags: [fund, sec-data, policy/mixed, risk/6, active, feeder, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
 ---
 
 # DAOL-FXALPHA-UI

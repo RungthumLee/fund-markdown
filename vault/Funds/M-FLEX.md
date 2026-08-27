@@ -24,7 +24,7 @@ fund_size: 3288912.93
 holdings_count: 50
 top10_pct_nav: 91.37
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย ประวีร์ อัจจิมากุล"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # M-FLEX

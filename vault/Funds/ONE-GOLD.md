@@ -25,7 +25,7 @@ top10_pct_nav: 107.73
 master_fund: "SPDR Gold MiniShares"
 master_isin: "US98149E3036"
 fund_managers: ["นาย ธัชธรรม วิจารณกรณ์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
 ---
 
 # ONE-GOLD

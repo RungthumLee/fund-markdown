@@ -25,7 +25,7 @@ holdings_count: 31
 top10_pct_nav: 65.43
 peer_group: "Fund of Property fund - Foreign"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/asia-pacific, theme/real-estate, use/thematic]
 ---
 
 # FP APREIT

@@ -25,7 +25,7 @@ holdings_count: 26
 top10_pct_nav: 104.37
 master_fund: "MS INVF US Growth Z"
 master_isin: "LU0360477805"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/us, use/tax-saving]
 ---
 
 # SCBUSA

@@ -24,7 +24,7 @@ fund_size: 16879394.42
 holdings_count: 70
 top10_pct_nav: 70.33
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # ONE-PREMIER

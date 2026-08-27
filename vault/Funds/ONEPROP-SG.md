@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.26
 master_fund: "Phillip Singapore Real Estate Income Fund"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, theme/real-estate, use/thematic]
 ---
 
 # ONEPROP-SG

@@ -26,7 +26,7 @@ top10_pct_nav: 110.01
 master_fund: "Invesco DB Agriculture Fund"
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # K-AGRI

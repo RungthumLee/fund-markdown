@@ -25,7 +25,7 @@ top10_pct_nav: 112.45
 master_fund: "Roundhill Memory ETF"
 master_isin: "US77926X3200"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
 ---
 
 # DAOL-DRAM

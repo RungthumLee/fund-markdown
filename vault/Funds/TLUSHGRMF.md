@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 99.92
 master_fund: "Schwab U.S. Large-Cap Growth ETF"
 master_isin: "US8085243009"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, geo/us, use/tax-saving]
 ---
 
 # TLUSHGRMF

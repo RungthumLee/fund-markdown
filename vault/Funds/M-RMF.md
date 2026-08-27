@@ -24,7 +24,7 @@ fund_size: 555257320.94
 holdings_count: 38
 top10_pct_nav: 52.98
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, policy/fixed-income, risk/1, passive, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, theme/financials, use/park-cash, use/tax-saving]
 ---
 
 # M-RMF

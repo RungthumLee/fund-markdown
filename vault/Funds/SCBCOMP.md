@@ -25,7 +25,7 @@ holdings_count: 151
 top10_pct_nav: 104.43
 master_fund: "PIMCO GIS Commodity Real Return Fund Institutional USD Accumulation"
 master_isin: "IE00B1BXJ858"
-tags: [fund, sec-data, policy/alternative, risk/8, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBCOMP

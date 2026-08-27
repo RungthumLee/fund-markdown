@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.2
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย อธิษฐ์สินอยู่", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, theme/infrastructure, use/thematic]
 ---
 
 # TISCOGIF

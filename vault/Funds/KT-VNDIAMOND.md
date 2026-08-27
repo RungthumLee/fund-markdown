@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 98.55
 master_fund: "VFMVN Diamond ETF"
 master_isin: "VN0FUEVFVND5"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-VNDIAMOND

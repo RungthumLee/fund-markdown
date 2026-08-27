@@ -24,7 +24,7 @@ fund_size: 3971897.97
 holdings_count: 21
 top10_pct_nav: 77.74
 fund_managers: ["นาย ศรุต สุทธิสำแดง", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, theme/sustainability, use/income, use/thematic]
 ---
 
 # HIDIV-Thai ESGX

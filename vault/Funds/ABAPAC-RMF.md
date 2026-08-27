@@ -25,7 +25,7 @@ holdings_count: 8
 top10_pct_nav: 100.2
 master_fund: "abrdn Pacific Eq SGD"
 master_isin: "SG9999000459"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/asia-pacific, use/tax-saving]
 ---
 
 # ABAPAC-RMF

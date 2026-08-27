@@ -27,7 +27,7 @@ master_fund: "Janus Henderson Glb Life Scn I2 USD"
 master_isin: "IE0002141913"
 peer_group: "Health Care"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
 ---
 
 # ES-HEALTHCARERMF

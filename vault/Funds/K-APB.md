@@ -26,7 +26,7 @@ top10_pct_nav: 109.6
 master_fund: "LO Funds Asia Value Bond USD NA"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
 ---
 
 # K-APB

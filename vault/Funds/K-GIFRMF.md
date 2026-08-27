@@ -26,7 +26,7 @@ top10_pct_nav: 104.4
 master_fund: "Wellington Endrng Infras Asts EUR G Ac"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, theme/infrastructure, use/tax-saving, use/thematic]
 ---
 
 # K-GIFRMF

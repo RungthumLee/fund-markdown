@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 102.51
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล"]
-tags: [fund, sec-data, policy/equity, risk/7, passive]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/passive, geo/thailand, theme/financials, use/thematic]
 ---
 
 # K-BANKING

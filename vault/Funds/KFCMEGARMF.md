@@ -26,7 +26,7 @@ top10_pct_nav: 101.43
 master_fund: "กองทุนเปิดกรุงศรีไชน่าเมกะเทรนด์"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/china, use/tax-saving]
 ---
 
 # KFCMEGARMF

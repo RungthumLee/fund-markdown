@@ -23,7 +23,7 @@ fund_size: 2378653924.08
 holdings_count: 14
 top10_pct_nav: 100.98
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t3, fx/partially-hedged, struct/direct, use/accumulate, audience/restricted]
 ---
 
 # ONE-LIFESET-UI

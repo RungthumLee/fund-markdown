@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 11016509.79
 holdings_count: 22
 top10_pct_nav: 64.6
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, theme/sustainability, use/thematic]
 ---
 
 # MEGATX8020C

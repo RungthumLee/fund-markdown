@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 97.56
 master_fund: "Schroder Invmt Fd FlexCatBd IF Acc USD"
 master_isin: "LU1196277534"
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KT-CATBONDUH-UI

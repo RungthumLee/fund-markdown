@@ -25,7 +25,7 @@ holdings_count: 120
 top10_pct_nav: 82.09
 peer_group: "Conservative Allocation"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/total-market, fx/partially-hedged, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # K-WPBALRMF

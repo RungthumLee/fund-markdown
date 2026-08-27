@@ -26,7 +26,7 @@ top10_pct_nav: 82.25
 master_fund: "Amundi Fds European Eq Sm Cp I2 EUR C"
 master_isin: "LU1883307545"
 peer_group: "European Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/europe, use/accumulate]
 ---
 
 # UES

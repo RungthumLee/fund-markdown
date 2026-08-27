@@ -24,7 +24,7 @@ fund_size: 17075769.13
 holdings_count: 7
 top10_pct_nav: 106.83
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/asia-pacific, use/accumulate]
 ---
 
 # ASIA-E

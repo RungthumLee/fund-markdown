@@ -25,7 +25,7 @@ holdings_count: 23
 top10_pct_nav: 101.71
 master_fund: "Man TargetRisk I USD"
 master_isin: "IE00BRJT7H22"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate, audience/restricted]
 ---
 
 # SCBGMT

@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 1926546270.03
 holdings_count: 35
 top10_pct_nav: 104.0
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/direct, style/active, geo/world, theme/technology/ai-robotics, use/thematic]
 ---
 
 # SCBROBO

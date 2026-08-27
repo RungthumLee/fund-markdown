@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 101.56
 master_fund: "JPMorgan Investment Funds – Global Macro Opportunities Fund"
 master_isin: "LU0095938881"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # UGMAC

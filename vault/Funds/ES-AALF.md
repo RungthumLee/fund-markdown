@@ -25,7 +25,7 @@ holdings_count: 29
 top10_pct_nav: 85.46
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ธีระศันส์ ทุติยะโพธิ"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-AALF

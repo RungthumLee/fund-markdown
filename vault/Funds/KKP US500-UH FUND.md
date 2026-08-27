@@ -24,7 +24,7 @@ fund_size: 2185217544.82
 holdings_count: 4
 top10_pct_nav: 100.51
 master_fund: "iShares Core S&P 500 ETF"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # KKP US500-UH FUND

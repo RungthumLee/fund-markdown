@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 96.98
 master_fund: "กองทุนเปิดบัวหลวง ไดนามิก บอนด์"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-DYNAMICSSF

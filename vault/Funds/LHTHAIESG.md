@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 15860654.55
 holdings_count: 19
 top10_pct_nav: 78.54
-tags: [fund, sec-data, policy/equity, active, tax/thai-esg]
+tags: [fund, sec-data, asset/equity, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, geo/thailand, theme/sustainability, use/tax-saving, use/income, use/thematic]
 ---
 
 # LHTHAIESG

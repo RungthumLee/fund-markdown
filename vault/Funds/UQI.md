@@ -26,7 +26,7 @@ top10_pct_nav: 100.08
 master_fund: "United SGD T (Acc) USD"
 master_isin: "SGXZ93125805"
 peer_group: "Global Bond Fully F/X Hedge"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # UQI

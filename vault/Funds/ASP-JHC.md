@@ -26,7 +26,7 @@ top10_pct_nav: 100.49
 master_fund: "SuMi TRUST Sakigake Hi Aph B JPY Acc"
 master_isin: "LU1824452749"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, geo/japan, use/tax-saving]
 ---
 
 # ASP-JHC

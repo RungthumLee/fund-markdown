@@ -26,7 +26,7 @@ top10_pct_nav: 99.51
 master_fund: "VanEck Defense ETF A USD Acc"
 master_isin: "IE000YYE6WK5"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-DEFENSE

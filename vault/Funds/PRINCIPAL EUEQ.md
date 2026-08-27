@@ -25,7 +25,7 @@ holdings_count: 20
 top10_pct_nav: 102.61
 master_fund: "Principal European Equity I Acc EUR"
 master_isin: "IE00B60S0X89"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/europe, use/tax-saving]
 ---
 
 # PRINCIPAL EUEQ

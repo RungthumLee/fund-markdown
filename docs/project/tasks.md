@@ -138,6 +138,32 @@ Legend: `[x]` เสร็จ · `[~]` กำลังทำ · `[ ]` ยัง�
 
 ---
 
+## Phase 10 — Faceted tag layer (ภาษานักลงทุน)
+
+โจทย์: ข้อมูล ก.ล.ต. พูดภาษากฎเกณฑ์ คนค้นไม่เจอ เช่น "หุ้นจีน AI" หรือ
+"พักเงินสั้น ถอนไว" — แก้ด้วยระบบ **faceted tag** (รวม taxonomy ของผู้ใช้ +
+tag ภาษานักลงทุน) เป็น markdown ล้วน ให้ Obsidian tag pane + Dataview เป็น query engine
+
+### เฟส 1 — tag แบบ deterministic (ทำแล้ว)
+- [x] **T-110** `scripts/tagging.py` — `investor_tags(f)` คำนวณ tag แบบ rule ล้วน
+  75 tag ใน 13 facet: asset · risk · liquidity · conc · fx · struct · style · use ·
+  tax · compliance · geo · theme · audience
+- [x] **T-111** กัน keyword false positive (ตระกูล [[issues|ISS-009]]): theme/geo/compliance
+  อ่านจาก**ชื่อกอง**ไม่ใช่ policy boilerplate · `\besg\b`/`ev-battery` กัน substring ชน ·
+  concentration เฉพาะกองหุ้น
+- [x] **T-112** ใช้ charset ที่ Obsidian ยอมรับ (ไม่มี `+` → `liquidity/t1`, ไม่มี segment เลขล้วน)
+- [x] **T-113** ต่อเข้า `fund_tags()` → frontmatter ทุกกอง · สร้าง [[../../vault/Indexes/tags|🏷️ tags]]
+  (faceted browser + Dataview "คำถามยอดฮิต") + ลิงก์จาก home
+- [x] **T-114** ยืนยันผล: `#geo/china #theme/technology` = 16 กอง (คลีน) · `#use/park-cash` = 48 กอง ·
+  validate_vault/semantics เขียว
+
+### เฟส 2–3 (ยังไม่ทำ)
+- [ ] **T-115** โน้ต cluster + ตารางเทียบ "ต่างกันยังไง" ต่อกลุ่มธีม
+- [ ] **T-116** สรุปภาษาคน 1 ย่อหน้า/กอง (template จาก tag ก่อน → LLM ขัดทีหลัง)
+- [ ] **T-117** ขัด theme/geo ด้วย Ollama (a-shares/h-shares, semiconductor vs internet) + cap-size
+
+---
+
 ## งานที่เสนอไว้สำหรับรอบถัดไป
 
 ดู [[roadmap|Roadmap]] และ [[outstanding|Outstanding items]]

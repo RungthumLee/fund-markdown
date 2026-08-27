@@ -25,7 +25,7 @@ holdings_count: 26
 top10_pct_nav: 72.61
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย ธีรุตร อัศวมงคลกุล"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # K-SFIXED

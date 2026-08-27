@@ -25,7 +25,7 @@ holdings_count: 31
 top10_pct_nav: 103.47
 master_fund: "Amova ARK Disruptive Innovation A USD"
 master_isin: "LU1861556378"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBINNO

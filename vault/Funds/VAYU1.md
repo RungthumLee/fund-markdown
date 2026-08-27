@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 156570739726.03
 holdings_count: 224
 top10_pct_nav: 66.39
-tags: [fund, sec-data, policy/mixed, risk/5, active, government-policy, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/total-market, fx/unhedged, struct/direct, style/active, style/dividend, use/income, audience/government]
 ---
 
 # VAYU1

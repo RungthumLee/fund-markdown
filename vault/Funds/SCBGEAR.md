@@ -25,7 +25,7 @@ holdings_count: 40
 top10_pct_nav: 104.08
 master_fund: "Jupiter Merian Glb Eq Abs Rt I USD Acc"
 master_isin: "IE00BLP5S684"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # SCBGEAR

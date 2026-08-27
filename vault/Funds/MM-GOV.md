@@ -24,7 +24,7 @@ fund_size: 4142428130.05
 holdings_count: 21
 top10_pct_nav: 80.34
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/fixed-income, risk/1, passive, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t5, struct/direct, style/enhanced-index, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
 ---
 
 # MM-GOV

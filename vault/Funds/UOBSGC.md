@@ -26,7 +26,7 @@ top10_pct_nav: 100.83
 master_fund: "United Greater China T SGD Acc"
 master_isin: "SGXZ53633806"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, geo/china, use/accumulate]
 ---
 
 # UOBSGC

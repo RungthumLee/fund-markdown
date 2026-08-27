@@ -25,7 +25,7 @@ holdings_count: 144
 top10_pct_nav: 107.69
 master_fund: "iShares Asia Trust - iShares Core MSCI AC Asia ex Japan Index ETF"
 master_isin: "HK0000051877"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/japan, use/tax-saving]
 ---
 
 # SCBAXJ

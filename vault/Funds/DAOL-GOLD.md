@@ -25,7 +25,7 @@ holdings_count: 22
 top10_pct_nav: 102.95
 master_fund: "Jupiter Gold & Silver I USD Acc"
 master_isin: "IE00BYVJRD56"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, theme/metals-mining/gold, use/thematic]
 ---
 
 # DAOL-GOLD

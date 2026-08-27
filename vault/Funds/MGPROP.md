@@ -26,7 +26,7 @@ top10_pct_nav: 103.45
 master_fund: "PGIM Global Sel RE Scrts USD I Acc"
 master_isin: "IE00BYM2RB15"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/real-estate, use/thematic]
 ---
 
 # MGPROP

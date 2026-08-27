@@ -27,7 +27,7 @@ master_fund: "Global X Cloud Computing ETF"
 master_isin: "US37954Y4420"
 peer_group: "Technology Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, theme/technology, use/thematic]
 ---
 
 # TCLOUD

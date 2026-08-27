@@ -25,7 +25,7 @@ holdings_count: 22
 top10_pct_nav: 70.92
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # X-EQPRO

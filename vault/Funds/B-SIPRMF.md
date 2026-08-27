@@ -24,7 +24,7 @@ fund_size: 1767633409.91
 holdings_count: 33
 top10_pct_nav: 98.79
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # B-SIPRMF

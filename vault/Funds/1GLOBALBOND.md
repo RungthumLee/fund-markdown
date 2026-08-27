@@ -24,7 +24,7 @@ fund_size: 4762247.08
 holdings_count: 10
 top10_pct_nav: 100.5
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/partially-hedged, struct/direct, style/enhanced-index, geo/world, use/accumulate]
 ---
 
 # 1GLOBALBOND

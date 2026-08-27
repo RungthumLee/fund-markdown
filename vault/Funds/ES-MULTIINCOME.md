@@ -25,7 +25,7 @@ holdings_count: 100
 top10_pct_nav: 35.62
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-MULTIINCOME

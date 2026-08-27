@@ -23,7 +23,7 @@ fund_size: 331394629.73
 holdings_count: 24
 top10_pct_nav: 66.5
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # UBIG CAP-DIV-M

@@ -25,7 +25,7 @@ holdings_count: 21
 top10_pct_nav: 102.5
 master_fund: "Principal Asia Pacific Dynamic Income Fund"
 master_isin: "MYU1002DP005"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/rmf, geo/asia-pacific, use/tax-saving]
 ---
 
 # PRINCIPAL APDIRMF

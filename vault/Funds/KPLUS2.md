@@ -24,7 +24,7 @@ fund_size: 63626709.53
 holdings_count: 48
 top10_pct_nav: 72.28
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # KPLUS2

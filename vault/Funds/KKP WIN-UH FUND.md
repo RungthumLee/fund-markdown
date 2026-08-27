@@ -23,7 +23,7 @@ fund_size: 221397830.41
 holdings_count: 6
 top10_pct_nav: 103.05
 master_fund: "iShares World Equity High Income Active UCITS ETF USD Acc"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # KKP WIN-UH FUND

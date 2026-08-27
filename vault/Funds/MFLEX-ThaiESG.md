@@ -24,7 +24,7 @@ fund_size: 130733806.49
 holdings_count: 73
 top10_pct_nav: 54.59
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย พิพัฒน์ นรานันทน์"]
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, theme/sustainability, use/income, use/thematic]
 ---
 
 # MFLEX-ThaiESG

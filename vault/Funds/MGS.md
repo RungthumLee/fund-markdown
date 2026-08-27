@@ -24,7 +24,7 @@ fund_size: 2718428.92
 holdings_count: 16
 top10_pct_nav: 104.25
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, geo/world, use/income]
 ---
 
 # MGS

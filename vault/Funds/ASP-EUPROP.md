@@ -26,7 +26,7 @@ top10_pct_nav: 101.21
 master_fund: "AXAWF Eurp Rl Est Secs I Cap EUR"
 master_isin: "LU0227125514"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, geo/europe, theme/real-estate, use/thematic]
 ---
 
 # ASP-EUPROP

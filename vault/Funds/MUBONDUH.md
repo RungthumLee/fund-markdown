@@ -26,7 +26,7 @@ top10_pct_nav: 101.67
 master_fund: "JPM US Aggregate Bond I acc USD"
 master_isin: "LU0248063595"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, style/dividend, tax/ssf, geo/us, use/tax-saving, use/income]
 ---
 
 # MUBONDUH

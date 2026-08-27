@@ -24,7 +24,7 @@ fund_size: 1813671587.27
 holdings_count: 45
 top10_pct_nav: 63.66
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # TEF

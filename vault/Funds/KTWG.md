@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 710905271.63
 holdings_count: 116
 top10_pct_nav: 46.41
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/total-market, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KTWG

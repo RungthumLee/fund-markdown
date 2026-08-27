@@ -24,7 +24,7 @@ fund_size: 327746489.44
 holdings_count: 24
 top10_pct_nav: 103.83
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย วงศกร เหมพันธ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, theme/technology, use/thematic]
 ---
 
 # DAOL-CYBER

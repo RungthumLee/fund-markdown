@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 32533676.17
 holdings_count: 81
 top10_pct_nav: 55.04
-tags: [fund, sec-data, policy/equity, risk/6, passive, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # PRINCIPAL SET100RMF

@@ -26,7 +26,7 @@ top10_pct_nav: 100.06
 master_fund: "กองทุนเปิด ttb smart port 3 balancer"
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # tsp3-balancer-SSF

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 312309583.48
 holdings_count: 24
 top10_pct_nav: 66.26
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, geo/vietnam, use/tax-saving]
 ---
 
 # KT-VIETNAM RMF

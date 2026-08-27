@@ -26,7 +26,7 @@ top10_pct_nav: 113.74
 master_fund: "Amundi Fds Glbl Aggt Bd A USD C"
 master_isin: "LU0319688015"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # I-SMART

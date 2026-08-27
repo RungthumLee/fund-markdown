@@ -26,7 +26,7 @@ top10_pct_nav: 103.7
 master_fund: "BlackRock Global Funds - Global Allocation Fund"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # K-GARMF

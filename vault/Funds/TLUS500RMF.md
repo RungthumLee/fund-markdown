@@ -24,7 +24,7 @@ holdings_count: 2
 top10_pct_nav: 99.97
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, geo/us, use/tax-saving]
 ---
 
 # TLUS500RMF

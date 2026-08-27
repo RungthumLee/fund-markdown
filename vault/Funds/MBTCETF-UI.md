@@ -26,7 +26,7 @@ top10_pct_nav: 100.08
 master_fund: "iShares Bitcoin Trust ETF"
 master_isin: "US46438F1012"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย ธนัย ลิขิตชัยกุล"]
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # MBTCETF-UI

@@ -24,7 +24,7 @@ fund_size: 61698174.34
 holdings_count: 12
 top10_pct_nav: 102.08
 master_fund: "MFS Meridian Funds - Contrarian Value Fund"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # KKP GVALUE-H FUND

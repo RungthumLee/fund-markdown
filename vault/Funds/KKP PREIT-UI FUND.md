@@ -24,7 +24,7 @@ fund_size: 147303682.46
 holdings_count: 4
 top10_pct_nav: 100.25
 master_fund: "Blackstone Real Estate Income Trust iCapital Offshore Access Fund SPC"
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, theme/real-estate, use/thematic, audience/restricted]
 ---
 
 # KKP PREIT-UI FUND

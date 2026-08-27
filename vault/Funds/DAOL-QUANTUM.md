@@ -25,7 +25,7 @@ top10_pct_nav: 91.66
 master_fund: "VanEck Quantum Computing UCITS ETF A USD Acc"
 master_isin: "IE0007Y8Y157"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-QUANTUM

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 106061642.97
 holdings_count: 21
 top10_pct_nav: 74.64
-tags: [fund, sec-data, policy/fixed-income, risk/1, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/rmf, geo/thailand, use/park-cash, use/tax-saving]
 ---
 
 # TLMMRMF

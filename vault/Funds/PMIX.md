@@ -24,7 +24,7 @@ fund_size: 86526972.53
 holdings_count: 37
 top10_pct_nav: 56.82
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # PMIX

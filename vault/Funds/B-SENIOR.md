@@ -24,7 +24,7 @@ fund_size: 9577572106.29
 holdings_count: 118
 top10_pct_nav: 34.88
 peer_group: "Conservative Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/total-market, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # B-SENIOR

@@ -24,7 +24,7 @@ fund_size: 967407.47
 holdings_count: 54
 top10_pct_nav: 52.78
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # MEQUITY-Thai ESGX

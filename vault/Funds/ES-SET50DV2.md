@@ -25,7 +25,7 @@ holdings_count: 51
 top10_pct_nav: 60.29
 peer_group: "SET 50 Index Fund"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
 ---
 
 # ES-SET50DV2

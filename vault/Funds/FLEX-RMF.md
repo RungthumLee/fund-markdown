@@ -24,7 +24,7 @@ fund_size: 190035113.43
 holdings_count: 62
 top10_pct_nav: 49.81
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # FLEX-RMF

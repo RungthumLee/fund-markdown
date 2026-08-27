@@ -24,7 +24,7 @@ fund_size: 270278456.47
 holdings_count: 70
 top10_pct_nav: 39.81
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, policy/mixed, risk/6, passive]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
 ---
 
 # FLEXAR

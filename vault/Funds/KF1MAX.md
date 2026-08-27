@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 87.06
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # KF1MAX

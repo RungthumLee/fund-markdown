@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 709123378.88
 holdings_count: 20
 top10_pct_nav: 102.34
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-BLOCKCHAIN

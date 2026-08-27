@@ -25,7 +25,7 @@ holdings_count: 23
 top10_pct_nav: 104.87
 master_fund: "DWS Invest Multi Opportunities USD RDMH"
 master_isin: "LU1433454672"
-tags: [fund, sec-data, policy/mixed, risk/5, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, use/accumulate, audience/restricted]
 ---
 
 # SCBGPLUS

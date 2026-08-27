@@ -24,7 +24,7 @@ holdings_count: 25
 top10_pct_nav: 102.37
 master_fund: "First Trust Natural Gas ETF"
 master_isin: "US33733E8075"
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-GAS

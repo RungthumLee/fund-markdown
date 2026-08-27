@@ -26,7 +26,7 @@ top10_pct_nav: 101.51
 master_fund: "Franklin Lexington PE Secondaries Fund Series OU$ NL (833922A2)"
 master_isin: "LU2966298809"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, geo/world, use/accumulate, audience/restricted]
 ---
 
 # MPEQS-UI

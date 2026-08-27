@@ -25,7 +25,7 @@ holdings_count: 13
 top10_pct_nav: 101.74
 master_fund: "DNCA Invest Alpha Bonds H-I USD"
 master_isin: "LU1859213875"
-tags: [fund, sec-data, policy/fixed-income, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # DAOL-ALPHABONDS

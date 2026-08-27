@@ -24,7 +24,7 @@ fund_size: 627150220.19
 holdings_count: 12
 top10_pct_nav: 103.36
 master_fund: "Janus Henderson Capital Funds plc - Global Life Sciences Fund Class A2 USD"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, theme/healthcare, use/thematic]
 ---
 
 # KKP GHC FUND

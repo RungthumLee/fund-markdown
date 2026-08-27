@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 102.97
 master_fund: "BNP Paribas Health Cr Innovtr I Cap"
 master_isin: "LU0823417067"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, theme/healthcare, use/tax-saving, use/income, use/thematic]
 ---
 
 # SCBIHEALTH

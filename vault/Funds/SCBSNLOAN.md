@@ -25,7 +25,7 @@ holdings_count: 52
 top10_pct_nav: 106.08
 master_fund: "Invesco US Senior Loan G USD Acc"
 master_isin: "LU0564079282"
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t6, fx/fully-hedged, struct/feeder, style/dividend, use/income, audience/restricted]
 ---
 
 # SCBSNLOAN

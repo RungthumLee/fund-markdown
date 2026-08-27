@@ -24,7 +24,7 @@ fund_size: 67740409.82
 holdings_count: 15
 top10_pct_nav: 108.75
 master_fund: "Schroder ISF Glb Em Mkt Opps A Acc USD"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/emerging-markets, use/accumulate]
 ---
 
 # LHEME

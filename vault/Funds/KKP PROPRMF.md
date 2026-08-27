@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 308980896.62
 holdings_count: 47
 top10_pct_nav: 71.82
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/rmf, theme/real-estate, use/tax-saving, use/thematic]
 ---
 
 # KKP PROPRMF

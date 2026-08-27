@@ -24,7 +24,7 @@ holdings_count: 4
 top10_pct_nav: 99.89
 master_fund: "Principal Lifetime Bond Fund"
 master_isin: "MYU1000AJ008"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # PRINCIPAL MYRFIUH

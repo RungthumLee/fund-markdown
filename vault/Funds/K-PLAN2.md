@@ -25,7 +25,7 @@ holdings_count: 80
 top10_pct_nav: 37.6
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย นราธิป พฤทธิ์ธโนปจัย", "นาย ธิติวุฒิ ตั้งพิกุลทอง"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-PLAN2

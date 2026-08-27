@@ -25,7 +25,7 @@ holdings_count: 43
 top10_pct_nav: 52.73
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย พีรภัทร์แสงทองฉาย", "นาย ภัคพลวนวิทย์"]
-tags: [fund, sec-data, policy/mixed, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # TFPRMF

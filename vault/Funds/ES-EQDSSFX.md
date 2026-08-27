@@ -25,7 +25,7 @@ holdings_count: 46
 top10_pct_nav: 51.24
 peer_group: "Equity General"
 fund_managers: ["นาย สมิทธ์ ศักดิ์กำจร", "น.ส. นันทรา ลายจุด"]
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, style/dividend, geo/thailand, use/income]
 ---
 
 # ES-EQDSSFX

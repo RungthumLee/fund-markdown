@@ -26,7 +26,7 @@ top10_pct_nav: 108.72
 master_fund: "Ares Core Infrastructure Fund"
 master_isin: "US04020E1073"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t1, fx/discretionary, struct/feeder, theme/infrastructure, use/thematic, audience/restricted]
 ---
 
 # MPINFRA-UI

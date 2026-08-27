@@ -24,7 +24,7 @@ fund_size: 38885052.07
 holdings_count: 60
 top10_pct_nav: 80.29
 fund_managers: ["นาย ปรินทร เดชศรี", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # DE-1

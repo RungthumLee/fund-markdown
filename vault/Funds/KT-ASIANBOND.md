@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 101.22
 master_fund: "AXAWF Asian Short Dur Bds I Cap USD"
 master_isin: "LU1196531773"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/asia-pacific, use/tax-saving]
 ---
 
 # KT-ASIANBOND

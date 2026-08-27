@@ -26,7 +26,7 @@ top10_pct_nav: 105.55
 master_fund: "Baillie Gifford WW EM LdgComs B USD Acc"
 master_isin: "IE00BW0DJL69"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/emerging-markets, use/accumulate]
 ---
 
 # M-EM

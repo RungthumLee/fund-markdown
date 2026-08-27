@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 3786376.85
 holdings_count: 27
 top10_pct_nav: 91.68
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # LHGDYNAMIC

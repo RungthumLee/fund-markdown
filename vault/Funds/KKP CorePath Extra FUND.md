@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 785980186.41
 holdings_count: 37
 top10_pct_nav: 77.08
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP CorePath Extra FUND

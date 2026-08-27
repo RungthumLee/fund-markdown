@@ -25,7 +25,7 @@ holdings_count: 39
 top10_pct_nav: 103.78
 master_fund: "JPM Emerg Mkts Inv Grd Bd C acc USD"
 master_isin: "LU0562246453"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/emerging-markets, use/tax-saving, use/income]
 ---
 
 # SCBEMBONDFUND

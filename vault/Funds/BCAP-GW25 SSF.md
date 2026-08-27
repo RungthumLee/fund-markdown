@@ -24,7 +24,7 @@ fund_size: 14427161.18
 holdings_count: 16
 top10_pct_nav: 98.65
 peer_group: "Conservative Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # BCAP-GW25 SSF

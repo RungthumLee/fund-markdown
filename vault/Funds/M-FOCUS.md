@@ -24,7 +24,7 @@ fund_size: 24275660.41
 holdings_count: 30
 top10_pct_nav: 63.78
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # M-FOCUS

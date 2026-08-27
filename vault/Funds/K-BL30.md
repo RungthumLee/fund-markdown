@@ -25,7 +25,7 @@ holdings_count: 54
 top10_pct_nav: 50.98
 peer_group: "Conservative Allocation"
 fund_managers: ["น.ส. วินิทร ผ่องใส", "นาง สลิลสิริ เรืองสุขอุดม"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/thai-esg]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # K-BL30

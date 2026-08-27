@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.13
 master_fund: "Wellspring GBL Fund"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ"]
-tags: [fund, sec-data, policy/equity, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t1, fx/fully-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # ASP-LEGACY-UI

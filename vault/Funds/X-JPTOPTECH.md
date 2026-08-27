@@ -26,7 +26,7 @@ top10_pct_nav: 107.65
 master_fund: "Global X Japan Tech Top 20 ETF"
 peer_group: "Japan Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t1, fx/partially-hedged, struct/feeder, style/passive, geo/japan, theme/technology, use/thematic]
 ---
 
 # X-JPTOPTECH

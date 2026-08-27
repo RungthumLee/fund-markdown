@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 14539486.37
 holdings_count: 35
 top10_pct_nav: 61.59
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # DAOL-THAIEQ

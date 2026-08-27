@@ -24,7 +24,7 @@ fund_size: 50922612.43
 holdings_count: 13
 top10_pct_nav: 103.22
 master_fund: "AXA World Funds - Digital Economy A Capitalisation USD"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, theme/technology, use/thematic]
 ---
 
 # LHDIGITAL

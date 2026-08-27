@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 100.31
 peer_group: "Technology Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, tax/ssf, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # TNEXTGEN

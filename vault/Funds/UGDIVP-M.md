@@ -24,7 +24,7 @@ holdings_count: 4
 top10_pct_nav: 99.68
 master_fund: "FF - Global Dividend Pl Y Acc USD"
 master_isin: "LU1711970662"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # UGDIVP-M

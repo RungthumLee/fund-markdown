@@ -24,7 +24,7 @@ fund_size: 985486470.77
 holdings_count: 62
 top10_pct_nav: 73.67
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
 ---
 
 # ASP-AIEQ

@@ -25,7 +25,7 @@ holdings_count: 96
 top10_pct_nav: 104.25
 master_fund: "Invesco China Technology ETF"
 master_isin: "US46138E8003"
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/china, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # SCBCTECH

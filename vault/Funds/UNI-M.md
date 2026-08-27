@@ -26,7 +26,7 @@ top10_pct_nav: 99.86
 master_fund: "United Global Innovation T USD Acc"
 master_isin: "SGXZ34679910"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # UNI-M

@@ -26,7 +26,7 @@ top10_pct_nav: 104.57
 master_fund: "LO Funds All Roads Growth SH USD PA"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, policy/mixed, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t6, fx/partially-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # K-ALLRD-UI

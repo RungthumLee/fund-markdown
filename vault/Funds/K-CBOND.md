@@ -25,7 +25,7 @@ holdings_count: 71
 top10_pct_nav: 39.89
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. จริยา พิมลไพบูลย์"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
 ---
 
 # K-CBOND

@@ -27,7 +27,7 @@ master_fund: "JPM Global Income A mth USD Hdg"
 master_isin: "LU0815074496"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, feeder, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, geo/world, use/accumulate, audience/restricted]
 ---
 
 # ES-INCOMEAI

@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 100.98
 master_fund: "BNP Paribas Aqua I"
 master_isin: "LU2005507657"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # DAOL-AQUA

@@ -24,7 +24,7 @@ fund_size: 13619602.47
 holdings_count: 171
 top10_pct_nav: 51.31
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, passive, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/total-market, struct/direct, style/passive, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # BCAP-SET RMF

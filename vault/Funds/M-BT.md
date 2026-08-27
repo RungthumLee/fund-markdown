@@ -24,7 +24,7 @@ fund_size: 223518547.77
 holdings_count: 31
 top10_pct_nav: 58.65
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/mixed, risk/6, active]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # M-BT

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 42857678689.18
 holdings_count: 50
 top10_pct_nav: 67.62
-tags: [fund, sec-data, policy/fixed-income, risk/1, active, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
 ---
 
 # KKP MP FUND

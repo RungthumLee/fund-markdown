@@ -24,7 +24,7 @@ fund_size: 139220639.48
 holdings_count: 9
 top10_pct_nav: 99.65
 master_fund: "GMO Quality Investment USD Acc"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # LHGEQRMF

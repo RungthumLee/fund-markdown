@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 100.1
 master_fund: "BlackRock Advantage US Eq D USD Acc"
 master_isin: "IE00BFZP7V49"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/us, theme/sustainability, use/thematic]
 ---
 
 # SCBUSDUSFOCUS

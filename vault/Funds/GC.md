@@ -26,7 +26,7 @@ top10_pct_nav: 100.13
 master_fund: "Goldman Sachs Greater China Equity - P Cap USD"
 master_isin: "LU0119216801"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/unhedged, struct/feeder, geo/china, use/accumulate]
 ---
 
 # GC

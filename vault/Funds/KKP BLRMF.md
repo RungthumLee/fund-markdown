@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 258347603.37
 holdings_count: 60
 top10_pct_nav: 31.46
-tags: [fund, sec-data, policy/mixed, risk/5, active, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # KKP BLRMF

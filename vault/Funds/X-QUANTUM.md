@@ -26,7 +26,7 @@ top10_pct_nav: 100.29
 master_fund: "VanEck Quantum Computing UCITS ETF A USD Acc"
 peer_group: "Technology Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # X-QUANTUM

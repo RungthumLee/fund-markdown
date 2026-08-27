@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 8177294348.23
 holdings_count: 29
 top10_pct_nav: 71.94
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, use/accumulate]
 ---
 
 # K-VIETNAM

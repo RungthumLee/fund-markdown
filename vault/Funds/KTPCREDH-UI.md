@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 96.22
 master_fund: "Ares Strategic Income Offshore Access Fund"
 master_isin: "LU2708805176"
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, geo/us, use/accumulate, audience/restricted]
 ---
 
 # KTPCREDH-UI

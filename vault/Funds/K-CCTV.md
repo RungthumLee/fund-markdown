@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 104.81
 peer_group: "China Equity - A Shares"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, policy/mixed, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, geo/china, use/accumulate]
 ---
 
 # K-CCTV

@@ -26,7 +26,7 @@ top10_pct_nav: 116.21
 master_fund: "GS Eurozone EQ Inc-P Cap EUR"
 master_isin: "LU0127786431"
 peer_group: "European Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # EHD

@@ -25,7 +25,7 @@ holdings_count: 62
 top10_pct_nav: 103.45
 master_fund: "BGF World Real Estate Securities D2"
 master_isin: "LU0842063264"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/world, theme/real-estate, use/income, use/thematic]
 ---
 
 # SCBGPROPFUND

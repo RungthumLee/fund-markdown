@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 104.06
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/passive, theme/technology/semiconductor, use/thematic]
 ---
 
 # SCBUSDSEMI

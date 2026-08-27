@@ -26,7 +26,7 @@ top10_pct_nav: 100.4
 master_fund: "Baillie Gifford WW Discovery B USD Acc"
 master_isin: "IE00BD09K416"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # ONE-DISCRMF

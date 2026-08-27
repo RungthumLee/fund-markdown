@@ -24,7 +24,7 @@ holdings_count: 28
 top10_pct_nav: 258.1
 peer_group: "Greater China Equity"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, geo/china, use/accumulate]
 ---
 
 # FP CNGLOV

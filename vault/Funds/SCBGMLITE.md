@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 361656992.82
 holdings_count: 70
 top10_pct_nav: 82.94
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # SCBGMLITE

@@ -26,7 +26,7 @@ top10_pct_nav: 101.54
 master_fund: "Robeco Credit Income I USD Cap"
 master_isin: "LU1806347115"
 peer_group: "Global Bond Fully F/X Hedge"
-tags: [fund, sec-data, policy/fixed-income, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # USI

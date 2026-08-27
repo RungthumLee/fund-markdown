@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.25
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, theme/technology/ai-robotics, use/thematic]
 ---
 
 # AIA-TAA

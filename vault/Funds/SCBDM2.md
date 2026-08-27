@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 28406799.48
 holdings_count: 38
 top10_pct_nav: 98.42
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBDM2

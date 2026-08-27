@@ -26,7 +26,7 @@ top10_pct_nav: 100.43
 master_fund: "กองทุนเปิดกรุงศรี The One Mean เพื่อการเลี้ยงชีพ"
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, fx/discretionary, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KF1MEANSSF

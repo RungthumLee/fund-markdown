@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 293948969.23
 holdings_count: 115
 top10_pct_nav: 63.28
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/total-market, fx/fully-hedged, struct/direct, style/active, theme/real-estate, use/thematic]
 ---
 
 # SCBRMPIN

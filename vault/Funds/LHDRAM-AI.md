@@ -21,7 +21,7 @@ nav: 9.0838
 nav_date: "2026-08-25"
 fund_size: 39383136.82
 master_fund: "Roundhill Memory ETF"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic, audience/restricted]
 ---
 
 # LHDRAM-AI

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 329095039.64
 holdings_count: 83
 top10_pct_nav: 50.42
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # TBF

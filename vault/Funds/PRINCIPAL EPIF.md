@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1151382246.73
 holdings_count: 34
 top10_pct_nav: 85.29
-tags: [fund, sec-data, policy/equity, risk/7, passive]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/concentrated, struct/direct, style/passive, style/dividend, geo/thailand, theme/energy, use/income, use/thematic]
 ---
 
 # PRINCIPAL EPIF

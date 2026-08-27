@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 164856534.55
 holdings_count: 13
 top10_pct_nav: 95.72
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/unhedged, struct/direct, tax/rmf, geo/china, use/tax-saving]
 ---
 
 # MEGA10CHINARMF

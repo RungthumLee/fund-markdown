@@ -25,7 +25,7 @@ holdings_count: 93
 top10_pct_nav: 90.93
 peer_group: "Conservative Allocation"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/mixed, risk/5, passive, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-WPLIGHT

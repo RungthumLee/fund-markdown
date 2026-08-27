@@ -26,7 +26,7 @@ top10_pct_nav: 110.07
 master_fund: "AZ MA AZ Islmc MAMG Glb Sukuk G-USD Acc"
 master_isin: "LU1435409286"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย อรวิทย์ บุญชม"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, geo/world, use/accumulate]
 ---
 
 # M-SUKUK

@@ -24,7 +24,7 @@ fund_size: 442479695.6
 holdings_count: 42
 top10_pct_nav: 64.68
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
 ---
 
 # ONE-FAR

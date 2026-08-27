@@ -26,7 +26,7 @@ top10_pct_nav: 102.77
 master_fund: "iShares Core EURO STOXX 50 UCITS ETF (DE)"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, geo/europe, use/accumulate]
 ---
 
 # K-EUX

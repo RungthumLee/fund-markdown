@@ -24,7 +24,7 @@ fund_size: 12412841456.5
 holdings_count: 14
 top10_pct_nav: 92.07
 peer_group: "Money Market Government"
-tags: [fund, sec-data, policy/fixed-income, risk/1, active, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, geo/thailand, use/park-cash, use/tax-saving]
 ---
 
 # UOBSD-M

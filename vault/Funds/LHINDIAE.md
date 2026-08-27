@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 8954229.36
 holdings_count: 13
 top10_pct_nav: 103.6
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, geo/india, use/accumulate]
 ---
 
 # LHINDIAE

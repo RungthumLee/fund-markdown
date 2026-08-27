@@ -24,7 +24,7 @@ fund_size: 1280457081.29
 holdings_count: 22
 top10_pct_nav: 71.84
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย พีรพัฒน์ จิรารยะพงศ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, geo/vietnam, use/tax-saving]
 ---
 
 # ASP-VIET

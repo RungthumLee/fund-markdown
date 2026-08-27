@@ -23,7 +23,7 @@ fund_size: 191421230.8
 holdings_count: 17
 top10_pct_nav: 105.9
 master_fund: "Range Nuclear Renaissance ETF"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, theme/energy, use/thematic]
 ---
 
 # LHNUKZ

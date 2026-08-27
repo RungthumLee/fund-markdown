@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 289078523.41
 holdings_count: 52
 top10_pct_nav: 59.06
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # LHIP

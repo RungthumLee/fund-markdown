@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 100.22
 master_fund: "abrdn-Future Global Equity Z Acc USD"
 master_isin: "LU1653037256"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # ABINNO-M

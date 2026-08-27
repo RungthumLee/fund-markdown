@@ -24,7 +24,7 @@ fund_size: 3516508517.02
 holdings_count: 17
 top10_pct_nav: 105.11
 master_fund: "Capital Group New Pers (LUX) B"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # KKP GNP-H FUND

@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 99.57
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/discretionary, struct/direct, geo/world, use/accumulate, audience/restricted]
 ---
 
 # K-GPC-UI

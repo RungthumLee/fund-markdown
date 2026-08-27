@@ -24,7 +24,7 @@ fund_size: 2723573808.48
 holdings_count: 103
 top10_pct_nav: 43.66
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # BM70SSF

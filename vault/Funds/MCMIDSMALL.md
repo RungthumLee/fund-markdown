@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 120.54
 master_fund: "ChinaAMC CSI 500 Index Enhanced Fund"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย ธนัย ลิขิตชัยกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/china, use/accumulate]
 ---
 
 # MCMIDSMALL

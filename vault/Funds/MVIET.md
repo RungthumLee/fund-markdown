@@ -24,7 +24,7 @@ fund_size: 170112980.73
 holdings_count: 22
 top10_pct_nav: 105.85
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/vietnam, use/accumulate]
 ---
 
 # MVIET

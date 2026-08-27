@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 105.1
 master_fund: "Janus Henderson Hrzn Glb Sus Eq IU2 USD"
 master_isin: "LU1983259703"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # SCBGEESG

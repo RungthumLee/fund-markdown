@@ -24,7 +24,7 @@ fund_size: 11547060418.77
 holdings_count: 33
 top10_pct_nav: 102.9
 peer_group: "Short Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t7, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # BCAP-DHSL

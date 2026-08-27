@@ -24,7 +24,7 @@ fund_size: 790754409.31
 holdings_count: 12
 top10_pct_nav: 101.32
 master_fund: "iShares MSCI ACWI ETF"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # LHGEQP

@@ -23,7 +23,7 @@ master_fund: "Amundi Fds Cash USD J32 USD C"
 master_isin: "LU3325387648"
 peer_group: "Global Bond Fully F/X Hedge"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-USDPRIME

@@ -25,7 +25,7 @@ holdings_count: 28
 top10_pct_nav: 100.72
 master_fund: "abrdn European Smaller Comp D Acc EUR"
 master_isin: "LU0306632687"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, geo/europe, use/accumulate]
 ---
 
 # SCBEUSMFUND

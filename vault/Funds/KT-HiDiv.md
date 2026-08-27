@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 64211343.43
 holdings_count: 59
 top10_pct_nav: 62.19
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
 ---
 
 # KT-HiDiv

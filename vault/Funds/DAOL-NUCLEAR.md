@@ -26,7 +26,7 @@ top10_pct_nav: 100.67
 master_fund: "VanEck Uranium and Nuclear Technologies UCITS ETF A USD Acc"
 master_isin: "IE000M7V94E1"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, theme/technology, use/thematic]
 ---
 
 # DAOL-NUCLEAR

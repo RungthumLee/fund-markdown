@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 5413356.99
 holdings_count: 19
 top10_pct_nav: 72.06
-tags: [fund, sec-data, policy/mixed, risk/6, active]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # LHMSFL

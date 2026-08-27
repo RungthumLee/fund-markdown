@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.51
 master_fund: "KKR Private Markets Equity Fund SICAV SA - I"
 peer_group: "KKR"
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KKP PEQ-UI FUND

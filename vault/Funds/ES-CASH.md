@@ -25,7 +25,7 @@ holdings_count: 57
 top10_pct_nav: 49.78
 peer_group: "Money Market General"
 fund_managers: ["นาง รัชนิภา พรรคพานิช", "นาย ธารดร เขียวมีส่วน"]
-tags: [fund, sec-data, policy/fixed-income, risk/1, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
 ---
 
 # ES-CASH

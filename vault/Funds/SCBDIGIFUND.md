@@ -25,7 +25,7 @@ holdings_count: 99
 top10_pct_nav: 106.42
 master_fund: "BNP Paribas Disrpt Tech I USD C"
 master_isin: "LU2005507905"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
 ---
 
 # SCBDIGIFUND

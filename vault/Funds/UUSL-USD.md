@@ -21,7 +21,7 @@ nav: 9.7317
 nav_date: "2026-08-25"
 fund_size: 5724878.89
 master_fund: "T. Rowe Price Funds SICAV - US Large Cap Growth Equity Fund"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/us, use/accumulate]
 ---
 
 # UUSL-USD

@@ -24,7 +24,7 @@ fund_size: 35166996.95
 holdings_count: 45
 top10_pct_nav: 62.66
 fund_managers: ["นาย กมลสิฐิ์ ขวัญใจธัญญา", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # M-SELECTCG

@@ -26,7 +26,7 @@ top10_pct_nav: 117.49
 master_fund: "BNP Paribas Green Tigers I Cap"
 master_isin: "LU0823438493"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, geo/asia-pacific, theme/sustainability, use/thematic]
 ---
 
 # ONE-APACESG

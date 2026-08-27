@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.18
 master_fund: "EQT Nexus ENXF I EUR-Z"
 master_isin: "LU2617117614"
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, geo/world, use/accumulate, audience/restricted]
 ---
 
 # KT-GPEQ-UI

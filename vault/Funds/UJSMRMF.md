@@ -26,7 +26,7 @@ top10_pct_nav: 101.92
 master_fund: "United Japan Small And Mid Cap JPY"
 master_isin: "SG9999010854"
 peer_group: "Japan Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/rmf, geo/japan, use/tax-saving]
 ---
 
 # UJSMRMF

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 22261389.91
 holdings_count: 37
 top10_pct_nav: 64.81
-tags: [fund, sec-data, policy/mixed, risk/6, active, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
 ---
 
 # SW

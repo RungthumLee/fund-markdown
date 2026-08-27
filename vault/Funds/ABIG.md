@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 101.59
 master_fund: "abrdn-Indian Equity Z Acc USD"
 master_isin: "LU0278911523"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, geo/india, use/accumulate]
 ---
 
 # ABIG

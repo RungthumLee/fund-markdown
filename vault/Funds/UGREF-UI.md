@@ -26,7 +26,7 @@ top10_pct_nav: 100.58
 master_fund: "UBS (Lux) Real Estate Funds Selection - Global (EUR) P-acc"
 master_isin: "LU1435275141"
 peer_group: "Fund of Property Fund - Foreign"
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, geo/world, theme/real-estate, use/thematic, audience/restricted]
 ---
 
 # UGREF-UI

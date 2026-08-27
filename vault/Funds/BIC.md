@@ -26,7 +26,7 @@ top10_pct_nav: 100.96
 master_fund: "iShares BIC 50 UCITS ETF USD (Dist)"
 master_isin: "IE00B1W57M07"
 peer_group: "Emerging Market"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # BIC

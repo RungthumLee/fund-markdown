@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 73.56
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. นฤมล ว่องวุฒิพรชัย"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # K-EQ

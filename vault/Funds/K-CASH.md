@@ -25,7 +25,7 @@ holdings_count: 53
 top10_pct_nav: 48.36
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, policy/fixed-income, risk/1, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
 ---
 
 # K-CASH

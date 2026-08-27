@@ -25,7 +25,7 @@ top10_pct_nav: 100.2
 master_fund: "iShares Core S&P 500 ETF"
 peer_group: "US Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/us, use/accumulate]
 ---
 
 # K-US500XUH

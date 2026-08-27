@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 100.2
 master_fund: "Amundi Fds Polen Cptl Glbl Gr I2 USD C"
 master_isin: "LU1691799990"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # ES-GCG

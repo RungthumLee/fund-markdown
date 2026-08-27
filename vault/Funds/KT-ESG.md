@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 132709501.03
 holdings_count: 40
 top10_pct_nav: 31.41
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/passive, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # KT-ESG

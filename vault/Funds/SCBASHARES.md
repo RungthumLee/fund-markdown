@@ -25,7 +25,7 @@ holdings_count: 38
 top10_pct_nav: 109.44
 master_fund: "Schroder ISF China A C Acc USD"
 master_isin: "LU1713307699"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/china, use/tax-saving]
 ---
 
 # SCBASHARES

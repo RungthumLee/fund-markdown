@@ -24,7 +24,7 @@ fund_size: 1940006915.39
 holdings_count: 38
 top10_pct_nav: 68.34
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # B-BASICPLUS

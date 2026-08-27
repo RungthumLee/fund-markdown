@@ -26,7 +26,7 @@ top10_pct_nav: 124.77
 master_fund: "iShares MSCI All Country Asia ex Japan ETF"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, geo/asia-pacific, use/accumulate]
 ---
 
 # K-ASIAX

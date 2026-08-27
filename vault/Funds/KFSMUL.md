@@ -25,7 +25,7 @@ holdings_count: 57
 top10_pct_nav: 50.48
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. ณัฐยา เตรียมวิทยา", "นาย เอกพจน์ ภู่วิบูลย์พาณิชย์"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # KFSMUL

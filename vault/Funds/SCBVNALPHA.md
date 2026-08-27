@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 9602761778.71
 holdings_count: 11
 top10_pct_nav: 99.9
-tags: [fund, sec-data, policy/equity, risk/8+, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, use/accumulate, audience/restricted]
 ---
 
 # SCBVNALPHA

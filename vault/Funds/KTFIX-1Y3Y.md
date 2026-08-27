@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 4425083764.86
 holdings_count: 67
 top10_pct_nav: 51.14
-tags: [fund, sec-data, policy/fixed-income, risk/4, active]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # KTFIX-1Y3Y

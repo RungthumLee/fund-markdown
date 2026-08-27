@@ -26,7 +26,7 @@ top10_pct_nav: 102.29
 master_fund: "BGF World Healthscience D2"
 master_isin: "LU0329593007"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, tax/rmf, theme/healthcare, use/tax-saving, use/thematic]
 ---
 
 # MHEALTHRMF

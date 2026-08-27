@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 99.91
 master_fund: "Allianz Global Investors Fund - Allianz Global Metals and Mining Fund"
 master_isin: "LU0604766674"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # KT-MINING

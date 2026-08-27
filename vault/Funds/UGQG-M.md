@@ -26,7 +26,7 @@ top10_pct_nav: 104.15
 master_fund: "United Global Quality Growth A USD Acc"
 master_isin: "SG9999014906"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # UGQG-M

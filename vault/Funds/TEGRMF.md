@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 66.25
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. มัลลิกานิยมในธรรม", "นาย ณพัฒน์ศรีวรพงษ์พันธ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # TEGRMF

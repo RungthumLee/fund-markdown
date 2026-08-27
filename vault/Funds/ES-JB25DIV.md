@@ -25,7 +25,7 @@ holdings_count: 35
 top10_pct_nav: 72.52
 peer_group: "Equity General"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
 ---
 
 # ES-JB25DIV

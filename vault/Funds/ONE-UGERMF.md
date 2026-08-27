@@ -24,7 +24,7 @@ fund_size: 1732412817.45
 holdings_count: 8
 top10_pct_nav: 100.74
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # ONE-UGERMF

@@ -24,7 +24,7 @@ fund_size: 497527625.4
 holdings_count: 5
 top10_pct_nav: 104.72
 peer_group: "Other Global Sector Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/ssf, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # UEV-M

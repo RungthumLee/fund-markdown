@@ -27,7 +27,7 @@ master_fund: "B&I Asian Real Estate Securities Fund A"
 master_isin: "LI0115321320"
 peer_group: "Fund of Property Fund - Foreign"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, policy/alternative, risk/8, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t6, fx/discretionary, struct/feeder, style/active, geo/asia-pacific, theme/real-estate, use/thematic]
 ---
 
 # TAREIT

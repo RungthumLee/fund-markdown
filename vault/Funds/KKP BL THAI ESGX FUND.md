@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 18519613.79
 holdings_count: 61
 top10_pct_nav: 45.33
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, theme/sustainability, use/thematic]
 ---
 
 # KKP BL THAI ESGX FUND

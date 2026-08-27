@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 225747131.71
 holdings_count: 29
 top10_pct_nav: 59.79
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # TLGSELECT

@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.61
 master_fund: "JPM Global Macro Opps I acc EUR"
 master_isin: "LU0248010471"
-tags: [fund, sec-data, policy/mixed, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # KT-GMO

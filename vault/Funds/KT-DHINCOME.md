@@ -25,7 +25,7 @@ holdings_count: 7
 top10_pct_nav: 101.25
 master_fund: "BGF Dynamic High Income D2"
 master_isin: "LU1564329206"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-DHINCOME

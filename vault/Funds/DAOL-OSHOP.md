@@ -24,7 +24,7 @@ fund_size: 10372230.57
 holdings_count: 21
 top10_pct_nav: 101.5
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย วงศกร เหมพันธ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # DAOL-OSHOP

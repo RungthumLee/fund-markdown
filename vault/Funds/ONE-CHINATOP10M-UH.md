@@ -24,7 +24,7 @@ fund_size: 42863143.43
 holdings_count: 9
 top10_pct_nav: 102.21
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/china, use/accumulate]
 ---
 
 # ONE-CHINATOP10M-UH

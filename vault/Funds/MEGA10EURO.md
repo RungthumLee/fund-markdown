@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 18545423.11
 holdings_count: 12
 top10_pct_nav: 95.16
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, tax/ssf, use/tax-saving]
 ---
 
 # MEGA10EURO

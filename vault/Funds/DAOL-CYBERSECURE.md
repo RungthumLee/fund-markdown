@@ -26,7 +26,7 @@ top10_pct_nav: 63.42
 master_fund: "Allianz Cyber Security RT USD Acc"
 master_isin: "LU2286301283"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-CYBERSECURE

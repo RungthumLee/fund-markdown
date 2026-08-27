@@ -24,7 +24,7 @@ fund_size: 39070249.99
 holdings_count: 11
 top10_pct_nav: 97.46
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย พีรพัฒน์ จิรารยะพงศ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, geo/vietnam, theme/technology/ai-robotics, use/thematic, audience/restricted]
 ---
 
 # ASP-VIETEQ-AI

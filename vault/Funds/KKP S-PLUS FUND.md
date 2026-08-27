@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 50878118360.95
 holdings_count: 148
 top10_pct_nav: 40.15
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP S-PLUS FUND

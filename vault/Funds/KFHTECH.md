@@ -27,7 +27,7 @@ master_fund: "BlackRock Global Funds - World Technology Fund D2"
 master_isin: "LU0724618946"
 peer_group: "Technology Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
 ---
 
 # KFHTECH

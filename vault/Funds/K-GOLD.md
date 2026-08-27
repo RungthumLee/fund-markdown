@@ -26,7 +26,7 @@ top10_pct_nav: 107.16
 master_fund: "SPDR Gold Shares"
 peer_group: "Commodities Precious Metals"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
 ---
 
 # K-GOLD

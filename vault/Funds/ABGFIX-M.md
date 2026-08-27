@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 94.82
 master_fund: "abrdn-Short Dtd Enh Inc Z Acc USD"
 master_isin: "LU2628680014"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # ABGFIX-M

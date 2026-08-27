@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 111040970.08
 holdings_count: 12
 top10_pct_nav: 94.68
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, fx/unhedged, struct/direct, tax/rmf, theme/technology/ai-robotics, use/tax-saving, use/thematic]
 ---
 
 # MEGA10AIRMF

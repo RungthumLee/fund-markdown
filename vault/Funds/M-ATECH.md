@@ -24,7 +24,7 @@ fund_size: 211549940.2
 holdings_count: 24
 top10_pct_nav: 106.9
 fund_managers: ["นาย ชาญวุฒิ รุงแสงมนูญ", "นาย กิตติพงษ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/equity, risk/7, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, geo/asia-pacific, theme/technology, use/income, use/thematic]
 ---
 
 # M-ATECH

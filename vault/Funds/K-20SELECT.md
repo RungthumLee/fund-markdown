@@ -25,7 +25,7 @@ holdings_count: 21
 top10_pct_nav: 75.83
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. กอบพร กุลสุรกิจ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # K-20SELECT

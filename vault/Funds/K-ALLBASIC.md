@@ -25,7 +25,7 @@ holdings_count: 14
 top10_pct_nav: 105.69
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/ultra-concentrated, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # K-ALLBASIC

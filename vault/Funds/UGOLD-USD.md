@@ -21,7 +21,7 @@ nav: 10.5435
 nav_date: "2026-08-26"
 fund_size: 413284.57
 master_fund: "SPDR Gold Shares"
-tags: [fund, sec-data, policy/alternative, risk/8, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, theme/metals-mining/gold, use/thematic]
 ---
 
 # UGOLD-USD

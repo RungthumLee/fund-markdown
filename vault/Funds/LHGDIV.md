@@ -24,7 +24,7 @@ fund_size: 29736183.34
 holdings_count: 11
 top10_pct_nav: 102.13
 master_fund: "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, geo/world, use/tax-saving, use/income]
 ---
 
 # LHGDIV

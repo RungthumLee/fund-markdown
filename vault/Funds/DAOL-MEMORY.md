@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 146699070.98
 master_fund: "Defiance Memory UCITS ETF"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล  ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-MEMORY

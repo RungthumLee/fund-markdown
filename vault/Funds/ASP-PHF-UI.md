@@ -24,7 +24,7 @@ holdings_count: 6
 top10_pct_nav: 105.41
 master_fund: "Wellspring GBL Fund"
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, policy/mixed, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # ASP-PHF-UI

@@ -27,7 +27,7 @@ master_fund: "BNY Mellon Global Credit USD W Acc"
 master_isin: "IE00BYZW5L40"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # TGBOND

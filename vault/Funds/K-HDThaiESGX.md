@@ -25,7 +25,7 @@ holdings_count: 34
 top10_pct_nav: 66.7
 peer_group: "Equity General"
 fund_managers: ["น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, theme/sustainability, use/income, use/thematic]
 ---
 
 # K-HDThaiESGX

@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 265642565.79
 holdings_count: 40
 top10_pct_nav: 84.92
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # DCAF

@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 105.72
 master_fund: "Jupiter Strategic Abs Ret Bd I USD Acc"
 master_isin: "IE00BD9GFP91"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-ARB

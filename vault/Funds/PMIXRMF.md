@@ -25,7 +25,7 @@ holdings_count: 40
 top10_pct_nav: 59.21
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย พุทธินันท์ วชิราคม  ตั้งแต่ 04 ก.ย. 2566", "นาย สุชาติ เจริญวุฒิคุณ  ตั้งแต่ 24 ส.ค. 2566"]
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PMIXRMF

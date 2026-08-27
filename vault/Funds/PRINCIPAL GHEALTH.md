@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 620872679.37
 holdings_count: 18
 top10_pct_nav: 104.08
-tags: [fund, sec-data, policy/equity, risk/7, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, theme/healthcare, use/thematic]
 ---
 
 # PRINCIPAL GHEALTH

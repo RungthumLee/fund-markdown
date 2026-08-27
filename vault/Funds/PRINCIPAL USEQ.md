@@ -25,7 +25,7 @@ holdings_count: 16
 top10_pct_nav: 103.95
 master_fund: "Principal U.S. Mega-Cap ETF"
 master_isin: "US74255Y8701"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/us, use/accumulate]
 ---
 
 # PRINCIPAL USEQ

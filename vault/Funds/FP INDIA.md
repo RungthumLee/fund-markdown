@@ -27,7 +27,7 @@ master_fund: "Manulife GF India Equity I2"
 master_isin: "LU1079480668"
 peer_group: "India Equity"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/india, use/income]
 ---
 
 # FP INDIA

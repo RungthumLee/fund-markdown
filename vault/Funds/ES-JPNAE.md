@@ -27,7 +27,7 @@ master_fund: "Eastspring Inv Japan Dynamic CJ"
 master_isin: "LU1259265335"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/japan, use/accumulate]
 ---
 
 # ES-JPNAE

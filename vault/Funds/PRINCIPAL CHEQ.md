@@ -25,7 +25,7 @@ holdings_count: 19
 top10_pct_nav: 105.81
 master_fund: "Schroder ISF All China Equity C Acc USD"
 master_isin: "LU1831875205"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, geo/china, use/accumulate]
 ---
 
 # PRINCIPAL CHEQ

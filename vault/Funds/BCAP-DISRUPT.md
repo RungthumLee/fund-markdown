@@ -24,7 +24,7 @@ fund_size: 331001506.15
 holdings_count: 15
 top10_pct_nav: 96.08
 peer_group: "Technology Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, theme/technology, use/thematic]
 ---
 
 # BCAP-DISRUPT

@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 94.84
 peer_group: "Energy"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล"]
-tags: [fund, sec-data, policy/equity, risk/7, passive, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/passive, theme/energy, use/thematic]
 ---
 
 # K-ENERGY

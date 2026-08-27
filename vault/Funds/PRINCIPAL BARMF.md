@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 3255657.83
 holdings_count: 4
 top10_pct_nav: 100.65
-tags: [fund, sec-data, policy/mixed, risk/8, passive, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL BARMF

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 127500548.89
 holdings_count: 39
 top10_pct_nav: 63.74
-tags: [fund, sec-data, policy/mixed, risk/5]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, geo/thailand, use/accumulate]
 ---
 
 # B-ACTIVE

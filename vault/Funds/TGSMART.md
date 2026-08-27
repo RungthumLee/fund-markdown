@@ -26,7 +26,7 @@ master_fund: "Schroder ISF Glbl Trgt Ret C Acc USD"
 master_isin: "LU1516354310"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, geo/world, use/income]
 ---
 
 # TGSMART

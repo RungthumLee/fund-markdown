@@ -25,7 +25,7 @@ holdings_count: 34
 top10_pct_nav: 101.89
 master_fund: "ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF"
 master_isin: "HK0000123577"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, geo/china, use/accumulate]
 ---
 
 # SCBRMCHA

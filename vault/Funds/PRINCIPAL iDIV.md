@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 37089106.38
 holdings_count: 39
 top10_pct_nav: 64.0
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # PRINCIPAL iDIV

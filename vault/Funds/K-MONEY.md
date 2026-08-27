@@ -25,7 +25,7 @@ holdings_count: 57
 top10_pct_nav: 58.61
 peer_group: "Money Market General"
 fund_managers: ["น.ส. อัมไพวรรณ เมลืองนนท์"]
-tags: [fund, sec-data, policy/fixed-income, risk/2, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/park-cash]
 ---
 
 # K-MONEY

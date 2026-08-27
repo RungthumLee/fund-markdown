@@ -26,7 +26,7 @@ top10_pct_nav: 104.26
 master_fund: "BGF Sustainable Energy I2"
 master_isin: "LU0534476519"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # MRENEW

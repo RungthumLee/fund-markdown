@@ -24,7 +24,7 @@ fund_size: 561502340.67
 holdings_count: 36
 top10_pct_nav: 66.47
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, theme/sustainability, use/thematic]
 ---
 
 # B-EQ-THAIESG

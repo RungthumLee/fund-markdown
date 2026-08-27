@@ -24,7 +24,7 @@ fund_size: 198723375.72
 holdings_count: 12
 top10_pct_nav: 101.45
 master_fund: "SPDR Gold Shares"
-tags: [fund, sec-data, policy/alternative, risk/8, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/dividend, theme/metals-mining/gold, use/income, use/thematic]
 ---
 
 # LHGOLD

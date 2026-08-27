@@ -26,7 +26,7 @@ top10_pct_nav: 116.63
 master_fund: "E.I. Sturdza Nippon Gr UCITS A JPY UH"
 master_isin: "IE00B563Q870"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "นาย กมลยศ สุขุมสุวรรณ"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # ASP-NGF

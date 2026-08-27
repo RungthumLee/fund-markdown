@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 560535752.87
 holdings_count: 17
 top10_pct_nav: 102.61
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHINNO

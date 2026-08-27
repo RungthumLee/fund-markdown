@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 8230331.79
 holdings_count: 2
 top10_pct_nav: 100.05
-tags: [fund, sec-data, policy/fixed-income, risk/4, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # KTSIV6M2

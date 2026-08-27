@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1287177590.96
 holdings_count: 111
 top10_pct_nav: 33.99
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT25/75RMF

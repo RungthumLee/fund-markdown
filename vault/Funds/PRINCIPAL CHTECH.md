@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 892821659.82
 holdings_count: 51
 top10_pct_nav: 109.05
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, geo/china, theme/technology, use/thematic]
 ---
 
 # PRINCIPAL CHTECH

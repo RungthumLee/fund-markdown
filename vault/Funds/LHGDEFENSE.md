@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 102155649.95
 holdings_count: 16
 top10_pct_nav: 115.53
-tags: [fund, sec-data, policy/equity, risk/7, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # LHGDEFENSE

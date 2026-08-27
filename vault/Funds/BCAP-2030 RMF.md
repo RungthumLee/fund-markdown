@@ -24,7 +24,7 @@ fund_size: 171336096.59
 holdings_count: 17
 top10_pct_nav: 98.89
 peer_group: "Conservative Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # BCAP-2030 RMF

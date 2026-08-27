@@ -24,7 +24,7 @@ fund_size: 153853349.34
 holdings_count: 25
 top10_pct_nav: 91.95
 peer_group: "Fund of Property fund-Thai+Foreign"
-tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, geo/world, theme/real-estate, use/income, use/thematic]
 ---
 
 # BCAP-GPROP

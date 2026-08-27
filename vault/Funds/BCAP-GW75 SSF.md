@@ -24,7 +24,7 @@ fund_size: 47765403.41
 holdings_count: 18
 top10_pct_nav: 98.45
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # BCAP-GW75 SSF

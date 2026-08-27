@@ -26,7 +26,7 @@ top10_pct_nav: 100.27
 master_fund: "Wellington Focused European Eq EUR S Ac"
 master_isin: "IE00BF4JCJ08"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, geo/europe, use/accumulate]
 ---
 
 # ASP-EUG

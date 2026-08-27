@@ -21,7 +21,7 @@ nav: 9.909
 nav_date: "2026-08-25"
 fund_size: 105153671.15
 master_fund: "T. Rowe Price Funds SICAV – Retirement Allocation Fund – 1"
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # UPOST

@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 40330301.56
 holdings_count: 22
 top10_pct_nav: 75.78
-tags: [fund, sec-data, policy/mixed, risk/6, active]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, compliance/trigger-fund, geo/thailand, use/accumulate]
 ---
 
 # LHTRIG7M

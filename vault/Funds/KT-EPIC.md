@@ -25,7 +25,7 @@ holdings_count: 12
 top10_pct_nav: 102.06
 master_fund: "E.P.I.C Global Equity Opps Instl I (USD)"
 master_isin: "IE000XAUGXW1"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # KT-EPIC

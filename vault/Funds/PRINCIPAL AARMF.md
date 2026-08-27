@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 46366926.55
 holdings_count: 5
 top10_pct_nav: 99.64
-tags: [fund, sec-data, policy/mixed, risk/7, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL AARMF

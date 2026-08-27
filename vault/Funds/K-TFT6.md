@@ -25,7 +25,7 @@ holdings_count: 21
 top10_pct_nav: 72.37
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. กอบพร กุลสุรกิจ"]
-tags: [fund, sec-data, policy/mixed, risk/6]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, compliance/trigger-fund, geo/thailand, use/accumulate]
 ---
 
 # K-TFT6

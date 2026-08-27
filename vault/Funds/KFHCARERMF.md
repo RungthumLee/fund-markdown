@@ -27,7 +27,7 @@ master_fund: "JPMorgan Funds - Global Healthcare Fund C (acc) USD"
 master_isin: "LU0432979887"
 peer_group: "Health Care"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
 ---
 
 # KFHCARERMF

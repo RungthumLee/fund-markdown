@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 58217063949.35
 holdings_count: 151
 top10_pct_nav: 39.01
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KTSTPLUS

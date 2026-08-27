@@ -25,7 +25,7 @@ holdings_count: 43
 top10_pct_nav: 103.5
 master_fund: "DWS Invest Asian Bonds USD FC50"
 master_isin: "LU1949850538"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, geo/asia-pacific, use/tax-saving]
 ---
 
 # SCBABOND

@@ -27,7 +27,7 @@ master_fund: "Eastspring Inv Asian Low Vol Eq C"
 master_isin: "LU1558648348"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
 ---
 
 # ES-ALOVE-UH

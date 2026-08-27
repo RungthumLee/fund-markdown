@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 452886343.0
 holdings_count: 28
 top10_pct_nav: 72.14
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # KTSE-RMF

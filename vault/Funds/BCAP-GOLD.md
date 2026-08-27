@@ -24,7 +24,7 @@ fund_size: 160442941.2
 holdings_count: 6
 top10_pct_nav: 100.13
 peer_group: "Commodities Precious Metals"
-tags: [fund, sec-data, policy/alternative, risk/8, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, theme/metals-mining/gold, use/thematic]
 ---
 
 # BCAP-GOLD

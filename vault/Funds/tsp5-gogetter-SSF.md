@@ -26,7 +26,7 @@ top10_pct_nav: 100.16
 master_fund: "กองทุนเปิด ttb smart port 5 go-getter"
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # tsp5-gogetter-SSF

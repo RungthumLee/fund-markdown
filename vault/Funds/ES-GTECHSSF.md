@@ -27,7 +27,7 @@ master_fund: "Polar Capital Global Tech I Inc"
 master_isin: "IE00B42NVC37"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/technology, use/thematic]
 ---
 
 # ES-GTECHSSF

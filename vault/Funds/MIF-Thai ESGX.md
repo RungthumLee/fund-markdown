@@ -24,7 +24,7 @@ fund_size: 4662592.44
 holdings_count: 39
 top10_pct_nav: 80.11
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, compliance/sharia, geo/thailand, theme/sustainability, use/income, use/thematic]
 ---
 
 # MIF-Thai ESGX

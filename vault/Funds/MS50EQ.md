@@ -24,7 +24,7 @@ fund_size: 20799907.26
 holdings_count: 52
 top10_pct_nav: 59.11
 fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/passive, style/dividend, geo/thailand, use/income]
 ---
 
 # MS50EQ

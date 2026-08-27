@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 99.04
 peer_group: "Long Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม"]
-tags: [fund, sec-data, policy/fixed-income, risk/3, active, foreign-exposure, tax/thai-esg]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # K-ESGSI

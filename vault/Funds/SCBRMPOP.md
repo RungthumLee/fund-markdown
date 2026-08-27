@@ -25,7 +25,7 @@ holdings_count: 30
 top10_pct_nav: 102.72
 master_fund: "Fidelity Global Demographics Y-Acc-USD"
 master_isin: "LU0528228231"
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/sustainability, use/thematic]
 ---
 
 # SCBRMPOP

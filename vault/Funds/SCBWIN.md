@@ -25,7 +25,7 @@ holdings_count: 48
 top10_pct_nav: 101.7
 master_fund: "BGF Global Multi-Asset Inc I2"
 master_isin: "LU1523255922"
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # SCBWIN

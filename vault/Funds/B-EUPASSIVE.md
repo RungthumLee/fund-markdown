@@ -26,7 +26,7 @@ top10_pct_nav: 98.02
 master_fund: "iShares STOXX Europe 600 UCITS ETF (DE) EUR (Dist)"
 master_isin: "DE0002635307"
 peer_group: "European Equity"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/europe, use/accumulate]
 ---
 
 # B-EUPASSIVE

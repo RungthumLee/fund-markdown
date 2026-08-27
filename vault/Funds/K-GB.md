@@ -26,7 +26,7 @@ top10_pct_nav: 103.39
 master_fund: "JPMorgan Funds - Aggregate Bond Fund"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, geo/world, use/income]
 ---
 
 # K-GB

@@ -24,7 +24,7 @@ fund_size: 22699517092.86
 holdings_count: 380
 top10_pct_nav: 43.12
 peer_group: "Money Market General"
-tags: [fund, sec-data, policy/fixed-income, risk/1, active]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, geo/thailand, use/park-cash]
 ---
 
 # TCMF-M

@@ -26,7 +26,7 @@ top10_pct_nav: 59.13
 master_fund: "Jupiter Dynamic Bond I EUR Acc"
 master_isin: "LU0853555893"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, policy/fixed-income, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # UDB

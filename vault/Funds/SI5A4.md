@@ -24,7 +24,7 @@ fund_size: 23420286.14
 holdings_count: 46
 top10_pct_nav: 90.54
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย ประวีร์ อัจจิมากุล"]
-tags: [fund, sec-data, policy/mixed, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SI5A4

@@ -25,7 +25,7 @@ holdings_count: 129
 top10_pct_nav: 45.38
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. พรทิพา หนึ่งนํ้าใจ", "นาย เอกพจน์ ภู่วิบูลย์พาณิชย์"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KFAFIX

@@ -26,7 +26,7 @@ top10_pct_nav: 98.65
 master_fund: "Kotak India Midcap J USD Acc"
 master_isin: "LU0675383409"
 peer_group: "India Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/india, use/tax-saving]
 ---
 
 # B-INDIAMRMF

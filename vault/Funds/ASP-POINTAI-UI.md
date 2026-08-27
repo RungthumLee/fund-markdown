@@ -24,7 +24,7 @@ holdings_count: 2
 top10_pct_nav: 104.34
 master_fund: "Wellspring GBL Fund"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, policy/equity, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, theme/technology/ai-robotics, use/thematic, audience/restricted]
 ---
 
 # ASP-POINTAI-UI

@@ -24,7 +24,7 @@ fund_size: 1250634835.01
 holdings_count: 47
 top10_pct_nav: 62.68
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # ERMF

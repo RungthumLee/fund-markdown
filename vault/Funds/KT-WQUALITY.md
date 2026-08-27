@@ -25,7 +25,7 @@ holdings_count: 17
 top10_pct_nav: 107.52
 master_fund: "iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc)"
 master_isin: "IE00BP3QZ601"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, geo/world, use/accumulate]
 ---
 
 # KT-WQUALITY

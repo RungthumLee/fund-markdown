@@ -24,7 +24,7 @@ fund_size: 5316068325.74
 holdings_count: 52
 top10_pct_nav: 94.43
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, geo/china, use/income]
 ---
 
 # B-CHINE-EQ

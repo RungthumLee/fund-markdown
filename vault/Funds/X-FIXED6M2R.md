@@ -24,7 +24,7 @@ fund_size: 501649879.21
 holdings_count: 8
 top10_pct_nav: 100.04
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, restricted-investor]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/buy-hold, geo/thailand, use/accumulate, audience/restricted]
 ---
 
 # X-FIXED6M2R

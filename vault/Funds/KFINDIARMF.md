@@ -27,7 +27,7 @@ master_fund: "FSSA Indian Subcontinent III USD Acc"
 master_isin: "IE00B6Y13T06"
 peer_group: "India Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, geo/india, use/tax-saving]
 ---
 
 # KFINDIARMF

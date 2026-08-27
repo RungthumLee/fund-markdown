@@ -24,7 +24,7 @@ fund_size: 172665870.8
 holdings_count: 13
 top10_pct_nav: 91.36
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ยุรนันท์ วิภูศิริ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # ASP-T12

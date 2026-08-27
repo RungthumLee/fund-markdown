@@ -25,7 +25,7 @@ holdings_count: 102
 top10_pct_nav: 110.49
 master_fund: "iShares Russell 2000 ETF"
 master_isin: "US4642876555"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/us, use/tax-saving]
 ---
 
 # SCBRS2000

@@ -26,7 +26,7 @@ top10_pct_nav: 100.22
 master_fund: "Allianz Global Sustainability PT USD"
 master_isin: "LU2232014741"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # USUS-M

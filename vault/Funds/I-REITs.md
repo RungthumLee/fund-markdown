@@ -24,7 +24,7 @@ fund_size: 101404907.9
 holdings_count: 30
 top10_pct_nav: 104.47
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/alternative, risk/7, active, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, style/dividend, theme/real-estate, use/income, use/thematic]
 ---
 
 # I-REITs

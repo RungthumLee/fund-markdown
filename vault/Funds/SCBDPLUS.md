@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 308983635.86
 holdings_count: 36
 top10_pct_nav: 75.81
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBDPLUS

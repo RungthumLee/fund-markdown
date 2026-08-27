@@ -22,7 +22,7 @@ nav_date: "2026-08-24"
 fund_size: 1117843937.03
 holdings_count: 9
 top10_pct_nav: 104.43
-tags: [fund, sec-data, policy/fixed-income, risk/4, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, geo/world, use/accumulate]
 ---
 
 # SCBGOFIX

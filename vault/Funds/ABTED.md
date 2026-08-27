@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 16437526.79
 holdings_count: 28
 top10_pct_nav: 56.01
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # ABTED

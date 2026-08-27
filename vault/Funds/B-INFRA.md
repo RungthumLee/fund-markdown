@@ -24,7 +24,7 @@ fund_size: 1380675608.65
 holdings_count: 34
 top10_pct_nav: 57.3
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, geo/thailand, theme/infrastructure, use/thematic]
 ---
 
 # B-INFRA

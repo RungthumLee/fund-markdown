@@ -21,7 +21,7 @@ nav: 9.2058
 nav_date: "2026-08-25"
 fund_size: 269234053.05
 master_fund: "VistaShares Artificial Intelligence Supercycle ETF"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/active, theme/technology/ai-robotics, use/thematic]
 ---
 
 # LHSUPERAI

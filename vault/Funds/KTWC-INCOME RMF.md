@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 80811062.28
 holdings_count: 19
 top10_pct_nav: 87.04
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # KTWC-INCOME RMF

@@ -27,7 +27,7 @@ master_fund: "Allianz Global Investors Fund - Allianz Oriental Income"
 master_isin: "LU0348784397"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, policy/mixed, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-ORTFLEX

@@ -24,7 +24,7 @@ fund_size: 9841198.17
 holdings_count: 35
 top10_pct_nav: 60.86
 fund_managers: ["นาย ธนกร ทองมาก", "นาย วงศกร เหมพันธ์"]
-tags: [fund, sec-data, policy/mixed, risk/6, active]
+tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, struct/direct, style/active, compliance/trigger-fund, geo/thailand, use/accumulate]
 ---
 
 # DAOL-THAITRIG6M

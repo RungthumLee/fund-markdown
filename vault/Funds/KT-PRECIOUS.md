@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 100.87
 master_fund: "Franklin Gold and Prec Mtls A(acc)SGD"
 master_isin: "LU0498741890"
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, theme/metals-mining/gold, use/thematic]
 ---
 
 # KT-PRECIOUS

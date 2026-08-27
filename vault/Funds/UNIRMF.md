@@ -26,7 +26,7 @@ top10_pct_nav: 99.9
 master_fund: "United Global Innovation A USD Acc"
 master_isin: "SGXZ81514606"
 peer_group: "Global Equity"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/rmf, geo/world, use/tax-saving]
 ---
 
 # UNIRMF

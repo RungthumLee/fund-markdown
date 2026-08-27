@@ -24,7 +24,7 @@ fund_size: 32273.39
 holdings_count: 17
 top10_pct_nav: 76.07
 fund_managers: ["นาย ยุรนันท์ วิภูศิริ"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # ASP-THDEQ

@@ -24,7 +24,7 @@ fund_size: 41042574.43
 holdings_count: 24
 top10_pct_nav: 85.17
 fund_managers: ["นาย ชาญวุฒิ รุงแสงมนูญ", "นาย รุงโรจน นิลนพคุณ"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t5, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # SMART-PLUS

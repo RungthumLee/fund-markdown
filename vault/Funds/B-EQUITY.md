@@ -24,7 +24,7 @@ fund_size: 14241398396.56
 holdings_count: 45
 top10_pct_nav: 66.4
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # B-EQUITY

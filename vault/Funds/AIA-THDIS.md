@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 2203124812.43
 holdings_count: 54
 top10_pct_nav: 59.14
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, geo/thailand, theme/technology/ai-robotics, use/thematic]
 ---
 
 # AIA-THDIS

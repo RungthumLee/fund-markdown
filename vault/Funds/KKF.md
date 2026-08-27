@@ -24,7 +24,7 @@ fund_size: 11267013.03
 holdings_count: 46
 top10_pct_nav: 85.73
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # KKF

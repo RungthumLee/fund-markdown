@@ -24,7 +24,7 @@ fund_size: 240674576.66
 holdings_count: 48
 top10_pct_nav: 52.26
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # BCAP-GFIO

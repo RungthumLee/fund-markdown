@@ -21,7 +21,7 @@ nav_date: "2026-08-26"
 fund_size: 22658694.23
 holdings_count: 33
 top10_pct_nav: 64.07
-tags: [fund, sec-data, policy/mixed]
+tags: [fund, sec-data, asset/mixed, conc/concentrated, struct/direct, geo/thailand, use/accumulate]
 ---
 
 # SSB

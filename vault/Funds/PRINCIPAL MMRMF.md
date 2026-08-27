@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1735097181.94
 holdings_count: 22
 top10_pct_nav: 81.75
-tags: [fund, sec-data, policy/fixed-income, risk/2, passive, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t2, fx/fully-hedged, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # PRINCIPAL MMRMF

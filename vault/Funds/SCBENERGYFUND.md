@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 326653443.34
 holdings_count: 27
 top10_pct_nav: 87.74
-tags: [fund, sec-data, policy/equity, risk/7, passive]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, struct/direct, style/passive, style/dividend, geo/thailand, theme/energy, use/income, use/thematic]
 ---
 
 # SCBENERGYFUND

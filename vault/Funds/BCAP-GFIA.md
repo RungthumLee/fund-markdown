@@ -24,7 +24,7 @@ fund_size: 1041173740.47
 holdings_count: 11
 top10_pct_nav: 102.2
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # BCAP-GFIA

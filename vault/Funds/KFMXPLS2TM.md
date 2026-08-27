@@ -25,7 +25,7 @@ holdings_count: 134
 top10_pct_nav: 34.27
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/total-market, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KFMXPLS2TM

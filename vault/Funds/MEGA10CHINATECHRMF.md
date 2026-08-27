@@ -23,7 +23,7 @@ fund_size: 8940138.38
 holdings_count: 2
 top10_pct_nav: 99.81
 master_fund: "กองทุนเปิด MEGA 10 CHINA TECHNOLOGY"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/china, theme/technology, use/tax-saving, use/thematic]
 ---
 
 # MEGA10CHINATECHRMF

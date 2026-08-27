@@ -25,7 +25,7 @@ holdings_count: 20
 top10_pct_nav: 93.94
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธีรภาพ จิรศักยกุล", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
-tags: [fund, sec-data, policy/fixed-income, risk/1, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/rmf, geo/thailand, use/park-cash, use/tax-saving]
 ---
 
 # KFCASHRMF

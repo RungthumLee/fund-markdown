@@ -24,7 +24,7 @@ fund_size: 27704741.7
 holdings_count: 50
 top10_pct_nav: 63.55
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, policy/mixed, risk/6, passive]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, style/dividend, geo/thailand, use/income]
 ---
 
 # ONE-FAS

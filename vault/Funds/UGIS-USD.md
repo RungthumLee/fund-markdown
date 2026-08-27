@@ -25,7 +25,7 @@ top10_pct_nav: 100.11
 master_fund: "PIMCO GIS Income Institutional USD Acc"
 master_isin: "IE00B87KCF77"
 peer_group: "Global Bond Fully F/X Hedge"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, style/active, geo/world, use/accumulate]
 ---
 
 # UGIS-USD

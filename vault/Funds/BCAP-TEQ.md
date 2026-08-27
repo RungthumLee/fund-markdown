@@ -24,7 +24,7 @@ fund_size: 164686298.68
 holdings_count: 39
 top10_pct_nav: 62.65
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # BCAP-TEQ

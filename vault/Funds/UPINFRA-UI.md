@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 100.29
 master_fund: "EQT Nexus Fund SICAV - ENIF I EUR-Z"
 master_isin: "LU2984100870"
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, theme/infrastructure, use/thematic, audience/restricted]
 ---
 
 # UPINFRA-UI

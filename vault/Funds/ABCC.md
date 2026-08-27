@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 118072261.51
 holdings_count: 9
 top10_pct_nav: 100.03
-tags: [fund, sec-data, policy/fixed-income, risk/2, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/park-cash]
 ---
 
 # ABCC

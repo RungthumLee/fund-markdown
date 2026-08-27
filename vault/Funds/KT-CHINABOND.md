@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.82
 master_fund: "BGF China Bond D2"
 master_isin: "LU0719319435"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, geo/china, use/tax-saving]
 ---
 
 # KT-CHINABOND

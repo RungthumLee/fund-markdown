@@ -27,7 +27,7 @@ master_fund: "BGF Asian Tiger Bond D2"
 master_isin: "LU0776122383"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, use/accumulate]
 ---
 
 # ES-ASIANBOND

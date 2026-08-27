@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.22
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/mixed, risk/7, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, style/dividend, geo/asia-pacific, theme/real-estate, use/income, use/thematic]
 ---
 
 # ES-APPF

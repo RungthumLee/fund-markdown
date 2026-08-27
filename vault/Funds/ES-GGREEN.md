@@ -27,7 +27,7 @@ master_fund: "KBI Global Energy Transition E USD"
 master_isin: "IE000JRA46G5"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/7, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/world, theme/energy, use/thematic]
 ---
 
 # ES-GGREEN

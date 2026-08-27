@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 102.76
 master_fund: "abrdn-Nrth American Sml Comp Z Acc USD"
 master_isin: "LU1725895533"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABAGS-M

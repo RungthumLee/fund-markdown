@@ -22,7 +22,7 @@ nav_date: "2026-08-25"
 fund_size: 19785213.33
 master_fund: "Franklin FTSE South Korea ETF"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, geo/korea, use/accumulate]
 ---
 
 # ASP-KOREA

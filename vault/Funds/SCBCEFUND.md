@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 99.31
 master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, style/dividend, tax/ssf, geo/china, use/tax-saving, use/income]
 ---
 
 # SCBCEFUND

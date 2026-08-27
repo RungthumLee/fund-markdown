@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 4000471972.64
 holdings_count: 83
 top10_pct_nav: 49.86
-tags: [fund, sec-data, policy/fixed-income, risk/2, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # KKP CASH FUND

@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 98.67
 master_fund: "PIMCO GIS Income Institutional USD Acc"
 master_isin: "IE00B87KCF77"
-tags: [fund, sec-data, policy/fixed-income, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBUSDINC

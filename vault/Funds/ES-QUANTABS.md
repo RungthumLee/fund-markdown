@@ -21,7 +21,7 @@ nav: 10.0353
 nav_date: "2026-08-24"
 fund_size: 278734773.55
 master_fund: "Man Systematic Equity Alternative"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-QUANTABS

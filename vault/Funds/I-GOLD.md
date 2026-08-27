@@ -26,7 +26,7 @@ top10_pct_nav: 104.54
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, policy/alternative, risk/8, passive, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, theme/metals-mining/gold, use/tax-saving, use/thematic]
 ---
 
 # I-GOLD

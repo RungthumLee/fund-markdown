@@ -25,7 +25,7 @@ holdings_count: 22
 top10_pct_nav: 104.7
 master_fund: "Hamilton Lane Global Private Assets Fund"
 master_isin: "LU2008199189"
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, fx/fully-hedged, struct/feeder, geo/world, use/accumulate, audience/restricted]
 ---
 
 # SCBGPA

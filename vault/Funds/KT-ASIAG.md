@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 102.51
 master_fund: "JPM Asia Growth I acc USD"
 master_isin: "LU0943624824"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, geo/asia-pacific, use/tax-saving, use/income]
 ---
 
 # KT-ASIAG

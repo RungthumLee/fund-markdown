@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 35079573.08
 holdings_count: 12
 top10_pct_nav: 94.26
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, theme/healthcare, use/thematic]
 ---
 
 # MEGA10HEALTH

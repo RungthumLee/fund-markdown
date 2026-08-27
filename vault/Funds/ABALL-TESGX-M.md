@@ -22,7 +22,7 @@ nav_date: "2026-08-26"
 fund_size: 45548519.32
 holdings_count: 35
 top10_pct_nav: 49.72
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, fx/unhedged, struct/direct, style/active, theme/sustainability, use/thematic]
 ---
 
 # ABALL-TESGX-M

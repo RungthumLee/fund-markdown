@@ -25,7 +25,7 @@ holdings_count: 40
 top10_pct_nav: 80.39
 peer_group: "Mid Term Government Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # TSFIRMF

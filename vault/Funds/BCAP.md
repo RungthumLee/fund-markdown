@@ -24,7 +24,7 @@ fund_size: 475444398.17
 holdings_count: 39
 top10_pct_nav: 65.3
 peer_group: "Equity Large Cap"
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, geo/thailand, use/income]
 ---
 
 # BCAP

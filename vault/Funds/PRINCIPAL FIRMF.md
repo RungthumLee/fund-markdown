@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 192875759.47
 holdings_count: 58
 top10_pct_nav: 52.83
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # PRINCIPAL FIRMF

@@ -25,7 +25,7 @@ holdings_count: 7
 top10_pct_nav: 99.37
 peer_group: "Health Care"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, policy/equity, risk/7, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, tax/rmf, geo/world, theme/healthcare, use/tax-saving, use/thematic]
 ---
 
 # TGHRMF

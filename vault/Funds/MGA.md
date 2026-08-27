@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 60577145.26
 holdings_count: 18
 top10_pct_nav: 98.26
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, use/accumulate]
 ---
 
 # MGA

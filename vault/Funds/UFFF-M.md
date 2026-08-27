@@ -24,7 +24,7 @@ fund_size: 168713449.06
 holdings_count: 9
 top10_pct_nav: 101.69
 peer_group: "Global Bond Fully F/X Hedge"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # UFFF-M

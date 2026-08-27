@@ -25,7 +25,7 @@ holdings_count: 101
 top10_pct_nav: 104.5
 master_fund: "iShares MSCI World ETF"
 master_isin: "US4642863926"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, geo/world, use/tax-saving]
 ---
 
 # SCBWORLD

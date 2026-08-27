@@ -27,7 +27,7 @@ master_fund: "UBS (Lux) EF China Oppo(USD) 1-A1 USDacc"
 master_isin: "LU1017642064"
 peer_group: "Greater China Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, geo/china, use/tax-saving]
 ---
 
 # ES-CORMF

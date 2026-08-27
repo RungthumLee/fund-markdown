@@ -24,7 +24,7 @@ fund_size: 1863674833.13
 holdings_count: 39
 top10_pct_nav: 67.3
 peer_group: "Equity General"
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # BBASICRMF

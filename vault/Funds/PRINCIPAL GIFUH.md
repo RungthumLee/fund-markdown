@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 95.47
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
 master_isin: "IE00B3X5FG30"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, geo/world, theme/infrastructure, use/thematic]
 ---
 
 # PRINCIPAL GIFUH

@@ -25,7 +25,7 @@ holdings_count: 105
 top10_pct_nav: 110.23
 master_fund: "iShares Core Nikkei 225 ETF"
 master_isin: "JP3027710007"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, geo/japan, use/income]
 ---
 
 # SCBNKY225

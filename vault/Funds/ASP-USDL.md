@@ -25,7 +25,7 @@ top10_pct_nav: 99.86
 master_fund: "BNP Paribas InstiCash USD 1D LVNAV IT1 C"
 master_isin: "LU2594160355"
 fund_managers: ["นาย สุชน รัตนหิรัgภรณ์", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ASP-USDL

@@ -25,7 +25,7 @@ holdings_count: 59
 top10_pct_nav: 107.0
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/mixed, risk/6, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, geo/asia-pacific, use/accumulate]
 ---
 
 # K-ASIACV

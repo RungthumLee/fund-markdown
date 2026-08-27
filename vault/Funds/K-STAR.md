@@ -25,7 +25,7 @@ holdings_count: 33
 top10_pct_nav: 72.27
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "น.ส. นินัทธ์ วงศ์เสงี่ยม"]
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, tax/ssf, geo/thailand, use/tax-saving, use/income]
 ---
 
 # K-STAR

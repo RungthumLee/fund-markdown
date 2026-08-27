@@ -24,7 +24,7 @@ fund_size: 59380402.04
 holdings_count: 13
 top10_pct_nav: 108.72
 master_fund: "AB SICAV I - International Health Care Portfolio I Acc"
-tags: [fund, sec-data, policy/equity, risk/7, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, theme/healthcare, use/tax-saving, use/thematic]
 ---
 
 # LHHEALTH

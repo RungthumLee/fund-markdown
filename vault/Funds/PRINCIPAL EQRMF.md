@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 1345150931.22
 holdings_count: 41
 top10_pct_nav: 65.0
-tags: [fund, sec-data, policy/equity, risk/6, active, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # PRINCIPAL EQRMF

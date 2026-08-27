@@ -26,7 +26,7 @@ top10_pct_nav: 102.41
 master_fund: "United Asia T SGD Acc"
 master_isin: "SGXZ97414734"
 peer_group: "Asia Pacific Ex Japan"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, tax/ssf, geo/asia-pacific, use/tax-saving]
 ---
 
 # UOBSA-M

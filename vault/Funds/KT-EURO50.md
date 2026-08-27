@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 100.37
 master_fund: "iShares Core EURO STOXX 50 UCITS ETF EUR (Dist)"
 master_isin: "IE00B53L3W79"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-EURO50

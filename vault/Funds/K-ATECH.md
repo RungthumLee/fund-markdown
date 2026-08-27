@@ -26,7 +26,7 @@ top10_pct_nav: 117.7
 master_fund: "JPMorgan Pacific Tech (acc) - USD"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, geo/asia-pacific, theme/technology, use/thematic]
 ---
 
 # K-ATECH

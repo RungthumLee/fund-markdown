@@ -26,7 +26,7 @@ top10_pct_nav: 100.14
 master_fund: "Calamos US Equity Autocallable Income ETF"
 master_isin: "US12811T5719"
 fund_managers: ["นาย กิตติพงษ์ กังวานเกียรติชัย", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # MAUTOCALL-UH

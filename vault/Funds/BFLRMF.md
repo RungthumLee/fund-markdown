@@ -24,7 +24,7 @@ fund_size: 15445274205.78
 holdings_count: 112
 top10_pct_nav: 46.23
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, active, tax/rmf]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # BFLRMF

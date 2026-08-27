@@ -24,7 +24,7 @@ fund_size: 8377229193.93
 holdings_count: 77
 top10_pct_nav: 40.43
 peer_group: "Short Term General Bond"
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # UIDPLUS

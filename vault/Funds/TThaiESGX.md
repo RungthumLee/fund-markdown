@@ -25,7 +25,7 @@ holdings_count: 23
 top10_pct_nav: 66.33
 peer_group: "Equity General"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "นาย ยศวสุสุธารัตนชัยพร"]
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, geo/thailand, theme/sustainability, use/thematic]
 ---
 
 # TThaiESGX

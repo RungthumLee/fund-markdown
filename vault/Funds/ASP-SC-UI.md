@@ -26,7 +26,7 @@ top10_pct_nav: 100.29
 master_fund: "Oaktree Strategic Credit iCapital Access Fund SPC"
 master_isin: "KYG6690J1783"
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, policy/other, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t6, fx/partially-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # ASP-SC-UI

@@ -27,7 +27,7 @@ master_fund: "Amundi MSCI World Swap II UCITS ETF Dist"
 master_isin: "FR0010315770"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, geo/world, use/accumulate]
 ---
 
 # ES-WDEQ

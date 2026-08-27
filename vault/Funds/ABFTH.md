@@ -25,7 +25,7 @@ holdings_count: 54
 top10_pct_nav: 37.41
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย สารัช อรุณากูร", "นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, policy/fixed-income, risk/3, passive, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/unhedged, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # ABFTH

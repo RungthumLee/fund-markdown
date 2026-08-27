@@ -24,7 +24,7 @@ fund_size: 26848904.9
 holdings_count: 50
 top10_pct_nav: 63.38
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, policy/mixed, risk/6, active, tax/ssf]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/ssf, geo/thailand, use/tax-saving]
 ---
 
 # ONE-TCMSSF

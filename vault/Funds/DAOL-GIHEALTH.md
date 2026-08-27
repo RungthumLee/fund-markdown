@@ -24,7 +24,7 @@ fund_size: 61559829.54
 holdings_count: 29
 top10_pct_nav: 104.37
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย วงศกร เหมพันธ์"]
-tags: [fund, sec-data, policy/equity, risk/7, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/very-high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, geo/world, theme/healthcare, use/thematic]
 ---
 
 # DAOL-GIHEALTH

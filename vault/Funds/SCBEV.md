@@ -23,7 +23,7 @@ nav_date: "2026-08-25"
 fund_size: 1005956196.9
 holdings_count: 146
 top10_pct_nav: 107.28
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, fx/fully-hedged, struct/direct, style/active, tax/ssf, theme/sustainability, use/tax-saving, use/thematic]
 ---
 
 # SCBEV

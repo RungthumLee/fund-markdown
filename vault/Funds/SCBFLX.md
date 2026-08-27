@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 357215020.62
 holdings_count: 68
 top10_pct_nav: 51.23
-tags: [fund, sec-data, policy/mixed, risk/5, active]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # SCBFLX

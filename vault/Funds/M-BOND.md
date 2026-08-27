@@ -24,7 +24,7 @@ fund_size: 54793295.26
 holdings_count: 33
 top10_pct_nav: 89.77
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, geo/thailand, use/accumulate]
 ---
 
 # M-BOND

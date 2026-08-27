@@ -23,7 +23,7 @@ fund_size: 459231722.15
 holdings_count: 20
 top10_pct_nav: 102.16
 master_fund: "Invesco Solar ETF"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, theme/sustainability, use/thematic]
 ---
 
 # LHSOLAR

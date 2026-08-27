@@ -24,7 +24,7 @@ fund_size: 77400786.01
 holdings_count: 19
 top10_pct_nav: 79.29
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ภัทรพล โสภณศิรินันท์"]
-tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-FLEXPLUS

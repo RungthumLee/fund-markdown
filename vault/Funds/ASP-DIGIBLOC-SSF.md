@@ -24,7 +24,7 @@ fund_size: 91563223.23
 holdings_count: 15
 top10_pct_nav: 98.75
 fund_managers: ["นาย คมสัน ผลานุสนธิ"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, theme/technology, use/thematic]
 ---
 
 # ASP-DIGIBLOC-SSF

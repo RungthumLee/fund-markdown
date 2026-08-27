@@ -26,7 +26,7 @@ top10_pct_nav: 99.84
 master_fund: "HSBC Hang Seng Tech UCITS ETF"
 master_isin: "IE00BMWXKN31"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, geo/china, theme/technology, use/thematic]
 ---
 
 # DAOL-CHINATECH

@@ -21,7 +21,7 @@ nav: 10.05
 nav_date: "2026-08-25"
 fund_size: 6554225.63
 master_fund: "Vanguard Total International Stock Index Fund ETF Shares"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, geo/us, use/tax-saving]
 ---
 
 # TLWORLDXUSRMF

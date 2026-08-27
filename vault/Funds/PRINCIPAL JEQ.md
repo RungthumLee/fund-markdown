@@ -25,7 +25,7 @@ holdings_count: 31
 top10_pct_nav: 141.8
 master_fund: "DWS Concept Nissay Jpn Val Eq JPY XC Acc"
 master_isin: "LU2838977887"
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/ssf, geo/japan, use/tax-saving]
 ---
 
 # PRINCIPAL JEQ

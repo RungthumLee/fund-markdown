@@ -24,7 +24,7 @@ fund_size: 28526820.25
 holdings_count: 3
 top10_pct_nav: 100.16
 fund_managers: ["นาย กมลสิฐิ์ ขวัญใจธัญญา", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, policy/mixed, risk/3, active]
+tags: [fund, sec-data, asset/mixed, risk/low, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # M-CR

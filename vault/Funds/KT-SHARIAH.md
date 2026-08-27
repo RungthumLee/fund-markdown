@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 5314979.63
 holdings_count: 39
 top10_pct_nav: 70.98
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, compliance/sharia, geo/thailand, use/accumulate]
 ---
 
 # KT-SHARIAH

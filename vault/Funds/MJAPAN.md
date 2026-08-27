@@ -26,7 +26,7 @@ top10_pct_nav: 107.89
 master_fund: "Arcus Japan A Acc USD H"
 master_isin: "LU0573573390"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, geo/japan, use/accumulate]
 ---
 
 # MJAPAN

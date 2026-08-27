@@ -26,7 +26,7 @@ top10_pct_nav: 99.72
 master_fund: "Heptagon Driehaus US Sm Cp Eq S USD Acc"
 master_isin: "IE00BH3ZJB48"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, policy/equity, risk/6, foreign-exposure, tax/ssf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, geo/us, use/tax-saving]
 ---
 
 # ASP-USSMALL

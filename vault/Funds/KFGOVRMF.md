@@ -25,7 +25,7 @@ holdings_count: 36
 top10_pct_nav: 54.23
 peer_group: "Mid Term Government Bond"
 fund_managers: ["น.ส. พรทิพา หนึ่งนํ้าใจ", "น.ส. รัมภารัจน์ ยุธานหัส"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, active, tax/rmf]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, geo/thailand, use/tax-saving]
 ---
 
 # KFGOVRMF

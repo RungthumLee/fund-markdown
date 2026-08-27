@@ -23,7 +23,7 @@ fund_size: 17591342.68
 holdings_count: 5
 top10_pct_nav: 100.69
 master_fund: "Robeco Indian Equities F $"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure, tax/rmf]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, geo/india, use/tax-saving]
 ---
 
 # KKP INDIA RMF-UH

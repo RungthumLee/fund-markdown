@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 101.21
 master_fund: "Vanguard Total World Stock Index Fund ETF Shares"
 master_isin: "US9220427424"
-tags: [fund, sec-data, policy/equity, risk/6, passive, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, geo/world, use/accumulate]
 ---
 
 # TLWORLD-X

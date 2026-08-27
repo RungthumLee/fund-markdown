@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.15
 master_fund: "Brookfield Real Estate Income Trust Inc."
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, policy/alternative, risk/8+, restricted-investor, foreign-exposure]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, theme/real-estate, use/thematic, audience/restricted]
 ---
 
 # ASP-PRE-UI

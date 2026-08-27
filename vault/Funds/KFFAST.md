@@ -25,7 +25,7 @@ holdings_count: 56
 top10_pct_nav: 63.0
 peer_group: "Miscellaneous"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย เอกชัย บุญยะพงศ์ไชย"]
-tags: [fund, sec-data, policy/equity, risk/6, active, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KFFAST

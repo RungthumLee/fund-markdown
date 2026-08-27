@@ -23,7 +23,7 @@ nav_date: "2026-08-26"
 fund_size: 3483541251.66
 holdings_count: 50
 top10_pct_nav: 61.49
-tags: [fund, sec-data, policy/equity, risk/6, active]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, geo/thailand, use/accumulate]
 ---
 
 # KTEF

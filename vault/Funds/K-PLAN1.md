@@ -25,7 +25,7 @@ holdings_count: 95
 top10_pct_nav: 27.66
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย สารัช อรุณากูร"]
-tags: [fund, sec-data, policy/fixed-income, risk/4, passive, foreign-exposure]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-PLAN1

@@ -26,7 +26,7 @@ top10_pct_nav: 98.48
 master_fund: "Lazard Japanese Strategic Eq A Acc JPY"
 master_isin: "IE00B8JGVH80"
 peer_group: "Japan Equity"
-tags: [fund, sec-data, policy/equity, risk/6, active, feeder, foreign-exposure]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, geo/japan, use/accumulate]
 ---
 
 # B-NIPPON

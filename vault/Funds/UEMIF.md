@@ -26,7 +26,7 @@ top10_pct_nav: 101.15
 master_fund: "AB EM Multi-Asset S1 USD"
 master_isin: "LU0633141881"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, policy/mixed, risk/5, foreign-exposure]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, geo/emerging-markets, use/accumulate]
 ---
 
 # UEMIF
