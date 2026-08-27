@@ -1,0 +1,349 @@
+---
+title: "K-MS"
+proj_id: M0511_2559
+regis_id: "MF0522_2559"
+abbr: "K-MS"
+name_th: "กองทุนเปิดเค Mid Small Cap"
+name_en: "K Mid Small Cap Fund"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด"
+amc_id: "C0000000021"
+policy: "ตราสารทุน"
+risk_spectrum: "6"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "3"
+init_date: "2016-09-29"
+regis_date: "2016-11-23"
+class_count: 2
+has_factsheet: true
+ter_retail: 2.02
+perf_1y: 25.97
+nav: 9.7738
+nav_date: "2026-08-26"
+fund_size: 5862490.37
+holdings_count: 40
+top10_pct_nav: 40.53
+peer_group: "Equity Small - Mid Cap"
+fund_managers: ["น.ส. นินัทธ์ วงศ์เสงี่ยม"]
+tags: [fund, sec-data, policy/equity, risk/6, active]
+---
+
+# K-MS
+
+**กองทุนเปิดเค Mid Small Cap**  
+_K Mid Small Cap Fund_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด]] · นโยบาย [[ตราสารทุน]] · ความเสี่ยงระดับ **6**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0511_2559`
+> - **ประเภท:** ตราสารทุน · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** ไม่มีความเสี่ยงต่างประเทศ
+> - **จัดตั้ง:** 2016-09-29 · **จดทะเบียน:** 2016-11-23
+> - **ชนิดหน่วยลงทุน:** 2 class
+> - **NAV 9.7738 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0511_2559` |
+| เลขที่จดทะเบียน (regis_id) | MF0522_2559 |
+| ชื่อย่อ | K-MS |
+| ชื่อไทย | กองทุนเปิดเค Mid Small Cap |
+| ชื่ออังกฤษ | K Mid Small Cap Fund |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2016-09-29 |
+| วันจดทะเบียน | 2016-11-23 |
+| ประเภทตามนโยบาย | ตราสารทุน |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | ไม่มีความเสี่ยงต่างประเทศ |
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| K-MS-A(A) | TH7518B10003 | - | ชนิดสะสมมูลค่า |
+| K-MS-T(A) | TH7518A10005 | - | ชนิดครบเงื่อนไขทางภาษี(สะสมมูลค่า) |
+
+## 3. นโยบายการลงทุน
+
+กองทุนมีนโยบายที่จะลงทุนในหุ้นของบริษัทจดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย และ/หรือตลาดหลักทรัพย์เอ็มเอไอ ที่มีปัจจัยพื้นฐานดี และ/หรือมีความมั่นคง และ/หรือมีแนวโน้มการเจริญเติบโตทางธุรกิจ ทั้งนี้ กองทุนจะเน้นลงทุนในหุ้นของบริษัทขนาดกลางและขนาดเล็ก โดยให้มี net exposure ในตราสารดังกล่าวโดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าสินทรัพย์สุทธิของกองทุน 
+สำหรับการลงทุนส่วนที่เหลือ กองทุนอาจลงทุนในตราสารแห่งทุนนอกเหนือจากที่ระบุข้างต้น ตราสารกึ่งหนี้กึ่งทุน ตราสารแห่งหนี้ เงินฝาก และหรือหลักทรัพย์และทรัพย์สินอื่นหรือการหาดอกผลโดยวิธีอื่นที่ไม่ขัดต่อกฎหมาย ก.ล.ต. รวมทั้ง อาจลงทุนในสัญญาซื้อขายล่วงหน้าเพื่อการเพิ่มประสิทธิภาพการบริหารการลงทุน (Efficient Portfolio Management) และตราสารที่มีลักษณะของสัญญาซื้อขายล่วงหน้าแฝง (Structured Note) 
+อย่างไรก็ตาม กองทุนจะไม่ลงทุนในตราสารหนี้ที่มีอันดับความน่าเชื่อถือต่ำกว่าที่สามารถลงทุนได้ (non – investment grade) และตราสารหนี้ที่ไม่ได้รับการจัดอันดับความน่าเชื่อถือ (Unrated Securities) ทั้งนี้ กองทุนอาจมีไว้ซึ่งตราสารหนี้ที่มีอันดับความน่าเชื่อถือต่ำกว่าที่สามารถลงทุนได้ เฉพาะกรณีที่ตราสารหนี้นั้นได้รับการจัดอันดับความน่าเชื่อถือที่สามารถลงทุนได้ (Investment grade) ขณะที่กองทุนลงทุนเท่านั้น รวมทั้ง กองทุนจะไม่ลงทุนในหลักทรัพย์ที่มิได้จดทะเบียนในตลาดหลักทรัพย์ (Unlisted Securities) เว้นแต่เป็นหุ้นที่คณะกรรมการตลาดหลักทรัพย์สั่งรับเป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย ซึ่งผู้ออกหุ้นดังกล่าวอยู่ระหว่างการดำเนินการกระจายการถือหุ้นรายย่อยตามข้อบังคับตลาดหลักทรัพย์แห่งประเทศไทยว่าด้วยการรับหุ้นสามัญหรือหุ้นบุริมสิทธิเป็นหลักทรัพย์จดทะเบียน 
+ทั้งนี้ บริษัทขนาดกลางและขนาดเล็กสำหรับกองทุนนี้ ให้หมายถึงบริษัทจดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย และ/หรือตลาดหลักทรัพย์เอ็มเอไอ ที่มีมูลค่าหลักทรัพย์ตามราคาตลาด (Market Capitalization) ไม่เกิน 80,000 ล้านบาท ณ วันทำการก่อนหน้าวันที่กองทุนลงทุน หากต่อมา มูลค่าตลาดของบริษัทขนาดกลางและขนาดเล็กเติบโตกว่าหลักเกณฑ์ที่กองทุนกำหนดไว้ บริษัทจัดการขอสงวนสิทธิที่จะมีไว้ซึ่งหุ้นของบริษัทดังกล่าวต่อไปได้ และไม่ถือว่าเป็นการผิดนโยบายการลงทุนของกองทุน รวมถึงบริษัทจัดการขอสงวนสิทธิในการเปลี่ยนแปลงเกณฑ์มูลค่าตลาดที่บริษัทจัดการกำหนดไว้ได้ เพื่อให้สอดคล้องกับสภาวะตลาด เช่น หากมูลค่าตลาดโดยรวมเติบโตขึ้น บริษัทจัดการอาจปรับเกณฑ์มูลค่าตลาดเพิ่มขึ้น หรือหากมูลค่าตลาดโดยรวมลดลง บริษัทจัดการอาจปรับเกณฑ์มูลค่าตลาดลดลง เป็นต้น ทั้งนี้ ขึ้นอยู่กับดุลยพินิจของบริษัทจัดการ โดยถือว่าได้รับความเห็นชอบจากผู้ถือหน่วยลงทุนแล้ว 
+กองทุนอาจไม่นับช่วงเวลาระหว่างรอการลงทุน ซึ่งมีระยะเวลาประมาณ 30 วันนับแต่วันจดทะเบียนกองทรัพย์สิน ในการคำนวณอัตราส่วนการลงทุนที่กำหนดไว้ข้างต้น นอกจากนี้ อาจมีบางขณะที่บริษัทจัดการไม่สามารถลงทุนให้เป็นไปตามสัดส่วนการลงทุนที่กำหนดไว้ข้างต้น อันเนื่องมาจากการเกิดสภาวการณ์ที่ไม่ปกติหรือมีเหตุจำเป็น เช่น มีการเปลี่ยนแปลงทางเศรษฐกิจและการเมืองอย่างมีนัยสำคัญ หรือเกิดวิกฤตการทางเศรษฐกิจที่มีนัยสำคัญต่อการลงทุนในตลาดหลักทรัพย์แห่งประเทศไทย ภาวะภัยพิบัติจากภัยธรรมชาติ ภาวะสงคราม ราคาตลาดของหลักทรัพย์ลดลงอย่างรุนแรงในช่วงที่ใกล้กับวันสิ้นรอบปีบัญชี เป็นเหตุให้บริษัทจัดการไม่สามารถปรับการลงทุนได้ทันก่อนสิ้นปีบัญชี เป็นต้น โดยบริษัทจัดการจะรายงานการไม่สามารถลงทุนในหรือมีไว้ซึ่งตราสารแห่งทุนให้เป็นไปตามสัดส่วนการลงทุนที่กำหนดไว้ในโครงการแก่สำนักงานคณะกรรมการ ก.ล.ต. 
+
+ประเภทของหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นที่จะลงทุนในประเทศ 
+บริษัทจัดการจะลงทุนหรือแสวงหาประโยชน์เฉพาะจากหลักทรัพย์ ทรัพย์สินอื่น หรือหาดอกผลโดยวิธีอื่นอย่างใดอย่างหนึ่งหรือหลายอย่างตามที่ประกาศคณะกรรมการ ก.ล.ต. หรือประกาศสำนักงานคณะกรรมการ ก.ล.ต. กำหนดดังต่อไปนี้ เว้นแต่ในกรณีที่คณะกรรมการ ก.ล.ต.หรือสำนักงานคณะกรรมการ ก.ล.ต. ให้ความเห็นชอบหรือมีประกาศแก้ไขหรือเพิ่มเติมประเภทหรือลักษณะของหลักทรัพย์หรือทรัพย์สินหรือการหาดอกผลโดยวิธีอื่น
+ส่วนที่ 1 : ประเภทและคุณสมบัติของตราสารทางการเงินทั่วไป 
+1. ประเภทของตราสาร ได้แก่ 
+1.1 ตราสารทุน 
+1.1.1 หุ้น 
+1.1.2 ใบสำคัญแสดงสิทธิที่จะซื้อหุ้น (share warrants) 
+1.1.3 ใบแสดงสิทธิในการซื้อหุ้นเพิ่มทุนที่โอนสิทธิได้ (Transferable Subscription Right หรือ TSR) 
+1.1.4 ใบแสดงสิทธิในผลประโยชน์ที่มีสินค้า ตัวแปร หรือหลักทรัพย์อ้างอิง (underlying) เป็นหุ้นหรือ share warrants 
+1.1.5 ตราสารทุนอื่นที่มีลักษณะทำนองเดียวกับตราสารทุนตามข้อ 1.1 …(ตัดทอน)
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 6 / 8** — 6 — ตราสารทุน
+
+> ลงทุนในตราสารทุนเป็นหลัก โดยเฉลี่ยในรอบปีไม่น้อยกว่า 80% ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| K-MS-A(A) | -0.59 | -16.73 | 1.04 | -54.96% | 12.61 | 1.9 | - |
+| K-MS-T(A) | -0.58 | -16.54 | 1.04 | -54.61% | 12.61 | 1.9 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+> [!IMPORTANT] ค่าธรรมเนียมของกองนี้ต่างกันตามชนิดหน่วยลงทุน **2.02% – 2.16%**
+> อัตราที่ผู้ลงทุนรายย่อยซื้อได้ถูกที่สุดคือ **2.02%**
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `K-MS-T(A)`<br><sub>ชนิดครบเงื่อนไขทางภาษี(สะสมมูลค่า)</sub> | 🟢 รายย่อยทั่วไป | 2.02 | 3.74 | 1.87 | - | - |
+| `K-MS-A(A)`<br><sub>ชนิดสะสมมูลค่า</sub> | 🟢 รายย่อยทั่วไป | 2.16 | 3.74 | 2.01 | 1 | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| K-MS-T(A) | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 3.74 | 2.02 |
+| K-MS-T(A) | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2 | 0 |
+| K-MS-T(A) | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.94 | 1.87 |
+| K-MS-A(A) | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2 | 1 |
+| K-MS-A(A) | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 3.74 | 2.16 |
+| K-MS-A(A) | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.94 | 2.01 |
+| K-MS-A(A) | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 2 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| K-MS-A(A) | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.9425 | ต่อปีของมูลค่าทรัพย์สินทั้งหมดของกองทุน หักมูลค่าหนี้สินทั้งหมด ทั้งนี้ มูลค่าหนี้สินทั้งหมดไม่รวมถึงค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน |
+| K-MS-A(A) | ค่าธรรมเนียมทั้งหมด (Total Fee) | 3.745 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| K-MS-A(A) | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| K-MS-A(A) | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.1284 | ต่อปีของมูลค่าทรัพย์สินทั้งหมดของกองทุน หักมูลค่าหนี้สินทั้งหมด ทั้งนี้ มูลค่าหนี้สินทั้งหมดไม่รวมถึงค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน |
+| K-MS-A(A) | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| K-MS-A(A) | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.107 | ต่อปีของมูลค่าทรัพย์สินทั้งหมดของกองทุน หักมูลค่าหนี้สินทั้งหมด ทั้งนี้ มูลค่าหนี้สินทั้งหมดไม่รวมถึงค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน |
+| K-MS-A(A) | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 0.5671 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| K-MS-T(A) | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.9425 | ต่อปีของมูลค่าทรัพย์สินทั้งหมดของกองทุน หักมูลค่าหนี้สินทั้งหมด ทั้งนี้ มูลค่าหนี้สินทั้งหมดไม่รวมถึงค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน |
+| K-MS-T(A) | ค่าธรรมเนียมทั้งหมด (Total Fee) | 3.745 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| K-MS-T(A) | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| K-MS-T(A) | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.1284 | ต่อปีของมูลค่าทรัพย์สินทั้งหมดของกองทุน หักมูลค่าหนี้สินทั้งหมด ทั้งนี้ มูลค่าหนี้สินทั้งหมดไม่รวมถึงค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน |
+| K-MS-T(A) | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| K-MS-T(A) | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.107 | ต่อปีของมูลค่าทรัพย์สินทั้งหมดของกองทุน หักมูลค่าหนี้สินทั้งหมด ทั้งนี้ มูลค่าหนี้สินทั้งหมดไม่รวมถึงค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน |
+| K-MS-T(A) | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 0.5671 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+
+## 6. ผลการดำเนินงาน
+
+### Class `K-MS-A(A)`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 18.14 | 17.93 | 17.93 | 25.73 | -10.66 | -7.96 | -1.3 | -33.03 | -8.25 | -11.07 | -5.1 | 41.09 |
+| ผลตอบแทนตัวชี้วัด | 11.47 | 30.31 | 30.31 | 52.9 | 6.07 | 3.65 | 6.32 | -5.99 | - | -12.66 | 3.53 | 17.67 |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 17.98 | 21.71 | 21.71 | 28.3 | -7.47 | -5.6 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 16.9 | 23.13 | 23.13 | 20.73 | 19.75 | 17.77 | 17.5 | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 15.23 | 20.38 | 20.38 | 17.84 | 15.52 | 13.96 | 14.38 | - | - | - | - | - |
+
+### Class `K-MS-T(A)`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 18.19 | 18.07 | 18.07 | 25.97 | -10.47 | -7.77 | -0.99 | -32.93 | -8.07 | -10.81 | -4.9 | 41.29 |
+| ผลตอบแทนตัวชี้วัด | 11.47 | 30.31 | 30.31 | 52.9 | 6.07 | 3.65 | 4.15 | -5.99 | - | -12.66 | 3.53 | 17.67 |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 17.98 | 21.71 | 21.71 | 28.3 | -7.47 | -5.6 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 16.9 | 23.13 | 23.13 | 20.73 | 19.75 | 17.77 | 17.29 | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 15.23 | 20.38 | 20.38 | 17.84 | 15.52 | 13.96 | 15.24 | - | - | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้กำหนดองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| เงินฝาก | 6.11 |
+| ตราสารทุน | 94.1 |
+| อื่นๆ | -0.21 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | เงินฝาก บมจ.ธนาคารทหารไทยธนชาต | 6.06 |
+| 2 | หุ้น บมจ.สตาร์ ปิโตรเลียม รีไฟน์นิ่ง | 4.7 |
+| 3 | หุ้น ธนาคารเกียรตินาคิน จำกัด (มหาชน) | 4.27 |
+| 4 | หุ้น บมจ.โอสถสภา | 4.24 |
+| 5 | หุ้น บมจ.ทุนธนชาต | 3.8 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 269,689,137 | 90.1476 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 19,730,507 | 6.5952 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | 9,744,425 | 3.2572 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **40** รายการ จากผู้ออก 40 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **289,411,616** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **40.53% ของ NAV** (คิดเป็น 40.4% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/TMBThanachart Bank Public Company Limited (เงินฝาก)\|TMBThanachart Bank Public Company Limited]] <br><sub>`SAVTTB1`</sub> | TMBThanachart Bank Pcl. | เงินฝากธนาคารประเภทออมทรัพย์ | - | 17,527,79 | 6.0564 |
+| 2 | [[../Entities/STAR PETROLEUM REFINING PUBLIC COMPANY LIMITED\|STAR PETROLEUM REFINING PUBLIC COMPANY LIMITED]] <br><sub>`SPRC`</sub> | STAR PETROLEUM REFINING PUBLIC COMPANY L | หุ้นสามัญ | TH6838010002 | 13,616,16 | 4.7048 |
+| 3 | [[../Entities/KIATNAKIN PHATRA BANK PUBLIC COMPANY LIMITED\|KIATNAKIN PHATRA BANK PUBLIC COMPANY LIMITED]] <br><sub>`KKP`</sub> | KIATNAKIN PHATRA BANK PUBLIC COMPANY LIM | หุ้นสามัญ | TH0121010001 | 12,351,45 | 4.2678 |
+| 4 | [[../Entities/OSOTSPA PUBLIC COMPANY LIMITED\|OSOTSPA PUBLIC COMPANY LIMITED]] <br><sub>`OSP`</sub> | OSOTSPA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH8752010000 | 12,273,96 | 4.241 |
+| 5 | [[../Entities/THANACHART CAPITAL PUBLIC COMPANY LIMITED\|THANACHART CAPITAL PUBLIC COMPANY LIMITED]] <br><sub>`TCAP`</sub> | THANACHART CAPITAL PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH0083B10Z02 | 11,009,25 | 3.804 |
+| 6 | [[../Entities/MEGA LIFESCIENCES PUBLIC COMPANY LIMITED\|MEGA LIFESCIENCES PUBLIC COMPANY LIMITED]] <br><sub>`MEGA`</sub> | MEGA LIFESCIENCES PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH4984010009 | 10,440,675 | 3.6075 |
+| 7 | [[../Entities/CARABAO GROUP PUBLIC COMPANY LIMITED\|CARABAO GROUP PUBLIC COMPANY LIMITED]] <br><sub>`CBG`</sub> | CARABAO GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6066010005 | 10,220,175 | 3.5314 |
+| 8 | [[../Entities/ASSET WORLD CORP PUBLIC COMPANY LIMITED\|ASSET WORLD CORP PUBLIC COMPANY LIMITED]] <br><sub>`AWC`</sub> | ASSET WORLD CORP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH9436010002 | 10,067,688 | 3.4787 |
+| 9 | [[../Entities/AP (THAILAND) PUBLIC COMPANY LIMITED\|AP (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`AP`</sub> | AP (THAILAND) PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0308010Y08 | 9,927,495 | 3.4302 |
+| 10 | [[../Entities/STECON GROUP PUBLIC COMPANY LIMITED\|STECON GROUP PUBLIC COMPANY LIMITED]] <br><sub>`STECON`</sub> | STECON GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC381010006 | 9,862,2 | 3.4077 |
+| 11 | [[../Entities/CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED\|CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED]] <br><sub>`CENTEL`</sub> | CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0176B10Z00 | 9,760,6 | 3.3726 |
+| 12 | [[../Entities/BANGKOK AIRWAYS PUBLIC COMPANY LIMITED\|BANGKOK AIRWAYS PUBLIC COMPANY LIMITED]] <br><sub>`BA`</sub> | BANGKOK AIRWAYS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH4403010002 | 9,560,8 | 3.3035 |
+| 13 | [[../Entities/HANA MICROELECTRONICS PUBLIC COMPANY LIMITED\|HANA MICROELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`HANA`</sub> | HANA MICROELECTRONICS PUBLIC COMPANY LIM | หุ้นสามัญ | TH0324B10Z01 | 8,989,5 | 3.1061 |
+| 14 | [[../Entities/THE ERAWAN GROUP PUBLIC COMPANY LIMITED (TH0120A10Z08)\|THE ERAWAN GROUP PUBLIC COMPANY LIMITED]] <br><sub>`ERAWAN`</sub> | THE ERAWAN GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0120A10Z08 | 8,988,795 | 3.1059 |
+| 15 | [[../Entities/AEON THANA SINSAP (THAILAND) PUBLIC COMPANY LIMITED\|AEON THANA SINSAP (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`AEONTS`</sub> | AEON THANA SINSAP (THAILAND) PUBLIC COMP | หุ้นสามัญ | TH0664010Z03 | 8,261,4 | 2.8546 |
+| 16 | [[../Entities/BANGKOK COMMERCIAL ASSET MANAGEMENT PUBLIC COMPANY LIMITED\|BANGKOK COMMERCIAL ASSET MANAGEMENT PUBLIC COMPANY LIMITED]] <br><sub>`BAM`</sub> | BANGKOK COMMERCIAL ASSET MANAGEMENT PUBL | หุ้นสามัญ | TH9479010000 | 8,097,11 | 2.7978 |
+| 17 | [[../Entities/CH. KARNCHANG PUBLIC COMPANY LIMITED\|CH. KARNCHANG PUBLIC COMPANY LIMITED]] <br><sub>`CK`</sub> | CH. KARNCHANG PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0530010Z06 | 8,085, | 2.7936 |
+| 18 | [[../Entities/B.GRIMM POWER PUBLIC COMPANY LIMITED\|B.GRIMM POWER PUBLIC COMPANY LIMITED]] <br><sub>`BGRIM`</sub> | B.GRIMM POWER PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH7545010004 | 8,037,6 | 2.7772 |
+| 19 | [[../Entities/SUPALAI PUBLIC COMPANY LIMITED\|SUPALAI PUBLIC COMPANY LIMITED]] <br><sub>`SPALI`</sub> | SUPALAI PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0371010Z05 | 7,865,6 | 2.7178 |
+| 20 | [[../Entities/SIAM GLOBAL HOUSE PUBLIC COMPANY LIMITED\|SIAM GLOBAL HOUSE PUBLIC COMPANY LIMITED]] <br><sub>`GLOBAL`</sub> | SIAM GLOBAL HOUSE PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0991010008 | 7,413,607 | 2.5616 |
+| 21 | [[../Entities/TIDLOR HOLDINGS PUBLIC COMPANY LIMITED\|TIDLOR HOLDINGS PUBLIC COMPANY LIMITED]] <br><sub>`TIDLOR`</sub> | TIDLOR HOLDINGS PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC997010002 | 7,126,21 | 2.4623 |
+| 22 | [[../Entities/WHA CORPORATION PUBLIC COMPANY LIMITED\|WHA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`WHA`</sub> | WHA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH3871010Z01 | 6,875,25 | 2.3756 |
+| 23 | [[../Entities/PRARAM 9 HOSPITAL PUBLIC COMPANY LIMITED\|PRARAM 9 HOSPITAL PUBLIC COMPANY LIMITED]] <br><sub>`PR9`</sub> | PRARAM 9 HOSPITAL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH8794010000 | 6,770,25 | 2.3393 |
+| 24 | [[../Entities/AMATA CORPORATION PUBLIC COMPANY LIMITED\|AMATA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`AMATA`</sub> | AMATA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0617A10Z08 | 6,560,33 | 2.2668 |
+| 25 | [[../Entities/ICHITAN GROUP PUBLIC COMPANY LIMITED\|ICHITAN GROUP PUBLIC COMPANY LIMITED]] <br><sub>`ICHI`</sub> | ICHITAN GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH5048010000 | 6,556,2 | 2.2654 |
+
+<details><summary>ดูอีก 15 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED\|MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED]] <br><sub>`MTC`</sub> | MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6068010Y02 | 6,048, | 2.0898 |
+| 27 | [[../Entities/HOME PRODUCT CENTER PUBLIC COMPANY LIMITED\|HOME PRODUCT CENTER PUBLIC COMPANY LIMITED]] <br><sub>`HMPRO`</sub> | HOME PRODUCT CENTER PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0661010007 | 6,006,35 | 2.0754 |
+| 28 | [[../Entities/COM7 PUBLIC COMPANY LIMITED\|COM7 PUBLIC COMPANY LIMITED]] <br><sub>`COM7`</sub> | COM7 PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6678010005 | 5,930,175 | 2.049 |
+| 29 | [[../Entities/ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED\|ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED]] <br><sub>`ADVANC`</sub> | ADVANCED INFO SERVICE PUBLIC COMPANY LIM | หุ้นสามัญ | TH0268010Z03 | 5,688,5 | 1.9655 |
+| 30 | [[../Entities/KCE ELECTRONICS PUBLIC COMPANY LIMITED\|KCE ELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`KCE`</sub> | KCE ELECTRONICS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0122C10Z04 | 5,281,375 | 1.8249 |
+| 31 | [[../Entities/SIAM WELLNESS GROUP PUBLIC COMPANY LIMITED\|SIAM WELLNESS GROUP PUBLIC COMPANY LIMITED]] <br><sub>`SPA`</sub> | SIAM WELLNESS GROUP PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH5972010000 | 4,838,79 | 1.6719 |
+| 32 | [[../Entities/BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED\|BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED]] <br><sub>`BH`</sub> | BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0168A10Z01 | 4,192,4 | 1.4486 |
+| 33 | [[../Entities/Moshi Moshi Retail Corporation Public Company Limited\|Moshi Moshi Retail Corporation Public Company Limited]] <br><sub>`MOSHI`</sub> | Moshi Moshi Retail Corporation Public Co | หุ้นสามัญ | THB131010001 | 3,329,55 | 1.1504 |
+| 34 | [[../Entities/i-Tail Corporation Public Company Limited\|i-Tail Corporation Public Company Limited]] <br><sub>`ITC`</sub> | i-Tail Corporation Public Company Limite | หุ้นสามัญ | THB056010002 | 2,695,14 | 0.9313 |
+| 35 | [[../Entities/SAKSIAM LEASING PUBLIC COMPANY LIMITED\|SAKSIAM LEASING PUBLIC COMPANY LIMITED]] <br><sub>`SAK`</sub> | SAKSIAM LEASING PUBLIC COMPANY LIMITED | หุ้นสามัญ | THA054010006 | 2,672,454 | 0.9234 |
+| 36 | [[../Entities/Safe Fertility Group Public Company Limited\|Safe Fertility Group Public Company Limited]] <br><sub>`SAFE`</sub> | Safe Fertility Group Public Company Limi | หุ้นสามัญ | THB695010009 | 2,299,95 | 0.7947 |
+| 37 | [[../Entities/MR. D.I.Y. HOLDING (THAILAND) PUBLIC COMPANY LIMITED\|MR. D.I.Y. HOLDING (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`MRDIYT`</sub> | MR. D.I.Y. HOLDING (THAILAND) PUBLIC COM | หุ้นสามัญ | THD365010004 | 2,291,16 | 0.7917 |
+| 38 | [[../Entities/INDEX LIVING MALL PUBLIC COMPANY LIMITED\|INDEX LIVING MALL PUBLIC COMPANY LIMITED]] <br><sub>`ILM`</sub> | INDEX LIVING MALL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH9249010009 | 1,350,72 | 0.4667 |
+| 39 | [[../Entities/BERLI JUCKER PUBLIC COMPANY LIMITED\|BERLI JUCKER PUBLIC COMPANY LIMITED]] <br><sub>`BJC`</sub> | BERLI JUCKER PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0002010Z06 | 992,25 | 0.3428 |
+| 40 | [[../Entities/Kasikorn Bank Pcl\|Kasikorn Bank Pcl.]] <br><sub>`CURKBK`</sub> | Kasikorn Bank Pcl. | เงินฝากธนาคารประเภทกระแสรายวัน | - | 153,44 | 0.053 |
+
+</details>
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในกลุ่มอุตสาหกรรม**
+
+| กลุ่มอุตสาหกรรม | % NAV |
+|---|---|
+| พัฒนาอสังหาริมทรัพย์ | 14.27 |
+| พาณิชย์ | 13.05 |
+| เงินทุนและหลักทรัพย์ | 11.13 |
+| อาหารและเครื่องดื่ม | 10.97 |
+| การท่องเที่ยวและสันทนาการ | 8.15 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - K-MS]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| K-MS-A(A) | 2026-08-26 | 9.7738 | 9.8716 | 9.7738 | 5,862,49 |
+| K-MS-T(A) | 2026-08-26 | 9.892 | 9.8921 | 9.892 | 296,689,869 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| K-MS-A(A) | ไม่จ่ายเงินปันผล |
+| K-MS-T(A) | ไม่จ่ายเงินปันผล |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) |
+|---|---|---|---|---|---|---|---|---|---|
+| K-MS-T(A) | 2026-06-30 | - | THB | - | THB | - | THB | - | THB |
+| K-MS-A(A) | 2026-06-30 | 500.0 | THB | 500.0 | THB | 500.0 | THB | 50.0 | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | ระยะเวลารับเงิน |
+|---|---|---|---|---|
+| K-MS-A(A) | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | T+3 คือ3 วันทำการหลังจากวันทำรายการขายคืน |
+| K-MS-T(A) | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | T+3 คือ3 วันทำการหลังจากวันทำรายการขายคืน |
+| K-MS-A(A) | 2026-06-30 | การซื้อ (subscription) | ทุกวันทำการ | - |
+| K-MS-T(A) | 2026-06-30 | การซื้อ (subscription) | อื่น ๆ โปรดระบุ | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+### ผู้จัดการกองทุน (จาก Factsheet)
+
+- น.ส. นินัทธ์ วงศ์เสงี่ยม
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด |
+| T | บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - K-MS]]
+
+- class `K-MS-T(A)` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0511_2559.pdf)
+- class `K-MS-A(A)` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0511_2559.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด]]
+- กองประเภทเดียวกัน: [[ตราสารทุน]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 6]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

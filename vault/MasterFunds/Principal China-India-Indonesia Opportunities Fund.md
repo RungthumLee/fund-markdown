@@ -1,0 +1,65 @@
+---
+title: "Principal China-India-Indonesia Opportunities Fund"
+master_key: "MYU1000DK000"
+isin: "MYU1000DK000"
+feeder_count: 1
+has_external_data: false
+tags: [master-fund, external-data, no-external-data, web-search]
+---
+
+# 🌐 Principal China-India-Indonesia Opportunities Fund
+
+**ISIN:** `MYU1000DK000`
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+> [!WARNING] ไม่พบข้อมูลจากแหล่งภายนอก
+> ทั้ง Yahoo Finance และ FT.com ไม่มีข้อมูลกองนี้ มักเป็นกอง private / institutional ที่ไม่ได้เสนอขายสาธารณะ
+> มีเฉพาะข้อมูลจากการค้นเว็บ ซึ่งอยู่ในหัวข้อแยกด้านล่าง
+
+## 🔎 ข้อมูลจากการค้นเว็บ (ยังไม่ยืนยัน)
+
+> [!CAUTION] ตัวเลขในหัวข้อนี้ยังไม่ผ่านการยืนยันกับแหล่งข้อมูลตลาด
+> มาจากผลค้นเว็บ ซึ่งมักปน**ตัวเลขข้าม share class** — กองทุนหลักเป็น share class เฉพาะเจาะจงเสมอ
+> จึงใช้อ่านประกอบเท่านั้น **ไม่ถูกนำไปคิดในตารางเปรียบเทียบใด ๆ**
+
+เดิมชื่อ CIMB-Principal China-India-Indonesia Equity Fund
+
+| รายการ | ค่าที่ค้นพบ |
+|---|---|
+| management_fee | สูงสุด 1.80% ต่อปี |
+| fund_size | MYR 81.22m |
+| inception | 21 ม.ค. 2010 |
+| currency | MYR |
+
+- แหล่ง: https://www.principal.com.my/en/ciief
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | Principal China-India-Indonesia Opportunities Fund |
+| ISIN | `MYU1000DK000` |
+| ประเทศจดทะเบียน | มาเลเซีย |
+| วันจัดตั้ง | - |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+_ไม่มีข้อมูล_
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[PRINCIPAL CII]] | [[บริษัทหลักทรัพย์จัดการกองทุน พรินซิเพิล จำกัด]] | ตราสารทุน | 6 | 99.28% |
+
+---
+
+## แหล่งข้อมูล
+
+- **ค้นเว็บ** — ข้อมูลเชิงบรรยาย ยังไม่ยืนยัน (ดูหัวข้อ 🔎)
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

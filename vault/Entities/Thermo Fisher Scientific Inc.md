@@ -1,0 +1,74 @@
+---
+title: "Thermo Fisher Scientific Inc"
+entity_id: "isin:US8835561023"
+isin: "US8835561023"
+ticker: "TMO"
+figi: "BBG000BVDLH9"
+share_class_figi: "BBG001S5WS08"
+figi_type: "Common Stock"
+kind: "equity"
+fund_count: 2
+indirect_fund_count: 12
+alias_count: 2
+tags: [entity, entity-equity, held-indirectly, multi-alias]
+---
+
+# 🏢 Thermo Fisher Scientific Inc
+
+**ประเภท:** หุ้น · **ISIN:** `US8835561023` · **Ticker:** `TMO (US)`
+
+ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **12** กอง
+
+[[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]
+
+## ชื่อที่พบในข้อมูลดิบ
+
+ข้อมูล ก.ล.ต. สะกดสินทรัพย์นี้ **2 แบบ** ซึ่งถูกรวมเป็นรายการเดียวแล้ว
+
+> [!NOTE] ถ้าไม่รวม ตัวเลขการกระจุกตัวจะต่ำกว่าความจริง เพราะฐานะเดียวถูกนับแยกเป็นหลายรายการ
+
+`TMO US`
+
+## 🔭 กองทุนไทยที่ถือทางอ้อม (12 กอง)
+
+> [!CAUTION] ตัวเลขนี้เป็น**ขั้นต่ำ** ไม่ใช่สัดส่วนที่แท้จริงทั้งหมด
+> คำนวณจาก _สัดส่วนที่กองไทยถือกองหลัก_ × _สัดส่วนที่กองหลักถือหลักทรัพย์นี้_
+> โดยใช้เฉพาะ **10 อันดับแรก**ที่กองหลักเปิดเผย และวันอ้างอิงของสองฝั่งไม่ตรงกัน
+> อ่าน [[../Concepts/Look-through การถือทางอ้อม|ข้อจำกัดฉบับเต็ม]] ก่อนใช้ตัดสินใจ
+
+| กองทุน | บลจ. | ~% NAV (ทางอ้อม) | ผ่านกองทุนหลัก |
+|---|---|---|---|
+| [[SCBGEQFUND\|SCBGEQFUND]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 4.14% | Veritas Global Focus |
+| [[SCBCLIMATE\|SCBCLIMATE]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 3.86% | Templeton Global Climate Change Fund |
+| [[TUSHEALTH\|TUSHEALTH]] | บริษัทหลักทรัพย์จัดการกองทุน ทิสโก้ | 3.49% | State Street Health Care Select Sector SPDR ETF |
+| [[LHGEQRMF\|LHGEQRMF]] | บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด | 3.27% | GMO Quality Investment Fund |
+| [[LHGEQ\|LHGEQ]] | บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด | 3.26% | GMO Quality Investment Fund |
+| [[DAOL-GEQUITY\|DAOL-GEQUITY]] | บริษัทหลักทรัพย์จัดการกองทุน ดาโอ จำกัด | 3.22% | GMO Quality Investment Fund |
+| [[DAOL-GLOBALEQRMF\|DAOL-GLOBALEQRMF]] | บริษัทหลักทรัพย์จัดการกองทุน ดาโอ จำกัด | 3.22% | GMO Quality Investment Fund |
+| [[DAOL-GSECURE\|DAOL-GSECURE]] | บริษัทหลักทรัพย์จัดการกองทุน ดาโอ จำกัด | 2.57% | CS Investment Funds 2-UBS (Lux) Security Equity Fund |
+| [[ES-HEALTHCARE\|ES-HEALTHCARE]] | บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด | 2.42% | Janus Henderson Global Life Sciences Fund |
+| [[ES-HEALTHCARERMF\|ES-HEALTHCARERMF]] | บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด | 2.42% | Janus Henderson Global Life Sciences Fund |
+| [[SCBGHCFUND\|SCBGHCFUND]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 2.42% | Janus Henderson Global Life Sciences Fund |
+| [[SCBRMGHC\|SCBRMGHC]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 2.41% | Janus Henderson Global Life Sciences Fund |
+
+## กองทุนไทยที่ถือโดยตรง (2 กอง)
+
+| กองทุน | บลจ. | % NAV | นโยบาย |
+|---|---|---|---|
+| [[MEGA10HEALTH\|MEGA10HEALTH]] | บริษัทหลักทรัพย์จัดการกองทุน ทาลิส จำกัด | 9.43% | ตราสารทุน |
+| [[MEGA10HEALTHRMF\|MEGA10HEALTHRMF]] | บริษัทหลักทรัพย์จัดการกองทุน ทาลิส จำกัด | 9.25% | ตราสารทุน |
+
+> น้ำหนักที่แสดงคือ **% NAV สูงสุด** ที่กองนั้นเคยรายงานถือสินทรัพย์นี้ ในงวดที่มีข้อมูล
+
+## รหัสอ้างอิงสากล
+
+| รายการ | ค่า |
+|---|---|
+| FIGI | `BBG000BVDLH9` |
+| Share Class FIGI | `BBG001S5WS08` |
+| ประเภทตาม Bloomberg | Common Stock |
+| หมวดตลาด | Equity |
+
+ที่มา: OpenFIGI ของ Bloomberg · [[../../docs/guides/openfigi|วิธีใช้และข้อจำกัด]]
+
+[[../Indexes/00-home|🏠 Home]] · [[../Indexes/by-holding|ดัชนีสินทรัพย์]]

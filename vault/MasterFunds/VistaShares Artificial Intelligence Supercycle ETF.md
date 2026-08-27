@@ -1,0 +1,104 @@
+---
+title: "VistaShares Artificial Intelligence Supercycle ETF"
+master_key: "name:vistashares artificial intelligence supercycle etf"
+quote_type: "ETF"
+category: "Technology"
+fund_family: "VistaShares Advisors LLC"
+currency: "USD"
+ongoing_charge: "0.75%"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data, etf]
+---
+
+# 🌐 VistaShares Artificial Intelligence Supercycle ETF
+
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | VistaShares Artificial Intelligence Supercycle ETF |
+| ISIN | - |
+| ประเภท | ETF (จดทะเบียนซื้อขายในตลาด) |
+| โครงสร้างทางกฎหมาย | Exchange Traded Fund |
+| ประเทศจดทะเบียน | สหรัฐอเมริกา |
+| หมวด (Morningstar) | Technology |
+| บริษัทจัดการ | VistaShares Advisors LLC |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2024-12-02 |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (Yahoo) | 839.25 ล้าน USD |
+| **ค่าธรรมเนียมรวมต่อปี (OCF/TER)** | **0.75%** |
+
+> [!IMPORTANT]
+> ค่าธรรมเนียมนี้เป็นของ **กองทุนหลัก** ผู้ลงทุนไทยจ่าย**ซ้อนกับ**ค่าธรรมเนียมของกองไทยอีกชั้น
+> ดู [[../Concepts/ค่าธรรมเนียมกองทุนรวม|ค่าธรรมเนียมกองทุนรวม]]
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| YTD | 71.02% |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 98.74% |
+| เงินสด | 1.28% |
+| อื่น ๆ | -0.02% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| เทคโนโลยี | 89.43% |
+| อุตสาหกรรม | 10.27% |
+| สินค้าจำเป็น | 0.29% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | SK hynix Inc | `000660.KQ` | 8.15% |
+| 2 | Micron Technology Inc | `MU` | 6.64% |
+| 3 | Advanced Micro Devices Inc | `AMD` | 5.33% |
+| 4 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 3.68% |
+| 5 | Silicon Motion Technology Corp ADR | `SIMO` | 3.65% |
+| 6 | Vertiv Holdings Co Class A | `VRT` | 3.40% |
+| 7 | Marvell Technology Inc | `MRVL` | 3.37% |
+| 8 | Intel Corp | `INTC` | 3.03% |
+| 9 | GE Vernova Inc | `GEV` | 2.99% |
+| 10 | NVIDIA Corp | `NVDA` | 2.97% |
+
+## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
+
+> The fund is an actively managed exchange-traded fund (“ETF”) that seeks to achieve its investment objective by investing in a portfolio of global AI companies. The Sub-Adviser seeks to invest the fund’s assets to achieve returns similar to those of the BITA VistaShares Artificial Intelligence Supercycle Index. Under normal circumstances, the fund will invest at least 80% of the fund’s net assets (plus borrowings for investment purposes) in AI companies.
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[LHSUPERAI]] | [[บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด]] | ตราสารทุน | 7 | - |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `AIS`)
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

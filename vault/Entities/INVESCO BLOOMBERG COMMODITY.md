@@ -1,0 +1,54 @@
+---
+title: "INVESCO BLOOMBERG COMMODITY"
+entity_id: "isin:IE00BD6FTQ80"
+isin: "IE00BD6FTQ80"
+ticker: "CMODUSD"
+figi: "BBG00FQYGRR7"
+share_class_figi: "BBG00FM4YYT0"
+figi_type: "ETP"
+kind: "fund"
+fund_count: 4
+indirect_fund_count: 0
+alias_count: 3
+tags: [entity, entity-fund, multi-alias]
+---
+
+# 📦 INVESCO BLOOMBERG COMMODITY
+
+**ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BD6FTQ80` · **Ticker:** `CMODUSD (EO)`
+
+ถือโดยตรง **4** กอง
+
+[[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]
+
+## ชื่อที่พบในข้อมูลดิบ
+
+ข้อมูล ก.ล.ต. สะกดสินทรัพย์นี้ **3 แบบ** ซึ่งถูกรวมเป็นรายการเดียวแล้ว
+
+> [!NOTE] ถ้าไม่รวม ตัวเลขการกระจุกตัวจะต่ำกว่าความจริง เพราะฐานะเดียวถูกนับแยกเป็นหลายรายการ
+
+`CMOD_LN_USD` · `INVESCO`
+
+## กองทุนไทยที่ถือโดยตรง (4 กอง)
+
+| กองทุน | บลจ. | % NAV | นโยบาย |
+|---|---|---|---|
+| [[KTWC-MODERATE RMF\|KTWC-MODERATE RMF]] | บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน) | 1.29% | ผสม |
+| [[KTWC-DEFENSIVE\|KTWC-DEFENSIVE]] | บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน) | 1.21% | ผสม |
+| [[KTWC-MODERATE\|KTWC-MODERATE]] | บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน) | 1.09% | ผสม |
+| [[KTWC-GROWTH\|KTWC-GROWTH]] | บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน) | 0.44% | ผสม |
+
+> น้ำหนักที่แสดงคือ **% NAV สูงสุด** ที่กองนั้นเคยรายงานถือสินทรัพย์นี้ ในงวดที่มีข้อมูล
+
+## รหัสอ้างอิงสากล
+
+| รายการ | ค่า |
+|---|---|
+| FIGI | `BBG00FQYGRR7` |
+| Share Class FIGI | `BBG00FM4YYT0` |
+| ประเภทตาม Bloomberg | ETP |
+| หมวดตลาด | Equity |
+
+ที่มา: OpenFIGI ของ Bloomberg · [[../../docs/guides/openfigi|วิธีใช้และข้อจำกัด]]
+
+[[../Indexes/00-home|🏠 Home]] · [[../Indexes/by-holding|ดัชนีสินทรัพย์]]

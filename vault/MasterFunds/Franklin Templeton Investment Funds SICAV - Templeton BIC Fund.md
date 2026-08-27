@@ -1,0 +1,73 @@
+---
+title: "Franklin Templeton Investment Funds SICAV - Templeton BIC Fund"
+master_key: "LU0229945570"
+isin: "LU0229945570"
+quote_type: "ETF"
+category: "Global Emerging Markets Equity"
+domicile: "Luxembourg"
+currency: "EUR"
+ongoing_charge: "2.46%"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data, etf]
+---
+
+# 🌐 Franklin Templeton Investment Funds SICAV - Templeton BIC Fund
+
+**ISIN:** `LU0229945570` · **Ticker:** `TESS.F`
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | Franklin Templeton Investment Funds SICAV - Templeton BIC Fund |
+| ISIN | `LU0229945570` |
+| ประเภท | ETF (จดทะเบียนซื้อขายในตลาด) |
+| โครงสร้างทางกฎหมาย | SICAV |
+| ประเทศจดทะเบียน | Luxembourg |
+| หมวด (Morningstar) | Global Emerging Markets Equity |
+| ผู้จัดการกองทุน | Chetan Sehgal (เริ่ม 31 May 2017) |
+| สกุลเงิน | EUR |
+| วันจัดตั้ง | - |
+| นโยบายปันผล | Accumulation |
+| สไตล์การลงทุน | Market Cap: Large |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (FT) | 328.80m GBP |
+| **ค่าธรรมเนียมรวมต่อปี (OCF/TER)** | **2.46%** |
+| ค่าธรรมเนียมแรกเข้า (initial charge) | 5.75% |
+
+> [!IMPORTANT]
+> ค่าธรรมเนียมนี้เป็นของ **กองทุนหลัก** ผู้ลงทุนไทยจ่าย**ซ้อนกับ**ค่าธรรมเนียมของกองไทยอีกชั้น
+> ดู [[../Concepts/ค่าธรรมเนียมกองทุนรวม|ค่าธรรมเนียมกองทุนรวม]]
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| 1 ปี (FT) | +12.09% |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[ASP-BIC]] | [[บริษัทหลักทรัพย์จัดการกองทุน แอสเซท พลัส จำกัด]] | ตราสารทุน | 6 | 100.82% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `TESS.F`)
+- **FT.com** — ค่าธรรมเนียม ขนาดกองทุน domicile ผู้จัดการ ([tearsheet](https://markets.ft.com/data/funds/tearsheet/summary?s=LU0229945570:USD))
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

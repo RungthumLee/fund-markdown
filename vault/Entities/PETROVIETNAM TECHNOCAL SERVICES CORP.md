@@ -1,0 +1,53 @@
+---
+title: "PETROVIETNAM TECHNOCAL SERVICES CORP"
+entity_id: "isin:VN000000PVS0"
+isin: "VN000000PVS0"
+ticker: "PVS"
+figi: "BBG000TFTNF6"
+share_class_figi: "BBG001T01Y72"
+figi_type: "Common Stock"
+kind: "equity"
+fund_count: 3
+indirect_fund_count: 0
+alias_count: 3
+tags: [entity, entity-equity, multi-alias]
+---
+
+# 🏢 PETROVIETNAM TECHNOCAL SERVICES CORP
+
+**ประเภท:** หุ้น · **ISIN:** `VN000000PVS0` · **Ticker:** `PVS (VN)`
+
+ถือโดยตรง **3** กอง
+
+[[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]
+
+## ชื่อที่พบในข้อมูลดิบ
+
+ข้อมูล ก.ล.ต. สะกดสินทรัพย์นี้ **3 แบบ** ซึ่งถูกรวมเป็นรายการเดียวแล้ว
+
+> [!NOTE] ถ้าไม่รวม ตัวเลขการกระจุกตัวจะต่ำกว่าความจริง เพราะฐานะเดียวถูกนับแยกเป็นหลายรายการ
+
+`PVS VN` · `PVSVN`
+
+## กองทุนไทยที่ถือโดยตรง (3 กอง)
+
+| กองทุน | บลจ. | % NAV | นโยบาย |
+|---|---|---|---|
+| [[B-VIETNAM\|B-VIETNAM]] | บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด | 2.76% | ตราสารทุน |
+| [[B-VIETNAMRMF\|B-VIETNAMRMF]] | บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด | 2.28% | ตราสารทุน |
+| [[SCBVIET\|SCBVIET]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 1.45% | ตราสารทุน |
+
+> น้ำหนักที่แสดงคือ **% NAV สูงสุด** ที่กองนั้นเคยรายงานถือสินทรัพย์นี้ ในงวดที่มีข้อมูล
+
+## รหัสอ้างอิงสากล
+
+| รายการ | ค่า |
+|---|---|
+| FIGI | `BBG000TFTNF6` |
+| Share Class FIGI | `BBG001T01Y72` |
+| ประเภทตาม Bloomberg | Common Stock |
+| หมวดตลาด | Equity |
+
+ที่มา: OpenFIGI ของ Bloomberg · [[../../docs/guides/openfigi|วิธีใช้และข้อจำกัด]]
+
+[[../Indexes/00-home|🏠 Home]] · [[../Indexes/by-holding|ดัชนีสินทรัพย์]]

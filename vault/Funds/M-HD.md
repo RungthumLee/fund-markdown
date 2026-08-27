@@ -1,0 +1,281 @@
+---
+title: "M-HD"
+proj_id: M1018_2568
+regis_id: "MF0636_2568"
+abbr: "M-HD"
+name_th: "กองทุนเปิดเอ็มเอฟซี เซ็ท ไฮ ดิวิเดนด์ หุ้นทุน"
+name_en: "MFC SET HD Fund"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)"
+amc_id: "C0000000023"
+policy: "ตราสารทุน"
+risk_spectrum: "6"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "3"
+init_date: "2025-11-11"
+regis_date: "2025-11-28"
+class_count: 1
+has_factsheet: true
+ter_retail: 1.73
+perf_1y: 0.0
+nav: 13.0849
+nav_date: "2026-08-26"
+fund_size: 193865382.02
+holdings_count: 21
+top10_pct_nav: 77.85
+fund_managers: ["นาย ศรุต สุทธิสำแดง", "นาย รุ่งโรจน์ นิลนพคุณ"]
+tags: [fund, sec-data, policy/equity, risk/6, active]
+---
+
+# M-HD
+
+**กองทุนเปิดเอ็มเอฟซี เซ็ท ไฮ ดิวิเดนด์ หุ้นทุน**  
+_MFC SET HD Fund_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)]] · นโยบาย [[ตราสารทุน]] · ความเสี่ยงระดับ **6**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M1018_2568`
+> - **ประเภท:** ตราสารทุน · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** ไม่มีความเสี่ยงต่างประเทศ
+> - **จัดตั้ง:** 2025-11-11 · **จดทะเบียน:** 2025-11-28
+> - **ชนิดหน่วยลงทุน:** 1 class
+> - **NAV 13.0849 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M1018_2568` |
+| เลขที่จดทะเบียน (regis_id) | MF0636_2568 |
+| ชื่อย่อ | M-HD |
+| ชื่อไทย | กองทุนเปิดเอ็มเอฟซี เซ็ท ไฮ ดิวิเดนด์ หุ้นทุน |
+| ชื่ออังกฤษ | MFC SET HD Fund |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2025-11-11 |
+| วันจดทะเบียน | 2025-11-28 |
+| ประเภทตามนโยบาย | ตราสารทุน |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | ไม่มีความเสี่ยงต่างประเทศ |
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| main | - | - | - |
+
+## 3. นโยบายการลงทุน
+
+กองทุนมีนโยบายลงทุนในตราสารทุนของบริษัทที่จดทะเบียนอยู่ในตลาดหลักทรัพย์แห่งประเทศไทย โดยจะพิจารณาเลือกลงทุนในหุ้นที่เป็นส่วนประกอบของดัชนีผลตอบแทนรวม SET High Dividend 30 (SETHD TRI) เป็นหลัก โดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน 
+สำหรับส่วนที่เหลือ กองทุนอาจจะพิจารณาลงทุนในตราสารทุนนอกเหนือจากที่กล่าวข้างต้น ตราสารกึ่งหนี้กึ่งทุน ตราสารหนี้ เงินฝากหรือตราสารเทียบเท่าเงินฝาก ตราสารทางการเงิน ตลอดจนหลักทรัพย์หรือทรัพย์สินอื่นหรือการหาดอกผลโดยวิธีอื่นตามที่สำนักงาน ก.ล.ต. ประกาศกำหนดให้ลงทุนได้
+ทั้งนี้ กองทุนจะไม่ลงทุนในหรือมีไว้ซึ่งสัญญาซื้อขายล่วงหน้า (derivatives) ตราสารหนี้ที่มีอันดับความน่าเชื่อถือของตราสารหรือผู้ออกต่ำกว่าที่สามารถลงทุนได้ (non-investment grade) หรือตราสารหนี้ที่ไม่ได้รับการจัดอันดับความน่าเชื่อถือ (unrated securities) และตราสารทุนที่ไม่ได้จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย (unlisted securities) เว้นแต่เป็นหุ้นที่คณะกรรมการตลาดหลักทรัพย์ฯ สั่งรับเป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยซึ่งผู้ออกหุ้นดังกล่าวอยู่ระหว่างการดําเนินการกระจายการถือหุ้นรายย่อยตามข้อบังคับตลาดหลักทรัพย์แห่งประเทศไทยว่าด้วยการรับหุ้นสามัญหรือหุ้นบุริมสิทธิเป็นหลักทรัพย์จดทะเบียน รวมถึงตราสารที่มีลักษณะของสัญญาซื้อขายล่วงหน้าแฝง (Structured Note)
+อย่างไรก็ตาม กองทุนอาจมีไว้ซึ่งตราสารหนี้ที่มีอันดับความน่าเชื่อถือของตราสารหรือผู้ออกต่ำกว่าที่สามารถลงทุนได้ (non-investment grade) เฉพาะกรณีตราสารหนี้นั้นได้รับการจัดอันดับความน่าเชื่อถือที่สามารถลงทุนได้ (investment grade) ขณะที่กองทุนลงทุนเท่านั้น
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 6 / 8** — 6 — ตราสารทุน
+
+> ลงทุนในตราสารทุนเป็นหลัก โดยเฉลี่ยในรอบปีไม่น้อยกว่า 80% ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| main | 0.1777 | -8.15 | - | -4.77% | - | 0.2752 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `main` | ⚪ ไม่ระบุ | 1.73 | 4.89 | 1.6 | 1 | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 2 | 0 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 0 | 0 |
+| main | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 50 | 50 |
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | 1.6 |
+| main | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 4.89 | 1.73 |
+| main | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2 | 1 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 0 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปีของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| main | ค่าธรรมเนียมทั้งหมด (Total Fee) | 4.8899 | ต่อปีของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| main | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| main | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปีของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| main | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| main | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.0749 | ต่อปีของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| main | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 2.14 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+
+## 6. ผลการดำเนินงาน
+
+### Class `main`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2025 |
+|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 8.33 | 15.93 | 15.93 | 0 | 0 | 0 | 0 | 18.63 | 2.33 |
+| ผลตอบแทนตัวชี้วัด | 9.52 | 22.14 | 22.14 | - | - | - | - | 26.78 | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 10.39 | 24.08 | 24.08 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 9.76 | 11.46 | 11.46 | - | - | - | - | 10.85 | - |
+| ความผันผวนของตัวชี้วัด | 10.08 | 13.32 | 13.32 | - | - | - | - | 12.79 | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนีผลตอบแทนรวม SET High Dividend 30 (SETHD TRI) | - |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| เงินฝากธนาคาร และอื่นๆ | 5.34 |
+| ตราสารทุน | 94.66 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | ธนาคารกสิกรไทย จำกัด (มหาชน) | 10.72 |
+| 2 | ธนาคารกรุงไทย จำกัด (มหาชน) | 10.56 |
+| 3 | บมจ.ปตท. | 10.01 |
+| 4 | บมจ.เอสซีบี เอกซ์ | 9.89 |
+| 5 | บมจ.ธนาคารกรุงเทพ | 9.08 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 180,349,346 | 94.3352 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 12,470,842 | 6.5231 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | -1,640,941 | -0.8583 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **21** รายการ จากผู้ออก 21 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **168,426,824** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **77.85% ของ NAV** (คิดเป็น 79.5% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/KASIKORNBANK PUBLIC COMPANY LIMITED (TH0016010009)\|KASIKORNBANK PUBLIC COMPANY LIMITED]] <br><sub>`KBANK`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0016010009 | 18,050,4 | 10.7171 |
+| 2 | [[../Entities/KRUNG THAI BANK PUBLIC COMPANY LIMITED\|KRUNG THAI BANK PUBLIC COMPANY LIMITED]] <br><sub>`KTB`</sub> | KRUNG THAI BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0150010Z03 | 17,784, | 10.5589 |
+| 3 | [[../Entities/PTT PUBLIC COMPANY LIMITED\|PTT PUBLIC COMPANY LIMITED]] <br><sub>`PTT`</sub> | PTT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0646010Z00 | 16,866,05 | 10.0139 |
+| 4 | [[../Entities/SCB X PUBLIC COMPANY LIMITED\|SCB X PUBLIC COMPANY LIMITED]] <br><sub>`SCB`</sub> | SCB X PUBLIC COMPANY LIMITED | หุ้นสามัญ | THA790010005 | 16,650, | 9.8856 |
+| 5 | [[../Entities/BANGKOK BANK PUBLIC COMPANY LIMITED\|BANGKOK BANK PUBLIC COMPANY LIMITED]] <br><sub>`BBL`</sub> | BANGKOK BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0001010006 | 15,293,4 | 9.0801 |
+| 6 | [[../Entities/TMBTHANACHART BANK PUBLIC COMPANY LIMITED\|TMBTHANACHART BANK PUBLIC COMPANY LIMITED]] <br><sub>`TTB`</sub> | TMBTHANACHART BANK PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH0068010Z07 | 13,750,416 | 8.164 |
+| 7 | [[../Entities/PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED\|PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED]] <br><sub>`PTTEP`</sub> | PTT EXPLORATION AND PRODUCTION PUBLIC CO | หุ้นสามัญ | TH0355A10Z04 | 13,654,6 | 8.1071 |
+| 8 | [[../Entities/TISCO FINANCIAL GROUP PUBLIC COMPANY LIMITED\|TISCO FINANCIAL GROUP PUBLIC COMPANY LIMITED]] <br><sub>`TISCO`</sub> | TISCO FINANCIAL GROUP PUBLIC COMPANY LIM | หุ้นสามัญ | TH0999010Z03 | 7,351,4 | 4.3647 |
+| 9 | [[../Entities/HOME PRODUCT CENTER PUBLIC COMPANY LIMITED\|HOME PRODUCT CENTER PUBLIC COMPANY LIMITED]] <br><sub>`HMPRO`</sub> | HOME PRODUCT CENTER PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0661010007 | 6,202,195 | 3.6824 |
+| 10 | [[../Entities/Kasikornbank Public Company Limited\|Kasikornbank Public Company Limited]] <br><sub>`TFB`</sub> | KASIKORNBANK PLC. | เงินฝากธนาคารประเภทออมทรัพย์ | - | 5,521,592 | 3.2783 |
+| 11 | [[../Entities/THANACHART CAPITAL PUBLIC COMPANY LIMITED\|THANACHART CAPITAL PUBLIC COMPANY LIMITED]] <br><sub>`TCAP`</sub> | THANACHART CAPITAL PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH0083B10Z02 | 5,514,75 | 3.2743 |
+| 12 | [[../Entities/THAI LIFE INSURANCE PUBLIC COMPANY LIMITED\|THAI LIFE INSURANCE PUBLIC COMPANY LIMITED]] <br><sub>`TLI`</sub> | THAI LIFE INSURANCE PUBLIC COMPANY LIMIT | หุ้นสามัญ | THA848010007 | 5,201,45 | 3.0883 |
+| 13 | [[../Entities/THAI OIL PUBLIC COMPANY LIMITED\|THAI OIL PUBLIC COMPANY LIMITED]] <br><sub>`TOP`</sub> | THAI OIL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0796010005 | 4,512,294 | 2.6791 |
+| 14 | [[../Entities/WHA CORPORATION PUBLIC COMPANY LIMITED\|WHA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`WHA`</sub> | WHA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH3871010Z01 | 3,509,725 | 2.0838 |
+| 15 | [[../Entities/RATCH GROUP PUBLIC COMPANY LIMITED\|RATCH GROUP PUBLIC COMPANY LIMITED]] <br><sub>`RATCH`</sub> | RATCH GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0637010Y00 | 3,477,6 | 2.0648 |
+| 16 | [[../Entities/LAND AND HOUSES PUBLIC COMPANY LIMITED\|LAND AND HOUSES PUBLIC COMPANY LIMITED]] <br><sub>`LH`</sub> | LAND AND HOUSES PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0143010Z08 | 3,358,152 | 1.9938 |
+| 17 | [[../Entities/QUALITY HOUSES PUBLIC COMPANY LIMITED\|QUALITY HOUSES PUBLIC COMPANY LIMITED]] <br><sub>`QH`</sub> | QUALITY HOUSES PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0256A10Z04 | 2,748,424 | 1.6318 |
+| 18 | [[../Entities/AEON THANA SINSAP (THAILAND) PUBLIC COMPANY LIMITED\|AEON THANA SINSAP (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`AEONTS`</sub> | AEON THANA SINSAP (THAILAND) PUBLIC COMP | หุ้นสามัญ | TH0664010Z03 | 1,646,4 | 0.9775 |
+| 19 | [[../Entities/MEGA LIFESCIENCES PUBLIC COMPANY LIMITED\|MEGA LIFESCIENCES PUBLIC COMPANY LIMITED]] <br><sub>`MEGA`</sub> | MEGA LIFESCIENCES PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH4984010009 | 1,517,775 | 0.9012 |
+| 20 | [[../Entities/PRIMA MARINE PUBLIC COMPANY LIMITED\|PRIMA MARINE PUBLIC COMPANY LIMITED]] <br><sub>`PRM`</sub> | PRIMA MARINE PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH8170010004 | 1,395,68 | 0.8287 |
+| 21 | [[../Entities/BANGKOK COMMERCIAL ASSET MANAGEMENT PUBLIC COMPANY LIMITED\|BANGKOK COMMERCIAL ASSET MANAGEMENT PUBLIC COMPANY LIMITED]] <br><sub>`BAM`</sub> | BANGKOK COMMERCIAL ASSET MANAGEMENT PUBL | หุ้นสามัญ | TH9479010000 | 976,605 | 0.5798 |
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในกลุ่มอุตสาหกรรม**
+
+| กลุ่มอุตสาหกรรม | % NAV |
+|---|---|
+| ธนาคาร | 56.04 |
+| พลังงาน | 22.86 |
+| พัฒนาอสังหาริมทรัพย์ | 5.7 |
+| พาณิชย์ | 4.58 |
+| ประกันภัยและประกันชีวิต | 3.09 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - M-HD]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| main | 2026-08-26 | 13.0849 | 13.2158 | 13.0849 | 193,865,382 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| main | ไม่จ่ายเงินปันผล |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) |
+|---|---|---|---|---|---|---|---|---|---|
+| main | 2026-06-30 | 1000.0 | THB | 1000.0 | THB | - | THB | - | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | ระยะเวลารับเงิน |
+|---|---|---|---|---|
+| main | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | T+5 คือ5 วันทำการหลังจากวันทำรายการขายคืน |
+| main | 2026-06-30 | การซื้อ (subscription) | ทุกวันทำการ | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+### ผู้จัดการกองทุน (จาก Factsheet)
+
+- นาย ศรุต สุทธิสำแดง
+- นาย รุ่งโรจน์ นิลนพคุณ
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน) |
+| T | บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน) |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - M-HD]]
+
+- class `main` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M1018_2568.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)]]
+- กองประเภทเดียวกัน: [[ตราสารทุน]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 6]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

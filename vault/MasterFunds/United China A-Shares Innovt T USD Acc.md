@@ -1,0 +1,95 @@
+---
+title: "United China A-Shares Innovt T USD Acc"
+master_key: "SGXZ16399552"
+isin: "SGXZ16399552"
+quote_type: "MUTUALFUND"
+currency: "USD"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data]
+---
+
+# 🌐 United China A-Shares Innovt T USD Acc
+
+**ISIN:** `SGXZ16399552` · **Ticker:** `0P0001LQAM`
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | United China A-Shares Innovt T USD Acc |
+| ISIN | `SGXZ16399552` |
+| ประเภท | กองทุนรวม (ไม่ได้จดทะเบียนซื้อขาย) |
+| ประเทศจดทะเบียน | สิงคโปร์ |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2021-02-19 |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+_ไม่มีข้อมูล_
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| YTD | 26.27% |
+| Beta (3 ปี) | 1.57 |
+| Morningstar rating | ★ |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 88.06% |
+| เงินสด | 11.94% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| เทคโนโลยี | 56.12% |
+| การเงิน | 14.80% |
+| สื่อสาร | 9.06% |
+| สินค้าฟุ่มเฟือย | 5.75% |
+| อุตสาหกรรม | 4.43% |
+| วัตถุดิบ | 4.18% |
+| พลังงาน | 3.38% |
+| สุขภาพ | 2.28% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | Zhongji Innolight Co Ltd Class A | `300308.SZ` | 8.38% |
+| 2 | Cambricon Technologies Corp Ltd Class A | `688256.SS` | 6.98% |
+| 3 | Anker Innovations Technology Co Ltd Class A | `300866.SZ` | 5.63% |
+| 4 | China Mobile Ltd Class A | `600941.SS` | 5.09% |
+| 5 | VeriSilicon Microelectronics Shanghai Co Ltd Class A | `688521.SS` | 4.23% |
+| 6 | Yutong Bus Co Ltd Class A | `600066.SS` | 3.90% |
+| 7 | Bank of Chengdu Co Ltd Class A | `601838.SS` | 3.78% |
+| 8 | Skyverse Technology Co Ltd Ordinary Shares - Class A | `688361.SS` | 3.78% |
+| 9 | Zijin Mining Group Co Ltd Class A | `601899.SS` | 3.68% |
+| 10 | Shanghai Pudong Development Bank Co Ltd Class A | `600000.SS` | 3.18% |
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[UCI-M]] | [[บริษัทหลักทรัพย์จัดการกองทุน ยูโอบี (ประเทศไทย) จำกัด]] | ตราสารทุน | 6 | 100.35% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `0P0001LQAM`)
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

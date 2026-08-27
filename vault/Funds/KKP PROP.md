@@ -1,0 +1,342 @@
+---
+title: "KKP PROP"
+proj_id: M0773_2554
+regis_id: "MF0607_2554"
+abbr: "KKP PROP"
+name_th: "กองทุนเปิดเคเคพี พร็อพเพอร์ตี้ เซคเตอร์"
+name_en: "KKP PROPERTY SECTOR FUND"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด"
+amc_id: "C0000005025"
+policy: "ทรัพย์สินทางเลือก"
+risk_spectrum: "8"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "4"
+init_date: "2011-10-20"
+regis_date: "2011-11-09"
+class_count: 1
+has_factsheet: true
+ter_retail: 0.92
+perf_1y: 12.44
+nav: 20.5603
+nav_date: "2026-08-25"
+fund_size: 499934280.19
+holdings_count: 49
+top10_pct_nav: 71.46
+tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure]
+---
+
+# KKP PROP
+
+**กองทุนเปิดเคเคพี พร็อพเพอร์ตี้ เซคเตอร์**  
+_KKP PROPERTY SECTOR FUND_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด]] · นโยบาย [[ทรัพย์สินทางเลือก]] · ความเสี่ยงระดับ **8**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0773_2554`
+> - **ประเภท:** ทรัพย์สินทางเลือก · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** มีความเสี่ยงทั้งในและต่างประเทศ
+> - **จัดตั้ง:** 2011-10-20 · **จดทะเบียน:** 2011-11-09
+> - **ชนิดหน่วยลงทุน:** 1 class
+> - **NAV 20.5603 (2026-08-25)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0773_2554` |
+| เลขที่จดทะเบียน (regis_id) | MF0607_2554 |
+| ชื่อย่อ | KKP PROP |
+| ชื่อไทย | กองทุนเปิดเคเคพี พร็อพเพอร์ตี้ เซคเตอร์ |
+| ชื่ออังกฤษ | KKP PROPERTY SECTOR FUND |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2011-10-20 |
+| วันจดทะเบียน | 2011-11-09 |
+| ประเภทตามนโยบาย | ทรัพย์สินทางเลือก |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | มีความเสี่ยงทั้งในและต่างประเทศ |
+
+### นโยบายป้องกันความเสี่ยงอัตราแลกเปลี่ยน
+
+ดุลยพินิจ (dynamic hedging) (0%-105% ของมูลค่าความเสี่ยง)
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| main | - | - | - |
+
+## 3. นโยบายการลงทุน
+
+1. กองทุนมีนโยบายลงทุนในหลักทรัพย์หรือตราสารที่อยู่ในหมวดอุตสาหกรรมอสังหาริมทรัพย์ (Property Sector Fund) โดยมี net exposure ในทรัพย์สินดังต่อไปนี้ของกิจการที่อยู่ในหมวดอุตสาหกรรมนี้ หรือของกิจการที่มีลักษณะเทียบเคียงได้กับกิจการที่อยู่ในหมวดอุตสาหกรรมอสังหาริมทรัพย์ โดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน 
+
+โดยกองทุนสามารถลงทุนในหลักทรัพย์หรือตราสารดังต่อไปนี้ 
+1.1) หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพย์ และ/หรือหน่วยทรัสต์ของทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (REITs) ที่เป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย และ/หรือตราสารของกองทุนอสังหาริมทรัพย์ต่างประเทศ และ/หรือ หน่วยของกองทุน property โดยมี net exposure โดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน 
+
+1.2) ส่วนที่เหลือ กองทุนอาจลงทุนในหลักทรัพย์ดังต่อไปนี้ 
+1.2.1) ตราสารของกองทุนอสังหาริมทรัพย์ทั้งในประเทศและต่างประเทศ เช่น Real Estate Investment Trusts (REITs) และ Exchange Traded Fund ที่เน้นลงทุนในตราสารของกองทุนอสังหาริมทรัพย์ (REIT ETF) ตัวอย่างเช่น ISHARES FTSE EPRA/NAREIT ASIA Index Fund และ SPDR DJ Wilshire GLOBAL REAL ESTATE ETF เป็นต้น รวมถึงตราสารอื่นใดที่ให้สิทธิในการได้มาซึ่งตราสารดังกล่าว หรือที่มีผลตอบแทนอ้างอิงกับตราสารดังกล่าวหรือกลุ่มของตราสารดังกล่าวทั้งในประเทศและต่างประเทศ 
+1.2.2) หุ้นภายใต้กลุ่มอุตสาหกรรมอสังหาริมทรัพย์ รวมถึงตราสารหรือสัญญาทางการเงินที่ให้สิทธิในการได้มาซึ่งหุ้นดังกล่าวหรือให้ผลตอบแทนอ้างอิงกับหุ้นหรือกลุ่มหุ้นนั้นๆ ทั้งในและต่างประเทศ 
+
+2. กองทุนอาจลงทุนในตราสารหนี้ และ/หรือ เงินฝาก เพื่อการลงทุน และ/หรือหลักทรัพย์อื่นและ/หรือการหาดอกผลอื่นโดยวิธีอื่นใด ตามกฎหมายหลักทรัพย์และ/หรือกฎหมายอื่นใดที่เกี่ยวข้องกำหนด 
+
+3. กองทุนอาจลงทุนในหน่วยลงทุนของกองทุนรวมอื่น หรือกองทุนรวมอสังหาริมทรัพย์ (กอง1) หรือทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (REITs) หรือกองทุนรวมโครงสร้างพื้นฐาน (infra) ซึ่งอยู่ภายใต้การจัดการของบริษัทจัดการ ในสัดส่วนโดยเฉลี่ยรอบปีบัญชีไม่เกินร้อยละ 100 ของมูลค่าทรัพย์สินสุทธิของกองทุน ยกเว้นกรณีที่กองทุนปลายทางเป็นกองทุนรวมอสังหาริมทรัพย์ (กอง1) ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (REITs) และกองทุนรวมโครงสร้างพื้นฐาน (infra) ลงทุนสูงสุดได้ไม่เกิน 1 ใน 3 ของจำนวนหน่วยลงทุนของกองทุนปลายทาง ทั้งนี้ กองทุนรวมอื่นนั้นมีการลงทุนในหรือมีไว้ซึ่งหน่วยลงทุนของกองทุนรวมใด ๆ ที่อยู่ภายใต้การจัดการของบริษัทจัดการต่อไปได้อีกไม่เกิน 1 ทอด โดยกองทุนรวมที่มีผู้ถือหน่วยลงทุนเป็นกองทุนรวมอื่นที่อยู่ภายใต้การจัดการของบริษัทจัดการ ต้องไม่ลงทุนในหรือมีไว้ซึ่งหน่วยลงทุนของกองทุนรวมดังต่อไปนี้
+(1) กองทุนรวมอื่นที่เป็นผู้ถือหน่วยลงทุนของกองทุนรวมดังกล่าว
+(2) กองทุนรวมที่เป็นผู้ถือหน่วยของกองทุนรวมอื่นตาม (1) 
+ในกรณีที่มีการลงทุนในกองทุนรวมอื่นภายใต้ บลจ. เดียวกัน (Cross Investing Fund) มิให้กองทุนรวมต้นทางลงมติให้กองทุนรวมปลายทาง อย่างไรก็ดี ในกรณีที่กองทุนรวมปลายทางไม่สามารถดำเนินการเพื่อขอมติได้ เนื่องจากติดข้อจำกัดห้ามมิให้กองทุนรวมต้นทางลงมติให้กองทุนรวมปลายทาง บริษัทจัดการสามารถขอรับความเห็นชอบจากสำนักงานคณะกรรมการ ก.ล.ต.ได้ หากได้รับมติเกินกึ่งหนึ่งของผู้ถือหน่วยลงทุนของกองทุนปลายทางในส่วนที่เหลือ 
+ทั้งนี้ การลงทุนในหน่วยลงทุนดังกล่าวต้องอยู่ภายใต้กรอบนโยบายการลงทุนของกองทุนซึ่งเป็นไปตามหลักเกณฑ์เงื่อนไขที่สำนักงานคณะกรรมการ ก.ล.ต.กำหนด หรือกฎหมายอื่นใดที่เกี่ยวข้อง หรือประกาศอื่นใดที่เกี่ยวข้อง และ/หรือที่มีการแก้ไขเพิ่มเติมในอนาคต 
+
+4. กองทุนอาจลงทุนในสัญญาซื้อขายล่วงหน้า (Derivatives) เพื่อเพิ่มประสิทธิภาพการบริหารการลงทุน (Efficient portfolio management) โดยพิจารณาจากสภาวะตลาดในขณะนั้น กฎข้อบังคับ และปัจจัยอื่นๆ ที่เกี่ยวข้อง เช่น ทิศทางราคาหลักทรัพย์ อัตราดอกเบี้ย และสภาวะอัตราแลกเปลี่ยน รวมถึงค่าใช้จ่ายในการป้องกันความเสี่ยง เป็นต้น 
+
+ในกรณีที่กองทุนลงทุนในต่างประเทศ กองทุนอาจลงทุนในหรือมีไว้ซึ่งสัญญาซื้อขายล่วงหน้า (Derivatives) ที่มีตัวแปรเป็นอัตราแลกเปลี่ยนเงิน โดยมีวัตถุประสงค์เพื่อป้องกันความเสี่ยงจากการลงทุน (Hedging) โดยขึ้นอยู่กับดุลยพินิจของบริษัทจัดการ (ระหว่างร้อยละ 0-105 ของมูลค่าความเสี่ยงที่มีอยู่) โดยบริษัทจัดการจะพิจารณาลงทุนตามสภาวการณ์ตลาดหรือเมื่อบริษัทจัดการเห็นสมควร ยกตัวอย่างเช่น กรณี ค่าเงินดอลลาร์สหรัฐฯ มีแนวโน้มอ่อนค่าลง ผู้จัดการกองทุนอาจพิจารณาลงทุนในสัญญาซื้อขายล่วงหน้าเพื่อป้องกันความเสี่ยงที่เกี่ยวข้องกับอัตราแลกเปลี่ยนในสัดส่วน …(ตัดทอน)
+
+### ลักษณะเฉพาะของโครงการ
+
+- `CIV` กองทุนรวมที่มีนโยบายเปิดให้มีการลงทุนในกองทุนรวมอื่นภายใต้ บลจ. เดียวกัน (CROSS Investing Fund)
+- `FF` กองทุนรวมหน่วยลงทุน (Fund of Funds)
+- `SE` กองทุนรวมหมวดอุตสาหกรรม (Sector Fund)
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 8 / 8** — 8 — สินทรัพย์ทางเลือก
+
+> ลงทุนในทรัพย์สินทางเลือก เช่น REITs/ infrastructure fund/ property fund/ private equity/ ดัชนีสินค้าโภคภัณฑ์/ ทองคำ/ น้ำมันดิบ เป็นต้น โดยเฉลี่ยในรอบปีไม่น้อยกว่า 80% ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| main | - | - | - | -25.32% | - | 0.4 | 100.95 |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `main` | ⚪ ไม่ระบุ | 0.92 | 4.28 | 0.7 | 0.25 | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | 0.7 |
+| main | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 1 | 0 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 1 | 0 |
+| main | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 4.28 | 0.92 |
+| main | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 1 | 0.25 |
+| main | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 500 | 50 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 1 | 0.25 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปี (รวมภาษีมูลค่าเพิ่มแล้ว)  ของมูลค่าทรัพย์สินของกองทุนที่คำนวณได้เป็นรายวัน |
+| main | ค่าธรรมเนียมทั้งหมด (Total Fee) | 4.28 | ต่อปี (รวมภาษีมูลค่าเพิ่มแล้ว) ของมูลค่าทรัพย์สินของกองทุน |
+| main | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| main | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปี (รวมภาษีมูลค่าเพิ่มแล้ว)  ของมูลค่าทรัพย์สินของกองทุนที่คำนวณได้เป็นรายวัน |
+| main | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| main | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.107 | ต่อปี (รวมภาษีมูลค่าเพิ่มแล้ว)  ของมูลค่าทรัพย์สินของกองทุนที่คำนวณได้เป็นรายวัน |
+| main | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 4.28 | ต่อปี (รวมภาษีมูลค่าเพิ่มแล้ว) ของมูลค่าทรัพย์สินของกองทุน |
+
+## 6. ผลการดำเนินงาน
+
+### Class `main`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 5.81 | 2.59 | 2.59 | 12.44 | 3.37 | -1.18 | 1.41 | 4.89 | 9.15 | -3.73 | 0.8 | -12.75 | 0.21 |
+| ผลตอบแทนตัวชี้วัด | 6.58 | 3.6 | 3.6 | 14.11 | 5.31 | 0.83 | 2.46 | 5.45 | - | - | - | - | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 5.59 | 2.63 | 2.63 | 13.3 | 3.26 | -1.06 | 2.07 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 7.65 | 7.87 | 7.87 | 7.37 | 9.5 | 9.2 | 9.51 | 8.73 | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 7.83 | 8.02 | 8.02 | 7.3 | 9.74 | 9.69 | 10.63 | 9.71 | - | - | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) |
+| 2 | ดัชนี FTSE EPRA NAREIT Global REITS Net Total Return Index | ดัชนี FTSE EPRA NAREIT Global REITS Net Total Return Index |
+| 3 | ดัชนี FTSE ST Real Estate Investment Trusts Total Return SGD | ดัชนี FTSE ST Real Estate Investment Trusts Total Return SGD |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| เงินฝาก,บัตรเงินฝาก | 2.69 |
+| หน่วยลงทุนในประเทศ | 0.07 |
+| กองทุนรวมหมวดอุตสาหกรรม, โครงสร้างพื้นฐานในประเทศ | 24.22 |
+| สินทรัพย์และหนี้สินอื่น | 0.25 |
+| สัญญาซื้อขายล่วงหน้า | -1.89 |
+| หน่วยลงทุนต่างประเทศ | 24.78 |
+| กองทุนรวมหมวดอุตสาหกรรม, โครงสร้างพื้นฐานต่างประเทศ | 49.88 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | ISHARES GLOBAL REIT ETF (REET US) | 24.78 |
+| 2 | CAPITALAND INTEGRATED COMMERCIAL TRUST (CICT SP) | 11.9 |
+| 3 | CAPITALAND ASCENDAS REIT (CLAR SP) | 7.1 |
+| 4 | MAPLETREE LOGISTICS TRUST (MLT SP) | 4.46 |
+| 5 | ทรัสต์เพื่อการลงทุนในสิทธิการเช่า อสังหาริมทรัพย์ CPN รีเทล โกรท (CPNREIT) | 4.23 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 108 | หน่วยลงทุน (รหัส 108-109,117-121,139,130) | 379,779,921 | 74.5803 |
+| 101 | หุ้น (รหัส 101-102) | 123,714,678 | 24.2948 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 9,214,315 | 1.8095 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | 168,67 | 0.0331 |
+| 401 | ตราสารอนุพันธ์(รหัส 401-407) | -3,654,407 | -0.7176 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **49** รายการ จากผู้ออก 37 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **493,201,635** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **71.46% ของ NAV** (คิดเป็น 71.6% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/BlackRock Asset Management\|BlackRock Asset Management]] <br><sub>`REET US`</sub> | ISHARES GLOBAL REIT ETF | หุ้นสามัญ | - | 122,224,115 | 24.7818 |
+| 2 | [[../Entities/Capital Mall Trust\|Capital Mall Trust]] <br><sub>`CICT SP`</sub> | CAPITALAND INTEGRATED COMMERCIAL TRUST. | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 58,683,873 | 11.8986 |
+| 3 | [[../Entities/Capitaland Ascendas Reit\|Capitaland Ascendas Reit]] <br><sub>`CLAR SP`</sub> | CAPITALAND ASCENDAS REIT | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 34,995,816 | 7.0956 |
+| 4 | [[../Entities/Mapletree Logistics Trust\|Mapletree Logistics Trust]] <br><sub>`MLT SP`</sub> | MAPLETREE LOGISTICS TRUST | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 22,020,142 | 4.4647 |
+| 5 | [[../Entities/CPN RETAIL GROWTH LEASEHOLD REIT\|CPN RETAIL GROWTH LEASEHOLD REIT]] <br><sub>`CPNREIT`</sub> | CPN RETAIL GROWTH LEASEHOLD REIT | กองทรัสต์ | TH8351010005 | 20,852,398 | 4.228 |
+| 6 | [[../Entities/WHA PREMIUM GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|WHA PREMIUM GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`WHART`</sub> | WHA PREMIUM GROWTH FREEHOLD AND LEASEHOL | กองทรัสต์ | TH6141010004 | 20,491,405 | 4.1548 |
+| 7 | [[../Entities/FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT\|FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT]] <br><sub>`FTREIT`</sub> | FRASERS PROPERTY THAILAND INDUSTRIAL FRE | กองทรัสต์ | TH6172010006 | 20,160,837 | 4.0877 |
+| 8 | [[../Entities/Keppel DC REIT\|Keppel DC REIT]] <br><sub>`KDCREIT SP`</sub> | KEPPEL DC REIT | กองทรัสต์ | - | 19,684,589 | 3.9912 |
+| 9 | [[../Entities/Frasers Centrepoint Trust\|Frasers Centrepoint Trust]] <br><sub>`FCT SP`</sub> | FRASERS CENTERPOINT TRUST | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 17,756,59 | 3.6003 |
+| 10 | [[../Entities/Axtra Future City Freehold and Leasehold Real Estate Investment Trust\|Axtra Future City Freehold and Leasehold Real Estate Investment Trust]] <br><sub>`AXTRART`</sub> | Axtra Future City Freehold and Leasehold | กองทรัสต์ | THC611010008 | 15,577,6 | 3.1585 |
+| 11 | [[../Entities/CapitaLand Ascott Trust\|CapitaLand Ascott Trust]] <br><sub>`CLAS SP`</sub> | CAPITALAND ASCOTT TRUST | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 12,868,846 | 2.6092 |
+| 12 | [[../Entities/Parkway Life Real Estate Investment Trust\|Parkway Life Real Estate Investment Trust]] <br><sub>`PREIT SP`</sub> | PARKWAY LIFE REAL ESTATE INVESTMENT TRUS | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 12,813,306 | 2.598 |
+| 13 | [[../Entities/Suntec Real Estate Investment Trust\|Suntec Real Estate Investment Trust]] <br><sub>`SUN SP`</sub> | SUNTEC REAL ESTATE INVESTMENT TRUST | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 11,258,487 | 2.2827 |
+| 14 | [[../Entities/STANDARD CHARTERED BANK (THAI) PUBLIC CO.,LTD\|STANDARD CHARTERED BANK (THAI) PUBLIC CO.,LTD.]] <br><sub>`0106344684-SGD`</sub> | STANDARD CHARTERED BANK (THAI) PUBLIC CO | เงินฝากธนาคารประเภทออมทรัพย์ | - | 10,949,405 | 2.2201 |
+| 15 | [[../Entities/Frasers Logistics & Industrial Trust (FLT SP)\|Frasers Logistics & Industrial Trust (FLT SP)]] <br><sub>`FLT SP`</sub> | FRASERS LOGISTIC AND INDUSTRIAL TRUST | กองทรัสต์ | - | 9,607,095 | 1.9479 |
+| 16 | [[../Entities/Keppel REIT\|Keppel REIT]] <br><sub>`KREIT SP`</sub> | K-REIT ASIA | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 7,731,098 | 1.5675 |
+| 17 | [[../Entities/Lendlease Global Commercial REIT\|Lendlease Global Commercial REIT]] <br><sub>`LREIT SP`</sub> | LENDLEASE GLOBAL COMMERCIAL REIT | กองทรัสต์ | - | 7,536,646 | 1.5281 |
+| 18 | [[../Entities/IMPACT GROWTH REAL ESTATE INVESTMENT TRUST\|IMPACT GROWTH REAL ESTATE INVESTMENT TRUST]] <br><sub>`IMPACT`</sub> | IMPACT GROWTH REAL ESTATE INVESTMENT TRU | กองทรัสต์ | TH5882010009 | 7,258,12 | 1.4716 |
+| 19 | [[../Entities/BANK OF AMERICA PCL\|BANK OF AMERICA PCL.]] <br><sub>`NTTDCR SP`</sub> | NTT DC REIT | กองทรัสต์ | - | 6,945,049 | 1.4082 |
+| 20 | [[../Entities/Centurion Accommodation REIT\|Centurion Accommodation REIT]] <br><sub>`CAREIT SP`</sub> | CENTURION ACCOMMODATION REIT | กองทรัสต์ | - | 6,943,841 | 1.4079 |
+| 21 | [[../Entities/LH HOTEL LEASEHOLD REAL ESTATE INVESTMENT TRUST\|LH HOTEL LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`LHHOTEL`</sub> | LH HOTEL LEASEHOLD REAL ESTATE INVESTMEN | กองทรัสต์ | TH6957010007 | 5,621,4 | 1.1398 |
+| 22 | [[../Entities/BA Airport Leasehold Real Estate Investment Trust\|BA Airport Leasehold Real Estate Investment Trust]] <br><sub>`BAREIT`</sub> | BA Airport Leasehold Real Estate Investm | กองทรัสต์ | THA996010007 | 5,421,92 | 1.0993 |
+| 23 | [[../Entities/WHA INDUSTRIAL LEASEHOLD REAL ESTATE INVESTMENT TRUST\|WHA INDUSTRIAL LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`WHAIR`</sub> | WHA INDUSTRIAL LEASEHOLD REAL ESTATE INV | กองทรัสต์ | TH7585010005 | 5,407,175 | 1.0963 |
+| 24 | [[../Entities/Sasseur Real Estate Investment Trust\|Sasseur Real Estate Investment Trust]] <br><sub>`SASSR SP`</sub> | SASSEUR REAL ESTATE INVESTMENT TRUST | กองทรัสต์ | - | 5,023,353 | 1.0185 |
+| 25 | [[../Entities/THAILAND FUTURE FUND\|THAILAND FUTURE FUND]] <br><sub>`TFFIF`</sub> | THAILAND FUTURE FUND | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH7642010006 | 5,002,22 | 1.0142 |
+
+<details><summary>ดูอีก 24 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/MINOR INTERNATIONAL PUBLIC COMPANY LIMITED\|MINOR INTERNATIONAL PUBLIC COMPANY LIMITED]] <br><sub>`MINT SP`</sub> | MAPLETREE INDUSTRIAL TRUST | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 4,539,338 | 0.9204 |
+| 27 | [[../Entities/AIMS AMP CAPITAL INDUSTRIAL\|AIMS AMP CAPITAL INDUSTRIAL]] <br><sub>`AAREIT SP`</sub> | AIMS AMP CAPITAL INDUSTRIAL | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 3,748,296 | 0.76 |
+| 28 | [[../Entities/DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE FUND\|DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE FUND]] <br><sub>`DIF`</sub> | DIGITAL TELECOMMUNICATIONS INFRASTRUCTUR | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH5097010000 | 3,573,441 | 0.7245 |
+| 29 | [[../Entities/3BB INTERNET INFRASTRUCTURE FUND\|3BB INTERNET INFRASTRUCTURE FUND]] <br><sub>`3BBIF`</sub> | 3BB INTERNET INFRASTRUCTURE FUND | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH6247010007 | 3,528,85 | 0.7155 |
+| 30 | [[../Entities/DUSIT THANI FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|DUSIT THANI FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`DREIT`</sub> | DUSIT THANI FREEHOLD AND LEASEHOLD REAL | กองทรัสต์ | TH8367010007 | 2,609,74 | 0.5291 |
+| 31 | [[../Entities/Digital Realty\|Digital Realty]] <br><sub>`DCREIT SP`</sub> | DIGITAL CORE REIT MANAGEMENT PTE LTD | กองทรัสต์ | - | 1,994,738 | 0.4044 |
+| 32 | [[../Entities/STANDARD CHARTERED BANK (THAI) PUBLIC CO.,LTD\|STANDARD CHARTERED BANK (THAI) PUBLIC CO.,LTD.]] <br><sub>`SCBT88337-0`</sub> | STANDARD CHARTERED BANK (THAI) PUBLIC CO | เงินฝากธนาคารประเภทออมทรัพย์ | - | 1,975,324 | 0.4005 |
+| 33 | [[../Entities/Mapletree Commercial Trust\|Mapletree Commercial Trust]] <br><sub>`MPACT SP`</sub> | MAPLETREE PAN ASIA COMMERCIAL | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | - | 1,856,931 | 0.3765 |
+| 34 | [[../Entities/AMATA SUMMIT GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|AMATA SUMMIT GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`AMATAR`</sub> | AMATA SUMMIT GROWTH FREEHOLD AND LEASEHO | กองทรัสต์ | TH6606010002 | 1,789,725 | 0.3629 |
+| 35 | [[../Entities/BTS RAIL MASS TRANSIT GROWTH INFRASTRUCTURE FUND\|BTS RAIL MASS TRANSIT GROWTH INFRASTRUCTURE FUND]] <br><sub>`BTSGIF`</sub> | BTS RAIL MASS TRANSIT GROWTH INFRASTRUCT | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH4447010000 | 828,124 | 0.1679 |
+| 36 | [[../Entities/BHIRAJ OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST\|BHIRAJ OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`BOFFICE`</sub> | BHIRAJ OFFICE LEASEHOLD REAL ESTATE INVE | กองทรัสต์ | TH8406010000 | 698,01 | 0.1415 |
+| 37 | [[../Entities/GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST\|GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`GVREIT`</sub> | GOLDEN VENTURES LEASEHOLD REAL ESTATE IN | กองทรัสต์ | TH7139010006 | 657,4 | 0.1333 |
+| 38 | [[../Entities/STANDARD CHARTERED BANK (THAI) PUBLIC CO.,LTD\|STANDARD CHARTERED BANK (THAI) PUBLIC CO.,LTD.]] <br><sub>`USD-SA-PROP`</sub> | STANDARD CHARTERED BANK (THAI) PUBLIC CO | เงินฝากธนาคารประเภทออมทรัพย์ | - | 363,245 | 0.0736 |
+| 39 | [[../Entities/KIATNAKIN PHATRA ASSET MANAGEMENT COMPANY LIMITED\|KIATNAKIN PHATRA ASSET MANAGEMENT COMPANY LIMITED]] <br><sub>`KKP MP FUND`</sub> | KIATNAKIN PHATRA ASSET MANAGEMENT COMPAN | หน่วยลงทุนของกองทุนตราสารหนี้ | - | 334,45 | 0.0678 |
+| 40 | FX-TX.6087248 | - | สัญญาฟอร์เวิร์ด | - | 85,739 | 0.0174 |
+| 41 | FX-TX.6105558 | - | สัญญาฟอร์เวิร์ด | - | 6,12 | 0.0012 |
+| 42 | FX-TX.6090315 | - | สัญญาฟอร์เวิร์ด | - | -49,598 | -0.0101 |
+| 43 | FX-TX.6036161 | - | สัญญาฟอร์เวิร์ด | - | -169,711 | -0.0344 |
+| 44 | FX-TX.6082022 | - | สัญญาฟอร์เวิร์ด | - | -222,034 | -0.045 |
+| 45 | FX-TX.6039272 | - | สัญญาฟอร์เวิร์ด | - | -294,052 | -0.0596 |
+| 46 | FX-TX.6039446 | - | สัญญาฟอร์เวิร์ด | - | -321,831 | -0.0653 |
+| 47 | FX-TX.6082016 | - | สัญญาฟอร์เวิร์ด | - | -789,743 | -0.1601 |
+| 48 | FX-TX.6040047 | - | สัญญาฟอร์เวิร์ด | - | -2,866,139 | -0.5811 |
+| 49 | FX-TX.6040046 | - | สัญญาฟอร์เวิร์ด | - | -4,680,133 | -0.9489 |
+
+</details>
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในต่างประเทศ**
+
+| ประเทศ / ภูมิภาค | % NAV |
+|---|---|
+| SINGAPORE | 49.88 |
+| UNITED STATES | 24.78 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - KKP PROP]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| main | 2026-08-25 | 20.5603 | 20.6118 | 20.5603 | 499,934,28 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| main | ไม่จ่ายเงินปันผล |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) |
+|---|---|---|---|---|---|---|---|---|---|
+| main | 2026-06-30 | 5000.0 | THB | 5000.0 | THB | - | THB | - | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | รายละเอียดเพิ่มเติม | ระยะเวลารับเงิน |
+|---|---|---|---|---|---|
+| main | 2026-06-30 | การขายคืน (redemption) | อื่น ๆ โปรดระบุ | ทุกวันทำการแรกของสัปดาห์ โดย <br> แจ้งล่วงหน้าอย่างน้อย 5 วันทำการ | T+3 คือ3 วันทำการหลังจากวันทำรายการขายคืน |
+| main | 2026-06-30 | การซื้อ (subscription) | อื่น ๆ โปรดระบุ | หยุดรับคำสั่ง ตามประกาศสำนักงาน <br> ก.ล.ต. ตั้งแต่ 16 มิ.ย. 56 | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด |
+| T | บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - KKP PROP]]
+
+- class `main` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0773_2554.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด]]
+- กองประเภทเดียวกัน: [[ทรัพย์สินทางเลือก]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 8]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

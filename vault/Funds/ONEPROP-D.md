@@ -1,0 +1,340 @@
+---
+title: "ONEPROP-D"
+proj_id: M0140_2556
+regis_id: "MF0164_2556"
+abbr: "ONEPROP-D"
+name_th: "กองทุนเปิด วรรณ พร็อพเพอร์ตี้ พลัส ดิวิเดน ฟันด์"
+name_en: "ONE PROPERTY PLUS DIVIDEND FUND"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน วรรณ จำกัด"
+amc_id: "C0000000569"
+policy: "ทรัพย์สินทางเลือก"
+risk_spectrum: "8"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "4"
+init_date: "2013-02-22"
+regis_date: "2013-03-12"
+class_count: 2
+has_factsheet: true
+ter_retail: 3.4
+perf_1y: 26.41
+nav: 8.5178
+nav_date: "2026-08-26"
+fund_size: 275363321.55
+holdings_count: 27
+top10_pct_nav: 75.63
+fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
+tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure]
+---
+
+# ONEPROP-D
+
+**กองทุนเปิด วรรณ พร็อพเพอร์ตี้ พลัส ดิวิเดน ฟันด์**  
+_ONE PROPERTY PLUS DIVIDEND FUND_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน วรรณ จำกัด]] · นโยบาย [[ทรัพย์สินทางเลือก]] · ความเสี่ยงระดับ **8**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0140_2556`
+> - **ประเภท:** ทรัพย์สินทางเลือก · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** มีความเสี่ยงทั้งในและต่างประเทศ
+> - **จัดตั้ง:** 2013-02-22 · **จดทะเบียน:** 2013-03-12
+> - **ชนิดหน่วยลงทุน:** 2 class
+> - **NAV 8.5178 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0140_2556` |
+| เลขที่จดทะเบียน (regis_id) | MF0164_2556 |
+| ชื่อย่อ | ONEPROP-D |
+| ชื่อไทย | กองทุนเปิด วรรณ พร็อพเพอร์ตี้ พลัส ดิวิเดน ฟันด์ |
+| ชื่ออังกฤษ | ONE PROPERTY PLUS DIVIDEND FUND |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน วรรณ จำกัด]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2013-02-22 |
+| วันจดทะเบียน | 2013-03-12 |
+| ประเภทตามนโยบาย | ทรัพย์สินทางเลือก |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | มีความเสี่ยงทั้งในและต่างประเทศ |
+
+### นโยบายป้องกันความเสี่ยงอัตราแลกเปลี่ยน
+
+ดุลยพินิจ (dynamic hedging) (0%-105% ของมูลค่าความเสี่ยง)
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| ONEPROP-ID | TH4366B10000 | - | หน่วยลงทุนชนิดจ่ายเงินปันผล สำหรับบุคคลธรรมดา และนิติบุคคล (ID) |
+| ONEPROP-RD | TH4366A10002 | - | หน่วยลงทุนชนิดจ่ายเงินปันผล สำหรับผู้ลงทุนทั่วไป (RD) |
+
+## 3. นโยบายการลงทุน
+
+กองทุนเปิด วรรณ พร็อพเพอร์ตี้ พลัส ดิวิเดน ฟันด์ เป็นกองทุนที่มีนโยบายที่จะนำเงินที่ได้จากการระดมทุนไปลงทุนในหลักทรัพย์หรือตราสารที่อยู่ในหมวดอุตสาหกรรมอสังหาริมทรัพย์ (Property Sector Fund) โดยกองทุนจะกระจายการลงทุนในหลักทรัพย์หรือตราสารดังต่อไปนี้
+(1) หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพย์ที่เป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย และ/หรือหน่วยทรัสต์ของทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (REITs) ที่เป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย และ/หรือหน่วยลงทุนของกองทุนโครงสร้างพื้นฐานที่เป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยหรือตลาดซื้อขายหลักทรัพย์ต่างประเทศ และ/หรือตราสารของกองทุนอสังหาริมทรัพย์ต่างประเทศ โดยเฉลี่ยในรอบระยะเวลาบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน ทั้งนี้ บริษัทจัดการจะลงทุนในหน่วยลงทุนของกองทุนรวมดังกล่าวอย่างน้อย 2 กองทุน ในสัดส่วนกองทุนละไม่เกินร้อยละ 79 ของมูลค่าทรัพย์สินสุทธิของกองทุนโดยสัดส่วนการลงทุนจะขึ้นอยู่กับดุลยพินิจขอผู้จัดการกองทุน ตามสภาวะการลงทุนหรือการคาดการณ์สภาวะการลงทุนในแต่ละขณะ 
+
+ทั้งนี้ กองทุนอาจลงทุนในหน่วยลงทุนของกองทุนรวมหรือกองทุนรวมอสังหาริมทรัพย์หรือทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์(REITs) ซึ่งอยู่ภายใต้การบริหารของบริษัทจัดการได้ไม่เกินร้อยละ100 ของมูลค่าทรัพย์สินสุทธิ นอกจากนี้กองทุนสามารถลงทุนในกองทุนรวมทั่วไปอื่นที่อยู่ภายใต้การบริหารจัดการเดียวกันได้ไม่จำกัดอัตราส่วน ยกเว้นกรณีกองทุนรวมปลายทางเป็นกองทุนรวมอสังหาริมทรัพย์(กอง1) และกองทุนรวมโครงสร้างพื้นฐาน (Infra) ลงทุนได้สูงสุดไม่เกินร้อยละ 25 ของจำนวนหน่วยลงทุนปลายทาง โดยการลงทุนในหน่วยลงทุนดังกล่าวต้องอยู่ภายใต้กรอบนโยบายการลงทุนของกองทุน ซึ่งเป็นไปตามหลักเกณฑ์เงื่อนไขที่สำนักงานคณะกรรมการ ก.ล.ต. กำหนด ทั้งนี้ กองทุนปลายทางไม่สามารถลงทุนย้อนกลับในกองทุนต้นทาง (circle investment) และกองทุนปลายทางไม่สามารถลงทุนต่อในกองทุนอื่นภายใต้ บลจ. เดียวกันอีก (cascade investment) 
+
+(2) ส่วนที่เหลือ อาจลงทุนในหลักทรัพย์ดังต่อไปนี้
+
+2.1. หุ้นของบริษัทที่มีรายชื่ออยู่ในหมวดอุตสาหกรรมอสังหาริมทรัพย์หรือที่มีลักษณะเทียบเคียงได้กับหมวดอุตสาหกรรมอสังหาริมทรัพย์ทั้งในและต่างประเทศ
+2.2. ตราสารหรือสัญญาทางการเงินที่ให้สิทธิในการได้มาซึ่งหน่วยลงทุนของกองทุนรวมอสังหาริมทรัพย์ที่เป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยหรือตราสารของกองทุนอสังหาริมทรัพย์ต่างประเทศ หรือที่ให้ผลตอบแทนอ้างอิงกับหน่วยลงทุนของกองทุนอสังหาริมทรัพย์ที่เป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยหรือตราสารของกองทุนอสังหาริมทรัพย์ต่างประเทศ หรือกลุ่มของหน่วยลงทุนของกองทุนรวมอสังหาริมทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยหรือตราสารกองทุนอสังหาริมทรัพย์ต่างประเทศ
+
+กองทุนอาจลงทุนในตราสารหนี้ ตราสารกึ่งหนี้กึ่งทุน และ/หรือ เงินฝากเพื่อการลงทุน ตลอดจนหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นอย่างใดอย่างหนึ่งหรือหลายอย่างที่ไม่ขัดต่อกฎหมาย ก.ล.ต.
+
+ทั้งนี้ กองทุนอาจลงทุนในสัญญาซื้อขายล่วงหน้า (Derivatives) เพื่อเป็นการเพิ่มประสิทธิภาพการบริหารการลงทุน (Efficient Portfolio Management) โดยพิจารณาจากสภาวะตลาดในขณะนั้น กฎข้อบังคับ และปัจจัยอื่นๆ ที่เกี่ยวข้อง เช่น ทิศทางราคาหลักทรัพย์ อัตราดอกเบี้ย และสภาวะอัตราแลกเปลี่ยน รวมถึงค่าใช้จ่ายในการป้องกันความเสี่ยง เป็นต้น
+
+ในกรณีที่กองทุนลงทุนในต่างประเทศ กองทุนอาจลงทุนในหรือมีไว้ซึ่งสัญญาซื้อขายล่วงหน้า (Derivatives) ที่มีตัวแปรเป็นอัตราแลกเปลี่ยนเงิน โดยมีวัตถุประสงค์เพื่อป้องกันความเสี่ยงจากการลงทุน (Hedging) โดยขึ้นอยู่กับดุลยพินิจของบริษัทจัดการ โดยที่ในส่วนของการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเงินตราต่างประเทศ บริษัทจัดการจะพิจารณาลงทุนตามสภาวการณ์ตลาดหรือเมื่อบริษัทจัดการเห็นสมควร เช่น ในกรณีที่ค่าเงินดอลลาร์สหรัฐอเมริกามีแนวโน้มอ่อนค่าลง บริษัทจัดการอาจพิจารณาลงทุนในสัญญาซื้อขายล่วงหน้าเพื่อป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเงินตราต่างประเทศในสัดส่วนที่ค่อนข้างมาก แต่หากในกรณีที่ค่าเงินดอลลาร์สหรัฐอเมริกามีแนวโน้มแข็งค่าขึ้น บริษัทจัดการอาจพิจารณาไม่ลงทุนในสัญญาซื้อขายล่วงหน้าเพื่อป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเงินตราต่างประเทศ หรือลงทุนในสัญญาซื้อขายล่วงหน้าเพื่อป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเงินตราต่างประเทศในสัดส่วนที่น้อย ดังนั้น กองทุนจึงยังคงมีความเสี่ยงด้านอัตราแลกเปลี่ยนเงินตราต่างประเทศอยู่ ซึ่งอาจทำให้ผู้ลงทุนได้รับผลขาดทุนจากอัตราแลกเปลี่ยนหรือได้รับเงินคืนต่ำกว่าเงินลงทุนเริ่มแรกได้ นอกจากนี้ การทำธุรกรร …(ตัดทอน)
+
+### ลักษณะเฉพาะของโครงการ
+
+- `CIV` กองทุนรวมที่มีนโยบายเปิดให้มีการลงทุนในกองทุนรวมอื่นภายใต้ บลจ. เดียวกัน (CROSS Investing Fund)
+- `FF` กองทุนรวมหน่วยลงทุน (Fund of Funds)
+- `SE` กองทุนรวมหมวดอุตสาหกรรม (Sector Fund)
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 8 / 8** — 8 — สินทรัพย์ทางเลือก
+
+> ลงทุนในทรัพย์สินทางเลือก เช่น REITs/ infrastructure fund/ property fund/ private equity/ ดัชนีสินค้าโภคภัณฑ์/ ทองคำ/ น้ำมันดิบ เป็นต้น โดยเฉลี่ยในรอบปี ไม่น้อยกว่า 80 % ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| ONEPROP-RD | - | - | - | -31.67% | - | 0.05 | 0 |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `ONEPROP-RD`<br><sub>หน่วยลงทุนชนิดจ่ายเงินปันผล สำหรับผู้ลงทุนทั่วไป (RD)</sub> | 🟢 รายย่อยทั่วไป | 3.4 | 4.28 | 2.25 | 0.5 | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| ONEPROP-RD | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2.14 | 0.5 |
+| ONEPROP-RD | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 2.14 | 0 |
+| ONEPROP-RD | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 0 | 0 |
+| ONEPROP-RD | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 2.14 | 0.5 |
+| ONEPROP-RD | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.47 | 2.25 |
+| ONEPROP-RD | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 4.28 | 3.4 |
+| ONEPROP-RD | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 2.14 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| ONEPROP-ID | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ONEPROP-ID | ค่าธรรมเนียมทั้งหมด (Total Fee) | 4.28 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ONEPROP-ID | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| ONEPROP-ID | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 1.07 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ONEPROP-ID | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| ONEPROP-ID | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.107 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ONEPROP-ID | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 0.4633 | ต่อปี ของมูลค่าทรัพย์สุทธิของกองทุนรวม |
+| ONEPROP-RD | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.4717 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ONEPROP-RD | ค่าธรรมเนียมทั้งหมด (Total Fee) | 4.28 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ONEPROP-RD | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| ONEPROP-RD | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 1.238 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ONEPROP-RD | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| ONEPROP-RD | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.107 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ONEPROP-RD | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 0.4633 | ต่อปี ของมูลค่าทรัพย์สุทธิของกองทุนรวม |
+
+## 6. ผลการดำเนินงาน
+
+### Class `ONEPROP-RD`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 8.62 | 8.9 | 8.9 | 26.41 | 5.17 | -0.87 | -0.32 | 0.88 | 8.17 | 4.2 | -13.04 | -8.81 | 1.5 |
+| ผลตอบแทนตัวชี้วัด | 11.04 | 12 | 12 | 31.3 | 8.44 | 2.59 | 4.43 | 5.28 | 9.39 | 7.33 | -8.58 | -3.85 | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 9.2 | 9.11 | 9.11 | 28.71 | 7.11 | 0.91 | 1.23 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 8.08 | 10.26 | 10.26 | 9.77 | 10.44 | 9.51 | 10.49 | 9.51 | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 7.75 | 10.13 | 10.13 | 9.57 | 10.19 | 9.41 | 10.55 | 10.08 | - | - | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนีกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT) | ดัชนีกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT) |
+| 2 | ดัชนีกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT) | ดัชนีกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT) |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| เงินฝาก และอื่นๆ | 3.1 |
+| หน่วยลงทุนในประเทศ | 96.9 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ CPN รีเทล โกรท | 14.52 |
+| 2 | ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าฯเพื่ออุตสาหกรรมเฟรเซอร์สพร็อพเพอร์ตี้ | 12.14 |
+| 3 | ทรัสตเพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ พรีเมี่ยม โกรท | 11.86 |
+| 4 | ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า แอ็กซ์ตร้า ฟิวเจอร์ ซิตี้ | 9.3 |
+| 5 | กองทุนรวมโครงสร้างพื้นฐานโทรคมนาคม ดิจิทัล | 6.8 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 108 | หน่วยลงทุน (รหัส 108-109,117-121,139,130) | 269,039,211 | 97.4023 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 8,475,494 | 3.0684 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | -1,300,174 | -0.4707 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **27** รายการ จากผู้ออก 27 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **268,478,869** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **75.63% ของ NAV** (คิดเป็น 74.9% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/CPN RETAIL GROWTH LEASEHOLD REIT\|CPN RETAIL GROWTH LEASEHOLD REIT]] <br><sub>`CPNREIT`</sub> | CPN RETAIL GROWTH LEASEHOLD REIT | กองทรัสต์ | TH8351010005 | 38,974,77 | 14.5169 |
+| 2 | [[../Entities/FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT\|FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT]] <br><sub>`FTREIT`</sub> | FRASERS PROPERTY THAILAND INDUSTRIAL FRE | กองทรัสต์ | TH6172010006 | 32,601,24 | 12.1429 |
+| 3 | [[../Entities/WHA PREMIUM GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|WHA PREMIUM GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`WHART`</sub> | WHA PREMIUM GROWTH FREEHOLD AND LEASEHOL | กองทรัสต์ | TH6141010004 | 31,838,4 | 11.8588 |
+| 4 | [[../Entities/Axtra Future City Freehold and Leasehold Real Estate Investment Trust\|Axtra Future City Freehold and Leasehold Real Estate Investment Trust]] <br><sub>`AXTRART`</sub> | Axtra Future City Freehold and Leasehold | กองทรัสต์ | THC611010008 | 24,963,84 | 9.2982 |
+| 5 | [[../Entities/DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE FUND\|DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE FUND]] <br><sub>`DIF`</sub> | DIGITAL TELECOMMUNICATIONS INFRASTRUCTUR | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH5097010000 | 18,260,8 | 6.8016 |
+| 6 | [[../Entities/IMPACT GROWTH REAL ESTATE INVESTMENT TRUST\|IMPACT GROWTH REAL ESTATE INVESTMENT TRUST]] <br><sub>`IMPACT`</sub> | IMPACT GROWTH REAL ESTATE INVESTMENT TRU | กองทรัสต์ | TH5882010009 | 14,337,6 | 5.3403 |
+| 7 | [[../Entities/LH HOTEL LEASEHOLD REAL ESTATE INVESTMENT TRUST\|LH HOTEL LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`LHHOTEL`</sub> | LH HOTEL LEASEHOLD REAL ESTATE INVESTMEN | กองทรัสต์ | TH6957010007 | 11,807,1 | 4.3978 |
+| 8 | [[../Entities/Kasikornbank Public Company Limited\|Kasikornbank Public Company Limited]] <br><sub>`0581531311`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | เงินฝากธนาคารประเภทออมทรัพย์ | - | 10,960,163 | 4.0823 |
+| 9 | [[../Entities/LH SHOPPING CENTERS LEASEHOLD REAL ESTATE INVESTMENT TRUST\|LH SHOPPING CENTERS LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`LHSC`</sub> | LH SHOPPING CENTERS LEASEHOLD REAL ESTAT | กองทรัสต์ | TH6180010006 | 9,665,63 | 3.6002 |
+| 10 | [[../Entities/BA Airport Leasehold Real Estate Investment Trust\|BA Airport Leasehold Real Estate Investment Trust]] <br><sub>`BAREIT`</sub> | BA Airport Leasehold Real Estate Investm | กองทรัสต์ | THA996010007 | 9,644,32 | 3.5922 |
+| 11 | [[../Entities/3BB INTERNET INFRASTRUCTURE FUND\|3BB INTERNET INFRASTRUCTURE FUND]] <br><sub>`3BBIF`</sub> | 3BB INTERNET INFRASTRUCTURE FUND | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH6247010007 | 8,711,3 | 3.2447 |
+| 12 | [[../Entities/INET FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|INET FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`INETREIT`</sub> | INET FREEHOLD AND LEASEHOLD REAL ESTATE | กองทรัสต์ | THA430010001 | 7,780,02 | 2.8978 |
+| 13 | [[../Entities/AIM INDUSTRIAL GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|AIM INDUSTRIAL GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`AIMIRT`</sub> | AIM INDUSTRIAL GROWTH FREEHOLD AND LEASE | กองทรัสต์ | TH8387010003 | 7,550,9 | 2.8125 |
+| 14 | [[../Entities/WHA INDUSTRIAL LEASEHOLD REAL ESTATE INVESTMENT TRUST\|WHA INDUSTRIAL LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`WHAIR`</sub> | WHA INDUSTRIAL LEASEHOLD REAL ESTATE INV | กองทรัสต์ | TH7585010005 | 6,841,7 | 2.5483 |
+| 15 | [[../Entities/GRANDE ROYAL ORCHID HOSPITALITY REAL ESTATE INVESTMENT TRUST WITH BUY-BACK CONDITION\|GRANDE ROYAL ORCHID HOSPITALITY REAL ESTATE INVESTMENT TRUST WITH BUY-BACK CONDITION]] <br><sub>`GROREIT`</sub> | GRANDE ROYAL ORCHID HOSPITALITY REAL EST | กองทรัสต์ | THA411010004 | 5,642,91 | 2.1018 |
+| 16 | [[../Entities/GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST\|GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`GVREIT`</sub> | GOLDEN VENTURES LEASEHOLD REAL ESTATE IN | กองทรัสต์ | TH7139010006 | 5,142,92 | 1.9156 |
+| 17 | [[../Entities/Future City Leasehold Real Estate Investment Trust\|Future City Leasehold Real Estate Investment Trust]] <br><sub>`FUTURERT`</sub> | Future City Leasehold Real Estate Invest | กองทรัสต์ | THC486010000 | 3,548,43 | 1.3217 |
+| 18 | [[../Entities/ALLY FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|ALLY FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`ALLY`</sub> | ALLY FREEHOLD AND LEASEHOLD REAL ESTATE | กองทรัสต์ | TH9569010001 | 3,409,44 | 1.2699 |
+| 19 | [[../Entities/BHIRAJ OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST\|BHIRAJ OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`BOFFICE`</sub> | BHIRAJ OFFICE LEASEHOLD REAL ESTATE INVE | กองทรัสต์ | TH8406010000 | 3,195,37 | 1.1902 |
+| 20 | [[../Entities/BTS RAIL MASS TRANSIT GROWTH INFRASTRUCTURE FUND\|BTS RAIL MASS TRANSIT GROWTH INFRASTRUCTURE FUND]] <br><sub>`BTSGIF`</sub> | BTS RAIL MASS TRANSIT GROWTH INFRASTRUCT | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH4447010000 | 2,753,718 | 1.0257 |
+| 21 | [[../Entities/Quality Houses Business Complex Leasehold Real Estate Investment Trust\|Quality Houses Business Complex Leasehold Real Estate Investment Trust]] <br><sub>`QHBREIT`</sub> | Quality Houses Business Complex Leasehol | กองทรัสต์ | THC607010004 | 2,527,82 | 0.9415 |
+| 22 | [[../Entities/DUSIT THANI FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|DUSIT THANI FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`DREIT`</sub> | DUSIT THANI FREEHOLD AND LEASEHOLD REAL | กองทรัสต์ | TH8367010007 | 2,415,7 | 0.8998 |
+| 23 | [[../Entities/THAILAND PRIME PROPERTY FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|THAILAND PRIME PROPERTY FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`TPRIME`</sub> | THAILAND PRIME PROPERTY FREEHOLD AND LEA | กองทรัสต์ | TH7549010000 | 2,346,255 | 0.8739 |
+| 24 | [[../Entities/Quality Houses Hotel and Residence Freehold and Leasehold Real Estate Investment Trust\|Quality Houses Hotel and Residence Freehold and Leasehold Real Estate Investment Trust]] <br><sub>`QHHRREIT`</sub> | Quality Houses Hotel and Residence Freeh | กองทรัสต์ | THC091010007 | 2,296,35 | 0.8553 |
+| 25 | [[../Entities/CPN COMMERCIAL GROWTH LEASEHOLD PROPERTY FUND\|CPN COMMERCIAL GROWTH LEASEHOLD PROPERTY FUND]] <br><sub>`CPNCG`</sub> | CPN COMMERCIAL GROWTH LEASEHOLD PROPERTY | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | TH3769010002 | 1,814,07 | 0.6757 |
+
+<details><summary>ดูอีก 2 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/HEMARAJ INDUSTRIAL PROPERTY AND LEASEHOLD FUND\|HEMARAJ INDUSTRIAL PROPERTY AND LEASEHOLD FUND]] <br><sub>`HPF`</sub> | HEMARAJ INDUSTRIAL PROPERTY AND LEASEHOL | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | TH5123010008 | 1,671,4 | 0.6225 |
+| 27 | [[../Entities/SAMUI AIRPORT PROPERTY FUND (LEASEHOLD)\|SAMUI AIRPORT PROPERTY FUND (LEASEHOLD)]] <br><sub>`SPF`</sub> | SAMUI AIRPORT PROPERTY FUND (LEASEHOLD) | หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพ | TH0929010005 | 416,478 | 0.1551 |
+
+</details>
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในกลุ่มอุตสาหกรรม**
+
+| กลุ่มอุตสาหกรรม | % NAV |
+|---|---|
+| กองทุนรวมอสังหาริมทรัพย์ | 68.82 |
+| หน่วยลงทุน | 17.01 |
+| เทคโนโลยีสารสนเทศและการสื่อสาร | 10.05 |
+| ขนส่งและโลจิสติกส์ | 1.03 |
+
+**การจัดสรรการลงทุนในต่างประเทศ**
+
+| ประเทศ / ภูมิภาค | % NAV |
+|---|---|
+| ไทย | 100 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - ONEPROP-D]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| ONEPROP-RD | 2026-08-26 | 8.5178 | 8.5605 | 0 | 275,363,322 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| ONEPROP-RD | จ่ายเงินปันผล |
+
+### ประวัติการจ่ายปันผล (20 ครั้งล่าสุด)
+
+| Class | วันปิดสมุด | วันจ่าย | บาท/หน่วย |
+|---|---|---|---|
+| ONEPROP-RD | 2026-06-24 | 2026-07-03 | 0.05 |
+| ONEPROP-RD | 2026-03-25 | 2026-04-03 | 0.08 |
+| ONEPROP-RD | 2025-12-19 | 2025-12-30 | 0.1 |
+| ONEPROP-RD | 2025-06-24 | 2025-07-03 | 0.09 |
+| ONEPROP-RD | 2025-01-03 | 2025-01-14 | 0.1 |
+| ONEPROP-RD | 2024-09-19 | 2024-09-27 | 0.1 |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) |
+|---|---|---|---|---|---|---|---|---|---|
+| ONEPROP-RD | 2026-06-30 | 1000.0 | THB | 1000.0 | THB | - | THB | - | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | รายละเอียดเพิ่มเติม | ระยะเวลารับเงิน |
+|---|---|---|---|---|---|
+| ONEPROP-RD | 2026-06-30 | การซื้อ (subscription) | ทุกวันทำการ | - | - |
+| ONEPROP-RD | 2026-06-30 | การขายคืน (redemption) | อื่น ๆ โปรดระบุ | ทุกวันทำการสุดท้ายของสัปดาห์ | T+4 คือ4 วันทำการหลังจากวันทำรายการขายคืน |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+### ผู้จัดการกองทุน (จาก Factsheet)
+
+- นาย ชัยพฤกษ์ กุลกาญจนาธร
+- นาย บัญชา จึงวัฒนกิจ
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน วรรณ จำกัด |
+| T | บริษัทหลักทรัพย์จัดการกองทุน วรรณ จำกัด |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - ONEPROP-D]]
+
+- class `ONEPROP-RD` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0140_2556.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน วรรณ จำกัด]]
+- กองประเภทเดียวกัน: [[ทรัพย์สินทางเลือก]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 8]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

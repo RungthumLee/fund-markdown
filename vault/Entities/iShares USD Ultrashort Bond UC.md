@@ -1,0 +1,54 @@
+---
+title: "iShares USD Ultrashort Bond UC"
+entity_id: "isin:IE00BGCSB447"
+isin: "IE00BGCSB447"
+ticker: "ERNAUSD"
+figi: "BBG00LBYX4Y4"
+share_class_figi: "BBG00L4M8VZ5"
+figi_type: "ETP"
+kind: "fund"
+fund_count: 4
+indirect_fund_count: 0
+alias_count: 3
+tags: [entity, entity-fund, multi-alias]
+---
+
+# 📦 iShares USD Ultrashort Bond UC
+
+**ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BGCSB447` · **Ticker:** `ERNAUSD (XS)`
+
+ถือโดยตรง **4** กอง
+
+[[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]
+
+## ชื่อที่พบในข้อมูลดิบ
+
+ข้อมูล ก.ล.ต. สะกดสินทรัพย์นี้ **3 แบบ** ซึ่งถูกรวมเป็นรายการเดียวแล้ว
+
+> [!NOTE] ถ้าไม่รวม ตัวเลขการกระจุกตัวจะต่ำกว่าความจริง เพราะฐานะเดียวถูกนับแยกเป็นหลายรายการ
+
+`BGFL` · `ERNA LN`
+
+## กองทุนไทยที่ถือโดยตรง (4 กอง)
+
+| กองทุน | บลจ. | % NAV | นโยบาย |
+|---|---|---|---|
+| [[LHBLUESKY\|LHBLUESKY]] | บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด | 12.91% | ตราสารหนี้ |
+| [[B-ENHANCED\|B-ENHANCED]] | บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด | 2.59% | ตราสารหนี้ |
+| [[B-SENIOR-X\|B-SENIOR-X]] | บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด | 1.78% | ผสม |
+| [[B-INCOME\|B-INCOME]] | บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด | 1.19% | ผสม |
+
+> น้ำหนักที่แสดงคือ **% NAV สูงสุด** ที่กองนั้นเคยรายงานถือสินทรัพย์นี้ ในงวดที่มีข้อมูล
+
+## รหัสอ้างอิงสากล
+
+| รายการ | ค่า |
+|---|---|
+| FIGI | `BBG00LBYX4Y4` |
+| Share Class FIGI | `BBG00L4M8VZ5` |
+| ประเภทตาม Bloomberg | ETP |
+| หมวดตลาด | Equity |
+
+ที่มา: OpenFIGI ของ Bloomberg · [[../../docs/guides/openfigi|วิธีใช้และข้อจำกัด]]
+
+[[../Indexes/00-home|🏠 Home]] · [[../Indexes/by-holding|ดัชนีสินทรัพย์]]

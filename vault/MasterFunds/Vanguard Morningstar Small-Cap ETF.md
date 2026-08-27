@@ -1,0 +1,118 @@
+---
+title: "Vanguard Morningstar Small-Cap ETF"
+master_key: "US9229087518"
+isin: "US9229087518"
+quote_type: "ETF"
+category: "Small Blend"
+fund_family: "Vanguard"
+currency: "USD"
+ongoing_charge: "0.03%"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data, etf]
+---
+
+# 🌐 Vanguard Morningstar Small-Cap ETF
+
+**ISIN:** `US9229087518` · **Ticker:** `VB`
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | Vanguard Morningstar Small-Cap ETF |
+| ISIN | `US9229087518` |
+| ประเภท | ETF (จดทะเบียนซื้อขายในตลาด) |
+| โครงสร้างทางกฎหมาย | Exchange Traded Fund |
+| ประเทศจดทะเบียน | สหรัฐอเมริกา |
+| หมวด (Morningstar) | Small Blend |
+| บริษัทจัดการ | Vanguard |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2004-01-26 |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (Yahoo) | 183.38 พันล้าน USD |
+| **ค่าธรรมเนียมรวมต่อปี (OCF/TER)** | **0.03%** |
+| Yield | 1.22% |
+
+> [!IMPORTANT]
+> ค่าธรรมเนียมนี้เป็นของ **กองทุนหลัก** ผู้ลงทุนไทยจ่าย**ซ้อนกับ**ค่าธรรมเนียมของกองไทยอีกชั้น
+> ดู [[../Concepts/ค่าธรรมเนียมกองทุนรวม|ค่าธรรมเนียมกองทุนรวม]]
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| YTD | 15.19% |
+| 3 ปี (เฉลี่ยต่อปี) | 17.42% |
+| 5 ปี (เฉลี่ยต่อปี) | 7.77% |
+| Beta (3 ปี) | 1.1 |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 98.97% |
+| เงินสด | 1.01% |
+| อื่น ๆ | 0.02% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| อุตสาหกรรม | 18.65% |
+| เทคโนโลยี | 16.90% |
+| การเงิน | 13.01% |
+| สุขภาพ | 12.95% |
+| สินค้าฟุ่มเฟือย | 11.88% |
+| อสังหาริมทรัพย์ | 8.22% |
+| วัตถุดิบ | 4.35% |
+| พลังงาน | 4.35% |
+| สินค้าจำเป็น | 3.47% |
+| สาธารณูปโภค | 3.20% |
+| สื่อสาร | 3.03% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | Revolution Medicines Inc Ordinary Shares | `RVMD` | 0.47% |
+| 2 | Natera Inc | `NTRA` | 0.45% |
+| 3 | EMCOR Group Inc | `EME` | 0.44% |
+| 4 | Credo Technology Group Holding Ltd | `CRDO` | 0.43% |
+| 5 | Jabil Inc | `JBL` | 0.41% |
+| 6 | Casey's General Stores Inc | `CASY` | 0.40% |
+| 7 | Tapestry Inc | `TPR` | 0.38% |
+| 8 | Twilio Inc Class A | `TWLO` | 0.37% |
+| 9 | Illumina Inc | `ILMN` | 0.37% |
+| 10 | Atmos Energy Corp | `ATO` | 0.36% |
+
+## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
+
+> The fund advisor employs an indexing investment approach designed to track the performance of the CRSP U.S. Small Cap Index, a broadly diversified index of stocks of small U.S. companies. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index.
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[KT-USSM]] | [[บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน)]] | ตราสารทุน | 6 | 96.50% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `VB`)
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

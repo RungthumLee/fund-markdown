@@ -1,0 +1,52 @@
+---
+title: "MITRA ADIPERKASA TBK PT"
+entity_id: "isin:ID1000099807"
+isin: "ID1000099807"
+ticker: "MAPI"
+figi: "BBG000MKPK08"
+share_class_figi: "BBG001SHFKY1"
+figi_type: "Common Stock"
+kind: "equity"
+fund_count: 2
+indirect_fund_count: 0
+alias_count: 2
+tags: [entity, entity-equity, multi-alias]
+---
+
+# 🏢 MITRA ADIPERKASA TBK PT
+
+**ประเภท:** หุ้น · **ISIN:** `ID1000099807` · **Ticker:** `MAPI (IJ)`
+
+ถือโดยตรง **2** กอง
+
+[[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]
+
+## ชื่อที่พบในข้อมูลดิบ
+
+ข้อมูล ก.ล.ต. สะกดสินทรัพย์นี้ **2 แบบ** ซึ่งถูกรวมเป็นรายการเดียวแล้ว
+
+> [!NOTE] ถ้าไม่รวม ตัวเลขการกระจุกตัวจะต่ำกว่าความจริง เพราะฐานะเดียวถูกนับแยกเป็นหลายรายการ
+
+`MAPI IJ`
+
+## กองทุนไทยที่ถือโดยตรง (2 กอง)
+
+| กองทุน | บลจ. | % NAV | นโยบาย |
+|---|---|---|---|
+| [[B-ASEAN\|B-ASEAN]] | บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด | 0.82% | ตราสารทุน |
+| [[B-ASEANRMF\|B-ASEANRMF]] | บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด | 0.62% | ตราสารทุน |
+
+> น้ำหนักที่แสดงคือ **% NAV สูงสุด** ที่กองนั้นเคยรายงานถือสินทรัพย์นี้ ในงวดที่มีข้อมูล
+
+## รหัสอ้างอิงสากล
+
+| รายการ | ค่า |
+|---|---|
+| FIGI | `BBG000MKPK08` |
+| Share Class FIGI | `BBG001SHFKY1` |
+| ประเภทตาม Bloomberg | Common Stock |
+| หมวดตลาด | Equity |
+
+ที่มา: OpenFIGI ของ Bloomberg · [[../../docs/guides/openfigi|วิธีใช้และข้อจำกัด]]
+
+[[../Indexes/00-home|🏠 Home]] · [[../Indexes/by-holding|ดัชนีสินทรัพย์]]

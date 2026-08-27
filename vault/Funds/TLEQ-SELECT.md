@@ -1,0 +1,262 @@
+---
+title: "TLEQ-SELECT"
+proj_id: M0585_2559
+regis_id: "MF0487_2559"
+abbr: "TLEQ-SELECT"
+name_th: "กองทุนเปิดทาลิส EQUITY SELECT"
+name_en: "TALIS EQUITY SELECT FUND"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน ทาลิส จำกัด"
+amc_id: "C0000024008"
+policy: "ตราสารทุน"
+risk_spectrum: "6"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "3"
+init_date: "2016-10-28"
+regis_date: "2016-11-09"
+class_count: 1
+has_factsheet: true
+ter_retail: 2.29
+perf_1y: 40.42
+nav: 8.8368
+nav_date: "2026-08-26"
+fund_size: 52913232.18
+holdings_count: 22
+top10_pct_nav: 69.67
+tags: [fund, sec-data, policy/equity, risk/6, active]
+---
+
+# TLEQ-SELECT
+
+**กองทุนเปิดทาลิส EQUITY SELECT**  
+_TALIS EQUITY SELECT FUND_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน ทาลิส จำกัด]] · นโยบาย [[ตราสารทุน]] · ความเสี่ยงระดับ **6**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0585_2559`
+> - **ประเภท:** ตราสารทุน · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** ไม่มีความเสี่ยงต่างประเทศ
+> - **จัดตั้ง:** 2016-10-28 · **จดทะเบียน:** 2016-11-09
+> - **ชนิดหน่วยลงทุน:** 1 class
+> - **NAV 8.8368 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0585_2559` |
+| เลขที่จดทะเบียน (regis_id) | MF0487_2559 |
+| ชื่อย่อ | TLEQ-SELECT |
+| ชื่อไทย | กองทุนเปิดทาลิส EQUITY SELECT |
+| ชื่ออังกฤษ | TALIS EQUITY SELECT FUND |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน ทาลิส จำกัด]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2016-10-28 |
+| วันจดทะเบียน | 2016-11-09 |
+| ประเภทตามนโยบาย | ตราสารทุน |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | ไม่มีความเสี่ยงต่างประเทศ |
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| main | - | - | - |
+
+## 3. นโยบายการลงทุน
+
+กองทุนมีนโยบายลงทุนในหุ้นสามัญของบริษัทจดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย และ/หรือ MAI ตราสารทุน หรือสัญญาซื้อขายล่วงหน้า (Derivatives) ที่อ้างอิงกับผลตอบแทนของหุ้นหรือกลุ่มหุ้นของบริษัทจดทะเบียน ซึ่งเป็นไปตามหลักเกณฑ์การคัดเลือกหลักทรัพย์ที่ผู้จัดการกองทุนได้กำหนดไว้ในสัดส่วนที่เหมาะสม โดยกองทุนจะมีการลงทุนที่ส่งผลให้มี net exposure ในตราสารทุนข้างต้นโดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน
+ในส่วนที่เหลือ กองทุนอาจลงทุนในตราสารแห่งหนี้ ตราสารกึ่งหนี้กึ่งทุน เงินฝาก หน่วยลงทุนของกองทุน เช่น หน่วยลงทุนของกองทุนรวม กองทุนรวมอสังหาริมทรัพย์ หน่วยทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (REITs) กองทุนรวมโครงสร้างพื้นฐาน และ/หรือกองทุนรวมอีทีเอฟ (ETF) เป็นต้น รวมถึงกองทุนอาจทำธุรกรรมการให้ยืมหลักทรัพย์ หรือธุรกรรมการซื้อโดยมีสัญญาขายคืน (Reverse Repo) หรือธุรกรรมการขายโดยมีสัญญาซื้อคืน รวมทั้งอาจลงทุนในหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นอย่างใดอย่างหนึ่ง หรือหลายอย่างได้ตามที่สำนักงานคณะกรรมการ ก.ล.ต. กำหนดหรือให้ความเห็นชอบ
+กองทุนอาจลงทุนหรือมีไว้ซึ่งตราสารที่มีลักษณะของสัญญาซื้อขายล่วงหน้าแฝง (Structured Note) อีกทั้งอาจลงทุนในสัญญาซื้อขายล่วงหน้าเพื่อลดความเสี่ยง (Hedging) หรือทำสัญญาซื้อขายล่วงหน้า (Derivatives) เพื่อเพิ่มประสิทธิภาพในการบริหารกองทุน (Efficient portfolio management)* เช่น การทำสัญญาสวอป และหรือสัญญาฟอร์เวิร์ดที่อ้างอิงกับราคาตราสาร / ราคาดอกเบี้ย หรือตามที่สำนักงานคณะกรรมการ ก.ล.ต. ประกาศกำหนด เช่น กองทุนรวมอาจเข้าลงทุนในสัญญาซื้อขายล่วงหน้า (Futures) แทนการลงทุนโดยตรงในหุ้นสามัญ ให้เหมาะสมกับสภาวการณ์ในแต่ละขณะ หรือกองทุนรวมอาจเข้าลงทุนในสัญญาขายตราสารล่วงหน้า (Forward Contract) เพื่อลดอายุ Portfolio Duration
+นอกจากนี้ กองทุนอาจลงทุนในตราสารหนี้ที่มีอันดับความน่าเชื่อถือต่ำกว่าที่สามารถลงทุนได้ (Non-investment grade) และตราสารหนี้ที่ไม่ได้รับการจัดอันดับความน่าเชื่อถือ (Unrated Securities) และตราสารทุนของบริษัทที่ไม่ได้จดทะเบียนในตลาดหลักทรัพย์ (Unlisted Securities) โดยเป็นไปตามหลักเกณฑ์ที่สำนักงานคณะกรรมการ ก.ล.ต. กำหนด
+หมายเหตุ * กองทุนจะสามารถลงทุนหรือมีไว้ในสัญญาซื้อขายล่วงหน้า (Derivatives) เพื่อเพิ่มประสิทธิภาพการบริหารการลงทุน (Efficient portfolio management) ได้เมื่อบริษัทจัดการได้รับอนุญาตให้เริ่มประกอบธุรกิจสัญญาซื้อขายล่วงหน้าประเภทการเป็นผู้จัดการเงินทุนสัญญาซื้อขายล่วงหน้า จากสำนักงานคณะกรรมการ ก.ล.ต. แล้ว
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 6 / 8** — 6 — ตราสารทุน
+
+> ลงทุนในตราสารทุนเป็นหลักโดยเฉลี่ยในรอบปีไม่น้อยกว่า 80% ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| main | -0.51 | -12.6 | 0.91 | -58.18% | - | 0.75 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `main` | ⚪ ไม่ระบุ | 2.29 | 3.85 | 2.14 | - | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 3.21 | 2.14 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 3 | 0 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 3 | 0 |
+| main | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 100 | 100 |
+| main | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 3 | 0 |
+| main | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 3 | 0 |
+| main | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 3.85 | 2.29 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 3.21 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมทั้งหมด (Total Fee) | 3.852 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| main | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.1284 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| main | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.107 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 0.4066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+
+## 6. ผลการดำเนินงาน
+
+### Class `main`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 19.43 | 33.73 | 33.73 | 40.42 | -6.53 | -5.3 | -1.86 | -22.73 | -15.37 | -19.4 | -3.35 | 31.95 |
+| ผลตอบแทนตัวชี้วัด | 11.47 | 30.31 | 30.31 | 52.9 | 6.07 | 3.65 | 3.96 | - | - | - | - | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 10.39 | 24.08 | 24.08 | 39.45 | 1.52 | 0.48 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 15.86 | 19.18 | 19.18 | 16.04 | 16.49 | 16.39 | 17.21 | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 15.23 | 20.38 | 20.38 | 17.84 | 15.48 | 13.93 | 15.21 | - | - | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| สินทรัพย์อื่นหรือหนี้สินอื่น | -0.22 |
+| เงินฝากธนาคาร | 12.58 |
+| หุ้นสามัญ | 87.65 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | ธนาคารกสิกรไทย จำกัด (มหาชน) | 7.78 |
+| 2 | บริษัท กัลฟ์ เอ็นเนอร์จี ดีเวลลอปเมนท์ จำกัด (มหาชน) | 7.47 |
+| 3 | ธนาคารกรุงไทย จำกัด (มหาชน) | 7.33 |
+| 4 | ธนาคารกรุงเทพ จำกัด (มหาชน) | 7.1 |
+| 5 | บริษัท ดับบลิวเอชเอ ยูทิลิตี้ส์ แอนด์ พาวเวอร์ จำกัด (มหาชน) | 6.62 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 48,589, | 91.6903 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 3,353,353 | 6.328 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | 1,050,171 | 1.9817 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **22** รายการ จากผู้ออก 21 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **52,085,334** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **69.67% ของ NAV** (คิดเป็น 69.5% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/Bangkok Bank Plc\|Bangkok Bank Plc.]] <br><sub>`TLEQ-SELECT_THB`</sub> | BANGKOK BANK PUBLIC COMPANY LIMITED | เงินฝากธนาคารประเภทออมทรัพย์ | - | 6,549,768 | 12.5751 |
+| 2 | [[../Entities/KASIKORNBANK PUBLIC COMPANY LIMITED (TH0016010009)\|KASIKORNBANK PUBLIC COMPANY LIMITED]] <br><sub>`KBANK`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0016010009 | 4,054,8 | 7.7849 |
+| 3 | [[../Entities/GULF DEVELOPMENT PUBLIC COMPANY LIMITED\|GULF DEVELOPMENT PUBLIC COMPANY LIMITED]] <br><sub>`GULF`</sub> | GULF DEVELOPMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC903010005 | 3,892,95 | 7.4742 |
+| 4 | [[../Entities/KRUNG THAI BANK PUBLIC COMPANY LIMITED\|KRUNG THAI BANK PUBLIC COMPANY LIMITED]] <br><sub>`KTB`</sub> | KRUNG THAI BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0150010Z03 | 3,819, | 7.3322 |
+| 5 | [[../Entities/BANGKOK BANK PUBLIC COMPANY LIMITED\|BANGKOK BANK PUBLIC COMPANY LIMITED]] <br><sub>`BBL`</sub> | BANGKOK BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0001010006 | 3,697,7 | 7.0993 |
+| 6 | [[../Entities/WHA UTILITIES AND POWER PUBLIC COMPANY LIMITED\|WHA UTILITIES AND POWER PUBLIC COMPANY LIMITED]] <br><sub>`WHAUP`</sub> | WHA UTILITIES AND POWER PUBLIC COMPANY L | หุ้นสามัญ | TH7846010Z09 | 3,447,36 | 6.6187 |
+| 7 | [[../Entities/i-Tail Corporation Public Company Limited\|i-Tail Corporation Public Company Limited]] <br><sub>`ITC`</sub> | i-Tail Corporation Public Company Limite | หุ้นสามัญ | THB056010002 | 3,050,95 | 5.8576 |
+| 8 | [[../Entities/ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED\|ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED]] <br><sub>`ADVANC`</sub> | ADVANCED INFO SERVICE PUBLIC COMPANY LIM | หุ้นสามัญ | TH0268010Z03 | 2,936, | 5.6369 |
+| 9 | [[../Entities/COM7 PUBLIC COMPANY LIMITED\|COM7 PUBLIC COMPANY LIMITED]] <br><sub>`COM7`</sub> | COM7 PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6678010005 | 2,547,45 | 4.8909 |
+| 10 | [[../Entities/CAL-COMP ELECTRONICS (THAILAND) PUBLIC CO., LTD\|CAL-COMP ELECTRONICS (THAILAND) PUBLIC CO., LTD.]] <br><sub>`CCET`</sub> | CAL-COMP ELECTRONICS (THAILAND) PUBLIC C | หุ้นสามัญ | TH0639010Z05 | 2,292,3 | 4.401 |
+| 11 | [[../Entities/CENTRAL PATTANA PUBLIC COMPANY LIMITED\|CENTRAL PATTANA PUBLIC COMPANY LIMITED]] <br><sub>`CPN`</sub> | CENTRAL PATTANA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0481B10Z00 | 2,043,5 | 3.9234 |
+| 12 | [[../Entities/CP ALL PUBLIC COMPANY LIMITED\|CP ALL PUBLIC COMPANY LIMITED]] <br><sub>`CPALL`</sub> | CP ALL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0737010Y08 | 2,028,95 | 3.8954 |
+| 13 | [[../Entities/KCE ELECTRONICS PUBLIC COMPANY LIMITED\|KCE ELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`KCE`</sub> | KCE ELECTRONICS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0122C10Z04 | 1,899,625 | 3.6471 |
+| 14 | [[../Entities/MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED\|MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED]] <br><sub>`MTC`</sub> | MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6068010Y02 | 1,896,3 | 3.6408 |
+| 15 | [[../Entities/MR. D.I.Y. HOLDING (THAILAND) PUBLIC COMPANY LIMITED\|MR. D.I.Y. HOLDING (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`MRDIYT`</sub> | MR. D.I.Y. HOLDING (THAILAND) PUBLIC COM | หุ้นสามัญ | THD365010004 | 1,865,38 | 3.5814 |
+| 16 | [[../Entities/Moshi Moshi Retail Corporation Public Company Limited\|Moshi Moshi Retail Corporation Public Company Limited]] <br><sub>`MOSHI`</sub> | Moshi Moshi Retail Corporation Public Co | หุ้นสามัญ | THB131010001 | 1,555,3 | 2.9861 |
+| 17 | [[../Entities/CH. KARNCHANG PUBLIC COMPANY LIMITED\|CH. KARNCHANG PUBLIC COMPANY LIMITED]] <br><sub>`CK`</sub> | CH. KARNCHANG PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0530010Z06 | 1,317,12 | 2.5288 |
+| 18 | [[../Entities/TIDLOR HOLDINGS PUBLIC COMPANY LIMITED\|TIDLOR HOLDINGS PUBLIC COMPANY LIMITED]] <br><sub>`TIDLOR`</sub> | TIDLOR HOLDINGS PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC997010002 | 1,077,24 | 2.0682 |
+| 19 | [[../Entities/DUSIT THANI PUBLIC COMPANY LIMITED\|DUSIT THANI PUBLIC COMPANY LIMITED]] <br><sub>`DUSIT`</sub> | DUSIT THANI PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0007A10Z06 | 791,84 | 1.5203 |
+| 20 | [[../Entities/FORTH CORPORATION PUBLIC COMPANY LIMITED\|FORTH CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`FORTH`</sub> | FORTH CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0920010Z09 | 562,48 | 1.0799 |
+| 21 | [[../Entities/WHA CORPORATION PUBLIC COMPANY LIMITED\|WHA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`WHA`</sub> | WHA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH3871010Z01 | 501,095 | 0.9621 |
+| 22 | [[../Entities/PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED\|PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED]] <br><sub>`PTTEP`</sub> | PTT EXPLORATION AND PRODUCTION PUBLIC CO | หุ้นสามัญ | TH0355A10Z04 | 375,2 | 0.7204 |
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| main | 2026-08-26 | 8.8368 | 8.8369 | 8.8368 | 52,913,232 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| main | ไม่จ่ายเงินปันผล |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล |
+|---|---|---|---|---|---|
+| main | 2026-06-30 | 1000.0 | THB | 1000.0 | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | ระยะเวลารับเงิน |
+|---|---|---|---|---|
+| main | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | T+3 คือ3 วันทำการหลังจากวันทำรายการขายคืน |
+| main | 2026-06-30 | การซื้อ (subscription) | ทุกวันทำการ | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน ทาลิส จำกัด |
+| T | บริษัทหลักทรัพย์จัดการกองทุน ทาลิส จำกัด |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - TLEQ-SELECT]]
+
+- class `main` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0585_2559.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน ทาลิส จำกัด]]
+- กองประเภทเดียวกัน: [[ตราสารทุน]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 6]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

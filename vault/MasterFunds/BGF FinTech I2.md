@@ -1,0 +1,108 @@
+---
+title: "BGF FinTech I2"
+master_key: "LU1861217245"
+isin: "LU1861217245"
+quote_type: "MUTUALFUND"
+category: "Sector Equity Technology"
+domicile: "Luxembourg"
+currency: "USD"
+ongoing_charge: "0.74%"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data]
+---
+
+# 🌐 BGF FinTech I2
+
+**ISIN:** `LU1861217245` · **Ticker:** `0P0001EI7S`
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | BGF FinTech I2 |
+| ISIN | `LU1861217245` |
+| ประเภท | กองทุนรวม (ไม่ได้จดทะเบียนซื้อขาย) |
+| โครงสร้างทางกฎหมาย | SICAV |
+| ประเทศจดทะเบียน | Luxembourg |
+| หมวด (Morningstar) | Sector Equity Technology |
+| ผู้จัดการกองทุน | Vasco Moreno (เริ่ม 04 Sep 2018) |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2019-04-24 |
+| นโยบายปันผล | Accumulation |
+| สไตล์การลงทุน | Market Cap: Mid |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (FT) | 97.89m GBP |
+| **ค่าธรรมเนียมรวมต่อปี (OCF/TER)** | **0.74%** |
+
+> [!IMPORTANT]
+> ค่าธรรมเนียมนี้เป็นของ **กองทุนหลัก** ผู้ลงทุนไทยจ่าย**ซ้อนกับ**ค่าธรรมเนียมของกองไทยอีกชั้น
+> ดู [[../Concepts/ค่าธรรมเนียมกองทุนรวม|ค่าธรรมเนียมกองทุนรวม]]
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| YTD | -2.98% |
+| 1 ปี (FT) | -12.26% |
+| Beta (3 ปี) | 0.72 |
+| Morningstar rating | ★ |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 99.76% |
+| เงินสด | 0.23% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| การเงิน | 52.88% |
+| เทคโนโลยี | 36.57% |
+| สินค้าฟุ่มเฟือย | 5.99% |
+| อุตสาหกรรม | 4.56% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | Global Payments Inc | `GPN` | 4.55% |
+| 2 | Etoro Group Ltd Ordinary Shares - Class A | `ETOR` | 4.13% |
+| 3 | Capital One Financial Corp | `COF` | 4.04% |
+| 4 | Sezzle Inc | `SEZL` | 3.95% |
+| 5 | Nexi SpA | `NEXI.MI` | 3.73% |
+| 6 | Affirm Holdings Inc Ordinary Shares - Class A | `AFRM` | 3.72% |
+| 7 | LendingClub Corp | `HAPN` | 3.52% |
+| 8 | Block Inc Class A | `XYZ` | 3.22% |
+| 9 | MercadoLibre Inc | `MELI` | 3.11% |
+| 10 | Kaspi.kz JSC ADS | `KSPI` | 3.10% |
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[TFINTECH]] | [[บริษัทหลักทรัพย์จัดการกองทุน ทิสโก้]] | ตราสารทุน | 6 | 97.89% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `0P0001EI7S`)
+- **FT.com** — ค่าธรรมเนียม ขนาดกองทุน domicile ผู้จัดการ ([tearsheet](https://markets.ft.com/data/funds/tearsheet/summary?s=LU1861217245:USD))
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

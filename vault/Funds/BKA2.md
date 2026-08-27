@@ -1,0 +1,309 @@
+---
+title: "BKA2"
+proj_id: M0024_2537
+regis_id: "012_2537"
+abbr: "BKA2"
+name_th: "กองทุนเปิดบัวแก้ว 2"
+name_en: "Buakaew 2 Open-end Fund"
+amc: "บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด"
+amc_id: "C0000000329"
+policy: "ตราสารทุน"
+risk_spectrum: "6"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "3"
+init_date: "1994-02-03"
+regis_date: "1994-03-04"
+class_count: 1
+has_factsheet: true
+ter_retail: 1.78
+perf_1y: 32.22
+nav: 39.92
+nav_date: "2026-08-26"
+fund_size: 555985929.49
+holdings_count: 36
+top10_pct_nav: 67.11
+peer_group: "Equity Large Cap"
+tags: [fund, sec-data, policy/equity, risk/6, active]
+---
+
+# BKA2
+
+**กองทุนเปิดบัวแก้ว 2**  
+_Buakaew 2 Open-end Fund_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุนรวม บัวหลวง จำกัด]] · นโยบาย [[ตราสารทุน]] · ความเสี่ยงระดับ **6**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0024_2537`
+> - **ประเภท:** ตราสารทุน · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** ไม่มีความเสี่ยงต่างประเทศ
+> - **จัดตั้ง:** 1994-02-03 · **จดทะเบียน:** 1994-03-04
+> - **ชนิดหน่วยลงทุน:** 1 class
+> - **NAV 39.92 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0024_2537` |
+| เลขที่จดทะเบียน (regis_id) | 012_2537 |
+| ชื่อย่อ | BKA2 |
+| ชื่อไทย | กองทุนเปิดบัวแก้ว 2 |
+| ชื่ออังกฤษ | Buakaew 2 Open-end Fund |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุนรวม บัวหลวง จำกัด]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 1994-02-03 |
+| วันจดทะเบียน | 1994-03-04 |
+| ประเภทตามนโยบาย | ตราสารทุน |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | ไม่มีความเสี่ยงต่างประเทศ |
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| main | - | - | - |
+
+## 3. นโยบายการลงทุน
+
+กองทุนเน้นการลงทุนระยะปานกลางและระยะยาวในหลักทรัพย์ของบริษัทที่มีแนวโน้มการเติบโตทางธุรกิจสูงหรือมีปัจจัยพื้นฐานดี โดยจะลงทุนในหรือมีไว้ซึ่งตราสารทุนโดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน 
+
+ส่วนที่เหลือจะลงทุนในตราสารหนี้ เงินฝาก หรือหลักทรัพย์หรือทรัพย์สินอื่นหรือการหาดอกผลโดยวิธีอื่นตามที่สำนักงาน ก.ล.ต. กำหนดหรือให้ความเห็นชอบ 
+
+ทั้งนี้ กองทุนจะไม่ลงทุนในสัญญาซื้อขายล่วงหน้า (Derivatives) และตราสารที่มีลักษณะของสัญญาซื้อขายล่วงหน้าแฝง (Structured Note)
+
+อนึ่ง อาจมีบางขณะที่ไม่สามารถลงทุนให้เป็นไปตามสัดส่วนการลงทุนที่กำหนดไว้ในโครงการด้วยเหตุภาวะสงคราม วิกฤตทางเศรษฐกิจที่มีนัยสำคัญต่อการลงทุนในตลาดหลักทรัพย์แห่งประเทศไทย และราคาตลาดลดลงอย่างรุนแรงในรอบปีบัญชี บริษัทจัดการจะรายงานการไม่สามารถลงทุนในหรือมีไว้ซึ่งหลักทรัพย์ให้เป็นไปตามสัดส่วนดังกล่าวข้างต้นให้ผู้ลงทุนทราบผ่านช่องทางที่เหมาะสม
+
+ทั้งนี้ ในการคำนวณสัดส่วนการลงทุนของกองทุนรวมตามการจัดแบ่งประเภทของกองทุน บริษัทจัดการอาจไม่นับช่วงระยะเวลา 30 วันนับแต่วันที่จดทะเบียนเป็นกองทุนรวม และ/หรือช่วงระยะเวลา 30 วันก่อนเลิกกองทุน และ/หรือช่วงระยะเวลาที่ต้องใช้ในการจำหน่ายทรัพย์สินของกองทุนเนื่องจากได้รับคำสั่งขายคืน หรือสับเปลี่ยนหน่วยลงทุน หรือเพื่อรอการลงทุน ซึ่งมีระยะเวลาไม่เกินกว่า 10 วันทำการ โดยต้องคำนึงถึงประโยชน์ของผู้ลงทุนเป็นสำคัญ
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 6 / 8** — 6 — ตราสารทุน
+
+> ลงทุนในตราสารทุนเป็นหลัก โดยเฉลี่ยรอบปีบัญชีไม่น้อยกว่า 80% ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| main | 0.16 | -1.51 | 1 | -32.20% | - | 0.68 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `main` | ⚪ ไม่ระบุ | 1.78 | 2.32 | 1.61 | - | 1 |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| main | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 2.32 | 1.78 |
+| main | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 50 | 50 |
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.61 | 1.61 |
+| main | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 1 | 1 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 0 | 0 |
+| main | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 1 | 0 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 0 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.605 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมทั้งหมด (Total Fee) | 2.323 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.1284 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| main | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.0428 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 0.5468 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+
+## 6. ผลการดำเนินงาน
+
+### Class `main`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 7.82 | 24.67 | 30.5 | 32.22 | 4.04 | 3.89 | 2.21 | 4.4 | -7.97 | 0.32 | -12.74 | 5.4 | 15.46 |
+| ผลตอบแทนตัวชี้วัด | 9.15 | 26.36 | 32.98 | 36.82 | 5.55 | 4.95 | 4.03 | - | -5.99 | 2.33 | -12.66 | - | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 12.12 | 25.97 | 31.29 | 34.17 | 4.85 | 4.38 | 2.64 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 14.92 | 18.86 | 18.08 | 16.05 | 14.52 | 13.13 | 13.98 | 20.9 | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 15.46 | 20.16 | 19.63 | 17.4 | 15.57 | 13.95 | 15.28 | - | - | - | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| หุ้นสามัญ | 97.7 |
+| เงินฝากธนาคาร | 0.93 |
+| ทรัพย์สินอื่นและหนี้สินอื่น | 1.37 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | หุ้นสามัญ บริษัทเดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด (มหาชน) | 13.28 |
+| 2 | หุ้นสามัญ บริษัท ปตท. จำกัด (มหาชน) | 7.82 |
+| 3 | หุ้นสามัญ บริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน) | 7.57 |
+| 4 | หุ้นสามัญ ธนาคารกสิกรไทย จำกัด (มหาชน) | 6.78 |
+| 5 | หุ้นสามัญ บริษัท แอดวานซ์ อินโฟร์ เซอร์วิส จำกัด (มหาชน) | 6.68 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 561,559,504 | 97.6979 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | 13,232,51 | 2.3021 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **36** รายการ จากผู้ออก 36 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **598,440,141** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **67.11% ของ NAV** (คิดเป็น 68.9% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED\|DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`DELTA`</sub> | DELTA ELECTRONICS (THAILAND) PUBLIC COMP | หุ้นสามัญ | TH0528A10Z06 | 120,607,5 | 20.1536 |
+| 2 | [[../Entities/PTT PUBLIC COMPANY LIMITED\|PTT PUBLIC COMPANY LIMITED]] <br><sub>`PTT`</sub> | PTT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0646010Z00 | 41,456,9 | 6.9275 |
+| 3 | [[../Entities/GULF DEVELOPMENT PUBLIC COMPANY LIMITED\|GULF DEVELOPMENT PUBLIC COMPANY LIMITED]] <br><sub>`GULF`</sub> | GULF DEVELOPMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC903010005 | 38,529,75 | 6.4384 |
+| 4 | [[../Entities/AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED\|AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED]] <br><sub>`AOT`</sub> | AIRPORTS OF THAILAND PUBLIC COMPANY LIMI | หุ้นสามัญ | TH0765010Z08 | 38,254,45 | 6.3924 |
+| 5 | [[../Entities/ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED\|ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED]] <br><sub>`ADVANC`</sub> | ADVANCED INFO SERVICE PUBLIC COMPANY LIM | หุ้นสามัญ | TH0268010Z03 | 37,103,7 | 6.2001 |
+| 6 | [[../Entities/KASIKORNBANK PUBLIC COMPANY LIMITED (TH0016010009)\|KASIKORNBANK PUBLIC COMPANY LIMITED]] <br><sub>`KBANK`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0016010009 | 32,176,8 | 5.3768 |
+| 7 | [[../Entities/KRUNG THAI BANK PUBLIC COMPANY LIMITED\|KRUNG THAI BANK PUBLIC COMPANY LIMITED]] <br><sub>`KTB`</sub> | KRUNG THAI BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0150010Z03 | 29,484,2 | 4.9268 |
+| 8 | [[../Entities/THE SIAM CEMENT PUBLIC COMPANY LIMITED\|THE SIAM CEMENT PUBLIC COMPANY LIMITED]] <br><sub>`SCC`</sub> | THE SIAM CEMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0003010Z04 | 24,692,8 | 4.1262 |
+| 9 | [[../Entities/SCB X PUBLIC COMPANY LIMITED\|SCB X PUBLIC COMPANY LIMITED]] <br><sub>`SCB`</sub> | SCB X PUBLIC COMPANY LIMITED | หุ้นสามัญ | THA790010005 | 22,895,6 | 3.8259 |
+| 10 | [[../Entities/TMBTHANACHART BANK PUBLIC COMPANY LIMITED\|TMBTHANACHART BANK PUBLIC COMPANY LIMITED]] <br><sub>`TTB`</sub> | TMBTHANACHART BANK PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH0068010Z07 | 16,440,426 | 2.7472 |
+| 11 | [[../Entities/CP ALL PUBLIC COMPANY LIMITED\|CP ALL PUBLIC COMPANY LIMITED]] <br><sub>`CPALL`</sub> | CP ALL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0737010Y08 | 14,754,3 | 2.4655 |
+| 12 | [[../Entities/PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED\|PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED]] <br><sub>`PTTEP`</sub> | PTT EXPLORATION AND PRODUCTION PUBLIC CO | หุ้นสามัญ | TH0355A10Z04 | 13,815,4 | 2.3086 |
+| 13 | [[../Entities/BANGKOK BANK PUBLIC COMPANY LIMITED\|BANGKOK BANK PUBLIC COMPANY LIMITED]] <br><sub>`BBL`</sub> | BANGKOK BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0001010006 | 12,529,1 | 2.0936 |
+| 14 | [[../Entities/TRUE CORPORATION PUBLIC COMPANY LIMITED\|TRUE CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`TRUE`</sub> | TRUE CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | THB231010000 | 11,434,56 | 1.9107 |
+| 15 | [[../Entities/BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED\|BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED]] <br><sub>`BDMS`</sub> | BANGKOK DUSIT MEDICAL SERVICES PUBLIC CO | หุ้นสามัญ | TH0264A10Z04 | 11,359,98 | 1.8983 |
+| 16 | [[../Entities/MINOR INTERNATIONAL PUBLIC COMPANY LIMITED\|MINOR INTERNATIONAL PUBLIC COMPANY LIMITED]] <br><sub>`MINT`</sub> | MINOR INTERNATIONAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0128B10Z09 | 10,275,2 | 1.717 |
+| 17 | [[../Entities/BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED\|BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED]] <br><sub>`BH`</sub> | BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0168A10Z01 | 10,001,6 | 1.6713 |
+| 18 | [[../Entities/CENTRAL PATTANA PUBLIC COMPANY LIMITED\|CENTRAL PATTANA PUBLIC COMPANY LIMITED]] <br><sub>`CPN`</sub> | CENTRAL PATTANA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0481B10Z00 | 9,983, | 1.6682 |
+| 19 | [[../Entities/ELECTRICITY GENERATING PUBLIC COMPANY LIMITED\|ELECTRICITY GENERATING PUBLIC COMPANY LIMITED]] <br><sub>`EGCO`</sub> | ELECTRICITY GENERATING PUBLIC COMPANY LI | หุ้นสามัญ | TH0465010005 | 8,040, | 1.3435 |
+| 20 | [[../Entities/CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED\|CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`CRC`</sub> | CENTRAL RETAIL CORPORATION PUBLIC COMPAN | หุ้นสามัญ | TH9597010007 | 6,925,45 | 1.1572 |
+| 21 | [[../Entities/KRUNGTHAI CARD PUBLIC COMPANY LIMITED\|KRUNGTHAI CARD PUBLIC COMPANY LIMITED]] <br><sub>`KTC`</sub> | KRUNGTHAI CARD PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0689010Z00 | 6,882,75 | 1.1501 |
+| 22 | [[../Entities/PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED\|PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED]] <br><sub>`PTTGC`</sub> | PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH1074010006 | 6,847,4 | 1.1442 |
+| 23 | [[../Entities/TISCO FINANCIAL GROUP PUBLIC COMPANY LIMITED\|TISCO FINANCIAL GROUP PUBLIC COMPANY LIMITED]] <br><sub>`TISCO`</sub> | TISCO FINANCIAL GROUP PUBLIC COMPANY LIM | หุ้นสามัญ | TH0999010Z03 | 6,678,8 | 1.116 |
+| 24 | [[../Entities/THAI LIFE INSURANCE PUBLIC COMPANY LIMITED\|THAI LIFE INSURANCE PUBLIC COMPANY LIMITED]] <br><sub>`TLI`</sub> | THAI LIFE INSURANCE PUBLIC COMPANY LIMIT | หุ้นสามัญ | THA848010007 | 6,587,2 | 1.1007 |
+| 25 | [[../Entities/TIDLOR HOLDINGS PUBLIC COMPANY LIMITED\|TIDLOR HOLDINGS PUBLIC COMPANY LIMITED]] <br><sub>`TIDLOR`</sub> | TIDLOR HOLDINGS PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC997010002 | 6,260,98 | 1.0462 |
+
+<details><summary>ดูอีก 11 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/WHA CORPORATION PUBLIC COMPANY LIMITED\|WHA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`WHA`</sub> | WHA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH3871010Z01 | 6,254,16 | 1.0451 |
+| 27 | [[../Entities/RATCH GROUP PUBLIC COMPANY LIMITED\|RATCH GROUP PUBLIC COMPANY LIMITED]] <br><sub>`RATCH`</sub> | RATCH GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0637010Y00 | 5,490,45 | 0.9175 |
+| 28 | [[../Entities/THAI AIRWAYS INTERNATIONAL PUBLIC COMPANY LIMITED\|THAI AIRWAYS INTERNATIONAL PUBLIC COMPANY LIMITED]] <br><sub>`THAI`</sub> | THAI AIRWAYS INTERNATIONAL PUBLIC COMPAN | หุ้นสามัญ | TH0245010002 | 5,405,12 | 0.9032 |
+| 29 | [[../Entities/ASSET WORLD CORP PUBLIC COMPANY LIMITED\|ASSET WORLD CORP PUBLIC COMPANY LIMITED]] <br><sub>`AWC`</sub> | ASSET WORLD CORP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH9436010002 | 4,746,012 | 0.7931 |
+| 30 | [[../Entities/BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED\|BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED]] <br><sub>`BEM`</sub> | BANGKOK EXPRESSWAY AND METRO PUBLIC COMP | หุ้นสามัญ | TH6999010007 | 3,989,7 | 0.6667 |
+| 31 | [[../Entities/SIAM GLOBAL HOUSE PUBLIC COMPANY LIMITED\|SIAM GLOBAL HOUSE PUBLIC COMPANY LIMITED]] <br><sub>`GLOBAL`</sub> | SIAM GLOBAL HOUSE PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0991010008 | 3,133,23 | 0.5236 |
+| 32 | [[../Entities/STECON GROUP PUBLIC COMPANY LIMITED\|STECON GROUP PUBLIC COMPANY LIMITED]] <br><sub>`STECON`</sub> | STECON GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC381010006 | 2,784,6 | 0.4653 |
+| 33 | [[../Entities/GLOBAL POWER SYNERGY PUBLIC COMPANY LIMITED\|GLOBAL POWER SYNERGY PUBLIC COMPANY LIMITED]] <br><sub>`GPSC`</sub> | GLOBAL POWER SYNERGY PUBLIC COMPANY LIMI | หุ้นสามัญ | TH6488010005 | 2,349,6 | 0.3926 |
+| 34 | [[../Entities/BANGKOK LIFE ASSURANCE PUBLIC COMPANY LIMITED\|BANGKOK LIFE ASSURANCE PUBLIC COMPANY LIMITED]] <br><sub>`BLA`</sub> | BANGKOK LIFE ASSURANCE PUBLIC COMPANY LI | หุ้นสามัญ | TH1016010007 | 2,255,11 | 0.3768 |
+| 35 | [[../Entities/STAR PETROLEUM REFINING PUBLIC COMPANY LIMITED\|STAR PETROLEUM REFINING PUBLIC COMPANY LIMITED]] <br><sub>`SPRC`</sub> | STAR PETROLEUM REFINING PUBLIC COMPANY L | หุ้นสามัญ | TH6838010002 | 1,924,32 | 0.3216 |
+| 36 | [[../Entities/AP (THAILAND) PUBLIC COMPANY LIMITED\|AP (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`AP`</sub> | AP (THAILAND) PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0308010Y08 | 787,465 | 0.1316 |
+
+</details>
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในกลุ่มอุตสาหกรรม**
+
+| กลุ่มอุตสาหกรรม | % NAV |
+|---|---|
+| ธนาคาร | 23.89 |
+| พลังงานและสาธารณูปโภค | 20.38 |
+| ชิ้นส่วนอิเลคโทรนิคส์ | 13.28 |
+| เทคโนโลยีสารสนเทศและการสื่อสาร | 8.9 |
+| ขนส่งและโลจิสติกส์ | 7.36 |
+
+**การจัดสรรตามอันดับความน่าเชื่อถือ**
+
+| อันดับ | % NAV |
+|---|---|
+| - | 3 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - BKA2]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| main | 2026-08-26 | 39.92 | 39.9201 | 39.5208 | 555,985,929 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| main | ไม่จ่ายเงินปันผล |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล |
+|---|---|---|---|---|---|
+| main | 2026-07-31 | 500.0 | THB | 500.0 | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | ระยะเวลารับเงิน |
+|---|---|---|---|---|
+| main | 2026-07-31 | การขายคืน (redemption) | ทุกวันทำการ | T+2 คือ2 วันทำการหลังจากวันทำรายการขายคืน |
+| main | 2026-07-31 | การซื้อ (subscription) | ทุกวันทำการ | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุนรวม บัวหลวง จำกัด |
+| T | บริษัทหลักทรัพย์จัดการกองทุนรวม บัวหลวง จำกัด |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - BKA2]]
+
+- class `main` (ณ 2026-07-31) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0024_2537.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุนรวม บัวหลวง จำกัด]]
+- กองประเภทเดียวกัน: [[ตราสารทุน]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 6]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

@@ -1,0 +1,323 @@
+---
+title: "LHTHAIEQ"
+proj_id: M0582_2560
+regis_id: "MF0476_2560"
+abbr: "LHTHAIEQ"
+name_th: "กองทุนเปิด แอล เอช ไทย อิควิตี้"
+name_en: "LH Thai Equity Fund"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด"
+amc_id: "C0000006646"
+policy: "ตราสารทุน"
+risk_spectrum: null
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "3"
+init_date: "2017-11-02"
+regis_date: "2017-11-23"
+class_count: 2
+has_factsheet: true
+ter_retail: 2.412
+perf_1y: 34.8996079020015
+nav: 10.9681
+nav_date: "2026-08-26"
+fund_size: 21733261.3
+holdings_count: 31
+top10_pct_nav: 68.59
+tags: [fund, sec-data, policy/equity, active]
+---
+
+# LHTHAIEQ
+
+**กองทุนเปิด แอล เอช ไทย อิควิตี้**  
+_LH Thai Equity Fund_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด]] · นโยบาย [[ตราสารทุน]]
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0582_2560`
+> - **ประเภท:** ตราสารทุน · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** ไม่มีความเสี่ยงต่างประเทศ
+> - **จัดตั้ง:** 2017-11-02 · **จดทะเบียน:** 2017-11-23
+> - **ชนิดหน่วยลงทุน:** 2 class
+> - **NAV 10.9681 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0582_2560` |
+| เลขที่จดทะเบียน (regis_id) | MF0476_2560 |
+| ชื่อย่อ | LHTHAIEQ |
+| ชื่อไทย | กองทุนเปิด แอล เอช ไทย อิควิตี้ |
+| ชื่ออังกฤษ | LH Thai Equity Fund |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2017-11-02 |
+| วันจดทะเบียน | 2017-11-23 |
+| ประเภทตามนโยบาย | ตราสารทุน |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | ไม่มีความเสี่ยงต่างประเทศ |
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| LHTHAIEQ-A | TH8308D10004 | - | ชนิดสะสมมูลค่า |
+| LHTHAIEQ-D | TH8308C10006 | - | ชนิดจ่ายเงินปันผล |
+
+## 3. นโยบายการลงทุน
+
+กองทุนมีนโยบายลงทุนในตราสารทุน และ/หรือ กองทุนรวมอีทีเอฟ และ/หรือกองทุนรวมดัชนีที่อ้างอิงกับผลตอบแทนหุ้นหรือกลุ่มหุ้นของบริษัทจดทะเบียน หรือหุ้นสามัญของบริษัทจดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยและ/หรือตลาดหลักทรัพย์ เอ็ม เอ ไอ (mai) โดยจะเน้นการลงทุนในหลักทรัพย์ด้วยการสร้างกลุ่มหลักทรัพย์ที่ลงทุนให้มีความผันผวนต่ำเพื่อลดความผันผวนของการลงทุนโดยรวมของกองทุนให้อยู่ในระดับต่ำที่สุด โดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน
+ทั้งนี้ หลักเกณฑ์ในการพิจารณาหุ้นหรือหลักทรัพย์ที่มีความผันผวนต่ำอยู่ภายใต้เงื่อนไขที่บริษัทจัดการกำหนด อาทิเช่น หุ้นที่มีความเคลื่อนไหวของราคาเมื่อเทียบกับดัชนีตลาดหลักทรัพย์แห่งประเทศไทยค่อนข้างต่ำ (Low Beta) และ/หรือหุ้นที่มีความเสี่ยงจากการลงทุนค่อนข้างต่ำ (Low VaR) และ/หรือหุ้นที่มีอัตราการจ่ายเงินปันผลสูง และ/หรือมีอัตราการเติบโตของอัตราการจ่ายเงินปันผลสูง เป็นต้น
+บริษัทจัดการขอสงวนสิทธิที่จะเปลี่ยนแปลงหลักเกณฑ์ในการพิจารณาเลือกหลักทรัพย์กลุ่มดังกล่าวโดยไม่ถือว่าเป็นการดำเนินการผิดไปจากหนังสือชี้ชวนส่วนโครงการ ถือว่าได้รับความเห็นชอบจากผู้ถือหน่วยลงทุนแล้ว เพื่อความเหมาะสมกับสภาวการณ์นั้น ๆ ทั้งนี้ เพื่อบรรลุวัตถุประสงค์ของกองทุนคือลดความผันผวนของการลงทุนและเพื่อประโยชน์ของกองทุนโดยรวม
+เงินลงทุนส่วนที่เหลือ กองทุนอาจลงทุนในหน่วยลงทุนของกองทุนรวมอสังหาริมทรัพย์/หน่วยทรัสต์ของทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์/หน่วยลงทุนของกองทุนรวมโครงสร้างพื้นฐาน/ตราสารอื่นใดที่ให้สิทธิในการได้มาหรือที่มีผลตอบแทนอ้างอิงกับตราสารดังกล่าวข้างต้น หรือกลุ่มของตราสาร/หน่วยลงทุนดังกล่าวข้างต้น/ตราสารแห่งหนี้/เงินฝากธนาคาร/ตราสารกึ่งหนี้กึ่งทุน/ใบสำคัญแสดงสิทธิ หรือหน่วย private equity ตามประกาศสำนักงานคณะกรรมการ ก.ล.ต. รวมถึงหลักทรัพย์หรือทรัพย์สินอื่นหรือการหาดอกผลโดยวิธีอื่นตามที่ระบุไว้ในโครงการหรือตามที่คณะกรรมการ ก.ล.ต. หรือ สำนักงานคณะกรรมการ ก.ล.ต. ประกาศกำหนด 
+กองทุนอาจลงทุนหรือมีไว้ซึ่งสัญญาซื้อขายล่วงหน้า (Derivatives) เพื่อลดความเสี่ยง (Hedging) โดยเป็นไปตามหลักเกณฑ์หรือได้รับความเห็นชอบจากสำนักงานคณะกรรมการ ก.ล.ต. และอาจลงทุนในหรือมีไว้ซึ่งตราสารหนี้ที่มีอันดับความน่าเชื่อถือต่ำกว่าที่สามารถลงทุนได้ (non – investment grade) และ/หรือตราสารหนี้ที่ไม่ได้รับการจัดอันดับความน่าเชื่อถือ (Unrated) รวมทั้งตราสารทุนที่ไม่ได้จดทะเบียนในตลาดหลักทรัพย์ (Unlisted Securities) กองทุนจะไม่ลงทุนในหรือมีไว้ซึ่งตราสารที่มีลักษณะของสัญญาซื้อขายล่วงหน้าแฝง (Structured Note)
+ในกรณีที่คณะกรรมการ ก.ล.ต. หรือสํานักงานคณะกรรมการ ก.ล.ต. มีการแก้ไขเพิ่มเติมประกาศที่เกี่ยวข้องกับกฎเกณฑ์การลงทุนซึ่งกระทบกับนโยบายการลงทุนของกองทุนนี้ในภายหลัง รวมถึงกฎเกณฑ์การลงทุนในสัญญาซื้อขายล่วงหน้า (Derivatives) รวมถึง นโยบายการลงทุนอื่นใด บริษัทจัดการจะดําเนินการปรับนโยบายการลงทุนดังกล่าวเพื่อให้เป็นไปตามประกาศที่คณะกรรมการ ก.ล.ต. หรือสํานักงานคณะกรรมการ ก.ล.ต. กําหนด และให้ถือว่าได้รับความเห็นชอบจากผู้ถือหน่วยลงทุนแล้ว
+ในการคำนวณสัดส่วนการลงทุนของกองทุนรวมตามการจัดแบ่งประเภทกองทุนรวมจะไม่นับช่วงระยะเวลา ดังนี้
+1) ช่วงระยะเวลา 30 วันนับแต่วันที่จดทะเบียนเป็นกองทุนรวม
+2) ช่วงระยะเวลา 30 วันก่อนครบอายุโครงการหรือก่อนเลิกกองทุนรวม
+3) ช่วงระยะเวลาที่ต้องใช้ในการจำหน่ายทรัพย์สินของกองทุนเนื่องจากได้รับคำสั่งขายคืนหรือสับเปลี่ยนหน่วยลงทุน หรือมีการสิ้นสุดสมาชิกภาพ หรือมีการโอนย้ายกองทุนจำนวนมาก หรือเพื่อรอการลงทุน ทั้งนี้ ต้องไม่เกินกว่า 10 วันทำการ
+ทั้งนี้ การคำนวณสัดส่วนข้างต้นจะคำนึงถึงประโยชน์ของผู้ลงทุนเป็นสำคัญ
+
+## 4. ความเสี่ยง
+
+_ไม่มีข้อมูลระดับความเสี่ยงจาก API_
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| LHTHAIEQ-A | -0.2195 | -0.0608 | 0.8955 | -40.35% | - | 2.4916 | - |
+| LHTHAIEQ-D | -0.2204 | -0.061 | 0.8955 | -40.37% | - | 2.4916 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `LHTHAIEQ-A`<br><sub>ชนิดสะสมมูลค่า</sub> | 🟢 รายย่อยทั่วไป | 2.412 | 5 | 1.8 | - | - |
+| `LHTHAIEQ-D`<br><sub>ชนิดจ่ายเงินปันผล</sub> | 🟢 รายย่อยทั่วไป | 2.412 | 5 | 1.8 | - | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| LHTHAIEQ-A | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 2.5 | 0 |
+| LHTHAIEQ-A | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 2.5 | 0 |
+| LHTHAIEQ-D | ค่าธรรมเนียมการจัดการ (Management Fee) | 3 | 1.8 |
+| LHTHAIEQ-D | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 2.5 | 0 |
+| LHTHAIEQ-D | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 2.5 | 0 |
+| LHTHAIEQ-A | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 2.5 | 0 |
+| LHTHAIEQ-D | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 2.5 | 0 |
+| LHTHAIEQ-A | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2.5 | 0 |
+| LHTHAIEQ-A | ค่าธรรมเนียมการจัดการ (Management Fee) | 3 | 1.8 |
+| LHTHAIEQ-A | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 5 | 2.412 |
+| LHTHAIEQ-D | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 5 | 2.412 |
+| LHTHAIEQ-D | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2.5 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| LHTHAIEQ-A | ค่าธรรมเนียมการจัดการ (Management Fee) | 3 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนที่คำนวณได้เป็นรายวัน |
+| LHTHAIEQ-A | ค่าธรรมเนียมทั้งหมด (Total Fee) | 5 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| LHTHAIEQ-A | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| LHTHAIEQ-A | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.5 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนที่คำนวณได้เป็นรายวัน |
+| LHTHAIEQ-A | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| LHTHAIEQ-A | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.1 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนที่คำนวณได้เป็นรายวัน |
+| LHTHAIEQ-A | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.4 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| LHTHAIEQ-D | ค่าธรรมเนียมการจัดการ (Management Fee) | 3 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนที่คำนวณได้เป็นรายวัน |
+| LHTHAIEQ-D | ค่าธรรมเนียมทั้งหมด (Total Fee) | 5 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| LHTHAIEQ-D | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| LHTHAIEQ-D | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.5 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนที่คำนวณได้เป็นรายวัน |
+| LHTHAIEQ-D | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| LHTHAIEQ-D | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.1 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนที่คำนวณได้เป็นรายวัน |
+| LHTHAIEQ-D | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.4 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+
+## 6. ผลการดำเนินงาน
+
+### Class `LHTHAIEQ-A`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2021 | 2020 | 2019 | 2018 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 13.79 | 29.84 | 34.86 | 34.93 | -1.36 | 0.81 | 0 | 0.95 | 20.08 | -6.99 | 6.6 | -6.92 |
+| ผลตอบแทนตัวชี้วัด | 9.6 | 24.04 | 29.51 | 34.85 | 4.72 | 4.45 | - | 2.48 | - | - | - | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 12.5 | 24.63 | 29.6 | 31.13 | 2.08 | 2.02 | 1.41 | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 7.8 | 12.89 | 13.32 | 16.05 | 14.53 | 13.18 | - | 13.14 | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 6.52 | 12.78 | 13.36 | 15.91 | 14.96 | 13.55 | - | 15.75 | - | - | - | - |
+
+### Class `LHTHAIEQ-D`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2021 | 2020 | 2019 | 2018 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 13.78 | 29.81 | 34.83 | 34.9 | -1.37 | 0.79 | 0 | 0.94 | 20.06 | -6.98 | 6.57 | -6.92 |
+| ผลตอบแทนตัวชี้วัด | 9.6 | 24.04 | 29.51 | 34.85 | 4.72 | 4.45 | - | 2.48 | - | - | - | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 12.5 | 24.63 | 29.6 | 31.13 | 2.08 | 2.02 | 1.41 | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 7.8 | 12.89 | 13.32 | 16.05 | 14.53 | 13.18 | - | 13.14 | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 6.52 | 12.78 | 13.36 | 15.91 | 14.96 | 13.55 | - | 15.75 | - | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| เงินฝากธนาคาร | 4.2167 |
+| หุ้นสามัญ | 96.9569 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | หุ้นสามัญ บริษัท เดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด (มหาชน) | 14.9991 |
+| 2 | หุ้นสามัญ ธนาคาร กรุงไทย จำกัด (มหาชน) | 9.1676 |
+| 3 | หุ้นสามัญ ธนาคารเกียรตินาคิน จำกัด (มหาชน) | 7.401 |
+| 4 | หุ้นสามัญ ธนาคาร กสิกรไทย จำกัด (มหาชน) | 6.9563 |
+| 5 | หุ้นสามัญ บริษัท ปตท. จำกัด (มหาชน) | 6.9032 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 63,255,663 | 96.9569 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 2,751,042 | 4.2167 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | -765,668 | -1.1736 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **31** รายการ จากผู้ออก 31 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **64,200,848** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **68.59% ของ NAV** (คิดเป็น 68.3% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED\|DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`DELTA`</sub> | DELTA ELECTRONICS (THAILAND) PUBLIC COMP | หุ้นสามัญ | TH0528A10Z06 | 7,345, | 11.4407 |
+| 2 | [[../Entities/KRUNG THAI BANK PUBLIC COMPANY LIMITED\|KRUNG THAI BANK PUBLIC COMPANY LIMITED]] <br><sub>`KTB`</sub> | KRUNG THAI BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0150010Z03 | 6,443,432 | 10.0364 |
+| 3 | [[../Entities/KIATNAKIN PHATRA BANK PUBLIC COMPANY LIMITED\|KIATNAKIN PHATRA BANK PUBLIC COMPANY LIMITED]] <br><sub>`KKP`</sub> | KIATNAKIN PHATRA BANK PUBLIC COMPANY LIM | หุ้นสามัญ | TH0121010001 | 6,241,05 | 9.7211 |
+| 4 | [[../Entities/GULF DEVELOPMENT PUBLIC COMPANY LIMITED\|GULF DEVELOPMENT PUBLIC COMPANY LIMITED]] <br><sub>`GULF`</sub> | GULF DEVELOPMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC903010005 | 5,108,436 | 7.957 |
+| 5 | [[../Entities/PTT PUBLIC COMPANY LIMITED\|PTT PUBLIC COMPANY LIMITED]] <br><sub>`PTT`</sub> | PTT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0646010Z00 | 4,316,09 | 6.7228 |
+| 6 | [[../Entities/SCB X PUBLIC COMPANY LIMITED (เงินฝาก)\|SCB X PUBLIC COMPANY LIMITED]] <br><sub>`4300416997`</sub> | SCB X PUBLIC COMPANY LIMITED | เงินฝากธนาคารประเภทออมทรัพย์ | - | 3,187,646 | 4.9651 |
+| 7 | [[../Entities/KASIKORNBANK PUBLIC COMPANY LIMITED (TH0016010009)\|KASIKORNBANK PUBLIC COMPANY LIMITED]] <br><sub>`KBANK`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0016010009 | 3,095,6 | 4.8217 |
+| 8 | [[../Entities/COM7 PUBLIC COMPANY LIMITED\|COM7 PUBLIC COMPANY LIMITED]] <br><sub>`COM7`</sub> | COM7 PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6678010005 | 2,980,35 | 4.6422 |
+| 9 | [[../Entities/ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED\|ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED]] <br><sub>`ADVANC`</sub> | ADVANCED INFO SERVICE PUBLIC COMPANY LIM | หุ้นสามัญ | TH0268010Z03 | 2,898,566 | 4.5148 |
+| 10 | [[../Entities/TRUE CORPORATION PUBLIC COMPANY LIMITED\|TRUE CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`TRUE`</sub> | TRUE CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | THB231010000 | 2,417,46 | 3.7655 |
+| 11 | [[../Entities/HANA MICROELECTRONICS PUBLIC COMPANY LIMITED\|HANA MICROELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`HANA`</sub> | HANA MICROELECTRONICS PUBLIC COMPANY LIM | หุ้นสามัญ | TH0324B10Z01 | 2,230,8 | 3.4747 |
+| 12 | [[../Entities/SCG PACKAGING PUBLIC COMPANY LIMITED\|SCG PACKAGING PUBLIC COMPANY LIMITED]] <br><sub>`SCGP`</sub> | SCG PACKAGING PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0098010Y05 | 2,203,05 | 3.4315 |
+| 13 | [[../Entities/BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED\|BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED]] <br><sub>`BH`</sub> | BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0168A10Z01 | 2,049,2 | 3.1919 |
+| 14 | [[../Entities/AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED\|AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED]] <br><sub>`AOT`</sub> | AIRPORTS OF THAILAND PUBLIC COMPANY LIMI | หุ้นสามัญ | TH0765010Z08 | 1,869,675 | 2.9122 |
+| 15 | [[../Entities/WHA UTILITIES AND POWER PUBLIC COMPANY LIMITED\|WHA UTILITIES AND POWER PUBLIC COMPANY LIMITED]] <br><sub>`WHAUP`</sub> | WHA UTILITIES AND POWER PUBLIC COMPANY L | หุ้นสามัญ | TH7846010Z09 | 1,640,88 | 2.5558 |
+| 16 | [[../Entities/KCE ELECTRONICS PUBLIC COMPANY LIMITED\|KCE ELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`KCE`</sub> | KCE ELECTRONICS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0122C10Z04 | 1,528,05 | 2.3801 |
+| 17 | [[../Entities/CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED\|CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED]] <br><sub>`CENTEL`</sub> | CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0176B10Z00 | 1,369, | 2.1324 |
+| 18 | [[../Entities/AMATA CORPORATION PUBLIC COMPANY LIMITED\|AMATA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`AMATA`</sub> | AMATA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0617A10Z08 | 1,265,275 | 1.9708 |
+| 19 | [[../Entities/BANGKOK AIRWAYS PUBLIC COMPANY LIMITED\|BANGKOK AIRWAYS PUBLIC COMPANY LIMITED]] <br><sub>`BA`</sub> | BANGKOK AIRWAYS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH4403010002 | 1,148,85 | 1.7895 |
+| 20 | [[../Entities/STECON GROUP PUBLIC COMPANY LIMITED\|STECON GROUP PUBLIC COMPANY LIMITED]] <br><sub>`STECON`</sub> | STECON GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC381010006 | 1,062, | 1.6542 |
+| 21 | [[../Entities/PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED\|PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED]] <br><sub>`PTTGC`</sub> | PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH1074010006 | 961,45 | 1.4976 |
+| 22 | [[../Entities/B.GRIMM POWER PUBLIC COMPANY LIMITED\|B.GRIMM POWER PUBLIC COMPANY LIMITED]] <br><sub>`BGRIM`</sub> | B.GRIMM POWER PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH7545010004 | 739,5 | 1.1519 |
+| 23 | [[../Entities/ICHITAN GROUP PUBLIC COMPANY LIMITED\|ICHITAN GROUP PUBLIC COMPANY LIMITED]] <br><sub>`ICHI`</sub> | ICHITAN GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH5048010000 | 700, | 1.0903 |
+| 24 | [[../Entities/TIDLOR HOLDINGS PUBLIC COMPANY LIMITED\|TIDLOR HOLDINGS PUBLIC COMPANY LIMITED]] <br><sub>`TIDLOR`</sub> | TIDLOR HOLDINGS PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC997010002 | 622,66 | 0.9699 |
+| 25 | [[../Entities/SKY ICT PUBLIC COMPANY LIMITED\|SKY ICT PUBLIC COMPANY LIMITED]] <br><sub>`SKY`</sub> | SKY ICT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH5812010Y04 | 398,75 | 0.6211 |
+
+<details><summary>ดูอีก 6 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/OSOTSPA PUBLIC COMPANY LIMITED\|OSOTSPA PUBLIC COMPANY LIMITED]] <br><sub>`OSP`</sub> | OSOTSPA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH8752010000 | 356,7 | 0.5556 |
+| 27 | [[../Entities/STAR PETROLEUM REFINING PUBLIC COMPANY LIMITED\|STAR PETROLEUM REFINING PUBLIC COMPANY LIMITED]] <br><sub>`SPRC`</sub> | STAR PETROLEUM REFINING PUBLIC COMPANY L | หุ้นสามัญ | TH6838010002 | 312,36 | 0.4865 |
+| 28 | [[../Entities/CENTRAL PATTANA PUBLIC COMPANY LIMITED\|CENTRAL PATTANA PUBLIC COMPANY LIMITED]] <br><sub>`CPN`</sub> | CENTRAL PATTANA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0481B10Z00 | 3,149 | 0.0049 |
+| 29 | [[../Entities/CP ALL PUBLIC COMPANY LIMITED\|CP ALL PUBLIC COMPANY LIMITED]] <br><sub>`CPALL`</sub> | CP ALL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0737010Y08 | 2,15 | 0.0034 |
+| 30 | [[../Entities/BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED\|BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED]] <br><sub>`BDMS`</sub> | BANGKOK DUSIT MEDICAL SERVICES PUBLIC CO | หุ้นสามัญ | TH0264A10Z04 | 1,486 | 0.0023 |
+| 31 | [[../Entities/BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED\|BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED]] <br><sub>`BEM`</sub> | BANGKOK EXPRESSWAY AND METRO PUBLIC COMP | หุ้นสามัญ | TH6999010007 | 601 | 0.0009 |
+
+</details>
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| LHTHAIEQ-A | 2026-08-26 | 10.9681 | 10.9682 | 10.9681 | 21,733,261 |
+| LHTHAIEQ-D | 2026-08-26 | 9.4198 | 9.4199 | 9.4198 | 43,629,023 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| LHTHAIEQ-A | ไม่จ่ายเงินปันผล |
+| LHTHAIEQ-D | จ่ายเงินปันผล |
+
+### ประวัติการจ่ายปันผล (20 ครั้งล่าสุด)
+
+| Class | วันปิดสมุด | วันจ่าย | บาท/หน่วย |
+|---|---|---|---|
+| LHTHAIEQ-D | 2026-07-17 | 2026-07-24 | 0.1 |
+| LHTHAIEQ-D | 2026-04-22 | 2026-04-29 | 0.1 |
+| LHTHAIEQ-D | 2025-11-14 | 2025-11-21 | 0.1 |
+| LHTHAIEQ-D | 2025-09-19 | 2025-09-26 | 0.15 |
+| LHSTGLTF-D | 2024-11-15 | 2024-11-22 | 0.1 |
+| LHSTGLTF-D | 2024-09-20 | 2024-09-27 | 0.05 |
+| LHSTGLTF-D | 2024-01-22 | 2024-01-29 | 0.1 |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) |
+|---|---|---|---|---|---|---|---|---|---|
+| LHTHAIEQ-A | 2026-07-31 | - | THB | - | THB | - | THB | - | THB |
+| LHTHAIEQ-D | 2026-07-31 | - | THB | - | THB | - | THB | - | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | ระยะเวลารับเงิน |
+|---|---|---|---|---|
+| LHTHAIEQ-A | 2026-07-31 | การขายคืน (redemption) | ทุกวันทำการ | T+2 คือ2 วันทำการหลังจากวันทำรายการขายคืน |
+| LHTHAIEQ-D | 2026-07-31 | การขายคืน (redemption) | ทุกวันทำการ | T+2 คือ2 วันทำการหลังจากวันทำรายการขายคืน |
+| LHTHAIEQ-A | 2026-07-31 | การซื้อ (subscription) | ทุกวันทำการ | - |
+| LHTHAIEQ-D | 2026-07-31 | การซื้อ (subscription) | ทุกวันทำการ | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด |
+| T | บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - LHTHAIEQ]]
+
+- class `LHTHAIEQ-D` (ณ 2026-07-31) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0582_2560.pdf)
+- class `LHTHAIEQ-A` (ณ 2026-07-31) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0582_2560.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด]]
+- กองประเภทเดียวกัน: [[ตราสารทุน]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

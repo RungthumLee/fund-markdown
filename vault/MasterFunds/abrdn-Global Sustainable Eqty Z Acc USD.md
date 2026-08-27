@@ -1,0 +1,113 @@
+---
+title: "abrdn-Global Sustainable Eqty Z Acc USD"
+master_key: "LU0278912844"
+isin: "LU0278912844"
+quote_type: "MUTUALFUND"
+category: "Global Large-Cap Growth Equity"
+domicile: "Luxembourg"
+currency: "USD"
+ongoing_charge: "0.12%"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data]
+---
+
+# 🌐 abrdn-Global Sustainable Eqty Z Acc USD
+
+**ISIN:** `LU0278912844` · **Ticker:** `0P0000FWUF`
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | abrdn-Global Sustainable Eqty Z Acc USD |
+| ISIN | `LU0278912844` |
+| ประเภท | กองทุนรวม (ไม่ได้จดทะเบียนซื้อขาย) |
+| โครงสร้างทางกฎหมาย | SICAV |
+| ประเทศจดทะเบียน | Luxembourg |
+| หมวด (Morningstar) | Global Large-Cap Growth Equity |
+| ผู้จัดการกองทุน | Kurt Cruickshank (เริ่ม 01 Sep 2024) |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2019-04-26 |
+| นโยบายปันผล | Accumulation |
+| สไตล์การลงทุน | Market Cap: Large |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (FT) | 118.19m GBP |
+| **ค่าธรรมเนียมรวมต่อปี (OCF/TER)** | **0.12%** |
+
+> [!IMPORTANT]
+> ค่าธรรมเนียมนี้เป็นของ **กองทุนหลัก** ผู้ลงทุนไทยจ่าย**ซ้อนกับ**ค่าธรรมเนียมของกองไทยอีกชั้น
+> ดู [[../Concepts/ค่าธรรมเนียมกองทุนรวม|ค่าธรรมเนียมกองทุนรวม]]
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| YTD | 4.88% |
+| 1 ปี (FT) | +14.52% |
+| Beta (3 ปี) | 0.78 |
+| Morningstar rating | ★★ |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 97.80% |
+| เงินสด | 2.20% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| เทคโนโลยี | 39.36% |
+| การเงิน | 18.16% |
+| สุขภาพ | 10.97% |
+| อุตสาหกรรม | 8.56% |
+| สินค้าฟุ่มเฟือย | 7.96% |
+| สื่อสาร | 7.81% |
+| สินค้าจำเป็น | 4.15% |
+| พลังงาน | 1.64% |
+| วัตถุดิบ | 1.39% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | Alphabet Inc Class A | `GOOGL` | 6.23% |
+| 2 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 5.52% |
+| 3 | NVIDIA Corp | `NVDA` | 5.38% |
+| 4 | ASML Holding NV | `ASML.AS` | 4.48% |
+| 5 | Microsoft Corp | `MSFT` | 4.19% |
+| 6 | Mastercard Inc Class A | `MA` | 3.41% |
+| 7 | Eli Lilly and Co | `LLY` | 3.31% |
+| 8 | American Express Co | `AXP` | 2.67% |
+| 9 | Keyence Corp | `6861.T` | 2.64% |
+| 10 | TJX Companies Inc | `TJX` | 2.55% |
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[ABWOOF]] | [[บริษัทหลักทรัพย์จัดการกองทุน อเบอร์ดีน (ประเทศไทย) จำกัด]] | ตราสารทุน | 6 | 105.39% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `0P0000FWUF`)
+- **FT.com** — ค่าธรรมเนียม ขนาดกองทุน domicile ผู้จัดการ ([tearsheet](https://markets.ft.com/data/funds/tearsheet/summary?s=LU0278912844:USD))
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

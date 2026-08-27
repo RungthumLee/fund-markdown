@@ -1,0 +1,421 @@
+---
+title: "KKP SELECT FUND"
+proj_id: M0601_2547
+regis_id: "080_2547"
+abbr: "KKP SELECT FUND"
+name_th: "กองทุนเปิดเคเคพี ซีเล็ค อิควิตี้"
+name_en: "KKP SELECT EQUITY FUND"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด"
+amc_id: "C0000005025"
+policy: "ตราสารทุน"
+risk_spectrum: "6"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "3"
+init_date: "2004-10-04"
+regis_date: "2004-10-22"
+class_count: 7
+has_factsheet: true
+ter_retail: 1.33
+perf_1y: 38.58
+nav: 23.3439
+nav_date: "2026-08-26"
+fund_size: 134747.32
+holdings_count: 34
+top10_pct_nav: 60.98
+tags: [fund, sec-data, policy/equity, risk/6, active]
+---
+
+# KKP SELECT FUND
+
+**กองทุนเปิดเคเคพี ซีเล็ค อิควิตี้**  
+_KKP SELECT EQUITY FUND_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด]] · นโยบาย [[ตราสารทุน]] · ความเสี่ยงระดับ **6**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0601_2547`
+> - **ประเภท:** ตราสารทุน · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** ไม่มีความเสี่ยงต่างประเทศ
+> - **จัดตั้ง:** 2004-10-04 · **จดทะเบียน:** 2004-10-22
+> - **ชนิดหน่วยลงทุน:** 7 class
+> - **NAV 23.3439 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0601_2547` |
+| เลขที่จดทะเบียน (regis_id) | 080_2547 |
+| ชื่อย่อ | KKP SELECT FUND |
+| ชื่อไทย | กองทุนเปิดเคเคพี ซีเล็ค อิควิตี้ |
+| ชื่ออังกฤษ | KKP SELECT EQUITY FUND |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2004-10-04 |
+| วันจดทะเบียน | 2004-10-22 |
+| ประเภทตามนโยบาย | ตราสารทุน |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | ไม่มีความเสี่ยงต่างประเทศ |
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| KKP SELECT-A | TH2512B10001 | - | ชนิดสะสมมูลค่า |
+| KKP SELECT-D | TH2512C10009 | - | ชนิดจ่ายเงินปันผล |
+| KKP SELECT-E | TH2512F10002 | - | ชนิด E |
+| KKP SELECT-ES | TH2512E10005 | - | ชนิด ES |
+| KKP SELECT-EXL-D | TH2512A10003 | - | ชนิดเงินลงทุนเดิม (จ่ายเงินปันผล) |
+| KKP SELECT-F | TH2512D10007 | - | ชนิด F |
+| KKP SELECT-M | TH2512G10000 | - | ชนิด M |
+
+## 3. นโยบายการลงทุน
+
+1. กองทุนรวมตราสารทุน ที่นำเงินที่ได้จากการจำหน่ายหน่วยลงทุนไปลงทุนในหรือมีไว้ซึ่งหุ้นสามัญของบริษัทจดทะเบียน ตราสารทุน หน่วยลงทุนของกองทุนรวมตราสารทุนที่ลงทุนในหุ้นของบริษัทจดทะเบียน กองทุนรวมอีทีเอฟที่อ้างอิงกับผลตอบแทนหุ้นหรือกลุ่มหุ้นของบริษัทจดทะเบียน กองทุนรวมดัชนีที่อ้างอิงกับผลตอบแทนหุ้นหรือกลุ่มหุ้นของบริษัทจดทะเบียน โดยมี net exposure ในตราสารทุนโดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม 
+
+2. กองทุนอาจลงทุนในหน่วยลงทุนของกองทุนรวมอื่น ซึ่งอยู่ภายใต้การจัดการของบริษัทจัดการ ในสัดส่วนโดยเฉลี่ยรอบปีบัญชีไม่เกินร้อยละ 20 ของมูลค่าทรัพย์สินสุทธิของกองทุน ทั้งนี้ กองทุนรวมอื่นนั้นมีการลงทุนในหรือมีไว้ซึ่งหน่วยลงทุนของกองทุนรวมใด ๆ ที่อยู่ภายใต้การจัดการของบริษัทจัดการต่อไปได้อีกไม่เกิน 1 ทอด โดยกองทุนรวมที่มีผู้ถือหน่วยลงทุนเป็นกองทุนรวมอื่นที่อยู่ภายใต้การจัดการของบริษัทจัดการ ต้องไม่ลงทุนในหรือมีไว้ซึ่งหน่วยลงทุนของกองทุนรวมดังต่อไปนี้
+(1) กองทุนรวมอื่นที่เป็นผู้ถือหน่วยลงทุนของกองทุนรวมดังกล่าว
+(2) กองทุนรวมที่เป็นผู้ถือหน่วยของกองทุนรวมอื่นตาม (1) 
+ในกรณีที่มีการลงทุนในกองทุนรวมอื่นภายใต้ บลจ. เดียวกัน (Cross Investing Fund) มิให้กองทุนรวมต้นทางลงมติให้กองทุนรวมปลายทาง อย่างไรก็ดี ในกรณีที่กองทุนรวมปลายทางไม่สามารถดำเนินการเพื่อขอมติได้ เนื่องจากติดข้อจำกัดห้ามมิให้กองทุนรวมต้นทางลงมติให้กองทุนรวมปลายทาง บริษัทจัดการสามารถขอรับความเห็นชอบจากสำนักงานคณะกรรมการ ก.ล.ต.ได้ หากได้รับมติเกินกึ่งหนึ่งของผู้ถือหน่วยลงทุนของกองทุนปลายทางในส่วนที่เหลือ 
+ทั้งนี้ การลงทุนในหน่วยลงทุนดังกล่าวต้องอยู่ภายใต้กรอบนโยบายการลงทุนของกองทุนซึ่งเป็นไปตามหลักเกณฑ์เงื่อนไขที่สำนักงานคณะกรรมการ ก.ล.ต.กำหนด หรือกฎหมายอื่นใดที่เกี่ยวข้อง หรือประกาศอื่นใดที่เกี่ยวข้อง และ/หรือที่มีการแก้ไขเพิ่มเติมในอนาคต 
+
+3. กองทุนอาจพิจารณาลงทุนหรือมีไว้ซึ่งสัญญาซื้อขายล่วงหน้าเพื่อลดความเสี่ยง (Hedging) จากการลงทุนในตราสารทุนในประเทศ โดยกองทุนจะเข้าทำสัญญาซื้อขายล่วงหน้าที่มี underlying เป็น ดัชนี SET50 Index ทั้งนี้ การทำสัญญาซื้อขายล่วงหน้าอาจมีต้นทุนและมีความเสี่ยงที่เกี่ยวข้องต่าง ๆ เช่น ความเสี่ยงจากการที่คู่สัญญาผิดนัดชำระหนี้ หรือไม่สามารถส่งมอบ (delivery failure) หรือไม่สามารถปฏิบัติตามข้อตกลงได้ ความเสี่ยงด้านสภาพคล่องในการซื้อขายหรือไม่สามารถปิดสถานะได้ (close out position) เป็นต้น โดยบริษัทจัดการจะกำหนดกลยุทธ์ในการบริหารจัดการความเสี่ยงที่เกิดขึ้นจากการลงทุนในสัญญาซื้อขายล่วงหน้า ตลอดจนจัดให้มีระบบที่เหมาะสมในการบริหารความเสี่ยงของสัญญาซื้อขายล่วงหน้า เช่น บริษัทจัดการจะวิเคราะห์และติดตามสถานะหรืออันดับความน่าเชื่อถือของบริษัทที่เป็นคู่สัญญาซื้อขายล่วงหน้าอย่างระมัดระวังและสม่ำเสมอ และหากมีการปรับตัวในทางลบอย่างมีนัยสำคัญ บริษัทจัดการจะพิจารณาปรับเปลี่ยนแผนการลงทุนให้เหมาะสมกับสภาวการณ์ เพื่อลดความเสี่ยงจากการที่คู่สัญญาไม่สามารถทำตามข้อสัญญาตามที่ตกลงกันไว้ แต่กองทุนจะไม่ลงทุนในตราสารที่มีสัญญาซื้อขายล่วงหน้าแฝง (Structured Note) 
+ 
+4. กองทุนอาจกู้ยืมเงินหรือการทำธุรกรรมการขายโดยมีสัญญาซื้อคืน โดยเป็นไปตามหลักเกณฑ์ที่คณะกรรมการ ก.ล.ต. หรือสำนักงานคณะกรรมการ ก.ล.ต. ประกาศกำหนด
+
+5. ในการคำนวณสัดส่วนการลงทุนตามนโยบายการลงทุนตามข้อ 1. ข้างต้น และอัตราส่วนที่เกี่ยวข้องกับความเสี่ยงต่างประเทศอาจไม่นับช่วงระยะเวลาดังนี้ ทั้งนี้ บริษัทจัดการจะคำนึงถึงประโยชน์ของผู้ลงทุนเป็นสำคัญ 
+5.1 ช่วงระยะเวลา 30 วันนับแต่วันที่จดทะเบียนเป็นกองทุนรวม 
+5.2 ช่วงระยะเวลา 30 วันก่อนเลิกกองทุนรวม 
+5.3 ช่วงระยะเวลาที่ต้องใช้ในการจำหน่ายทรัพย์สินของกองทุนเนื่องจากได้รับคำสั่งขายคืน หรือสับเปลี่ยนหน่วยลงทุน หรือมีการโอนย้ายกองทุนจำนวนมาก หรือเพื่อรอการลงทุน ทั้งนี้ ต้องไม่เกินกว่า 10 วันทำการ
+ประเภทของหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นที่จะลงทุน :
+ประเภทของหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นที่จะลงทุนในประเทศ :
+ส่วนที่ 1 : ตราสาร TS (transferable securities)
+1. ตราสาร TS หมายความว่า ตราสารทางการเงินใด ๆ นอกเหนือจากทรัพย์สินในส่วนอื่นของภาคผนวกนี้ ซึ่งมีคุณสมบัติตามหลักเกณฑ์ที่ครบถ้วน ดังนี้
+1.1 ไม่มีข้อกำหนดหรือเงื่อนไขที่ทำให้ผู้ลงทุนมีภาระผูกพันมากกว่ามูลค่าเงินลงทุนในตราสาร
+1.2 สามารถเปลี่ยนมือได้ (รวมถึงกรณีที่เป็น B/E P/N ที่มีเงื่อนไขห้ามเปลี่ยนมือแต่กองทุนได้ดำเนินการให้มีการรับโอนสิทธิเรียกร้องใน
+ตราสารได้ตามวิธีการที่กฎหมายกำหนด หรือมีเงื่อนไขให้กองทุนสามารถขายคืนผู้ออกตราสารได้)
+1.3 มีข้อมูลเกี่ย …(ตัดทอน)
+
+### ลักษณะเฉพาะของโครงการ
+
+- `CIV` กองทุนรวมที่มีนโยบายเปิดให้มีการลงทุนในกองทุนรวมอื่นภายใต้ บลจ. เดียวกัน (CROSS Investing Fund)
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 6 / 8** — 6 — ตราสารทุน
+
+> ลงทุนในตราสารทุนเป็นหลัก
+โดยเฉลี่ยในรอบปีไม่น้อยกว่า 80% ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| KKP SELECT-EXL-D | -0.06 | -5.16 | 0.97 | -41.38% | - | 0.78 | - |
+| KKP SELECT-A | 0 | 0 | 0 | -11.70% | - | 0.78 | - |
+| KKP SELECT-D | 0 | 0 | 0 | -11.70% | - | 0.78 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `KKP SELECT-A`<br><sub>ชนิดสะสมมูลค่า</sub> | 🟢 รายย่อยทั่วไป | 1.33 | 1.51 | 1.21 | 0.5 | - |
+| `KKP SELECT-D`<br><sub>ชนิดจ่ายเงินปันผล</sub> | 🟢 รายย่อยทั่วไป | 1.33 | 1.51 | 1.21 | 0.5 | - |
+| `KKP SELECT-EXL-D`<br><sub>ชนิดเงินลงทุนเดิม (จ่ายเงินปันผล)</sub> | 🔒 สถาบัน / กลุ่มบุคคล | 1.33 | 1.51 | 1.21 | - | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| KKP SELECT-A | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.21 | 1.21 |
+| KKP SELECT-D | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.21 | 1.21 |
+| KKP SELECT-D | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 1.51 | 1.33 |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.21 | 1.21 |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 0 | 0 |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 1.51 | 1.33 |
+| KKP SELECT-D | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 0 | 50 |
+| KKP SELECT-A | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 2 | 0.5 |
+| KKP SELECT-A | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 2 | 0 |
+| KKP SELECT-D | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 2 | 0 |
+| KKP SELECT-D | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 2 | 0.5 |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 0 | 0 |
+| KKP SELECT-A | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2 | 0.5 |
+| KKP SELECT-A | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 0 | 50 |
+| KKP SELECT-D | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2 | 0.5 |
+| KKP SELECT-D | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 2 | 0 |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 0 | 0 |
+| KKP SELECT-A | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 2 | 0 |
+| KKP SELECT-A | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 1.51 | 1.33 |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 0 | 0 |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 0 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| KKP SELECT-A | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.2148 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-A | ค่าธรรมเนียมทั้งหมด (Total Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-A | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KKP SELECT-A | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.0892 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-A | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KKP SELECT-A | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-A | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-D | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.2148 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-D | ค่าธรรมเนียมทั้งหมด (Total Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-D | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KKP SELECT-D | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.0892 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-D | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KKP SELECT-D | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-D | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-E | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.2148 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-E | ค่าธรรมเนียมทั้งหมด (Total Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-E | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KKP SELECT-E | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.0892 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-E | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KKP SELECT-E | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-E | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-ES | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.2148 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-ES | ค่าธรรมเนียมทั้งหมด (Total Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-ES | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KKP SELECT-ES | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.0892 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-ES | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KKP SELECT-ES | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-ES | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.2148 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมทั้งหมด (Total Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.0892 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-EXL-D | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-F | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.2148 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-F | ค่าธรรมเนียมทั้งหมด (Total Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-F | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KKP SELECT-F | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.0892 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-F | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KKP SELECT-F | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-F | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-M | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.2148 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-M | ค่าธรรมเนียมทั้งหมด (Total Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-M | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KKP SELECT-M | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.0892 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-M | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KKP SELECT-M | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| KKP SELECT-M | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.5066 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+
+## 6. ผลการดำเนินงาน
+
+### Class `KKP SELECT-A`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | ตั้งแต่จัดตั้ง | 2025 |
+|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 10.33 | 24.99 | 24.99 | 24.54 | -0.35 |
+| ผลตอบแทนตัวชี้วัด | 9.78 | 26.79 | 26.79 | 26.43 | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 10.39 | 24.08 | 24.08 | - | - |
+| ความผันผวนของกองทุนรวม | 12.35 | 17.62 | 17.62 | 17.45 | - |
+| ความผันผวนของตัวชี้วัด | 12.06 | 18.23 | 18.23 | 18.04 | - |
+
+### Class `KKP SELECT-D`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | ตั้งแต่จัดตั้ง | 2025 |
+|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 10.33 | 24.98 | 24.98 | 24.54 | -0.35 |
+| ผลตอบแทนตัวชี้วัด | 9.78 | 26.79 | 26.79 | 26.43 | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 10.39 | 24.08 | 24.08 | - | - |
+| ความผันผวนของกองทุนรวม | 12.35 | 17.62 | 17.62 | 17.45 | - |
+| ความผันผวนของตัวชี้วัด | 12.06 | 18.23 | 18.23 | 18.04 | - |
+
+### Class `KKP SELECT-EXL-D`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 10.33 | 24.99 | 24.99 | 38.58 | 0.87 | -1.22 | 0.59 | 6.38 | -10.38 | -5.65 | -18.17 | -1.1 | 24.41 |
+| ผลตอบแทนตัวชี้วัด | 9.78 | 26.79 | 26.79 | 52.73 | 6.03 | 3.63 | 4.37 | 8.13 | - | - | - | - | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 10.39 | 24.08 | 24.08 | 39.45 | 1.52 | 0.48 | 1.55 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 12.35 | 17.62 | 17.62 | 15.68 | 15.38 | 14.38 | 15.51 | 16.24 | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 12.06 | 18.23 | 18.23 | 16.3 | 14.91 | 13.55 | 15.07 | 18.2 | - | - | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนีผลตอบแทนรวม SET 50 Free Float Adjusted Market Capitalization Weighted (SET50FF TRI) | ดัชนีผลตอบแทนรวม SET 50 Free Float Adjusted Market Capitalization Weighted (SET50FF TRI) |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| เงินฝาก,บัตรเงินฝาก | 1.24 |
+| ตราสารทุนในประเทศ | 98.24 |
+| หน่วยลงทุนในประเทศ | 0.01 |
+| สินทรัพย์และหนี้สินอื่น | 0.51 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | บริษัทเดลต้า อีเลคโทรนิคส์  (ประเทศไทย) จำกัด (มหาชน) (DELTA) | 11.04 |
+| 2 | บริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน) (GULF) | 9.2 |
+| 3 | ธนาคารกรุงไทย จำกัด (มหาชน) (KTB) | 6.45 |
+| 4 | บริษัท ปตท. จำกัด (มหาชน) (PTT) | 6.36 |
+| 5 | ธนาคารกสิกรไทย จำกัด (มหาชน) (KBANK) | 6.14 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 2,023,661,333 | 98.499 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 76,541,652 | 3.7256 |
+| 108 | หน่วยลงทุน (รหัส 108-109,117-121,139,130) | 145,02 | 0.0071 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | -45,849,577 | -2.2317 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **34** รายการ จากผู้ออก 33 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **2,014,606,565** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **60.98% ของ NAV** (คิดเป็น 61.3% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED\|DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`DELTA`</sub> | DELTA ELECTRONICS (THAILAND) PUBLIC COMP | หุ้นสามัญ | TH0528A10Z06 | 222,462,5 | 11.0425 |
+| 2 | [[../Entities/GULF DEVELOPMENT PUBLIC COMPANY LIMITED\|GULF DEVELOPMENT PUBLIC COMPANY LIMITED]] <br><sub>`GULF`</sub> | GULF DEVELOPMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC903010005 | 185,289,291 | 9.1973 |
+| 3 | [[../Entities/KRUNG THAI BANK PUBLIC COMPANY LIMITED\|KRUNG THAI BANK PUBLIC COMPANY LIMITED]] <br><sub>`KTB`</sub> | KRUNG THAI BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0150010Z03 | 129,914,4 | 6.4486 |
+| 4 | [[../Entities/PTT PUBLIC COMPANY LIMITED\|PTT PUBLIC COMPANY LIMITED]] <br><sub>`PTT`</sub> | PTT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0646010Z00 | 128,094,65 | 6.3583 |
+| 5 | [[../Entities/KASIKORNBANK PUBLIC COMPANY LIMITED (TH0016010009)\|KASIKORNBANK PUBLIC COMPANY LIMITED]] <br><sub>`KBANK`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0016010009 | 123,627,8 | 6.1366 |
+| 6 | [[../Entities/SCB X PUBLIC COMPANY LIMITED\|SCB X PUBLIC COMPANY LIMITED]] <br><sub>`SCB`</sub> | SCB X PUBLIC COMPANY LIMITED | หุ้นสามัญ | THA790010005 | 106,530,4 | 5.2879 |
+| 7 | [[../Entities/ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED\|ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED]] <br><sub>`ADVANC`</sub> | ADVANCED INFO SERVICE PUBLIC COMPANY LIM | หุ้นสามัญ | TH0268010Z03 | 104,228, | 5.1736 |
+| 8 | [[../Entities/AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED\|AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED]] <br><sub>`AOT`</sub> | AIRPORTS OF THAILAND PUBLIC COMPANY LIMI | หุ้นสามัญ | TH0765010Z08 | 88,016,075 | 4.3689 |
+| 9 | [[../Entities/BANGKOK BANK PUBLIC COMPANY LIMITED\|BANGKOK BANK PUBLIC COMPANY LIMITED]] <br><sub>`BBL`</sub> | BANGKOK BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0001010006 | 74,384,8 | 3.6923 |
+| 10 | [[../Entities/CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED\|CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`CRC`</sub> | CENTRAL RETAIL CORPORATION PUBLIC COMPAN | หุ้นสามัญ | TH9597010007 | 65,933,95 | 3.2728 |
+| 11 | [[../Entities/TRUE CORPORATION PUBLIC COMPANY LIMITED\|TRUE CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`TRUE`</sub> | TRUE CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | THB231010000 | 65,724,907 | 3.2624 |
+| 12 | [[../Entities/CP ALL PUBLIC COMPANY LIMITED\|CP ALL PUBLIC COMPANY LIMITED]] <br><sub>`CPALL`</sub> | CP ALL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0737010Y08 | 57,488,475 | 2.8536 |
+| 13 | [[../Entities/CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED\|CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED]] <br><sub>`CENTEL`</sub> | CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0176B10Z00 | 52,647,3 | 2.6133 |
+| 14 | [[../Entities/TIDLOR HOLDINGS PUBLIC COMPANY LIMITED\|TIDLOR HOLDINGS PUBLIC COMPANY LIMITED]] <br><sub>`TIDLOR`</sub> | TIDLOR HOLDINGS PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC997010002 | 52,527,12 | 2.6073 |
+| 15 | [[../Entities/BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED\|BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED]] <br><sub>`BH`</sub> | BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0168A10Z01 | 48,316, | 2.3983 |
+| 16 | [[../Entities/MINOR INTERNATIONAL PUBLIC COMPANY LIMITED\|MINOR INTERNATIONAL PUBLIC COMPANY LIMITED]] <br><sub>`MINT`</sub> | MINOR INTERNATIONAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0128B10Z09 | 45,270,16 | 2.2471 |
+| 17 | [[../Entities/THAI AIRWAYS INTERNATIONAL PUBLIC COMPANY LIMITED\|THAI AIRWAYS INTERNATIONAL PUBLIC COMPANY LIMITED]] <br><sub>`THAI`</sub> | THAI AIRWAYS INTERNATIONAL PUBLIC COMPAN | หุ้นสามัญ | TH0245010002 | 43,234,31 | 2.146 |
+| 18 | [[../Entities/CARABAO GROUP PUBLIC COMPANY LIMITED\|CARABAO GROUP PUBLIC COMPANY LIMITED]] <br><sub>`CBG`</sub> | CARABAO GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6066010005 | 41,461,875 | 2.0581 |
+| 19 | [[../Entities/CENTRAL PATTANA PUBLIC COMPANY LIMITED\|CENTRAL PATTANA PUBLIC COMPANY LIMITED]] <br><sub>`CPN`</sub> | CENTRAL PATTANA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0481B10Z00 | 39,777,9 | 1.9745 |
+| 20 | [[../Entities/BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED\|BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED]] <br><sub>`BDMS`</sub> | BANGKOK DUSIT MEDICAL SERVICES PUBLIC CO | หุ้นสามัญ | TH0264A10Z04 | 35,450,24 | 1.7597 |
+| 21 | [[../Entities/THAI LIFE INSURANCE PUBLIC COMPANY LIMITED\|THAI LIFE INSURANCE PUBLIC COMPANY LIMITED]] <br><sub>`TLI`</sub> | THAI LIFE INSURANCE PUBLIC COMPANY LIMIT | หุ้นสามัญ | THA848010007 | 34,862,25 | 1.7305 |
+| 22 | [[../Entities/KCE ELECTRONICS PUBLIC COMPANY LIMITED\|KCE ELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`KCE`</sub> | KCE ELECTRONICS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0122C10Z04 | 34,594,05 | 1.7172 |
+| 23 | [[../Entities/THE SIAM CEMENT PUBLIC COMPANY LIMITED\|THE SIAM CEMENT PUBLIC COMPANY LIMITED]] <br><sub>`SCC`</sub> | THE SIAM CEMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0003010Z04 | 32,549,6 | 1.6157 |
+| 24 | [[../Entities/PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED\|PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED]] <br><sub>`PTTEP`</sub> | PTT EXPLORATION AND PRODUCTION PUBLIC CO | หุ้นสามัญ | TH0355A10Z04 | 30,056,2 | 1.4919 |
+| 25 | [[../Entities/THAI UNION GROUP PUBLIC COMPANY LIMITED\|THAI UNION GROUP PUBLIC COMPANY LIMITED]] <br><sub>`TU`</sub> | THAI UNION GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0450010Y08 | 28,181,79 | 1.3989 |
+
+<details><summary>ดูอีก 9 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/Bangkok Bank Plc\|Bangkok Bank Plc.]] <br><sub>`BBL_20506-9`</sub> | BANGKOK BANK PUBLIC COMPANY LIMITED | เงินฝากธนาคารประเภทออมทรัพย์ | - | 24,931,418 | 1.2375 |
+| 27 | [[../Entities/TMBTHANACHART BANK PUBLIC COMPANY LIMITED\|TMBTHANACHART BANK PUBLIC COMPANY LIMITED]] <br><sub>`TTB`</sub> | TMBTHANACHART BANK PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH0068010Z07 | 20,489,094 | 1.017 |
+| 28 | [[../Entities/CHAROEN POKPHAND FOODS PUBLIC COMPANY LIMITED\|CHAROEN POKPHAND FOODS PUBLIC COMPANY LIMITED]] <br><sub>`CPF`</sub> | CHAROEN POKPHAND FOODS PUBLIC COMPANY LI | หุ้นสามัญ | TH0101A10Z01 | 20,474,16 | 1.0163 |
+| 29 | [[../Entities/i-Tail Corporation Public Company Limited\|i-Tail Corporation Public Company Limited]] <br><sub>`ITC`</sub> | i-Tail Corporation Public Company Limite | หุ้นสามัญ | THB056010002 | 19,138,07 | 0.95 |
+| 30 | [[../Entities/SIS DISTRIBUTION (THAILAND) PUBLIC COMPANY LIMITED\|SIS DISTRIBUTION (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`SIS`</sub> | SIS DISTRIBUTION (THAILAND) PUBLIC COMPA | หุ้นสามัญ | TH0776010009 | 16,491,76 | 0.8186 |
+| 31 | [[../Entities/THANACHART CAPITAL PUBLIC COMPANY LIMITED\|THANACHART CAPITAL PUBLIC COMPANY LIMITED]] <br><sub>`TCAP`</sub> | THANACHART CAPITAL PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH0083B10Z02 | 15,619,5 | 0.7753 |
+| 32 | [[../Entities/AMATA CORPORATION PUBLIC COMPANY LIMITED\|AMATA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`AMATA`</sub> | AMATA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0617A10Z08 | 9,980,425 | 0.4954 |
+| 33 | [[../Entities/DOHOME PUBLIC COMPANY LIMITED\|DOHOME PUBLIC COMPANY LIMITED]] <br><sub>`DOHOME`</sub> | DOHOME PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH9301010004 | 6,337,02 | 0.3145 |
+| 34 | [[../Entities/KIATNAKIN PHATRA ASSET MANAGEMENT COMPANY LIMITED\|KIATNAKIN PHATRA ASSET MANAGEMENT COMPANY LIMITED]] <br><sub>`KKP MP FUND`</sub> | KIATNAKIN PHATRA ASSET MANAGEMENT COMPAN | หน่วยลงทุนของกองทุนตราสารหนี้ | - | 144,901 | 0.0072 |
+
+</details>
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในกลุ่มอุตสาหกรรม**
+
+| กลุ่มอุตสาหกรรม | % NAV |
+|---|---|
+| ธนาคาร | 22.58 |
+| พลังงานและสาธารณูปโภค | 17.05 |
+| ชิ้นส่วนอิเลคโทรนิคส์ | 12.76 |
+| เทคโนโลยีสารสนเทศและการสื่อสาร | 9.25 |
+| อาหารและเครื่องดื่ม | 6.72 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - KKP SELECT FUND]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| KKP SELECT-A | 2026-08-26 | 23.3439 | 23.4607 | 23.3439 | 134,747 |
+| KKP SELECT-D | 2026-08-26 | 23.3433 | 23.4601 | 23.3433 | 38,351 |
+| KKP SELECT-EXL-D | 2026-08-26 | 23.3436 | 23.3437 | 23.3436 | 2,063,006,036 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| KKP SELECT-D | จ่ายเงินปันผล |
+| KKP SELECT-EXL-D | จ่ายเงินปันผล |
+| KKP SELECT-A | ไม่จ่ายเงินปันผล |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) | ยอดคงเหลือขั้นต่ำ (หน่วย) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| KKP SELECT-A | 2026-06-30 | 1000.0 | THB | 1000.0 | THB | - | THB | 100.0 | THB | 10.00 |
+| KKP SELECT-D | 2026-06-30 | 1000.0 | THB | 1000.0 | THB | - | THB | 100.0 | THB | 10.00 |
+| KKP SELECT-EXL-D | 2026-06-30 | 1000.0 | THB | 1000.0 | THB | - | THB | - | THB | - |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | รายละเอียดเพิ่มเติม | ระยะเวลารับเงิน |
+|---|---|---|---|---|---|
+| KKP SELECT-A | 2026-06-30 | การซื้อ (subscription) | ทุกวันทำการ | - | - |
+| KKP SELECT-D | 2026-06-30 | การซื้อ (subscription) | ทุกวันทำการ | - | - |
+| KKP SELECT-EXL-D | 2026-06-30 | การซื้อ (subscription) | อื่น ๆ โปรดระบุ | หยุดรับคำสั่งซื้อเป็นการชั่วคราว <br> ตัังแต่วันที่ 1 ม.ค. 63 เป็นต้นไป <br> จนกว่าจะมีประกาศเปลี่ยนแปลง | - |
+| KKP SELECT-A | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | - | T+2 คือ2 วันทำการหลังจากวันทำรายการขายคืน |
+| KKP SELECT-D | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | - | T+2 คือ2 วันทำการหลังจากวันทำรายการขายคืน |
+| KKP SELECT-EXL-D | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | - | T+2 คือ2 วันทำการหลังจากวันทำรายการขายคืน |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด |
+| T | บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - KKP SELECT FUND]]
+
+- class `KKP SELECT-D` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0601_2547.pdf)
+- class `KKP SELECT-EXL-D` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0601_2547.pdf)
+- class `KKP SELECT-A` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0601_2547.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด]]
+- กองประเภทเดียวกัน: [[ตราสารทุน]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 6]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

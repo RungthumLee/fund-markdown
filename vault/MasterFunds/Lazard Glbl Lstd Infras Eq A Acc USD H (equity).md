@@ -1,0 +1,106 @@
+---
+title: "Lazard Glbl Lstd Infras Eq A Acc USD H"
+master_key: "name:lazard global listed infrastructure equity"
+quote_type: "MUTUALFUND"
+category: "Other Equity"
+domicile: "Ireland"
+currency: "USD"
+ongoing_charge: "0.92%"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data]
+---
+
+# 🌐 Lazard Glbl Lstd Infras Eq A Acc USD H
+
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | Lazard Glbl Lstd Infras Eq A Acc USD H |
+| ISIN | - |
+| ประเภท | กองทุนรวม (ไม่ได้จดทะเบียนซื้อขาย) |
+| โครงสร้างทางกฎหมาย | Open Ended Investment Company |
+| ประเทศจดทะเบียน | Ireland |
+| หมวด (Morningstar) | Other Equity |
+| ผู้จัดการกองทุน | John Mulquiney (เริ่ม 27 Feb 2012) |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2025-11-21 |
+| นโยบายปันผล | Accumulation |
+| สไตล์การลงทุน | Market Cap: Large |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (FT) | 2.25bn GBP |
+| **ค่าธรรมเนียมรวมต่อปี (OCF/TER)** | **0.92%** |
+
+> [!IMPORTANT]
+> ค่าธรรมเนียมนี้เป็นของ **กองทุนหลัก** ผู้ลงทุนไทยจ่าย**ซ้อนกับ**ค่าธรรมเนียมของกองไทยอีกชั้น
+> ดู [[../Concepts/ค่าธรรมเนียมกองทุนรวม|ค่าธรรมเนียมกองทุนรวม]]
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| YTD | 6.94% |
+| 1 ปี (FT) | +11.43% |
+| Morningstar rating | ★★★★★ |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 93.73% |
+| เงินสด | 6.27% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| สาธารณูปโภค | 49.83% |
+| อุตสาหกรรม | 29.33% |
+| อสังหาริมทรัพย์ | 19.71% |
+| สื่อสาร | 1.13% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | American Tower Corp | `AMT` | 8.21% |
+| 2 | National Grid PLC | `NG.L` | 8.02% |
+| 3 | Vinci SA | `DG.PA` | 7.92% |
+| 4 | Snam SpA | `SRG.MI` | 5.45% |
+| 5 | Crown Castle Inc | `CCI` | 4.75% |
+| 6 | Terna SpA | `TRN.MI` | 4.65% |
+| 7 | Canadian National Railway Co | `CNR.TO` | 4.62% |
+| 8 | Ferrovial NV | `FER.AS` | 4.39% |
+| 9 | Exelon Corp | `EXC` | 4.39% |
+| 10 | Consolidated Edison Inc | `ED` | 4.28% |
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[KKP GINFRAEQ-H FUND]] | [[บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด]] | ตราสารทุน | 6 | 99.70% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `0P0000WF31`)
+- **FT.com** — ค่าธรรมเนียม ขนาดกองทุน domicile ผู้จัดการ ([tearsheet](https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B3X5FG30:USD))
+- **ค้นเว็บ** — พบ ISIN `IE00B3X5FG30` แล้วยืนยันตัวเลขซ้ำกับ FT/Yahoo อีกชั้น
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

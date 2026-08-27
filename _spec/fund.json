@@ -1,0 +1,4433 @@
+{
+  "id": "fund",
+  "name": "Fund",
+  "description": "ข้อมูลเกี่ยวกับกองทุนรวมทั่วไป",
+  "path": "v2/fund",
+  "apiLists": [
+    {
+      "id": "fund",
+      "name": {
+        "en": "Good to Know : Fund",
+        "th": "ข้อมูลที่ควรรู้เกี่ยวกับ : กองทุน"
+      },
+      "description": {
+        "en": "ข้อมูลเกี่ยวกับกองทุนรวมทั่วไป",
+        "th": "ข้อมูลเกี่ยวกับกองทุนรวมทั่วไป"
+      },
+      "group": "fund",
+      "typeApi": false,
+      "method": "",
+      "endpoint": ""
+    },
+    {
+      "id": "fund-mapping",
+      "name": {
+        "en": "Fund API Mapping (Old vs New)",
+        "th": "Fund API Mapping (Old vs New)"
+      },
+      "description": {
+        "en": "ข้อมูลเกี่ยวกับกองทุนรวมทั่วไป",
+        "th": "ข้อมูลเกี่ยวกับกองทุนรวมทั่วไป"
+      },
+      "group": "fund",
+      "typeApi": false,
+      "method": "",
+      "endpoint": ""
+    },
+    {
+      "id": "getAmcList",
+      "name": {
+        "no": "1.",
+        "th": "รายชื่อบริษัทจัดการกองทุนรวม (บลจ.)",
+        "en": "Asset Management Company : AMC"
+      },
+      "description": {
+        "th": "ข้อมูลรายชื่อบริษัทจัดการกองทุนรวม (บลจ.) ที่อยู่ภายใต้การกำกับดูแลของสำนักงานก.ล.ต.",
+        "noteTh": "[!NOTE] สามารถนำรหัสบริษัทหลักทรัพย์จัดการกองทุน (unique_id) ไปใช้ร่วมกับ Fund API ข้ออื่น เช่น ข้อ 02. กองทุนรวมภายใต้การบริหารจัดการของบลจ.และลักษณะทั่วไปของแต่ละกองทุน เพื่อค้นหากองทุนที่บลจ.นั้น ๆ บริหารดูแล",
+        "en": "This API provides a list of Asset Management Companies (AMCs) under supervision of the SEC Thailand.",
+        "noteEn": "[!NOTE] The AMC code (unique_id) can be used as a reference or parameter in other Fund APIs e.g. Fund Profiles under AMC Management & General Information to retrieve all mutual funds managed by a specific AMC."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/general-info/amcs",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจาก response ก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "unique_id": "C0000000021",
+              "comp_name_en": "KASIKORN ASSET MANAGEMENT COMPANY LIMITED",
+              "comp_name_th": "บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด",
+              "last_upd_date": "2025-11-19T07:13:01Z"
+            },
+            {
+              "unique_id": "C0000000023",
+              "comp_name_en": "MFC ASSET MANAGEMENT PUBLIC COMPANY LIMITED ",
+              "comp_name_th": "บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)",
+              "last_upd_date": "2025-11-19T07:13:01Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].unique_id",
+            "description": {
+              "en": "Asset management company identifier",
+              "th": "รหัสบริษัทหลักทรัพย์จัดการกองทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].comp_name_th",
+            "description": {
+              "en": "Asset management company name in Thai",
+              "th": "ชื่อบริษัทหลักทรัพย์จัดการกองทุนภาษาไทย"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].comp_name_en",
+            "description": {
+              "en": "Asset management company name in English",
+              "th": "ชื่อบริษัทหลักทรัพย์จัดการกองทุนภาษาอังกฤษ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFundProfile",
+      "name": {
+        "no": "2.",
+        "th": "กองทุนรวมภายใต้การบริหารจัดการของบลจ.และลักษณะทั่วไปของแต่ละกองทุน",
+        "en": "Fund Profile under AMC Management & General Information"
+      },
+      "description": {
+        "th": "ข้อมูลกองทุนรวมภายใต้การบริหารจัดการของแต่ละบริษัทหลักทรัพย์จัดการกองทุน (บลจ.) พร้อมลักษณะทั่วไปของแต่ละกองทุน เช่น สถานะกองทุน นโยบายการลงทุน ลักษณะโครงการ อายุโครงการ ชนิดหน่วยลงทุน (Class Fund) รวมถึงข้อมูลกองทุนหลักในกรณีที่เป็น Feeder Fund",
+        "noteTh": "[!NOTE] หากต้องการดึงข้อมูลเฉพาะกองที่ยังมีสถานะ active อยู่ในปัจจุบัน (กำลังอยู่ระหว่างเสนอขาย หรือ จดทะเบียน) ให้ผู้ใช้งานทำการกรองผลลัพธ์จาก API ข้อนี้ด้วยคอลัมน์ fund_status ที่มีค่าเป็น 'IPO' และ 'Registered'",
+        "en": "This API provides fund profiles and general information for mutual funds under each AMC, including fund status, investment policy, project type, project term, share classes (Class Fund), and master fund details for feeder funds.",
+        "noteEn": "[!NOTE] To retrieve only mutual funds that are currently active (either in the IPO offering period or registered and still effective), users should filter the API response using the fund_status field and keep only records where the value is 'IPO' or 'Registered'."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/general-info/profiles",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจาก response ก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        },
+        {
+          "name": "fund_status",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund status is used to filter data based on the selected status.",
+            "th": "สถานะกองทุน ใช้สำหรับกรองข้อมูลตามสถานะที่สนใจ"
+          }
+        },
+        {
+          "name": "project_info",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Project information: exact match by proj_id, partial search by proj_name_th, proj_name_en, and proj_abbr_name.",
+            "th": "ข้อมูลโครงการ: ค้นหาแบบตรงตัว (exact match) จาก proj_id และค้นหาแบบบางส่วน (partial search) จาก proj_name_th, proj_name_en และ proj_abbr_name"
+          }
+        },
+        {
+          "name": "company_info",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Company information: exact match by unique_id, partial search by comp_name_th and comp_name_en.",
+            "th": "ข้อมูลบริษัท: ค้นหาแบบตรงตัว (exact match) จาก unique_id และค้นหาแบบบางส่วน (partial search) จาก comp_name_th และ comp_name_en"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "unique_id": "C0000000023",
+              "comp_name_th": "บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)",
+              "comp_name_en": "MFC ASSET MANAGEMENT PUBLIC COMPANY LIMITED ",
+              "proj_id": "M0000_2552",
+              "regis_id": "008_2552",
+              "init_date": "2008-12-23",
+              "regis_date": "2009-01-22",
+              "cancel_date": "",
+              "proj_name_th": "กองทุนเปิดเอ็มเอฟซี ไฮ-ดิวิเดนด์ ฟันด์",
+              "proj_name_en": "MFC Hi-Dividend Fund",
+              "proj_abbr_name": "HI-DIV",
+              "fund_status": "Registered",
+              "invest_country_flag": "3",
+              "proj_retail_type": "R",
+              "proj_term_flag": "N",
+              "proj_term_day": "",
+              "proj_term_month": "",
+              "proj_term_year": "",
+              "policy_desc": "ตราสารทุน",
+              "investment_policy_desc": "<p>เน้นลงทุนในหลักทรัพย์ประเภทตราสารทุนของบริษัทที่จดทะเบียนอยู่ในตลาดหลักทรัพย์แห่งประเทศไทยที่มีการจ่ายเงินปันผลสม่ำเสมอมาโดยตลอดอย่างน้อย 3 ปีย้อนหลัง และ/หรือมีศักยภาพในการจ่ายเงินปันผลในอนาคตที่มีแนวโน้มเพิ่มขึ้นอย่างต่อเนื่อง โดยหลักทรัพย์เหล่านั้นยังคงมีปัจจัยพื้นฐานที่ดีและมีแนวโน้มการเจริญเติบโตสูงในระยะปานกลางถึงระยะยาว ซึ่งมีอัตราส่วนการลงทุนโดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม โดยมีหลักเกณฑ์ในการคัดเลือกหลักทรัพย์ ดังนี้&nbsp;<br>1. การจ่ายเงินปันผลในอดีตย้อนหลัง 3 ปี&nbsp;<br>2. ผลประกอบการปัจจุบันและอนาคตของบริษัท&nbsp;<br>3. การคาดการณ์การจ่ายเงินปันผลของบริษัท<br>อย่างไรก็ตาม บริษัทจะพิจารณาถึงแนวโน้มของธุรกิจที่มีความมั่นคง มีความผันผวนต่ำเมื่อเทียบกับสภาวะเศรษฐกิจที่เปลี่ยนแปลงไป และจะพิจารณาถึงสภาพคล่องของหลักทรัพย์ประกอบด้วย ทั้งนี้ ผู้จัดการกองทุนจะพิจารณาปรับหลักทรัพย์ที่จะลงทุนให้สอดคล้องกับสภาวะเศรษฐกิจของประเทศ และจะวิเคราะห์ข้อมูลเกี่ยวกับผลการดำเนินงานหรือฐานะการเงินของบริษัทผู้ออกตราสารเพื่อพิจารณาความสามารถในการจ่ายเงินปันผลในอนาคต อย่างน้อยปีละ 1 ครั้ง หากมีการเปลี่ยนแปลงผลการดำเนินงานหรือฐานะทางการเงินของบริษัทผู้ออกตราสารอย่างมีนัยสำคัญ ก็จะพิจารณาปรับเปลี่ยนการลงทุนในหุ้นดังกล่าวให้เหมาะสม และเป็นไปตามหลักเกณฑ์การคัดเลือกหลักทรัพย์ข้างต้น<br>สำหรับเงินส่วนที่เหลือจะลงทุนในตราสารแห่งหนี้ เงินฝากธนาคาร ตราสารกึ่งหนี้กึ่งทุน ใบสำคัญแสดงสิทธิอนุพันธ์ หลักทรัพย์หรือทรัพย์สินอื่นหรือการหาดอกผลโดยวิธีอื่นที่คณะกรรมการ ก.ล.ต. หรือสำนักงานประกาศกำหนด&nbsp;<br>กองทุนเปิดเอ็มเอฟซี ไฮ-ดิวิเดนด์ ฟันด์ อาจลงทุนในตราสารอนุพันธ์ โดยกองทุนจะเลือกลงทุนในสัญญาซื้อขายล่วงหน้าใน SET50 Index Futures ในฐานะซื้อ (long position) เพื่อเพิ่มประสิทธิภาพในการบริหารให้สามารถสร้างผลตอบแทนจากการลงทุนได้เพิ่มขึ้น และในฐานะขาย (short position) เพื่อลดความเสี่ยงจากการลงทุนในกรณีที่ดัชนีตลาดหลักทรัพย์ปรับตัวลดลง อย่างไรก็ตามผู้จัดการกองทุนจะจัดสัดส่วนการลงทุนให้เหมาะสมกับสภาวการณ์ในแต่ละขณะเพื่อผลตอบแทนการลงทุนที่ดีและกระจายความเสี่ยงในการลงทุน<br>กองทุนอาจลงทุนในหน่วยลงทุนของกองทุนรวม กองทุนรวมอสังหาริมทรัพย์ ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (REITs) กองทุนรวมโครงสร้างพื้นฐาน (Infra) ซึ่งอยู่ภายใต้การจัดการของบริษัทจัดการ ในสัดส่วนไม่เกินร้อยละ 25 ของมูลค่าทรัพย์สินสุทธิของกองทุน โดยการลงทุนในหน่วยลงทุนดังกล่าวต้องอยู่ภายใต้กรอบนโยบายการลงทุนของกองทุน ซึ่งเป็นไปตามหลักเกณฑ์เงื่อนไขที่สำนักงานคณะกรรมการ ก.ล.ต. กำหนด ทั้งนี้ กองทุนปลายทางไม่สามารถลงทุนย้อนกลับในกองทุนต้นทาง (circle investment) และกองทุนปลายทางไม่สามารถลงทุนต่อในกองทุนอื่นภายใต้ บลจ. เดียวกันอีก (cascade investment)<br>กองทุนเปิดเอ็มเอฟซี ไฮ-ดิวิเดนด์ ฟันด์ อาจลงทุนในสัญญาซื้อขายล่วงหน้าอื่นๆ (derivatives) เพื่อเพิ่มประสิทธิภาพการบริหารการลงทุน (efficient portfolio management) และเพื่อการลดความเสี่ยง (hedging)&nbsp;</p><p><br><strong>ประเภทของหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นที่จะลงทุน :</strong><br><strong>ประเภทของหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นที่จะลงทุนในประเทศ :</strong><br>ส่วนที่ 1 : ประเภทและคุณสมบัติของตราสารทางการเงินทั่วไป&nbsp;<br>ประเภทของตราสาร ได้แก่<br>1. ตราสารทุน<br>1.1 หุ้น<br>1.2 ใบสำคัญแสดงสิทธิที่จะซื้อหุ้น (share warrants)<br>1.3 ใบแสดงสิทธิในการซื้อหุ้นเพิ่มทุนที่โอนสิทธิได้ (Transferable Subscription Right : TSR)<br>1.4 ใบแสดงสิทธิในผลประโยชน์ที่มี underlying เป็นหุ้นหรือ ใบสำคัญแสดงสิทธิที่จะซื้อหุ้น (share warrants)<br>1.5 ตราสารทุนอื่นที่มีลักษณะทำนองเดียวกับตราสารทุนตาม 1.1 - 1.4 ตามที่สำนักงานคณะกรรมการ ก.ล.ต. กำหนดเพิ่มเติม<br>2. ตราสารหนี้<br>2.1 พันธบัตร<br>2.2 ตั๋วเงินคลัง<br>2.3 หุ้นกู้ (ไม่รวมหุ้นกู้แปลงสภาพ หุ้นกู้อนุพันธ์ และตราสาร Basel III)<br>2.4 ตั๋วแลกเงิน (Bill of Exchange : B/E)<br>2.5 ตั๋วสัญญาใช้เงิน (Promissory Note : ตั๋วสัญญาใช้เงิน)<br>2.6 ใบสำคัญแสดงสิทธิที่จะซื้อหุ้นกู้<br>2.7 ใบแสดงสิทธิในผลประโยชน์ที่มี underlying เป็นพันธบัตรหรือหุ้นกู้<br>2.8 ตราสารหนี้อื่นที่มีลักษณะทำนองเดียวกับตราสารหนี้ตาม 2.1 - 2.7 ตามที่สำนักงานคณะกรรมการ ก.ล.ต. กำหนดเพิ่มเติม<br>3. ตราสารกึ่งหนี้กึ่งทุน (ไม่รวมตราสาร Basel III)<br>4. ใบสำคัญแสดงสิทธิอนุพันธ์ (Derivative Warrants : DW)<br>ทั้งนี้ คุณสมบัติของตราสารและหลักเกณฑ์ในการลงทุนเป็นไปตามประกาศ<br>ส่วนที่ 2 : ทรัพย์สินประเภทหน่วยลงทุนของกองทุนรวม (หน่วย CIS), หน่วยของกองทรัพย์สินที่เกี่ยวข้องกับโครงสร้างพื้นฐาน (หน่วย infra) และหน่วยของกองทรัพย์สินที่เกี่ยวข้องกับอสังหาริมทรัพย์ (หน่วย property/REITs) เป็นไปตามประกาศ ทั้งนี้ จะไม่ลงทุนในหน่วย CIS ที่จดทะเบียนซื้อขายในตลาดหลักทรัพย์ (listed fund) ซึ่งมีคุณสมบัติของตราสารเช่นเดียวกันกับตราสาร transferable securities<br>ส่วนที่ 3 : ทรัพย์สินประเภทเงินฝากหรือตราสารเทียบเท่าเงินฝาก&nbsp;<br>ส่วนที่ 4 : ธุรกรรมประเภทการซื้อโดยมีสัญญาขายคืน (reverse repo)<br>ส่วนที่ 5 : ธุรกรรมประเภทการให้ยืมหลักทรัพย์ (securities lending)<br>ส่วนที่ 6 : ธุรกรรมประเภท derivatives<br>ทั้งนี้ ส่วนที่ 3 - ส่วนที่ 6 เป็นไปตามประกาศ<br><br><strong>อัตราส่วนการลงทุนในหลักทรัพย์หรือทรัพย์สินอื่น เพื่อเป็นทรัพย์สินของกองทุนรวม&nbsp;</strong><br><strong>อัตราส่วนการลงทุนในหลักทรัพย์หรือทรัพย์สินอื่น เพื่อเป็นทรัพย์สินของกองทุนรวมในประเทศและต่างประเทศ :</strong><br>เป็นไปตามประกาศ และกรณีที่การลงทุนไม่เป็นไปตามข้อนี้ จะดำเนินการให้เป็นไปตามประกาศกำหนด ทั้งนี้ กองทุนมีการกำหนดอัตราส่วนการลงทุนเพิ่มเติมดังนี้<br>ส่วนที่ 1 : อัตราส่วนการลงทุนที่คำนวณตามผู้ออกทรัพย์สินหรือคู่สัญญา (single entity limit) ได้แก่<br>- หน่วย CIS ที่จัดตั้งขึ้นตามกฎหมายไทย ไม่เกิน10%<br>ส่วนที่ 3 : อัตราส่วนการลงทุนที่คำนวณตามประเภททรัพย์สิน (product limit) ได้แก่<br>- ตราสารหนี้ ตราสารกึ่งหนี้กึ่งทุน ที่มีอันดับความน่าเชื่อถือที่ตัวตราสาร และ/หรือผู้ออกตราสารที่ต่ำกว่าที่สามารถลงทุนได้ (non-investment grade / unrated) ซึ่งนำมารวมคำนวณใน total SIP รวมกันไม่เกิน 15%<br>- หน่วย CIS ที่จัดตั้งขึ้นตามกฎหมายไทย ไม่เกิน 20%<br>- กองทุนรวมอสังหาริมทรัพย์/REITs ไม่เกิน 15%</p>",
+              "management_style": "AM",
+              "feederfund_master_fund": "",
+              "feederfund_country": "",
+              "exchange_rate_protection_policy": "",
+              "fund_class_name": "HIDIV-AR",
+              "fund_class_detail": "ชนิดรับซื้อคืนหน่วยลงทุนโดยอัตโนมัติ",
+              "fund_class_description": "สำหรับผู้ถือหน่วยลงทุนทั่วไปที่ต้องการรับผลตอบแทนจากการรับซื้อคืนหน่วยลงทุนโดยอัตโนมัติ",
+              "fund_class_tax_incentive_type": "",
+              "fund_class_isin_code": "TH1085B10009",
+              "last_upd_date": "2025-11-19T07:17:50Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].unique_id",
+            "description": {
+              "en": "Asset management company identifier",
+              "th": "รหัสบริษัทหลักทรัพย์จัดการกองทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].comp_name_th",
+            "description": {
+              "en": "Asset management company name in Thai",
+              "th": "ชื่อบริษัทหลักทรัพย์จัดการกองทุนภาษาไทย"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].comp_name_en",
+            "description": {
+              "en": "Asset management company name in English",
+              "th": "ชื่อบริษัทหลักทรัพย์จัดการกองทุนภาษาอังกฤษ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].regis_id",
+            "description": {
+              "en": "Fund registration number",
+              "th": "เลขที่จดทะเบียนกองทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_name_th",
+            "description": {
+              "en": "Fund project name (Thai)",
+              "th": "ชื่อโครงการจัดการกองทุนรวม (ไทย)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_name_en",
+            "description": {
+              "en": "Fund project name (English)",
+              "th": "ชื่อโครงการจัดการกองทุนรวม (อังกฤษ)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_abbr_name",
+            "description": {
+              "en": "Fund project abbreviation",
+              "th": "ชื่อย่อโครงการจัดการกองทุนรวม"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_status",
+            "description": {
+              "en": "Fund status:\nRegistered = Officially registered\nIPO = Initial Public Offering\nExpired = Offering period ended\nCanceled = Project canceled\nLiquidated = Fund liquidated",
+              "th": "สถานะกองทุนรวม:\nRegistered = จดทะเบียน\nIPO = เสนอขายหน่วยลงทุนครั้งแรก\nExpired = หมดเวลาเสนอขาย\nCanceled = เลิกโครงการ\nLiquidated = จดทะเบียนเลิก"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].init_date",
+            "description": {
+              "en": "Fund establishment date",
+              "th": "วันที่จัดตั้งกองทุนรวม"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].regis_date",
+            "description": {
+              "en": "Fund registration date",
+              "th": "วันที่จดทะเบียนกองทุนรวม"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].cancel_date",
+            "description": {
+              "en": "Fund cancellation date",
+              "th": "วันที่ยกเลิกกองทุนรวม"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].invest_country_flag",
+            "description": {
+              "en": "Foreign investment risk category:\n1 = Focuses on foreign investment\n2 = Partial foreign investment\n3 = No foreign investment risk\n4 = Both domestic and foreign investment risk",
+              "th": "ความเสี่ยงการลงทุนในต่างประเทศ:\n1 = เน้นลงทุนต่างประเทศ\n2 = ลงทุนในต่างประเทศบางส่วน\n3 = ไม่มีความเสี่ยงต่างประเทศ\n4 = มีความเสี่ยงทั้งในและต่างประเทศ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_retail_type",
+            "description": {
+              "en": "Project retail type:\nA = Mutual fund offered to non-retail investors\nB = Mutual fund offered to high net worth investors\nF = Mutual fund for liquidity support in the corporate bond market\nG = Special mutual fund to respond to government policies\nH = Mutual fund offered to non-retail and high net worth investors\nN = Mutual fund for institutional investors\nR = Mutual fund for general investors\nV = Mutual fund for provident funds\nX = Mutual fund offered to institutional and ultra-high net worth investors",
+              "th": "ลักษณะโครงการ:\nA = กองทุนรวมที่เสนอขายเฉพาะผู้ลงทุนที่มิใช่รายย่อย\nB = กองทุนรวมที่เสนอขายเฉพาะผู้มีเงินลงทุนสูง\nF = กองทุนรวมเสริมสภาพคล่องเพื่อลดความเสี่ยงของการระดมทุนในตลาดตราสารหนี้ภาคเอกชน\nG = กองทุนรวมพิเศษเพื่อตอบสนองนโยบายภาครัฐ\nH = กองทุนรวมที่เสนอขายผู้ลงทุนที่มิใช่รายย่อยและผู้มีเงินลงทุนสูง\nN = กองทุนเพื่อผู้ลงทุนสถาบัน\nR = กองทุนเพื่อผู้ลงทุนทั่วไป\nV = กองทุนรวมเพื่อผู้ลงทุนที่เป็นกองทุนสำรองเลี้ยงชีพ\nX = กองทุนรวมที่เสนอขายผู้ลงทุนสถาบันและผู้ลงทุนรายใหญ่พิเศษ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_term_flag",
+            "description": {
+              "en": "Project term indicator (Y = fixed term, N = no fixed term)",
+              "th": "อายุโครงการ (Y = กำหนด N = ไม่กำหนด)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_term_year",
+            "description": {
+              "en": "Project duration in years",
+              "th": "อายุโครงการ (ปี)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_term_month",
+            "description": {
+              "en": "Project duration in months",
+              "th": "อายุโครงการ (เดือน)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_term_day",
+            "description": {
+              "en": "Project duration in days",
+              "th": "อายุโครงการ (วัน)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].policy_desc",
+            "description": {
+              "en": "Fund policy type",
+              "th": "ประเภทกองทุนตามนโยบายกองทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].investment_policy_desc",
+            "description": {
+              "en": "Investment policy description (may be HTML or Base64 encoded string)",
+              "th": "นโยบายการลงทุน (ข้อมูลเป็นข้อความยาว อาจอยู่ในรูป HTML หรือ String ที่ Encode ด้วย Base64)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].management_style",
+            "description": {
+              "en": "Fund management strategy (Management Style):\nAM = Active Management\nAN = Thai fund follows a master fund (Active)\nPM = Passive Management/Index Tracking\nPN = Thai fund follows a master fund (Passive)\nIM = Inverse Management\nIN = Thai fund follows a master fund (Inverse)\nLM = Leveraged Management\nLN = Thai fund follows a master fund (Leveraged)\nBH = Buy-and-Hold\nSM = Index Tracking with occasional alpha generation\nOT = Others",
+              "th": "กลยุทธ์การบริหารจัดการกองทุน (Management Style):\nAM = มุ่งหวังให้ผลประกอบการเคลื่อนไหวสูงกว่าดัชนีชี้วัด (active management)\nAN = กองทุนไทยมุ่งหวังให้ผลประกอบการเคลื่อนไหวตามกองทุนหลัก ส่วนกองทุนหลักมุ่งหวังให้ผลประกอบการสูงกว่าดัชนีชี้วัด\nPM = มุ่งหวังให้ผลประกอบการเคลื่อนไหวตามดัชนีชี้วัด (passive management/index tracking)\nPN = กองทุนไทยมุ่งหวังให้ผลประกอบการเคลื่อนไหวตามกองทุนหลัก ส่วนกองทุนหลักมุ่งหวังให้ผลประกอบการเคลื่อนไหวตามดัชนีชี้วัด\nIM = มุ่งหวังให้ได้รับผลประกอบการเคลื่อนไหวตรงกันข้ามกับผลตอบแทนรายวันของดัชนีอ้างอิง (inverse management)\nIN = กองทุนไทยมุ่งหวังให้ผลประกอบการเคลื่อนไหวตามกองทุนหลัก ส่วนกองทุนหลักมุ่งหวังให้ได้รับผลประกอบการเคลื่อนไหวตรงกันข้ามกับผลตอบแทนรายวันของดัชนีอ้างอิง\nLM = มุ่งหวังให้ได้รับผลประกอบการเคลื่อนไหวทวีคูณกับผลตอบแทนรายวันของดัชนีอ้างอิง (leveraged management)\nLN = กองทุนไทยมุ่งหวังให้ผลประกอบการเคลื่อนไหวตามกองทุนหลัก ส่วนกองทุนหลักมุ่งหวังให้ได้รับผลประกอบการเคลื่อนไหวทวีคูณกับผลตอบแทนรายวันของดัชนีอ้างอิง\nBH = มีกลยุทธ์การลงทุนครั้งเดียว (buy-and-hold)\nSM = มุ่งหวังให้ผลประกอบการเคลื่อนไหวตามดัชนีชี้วัด และในบางโอกาสอาจสร้างผลตอบแทนสูงกว่าดัชนีชี้วัด\nOT = อื่น ๆ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].feederfund_master_fund",
+            "description": {
+              "en": "Master fund name (for feeder funds)",
+              "th": "ชื่อกองทุนหลัก (Master Fund)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].feederfund_country",
+            "description": {
+              "en": "Country of master fund registration",
+              "th": "ประเทศที่จดทะเบียนของกองทุนหลัก"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].exchange_rate_protection_policy",
+            "description": {
+              "en": "Exchange rate risk hedging policy",
+              "th": "นโยบายป้องกันความเสี่ยงจากอัตราแลกเปลี่ยน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_detail",
+            "description": {
+              "en": "Fund class name",
+              "th": "ชื่อชนิดหน่วยลงทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_description",
+            "description": {
+              "en": "Additional description of the fund class",
+              "th": "คำอธิบายชนิดหน่วยลงทุนเพิ่มเติม (ถ้ามี)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_tax_incentive_type",
+            "description": {
+              "en": "Tax incentive type (SSF, Thai ESG)",
+              "th": "สิทธิประโยชน์ทางภาษี (SSF, Thai ESG)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_isin_code",
+            "description": {
+              "en": "ISIN code of the fund class",
+              "th": "ISIN Code ของชนิดหน่วยลงทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFundSpecification",
+      "name": {
+        "no": "3.",
+        "th": "ประเภทกองทุนรวมตามลักษณะพิเศษ",
+        "en": "Fund Specification"
+      },
+      "description": {
+        "th": "ข้อมูลประเภทกองทุนรวมตามลักษณะพิเศษ (Fund Specification) ซึ่งนิยามตามประกาศสำนักงาน ก.ล.ต. สน.87/2558 ภาคผนวก 2 ในระดับชนิดหน่วยลงทุน (Class Fund)",
+        "noteTh": "",
+        "en": "This API provides special characteristics of each mutual funds (Fund Specifications), as defined in SEC Notification Nor. 87/2568 Appendix 2 at the Class Fund level.",
+        "noteEn": ""
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/general-info/specifications",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจาก response ก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Project Number ({Type}{ID}_YYYY)",
+            "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "fund_class_name": "HIDIV-AR",
+              "spec_code": "CIV",
+              "spec_desc": "กองทุนรวมที่มีนโยบายเปิดให้มีการลงทุนในกองทุนรวมอื่นภายใต้ บลจ. เดียวกัน (CROSS Investing Fund)",
+              "last_upd_date": "2025-11-19T07:23:12Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].spec_code",
+            "description": {
+              "en": "Special characteristic code",
+              "th": "รหัสลักษณะพิเศษ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].spec_desc",
+            "description": {
+              "en": "Fund type by special characteristic (defined in Notification SorNor 87/2558 Appendix 2)",
+              "th": "ประเภทกองทุนตามลักษณะพิเศษ (นิยามตามประกาศ สน.87/2558 ภาคผนวก 2)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getMutualfundFee",
+      "name": {
+        "no": "4.",
+        "th": "ค่าธรรมเนียมที่เรียกเก็บจากกองทุนรวม และค่าธรรมเนียมทั้งหมด",
+        "en": "Mutual Fund Fee and Total Fee"
+      },
+      "description": {
+        "th": "ข้อมูลรายละเอียดค่าธรรมเนียมที่เรียกเก็บจากกองทุนรวมในระดับชนิดหน่วยลงทุน (Class Fund) แยกตามประเภทค่าธรรมเนียม เช่น ค่าธรรมเนียมการจัดการ (Management Fee), ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee), ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) รวมถึงค่าธรรมเนียมทั้งหมด (Total Fee) ตามที่ระบุไว้ในโครงการของกองทุน",
+        "noteTh": "",
+        "en": "This API provides detailed information on mutual fund fees at the share class level (Class Fund), broken down by fee type such as management fee, trustee fee, registrar fee, distributor fee, and total fees as specified in the fund project documentation.",
+        "noteEn": ""
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/general-info/mutual-fund-fees",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจาก response ก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Project Number ({Type}{ID}_YYYY)",
+            "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "fund_class_name": "HIDIV-AR",
+              "fee_type_desc": "ค่าธรรมเนียมการจัดการ (Management Fee)",
+              "rate": 2.14,
+              "rate_unit": "ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม",
+              "fee_other_desc": "(1) ค่าธรรมเนียมการจัดตั้งกองทุน ในอัตราไม่เกินร้อยละ 1.07 ต่อปีของมูลค่าทรัพย์สินสุทธิของกองทุน ณ วันจดทะเบียนกองทรัพย์สิน...",
+              "last_upd_date": "2025-11-19T07:13:41Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fee_type_desc",
+            "description": {
+              "en": "Fee type (Distributor Fee, Investment Advisor Fee, Management Fee, Other Fee, Registrar Fee, Total Fee, Trustee Fee)",
+              "th": "ประเภทค่าธรรมเนียม ได้แก่ Distributor Fee, Investment Advisor Fee, Management Fee, Other Fee, Registrar Fee, Total Fee และ Trustee Fee"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].rate",
+            "description": {
+              "en": "Rate according to the project",
+              "th": "อัตราตามโครงการ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].rate_unit",
+            "description": {
+              "en": "Unit of the rate according to the project",
+              "th": "หน่วยของอัตราตามโครงการ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fee_other_desc",
+            "description": {
+              "en": "Additional remarks (if any)",
+              "th": "หมายเหตุเพิ่มเติม (ถ้ามี)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFundRelative",
+      "name": {
+        "no": "5.",
+        "th": "ผู้เกี่ยวข้องกับกองทุนรวม",
+        "en": "Fund Involve Party"
+      },
+      "description": {
+        "th": "ข้อมูลบุคคลหรือนิติบุคคลที่เกี่ยวข้องกับกองทุนรวม ตามบทบาทหน้าที่ที่กำหนดไว้ในโครงการกองทุน เช่น ผู้ดูแลผลประโยชน์ นายทะเบียน ผู้แทนจำหน่าย ผู้สร้างสภาพคล่อง ที่ปรึกษาการลงทุน และหน่วยงานอื่นที่เกี่ยวข้อง",
+        "noteTh": "",
+        "en": "This API provides information on entities related to mutual funds based on the roles defined in the fund project, such as Trustee, Registrar, Distributor, Market Maker, Participating Dealer, Investment Advisor, and other involved parties.",
+        "noteEn": ""
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/general-info/involve-parties",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจาก response ก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Project Number ({Type}{ID}_YYYY)",
+            "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+          }
+        },
+        {
+          "name": "entity_type",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Search for related individual/corporate entity type",
+            "th": "ค้นหาประเภทบุคคล/นิติบุคคลที่เกี่ยวข้อง"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "entity_type": "R",
+              "entity_name_en": "MFC ASSET MANAGEMENT PUBLIC COMPANY LIMITED ",
+              "entity_name_th": "บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)",
+              "address": "เลขที่ 199 อาคารคอลัมน์ทาวเวอร์ ชั้น จี,ชั้น 21-23 ถนนรัชดาภิเษก ประเทศไทย 10110",
+              "last_upd_date": "2025-11-19T07:22:16Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].entity_type",
+            "description": {
+              "en": "Type of related person or entity (ENTITY_TYPE):\nA = Auditor\nU = Underwriter\nS = Selling Agent\nR = Registrar\nV = Mutual Fund Supervisor / Trustee\nM = Investment Solicitor / Advisor\nO = Outsource Company (Investment Management)\nP = Private Equity / Professional Investor\nK = Market Maker\nN = Financial Advisor\nF = Fund Manager",
+              "th": "ประเภทบุคคล/นิติบุคคลที่เกี่ยวข้อง (ENTITY_TYPE):\nA = ผู้สอบบัญชี\nU = ผู้จัดจำหน่าย\nS = ผู้สนับสนุนการขายและรับซื้อคืน\nR = นายทะเบียนหน่วยลงทุน\nV = ผู้ดูแลผลประโยชน์\nM = ที่ปรึกษาการลงทุน\nO = ผู้รับมอบหมายงานด้านการจัดการลงทุน\nP = ผู้ลงทุนรายใหญ่\nK = ผู้ดูแลสภาพคล่อง\nN = ที่ปรึกษาทางการเงิน\nF = ผู้จัดการกองทุน"
+            },
+            "type": "string",
+            "enum": [
+              "T",
+              "R",
+              "D",
+              "MM",
+              "PD",
+              "IA",
+              "FA",
+              "G",
+              "O",
+              "PB"
+            ],
+            "enum_description": {
+              "T": {
+                "en": "Trustee",
+                "th": "ผู้ดูแลผลประโยชน์ (Trustee)"
+              },
+              "R": {
+                "en": "Registrar",
+                "th": "นายทะเบียน (Registrar)"
+              },
+              "D": {
+                "en": "Distributor",
+                "th": "ผู้แทนจำหน่าย (Distributor)"
+              },
+              "MM": {
+                "en": "Market Maker",
+                "th": "ผู้สร้างสภาพคล่อง (Market Maker)"
+              },
+              "PD": {
+                "en": "Participating Dealer",
+                "th": "ผู้ค้าหน่วยลงทุนในตลาด (Participating Dealer)"
+              },
+              "IA": {
+                "en": "Investment Advisor",
+                "th": "ที่ปรึกษาการลงทุน (Investment Advisor)"
+              },
+              "FA": {
+                "en": "Fund Advisor",
+                "th": "ที่ปรึกษากองทุน (Fund Advisor)"
+              },
+              "G": {
+                "en": "Guarantor",
+                "th": "ผู้ค้ำประกัน (Guarantor)"
+              },
+              "O": {
+                "en": "Outsource Service Provider",
+                "th": "ผู้ให้บริการภายนอก (Outsource)"
+              },
+              "PB": {
+                "en": "Prime Broker",
+                "th": "Prime Broker"
+              }
+            }
+          },
+          {
+            "fieldName": "items[].entity_name_th",
+            "description": {
+              "en": "Name of the person or entity (Thai)",
+              "th": "ชื่อบุคคล/นิติบุคคล (ภาษาไทย)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].entity_name_en",
+            "description": {
+              "en": "Name of the person or entity (English)",
+              "th": "ชื่อบุคคล/นิติบุคคล (ภาษาอังกฤษ)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].address",
+            "description": {
+              "en": "Address",
+              "th": "ที่อยู่"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetUrl",
+      "name": {
+        "no": "6.",
+        "th": "URL และ ไฟล์ pdf ของ Fund Fact Sheet",
+        "en": "Fund Factsheet URL and PDF File"
+      },
+      "description": {
+        "th": "ข้อมูลลิงก์ดาวน์โหลดไฟล์ PDF ของ Fund Fact Sheet (pdf_factsheet) รวมไปถึง URL สำหรับเข้าถึง Factsheet จากเว็บไซต์ของบลจ. (amc_url_factsheet) ซึ่งเป็นไฟล์ PDF และลิงก์ที่บลจ.จัดส่งให้สำนักงานโดยตรงในระดับชนิดหน่วยลงทุน (Class Fund) สำหรับกองทุนที่มีหลายชนิดหน่วยลงทุน (Class Fund) บลจ.จะจัดส่งไฟล์ PDF เพียงไฟล์เดียวให้สำนักงาน โดยภายในไฟล์ดังกล่าวได้รวบรวมข้อมูลของทุกชนิดหน่วยลงทุนไว้ ซึ่งสำนักงาน ก.ล.ต.นำไฟล์ PDF นี้มาให้บริการต่อผ่าน API โดยไม่มีการแยกไฟล์หรือปรับแก้ไขเนื้อหาเพิ่มเติม",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลา โดยแต่ละแถวจะแสดงข้อมูล Fund Factsheet ณ วันที่ใดวันที่หนึ่ง (as_of_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides download links for Fund Fact Sheet PDF files (pdf_factsheet) and includes URLs to the fact sheets published on the AMCs' official websites (amc_url_factsheet), which are submitted by Asset Management Companies (AMCs) to the SEC Thailand. For funds with multiple share classes (Class Funds), the AMC was required to submit a single PDF file that consolidates the fund factsheet information for all share classes into one document, which the SEC provides through the API without any modification.",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record corresponds to a factsheet as of a specific reporting date (as_of_date), and a fund or share class may have multiple records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/urls",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจาก response ก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Project Number ({Type}{ID}_YYYY)",
+            "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "fund_class_name": "HIDIV-AR",
+              "prospectus_type": "Monthly",
+              "amc_url_factsheet": "https://documents.mfcfund.com/Website/FundFiles/Q&A/QA_HIDIV-AR.pdf",
+              "pdf_factsheet": "https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0000_2552.pdf",
+              "as_of_date": "2025-09-30",
+              "last_upd_date": "2025-10-31T03:32:17Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Mutual fund project number ({Type}{ID}_YYYY), e.g. M0000_2552",
+              "th": "เลขที่โครงการกองทุนรวม ({Type}{ID}_YYYY) เช่น M0000_2552"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type or frequency of the prospectus / factsheet document, e.g. Monthly",
+              "th": "รูปแบบหรือความถี่ของเอกสารชี้ชวน / factsheet ที่จัดทำ เช่น Monthly (รายเดือน)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].amc_url_factsheet",
+            "description": {
+              "en": "URL to the Fund Factsheet on the asset management company's website",
+              "th": "ลิงก์ไปยังเอกสาร Fund Factsheet บนเว็บไซต์ของบริษัทหลักทรัพย์จัดการกองทุน (AMC)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].pdf_factsheet",
+            "description": {
+              "en": "URL of the Fund Factsheet PDF file hosted by the SEC",
+              "th": "ลิงก์ไฟล์ PDF ของ Fund Factsheet ที่จัดเก็บโดย ก.ล.ต."
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].as_of_date",
+            "description": {
+              "en": "Reference date of the information in the Fund Factsheet (As of date)",
+              "th": "วันที่อ้างอิงข้อมูลในเอกสาร Fund Factsheet (As of date)"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date and time of the data",
+              "th": "วันที่และเวลาที่มีการแก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetIPO",
+      "name": {
+        "no": "7.",
+        "th": "การเสนอขายกองทุนรวม",
+        "en": "IPO Offering Period"
+      },
+      "description": {
+        "th": "ข้อมูลการเสนอขายครั้งแรก (IPO) ของกองทุนรวม โดยอ้างอิงข้อมูลช่วงเวลาเริ่มต้น IPO (first_sell_start_date) และสิ้นสุด IPO (first_sell_end_date) ตามที่บลจ.นำส่งใน Fund Fact Sheet แต่ละงวดรายงาน",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides information on the Initial Public Offering (IPO) period of mutual funds, based on the Fund Fact Sheet reported by Asset Management Companies (AMCs).",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/ipos",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจาก response ก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "start_date": "2022-06-30",
+              "end_date": "2022-07-26",
+              "prospectus_type": "Monthly",
+              "first_sell_start_date": "14/01/2552",
+              "first_sell_end_date": "20/01/2552",
+              "last_upd_date": "2022-07-26T07:53:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].first_sell_start_date",
+            "description": {
+              "en": "IPO start date",
+              "th": "วันเริ่ม IPO"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].first_sell_end_date",
+            "description": {
+              "en": "IPO end date",
+              "th": "วันสิ้นสุด IPO"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetBenchmark",
+      "name": {
+        "no": "8.",
+        "th": "ดัชนีชี้วัดกองทุนรวม",
+        "en": "Fund Benchmark"
+      },
+      "description": {
+        "th": "ข้อมูลดัชนีชี้วัดของกองทุนรวมตามที่บลจ.นำส่งข้อมูลใน Fund Fact Sheet แต่ละงวดรายงาน",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides information on the fund benchmark, based on the Fund Fact Sheet reported by Asset Management Companies (AMCs).",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/benchmarks",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจาก response ก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "start_date": "2022-06-30",
+              "end_date": "2022-07-26",
+              "prospectus_type": "Monthly",
+              "group_seq": 1,
+              "benchmark": "ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI)",
+              "benchmark_remark": "",
+              "last_upd_date": "2022-07-26T07:53:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].group_seq",
+            "description": {
+              "en": "Group sequence number",
+              "th": "ลำดับกลุ่ม"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].benchmark",
+            "description": {
+              "en": "Benchmark index (Section 8.1)",
+              "th": "ดัชนีชี้วัด (8.1)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].remark",
+            "description": {
+              "en": "Remark (if any)",
+              "th": "หมายเหตุ (ถ้ามี)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetRedemptionInvestment",
+      "name": {
+        "no": "9.",
+        "th": "มูลค่าและจำนวนหน่วยลงทุนขั้นต่ำในการสั่งซื้อ สั่งขายคืน หรือคงเหลือของกองทุนรวม",
+        "en": "Minimum Subscription, Redemption, and Balance Amounts and Units"
+      },
+      "description": {
+        "th": "ข้อมูลมูลค่าและจำนวนหน่วยลงทุนขั้นต่ำสำหรับการสั่งซื้อครั้งแรกและครั้งถัดไป การสั่งขายคืน และจำนวนหน่วยลงทุนคงเหลือขั้นต่ำของกองทุนรวมในแต่ละชนิดหน่วยลงทุน (Class Fund) ตามที่บลจ.นำส่งข้อมูลใน Fund Fact Sheet แต่ละงวดรายงาน",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides information on the minimum IPO subscription amounts, minimum subsequent subscription amounts, minimum redemption amounts, and minimum balance requirements as reported for each fund and share class in the Fund Factsheet by Asset Management Companies (AMCs).",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/subscription-redemption-minimums",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจาก response ก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "fund_class_name": "main",
+              "start_date": "2022-06-30",
+              "end_date": "2022-07-26",
+              "prospectus_type": "Monthly",
+              "minimum_sub_ipo": 5000,
+              "minimum_sub_ipo_cur": "THB                                               ",
+              "minimum_sub": 100,
+              "minimum_sub_cur": "THB                                               ",
+              "minimum_sub_unit": "",
+              "minimum_redempt": 0,
+              "minimum_redempt_cur": "THB                                               ",
+              "minimum_redempt_unit": "",
+              "lowbal_val": 0,
+              "lowbal_val_cur": "THB",
+              "lowbal_unit": "",
+              "last_upd_date": "2022-07-26T07:53:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].minimum_sub_ipo",
+            "description": {
+              "en": "Minimum initial subscription amount (9.5.3)",
+              "th": "มูลค่าขั้นต่ำของการสั่งซื้อครั้งแรก (9.5.3)"
+            },
+            "type": "float"
+          },
+          {
+            "fieldName": "items[].minimum_sub_ipo_cur",
+            "description": {
+              "en": "Currency unit for minimum initial subscription amount (9.5.3)",
+              "th": "หน่วย มูลค่าขั้นต่ำของการสั่งซื้อครั้งแรก (9.5.3)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].minimum_sub",
+            "description": {
+              "en": "Minimum subsequent subscription amount (9.5.4)",
+              "th": "มูลค่าขั้นต่ำของการสั่งซื้อครั้งถัดไป (9.5.4)"
+            },
+            "type": "float"
+          },
+          {
+            "fieldName": "items[].minimum_sub_cur",
+            "description": {
+              "en": "Currency unit for minimum subsequent subscription amount (9.5.4)",
+              "th": "หน่วย มูลค่าขั้นต่ำของการสั่งซื้อครั้งถัดไป (9.5.4)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].minimum_sub_unit",
+            "description": {
+              "en": "Minimum subscription units for subsequent subscription (9.5.4)",
+              "th": "จำนวนหน่วยลงทุนขั้นต่ำของการสั่งซื้อครั้งถัดไป (9.5.4)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].minimum_redempt",
+            "description": {
+              "en": "Minimum redemption amount (9.5.6)",
+              "th": "มูลค่าขั้นต่ำของการสั่งขายคืน (9.5.6)"
+            },
+            "type": "float"
+          },
+          {
+            "fieldName": "items[].minimum_redempt_cur",
+            "description": {
+              "en": "Currency unit for minimum redemption amount (9.5.6)",
+              "th": "หน่วย (มูลค่าขั้นต่ำของการสั่งขายคืน) (9.5.6)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].minimum_redempt_unit",
+            "description": {
+              "en": "Minimum redemption units (9.5.6)",
+              "th": "จำนวนหน่วยลงทุนขั้นต่ำของการสั่งขายคืน (9.5.6)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].lowbal_val",
+            "description": {
+              "en": "Minimum remaining balance amount",
+              "th": "มูลค่าคงเหลือขั้นต่ำ"
+            },
+            "type": "float"
+          },
+          {
+            "fieldName": "items[].lowbal_val_cur",
+            "description": {
+              "en": "Currency unit for minimum remaining balance amount",
+              "th": "หน่วย มูลค่าคงเหลือขั้นต่ำ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].lowbal_unit",
+            "description": {
+              "en": "Minimum remaining unit balance",
+              "th": "จำนวนหน่วยคงเหลือขั้นต่ำ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetRedemption",
+      "name": {
+        "no": "10.",
+        "th": "ระยะเวลาขายและรับซื้อคืนของกองทุนรวม",
+        "en": "Subscription and Redemption Dealing Periods and Settlement Times"
+      },
+      "description": {
+        "th": "ข้อมูลระยะเวลารับคำสั่งซื้อ (Subscription) และคำสั่งขายคืน (Redemption) รวมถึงระยะเวลาการรับเงินค่าขายคืนของกองทุนรวมในแต่ละชนิดหน่วยลงทุน (Class Fund) ตามที่บลจ.นำส่งข้อมูลใน Fund Fact Sheet แต่ละงวดรายงาน",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides information on the subscription and redemption dealing periods, as well as the settlement period for redemption proceeds as reported for each fund and share class in the Fund Factsheet by Asset Management Companies (AMCs).",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/subscription-redemption-periods",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0512_2564",
+              "fund_class_name": "AIA-ICA",
+              "start_date": "2023-01-31",
+              "end_date": "2023-02-27",
+              "prospectus_type": "Monthly",
+              "type": "subscription",
+              "period": "ทุกวันทำการ",
+              "redemp_period_oth": "",
+              "settlement_period": "",
+              "last_upd_date": "2023-02-27T03:14:20Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].type",
+            "description": {
+              "en": "Transaction type (subscription or redemption)",
+              "th": "ประเภทขายและรับซื้อคืน ได้แก่ subscription และ redemption"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].period",
+            "description": {
+              "en": "Subscription and redemption period",
+              "th": "ระยะเวลาขายและรับซื้อคืน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].redemp_period_oth",
+            "description": {
+              "en": "Additional description of subscription/redemption period (if period is 'Other')",
+              "th": "คำอธิบายการขายและรับซื้อคืน (กรณีที่ period มีค่าเป็น อื่น ๆ)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].settlement_period",
+            "description": {
+              "en": "Settlement period for redemption payment",
+              "th": "ระยะเวลาการรับเงินค่าขายคืน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetRiskSpectrum",
+      "name": {
+        "no": "11.",
+        "th": "ระดับความเสี่ยงของกองทุนรวม",
+        "en": "Fund Risk Spectrum"
+      },
+      "description": {
+        "th": "ข้อมูลระดับความเสี่ยงของกองทุนรวม (Risk Spectrum) ตามที่บลจ.รายงานใน Fund Fact Sheet แต่ละงวดรายงาน",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides information on the fund’s risk spectrum as reported for each fund in the Fund Factsheet by Asset Management Companies (AMCs).",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/risk-spectrum",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "start_date": "2022-06-30",
+              "end_date": "2022-07-26",
+              "prospectus_type": "Monthly",
+              "risk_spectrum_desc": "ลงทุนในตราสารทุนเป็นหลัก โดยเฉลี่ยในรอบปีไม่น้อยกว่า 80% ของ NAV",
+              "risk_spectrum": "RS6",
+              "last_upd_date": "2022-07-26T07:53:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].risk_spectrum",
+            "description": {
+              "en": "Fund risk level (RS1–RS8, RS81)",
+              "th": "ระดับความเสี่ยงของกองทุนรวม (RS1–RS8 และ RS81)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].risk_spectrum_desc",
+            "description": {
+              "en": "Description of the fund risk level",
+              "th": "รายละเอียดความเสี่ยงของกองทุนรวม"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetStatisticsinfo",
+      "name": {
+        "no": "12.",
+        "th": "ข้อมูลเชิงสถิติของกองทุนรวม",
+        "en": "Fund Statistics"
+      },
+      "description": {
+        "th": "ข้อมูลสถิติสำคัญของกองทุนรวม (Fund Statistics) ในแต่ละชนิดหน่วยลงทุน (Class Fund) ตามที่บลจ.รายงานใน Fund Fact Sheet แต่ละงวดรายงาน เช่น อัตราหมุนเวียนพอร์ต (Portfolio Turnover Ratio), Maximum Drawdown, Sharpe Ratio, Beta, Alpha, Yield to Maturity เป็นต้น",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides key fund statistics as reported for each fund and share class in the Fund Factsheet by Asset Management Companies (AMCs), such as Portfolio Turnover Ratio, Maximum Drawdown, Sharpe Ratio, Beta, Alpha, Yield to Maturity, etc.",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/statistics",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0027_2541",
+              "fund_class_name": "ABCC",
+              "start_date": "2023-07-31",
+              "end_date": "2023-08-30",
+              "prospectus_type": "Monthly",
+              "portfolio_turnover_ratio": "24.63",
+              "recovering_period": "1 เดือน",
+              "portfolio_duration_period": "1 เดือน 13 วัน",
+              "maximum_drawdown": "-0.02",
+              "sharpe_ratio": "0",
+              "beta": "0",
+              "alpha": "0",
+              "fx_hedging": "0",
+              "tracking_error": "0",
+              "yield_to_maturity": "2026-01-05",
+              "last_upd_date": "2023-08-28T11:15:36Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].portfolio_turnover_ratio",
+            "description": {
+              "en": "Portfolio Turnover Ratio",
+              "th": "อัตราส่วนหมุนเวียนการลงทุน (Portfolio Turn Over Ratio)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].recovering_period",
+            "description": {
+              "en": "Recovering Period",
+              "th": "ระยะเวลาที่ฟื้นตัว (Recovering Period)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].portfolio_duration_period",
+            "description": {
+              "en": "Portfolio Duration for bond funds",
+              "th": "อายุเฉลี่ยของกองทุนตราสารหนี้ (Portfolio Duration)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].maximum_drawdown",
+            "description": {
+              "en": "Maximum drawdown over the past 5 years (or since inception if less than 5 years)",
+              "th": "อัตราผลขาดทุนสูงสุดของกองทุนรวมในระยะเวลา 5 ปีย้อนหลัง (หรือตั้งแต่จัดตั้งกองทุนกรณีที่ยังไม่ครบ 5 ปี) (Maximum Drawdown)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].sharpe_ratio",
+            "description": {
+              "en": "Sharpe Ratio (applicable to equity funds only)",
+              "th": "Sharpe Ratio (หมายเหตุ : เฉพาะกองตราสารทุน)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].beta",
+            "description": {
+              "en": "Beta (applicable to equity funds only)",
+              "th": "Beta (หมายเหตุ : เฉพาะกองตราสารทุน)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].alpha",
+            "description": {
+              "en": "Alpha (applicable to equity funds only)",
+              "th": "Alpha (หมายเหตุ : เฉพาะกองตราสารทุน)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fx_hedging",
+            "description": {
+              "en": "FX Hedging",
+              "th": "FX Hedging"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].tracking_error",
+            "description": {
+              "en": "Tracking Error",
+              "th": "Tracking Error"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].yield_to_maturity",
+            "description": {
+              "en": "Yield to Maturity",
+              "th": "Yield to Maturity"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetDividend",
+      "name": {
+        "no": "13.",
+        "th": "นโยบายการจ่ายเงินปันผลของกองทุนรวม",
+        "en": "Fund Dividend Policy"
+      },
+      "description": {
+        "th": "ข้อมูลนโยบายการจ่ายเงินปันผลของกองทุนรวม (Fund Dividend Policy) ในแต่ละชนิดหน่วยลงทุน (Class Fund) ตามที่บลจ.รายงานใน Fund Fact Sheet แต่ละงวดรายงาน ซึ่งกองทุนหรือชนิดหน่วยลงทุนอาจมีการเปลี่ยนแปลงนโยบายการจ่ายเงินปันผลได้",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides the dividend policy as reported for each fund and share class in the Fund Factsheet by Asset Management Companies (AMCs).",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/dividend-policy",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "fund_class_name": "main",
+              "start_date": "2022-06-30",
+              "end_date": "2022-07-26",
+              "prospectus_type": "Monthly",
+              "dividend_policy": "N",
+              "last_upd_date": "2022-07-26T07:53:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].dividend_policy",
+            "description": {
+              "en": "Dividend payment policy",
+              "th": "นโยบายการจ่ายเงินปันผล"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetFee",
+      "name": {
+        "no": "14.",
+        "th": "ค่าธรรมเนียมของกองทุนรวม",
+        "en": "Fund Fee"
+      },
+      "description": {
+        "th": "ข้อมูลค่าธรรมเนียมของกองทุนรวมในแต่ละชนิดหน่วยลงทุน (Class Fund) เช่น ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee), ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (Switching In Fee), ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) เป็นต้น ตามที่บลจ.รายงานใน Fund Fact Sheet แต่ละงวดรายงาน",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides fee information as reported for each fund and share class in the Fund Factsheet by Asset Management Companies (AMCs) such as Front-end Fee, Back-end Fee, Switching Fees, Transfer Fee, Management Fee, etc.",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/fees",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "fund_class_name": "main",
+              "start_date": "2022-06-30",
+              "end_date": "2022-07-26",
+              "prospectus_type": "Monthly",
+              "fee_type_desc": "ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee)",
+              "rate": 1,
+              "actual_value": 1,
+              "fee_other_desc": "ค่าธรรมเนียมดังกล่าวรวมภาษีมูลค่าเพิ่ม ภาษีธุรกิจเฉพาะหรือภาษีอื่นใดแล้ว",
+              "last_upd_date": "2022-07-26T07:53:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fee_type_desc",
+            "description": {
+              "en": "Fee type:\nFront-end Fee = Fee charged when purchasing investment units\nBack-end Fee = Fee charged when redeeming investment units\nSwitching In = Fee for switching investment units in\nSwitching Out = Fee for switching investment units out\nTransfer Fee = Fee for transferring investment units\nTotal Fee and Expense = Total fees and expenses of the fund\nManagement Fee = Fund management fee",
+              "th": "ประเภทค่าธรรมเนียม:\nFront-end Fee = ค่าธรรมเนียมการขายหน่วยลงทุน\nBack-end Fee = ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน\nSwitching In = ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า\nSwitching Out = ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก\nTransfer Fee = ค่าธรรมเนียมการโอนหน่วยลงทุน\nTotal Fee and Expense = ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด\nManagement Fee = ค่าธรรมเนียมการจัดการ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].rate",
+            "description": {
+              "en": "Rate specified in the fund project",
+              "th": "อัตราตามโครงการ"
+            },
+            "type": "float"
+          },
+          {
+            "fieldName": "items[].actual_value",
+            "description": {
+              "en": "Actual charged rate",
+              "th": "อัตราที่จ่ายจริง"
+            },
+            "type": "float"
+          },
+          {
+            "fieldName": "items[].fee_other_desc",
+            "description": {
+              "en": "Additional remarks (if any)",
+              "th": "หมายเหตุเพิ่มเติม (ถ้ามี)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetPerformance",
+      "name": {
+        "no": "15.",
+        "th": "ผลการดำเนินงานย้อนหลังของกองทุนรวม",
+        "en": "Historical Fund Performance"
+      },
+      "description": {
+        "th": "ข้อมูลผลการดำเนินงานย้อนหลังของกองทุนรวม (Historical Fund Performance) ในแต่ละชนิดหน่วยลงทุน (Class Fund) ตามที่บลจ.รายงานใน Fund Fact Sheet แต่ละงวดรายงาน",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides the historical performance as reported for each fund and share class in the Fund Factsheet by Asset Management Companies (AMCs).",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/performance",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "fund_class_name": "main",
+              "start_date": "2022-06-30",
+              "end_date": "2022-07-26",
+              "prospectus_type": "Monthly",
+              "performance_type_desc": "ความผันผวนของกองทุนรวม",
+              "reference_period": "1 year",
+              "performance_value": "11.89",
+              "last_upd_date": "2022-07-26T07:53:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].performance_type_desc",
+            "description": {
+              "en": "Description of the performance type",
+              "th": "คำอธิบายประเภทผลตอบแทน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].reference_period",
+            "description": {
+              "en": "Reference period and look-back year",
+              "th": "หมุดเวลาและปีย้อนหลัง"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].performance_value",
+            "description": {
+              "en": "Historical fund performance (Section 8.3)",
+              "th": "ผลการดำเนินงานย้อนหลังของกองทุน (8.3)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetAssetAllocation",
+      "name": {
+        "no": "16.",
+        "th": "สัดส่วนประเภททรัพย์สินที่ลงทุนของกองทุนรวม",
+        "en": "Fund Asset Allocation"
+      },
+      "description": {
+        "th": "ข้อมูลสัดส่วนการลงทุนจำแนกตามประเภททรัพย์สินของกองทุนรวม (Fund Asset Allocation by Asset Type) ตามที่บลจ.รายงานใน Fund Fact Sheet แต่ละงวดรายงาน โดยแสดงสัดส่วนการลงทุนคิดเป็นร้อยละของมูลค่าสินทรัพย์สุทธิของกองทุน (%NAV) ในแต่ละประเภททรัพย์สิน เช่น หุ้นสามัญ หน่วยลงทุน เงินฝากธนาคาร และพันธบัตรรัฐบาล เป็นต้น",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides the fund’s asset allocation by asset type as reported for each fund in the Fund Factsheet by Asset Management Companies (AMCs). The data shows the proportion of the fund’s net asset value (%NAV) invested in each asset class, such as equities, investment units, bank deposits, government bonds, etc.",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/asset-allocation",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "start_date": "2022-06-30",
+              "end_date": "2022-07-26",
+              "prospectus_type": "Monthly",
+              "asset_seq": 1,
+              "asset_name": "หุ้นสามัญ",
+              "asset_ratio": 95.68,
+              "last_upd_date": "2022-07-26T07:53:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].asset_seq",
+            "description": {
+              "en": "Asset sequence number",
+              "th": "ลำดับรายการ"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].asset_name",
+            "description": {
+              "en": "Type of invested asset",
+              "th": "ประเภททรัพย์สินที่ลงทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].asset_ratio",
+            "description": {
+              "en": "Investment ratio in the asset type (%NAV)",
+              "th": "สัดส่วน (%NAV) ที่ลงทุนในประเภททรัพย์สินนั้น"
+            },
+            "type": "float"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFactsheetTop5Holding",
+      "name": {
+        "no": "17.",
+        "th": "ทรัพย์สินที่ลงทุน 5 อันดับแรก",
+        "en": "Top 5 Holding"
+      },
+      "description": {
+        "th": "ข้อมูลทรัพย์สินที่กองทุนรวมลงทุน 5 อันดับแรก โดยแสดงชื่อทรัพย์สิน ลำดับอันดับการลงทุน และสัดส่วนการลงทุนคิดเป็นร้อยละของมูลค่าสินทรัพย์สุทธิของกองทุน (%NAV) ในช่วงเวลานั้นตามที่บลจ.รายงานใน Fund Fact Sheet แต่ละงวดรายงาน",
+        "noteTh": "[!NOTE] ข้อมูลในชุดนี้เป็นข้อมูลตามช่วงเวลาที่ Fund Fact Sheet นั้น ๆ มีผล โดยแต่ละแถวจะแสดงข้อมูลตามวันที่ Fund Factsheet นั้นเริ่มมีผล (start_date) และวันที่สิ้นสุดผล (end_date) ซึ่งกองทุนหรือชนิดหน่วยลงทุนหนึ่งรายการอาจมีหลายงวดข้อมูลย้อนหลัง",
+        "en": "This API provides the fund’s Top 5 Holdings as reported for each fund in the Fund Factsheet by Asset Management Companies (AMCs). The data shows the assets or securities in which the fund has the highest exposure, including the ranking (asset_seq), asset name, and the allocation as a percentage of the fund’s Net Asset Value (%NAV) for each effective period.",
+        "noteEn": "[!NOTE] This dataset is time-series. Each record represents the effective period of a factsheet, indicating the date it became effective (start_date) and the date it ceased to be effective (end_date). A fund or share class may have multiple historical records over time."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/factsheet/top5-holdings",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date when the factsheet becomes effective (format: YYYY-MM-DD). The API will return data with start_date greater than or equal to the specified value.",
+            "th": "ระบุวันที่เริ่มต้นที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี start_date มากกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "end_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date when the factsheet is effective (format: YYYY-MM-DD). The API will return data with end_date less than or equal to the specified value.",
+            "th": "ระบุวันที่สิ้นสุดที่ factsheet มีผล (รูปแบบ: YYYY-MM-DD) ระบบจะคืนข้อมูลที่มี end_date น้อยกว่าหรือเท่ากับค่าที่ระบุ"
+          }
+        },
+        {
+          "name": "latest",
+          "required": false,
+          "type": "boolean",
+          "description": {
+            "en": "If set to true, returns only the latest effective factsheet data. The system will ignore start_date and end_date if provided.",
+            "th": "หากต้องการเฉพาะข้อมูลจาก factsheet ที่มีผลล่าสุดเท่านั้น ให้ระบุค่า latest เป็น true และระบบจะไม่พิจารณา start_date และ end_date หากมีการส่งค่าเข้ามา"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "start_date": "2022-06-30",
+              "end_date": "2022-07-26",
+              "prospectus_type": "Monthly",
+              "asset_seq": 1,
+              "asset_name": "บมจ.ท่าอากาศยานไทย",
+              "asset_ratio": 5.3,
+              "last_upd_date": "2022-07-26T07:53:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].start_date",
+            "description": {
+              "en": "The effective start date of the factsheet.",
+              "th": "วันที่เริ่มต้นที่ factsheet มีผล"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].end_date",
+            "description": {
+              "en": "The end date of the factsheet's validity. Note: If the data is from the latest effective factsheet, the end_date will be null.",
+              "th": "วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].prospectus_type",
+            "description": {
+              "en": "Type of factsheet submission by the asset management company:\nIPO = Submitted during fund establishment\nMonthly = Submitted monthly\nSignificantFactsheet = Submitted when there is a significant change in information",
+              "th": "ประเภทการส่ง factsheet ของบลจ.:\nIPO = ส่งเมื่อยื่นขอจัดตั้งกองทุน\nMonthly = ส่งรายเดือน\nSignificantFactsheet = ส่งเมื่อมีการเปลี่ยนแปลงข้อมูลอย่างมีนัยสำคัญ"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].asset_seq",
+            "description": {
+              "en": "Asset sequence number",
+              "th": "ลำดับรายการ"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].asset_name",
+            "description": {
+              "en": "Invested asset type",
+              "th": "ทรัพย์สินที่ลงทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].asset_ratio",
+            "description": {
+              "en": "Investment ratio in the asset (%NAV)",
+              "th": "สัดส่วน (%NAV) ที่ลงทุนในทรัพย์สินนั้น"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "get-outstanding-port",
+      "name": {
+        "no": "18.",
+        "th": "การลงทุนของกองทุนรวม ณ วันทำการสุดท้ายแต่ละไตรมาส",
+        "en": "Quarterly Fund Portfolio"
+      },
+      "description": {
+        "th": "ข้อมูลการลงทุนของกองทุนรวม ณ วันทำการสุดท้ายของไตรมาส (Fund Portfolio) โดยแสดงข้อมูลรายละเอียดสินทรัพย์และหนี้สินที่กองทุนถือครองในแต่ละไตรมาส ได้แก่ ประเภททรัพย์สิน ชื่อหลักทรัพย์ ผู้ออกหลักทรัพย์ มูลค่าตลาด และสัดส่วนการลงทุนคิดเป็นร้อยละของมูลค่าสินทรัพย์สุทธิของกองทุน (%NAV)",
+        "noteTh": "[!NOTE] ข้อมูลเป็นข้อมูลรายไตรมาสย้อนหลัง 3 ปี โดยงวดข้อมูลล่าสุดมีระยะเวลาในการนำมาเปิดเผย (lag time) 45 วัน หลังวันทำการสุดท้ายของไตรมาสนั้น ๆ ผู้ใช้งานสามารถดึงข้อมูลงวดที่ต้องการได้ผ่านพารามิเตอร์ period_start และ period_end โดยข้อมูลแต่ละแถวจะระบุงวดข้อมูล (period ในรูปแบบ YYYYMM) และวันที่อ้างอิง (as_of_date) กำกับเพื่อระบุช่วงเวลาที่ข้อมูลนั้นมีผล",
+        "en": "This API provides fund portfolio as of the last business day of each quarter. The dataset presents the assets and liabilities held by the fund in each quarter, including asset categories, security names, issuers, market values, and the proportion of each holding as a percentage of the fund’s Net Asset Value (%NAV).",
+        "noteEn": "[!NOTE] The dataset provides three years of historical quarterly data, with the latest reporting period subject to a 45-day publication lag after the last business day of the respective quarter. Users can retrieve historical data for specific quarters by using the period_start and period_end parameters. Each record is tagged with a reporting period (period, in YYYYMM format) and an effective date (as_of_date), indicating the exact quarter and date that the data refers to."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/outstanding/portfolio",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_period",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the starting period of the data to be retrieved (format: YYYYMM). Note: If you want to retrieve data for only one period, set period_start and period_end to the same period.",
+            "th": "ระบุงวดข้อมูลแรกที่ต้องการดึงข้อมูล (รูปแบบ: YYYYMM) หมายเหตุ: หากต้องการดึงข้อมูลงวดเดียว ให้ระบุ period_start และ period_end เป็นงวดเดียวกัน"
+          }
+        },
+        {
+          "name": "end_period",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the ending period of the data to be retrieved (format: YYYYMM). Note: If you want to retrieve data for only one period, set period_start and period_end to the same period.",
+            "th": "ระบุงวดข้อมูลสุดท้ายที่ต้องการดึงข้อมูล (รูปแบบ: YYYYMM) หมายเหตุ: หากต้องการดึงข้อมูลงวดเดียว ให้ระบุ period_start และ period_end เป็นงวดเดียวกัน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "period": "202212",
+              "as_of_date": "2022-12-30",
+              "assetliab_id": "101",
+              "assetliab_desc": "หุ้นสามัญ",
+              "issue_code": "ADVANC",
+              "isin_code": "TH0268010Z03",
+              "issuer": "ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED",
+              "assetliab_value": 105670500,
+              "percent_nav": 2.80362,
+              "last_upd_date": "2023-02-21T05:00:25Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].period",
+            "description": {
+              "en": "Data period (YYYYMM)",
+              "th": "งวดข้อมูล (YYYYMM)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].as_of_date",
+            "description": {
+              "en": "Data as of date (YYYY-MM-DD)",
+              "th": "ข้อมูล ณ วันที่ (YYYY-MM-DD)"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].assetliab_code",
+            "description": {
+              "en": "Asset/liability category code",
+              "th": "รหัสประเภทสินทรัพย์หนี้สิน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].assetliab_desc",
+            "description": {
+              "en": "Asset/liability category description",
+              "th": "ประเภทสินทรัพย์หนี้สิน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].issue_code",
+            "description": {
+              "en": "Security symbol",
+              "th": "ชื่อย่อหลักทรัพย์"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].isin_code",
+            "description": {
+              "en": "ISIN code",
+              "th": "ISIN Code"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].issuer",
+            "description": {
+              "en": "Issuer name",
+              "th": "ชื่อผู้ออกหลักทรัพย์"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].market_value",
+            "description": {
+              "en": "Market value (THB), rounded to 5 decimal places",
+              "th": "มูลค่าตามราคาตลาด (บาท) ปัดเศษทศนิยม 5 ตำแหน่ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].percent_nav",
+            "description": {
+              "en": "Percentage of NAV, rounded to 5 decimal places (due to rounding, total allocation may exceed 100% up to 100.20%)",
+              "th": "%NAV ปัดเศษทศนิยม 5 ตำแหน่ง (เนื่องจากการปัดเศษ อาจทำให้สัดส่วนรวมเกิน 100% ได้ถึง 100.20% ของ NAV)"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "get-outstanding-portassettype",
+      "name": {
+        "no": "19.",
+        "th": "สัดส่วนการลงทุนของกองทุนรวมตามประเภทสินทรัพย์ ณ วันทำการสุดท้ายของเดือน",
+        "en": "Monthly Fund Portfolio by Asset Type"
+      },
+      "description": {
+        "th": "ข้อมูลสัดส่วนการลงทุนของกองทุนรวม ณ วันทำการสุดท้ายของเดือน โดยจำแนกตามกลุ่มสินทรัพย์และหนี้สินของกองทุน (เช่น กลุ่มเงินฝากธนาคาร กลุ่มหุ้น กลุ่มหน่วยลงทุน เป็นต้น) และแสดงมูลค่าตลาด (บาท) และสัดส่วนการลงทุนต่อมูลค่าสินทรัพย์สุทธิของกองทุน (%NAV)",
+        "noteTh": "[!NOTE] ข้อมูลเป็นข้อมูลรายเดือนย้อนหลัง 3 ปี โดยงวดข้อมูลล่าสุดจะมีระยะเวลาในการเปิดเผย (lag time) 45 วันภายหลังวันทำการสุดท้ายของเดือน ผู้ใช้งานสามารถดึงข้อมูลงวดที่ต้องการได้ผ่านพารามิเตอร์ period_start และ period_end โดยข้อมูลแต่ละแถวจะระบุงวดข้อมูล (period ในรูปแบบ YYYYMM) กำกับเพื่อระบุช่วงเวลาที่ข้อมูลนั้นมีผล",
+        "en": "This API provides fund portfolio by asset type as of the last business day of each month. The dataset presents asset and liability groups held by the fund, including market values and the proportion of each group as a percentage of the fund’s Net Asset Value (%NAV).",
+        "noteEn": "[!NOTE] The dataset provides three years of historical monthly data, with the latest reporting period subject to a 45-day publication lag after the last business day of the respective month. Users can retrieve historical data for specific months by using the period_start and period_end parameters. Each record is tagged with a reporting period (period, in YYYYMM format) indicating the exact month that the data refers to."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/outstanding/portfolio-asset-type",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_period",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify the starting period of the data to be retrieved (format: YYYYMM). Note: If you want to retrieve data for only one period, set period_start and period_end to the same period.",
+            "th": "ระบุงวดข้อมูลแรกที่ต้องการดึงข้อมูล (รูปแบบ: YYYYMM) หมายเหตุ: หากต้องการดึงข้อมูลงวดเดียว ให้ระบุ period_start และ period_end เป็นงวดเดียวกัน"
+          }
+        },
+        {
+          "name": "end_period",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify the ending period of the data to be retrieved (format: YYYYMM). Note: If you want to retrieve data for only one period, set period_start and period_end to the same period.",
+            "th": "ระบุงวดข้อมูลสุดท้ายที่ต้องการดึงข้อมูล (รูปแบบ: YYYYMM) หมายเหตุ: หากต้องการดึงข้อมูลงวดเดียว ให้ระบุ period_start และ period_end เป็นงวดเดียวกัน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0000_2552",
+              "period": "201101",
+              "assetliab_code": "101",
+              "assetliab_desc": "หุ้น (รหัส 101-102)",
+              "market_value": 1296947797.6,
+              "percent_nav": 91.18823
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].period",
+            "description": {
+              "en": "Data period (YYYYMM)",
+              "th": "งวดข้อมูล (YYYYMM)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].assetliab_code",
+            "description": {
+              "en": "Investment category code",
+              "th": "รหัสประเภทการลงทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].assetliab_desc",
+            "description": {
+              "en": "Investment category description",
+              "th": "ประเภทการลงทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].market_value",
+            "description": {
+              "en": "Market value",
+              "th": "มูลค่าตลาด"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].percent_nav",
+            "description": {
+              "en": "Percentage of net asset value",
+              "th": "สัดส่วนต่อมูลค่าสินทรัพย์สุทธิ"
+            },
+            "type": "number"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFundDailyInfoNAV",
+      "name": {
+        "no": "20.",
+        "th": "มูลค่าทรัพย์สินสุทธิ (NAV) ของกองทุนรวมรายวัน",
+        "en": "Daily Fund NAV Information"
+      },
+      "description": {
+        "th": "ข้อมูลมูลค่าหน่วยลงทุน (Net Asset Value: NAV) ของกองทุนรวมในรูปแบบรายวัน โดยแสดงรายละเอียดจำนวนมูลค่าทรัพย์สินสุทธิของกองทุน (Net Asset), มูลค่าหน่วยลงทุน (NAV per unit), ราคาซื้อ–ขายปกติ และราคาซื้อ–ขายสำหรับการสับเปลี่ยนหน่วยลงทุน (Switching)",
+        "noteTh": "[!NOTE] ผู้ใช้งานสามารถค้นหาข้อมูลเฉพาะกองทุนหรือช่วงวันที่ต้องการได้ผ่านพารามิเตอร์ proj_id, nav_date_start, และ nav_date_end",
+        "en": "This API provides the daily Net Asset Value (NAV) information of mutual funds. The dataset includes the fund’s net asset value, NAV per unit, selling and redemption prices, as well as switching buy/sell prices.",
+        "noteEn": "[!NOTE] Users can retrieve data for a specific fund or for a selected date range by using the proj_id, nav_date_start, and nav_date_end parameters."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/daily-info/nav",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        },
+        {
+          "name": "start_nav_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the start date of NAV to be retrieved (format: YYYY-MM-DD).",
+            "th": "ระบุวันที่เริ่มต้นของ NAV ที่ต้องการดึงข้อมูล (รูปแบบ: YYYY-MM-DD)"
+          }
+        },
+        {
+          "name": "end_nav_date",
+          "required": false,
+          "type": "date",
+          "description": {
+            "en": "Specify the end date of NAV to be retrieved (format: YYYY-MM-DD).",
+            "th": "ระบุวันที่สิ้นสุดของ NAV ที่ต้องการดึงข้อมูล (รูปแบบ: YYYY-MM-DD)"
+          }
+        },
+        {
+          "name": "fund_class_name",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Fund Class Name",
+            "th": "ชื่อชนิดหน่วยลงทุน"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M0004_2559",
+              "unique_id": "C0000033452",
+              "fund_class_name": "-",
+              "nav_date": "2023-07-13",
+              "net_asset": 248999361.26,
+              "last_val": 15.0833,
+              "sell_price": 15.3097,
+              "buy_price": 15.0833,
+              "sell_swap_price": 15.0833,
+              "buy_swap_price": 15.3097,
+              "last_upd_date": "2024-10-31T03:34:11Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].nav_date",
+            "description": {
+              "en": "NAV date (YYYY-MM-DD)",
+              "th": "วันที่ NAV (YYYY-MM-DD)"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].fund_class_name",
+            "description": {
+              "en": "Fund class abbreviation (\"main\" if the fund is not a class fund)",
+              "th": "ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น \"main\" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].net_asset",
+            "description": {
+              "en": "Net asset value (THB)",
+              "th": "มูลค่าทรัพย์สินสุทธิ (บาท)"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].last_val",
+            "description": {
+              "en": "NAV per unit (THB/unit)",
+              "th": "มูลค่าหน่วยลงทุน (บาท/หน่วย)"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].unique_id",
+            "description": {
+              "en": "Reference ID of the asset management company submitting the data",
+              "th": "รหัสอ้างอิงบริษัทจัดการที่เป็นผู้ส่งข้อมูล"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].sell_price",
+            "description": {
+              "en": "Selling price (THB/unit)",
+              "th": "ราคาขาย (บาท/หน่วย)"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].buy_price",
+            "description": {
+              "en": "Redemption price (THB/unit)",
+              "th": "ราคาซื้อคืน (บาท/หน่วย)"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].sell_swap_price",
+            "description": {
+              "en": "Switch-in price (THB/unit)",
+              "th": "ราคาขายสับเปลี่ยน (บาท/หน่วย)"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].buy_swap_price",
+            "description": {
+              "en": "Switch-out price (THB/unit)",
+              "th": "ราคาซื้อคืนสับเปลี่ยน (บาท/หน่วย)"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    },
+    {
+      "id": "getFundDailyInfoDividendHistory",
+      "name": {
+        "no": "21.",
+        "th": "ประวัติการจ่ายเงินปันผลของกองทุนรวม",
+        "en": "Fund Dividend History"
+      },
+      "description": {
+        "th": "ข้อมูลประวัติการจ่ายเงินปันผลของกองทุนรวม โดยแสดงข้อมูลวันที่ปิดสมุดทะเบียน (Book Close Date), วันที่จ่ายเงินปันผล (Dividend Date) และจำนวนเงินปันผลต่อหน่วย (Dividend Value)",
+        "noteTh": "[!NOTE] ผลลัพธ์มีเฉพาะข้อมูลที่มีวันที่ปิดสมุดทะเบียน และวันที่จ่ายเงินปันผลครบถ้วนเท่านั้น",
+        "en": "This API provides the dividend news history of mutual funds, including the book close date, dividend payment date, and dividend value per unit.",
+        "noteEn": "[!NOTE] Results include only records that contain both a valid book close date and a dividend payment date."
+      },
+      "method": "GET",
+      "endpoint": "/v2/fund/daily-info/dividend-history",
+      "parameters": [],
+      "queryParameters": [
+        {
+          "name": "next_cursor",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "The latest cursor value received from the previous response (used for loading additional data).",
+            "th": "ค่า cursor ล่าสุดที่ได้รับจากการตอบกลับก่อนหน้า (ใช้สำหรับโหลดข้อมูลเพิ่มเติม)"
+          }
+        },
+        {
+          "name": "page_size",
+          "required": false,
+          "type": "integer",
+          "description": {
+            "en": "The number of items returned per page (default is 100). Acceptable values range from 1 to 100.",
+            "th": "จำนวนรายการข้อมูลต่อหน้าที่ต้องการให้ระบบส่งกลับ (ค่าเริ่มต้น 100) โดยรองรับค่าตั้งแต่ 1 ถึง 100 รายการ"
+          }
+        },
+        {
+          "name": "proj_id",
+          "required": false,
+          "type": "string",
+          "description": {
+            "en": "Specify proj_id to retrieve information for a single fund.",
+            "th": "ระบุ proj_id เพื่อดึงข้อมูลของกองทุน 1 กอง"
+          }
+        }
+      ],
+      "requestBody": {
+        "contentType": "",
+        "schema": []
+      },
+      "responses": {
+        "statusCode": 200,
+        "contentType": "application/json",
+        "dataExample": {
+          "message": "success",
+          "page_size": 100,
+          "next_cursor": "xxxx-xxx-xxx",
+          "items": [
+            {
+              "proj_id": "M2530_0002",
+              "unique_id": "C0000000023",
+              "class_abbr_name": "-",
+              "book_close_date": "2005-01-14T12:00:00Z",
+              "dividend_date": "2005-01-26T12:00:00Z",
+              "dividend_value": 2.43,
+              "last_upd_date": "2018-07-04T04:07:54Z"
+            }
+          ]
+        },
+        "dataDictionary": [
+          {
+            "fieldName": "message",
+            "description": {
+              "en": "API response status message",
+              "th": "ข้อความสถานะของการเรียก API"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "page_size",
+            "description": {
+              "en": "Number of items returned per request",
+              "th": "จำนวนรายการที่ส่งกลับต่อครั้ง"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "next_cursor",
+            "description": {
+              "en": "The cursor value from the latest response (if next_cursor = \"\" it means all data has been returned and there is no next page).",
+              "th": "ค่า cursor ที่ได้รับจาก Response ล่าสุด (กรณีที่ค่า next_cursor = \"\" หมายถึงระบบส่งข้อมูลให้ครบทั้งหมดแล้ว ไม่มีหน้าถัดไป)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items",
+            "description": {
+              "en": "List of returned data objects",
+              "th": "รายการข้อมูลหลักที่ส่งกลับมา"
+            },
+            "type": "array<object>"
+          },
+          {
+            "fieldName": "items[].unique_id",
+            "description": {
+              "en": "Reference ID of the asset management company submitting the data",
+              "th": "รหัสอ้างอิงบริษัทจัดการที่เป็นผู้ส่งข้อมูล"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].proj_id",
+            "description": {
+              "en": "Project number ({Type}{ID}_YYYY)",
+              "th": "เลขที่โครงการ({Type}{ID}_YYYY)"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].class_abbr_name",
+            "description": {
+              "en": "Fund class name",
+              "th": "ชื่อกองทุน"
+            },
+            "type": "string"
+          },
+          {
+            "fieldName": "items[].book_close_date",
+            "description": {
+              "en": "Book closing date (YYYY-MM-DD)",
+              "th": "วันที่ปิดสมุดทะเบียน (YYYY-MM-DD)"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].dividend_date",
+            "description": {
+              "en": "Dividend payment date (YYYY-MM-DD)",
+              "th": "วันที่จ่ายเงินปันผล (YYYY-MM-DD)"
+            },
+            "type": "date"
+          },
+          {
+            "fieldName": "items[].dividend_value",
+            "description": {
+              "en": "Dividend per unit (THB)",
+              "th": "เงินปันผลต่อหน่วย (บาท)"
+            },
+            "type": "number"
+          },
+          {
+            "fieldName": "items[].last_upd_date",
+            "description": {
+              "en": "Last updated date of the data",
+              "th": "วันที่แก้ไขข้อมูลล่าสุด"
+            },
+            "type": "datetime"
+          }
+        ]
+      },
+      "typeApi": true
+    }
+  ]
+}

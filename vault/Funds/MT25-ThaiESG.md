@@ -1,0 +1,308 @@
+---
+title: "MT25-ThaiESG"
+proj_id: M0836_2566
+regis_id: "MF0558_2566"
+abbr: "MT25-ThaiESG"
+name_th: "กองทุนเปิดเอ็มเอฟซีท็อป 25 หุ้นไทยเพื่อความยั่งยืน"
+name_en: "MFC Equity Top 25 Thailand ESG Fund"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)"
+amc_id: "C0000000023"
+policy: "ตราสารทุน"
+risk_spectrum: "6"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "3"
+init_date: "2023-12-06"
+regis_date: "2023-12-21"
+class_count: 1
+has_factsheet: true
+ter_retail: 1.49
+perf_1y: 44.54
+nav: 13.1038
+nav_date: "2026-08-26"
+fund_size: 165294846.66
+holdings_count: 26
+top10_pct_nav: 63.83
+fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย พิพัฒน์ นรานันทน์"]
+tags: [fund, sec-data, policy/equity, risk/6, active]
+---
+
+# MT25-ThaiESG
+
+**กองทุนเปิดเอ็มเอฟซีท็อป 25 หุ้นไทยเพื่อความยั่งยืน**  
+_MFC Equity Top 25 Thailand ESG Fund_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)]] · นโยบาย [[ตราสารทุน]] · ความเสี่ยงระดับ **6**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0836_2566`
+> - **ประเภท:** ตราสารทุน · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** ไม่มีความเสี่ยงต่างประเทศ
+> - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-21
+> - **ชนิดหน่วยลงทุน:** 1 class
+> - **NAV 13.1038 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0836_2566` |
+| เลขที่จดทะเบียน (regis_id) | MF0558_2566 |
+| ชื่อย่อ | MT25-ThaiESG |
+| ชื่อไทย | กองทุนเปิดเอ็มเอฟซีท็อป 25 หุ้นไทยเพื่อความยั่งยืน |
+| ชื่ออังกฤษ | MFC Equity Top 25 Thailand ESG Fund |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2023-12-06 |
+| วันจดทะเบียน | 2023-12-21 |
+| ประเภทตามนโยบาย | ตราสารทุน |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | ไม่มีความเสี่ยงต่างประเทศ |
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| main | - | - | - |
+
+## 3. นโยบายการลงทุน
+
+กองทุนมีนโยบายการลงทุนในตราสารทุนที่ผู้ออกเป็นภาครัฐไทยหรือกิจการที่จัดตั้งขึ้นตามกฎหมายไทย โดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุนทั้งนี้ ทรัพย์สินที่จะลงทุนจะเป็นทรัพย์สินอย่างใดอย่างหนึ่งหรือหลายอย่างดังต่อไปนี้
+1. หุ้นที่เป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย (SET) บนกระดานหลัก และ/หรือตลาดหลักทรัพย์ เอ็ม เอ ไอ (mai) หรือกระดาน mai ที่ได้รับการคัดเลือกจาก SET ว่ามีความโดดเด่นด้านสิ่งแวดล้อม (Environment) หรือด้านความยั่งยืน (Environmental, Social and Governance: ESG) และ/หรือ
+2. หุ้นที่เป็นหลักทรัพย์จดทะเบียนใน SET บนกระดานหลักหรือกระดาน mai ที่มีลักษณะดังนี้
+2.1 เป็นหุ้นของบริษัทจดทะเบียนที่มีธรรมาภิบาล (Governance) โดยได้รับการประเมินการกำกับดูแลกิจการบริษัทจดทะเบียน (Corporate Governance Report of Thai Listed Companies: CGR) จากสมาคมส่งเสริมสถาบันกรรมการบริษัทไทย ตั้งแต่ 90 คะแนนขึ้นไป หรือเทียบเท่า
+2.2 มีการเปิดเผยเป้าหมายและแผนในเรื่องดังนี้ และรายงานความคืบหน้าการปฏิบัติตามเป้าหมายหรือแผน ผ่านช่องทางของ SET ซึ่งจัดไว้สำหรับการเปิดเผยข้อมูลดังกล่าวโดยเฉพาะ ทั้งนี้ สำนักงานอาจประกาศกำหนดรายละเอียดเพิ่มเติมของข้อมูลในแต่ละหัวข้อด้วยก็ได้
+2.2.1 การมีเป้าหมายและแผนธุรกิจที่เกี่ยวข้องกับการเพิ่มมูลค่าของกิจการ (cooperate value up plan)
+2.2.2 การมีเป้าหมายและแผนการยกระดับการดำเนินงานที่ชัดเจนเพื่อเข้ารับการประเมินจากผู้ประเมินผลการดำเนินงานด้านความยั่งยืนตามมาตรฐานสากลตามประกาศการลงทุนของสำนักงาน ก.ล.ต. โดยต้องตั้งเป้าหมายเพื่อดำเนินการให้เป็นไปตามแผนการยกระดับดังกล่าวให้แล้วเสร็จภายใน 2 ปีนับแต่วันที่เปิดเผยเป้าหมายและแผนการยกระดับ
+2.3 มีการเพิ่มประสิทธิภาพการสื่อสารกับผู้ลงทุน ตามที่ SET กำหนด
+ทั้งนี้ กองทุนจะมุ่งเน้นการลงทุนในหุ้นเต็มอัตรา (Fully Invested) ตลอดเวลา โดยจะลงทุนในหุ้นสามัญและ/หรือหุ้นบุริมสิทธิของบริษัทที่จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย และเป็นบริษัทที่เป็นองค์ประกอบของดัชนี SET ESG Index ซึ่งผ่านการวิเคราะห์และคัดเลือกหลักทรัพย์เพิ่มเติม โดยกองทุนจะลงทุนในหุ้นของ 25 บริษัทแรกที่ผ่านเกณฑ์การคัดเลือกหลักทรัพย์ ซึ่งเกณฑ์ดังกล่าวจะพิจารณามูลค่าหลักทรัพย์ตามราคาตลาด (Market Capitalization) การเปิดเผยข้อมูลด้านการบริหารจัดการสิ่งแวดล้อม สังคม และธรรมาภิบาล (ESG) และการได้รับการจัดอันดับ ESG Ratings หรือ ESG Scores จากสถาบันการจัดอันดับที่เป็นอิสระ อาทิเช่น Refinitiv, S&P Global, MSCI ESG Rating, Sustainalytics, Arabesque S-Ray ESGBooK เป็นต้น และสถาบันจัดอันดับอื่นๆ ที่ได้มาตรฐานตามที่สำนักงาน ก.ล.ต. ประกาศกำหนด นอกจากนี้ จะมีการควบคุมการกระจุกตัวของหลักทรัพย์ในแต่ละอุตสาหกรรม (Sector) โดยบริษัทจัดการจะทำการทบทวนรายชื่อหลักทรัพย์ปีละ 2 ครั้งในวันทำการแรกของเดือนมีนาคมและกันยายน
+ส่วนที่เหลือจะลงทุนในตราสารทุนนอกเหนือจากที่กล่าวข้างต้น ตราสารกึ่งหนี้กึ่งทุน ตราสารหนี้ที่ออกโดยภาครัฐและ/หรือภาคเอกชนที่ได้รับการจัดอันดับความน่าเชื่อถืออยู่ในระดับที่สามารถลงทุนได้ (Investment grade) เงินฝากธนาคาร ตราสารทางการเงิน ตลอดจนหลักทรัพย์หรือทรัพย์สินอื่นหรือการหาดอกผลโดยวิธีอื่นตามที่คณะกรรมการ ก.ล.ต. และ/หรือสำนักงาน ก.ล.ต. ประกาศกำหนดให้ลงทุนได้
+ทั้งนี้ กองทุนจะไม่ลงทุนในหรือมีไว้ซึ่งสัญญาซื้อขายล่วงหน้า (derivatives) ตราสารหนี้ที่มีอันดับความน่าเชื่อถือของตราสารหรือผู้ออกต่ำกว่าที่สามารถลงทุนได้ (non-investment grade) หรือตราสารหนี้ที่ไม่ได้รับการจัดอันดับความน่าเชื่อถือ (unrated securities) และตราสารทุนที่ไม่ได้จดทะเบียนในตลาดหลักทรัพย์ (unlisted securities) เว้นแต่เป็นหุ้นที่คณะกรรมการตลาดหลักทรัพย์สั่งรับเป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยซึ่งผู้ออกหุ้นดังกล่าวอยู่ระหว่างการดำเนินการกระจายการถือหุ้นรายย่อยตามข้อบังคับตลาดหลักทรัพย์แห่งประเทศไทยว่าด้วยการรับหุ้นสามัญหรือหุ้นบุริมสิทธิเป็นหลักทรัพย์จดทะเบียน รวมถึงตราสารที่มีลักษณะของสัญญาซื้อขายล่วงหน้าแฝง (Structured Note)
+- วัตถุประสงค์การลงทุนที่เกี่ยวกับความยั่งยืน
+กองทุนจะลงทุนในบริษัทที่มีความโดดเด่นด้านสิ่งแวดล้อม (Environment) หรือด้านความยั่งยืน (Environmental, Social and Governance: ESG) หรือด้านธรรมาภิบาล (Governance) โดยจะเน้นลงทุนในบริษัทจดทะเบียนตามกรอบนโยบายการลงทุน ที่ให้ความสำคัญและมีการดำเนินธุรกิจที่สอดคล้องกับเป้าหมายการพัฒนาที่ยั่งยืนขององค์การสหประชาชาติ (United Nations Sustainable Development Goals: UN SDGs) เพื่อให้สอดรับกับนโยบายการลงทุนแบบยั่งยืน (Sustainable Investment)
+- …(ตัดทอน)
+
+### ลักษณะเฉพาะของโครงการ
+
+- `SRI` กองทุนรวมเพื่อความยั่งยืน (SRI Fund) (SRI Fund)
+- `TESG` กองทุนรวมไทยเพื่อความยั่งยืน (Thai ESG Fund : TESG)
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 6 / 8** — 6 — ตราสารทุน
+
+> ลงทุนในตราสารทุนเป็นหลัก โดยเฉลี่ยในรอบปีไม่น้อยกว่า 80% ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| main | 0.5866 | 1.94 | 0.8325 | -24.57% | - | 0.2014 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `main` | ⚪ ไม่ระบุ | 1.49 | 4.89 | 1.34 | - | 0.5 |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| main | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 4.89 | 1.49 |
+| main | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 2 | 0.5 |
+| main | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 0 | 0 |
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | 1.34 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 0 | 0 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 0 | 0 |
+| main | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| main | ค่าธรรมเนียมทั้งหมด (Total Fee) | 4.8899 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| main | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| main | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| main | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| main | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.0749 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| main | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 2.14 | ต่อปีของมูลค่าทรัพย์สินของกองทุนรวม |
+
+## 6. ผลการดำเนินงาน
+
+### Class `main`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 7.08 | 21.94 | 21.94 | 44.54 | 0 | 0 | 0 | 8.08 | 1.14 | -1.96 | 0.63 |
+| ผลตอบแทนตัวชี้วัด | 9.76 | 23.19 | 23.19 | 44.53 | - | - | - | 6.12 | - | - | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 9.56 | 25.61 | 25.61 | 44.11 | - | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 10.15 | 15.36 | 15.36 | 14.83 | - | - | - | 15.06 | - | - | - |
+| ความผันผวนของตัวชี้วัด | 10.79 | 16.56 | 16.56 | 15.5 | - | - | - | 15.78 | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | SET ESG Total Return Index | - |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| เงินฝากธนาคาร และอื่นๆ | 1.05 |
+| ตราสารทุน | 98.95 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | บมจ.ท่าอากาศยานไทย | 7.97 |
+| 2 | ธนาคารกรุงไทย จำกัด (มหาชน) | 7 |
+| 3 | ธนาคารกสิกรไทย จำกัด (มหาชน) | 6.99 |
+| 4 | บมจ.กัลฟ์ ดีเวลลอปเมนท์ | 6.69 |
+| 5 | บมจ.เอสซีบี เอกซ์ | 6.63 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 158,741,883 | 98.8794 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 2,029,389 | 1.2641 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | -230,4 | -0.1435 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **26** รายการ จากผู้ออก 26 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **144,488,662** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **63.83% ของ NAV** (คิดเป็น 63.7% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED\|AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED]] <br><sub>`AOT`</sub> | AIRPORTS OF THAILAND PUBLIC COMPANY LIMI | หุ้นสามัญ | TH0765010Z08 | 11,513,6 | 7.9685 |
+| 2 | [[../Entities/KRUNG THAI BANK PUBLIC COMPANY LIMITED\|KRUNG THAI BANK PUBLIC COMPANY LIMITED]] <br><sub>`KTB`</sub> | KRUNG THAI BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0150010Z03 | 10,115,6 | 7.001 |
+| 3 | [[../Entities/KASIKORNBANK PUBLIC COMPANY LIMITED (TH0016010009)\|KASIKORNBANK PUBLIC COMPANY LIMITED]] <br><sub>`KBANK`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0016010009 | 10,093,4 | 6.9856 |
+| 4 | [[../Entities/GULF DEVELOPMENT PUBLIC COMPANY LIMITED\|GULF DEVELOPMENT PUBLIC COMPANY LIMITED]] <br><sub>`GULF`</sub> | GULF DEVELOPMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC903010005 | 9,672,474 | 6.6943 |
+| 5 | [[../Entities/SCB X PUBLIC COMPANY LIMITED\|SCB X PUBLIC COMPANY LIMITED]] <br><sub>`SCB`</sub> | SCB X PUBLIC COMPANY LIMITED | หุ้นสามัญ | THA790010005 | 9,575,6 | 6.6272 |
+| 6 | [[../Entities/PTT PUBLIC COMPANY LIMITED\|PTT PUBLIC COMPANY LIMITED]] <br><sub>`PTT`</sub> | PTT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0646010Z00 | 9,450,1 | 6.5404 |
+| 7 | [[../Entities/ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED\|ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED]] <br><sub>`ADVANC`</sub> | ADVANCED INFO SERVICE PUBLIC COMPANY LIM | หุ้นสามัญ | TH0268010Z03 | 9,175, | 6.35 |
+| 8 | [[../Entities/CP ALL PUBLIC COMPANY LIMITED\|CP ALL PUBLIC COMPANY LIMITED]] <br><sub>`CPALL`</sub> | CP ALL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0737010Y08 | 8,204,625 | 5.6784 |
+| 9 | [[../Entities/PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED\|PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED]] <br><sub>`PTTEP`</sub> | PTT EXPLORATION AND PRODUCTION PUBLIC CO | หุ้นสามัญ | TH0355A10Z04 | 7,731,8 | 5.3511 |
+| 10 | [[../Entities/BANGKOK BANK PUBLIC COMPANY LIMITED\|BANGKOK BANK PUBLIC COMPANY LIMITED]] <br><sub>`BBL`</sub> | BANGKOK BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0001010006 | 6,695,35 | 4.6338 |
+| 11 | [[../Entities/BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED\|BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED]] <br><sub>`BDMS`</sub> | BANGKOK DUSIT MEDICAL SERVICES PUBLIC CO | หุ้นสามัญ | TH0264A10Z04 | 5,992,65 | 4.1475 |
+| 12 | [[../Entities/CENTRAL PATTANA PUBLIC COMPANY LIMITED\|CENTRAL PATTANA PUBLIC COMPANY LIMITED]] <br><sub>`CPN`</sub> | CENTRAL PATTANA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0481B10Z00 | 5,875,9 | 4.0667 |
+| 13 | [[../Entities/THE SIAM CEMENT PUBLIC COMPANY LIMITED\|THE SIAM CEMENT PUBLIC COMPANY LIMITED]] <br><sub>`SCC`</sub> | THE SIAM CEMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0003010Z04 | 5,709,6 | 3.9516 |
+| 14 | [[../Entities/TMBTHANACHART BANK PUBLIC COMPANY LIMITED\|TMBTHANACHART BANK PUBLIC COMPANY LIMITED]] <br><sub>`TTB`</sub> | TMBTHANACHART BANK PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH0068010Z07 | 4,689,006 | 3.2452 |
+| 15 | [[../Entities/CHAROEN POKPHAND FOODS PUBLIC COMPANY LIMITED\|CHAROEN POKPHAND FOODS PUBLIC COMPANY LIMITED]] <br><sub>`CPF`</sub> | CHAROEN POKPHAND FOODS PUBLIC COMPANY LI | หุ้นสามัญ | TH0101A10Z01 | 3,218,32 | 2.2274 |
+| 16 | [[../Entities/PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED\|PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED]] <br><sub>`PTTGC`</sub> | PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH1074010006 | 2,951,35 | 2.0426 |
+| 17 | [[../Entities/PTT OIL AND RETAIL BUSINESS PUBLIC COMPANY LIMITED\|PTT OIL AND RETAIL BUSINESS PUBLIC COMPANY LIMITED]] <br><sub>`OR`</sub> | PTT OIL AND RETAIL BUSINESS PUBLIC COMPA | หุ้นสามัญ | THA099010003 | 2,930, | 2.0278 |
+| 18 | [[../Entities/BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED\|BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED]] <br><sub>`BH`</sub> | BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0168A10Z01 | 2,914, | 2.0168 |
+| 19 | [[../Entities/CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED\|CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`CRC`</sub> | CENTRAL RETAIL CORPORATION PUBLIC COMPAN | หุ้นสามัญ | TH9597010007 | 2,768,3 | 1.9159 |
+| 20 | [[../Entities/MINOR INTERNATIONAL PUBLIC COMPANY LIMITED\|MINOR INTERNATIONAL PUBLIC COMPANY LIMITED]] <br><sub>`MINT`</sub> | MINOR INTERNATIONAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0128B10Z09 | 2,736,76 | 1.8941 |
+| 21 | [[../Entities/THAI LIFE INSURANCE PUBLIC COMPANY LIMITED\|THAI LIFE INSURANCE PUBLIC COMPANY LIMITED]] <br><sub>`TLI`</sub> | THAI LIFE INSURANCE PUBLIC COMPANY LIMIT | หุ้นสามัญ | THA848010007 | 2,572,55 | 1.7805 |
+| 22 | [[../Entities/GLOBAL POWER SYNERGY PUBLIC COMPANY LIMITED\|GLOBAL POWER SYNERGY PUBLIC COMPANY LIMITED]] <br><sub>`GPSC`</sub> | GLOBAL POWER SYNERGY PUBLIC COMPANY LIMI | หุ้นสามัญ | TH6488010005 | 2,424,4 | 1.6779 |
+| 23 | [[../Entities/INDORAMA VENTURES PUBLIC COMPANY LIMITED\|INDORAMA VENTURES PUBLIC COMPANY LIMITED]] <br><sub>`IVL`</sub> | INDORAMA VENTURES PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH1027010004 | 2,413,4 | 1.6703 |
+| 24 | [[../Entities/BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED\|BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED]] <br><sub>`BEM`</sub> | BANGKOK EXPRESSWAY AND METRO PUBLIC COMP | หุ้นสามัญ | TH6999010007 | 1,851,32 | 1.2813 |
+| 25 | [[../Entities/Kasikornbank Public Company Limited\|Kasikornbank Public Company Limited]] <br><sub>`TFB`</sub> | KASIKORNBANK PLC. | เงินฝากธนาคารประเภทออมทรัพย์ | - | 1,716,361 | 1.1879 |
+
+<details><summary>ดูอีก 1 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/HOME PRODUCT CENTER PUBLIC COMPANY LIMITED\|HOME PRODUCT CENTER PUBLIC COMPANY LIMITED]] <br><sub>`HMPRO`</sub> | HOME PRODUCT CENTER PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0661010007 | 1,682,695 | 1.1646 |
+
+</details>
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในกลุ่มอุตสาหกรรม**
+
+| กลุ่มอุตสาหกรรม | % NAV |
+|---|---|
+| ธนาคาร | 28.5 |
+| พลังงาน | 22.29 |
+| ขนส่ง | 9.25 |
+| พาณิชย์ | 8.76 |
+| เทคโนโลยีสารสนเทศและการสื่อสาร | 6.35 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - MT25-ThaiESG]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| main | 2026-08-26 | 13.1038 | 13.1039 | 13.1038 | 165,294,847 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| main | จ่ายเงินปันผล |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) |
+|---|---|---|---|---|---|---|---|---|---|
+| main | 2026-06-30 | 500.0 | THB | 500.0 | THB | - | THB | - | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | ระยะเวลารับเงิน |
+|---|---|---|---|---|
+| main | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | T+5 คือ5 วันทำการหลังจากวันทำรายการขายคืน |
+| main | 2026-06-30 | การซื้อ (subscription) | ทุกวันทำการ | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+### ผู้จัดการกองทุน (จาก Factsheet)
+
+- นาย ประวีร์ อัจจิมากุล
+- นาย พิพัฒน์ นรานันทน์
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน) |
+| T | บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน) |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - MT25-ThaiESG]]
+
+- class `main` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0836_2566.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)]]
+- กองประเภทเดียวกัน: [[ตราสารทุน]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 6]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

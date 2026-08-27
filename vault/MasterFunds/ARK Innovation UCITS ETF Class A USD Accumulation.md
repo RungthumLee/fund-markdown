@@ -1,0 +1,88 @@
+---
+title: "ARK Innovation UCITS ETF Class A USD Accumulation"
+master_key: "IE000GA3D489"
+isin: "IE000GA3D489"
+quote_type: "ETF"
+fund_family: "ARK Investment Management LLC"
+currency: "EUR"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data, etf]
+---
+
+# 🌐 ARK Innovation UCITS ETF Class A USD Accumulation
+
+**ISIN:** `IE000GA3D489` · **Ticker:** `ARXK.DE`
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | ARK Innovation UCITS ETF Class A USD Accumulation |
+| ISIN | `IE000GA3D489` |
+| ประเภท | ETF (จดทะเบียนซื้อขายในตลาด) |
+| โครงสร้างทางกฎหมาย | Exchange Traded Fund |
+| บริษัทจัดการ | ARK Investment Management LLC |
+| สกุลเงิน | EUR |
+| วันจัดตั้ง | 2024-04-12 |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (Yahoo) | 264.28 ล้าน EUR |
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 99.96% |
+| เงินสด | 0.04% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| สุขภาพ | 30.85% |
+| เทคโนโลยี | 25.84% |
+| การเงิน | 14.56% |
+| สินค้าฟุ่มเฟือย | 12.19% |
+| อุตสาหกรรม | 9.18% |
+| สื่อสาร | 6.66% |
+| พลังงาน | 0.71% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | Tesla Inc | `TSLA` | 9.14% |
+| 2 | CRISPR Therapeutics AG | `CRSP` | 5.11% |
+| 3 | Robinhood Markets Inc Class A | `HOOD` | 5.02% |
+| 4 | Advanced Micro Devices Inc | `AMD` | 4.89% |
+| 5 | Space Exploration Technologies Corp Class A | `SPCX` | 4.85% |
+| 6 | 10x Genomics Inc Ordinary Shares - Class A | `TXG` | 4.21% |
+| 7 | Tempus AI Inc Class A common stock | `TEM` | 4.21% |
+| 8 | Coinbase Global Inc Ordinary Shares - Class A | `COIN` | 3.91% |
+| 9 | Shopify Inc Registered Shs -A- Subord Vtg | `SHOP` | 3.77% |
+| 10 | Twist Bioscience Corp | `TWST` | 3.70% |
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[ES-INTERNET]] | [[บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด]] | ตราสารทุน | 6 | 51.61% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `ARXK.DE`)
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

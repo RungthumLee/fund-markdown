@@ -1,0 +1,111 @@
+---
+title: "Fullerton Lux Asia Abs Alpha A USD Cap"
+master_key: "LU0979878070"
+isin: "LU0979878070"
+quote_type: "MUTUALFUND"
+category: "Asia-Pacific ex-Japan Equity"
+domicile: "Luxembourg"
+currency: "USD"
+ongoing_charge: "1.70%"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data]
+---
+
+# 🌐 Fullerton Lux Asia Abs Alpha A USD Cap
+
+**ISIN:** `LU0979878070` · **Ticker:** `0P0001LKXG`
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | Fullerton Lux Asia Abs Alpha A USD Cap |
+| ISIN | `LU0979878070` |
+| ประเภท | กองทุนรวม (ไม่ได้จดทะเบียนซื้อขาย) |
+| โครงสร้างทางกฎหมาย | SICAV |
+| ประเทศจดทะเบียน | Luxembourg |
+| หมวด (Morningstar) | Asia-Pacific ex-Japan Equity |
+| ผู้จัดการกองทุน | Alicia Zhang (เริ่ม 31 Aug 2025) |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2026-03-03 |
+| นโยบายปันผล | Accumulation |
+| สไตล์การลงทุน | Market Cap: Large |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (FT) | 216.74m GBP |
+| **ค่าธรรมเนียมรวมต่อปี (OCF/TER)** | **1.70%** |
+
+> [!IMPORTANT]
+> ค่าธรรมเนียมนี้เป็นของ **กองทุนหลัก** ผู้ลงทุนไทยจ่าย**ซ้อนกับ**ค่าธรรมเนียมของกองไทยอีกชั้น
+> ดู [[../Concepts/ค่าธรรมเนียมกองทุนรวม|ค่าธรรมเนียมกองทุนรวม]]
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| YTD | 14.73% |
+| 1 ปี (FT) | +29.20% |
+| Beta (3 ปี) | 1.13 |
+| Morningstar rating | ★ |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 91.83% |
+| เงินสด | 8.17% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| เทคโนโลยี | 52.81% |
+| การเงิน | 15.93% |
+| อุตสาหกรรม | 11.18% |
+| วัตถุดิบ | 6.90% |
+| สุขภาพ | 6.12% |
+| สินค้าฟุ่มเฟือย | 5.99% |
+| สื่อสาร | 1.07% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 9.84% |
+| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 7.97% |
+| 3 | SK hynix Inc | `000660.KQ` | 7.26% |
+| 4 | Oversea-Chinese Banking Corp Ltd | `O39.SI` | 3.29% |
+| 5 | MediaTek Inc | `2454.TW` | 3.17% |
+| 6 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 3.12% |
+| 7 | Apollo Hospitals Enterprise Ltd | `APOLLOHOSP.NS` | 2.96% |
+| 8 | Unimicron Technology Corp | `3037.TW` | 2.81% |
+| 9 | Nan Ya Plastics Corp | `1303.TW` | 2.77% |
+| 10 | WuXi Biologics (Cayman) Inc | `2269.HK` | 2.66% |
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[M-ASIA]] | [[บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน)]] | ตราสารทุน | 6 | 102.07% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `0P0001LKXG`)
+- **FT.com** — ค่าธรรมเนียม ขนาดกองทุน domicile ผู้จัดการ ([tearsheet](https://markets.ft.com/data/funds/tearsheet/summary?s=LU0979878070:USD))
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

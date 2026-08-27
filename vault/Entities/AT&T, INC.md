@@ -1,0 +1,71 @@
+---
+title: "AT&T, INC."
+entity_id: "isin:US00206R1023"
+isin: "US00206R1023"
+ticker: "T"
+figi: "BBG000BSJK37"
+share_class_figi: "BBG001S5VWH2"
+figi_type: "Common Stock"
+kind: "equity"
+fund_count: 5
+indirect_fund_count: 6
+alias_count: 4
+tags: [entity, entity-equity, held-indirectly, multi-alias]
+---
+
+# 🏢 AT&T, INC.
+
+**ประเภท:** หุ้น · **ISIN:** `US00206R1023` · **Ticker:** `T (US)`
+
+ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
+
+[[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]
+
+## ชื่อที่พบในข้อมูลดิบ
+
+ข้อมูล ก.ล.ต. สะกดสินทรัพย์นี้ **4 แบบ** ซึ่งถูกรวมเป็นรายการเดียวแล้ว
+
+> [!NOTE] ถ้าไม่รวม ตัวเลขการกระจุกตัวจะต่ำกว่าความจริง เพราะฐานะเดียวถูกนับแยกเป็นหลายรายการ
+
+`T US` · `TUN` · `TUNa`
+
+## 🔭 กองทุนไทยที่ถือทางอ้อม (6 กอง)
+
+> [!CAUTION] ตัวเลขนี้เป็น**ขั้นต่ำ** ไม่ใช่สัดส่วนที่แท้จริงทั้งหมด
+> คำนวณจาก _สัดส่วนที่กองไทยถือกองหลัก_ × _สัดส่วนที่กองหลักถือหลักทรัพย์นี้_
+> โดยใช้เฉพาะ **10 อันดับแรก**ที่กองหลักเปิดเผย และวันอ้างอิงของสองฝั่งไม่ตรงกัน
+> อ่าน [[../Concepts/Look-through การถือทางอ้อม|ข้อจำกัดฉบับเต็ม]] ก่อนใช้ตัดสินใจ
+
+| กองทุน | บลจ. | ~% NAV (ทางอ้อม) | ผ่านกองทุนหลัก |
+|---|---|---|---|
+| [[KFUS\|KFUS]] | บริษัทหลักทรัพย์จัดการกองทุน กรุงศรี จำกัด | 5.93% | GQG Partners US Equity Fund |
+| [[KFUSRMF\|KFUSRMF]] | บริษัทหลักทรัพย์จัดการกองทุน กรุงศรี จำกัด | 5.93% | GQG Partners US Equity Fund |
+| [[KFUSSSF\|KFUSSSF]] | บริษัทหลักทรัพย์จัดการกองทุน กรุงศรี จำกัด | 5.93% | GQG Partners US Equity Fund |
+| [[SCBGVALUE\|SCBGVALUE]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 1.59% | iShares Edge MSCI World Value Factor UCITS ETF |
+| [[K-GPIN\|K-GPIN]] | บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด | 1.23% | JPMorgan ETFs (Ireland) ICAV - Global Equity Premium Income Active UCITS ETF - USD (dist) |
+| [[K-GPINUH\|K-GPINUH]] | บริษัทหลักทรัพย์จัดการกองทุน กสิกรไทย จำกัด | 1.20% | JPMorgan ETFs (Ireland) ICAV - Global Equity Premium Income Active UCITS ETF - USD (dist) |
+
+## กองทุนไทยที่ถือโดยตรง (5 กอง)
+
+| กองทุน | บลจ. | % NAV | นโยบาย |
+|---|---|---|---|
+| [[B-FUTURE\|B-FUTURE]] | บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด | 1.66% | ตราสารทุน |
+| [[B-FUTURERMF\|B-FUTURERMF]] | บริษัทหลักทรัพย์จัดการกองทุนรวม  บัวหลวง จำกัด | 1.60% | ตราสารทุน |
+| [[SCBGML\|SCBGML]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 0.24% | ตราสารทุน |
+| [[SCBLT4FUND\|SCBLT4FUND]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 0.04% | ตราสารทุน |
+| [[SCBTAPX\|SCBTAPX]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 0.04% | ตราสารทุน |
+
+> น้ำหนักที่แสดงคือ **% NAV สูงสุด** ที่กองนั้นเคยรายงานถือสินทรัพย์นี้ ในงวดที่มีข้อมูล
+
+## รหัสอ้างอิงสากล
+
+| รายการ | ค่า |
+|---|---|
+| FIGI | `BBG000BSJK37` |
+| Share Class FIGI | `BBG001S5VWH2` |
+| ประเภทตาม Bloomberg | Common Stock |
+| หมวดตลาด | Equity |
+
+ที่มา: OpenFIGI ของ Bloomberg · [[../../docs/guides/openfigi|วิธีใช้และข้อจำกัด]]
+
+[[../Indexes/00-home|🏠 Home]] · [[../Indexes/by-holding|ดัชนีสินทรัพย์]]

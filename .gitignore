@@ -1,0 +1,31 @@
+# secrets — NEVER commit
+.env
+.env.local
+.env.*.local
+
+# all generated data — regenerate with: python run_all.py
+# nothing here is authored by hand, and some files exceed GitHub's 100MB
+# per-file limit (data/processed/funds.json is ~156MB, data/raw is ~1GB).
+# The published product is the markdown in vault/, not the JSON it is built from.
+data/
+
+# scratch
+_tmp/
+
+# logs
+logs/
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# obsidian workspace state
+.obsidian/workspace*
+.obsidian/cache
+
+# os
+Thumbs.db
+.DS_Store

@@ -1,0 +1,46 @@
+---
+title: "Templeton Japan Fund"
+master_key: "name:templeton japan"
+quote_type: "ETF"
+currency: "EUR"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data, etf]
+---
+
+# 🌐 Templeton Japan Fund
+
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | Templeton Japan Fund |
+| ISIN | - |
+| ประเภท | ETF (จดทะเบียนซื้อขายในตลาด) |
+| ประเทศจดทะเบียน | ลักเซมเบิร์ก |
+| สกุลเงิน | EUR |
+| วันจัดตั้ง | - |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+_ไม่มีข้อมูล_
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[LHJAPE]] | [[บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด]] | ตราสารทุน | 6 | 88.11% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `XQ13.DU`)
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

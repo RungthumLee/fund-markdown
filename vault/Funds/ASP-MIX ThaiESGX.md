@@ -1,0 +1,385 @@
+---
+title: "ASP-MIX ThaiESGX"
+proj_id: M0442_2568
+regis_id: "MF0243_2568"
+abbr: "ASP-MIX ThaiESGX"
+name_th: "กองทุนเปิด แอสเซทพลัส ผสมไทยเพื่อความยั่งยืนแบบพิเศษ"
+name_en: "Asset Plus Mixed Thailand ESG Extra Fund"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน แอสเซท พลัส จำกัด"
+amc_id: "C0000005022"
+policy: "ผสม"
+risk_spectrum: "5"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "4"
+init_date: "2025-04-28"
+regis_date: "2025-05-09"
+class_count: 3
+has_factsheet: true
+ter_retail: 2.71
+perf_1y: 33.18
+nav: 12.7646
+nav_date: "2026-08-26"
+fund_size: 54333478.24
+holdings_count: 29
+top10_pct_nav: 58.68
+fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ปิยะณั คุ้มเมธา"]
+tags: [fund, sec-data, policy/mixed, risk/5, active, foreign-exposure]
+---
+
+# ASP-MIX ThaiESGX
+
+**กองทุนเปิด แอสเซทพลัส ผสมไทยเพื่อความยั่งยืนแบบพิเศษ**  
+_Asset Plus Mixed Thailand ESG Extra Fund_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน แอสเซท พลัส จำกัด]] · นโยบาย [[ผสม]] · ความเสี่ยงระดับ **5**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0442_2568`
+> - **ประเภท:** ผสม · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** มีความเสี่ยงทั้งในและต่างประเทศ
+> - **จัดตั้ง:** 2025-04-28 · **จดทะเบียน:** 2025-05-09
+> - **ชนิดหน่วยลงทุน:** 3 class
+> - **NAV 12.7646 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0442_2568` |
+| เลขที่จดทะเบียน (regis_id) | MF0243_2568 |
+| ชื่อย่อ | ASP-MIX ThaiESGX |
+| ชื่อไทย | กองทุนเปิด แอสเซทพลัส ผสมไทยเพื่อความยั่งยืนแบบพิเศษ |
+| ชื่ออังกฤษ | Asset Plus Mixed Thailand ESG Extra Fund |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน แอสเซท พลัส จำกัด]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2025-04-28 |
+| วันจดทะเบียน | 2025-05-09 |
+| ประเภทตามนโยบาย | ผสม |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | มีความเสี่ยงทั้งในและต่างประเทศ |
+
+### นโยบายป้องกันความเสี่ยงอัตราแลกเปลี่ยน
+
+ดุลยพินิจ (dynamic hedging) (0%-105% ของมูลค่าความเสี่ยง)
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| ASP-MIX ThaiESGX-LTF | THD016A10007 | - | ชนิดเงินลงทุนเดิม |
+| ASP-MIX ThaiESGX-T | THD016C10003 | - | ชนิดเงินลงทุนใหม่ |
+| ASP-MIX ThaiESGX-X68 | THD016B10005 | - | ชนิดเงินลงทุนพิเศษ |
+
+## 3. นโยบายการลงทุน
+
+นโยบายการลงทุนการลงทุนของกองทุน
+1. วัตถุประสงค์การลงทุนที่เกี่ยวกับความยั่งยืน
+กองทุนมีนโยบายกระจายการลงทุน โดยมี Net Exposure ในหลักทรัพยหรือทรัพย์สินตามข้อ (1) – (2) โดยเฉลี่ยรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน
+
+(1) หุ้นของบริษัทที่จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยและ/หรือตลาดหลักทรัพย์ เอ็ม เอ ไอ (mai) ("บริษัทจดทะเบียนฯ") ซึ่งมีลักษณะอย่างหนึ่งอย่างใด ตามข้อ (1.1) - (1.3) ดังนี้
+
+(1.1) บริษัทจดทะเบียนฯ ที่ได้รับการคัดเลือกจากตลาดหลักทรัพย์แห่งประเทศไทยหรือองค์กรหรือสถาบันอื่นที่สำนักงานคณะกรรมการ ก.ล.ต. ยอมรับว่ามีความโดดเด่นด้านสิ่งแวดล้อม (Environment) หรือด้านความยั่งยืน (Environmental, Social and Governance : ESG) และ/หรือ
+
+(1.2) บริษัทจดทะเบียนฯ ที่มีการเปิดเผยข้อมูลเกี่ยวกับการปล่อยก๊าซเรือนกระจก แผนการจัดการ และการตั้งเป้าหมายเพื่อบรรลุเป้าหมายในการลดปริมาณการปล่อยก๊าซเรือนกระจกของประเทศไทย รวมทั้งจัดให้มีการทวนสอบการจัดทำคาร์บอนฟุตพริ้นท์โดยผู้ทวนสอบที่สำนักงานคณะกรรมการ ก.ล.ต. ยอมรับ และ/หรือ
+
+(1.3) บริษัทจดทะเบียนฯ ที่มีธรรมาภิบาล (Governance) ที่มีลักษณะดังนี้
+(1.3.1) ได้รับการประเมินการกำกับดูแลกิจการบริษัทจดทะเบียน (Corporate Governance Report of Thai Listed Companies: CGR) จากสมาคมส่งเสริมสถาบันกรรมการบริษัทไทย ตั้งแต่ 90 คะแนนขึ้นไป หรือเทียบเท่า
+(1.3.2) มีการเปิดเผยเป้าหมายและแผนในเรื่องดังนี้ และรายงานความคืบหน้าในการปฏิบัติตามเป้าหมายหรือแผน ผ่านช่องทางของ SET ซึ่งจัดไว้สำหรับการเปิดเผยข้อมูลดังกล่าวโดยเฉพาะ
+(1.3.2.1) การมีเป้าหมายและแผนธุรกิจที่เกี่ยวข้องกับการเพิ่มมูลค่าของกิจการ (corporate value up plan)
+(1.3.2.2) การมีเป้าหมายและแผนการยกระดับการดำเนินงานในเรื่องใดเรื่องหนึ่ง ดังนี้ โดยต้องตั้งเป้าหมายเพื่อดำเนินการให้เป็นไปตามแผนการยกระดับดังกล่าวให้แล้วเสร็จภายในระยะเวลา 2 ปีนับแต่วันที่เปิดเผยเป้าหมายและแผนการยกระดับ
+(1.3.2.2.1) แผนดำเนินการที่ชัดเจนเพื่อเข้ารับการประเมินจากผู้ประเมินผลการดำเนินงานด้านความยั่งยื่นตามมาตรฐานสากลตามข้อ (1.1)
+(1.3.2.2.2) เป้าหมายและแผนดำเนินการเพื่อลดปริมาณการปล่อยก๊าซเรือนกระจกของประเทศไทยตามข้อ (1.2)
+(1.3.3) มีการเพิ่มประสิทธิภาพการสื่อสารกับผู้ลงทุน ตามที่ SET กำหนด และ/หรือ
+(2) ลงทุนในตราสารอย่างใดอย่างหนึ่งหรือหลายอย่าง ดังนี้
+(2.1) ตราสารเพื่ออนุรักษ์สิ่งแวดล้อม (Green Bond) ตราสารเพื่อความยั่งยืน (Sustainability Bond) และ/หรือตราสารส่งเสริมความยั่งยืน (Sustainability-Linked Bond) ที่ออกตามประกาศคณะกรรมการกำกับตลาดทุนว่าด้วยการขออนุญาตและการอนุญาตให้เสนอขายตราสารหนี้ที่ออกใหม่ต่อประชาชนเป็นการทั่วไป ประกาศคณะกรรมการกำกับตลาดทุนว่าด้วยการขออนุญาตและการอนุญาตให้เสนอขายตราสารหนี้ที่ออกใหม่ต่อบุคคลในวงจำกัด และการเสนอขายหุ้นกู้แปลงสภาพต่อบุคคลที่มีลักษณะเฉพาะ หรือประกาศคณะกรรมการกำกับตลาดทุนว่าด้วยข้อกำหนดที่เกี่ยวกับการขออนุญาตและเสนอขายหลักทรัพย์ เปิดเผยข้อมูล และอื่น ๆ ซึ่งมีการเปิดเผยข้อมูลในแบบแสดงรายการข้อมูลการเสนอขายตราสาร หรือเอกสารที่นำเสนอข้อมูลต่อผู้ลงทุนกรณีเสนอขายตราสารดังกล่าว ในเรื่องดังนี้
+(2.1.1) กรณีเป็นตราสารเพื่ออนุรักษ์สิ่งแวดล้อม (Green Bond ) หรือ ตราสารเพื่อความยั่งยืน (Sustainability Bond ) ต้องมีการเปิดเผยวัตถุประสงค์การใช้เงินที่ได้จากการระดมทุน (Use of Proceeds) ว่ามีเป้าหมายไปเพื่อโครงการที่เกี่ยวข้องกับการอนุรักษ์สิ่งแวดล้อม
+(2.1.2) กรณีเป็นตราสารส่งเสริมความยั่งยืน (Sustainability-Linked Bond) ต้องมีการเปิดเผยข้อมูลเกี่ยวกับการกำหนดตัวชี้วัดและเป้าหมายด้านความยั่งยืนของผู้ออกตราสารดังกล่าวในประเทศไทย
+(2.2) พันธบัตรรัฐบาล พันธบัตรที่กระทรวงการคลังค้ำประกัน หรือหุ้นกู้ที่กระทรวงการคลังค้ำประกันต้นเงินและดอกเบี้ย (แต่ไม่รวมถึงหุ้นกู้แปลงสภาพ) ซึ่งเป็นพันธบัตรหรือหุ้นกู้เพื่ออนุรักษ์สิ่งแวดล้อม (Green Bond) พันธบัตรหรือหุ้นกู้เพื่อความยั่งยืน (Sustainability Bond) หรือพันธบัตรหรือหุ้นกู้ส่งเสริมความยั่งยืน (Sustainability-Linked Bond)
+ทั้งนี้ กองทุนจะลงทุนโดยมี Net Exposure ในหรือมีไว้ซึ่งหุ้นของบริษัทจดทะเบียนตามข้อ (1.1) และ/หรือ (1.2) และ/หรือ (1.3) ซึ่งเป็นบริษัทจดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย และ/หรือ ตลาดหลักทรัพย์ เอ็ม เอ ไอ (mai) (“บริษัทจดทะเบียนฯ”) โดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 65 ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม 
+2. เป้าหมายด้านความยั่งยืน 
+เป็นกลไกขับเคลื่อนให้กิจการไทยมีการดำเนินงานที่คำนึงถึงปัจจัยด้าน ESG มากขึ้น ส่งผลให้เกิดระบบนิเวศที่ยั่งยืนต่อระบบเศรษฐกิจไทย และช่วยให้ป …(ตัดทอน)
+
+### ลักษณะเฉพาะของโครงการ
+
+- `TESGX` กองทุนรวมไทยเพื่อความยั่งยืนแบบพิเศษ
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 5 / 8** — 5 — ผสม
+
+> ลงทุนในตราสารทุน โดยเฉลี่ยรอบปีบัญชีไม่น้อยกว่าร้อยละ 75 ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| ASP-MIX ThaiESGX-LTF | 1.46 | -4.11 | 0.97 | -8.23% | 3.98 | 2.06 | - |
+| ASP-MIX ThaiESGX-T | 1.88 | 0.18 | 1.01 | -7.12% | - | 2.06 | - |
+| ASP-MIX ThaiESGX-X68 | 1.44 | -4.3 | 0.97 | -8.27% | 3.98 | 2.06 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `ASP-MIX ThaiESGX-LTF`<br><sub>ชนิดเงินลงทุนเดิม</sub> | 🔒 สถาบัน / กลุ่มบุคคล | 2.71 | 4.1 | 1.61 | - | - |
+| `ASP-MIX ThaiESGX-T`<br><sub>ชนิดเงินลงทุนใหม่</sub> | ⚪ ไม่ระบุ | 2.71 | 4.1 | 1.61 | - | - |
+| `ASP-MIX ThaiESGX-X68`<br><sub>ชนิดเงินลงทุนพิเศษ</sub> | ⚪ ไม่ระบุ | 2.71 | 4.1 | 1.61 | - | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 1 | 0 |
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 1 | 0 |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 1 | 0 |
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.61 | 1.61 |
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 4.1 | 2.71 |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.61 | 1.61 |
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.61 | 1.61 |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 4.1 | 2.71 |
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 4.1 | 2.71 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.61 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมทั้งหมด (Total Fee) | 4.1 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 1 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-LTF | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.41 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.61 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมทั้งหมด (Total Fee) | 4.1 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 1 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-T | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.41 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.61 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมทั้งหมด (Total Fee) | 4.1 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 1 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.08 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| ASP-MIX ThaiESGX-X68 | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 1.41 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+
+## 6. ผลการดำเนินงาน
+
+### Class `ASP-MIX ThaiESGX-LTF`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | ตั้งแต่จัดตั้ง | 2025 |
+|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 8.13 | 22.66 | 22.66 | 33.18 | 20.99 | 1.14 |
+| ผลตอบแทนตัวชี้วัด | 9.41 | 22.55 | 22.55 | 38.65 | 25.11 | 5.14 |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 8.81 | 17 | 17 | 28.42 | - | - |
+| ความผันผวนของกองทุนรวม | 13.98 | 16.36 | 16.36 | 13.96 | 13.84 | - |
+| ความผันผวนของตัวชี้วัด | 11.72 | 15.59 | 15.59 | 13.53 | 13.58 | - |
+
+### Class `ASP-MIX ThaiESGX-T`
+
+| รายการ | 3 เดือน | ตั้งแต่จัดตั้ง |
+|---|---|---|
+| ผลตอบแทนกองทุนรวม | 8.12 | 21.31 |
+| ผลตอบแทนตัวชี้วัด | 9.41 | 21.14 |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 8.81 | - |
+| ความผันผวนของกองทุนรวม | 13.98 | 16.37 |
+| ความผันผวนของตัวชี้วัด | 11.72 | 15.59 |
+
+### Class `ASP-MIX ThaiESGX-X68`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | ตั้งแต่จัดตั้ง | 2025 |
+|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 8.13 | 22.66 | 22.66 | 33.17 | 20.72 | 1.09 |
+| ผลตอบแทนตัวชี้วัด | 9.41 | 22.55 | 22.55 | 38.65 | 25.02 | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 8.81 | 17 | 17 | 28.42 | - | - |
+| ความผันผวนของกองทุนรวม | 13.98 | 16.36 | 16.36 | 13.96 | 13.81 | - |
+| ความผันผวนของตัวชี้วัด | 11.72 | 15.59 | 15.59 | 13.53 | 13.55 | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 2 | ดัชนี MSCI AC World NETR USD Index | ดัชนี MSCI AC World NETR USD Index ในสัดส่วน 5% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทน เป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
+| 3 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย ในสัดส่วน 5% |
+| 4 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) ในสัดส่วน 75% |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| ตราสารทุน | 73.58 |
+| เงินฝาก/ตั๋วแลกเงิน | 4.55 |
+| ตราสารหนี้เอกชน | 6.27 |
+| หน่วยลงทุน | 4.91 |
+| ตราสารหนี้รัฐบาล | 9.35 |
+| อื่นๆ | 1.34 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | DELTA | 15.57 |
+| 2 | GULF | 6.04 |
+| 3 | ADVANC | 5.39 |
+| 4 | ESGLB35DA | 5.11 |
+| 5 | ACWI US | 4.91 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 101,758,059 | 75.2854 |
+| 206 | พันธบัตรรัฐบาล (รหัส 213 ) | 12,330, | 9.1223 |
+| 103 | หุ้นกู้ (รหัส 103 -107) | 8,288,16 | 6.132 |
+| 108 | หน่วยลงทุน (รหัส 108-109,117-121,139,130) | 6,497,054 | 4.8068 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 6,194,921 | 4.5833 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | 94,929 | 0.0702 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **29** รายการ จากผู้ออก 27 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **131,815,608** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **58.68% ของ NAV** (คิดเป็น 59.5% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED\|DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`DELTA`</sub> | DELTA ELECTRONICS (THAILAND) PUBLIC COMP | หุ้นสามัญ | TH0528A10Z06 | 20,527,325 | 15.5728 |
+| 2 | [[../Entities/GULF DEVELOPMENT PUBLIC COMPANY LIMITED\|GULF DEVELOPMENT PUBLIC COMPANY LIMITED]] <br><sub>`GULF`</sub> | GULF DEVELOPMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC903010005 | 7,964,25 | 6.042 |
+| 3 | [[../Entities/ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED\|ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED]] <br><sub>`ADVANC`</sub> | ADVANCED INFO SERVICE PUBLIC COMPANY LIM | หุ้นสามัญ | TH0268010Z03 | 7,108,056 | 5.3924 |
+| 4 | [[../Entities/MINISTRY OF FINANCE (TH062303FC01)\|MINISTRY OF FINANCE]] <br><sub>`ESGLB35DA`</sub> | MINISTRY OF FINANCE | พันธบัตร | TH062303FC01 | 6,740,059 | 5.1132 |
+| 5 | [[../Entities/iShares MSCI ACWI ETF (US4642882579)\|iShares MSCI ACWI ETF]] <br><sub>`ACWI US`</sub> | Ishares By Blackrock | หน่วยลงทุนของกองทุนตราสารทุน | US4642882579 | 6,470,815 | 4.909 |
+| 6 | [[../Entities/KRUNG THAI BANK PUBLIC COMPANY LIMITED\|KRUNG THAI BANK PUBLIC COMPANY LIMITED]] <br><sub>`KTB`</sub> | KRUNG THAI BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0150010Z03 | 6,281,818 | 4.7656 |
+| 7 | [[../Entities/Kasikornbank Public Company Limited\|Kasikornbank Public Company Limited]] <br><sub>`Main A/C-MIX ThaiE`</sub> | KASIKORNBANK PLC. | เงินฝากธนาคารประเภทออมทรัพย์ | - | 5,912,98 | 4.4858 |
+| 8 | [[../Entities/AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED\|AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED]] <br><sub>`AOT`</sub> | AIRPORTS OF THAILAND PUBLIC COMPANY LIMI | หุ้นสามัญ | TH0765010Z08 | 5,776,075 | 4.3819 |
+| 9 | [[../Entities/MINISTRY OF FINANCE (TH0623A3H605)\|MINISTRY OF FINANCE]] <br><sub>`ESGLB376A`</sub> | MINISTRY OF FINANCE | พันธบัตร | TH0623A3H605 | 5,590,783 | 4.2414 |
+| 10 | [[../Entities/KCE ELECTRONICS PUBLIC COMPANY LIMITED\|KCE ELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`KCE`</sub> | KCE ELECTRONICS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0122C10Z04 | 4,980,775 | 3.7786 |
+| 11 | [[../Entities/GUNKUL ENGINEERING PUBLIC COMPANY LIMITED\|GUNKUL ENGINEERING PUBLIC COMPANY LIMITED]] <br><sub>`GUNKUL`</sub> | GUNKUL ENGINEERING PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH1041010Z03 | 4,848,016 | 3.6779 |
+| 12 | [[../Entities/SCB X PUBLIC COMPANY LIMITED\|SCB X PUBLIC COMPANY LIMITED]] <br><sub>`SCB`</sub> | SCB X PUBLIC COMPANY LIMITED | หุ้นสามัญ | THA790010005 | 4,786,912 | 3.6315 |
+| 13 | [[../Entities/BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED (TH6999039907)\|BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED]] <br><sub>`BEM299A`</sub> | BANGKOK EXPRESSWAY AND METRO PUBLIC COMP | หุ้นกู้ | TH6999039907 | 4,227,445 | 3.2071 |
+| 14 | [[../Entities/BANK OF AYUDHYA PUBLIC COMPANY LIMITED (TH0023010000)\|BANK OF AYUDHYA PUBLIC COMPANY LIMITED]] <br><sub>`BAY`</sub> | BANK OF AYUDHYA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0023010000 | 3,468,6 | 2.6314 |
+| 15 | [[../Entities/TRUE CORPORATION PUBLIC COMPANY LIMITED\|TRUE CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`TRUE`</sub> | TRUE CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | THB231010000 | 3,329,942 | 2.5262 |
+| 16 | [[../Entities/KASIKORNBANK PUBLIC COMPANY LIMITED (TH0016010009)\|KASIKORNBANK PUBLIC COMPANY LIMITED]] <br><sub>`KBANK`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0016010009 | 3,319,05 | 2.5179 |
+| 17 | [[../Entities/BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED\|BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED]] <br><sub>`BH`</sub> | BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0168A10Z01 | 3,271,2 | 2.4817 |
+| 18 | [[../Entities/PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED\|PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED]] <br><sub>`PTTEP`</sub> | PTT EXPLORATION AND PRODUCTION PUBLIC CO | หุ้นสามัญ | TH0355A10Z04 | 3,162,4 | 2.3991 |
+| 19 | [[../Entities/STECON GROUP PUBLIC COMPANY LIMITED\|STECON GROUP PUBLIC COMPANY LIMITED]] <br><sub>`STECON`</sub> | STECON GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC381010006 | 2,905,2 | 2.204 |
+| 20 | [[../Entities/PLAN B MEDIA PUBLIC COMPANY LIMITED\|PLAN B MEDIA PUBLIC COMPANY LIMITED]] <br><sub>`PLANB`</sub> | PLAN B MEDIA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6253010008 | 2,830,864 | 2.1476 |
+| 21 | [[../Entities/TMBTHANACHART BANK PUBLIC COMPANY LIMITED\|TMBTHANACHART BANK PUBLIC COMPANY LIMITED]] <br><sub>`TTB`</sub> | TMBTHANACHART BANK PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH0068010Z07 | 2,778,078 | 2.1075 |
+| 22 | [[../Entities/BANGKOK AIRWAYS PUBLIC COMPANY LIMITED\|BANGKOK AIRWAYS PUBLIC COMPANY LIMITED]] <br><sub>`BA`</sub> | BANGKOK AIRWAYS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH4403010002 | 2,762,05 | 2.0954 |
+| 23 | [[../Entities/MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED\|MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED]] <br><sub>`MTC`</sub> | MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6068010Y02 | 2,409,75 | 1.8281 |
+| 24 | [[../Entities/HANA MICROELECTRONICS PUBLIC COMPANY LIMITED\|HANA MICROELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`HANA`</sub> | HANA MICROELECTRONICS PUBLIC COMPANY LIM | หุ้นสามัญ | TH0324B10Z01 | 2,238,6 | 1.6983 |
+| 25 | [[../Entities/CENTRAL PATTANA PUBLIC COMPANY LIMITED\|CENTRAL PATTANA PUBLIC COMPANY LIMITED]] <br><sub>`CPN`</sub> | CENTRAL PATTANA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0481B10Z00 | 2,231,1 | 1.6926 |
+
+<details><summary>ดูอีก 4 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | BTS GROUP HOLDINGS PUBLIC COMPANY LIMITED <br><sub>`BTSG295B`</sub> | BTS GROUP HOLDINGS PUBLIC COMPANY LIMITE | หุ้นกู้ | TH0221A39507 | 2,023,996 | 1.5355 |
+| 27 | [[../Entities/BTS GROUP HOLDINGS PUBLIC COMPANY LIMITED (TH0221039504)\|BTS GROUP HOLDINGS PUBLIC COMPANY LIMITED]] <br><sub>`BTSG295A`</sub> | BTS GROUP HOLDINGS PUBLIC COMPANY LIMITE | หุ้นกู้ | TH0221039504 | 2,008,205 | 1.5235 |
+| 28 | [[../Entities/Foreign Currency Diposit\|Foreign Currency Diposit]] <br><sub>`FCD-USD-MIX TESGX`</sub> | Foreign Currency Diposit | เงินฝากธนาคารประเภทออมทรัพย์ | - | 79,277 | 0.0601 |
+| 29 | [[../Entities/PTT PUBLIC COMPANY LIMITED\|PTT PUBLIC COMPANY LIMITED]] <br><sub>`PTT`</sub> | PTT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0646010Z00 | 1,065 | 0.0008 |
+
+</details>
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในต่างประเทศ**
+
+| ประเทศ / ภูมิภาค | % NAV |
+|---|---|
+| UNITED STATES | 4.91 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - ASP-MIX ThaiESGX]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| ASP-MIX ThaiESGX-LTF | 2026-08-26 | 12.7646 | 0 | 12.7646 | 54,333,478 |
+| ASP-MIX ThaiESGX-T | 2026-08-26 | 12.758 | 12.7581 | 12.758 | 2,125,348 |
+| ASP-MIX ThaiESGX-X68 | 2026-08-26 | 12.7629 | 0 | 12.7629 | 79,584,036 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| ASP-MIX ThaiESGX-LTF | ไม่จ่ายเงินปันผล |
+| ASP-MIX ThaiESGX-T | ไม่จ่ายเงินปันผล |
+| ASP-MIX ThaiESGX-X68 | ไม่จ่ายเงินปันผล |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) |
+|---|---|---|---|---|---|---|---|---|---|
+| ASP-MIX ThaiESGX-X68 | 2026-06-30 | 1000.0 | THB | 1000.0 | THB | - | THB | - | THB |
+| ASP-MIX ThaiESGX-LTF | 2026-06-30 | - | THB | - | THB | - | THB | - | THB |
+| ASP-MIX ThaiESGX-T | 2026-06-30 | 1000.0 | THB | 1000.0 | THB | - | THB | - | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | รายละเอียดเพิ่มเติม | ระยะเวลารับเงิน |
+|---|---|---|---|---|---|
+| ASP-MIX ThaiESGX-X68 | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | - | T+5 คือ5 วันทำการหลังจากวันทำรายการขายคืน |
+| ASP-MIX ThaiESGX-T | 2026-06-30 | การขายคืน (redemption) | อื่น ๆ โปรดระบุ | ทุกวันทำการ | T+5 คือ5 วันทำการหลังจากวันทำรายการขายคืน |
+| ASP-MIX ThaiESGX-LTF | 2026-06-30 | การขายคืน (redemption) | ทุกวันทำการ | - | T+5 คือ5 วันทำการหลังจากวันทำรายการขายคืน |
+| ASP-MIX ThaiESGX-X68 | 2026-06-30 | การซื้อ (subscription) | อื่น ๆ โปรดระบุ | เปิดรับคำสั่งซื้อเฉพาะการสับเปลี่ยนหน่วยลงทุนจากกองทุน ThaiESGX ที่มีเงื่อนไขสิทธิประโยชน์ทางภาษีเดียวกันเท่านั้น | - |
+| ASP-MIX ThaiESGX-T | 2026-06-30 | การซื้อ (subscription) | อื่น ๆ โปรดระบุ | ทุกวันทำการ | - |
+| ASP-MIX ThaiESGX-LTF | 2026-06-30 | การซื้อ (subscription) | อื่น ๆ โปรดระบุ | เปิดรับคำสั่งซื้อเฉพาะการสับเปลี่ยนหน่วยลงทุนจากกองทุน ThaiESGX ที่มีเงื่อนไขสิทธิประโยชน์ทางภาษีเดียวกันเท่านั้น | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+### ผู้จัดการกองทุน (จาก Factsheet)
+
+- น.ส. ทิพย์วดี อภิชัยสิริ
+- นาย ปิยะณั คุ้มเมธา
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน แอสเซท พลัส จำกัด |
+| T | บริษัทหลักทรัพย์จัดการกองทุน แอสเซท พลัส จำกัด |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - ASP-MIX ThaiESGX]]
+
+- class `ASP-MIX ThaiESGX-LTF` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0442_2568.pdf)
+- class `ASP-MIX ThaiESGX-X68` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0442_2568.pdf)
+- class `ASP-MIX ThaiESGX-T` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0442_2568.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน แอสเซท พลัส จำกัด]]
+- กองประเภทเดียวกัน: [[ผสม]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 5]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

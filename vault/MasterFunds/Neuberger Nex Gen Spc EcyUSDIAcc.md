@@ -1,0 +1,109 @@
+---
+title: "Neuberger Nex Gen Spc EcyUSDIAcc"
+master_key: "name:neuberger berman next generation space economy"
+quote_type: "MUTUALFUND"
+category: "Sector Equity Technology"
+domicile: "Ireland"
+currency: "USD"
+ongoing_charge: "0.98%"
+feeder_count: 1
+has_external_data: true
+tags: [master-fund, external-data]
+---
+
+# 🌐 Neuberger Nex Gen Spc EcyUSDIAcc
+
+
+กองทุนหลักของกองทุนไทย **1** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | Neuberger Nex Gen Spc EcyUSDIAcc |
+| ISIN | - |
+| ประเภท | กองทุนรวม (ไม่ได้จดทะเบียนซื้อขาย) |
+| โครงสร้างทางกฎหมาย | Open Ended Investment Company |
+| ประเทศจดทะเบียน | Ireland |
+| หมวด (Morningstar) | Sector Equity Technology |
+| ผู้จัดการกองทุน | Hariharan Ramanan (เริ่ม 10 May 2022) |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2025-12-01 |
+| นโยบายปันผล | Accumulation |
+| สไตล์การลงทุน | Market Cap: Mid |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (FT) | 476.86m GBP |
+| **ค่าธรรมเนียมรวมต่อปี (OCF/TER)** | **0.98%** |
+
+> [!IMPORTANT]
+> ค่าธรรมเนียมนี้เป็นของ **กองทุนหลัก** ผู้ลงทุนไทยจ่าย**ซ้อนกับ**ค่าธรรมเนียมของกองไทยอีกชั้น
+> ดู [[../Concepts/ค่าธรรมเนียมกองทุนรวม|ค่าธรรมเนียมกองทุนรวม]]
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| YTD | 5.81% |
+| 1 ปี (FT) | +21.58% |
+| Beta (3 ปี) | 0.82 |
+| Morningstar rating | ★★★★ |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 97.23% |
+| เงินสด | 2.77% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| อุตสาหกรรม | 52.74% |
+| เทคโนโลยี | 31.45% |
+| สื่อสาร | 10.38% |
+| วัตถุดิบ | 2.80% |
+| สินค้าฟุ่มเฟือย | 1.61% |
+| การเงิน | 1.02% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | Rocket Lab Corp | `RKLB` | 6.22% |
+| 2 | Planet Labs PBC Class A | `PL` | 6.21% |
+| 3 | AST SpaceMobile Inc Ordinary Shares - Class A | `ASTS` | 4.47% |
+| 4 | SKY Perfect JSAT Corp | `9412.T` | 4.02% |
+| 5 | Hyundai Rotem Co | `064350.KQ` | 3.16% |
+| 6 | MDA Space Ltd | `MDA.TO` | 2.88% |
+| 7 | Mitsubishi Heavy Industries Ltd | `7011.T` | 2.75% |
+| 8 | Kratos Defense & Security Solutions Inc | `KTOS` | 2.56% |
+| 9 | Singapore Technologies Engineering Ltd | `S63.SI` | 2.45% |
+| 10 | EchoStar Corp Class A | `ECHO` | 2.31% |
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**1 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[LHSPACE]] | [[บริษัทหลักทรัพย์จัดการกองทุน แลนด์ แอนด์ เฮ้าส์ จำกัด]] | ตราสารทุน | 6 | 100.17% |
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `0P0001OUE4`)
+- **FT.com** — ค่าธรรมเนียม ขนาดกองทุน domicile ผู้จัดการ ([tearsheet](https://markets.ft.com/data/funds/tearsheet/summary?s=IE000PK18K22:USD))
+- **ค้นเว็บ** — พบ ISIN `IE000PK18K22` แล้วยืนยันตัวเลขซ้ำกับ FT/Yahoo อีกชั้น
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

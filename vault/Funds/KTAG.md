@@ -1,0 +1,358 @@
+---
+title: "KTAG"
+proj_id: M0821_2566
+regis_id: "MF0548_2566"
+abbr: "KTAG"
+name_th: "กองทุนเปิดกรุงไทย ESG A Grade"
+name_en: "Krungthai ESG A Grade Fund"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน)"
+amc_id: "C0000000460"
+policy: "ตราสารทุน"
+risk_spectrum: "6"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "3"
+init_date: "2023-12-06"
+regis_date: "2023-12-19"
+class_count: 6
+has_factsheet: true
+ter_retail: 2.08
+perf_1y: 37.9
+nav: 11.9751
+nav_date: "2026-08-26"
+fund_size: 459387780.25
+holdings_count: 45
+top10_pct_nav: 59.52
+tags: [fund, sec-data, policy/equity, risk/6, active, tax/thai-esg]
+---
+
+# KTAG
+
+**กองทุนเปิดกรุงไทย ESG A Grade**  
+_Krungthai ESG A Grade Fund_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน)]] · นโยบาย [[ตราสารทุน]] · ความเสี่ยงระดับ **6**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0821_2566`
+> - **ประเภท:** ตราสารทุน · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** ไม่มีความเสี่ยงต่างประเทศ
+> - **จัดตั้ง:** 2023-12-06 · **จดทะเบียน:** 2023-12-19
+> - **ชนิดหน่วยลงทุน:** 6 class
+> - **NAV 11.9751 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0821_2566` |
+| เลขที่จดทะเบียน (regis_id) | MF0548_2566 |
+| ชื่อย่อ | KTAG |
+| ชื่อไทย | กองทุนเปิดกรุงไทย ESG A Grade |
+| ชื่ออังกฤษ | Krungthai ESG A Grade Fund |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน)]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2023-12-06 |
+| วันจดทะเบียน | 2023-12-19 |
+| ประเภทตามนโยบาย | ตราสารทุน |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | ไม่มีความเสี่ยงต่างประเทศ |
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| KTAG-A | THB783A10004 | - | ชนิดสะสมมูลค่า |
+| KTAG-D | THB783B10002 | - | ชนิดจ่ายเงินปันผล |
+| KTAG-I | THB783D10008 | - | ชนิดผู้ลงทุนสถาบัน |
+| KTAG-P | THB783E10006 | - | ชนิดผู้ลงทุนกลุ่ม/บุคคล |
+| KTAG-R | THB783C10000 | - | ชนิดขายคืนหน่วยลงทุนอัตโนมัติ |
+| KTAG-ThaiESG | THB783F10003 | กองทุนรวมไทยเพื่อความยั่งยืน (Thailand ESG Fund : Thai ESG) | ชนิดไทยเพื่อความยั่งยืน |
+
+## 3. นโยบายการลงทุน
+
+(1) กองทุนมีนโยบายลงทุนในหรือมีไว้ซึ่งหุ้นที่เป็นหลักทรัพย์จดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทย (SET) และ/หรือตลาดหลักทรัพย์เอ็ม เอ ไอ (mai) โดยจะลงเน้นลงทุนในบริษัทที่มีความโดดเด่นในการบริหารจัดการสิ่งแวดล้อม สังคม และธรรมาภิบาล (ESG) ซึ่งผ่านกระบวนการวิเคราะห์การลงทุนแบบ ESG Integration โดยผ่านการคัดเลือกและได้รับการประกาศผลประเมินหุ้นยั่งยืน SET ESG Ratings ของตลาดหลักทรัพย์แห่งประเทศไทย ในระดับ A ขึ้นไป ซึ่งเป็นการประเมินจากข้อมูลผลการดำเนินงานด้านสิ่งแวดล้อม สังคมและบรรษัทภิบาล (Environmental, Social and Governance หรือ ESG) ของบริษัทจดทะเบียน หรือได้รับการจัดอันดับในระดับที่สามารถเทียบเคียงได้กับระดับ A ขึ้นไป ที่มีความโดดเด่นด้านสิ่งแวดล้อม (Environment) หรือด้านความยั่งยืน (Environmental Social and Governance: ESG) โดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน
+(2) สำหรับเงินลงทุนส่วนที่เหลือ กองทุนอาจพิจารณาลงทุนในตราสารทุนนอกเหนือจากที่ระบุตามข้อ (1) ตราสารแห่งหนี้ ตราสารกึ่งหนี้กึ่งทุน ตราสารทางการเงิน หน่วยลงทุน CIS กองทุน ETF หน่วย infra หน่วย private equity หน่วย property และ/หรือเงินฝากหรือตราสารเทียบเท่าเงินฝาก ตลอดจนหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นอย่างใดอย่างหนึ่งหรือหลายอย่างตามที่คณะกรรมการ ก.ล.ต. หรือสำนักงานคณะกรรมการ ก.ล.ต. ประกาศกำหนด หรือให้ความเห็นชอบให้ลงทุนได้ รวมถึงกองทุนอาจลงทุนในโทเคนดิจิทัลเพื่อการลงทุน (investment token) กลุ่มความยั่งยืน ดังนี้ ซึ่งได้รับอนุญาตจากสำนักงานให้เสนอขายต่อประชาชนหรือต่อบุคคลในวงจำกัดตามกฎหมายว่าด้วยการประกอบธุรกิจสินทรัพย์ดิจิทัล 
+(ก) โทเคนดิจิทัลเพื่ออนุรักษ์สิ่งแวดล้อม (green token) ต้องมีการเปิดเผยวัตถุประสงค์การใช้เงินที่ได้จากการเสนอขายโทเคนดิจิทัล (use of proceeds) ว่าเป็นไปเพื่อโครงการเพื่อสิ่งแวดล้อมของประเทศไทย 
+(ข) โทเคนดิจิทัลเพื่อความยั่งยืน (sustainability token) ต้องมีการเปิดเผยวัตถุประสงค์การใช้เงินที่ได้จากการเสนอขายโทเคนดิจิทัล (use of proceeds) ว่าเป็นไปเพื่อโครงการเพื่อสิ่งแวดล้อมและโครงการเพื่อพัฒนาสังคมของประเทศไทย 
+(ค) โทเคนดิจิทัลเพื่อส่งเสริมความยั่งยืน (sustainability-linked token) ต้องมีการเปิดเผยข้อมูลเกี่ยวกับการกำหนดตัวชี้วัดและเป้าหมายด้านความยั่งยืนของผู้ออกโทเคนดิจิทัล บริษัทในเครือ หรือโครงการใด ๆ ในประเทศไทย
+ข้อมูลเกี่ยวกับโทเคนดิจิทัลเพื่อการลงทุน มีรายละเอียดดังนี้
+• ลักษณะของโทเคนดิจิทัลเพื่อการลงทุน 
+โทเคนดิจิทัลเพื่อการลงทุน (Investment Token) เป็นสินทรัพย์ที่ใช้เทคโนโลยีบล็อกเชน (Blockchain) ในการทำธุรกรรมและเก็บรักษามูลค่า โดยผู้ถือครองโทเคนดิจิทัลเพื่อการลงทุนจะมีสิทธิ์ในการร่วมลงทุนในสินทรัพย์หรือโครงการต่างๆ เช่น อสังหาริมทรัพย์ โครงสร้างพื้นฐาน หรือโครงการพัฒนาอื่นๆ และจะได้รับผลตอบแทนตามที่ระบุไว้ใน White Paper ของโครงการนั้นๆ
+• การลงทุนในโทเคนดิจิทัลเพื่อการลงทุน (Investment Token) มีเงื่อนไขที่ต้องพิจารณา เช่น
+- ความผันผวนของราคาที่อาจเปลี่ยนแปลงอย่างรวดเร็ว
+- สภาวะตลาดและเศรษฐกิจมหภาค
+- การเปลี่ยนแปลงด้านกฎระเบียบและกฎหมายที่เกี่ยวข้อง
+- ความน่าเชื่อถือของโครงการและผู้ออกโทเคนดิจิทัลเพื่อการลงทุน
+- นวัตกรรมทางเทคโนโลยีที่อาจส่งผลต่อมูลค่าของโทเคนดิจิทัลเพื่อการลงทุน
+• ผลตอบแทนของโทเคนดิจิทัลเพื่อการลงทุน
+ผลตอบแทนจากการลงทุนในโทเคนดิจิทัลเพื่อการลงทุน (Investment Token) โดยทั่วไปจะอยู่ในรูปแบบของส่วนแบ่งรายได้หรือกำไรจากโครงการ สิทธิประโยชน์เพิ่มเติมตามที่ระบุไว้ใน White Paper และ/หรือผลตอบแทนที่เป็นตัวเงิน เช่น ส่วนแบ่งรายได้ในแต่ละไตรมาส หรือส่วนแบ่งกำไรจากการขายทรัพย์สินของโครงการ เป็นต้น
+ข้อมูลเกี่ยวกับการเก็บรักษาโทเคนดิจิทัลเพื่อการลงทุน (ถ้ามี)
+ในกรณีที่บริษัทจัดการมีการลงทุนในโทเคนดิจิทัลเพื่อการลงทุน บริษัทจัดการจะแต่งตั้งผู้เก็บรักษาทรัพย์สินดังกล่าว โดยผู้เก็บรักษาทรัพย์สินดังกล่าวจะต้องเป็นผู้ได้รับใบอนุญาตประกอบธุรกิจสินทรัพย์ดิจิทัลประเภทการเป็นผู้ให้บริการรับฝากสินทรัพย์ดิจิทัลตามกฎหมายว่าด้วยการประกอบธุรกิจสินทรัพย์ดิจิทัล จากสำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์
+ทั้งนี้ การลงทุนในสินทรัพย์ดิจิทัลข้างต้นอาจมีค่าธรรมเนียมและค่าบริการ เช่น ค่าธรรมเนียมการซื้อขาย (Trading Fees) ค่าธรรมเนียมการฝาก/ถอนสินทรัพย์ดิจิทัลจากบัญชี (Deposit/Withdrawal Fees) ค่าธรรมเนียมการโอนย้าย (Transfer Fees) และค่าธรรมเนียมการเก็บรักษาสินทรัพย์ดิจิทัล (Custody Fees) เป็นต้น
+ทั้งนี้ หลักเกณฑ์เกี่ยวกับลักษณะของโทเคนดิจิทัลจะเป็นไปตามที่สำนักงาน ก.ล.ต. ประกาศกำหนด โด …(ตัดทอน)
+
+### ลักษณะเฉพาะของโครงการ
+
+- `SRI` กองทุนรวมเพื่อความยั่งยืน (SRI Fund) (SRI Fund)
+- `TESG` กองทุนรวมไทยเพื่อความยั่งยืน (Thailand ESG Fund : Thai ESG)
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 6 / 8** — 6 — ตราสารทุน
+
+> กองทุนรวมตราสารทุน ที่มี net exposure ในตราสารทุนเป็นหลักโดยเฉลี่ยรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| KTAG-ThaiESG | - | -0.7 | 0.88 | -25.45% | - | 1.26 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `KTAG-ThaiESG`<br><sub>ชนิดไทยเพื่อความยั่งยืน</sub> | ⚪ ไม่ระบุ | 2.08 | 5.35 | 1.88 | - | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| KTAG-ThaiESG | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 3.21 | 0 |
+| KTAG-ThaiESG | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 3.21 | 0 |
+| KTAG-ThaiESG | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | 1.88 |
+| KTAG-ThaiESG | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 0 | 0 |
+| KTAG-ThaiESG | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 5.35 | 2.08 |
+| KTAG-ThaiESG | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 3.21 | 0 |
+| KTAG-ThaiESG | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 3.21 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| KTAG-A | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่า หนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่า ธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-A | ค่าธรรมเนียมทั้งหมด (Total Fee) | 5.35 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-A | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KTAG-A | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียนหรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-A | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KTAG-A | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.214 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-A | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 2.461 | ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-D | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่า หนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่า ธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-D | ค่าธรรมเนียมทั้งหมด (Total Fee) | 5.35 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-D | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KTAG-D | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียนหรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-D | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KTAG-D | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.214 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-D | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 2.461 | ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-I | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่า หนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่า ธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-I | ค่าธรรมเนียมทั้งหมด (Total Fee) | 5.35 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-I | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KTAG-I | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียนหรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-I | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KTAG-I | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.214 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-I | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 2.461 | ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-P | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่า หนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่า ธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-P | ค่าธรรมเนียมทั้งหมด (Total Fee) | 5.35 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-P | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KTAG-P | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียนหรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-P | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KTAG-P | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.214 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-P | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 2.461 | ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-R | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่า หนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่า ธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-R | ค่าธรรมเนียมทั้งหมด (Total Fee) | 5.35 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-R | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KTAG-R | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียนหรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-R | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KTAG-R | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.214 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-R | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 2.461 | ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-ThaiESG | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่า หนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่า ธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-ThaiESG | ค่าธรรมเนียมทั้งหมด (Total Fee) | 5.35 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| KTAG-ThaiESG | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| KTAG-ThaiESG | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียนหรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-ThaiESG | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| KTAG-ThaiESG | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.214 | ต่อปี ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ค่าธรรมเนียมผู้ดูแลผลประโยชน์ และค่าธรรมเนียมนายทะเบียน หรือค่าธรรมเนียมอื่นๆ ที่มีการคำนวณในลักษณะเดียวกันกับค่าธรรมเนียมดังกล่าวข้างต้น ณ วันที่คำนวณ |
+| KTAG-ThaiESG | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 2.461 | ของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+
+## 6. ผลการดำเนินงาน
+
+### Class `KTAG-ThaiESG`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 8.58 | 23.13 | 23.13 | 37.9 | 0 | 0 | 0 | 5.67 | -5.22 | -2.65 | 1.25 |
+| ผลตอบแทนตัวชี้วัด | 9.76 | 23.19 | 23.19 | 44.53 | - | - | - | 6.36 | - | - | - |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 9.56 | 25.6 | 25.6 | 44.1 | 4.57 | 2.58 | 2.84 | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 10.58 | 15.89 | 15.89 | 14.51 | - | - | - | 14.15 | - | - | - |
+| ความผันผวนของตัวชี้วัด | 10.79 | 16.56 | 16.56 | 15.5 | - | - | - | 15.75 | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | SET ESG Total Return Index | ดัชนีผลตอบแทนรวม SET ESG Index (SETESG TRI) วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| เงินฝาก หรือตราสารหนี้ที่สถาบันการเงินเป็นผู้ออก | 8.09 |
+| ตราสารทุน | 92.66 |
+| ทรัพย์สินอื่นและหนี้สินอื่น | -0.75 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | หุ้นสามัญ ธนาคารกรุงไทย | 8.76 |
+| 2 | หุ้นสามัญ ธนาคารกสิกรไทย | 7.26 |
+| 3 | หุ้นสามัญ บมจ. ท่าอากาศยานไทย | 6.95 |
+| 4 | หุ้นสามัญ บมจ. กัลฟ์ ดีเวลลอปเมนท์ | 5.51 |
+| 5 | หุ้นสามัญ บมจ. แอดวานซ์ อินโฟร์ เซอร์วิส | 5.08 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 427,761,889 | 95.5395 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 25,459,414 | 5.6863 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | -5,488,26 | -1.2258 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **45** รายการ จากผู้ออก 45 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **427,583,523** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **59.52% ของ NAV** (คิดเป็น 59.1% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/KRUNG THAI BANK PUBLIC COMPANY LIMITED\|KRUNG THAI BANK PUBLIC COMPANY LIMITED]] <br><sub>`KTB`</sub> | KRUNG THAI BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0150010Z03 | 37,452,8 | 8.7592 |
+| 2 | [[../Entities/KBANK\|KBANK]] <br><sub>`ABKBKS01`</sub> | KBANK | เงินฝากธนาคารประเภทออมทรัพย์ | - | 34,608,017 | 8.0939 |
+| 3 | [[../Entities/KASIKORNBANK PUBLIC COMPANY LIMITED (TH0016010009)\|KASIKORNBANK PUBLIC COMPANY LIMITED]] <br><sub>`KBANK`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0016010009 | 31,021,4 | 7.255 |
+| 4 | [[../Entities/AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED\|AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED]] <br><sub>`AOT`</sub> | AIRPORTS OF THAILAND PUBLIC COMPANY LIMI | หุ้นสามัญ | TH0765010Z08 | 29,715,625 | 6.9497 |
+| 5 | [[../Entities/GULF DEVELOPMENT PUBLIC COMPANY LIMITED\|GULF DEVELOPMENT PUBLIC COMPANY LIMITED]] <br><sub>`GULF`</sub> | GULF DEVELOPMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC903010005 | 23,542,2 | 5.5059 |
+| 6 | [[../Entities/ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED\|ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED]] <br><sub>`ADVANC`</sub> | ADVANCED INFO SERVICE PUBLIC COMPANY LIM | หุ้นสามัญ | TH0268010Z03 | 21,726,4 | 5.0812 |
+| 7 | [[../Entities/PTT PUBLIC COMPANY LIMITED\|PTT PUBLIC COMPANY LIMITED]] <br><sub>`PTT`</sub> | PTT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0646010Z00 | 21,133,15 | 4.9425 |
+| 8 | [[../Entities/CP ALL PUBLIC COMPANY LIMITED\|CP ALL PUBLIC COMPANY LIMITED]] <br><sub>`CPALL`</sub> | CP ALL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0737010Y08 | 21,042,175 | 4.9212 |
+| 9 | [[../Entities/SCB X PUBLIC COMPANY LIMITED\|SCB X PUBLIC COMPANY LIMITED]] <br><sub>`SCB`</sub> | SCB X PUBLIC COMPANY LIMITED | หุ้นสามัญ | THA790010005 | 17,922,8 | 4.1917 |
+| 10 | [[../Entities/PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED\|PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED]] <br><sub>`PTTEP`</sub> | PTT EXPLORATION AND PRODUCTION PUBLIC CO | หุ้นสามัญ | TH0355A10Z04 | 16,334,6 | 3.8202 |
+| 11 | [[../Entities/BANGKOK BANK PUBLIC COMPANY LIMITED\|BANGKOK BANK PUBLIC COMPANY LIMITED]] <br><sub>`BBL`</sub> | BANGKOK BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0001010006 | 13,839,45 | 3.2367 |
+| 12 | [[../Entities/BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED\|BANGKOK DUSIT MEDICAL SERVICES PUBLIC COMPANY LIMITED]] <br><sub>`BDMS`</sub> | BANGKOK DUSIT MEDICAL SERVICES PUBLIC CO | หุ้นสามัญ | TH0264A10Z04 | 13,641,24 | 3.1903 |
+| 13 | [[../Entities/DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED\|DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`DELTA`</sub> | DELTA ELECTRONICS (THAILAND) PUBLIC COMP | หุ้นสามัญ | TH0528A10Z06 | 13,390, | 3.1315 |
+| 14 | [[../Entities/CENTRAL PATTANA PUBLIC COMPANY LIMITED\|CENTRAL PATTANA PUBLIC COMPANY LIMITED]] <br><sub>`CPN`</sub> | CENTRAL PATTANA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0481B10Z00 | 12,348,1 | 2.8879 |
+| 15 | [[../Entities/BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED\|BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED]] <br><sub>`BH`</sub> | BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0168A10Z01 | 9,832,4 | 2.2995 |
+| 16 | [[../Entities/MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED\|MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED]] <br><sub>`MTC`</sub> | MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6068010Y02 | 8,854,65 | 2.0709 |
+| 17 | [[../Entities/KRUNGTHAI CARD PUBLIC COMPANY LIMITED\|KRUNGTHAI CARD PUBLIC COMPANY LIMITED]] <br><sub>`KTC`</sub> | KRUNGTHAI CARD PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0689010Z00 | 8,618,4 | 2.0156 |
+| 18 | [[../Entities/CHAROEN POKPHAND FOODS PUBLIC COMPANY LIMITED\|CHAROEN POKPHAND FOODS PUBLIC COMPANY LIMITED]] <br><sub>`CPF`</sub> | CHAROEN POKPHAND FOODS PUBLIC COMPANY LI | หุ้นสามัญ | TH0101A10Z01 | 7,138,32 | 1.6695 |
+| 19 | [[../Entities/TMBTHANACHART BANK PUBLIC COMPANY LIMITED\|TMBTHANACHART BANK PUBLIC COMPANY LIMITED]] <br><sub>`TTB`</sub> | TMBTHANACHART BANK PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH0068010Z07 | 6,632,898 | 1.5513 |
+| 20 | [[../Entities/GLOBAL POWER SYNERGY PUBLIC COMPANY LIMITED\|GLOBAL POWER SYNERGY PUBLIC COMPANY LIMITED]] <br><sub>`GPSC`</sub> | GLOBAL POWER SYNERGY PUBLIC COMPANY LIMI | หุ้นสามัญ | TH6488010005 | 6,586,8 | 1.5405 |
+| 21 | [[../Entities/MINOR INTERNATIONAL PUBLIC COMPANY LIMITED\|MINOR INTERNATIONAL PUBLIC COMPANY LIMITED]] <br><sub>`MINT`</sub> | MINOR INTERNATIONAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0128B10Z09 | 5,643,95 | 1.32 |
+| 22 | [[../Entities/INDORAMA VENTURES PUBLIC COMPANY LIMITED\|INDORAMA VENTURES PUBLIC COMPANY LIMITED]] <br><sub>`IVL`</sub> | INDORAMA VENTURES PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH1027010004 | 5,629,8 | 1.3167 |
+| 23 | [[../Entities/SCG PACKAGING PUBLIC COMPANY LIMITED\|SCG PACKAGING PUBLIC COMPANY LIMITED]] <br><sub>`SCGP`</sub> | SCG PACKAGING PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0098010Y05 | 5,620,2 | 1.3144 |
+| 24 | [[../Entities/COM7 PUBLIC COMPANY LIMITED\|COM7 PUBLIC COMPANY LIMITED]] <br><sub>`COM7`</sub> | COM7 PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6678010005 | 5,477,85 | 1.2811 |
+| 25 | [[../Entities/THAI LIFE INSURANCE PUBLIC COMPANY LIMITED\|THAI LIFE INSURANCE PUBLIC COMPANY LIMITED]] <br><sub>`TLI`</sub> | THAI LIFE INSURANCE PUBLIC COMPANY LIMIT | หุ้นสามัญ | THA848010007 | 5,379,7 | 1.2582 |
+
+<details><summary>ดูอีก 20 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED\|BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED]] <br><sub>`BEM`</sub> | BANGKOK EXPRESSWAY AND METRO PUBLIC COMP | หุ้นสามัญ | TH6999010007 | 4,375,34 | 1.0233 |
+| 27 | [[../Entities/CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED\|CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`CRC`</sub> | CENTRAL RETAIL CORPORATION PUBLIC COMPAN | หุ้นสามัญ | TH9597010007 | 4,199,45 | 0.9821 |
+| 28 | [[../Entities/THAI OIL PUBLIC COMPANY LIMITED\|THAI OIL PUBLIC COMPANY LIMITED]] <br><sub>`TOP`</sub> | THAI OIL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0796010005 | 3,506,55 | 0.8201 |
+| 29 | [[../Entities/STECON GROUP PUBLIC COMPANY LIMITED\|STECON GROUP PUBLIC COMPANY LIMITED]] <br><sub>`STECON`</sub> | STECON GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC381010006 | 3,459,6 | 0.8091 |
+| 30 | [[../Entities/KCE ELECTRONICS PUBLIC COMPANY LIMITED\|KCE ELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`KCE`</sub> | KCE ELECTRONICS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0122C10Z04 | 3,231,45 | 0.7558 |
+| 31 | [[../Entities/B.GRIMM POWER PUBLIC COMPANY LIMITED\|B.GRIMM POWER PUBLIC COMPANY LIMITED]] <br><sub>`BGRIM`</sub> | B.GRIMM POWER PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH7545010004 | 3,034,5 | 0.7097 |
+| 32 | [[../Entities/AMATA CORPORATION PUBLIC COMPANY LIMITED\|AMATA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`AMATA`</sub> | AMATA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0617A10Z08 | 2,375,4 | 0.5555 |
+| 33 | [[../Entities/TIDLOR HOLDINGS PUBLIC COMPANY LIMITED\|TIDLOR HOLDINGS PUBLIC COMPANY LIMITED]] <br><sub>`TIDLOR`</sub> | TIDLOR HOLDINGS PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC997010002 | 2,370,31 | 0.5544 |
+| 34 | [[../Entities/ELECTRICITY GENERATING PUBLIC COMPANY LIMITED\|ELECTRICITY GENERATING PUBLIC COMPANY LIMITED]] <br><sub>`EGCO`</sub> | ELECTRICITY GENERATING PUBLIC COMPANY LI | หุ้นสามัญ | TH0465010005 | 2,268, | 0.5304 |
+| 35 | [[../Entities/GUNKUL ENGINEERING PUBLIC COMPANY LIMITED\|GUNKUL ENGINEERING PUBLIC COMPANY LIMITED]] <br><sub>`GUNKUL`</sub> | GUNKUL ENGINEERING PUBLIC COMPANY LIMITE | หุ้นสามัญ | TH1041010Z03 | 2,198,864 | 0.5142 |
+| 36 | [[../Entities/WHA CORPORATION PUBLIC COMPANY LIMITED\|WHA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`WHA`</sub> | WHA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH3871010Z01 | 2,195,445 | 0.5134 |
+| 37 | [[../Entities/CARABAO GROUP PUBLIC COMPANY LIMITED\|CARABAO GROUP PUBLIC COMPANY LIMITED]] <br><sub>`CBG`</sub> | CARABAO GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6066010005 | 2,178,225 | 0.5094 |
+| 38 | [[../Entities/HANA MICROELECTRONICS PUBLIC COMPANY LIMITED\|HANA MICROELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`HANA`</sub> | HANA MICROELECTRONICS PUBLIC COMPANY LIM | หุ้นสามัญ | TH0324B10Z01 | 2,059,2 | 0.4816 |
+| 39 | [[../Entities/SUPALAI PUBLIC COMPANY LIMITED\|SUPALAI PUBLIC COMPANY LIMITED]] <br><sub>`SPALI`</sub> | SUPALAI PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0371010Z05 | 2,011,2 | 0.4704 |
+| 40 | [[../Entities/HOME PRODUCT CENTER PUBLIC COMPANY LIMITED\|HOME PRODUCT CENTER PUBLIC COMPANY LIMITED]] <br><sub>`HMPRO`</sub> | HOME PRODUCT CENTER PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0661010007 | 1,822,865 | 0.4263 |
+| 41 | [[../Entities/CH. KARNCHANG PUBLIC COMPANY LIMITED\|CH. KARNCHANG PUBLIC COMPANY LIMITED]] <br><sub>`CK`</sub> | CH. KARNCHANG PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0530010Z06 | 1,730,68 | 0.4048 |
+| 42 | [[../Entities/CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED\|CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED]] <br><sub>`CENTEL`</sub> | CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0176B10Z00 | 1,502,2 | 0.3513 |
+| 43 | [[../Entities/i-Tail Corporation Public Company Limited\|i-Tail Corporation Public Company Limited]] <br><sub>`ITC`</sub> | i-Tail Corporation Public Company Limite | หุ้นสามัญ | THB056010002 | 1,479,59 | 0.346 |
+| 44 | [[../Entities/AP (THAILAND) PUBLIC COMPANY LIMITED\|AP (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`AP`</sub> | AP (THAILAND) PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0308010Y08 | 844,09 | 0.1974 |
+| 45 | [[../Entities/THE ERAWAN GROUP PUBLIC COMPANY LIMITED\|THE ERAWAN GROUP PUBLIC COMPANY LIMITED]] <br><sub>`ERW`</sub> | THE ERAWAN GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0120010Y07 | 831,6 | 0.1945 |
+
+</details>
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| KTAG-ThaiESG | 2026-08-26 | 11.9751 | 11.9752 | 11.9751 | 459,387,78 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| KTAG-ThaiESG | จ่ายเงินปันผล |
+
+### ประวัติการจ่ายปันผล (20 ครั้งล่าสุด)
+
+| Class | วันปิดสมุด | วันจ่าย | บาท/หน่วย |
+|---|---|---|---|
+| KTAG-ThaiESG | 2026-07-02 | 2026-07-20 | 0.3 |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ซื้อขั้นต่ำ (หน่วย) | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| KTAG-ThaiESG | 2026-06-30 | - | THB | - | THB | ไม่กำหนด | - | THB | - | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | รายละเอียดเพิ่มเติม | ระยะเวลารับเงิน |
+|---|---|---|---|---|---|
+| KTAG-ThaiESG | 2026-06-30 | การซื้อ (subscription) | อื่น ๆ โปรดระบุ | ทุกวันทำการ | - |
+| KTAG-ThaiESG | 2026-06-30 | การขายคืน (redemption) | อื่น ๆ โปรดระบุ | ทุกวันทำการ | T+2 คือ2 วันทำการหลังจากวันทำรายการขายคืน |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน) |
+| T | บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน) |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - KTAG]]
+
+- class `KTAG-ThaiESG` (ณ 2026-06-30) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0821_2566.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน กรุงไทย จำกัด (มหาชน)]]
+- กองประเภทเดียวกัน: [[ตราสารทุน]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 6]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

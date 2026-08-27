@@ -1,0 +1,338 @@
+---
+title: "ES-PIPF"
+proj_id: M0221_2557
+regis_id: "MF0417_2557"
+abbr: "ES-PIPF"
+name_th: "กองทุนเปิดอีสท์สปริง Property and Infrastructure Income Plus Flexible"
+name_en: "Eastspring Property and Infrastructure Income Plus Flexible Fund"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด"
+amc_id: "C0000033452"
+policy: "ทรัพย์สินทางเลือก"
+risk_spectrum: "8"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "4"
+init_date: "2014-04-08"
+regis_date: "2014-06-30"
+class_count: 1
+has_factsheet: true
+ter_retail: 1.22
+perf_1y: 18.5
+nav: 9.2611
+nav_date: "2026-08-26"
+fund_size: 8162927065.68
+holdings_count: 35
+top10_pct_nav: 70.85
+peer_group: "Fund of Property fund - Thai and Foreign"
+fund_managers: ["น.ส. ดาราวรรณ ประกายทิพย์", "น.ส. กมลวรรณ ชัยรักษ์วัฒนา"]
+tags: [fund, sec-data, policy/alternative, risk/8, active, foreign-exposure]
+---
+
+# ES-PIPF
+
+**กองทุนเปิดอีสท์สปริง Property and Infrastructure Income Plus Flexible**  
+_Eastspring Property and Infrastructure Income Plus Flexible Fund_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด]] · นโยบาย [[ทรัพย์สินทางเลือก]] · ความเสี่ยงระดับ **8**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0221_2557`
+> - **ประเภท:** ทรัพย์สินทางเลือก · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** มีความเสี่ยงทั้งในและต่างประเทศ
+> - **จัดตั้ง:** 2014-04-08 · **จดทะเบียน:** 2014-06-30
+> - **ชนิดหน่วยลงทุน:** 1 class
+> - **NAV 9.2611 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0221_2557` |
+| เลขที่จดทะเบียน (regis_id) | MF0417_2557 |
+| ชื่อย่อ | ES-PIPF |
+| ชื่อไทย | กองทุนเปิดอีสท์สปริง Property and Infrastructure Income Plus Flexible |
+| ชื่ออังกฤษ | Eastspring Property and Infrastructure Income Plus Flexible Fund |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2014-04-08 |
+| วันจดทะเบียน | 2014-06-30 |
+| ประเภทตามนโยบาย | ทรัพย์สินทางเลือก |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | มีความเสี่ยงทั้งในและต่างประเทศ |
+
+### นโยบายป้องกันความเสี่ยงอัตราแลกเปลี่ยน
+
+ดุลยพินิจ (dynamic hedging) (0%-105% ของมูลค่าความเสี่ยง)
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| main | - | - | - |
+
+## 3. นโยบายการลงทุน
+
+กองทุนมีนโยบายลงทุนในหลักทรัพย์หรือตราสารที่อยู่ในหมวดอุตสาหกรรมอสังหาริมทรัพย์ (Property Sector) และ/หรือ หน่วย Infra ทั้งในและต่างประเทศ รวมถึงอยู่ระหว่างการดำเนินการกระจายการถือหน่วยลงทุน หรือเปิดเสนอขายครั้งแรก โดยเฉลี่ยในรอบระยะเวลาบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน 
+โดยหลักทรัพย์หรือตราสารที่อยู่ในหมวดอุตสาหกรรมอสังหาริมทรัพย์ (Property Sector) ประกอบไปด้วย 
+1. หน่วยลงทุนของกองทุนรวมอสังหาริมทรัพย์ และ/หรือ
+2. หน่วยทรัสต์ของทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และ/หรือ 
+3. ตราสารของกองทุนอสังหาริมทรัพย์และ Exchange Traded Fund ที่เน้นลงทุนในตราสารของกองทุนอสังหาริมทรัพย์ (REITs ETF) รวมถึงตราสารอื่นใดที่ให้สิทธิในการได้มาซึ่งตราสารดังกล่าว หรือที่มีผลตอบแทนอ้างอิงกับตราสารดังกล่าวหรือกลุ่มของตราสาร/หน่วยลงทุนดังกล่าว 
+4. หุ้นของบริษัทจดทะเบียนทที่อยู่ภายใต้หมวดอุตสาหกรรมอสังหาริมทรัพย์หรือที่มีลักษณะเทียบเคียงได้กับหมวดอุตสาหกรรมอสังหาริมทรัพย์ รวมถึงตราสารหรือสัญญาทางการเงินที่ให้สิทธิในการได้มาซึ่งหุ้นดังกล่าวหรือให้ผลตอบแทนอ้างอิงกับหุ้น / กลุ่มหุ้นนั้น ๆ
+ส่วนที่เหลือ กองทุนอาจลงทุนในตราสารทุน ตราสารหนี้ ตราสารกึ่งหนี้กึ่งทุน หน่วยลงทุนของกองโครงสร้างพื้นฐานทั้งในประเทศและต่างประเทศ และ/หรือ เงินฝากโดยวัตถุประสงค์สำรองไว้ เพื่อการดำเนินงาน หรือรอการลงทุน เพื่อสภาพคล่อง และบริษัทจัดการจะลงทุนในเงินฝากต่างประเทศ ทั้งในรูปเงินบาทและเงินตราต่างประเทศ รวมถึงลงทุนในหลักทรัพย์ หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นตามที่คณะกรรมการ ก.ล.ต. หรือสำนักงานคณะกรรมการ ก.ล.ต. ประกาศกำหนด 
+ในกรณีที่กองทุนลงทุนในต่างประเทศ กองทุนอาจลงทุนในหรือมีไว้ซึ่งสัญญาซื้อขายล่วงหน้า (Derivatives) ที่มีตัวแปรเป็นอัตราแลกเปลี่ยนเงิน โดยมีวัตถุประสงค์เพื่อป้องกันความเสี่ยงจากการลงทุน (Hedging) ตามสภาวการณ์ตลาดหรือเมื่อบริษัทจัดการเห็นสมควร ยกตัวอย่างเช่น กรณี ค่าเงินดอลลาร์สหรัฐฯ มีแนวโน้มอ่อนค่าลง กองทุนอาจพิจารณาลงทุนในสัญญาซื้อขายล่วงหน้า เพื่อป้องกันความเสี่ยงที่เกี่ยวข้องกับอัตราแลกเปลี่ยนในสัดส่วนที่มากกว่า กรณีที่ค่าเงินดอลลาร์สหรัฐฯ มีแนวโน้มแข็งค่า อย่างไรก็ตาม กองทุนอาจพิจารณาลงทุนในสัญญาซื้อขายล่วงหน้าเพื่อป้องกันความเสี่ยงที่เกี่ยวข้องกับอัตราแลกเปลี่ยนในสัดส่วนที่น้อย หรืออาจพิจารณาไม่ป้องกัน ในกรณีค่าเงินดอลลาร์สหรัฐฯมีแนวโน้มแข็งค่า ดังนั้น กองทุนจึงยังคงมีความเสี่ยงจากอัตราแลกเปลี่ยนอยู่ ซึ่งอาจทำใหผู้ลงทุนได้รับผลขาดทุนจากอัตราแลกเปลี่ยนหรือได้รับเงินคืนตํ่ากว่าเงินลงทุนเริ่มแรกได ้อีกทั้งการทำธุรกรรมป้องกันความเสี่ยงอาจมีต้นทุน ซึ่งทำให้ผลตอบแทนของกองทุนโดยรวมลดลงจากต้นทุนที่เพิ่มขึ้น 
+กองทุนจะไม่ลงทุนในตราสารที่มีลักษณะของสัญญาซื้อขายล่วงหน้าแฝง (Structure Notes) รวมถึงหลักทรัพย์ที่ไม่มีการซื้อขายในตลาด (Unlisted) และตราสารหนี้ที่มีอันดับความน่าเชื่อถือต่ำกว่าระดับที่สามารถลงทุนได้ (Non-Investment grade) และตราสารหนี้ที่ไม่ได้รับการจัดอันดับความน่าเชื่อถือ (Unrated) ทั้งนี้ กองทุนอาจมีไว้ซึ่งตราสารหนี้ที่มีอันดับความน่าเชื่อถือต่ำกว่าที่สามารถลงทุนได้ เฉพาะกรณีที่ตราสารหนี้นั้นได้รับการจัดอันดับความน่าเชื่อถือที่สามารถลงทุนได้ (investment grade) ขณะที่กองทุนลงทุนเท่านั้น 
+ทั้งนี้ การดำรงอัตราส่วนการลงทุนข้างต้นจะไม่นำมาบังคับใช้ในช่วงระยะเวลาไม่เกิน 30 วันนับตั้งแต่วันจดทะเบียนกองทรัพย์สินเป็นกองทุนรวม และ/หรือในช่วงระยะเวลาที่กองทุนมีความจำเป็นต้องรอการลงทุน และ/หรือในช่วงระยะเวลา 30 วันก่อนเลิกโครงการ และ/หรือในช่วงที่ผู้ลงทุนทำการสั่งซื้อ หรือขายคืน หรือสับเปลี่ยนหน่วยลงทุนเป็นจำนวนมาก ซึ่งมีระยะเวลาไม่เกิน 10 วันทำการ และจะไม่นำมาบังคับใช้ในกรณีที่สภาวะการลงทุนทั้งในประเทศ และ/หรือต่างประเทศไม่ปกติ หรือไม่เหมาะสม เช่น ภาวะตลาดและเศรษฐกิจมีความผันผวน เกิดภัยพิบัติ หรือเหตุการณ์ไม่ปกติ มีการเปลี่ยนแปลงกฎระเบียบ วงเงินลงทุนในต่างประเทศเต็มเป็นการชั่วคราว เป็นต้น หรือเพื่อรอการลงทุน โดยไม่ถือว่าเป็นการดำเนินงานที่ผิดไปจากรายละเอียดโครงการและถือว่าได้รับความเห็นชอบจากผู้ถือหน่วยลงทุนแล้ว ทั้งนี้ กองทุนจะทำรายงานการลงทุนที่ไม่เป็นไปตามอัตราส่วนการลงทุนที่กำหนด พร้อมทั้งเหตุผล และจัดส่งมายังสำนักงาน ก.ล.ต.ภายในเวลาที่กำหนด
+ประเภทของหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นที่จะลงทุนในประเทศ : 
+บริษัทจัดการอาจลงทุนหรือแสวงหาประโยชน์เฉพาะจากหลักทรัพย์ ทรัพย์สินอื่น หรือหาดอกผลโดยวิธีอื่นอย่างใดอย่างหนึ่งหรือหลายอย่างตามที่ประกาศคณะกรรมการ ก.ล.ต. กำหนดดังต่อไปนี้ เว้นแต่ในกรณีที่คณะกรรมการ ก.ล.ต.ห …(ตัดทอน)
+
+### ลักษณะเฉพาะของโครงการ
+
+- `FF` กองทุนรวมหน่วยลงทุน (Fund of Funds)
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 8 / 8** — 8 — สินทรัพย์ทางเลือก
+
+> ลงทุนในทรัพย์สินทางเลือก เช่น REITs/ infrastructure fund/ property fund/ private equity เป็นต้น โดยเฉลี่ยในรอบปีไม่น้อยกว่า 80 % ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| main | 0.34 | -2.45 | 1.03 | -28.11% | - | 4.19 | 49.93 |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `main` | ⚪ ไม่ระบุ | 1.22 | 2.99 | 1.07 | 1 | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | 1.07 |
+| main | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 1 | 1 |
+| main | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 1 | 1 |
+| main | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 2.99 | 1.22 |
+| main | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 0 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| main | ค่าธรรมเนียมการจัดการ (Management Fee) | 2.14 | ต่อปีของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ    ผู้ดูแลผลประโยชน์ และนายทะเบียน ณ วันที่คำนวณ |
+| main | ค่าธรรมเนียมทั้งหมด (Total Fee) | 2.996 | ต่อปีของมูลค่าทรัพย์สินสุทธิของกองทุนรวม |
+| main | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| main | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.535 | ต่อปีของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ    ผู้ดูแลผลประโยชน์ และนายทะเบียน ณ วันที่คำนวณ |
+| main | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| main | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.107 | ต่อปีของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ    ผู้ดูแลผลประโยชน์ และนายทะเบียน ณ วันที่คำนวณ |
+| main | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 0.214 | ของมูลค่าทรัพย์สินทั้งหมด หักด้วยมูลค่าหนี้สินทั้งหมด เว้นแต่ค่าธรรมเนียมการจัดการ ผู้ดูแลผลประโยชน์และนายทะเบียน ณ วันที่คำนวณ |
+
+## 6. ผลการดำเนินงาน
+
+### Class `main`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 | 2020 | 2019 | 2017 | 2018 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 5.42 | 7.59 | 7.87 | 18.5 | 2.55 | 3.85 | 12.74 | -2.37 | -6.71 | -10.22 | 2.81 | -10.92 | 24.5 | 17.25 | 0.41 |
+| ผลตอบแทนตัวชี้วัด | 7.33 | 10.8 | 11.92 | 22.97 | 4.77 | 5.65 | - | -0.42 | 0 | - | 8.93 | -11.65 | - | 17.64 | 3.3 |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 4.46 | 5.81 | 6.38 | 15.39 | 2.16 | - | - | - | - | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 6 | 8.3 | 8.07 | 7.81 | 10.53 | 10.02 | - | - | - | - | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 5.63 | 8.06 | 7.83 | 7.37 | 10.36 | 9.8 | - | - | - | - | - | - | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนี FTSE Straits Times REIT Index SGD (NR) | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลบาท ณ วันที่คำนวณผลตอบแทน |
+| 2 | ดัชนีกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT) | - |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| หน่วยลงทุนของกองทุนประเภทอื่น | 6.9 |
+| เงินฝากธนาคารประเภทออมทรัพย์ | 2.62 |
+| รายการอื่นๆ | -0.29 |
+| กองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ | 90.62 |
+| ประเภทรายการค้างรับอื่นๆ | 0.15 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | CapitaLand Ascendas REIT | 11.02 |
+| 2 | ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ พรีเมี่ยม โกรท | 9.9 |
+| 3 | CapitaLand Integrated Commercial Trust | 9.65 |
+| 4 | ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า แอ็กซ์ตร้า ฟิวเจอร์ ซิตี้ | 9.44 |
+| 5 | ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ CPN รีเทล โกรท | 7.33 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 108 | หน่วยลงทุน (รหัส 108-109,117-121,139,130) | 8,189,587,659 | 97.5194 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 219,803,046 | 2.6174 |
+| 401 | ตราสารอนุพันธ์(รหัส 401-407) | 5,225,295 | 0.0622 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | -16,705,698 | -0.1989 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **35** รายการ จากผู้ออก 33 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **8,211,708,719** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **70.85% ของ NAV** (คิดเป็น 70.8% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/Capitaland Ascendas Reit\|Capitaland Ascendas Reit]] <br><sub>`CLARSP`</sub> | CapitaLand Ascendas REIT | กองทรัสต์ | SG1M77906915 | 884,071,992 | 10.766 |
+| 2 | [[../Entities/WHA PREMIUM GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|WHA PREMIUM GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`WHART`</sub> | WHA PREMIUM GROWTH FREEHOLD AND LEASEHOL | กองทรัสต์ | TH6141010004 | 843,347,56 | 10.2701 |
+| 3 | [[../Entities/Axtra Future City Freehold and Leasehold Real Estate Investment Trust\|Axtra Future City Freehold and Leasehold Real Estate Investment Trust]] <br><sub>`AXTRART`</sub> | Axtra Future City Freehold and Leasehold | กองทรัสต์ | THC611010008 | 783,921,92 | 9.5464 |
+| 4 | [[../Entities/Capital Mall Trust\|Capital Mall Trust]] <br><sub>`CICTSP`</sub> | CapitaLand Integrated Commercial Trust | กองทรัสต์ | SG1M51904654 | 760,434,695 | 9.2604 |
+| 5 | [[../Entities/CPN RETAIL GROWTH LEASEHOLD REIT\|CPN RETAIL GROWTH LEASEHOLD REIT]] <br><sub>`CPNREIT`</sub> | CPN RETAIL GROWTH LEASEHOLD REIT | กองทรัสต์ | TH8351010005 | 592,377,03 | 7.2138 |
+| 6 | [[../Entities/Frasers Centrepoint Trust\|Frasers Centrepoint Trust]] <br><sub>`FCTSP`</sub> | Frasers Centrepoint Trust | กองทรัสต์ | SG1T60930966 | 515,829,733 | 6.2816 |
+| 7 | [[../Entities/FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT\|FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT]] <br><sub>`FTREIT`</sub> | FRASERS PROPERTY THAILAND INDUSTRIAL FRE | กองทรัสต์ | TH6172010006 | 514,093,649 | 6.2605 |
+| 8 | [[../Entities/Keppel DC REIT\|Keppel DC REIT]] <br><sub>`KDCREIT`</sub> | Keppel DC REIT | กองทรัสต์ | SG1AF6000009 | 327,238,217 | 3.985 |
+| 9 | [[../Entities/BA Airport Leasehold Real Estate Investment Trust\|BA Airport Leasehold Real Estate Investment Trust]] <br><sub>`BAREIT`</sub> | BA Airport Leasehold Real Estate Investm | กองทรัสต์ | THA996010007 | 311,363,36 | 3.7917 |
+| 10 | [[../Entities/THAILAND FUTURE FUND\|THAILAND FUTURE FUND]] <br><sub>`TFFIF`</sub> | THAILAND FUTURE FUND | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH7642010006 | 285,259,2 | 3.4738 |
+| 11 | [[../Entities/DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE FUND\|DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE FUND]] <br><sub>`DIF`</sub> | DIGITAL TELECOMMUNICATIONS INFRASTRUCTUR | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH5097010000 | 283,042,329 | 3.4468 |
+| 12 | [[../Entities/Mapletree Logistics Trust\|Mapletree Logistics Trust]] <br><sub>`MLTSP`</sub> | Mapletree Logistics Trust | กองทรัสต์ | SG1S03926213 | 278,162,56 | 3.3874 |
+| 13 | [[../Entities/Mapletree Commercial Trust\|Mapletree Commercial Trust]] <br><sub>`MPACTSP`</sub> | Mapletree Pan Asia Commercial Trust | กองทรัสต์ | SG2D18969584 | 232,874,976 | 2.8359 |
+| 14 | [[../Entities/Link REIT\|Link REIT]] <br><sub>`823HK`</sub> | Link REIT | กองทรัสต์ | HK0823032773 | 224,071,921 | 2.7287 |
+| 15 | [[../Entities/Frasers Logistics & Industrial Trust (FLT SP)\|Frasers Logistics & Industrial Trust (FLT SP)]] <br><sub>`FLTSP`</sub> | Frasers Logistics & Commercial Trust | กองทรัสต์ | SG1CI9000006 | 181,601,853 | 2.2115 |
+| 16 | [[../Entities/C.P. Tower Leasehold Real Estate Investment Trust\|C.P. Tower Leasehold Real Estate Investment Trust]] <br><sub>`CPTREIT`</sub> | C.P. Tower Leasehold Real Estate Investm | กองทรัสต์ | THC575010002 | 179,750,35 | 2.189 |
+| 17 | [[../Entities/Kasikornbank Public Company Limited\|Kasikornbank Public Company Limited]] <br><sub>`SAKBSGDT`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | เงินฝากธนาคารประเภทออมทรัพย์ | - | 177,047,502 | 2.156 |
+| 18 | [[../Entities/Mapletree Industrial Trust\|Mapletree Industrial Trust]] <br><sub>`MINTSP`</sub> | Mapletree Industrial Trust | กองทรัสต์ | SG2C32962814 | 109,467,67 | 1.3331 |
+| 19 | [[../Entities/Far East Hospitality Trust\|Far East Hospitality Trust]] <br><sub>`FEHTSP`</sub> | Far East Hospitality Trust | กองทรัสต์ | SG2F08984575 | 104,042,768 | 1.267 |
+| 20 | [[../Entities/GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST\|GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`GVREIT`</sub> | GOLDEN VENTURES LEASEHOLD REAL ESTATE IN | กองทรัสต์ | TH7139010006 | 78,012,48 | 0.95 |
+| 21 | [[../Entities/DUSIT THANI FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|DUSIT THANI FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`DREIT`</sub> | DUSIT THANI FREEHOLD AND LEASEHOLD REAL | กองทรัสต์ | TH8367010007 | 73,169,74 | 0.891 |
+| 22 | [[../Entities/BTS RAIL MASS TRANSIT GROWTH INFRASTRUCTURE FUND\|BTS RAIL MASS TRANSIT GROWTH INFRASTRUCTURE FUND]] <br><sub>`BTSGIF`</sub> | BTS RAIL MASS TRANSIT GROWTH INFRASTRUCT | หน่วยลงทุนของกองทุนแบบอื่นๆ | TH4447010000 | 63,136,832 | 0.7689 |
+| 23 | [[../Entities/AIM INDUSTRIAL GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|AIM INDUSTRIAL GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`AIMIRT`</sub> | AIM INDUSTRIAL GROWTH FREEHOLD AND LEASE | กองทรัสต์ | TH8387010003 | 58,822,5 | 0.7163 |
+| 24 | [[../Entities/INET FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST\|INET FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`INETREIT`</sub> | INET FREEHOLD AND LEASEHOLD REAL ESTATE | กองทรัสต์ | THA430010001 | 53,125,37 | 0.647 |
+| 25 | [[../Entities/Lendlease Global Commercial REIT\|Lendlease Global Commercial REIT]] <br><sub>`LREITSP`</sub> | Lendlease Global Commercial REIT | กองทรัสต์ | SGXC61949712 | 51,369,801 | 0.6256 |
+
+<details><summary>ดูอีก 10 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/Sasseur Real Estate Investment Trust\|Sasseur Real Estate Investment Trust]] <br><sub>`SASSRSP`</sub> | Sasseur Real Estate Investment Trust | กองทรัสต์ | SG1ED2000000 | 45,146,242 | 0.5498 |
+| 27 | [[../Entities/Parkway Life Real Estate Investment Trust\|Parkway Life Real Estate Investment Trust]] <br><sub>`PREITSP`</sub> | Parkway Life Real Estate Investment Trus | กองทรัสต์ | SG1V52937132 | 44,992,662 | 0.5479 |
+| 28 | [[../Entities/CapitaLand Ascott Trust\|CapitaLand Ascott Trust]] <br><sub>`CLASSP`</sub> | CapitaLand Ascott Trust | กองทรัสต์ | SGXC16332337 | 42,006,236 | 0.5115 |
+| 29 | [[../Entities/Kasikornbank Public Company Limited\|Kasikornbank Public Company Limited]] <br><sub>`SAKBANKT`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | เงินฝากธนาคารประเภทออมทรัพย์ | - | 41,748,534 | 0.5084 |
+| 30 | [[../Entities/Keppel REIT\|Keppel REIT]] <br><sub>`KREITSP`</sub> | Keppel REIT | กองทรัสต์ | SG1T22929874 | 36,675,876 | 0.4466 |
+| 31 | [[../Entities/LH HOTEL LEASEHOLD REAL ESTATE INVESTMENT TRUST\|LH HOTEL LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`LHHOTEL`</sub> | LH HOTEL LEASEHOLD REAL ESTATE INVESTMEN | กองทรัสต์ | TH6957010007 | 23,063,4 | 0.2809 |
+| 32 | [[../Entities/IMPACT GROWTH REAL ESTATE INVESTMENT TRUST\|IMPACT GROWTH REAL ESTATE INVESTMENT TRUST]] <br><sub>`IMPACT`</sub> | IMPACT GROWTH REAL ESTATE INVESTMENT TRU | กองทรัสต์ | TH5882010009 | 17,536,88 | 0.2136 |
+| 33 | [[../Entities/WHA INDUSTRIAL LEASEHOLD REAL ESTATE INVESTMENT TRUST\|WHA INDUSTRIAL LEASEHOLD REAL ESTATE INVESTMENT TRUST]] <br><sub>`WHAIR`</sub> | WHA INDUSTRIAL LEASEHOLD REAL ESTATE INV | กองทรัสต์ | TH7585010005 | 8,449,856 | 0.1029 |
+| 34 | [[../Entities/Quality Houses Hotel and Residence Freehold and Leasehold Real Estate Investment Trust\|Quality Houses Hotel and Residence Freehold and Leasehold Real Estate Investment Trust]] <br><sub>`QHHRREIT`</sub> | Quality Houses Hotel and Residence Freeh | กองทรัสต์ | THC091010007 | 1,824,12 | 0.0222 |
+| 35 | 1620686F | - | สัญญาฟอร์เวิร์ด | - | -15,156,099 | -0.1846 |
+
+</details>
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในกลุ่มอุตสาหกรรม**
+
+| กลุ่มอุตสาหกรรม | % NAV |
+|---|---|
+| Equity Real Estate Investment | 46.58 |
+| กองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ | 43.29 |
+| ขนส่งและโลจิสติกส์ | 4.25 |
+| เทคโนโลยีสารสนเทศและการสื่อสาร | 3.4 |
+
+**การจัดสรรการลงทุนในต่างประเทศ**
+
+| ประเทศ / ภูมิภาค | % NAV |
+|---|---|
+| สิงคโปร์ | 43.71 |
+| ฮ่องกง | 2.87 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - ES-PIPF]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| main | 2026-08-26 | 9.2611 | 9.3538 | 9.2518 | 8,162,927,066 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| main | จ่ายเงินปันผล |
+
+### ประวัติการจ่ายปันผล (20 ครั้งล่าสุด)
+
+| Class | วันปิดสมุด | วันจ่าย | บาท/หน่วย |
+|---|---|---|---|
+| ES-PIPF | 2026-03-10 | 2026-03-17 | 0.2 |
+| ES-PIPF | 2025-12-09 | 2025-12-22 | 0.3 |
+| ES-PIPF | 2025-09-08 | 2025-09-22 | 0.15 |
+| ES-PIPF | 2025-06-10 | 2025-06-24 | 0.2 |
+| ES-PIPF | 2024-09-09 | 2024-09-25 | 0.2 |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ | สกุล (คงเหลือ) |
+|---|---|---|---|---|---|---|---|---|---|
+| main | 2026-07-31 | 1.0 | THB | 1.0 | THB | 1.0 | THB | - | THB |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | ระยะเวลารับเงิน |
+|---|---|---|---|---|
+| main | 2026-07-31 | การขายคืน (redemption) | ทุกวันทำการ | T+5 คือ5 วันทำการหลังจากวันทำรายการขายคืน |
+| main | 2026-07-31 | การซื้อ (subscription) | ทุกวันทำการ | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+### ผู้จัดการกองทุน (จาก Factsheet)
+
+- น.ส. ดาราวรรณ ประกายทิพย์
+- น.ส. กมลวรรณ ชัยรักษ์วัฒนา
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด |
+| T | บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - ES-PIPF]]
+
+- class `main` (ณ 2026-07-31) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0221_2557.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด]]
+- กองประเภทเดียวกัน: [[ทรัพย์สินทางเลือก]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 8]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

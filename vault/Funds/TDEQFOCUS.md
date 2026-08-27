@@ -1,0 +1,351 @@
+---
+title: "TDEQFOCUS"
+proj_id: M0226_2550
+regis_id: "165_2550"
+abbr: "TDEQFOCUS"
+name_th: "กองทุนเปิด ทิสโก้ หุ้นไทย โฟกัส ปันผล"
+name_en: "TISCO Thai Equity Focus Dividend Fund"
+amc: "บริษัทหลักทรัพย์จัดการกองทุน ทิสโก้"
+amc_id: "C0000000324"
+policy: "ตราสารทุน"
+risk_spectrum: "6"
+management_style: "AM"
+retail_type: "R"
+invest_country_flag: "3"
+init_date: "2007-05-16"
+regis_date: "2007-06-13"
+class_count: 2
+has_factsheet: true
+ter_retail: 1.83
+perf_1y: 23.42
+nav: 20.1659
+nav_date: "2026-08-26"
+fund_size: 172788643.92
+holdings_count: 32
+top10_pct_nav: 66.28
+peer_group: "Equity Large Cap"
+fund_managers: ["น.ส. มัลลิกานิยมในธรรม", "นาย ณพัฒน์ศรีวรพงษ์พันธ์"]
+tags: [fund, sec-data, policy/equity, risk/6, active]
+---
+
+# TDEQFOCUS
+
+**กองทุนเปิด ทิสโก้ หุ้นไทย โฟกัส ปันผล**  
+_TISCO Thai Equity Focus Dividend Fund_
+
+บลจ. [[บริษัทหลักทรัพย์จัดการกองทุน ทิสโก้]] · นโยบาย [[ตราสารทุน]] · ความเสี่ยงระดับ **6**
+
+> [!abstract] สรุปย่อ
+> - **รหัสโครงการ:** `M0226_2550`
+> - **ประเภท:** ตราสารทุน · Active management
+> - **ผู้ลงทุน:** ผู้ลงทุนทั่วไป
+> - **ต่างประเทศ:** ไม่มีความเสี่ยงต่างประเทศ
+> - **จัดตั้ง:** 2007-05-16 · **จดทะเบียน:** 2007-06-13
+> - **ชนิดหน่วยลงทุน:** 2 class
+> - **NAV 20.1659 (2026-08-26)**
+
+## 1. ข้อมูลทั่วไป
+
+| รายการ | ค่า |
+|---|---|
+| เลขที่โครงการ (proj_id) | `M0226_2550` |
+| เลขที่จดทะเบียน (regis_id) | 165_2550 |
+| ชื่อย่อ | TDEQFOCUS |
+| ชื่อไทย | กองทุนเปิด ทิสโก้ หุ้นไทย โฟกัส ปันผล |
+| ชื่ออังกฤษ | TISCO Thai Equity Focus Dividend Fund |
+| บลจ. | [[บริษัทหลักทรัพย์จัดการกองทุน ทิสโก้]] |
+| สถานะ | Registered |
+| วันจัดตั้ง | 2007-05-16 |
+| วันจดทะเบียน | 2007-06-13 |
+| ประเภทตามนโยบาย | ตราสารทุน |
+| กลยุทธ์บริหาร | AM — Active management |
+| ลักษณะโครงการ | R — ผู้ลงทุนทั่วไป |
+| ความเสี่ยงต่างประเทศ | ไม่มีความเสี่ยงต่างประเทศ |
+
+## 2. ชนิดหน่วยลงทุน (Share Class)
+
+| Class | ISIN | สิทธิประโยชน์ภาษี | รายละเอียด |
+|---|---|---|---|
+| TDEQFOCUS-A | TH1699A10009 | - | ชนิดหน่วยลงทุน A |
+| TDEQFOCUS-N | TH1699B10007 | - | ชนิดหน่วยลงทุน N |
+
+## 3. นโยบายการลงทุน
+
+กองทุนจะลงทุนในหรือมีไว้ซึ่งหุ้นสามัญของบริษัทจดทะเบียนในตลาดหลักทรัพย์ โดยมีฐานะการลงทุนสุทธิ (“ net exposure ”) ในหุ้นสามัญของบริษัทที่จดทะเบียนในตลาดหลักทรัพย์ โดยเฉลี่ยในรอบปีบัญชีไม่น้อยกว่าร้อยละ 80 ของมูลค่าทรัพย์สินสุทธิของกองทุน สำหรับส่วนที่เหลืออาจลงทุนในตราสารทางการเงิน ตราสารแห่งหนี้อื่นๆ และ/หรือเงินฝาก ตลอดจนหลักทรัพย์หรือทรัพย์สินอื่นหรือการหาดอกผลโดยวิธีอื่นอย่างใดอย่างหนึ่งหรือหลายอย่าง ตามที่คณะกรรมการ ก.ล.ต. หรือสำนักงานคณะกรรมการ ก.ล.ต. ประกาศกำหนดหรือให้ความเห็นชอบ 
+
+นอกจากนี้ กองทุนอาจลงทุนในสัญญาซื้อขายล่วงหน้า และตราสารที่มีลักษณะของสัญญาซื้อขายล่วงหน้าแฝง (Structured Note) 
+
+ประเภทของหลักทรัพย์หรือทรัพย์สินอื่น หรือการหาดอกผลโดยวิธีอื่นที่จะลงทุนในประเทศ 
+เป็นไปตามประกาศ ยกเว้น กองทุนจะไม่ลงทุนในหน่วย Private Equity
+
+อัตราส่วนการลงทุนในหลักทรัพย์หรือทรัพย์สินอื่น เพื่อเป็นทรัพย์สินของกองทุนรวม
+เป็นไปตามประกาศ และกรณีที่การลงทุนไม่เป็นไปตามข้อนี้จะดำเนินการให้เป็นไปตามที่ประกาศกำหนด
+
+ทั้งนี้ กองทุนมีการกำหนดอัตราส่วนการลงทุนเพิ่มเติมดังนี้
+อัตราส่วนการลงทุนที่คำนวณตามประเภททรัพย์สิน (Product Limit) 
+1. หน่วย Property ไม่เกิน 20%
+2. หน่วย Infra ไม่เกิน 20%
+
+## 4. ความเสี่ยง
+
+**ระดับความเสี่ยง: 6 / 8** — 6 — ตราสารทุน
+
+> ลงทุนในตราสารทุนเป็นหลัก โดยเฉลี่ยในรอบปีไม่น้อยกว่า 80% ของ NAV
+
+อ่านเพิ่ม: [[ระดับความเสี่ยงกองทุนรวม]]
+
+### สถิติเชิงปริมาณ
+
+| Class | Sharpe | Alpha | Beta | Max Drawdown | Tracking Error | Turnover | FX Hedging |
+|---|---|---|---|---|---|---|---|
+| TDEQFOCUS-N | -0.17 | -6.33 | 0.91 | -37.41% | - | 1.93 | - |
+| TDEQFOCUS-A | -0.17 | -6.33 | 0.91 | -37.41% | - | 1.93 | - |
+
+อ่านเพิ่ม: [[สถิติวัดผลกองทุน]]
+
+## 5. ค่าธรรมเนียม
+
+ดูคำอธิบายแต่ละประเภทที่ [[ค่าธรรมเนียมกองทุนรวม]]
+
+### สรุปต่อชนิดหน่วยลงทุน (Share Class)
+
+| ชนิดหน่วยลงทุน | ซื้อได้โดย | รวม: เก็บจริง (%) | รวม: เพดาน (%) | จัดการ: เก็บจริง (%) | ขาย (%) | รับซื้อคืน (%) |
+|---|---|---|---|---|---|---|
+| `TDEQFOCUS-A`<br><sub>ชนิดหน่วยลงทุน A</sub> | ⚪ ไม่ระบุ | 1.83 | 2.68 | 1.61 | - | - |
+| `TDEQFOCUS-N`<br><sub>ชนิดหน่วยลงทุน N</sub> | ⚪ ไม่ระบุ | 1.83 | 2.68 | 1.61 | 1 | - |
+
+**เก็บจริง** = อัตราที่เรียกเก็บในรอบที่รายงาน · **เพดาน** = อัตราสูงสุดที่หนังสือชี้ชวนอนุญาต — สองค่านี้เทียบกันข้ามกองไม่ได้
+
+อธิบายชนิดหน่วยลงทุนที่ [[ชนิดหน่วยลงทุน Share Class]] · [[../Indexes/compare-fees|เทียบกับกองอื่นในหมวดเดียวกัน]]
+
+### ตาม Factsheet ล่าสุด (ทุกแถวที่รายงาน)
+
+| Class | ประเภท | เพดาน (%) | เก็บจริง (%) |
+|---|---|---|---|
+| TDEQFOCUS-N | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 2.5 | 0 |
+| TDEQFOCUS-N | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 2.68 | 1.83 |
+| TDEQFOCUS-A | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 1 | 0 |
+| TDEQFOCUS-A | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 1 | 0 |
+| TDEQFOCUS-A | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนออก (SWITCHING OUT) | 1 | 1 |
+| TDEQFOCUS-A | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 999,999 | 0 |
+| TDEQFOCUS-N | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.61 | 1.61 |
+| TDEQFOCUS-A | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.61 | 1.61 |
+| TDEQFOCUS-A | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 1 | 0 |
+| TDEQFOCUS-A | ค่าธรรมเนียมและค่าใช้จ่ายรวมทั้งหมด (Total Fee and Expense) | 2.68 | 1.83 |
+| TDEQFOCUS-N | ค่าธรรมเนียมการขายหน่วยลงทุน (Front-end Fee) | 2.5 | 1 |
+| TDEQFOCUS-N | ค่าธรรมเนียมการรับซื้อคืนหน่วยลงทุน (Back-end Fee) | 2.5 | 0 |
+| TDEQFOCUS-N | ค่าธรรมเนียมการสับเปลี่ยนหน่วยลงทุนเข้า (SWITCHING IN) | 2.5 | 0 |
+| TDEQFOCUS-N | ค่าธรรมเนียมการโอนหน่วยลงทุน (Transfer Fee) | 999,999 | 0 |
+
+### ตามหนังสือชี้ชวน (เพดานตามโครงการ)
+
+| Class | ประเภท | อัตรา | หน่วย |
+|---|---|---|---|
+| TDEQFOCUS-A | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.605 | ต่อปี ของมูลค่าทรัพย์สินของชนิดหน่วยลงทุน A หักด้วยมูลค่าหนี้สินทั้งหมดของชนิดหน่วยลงทุน A |
+| TDEQFOCUS-A | ค่าธรรมเนียมทั้งหมด (Total Fee) | 2.675 | ต่อปี ของมูลค่าทรัพย์สินสุทธิถัวเฉลี่ยของรอบระยะเวลาบัญชีกองทุน |
+| TDEQFOCUS-A | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| TDEQFOCUS-A | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.214 | ต่อปี ของมูลค่าทรัพย์สินของชนิดหน่วยลงทุน A หักด้วยมูลค่าหนี้สินทั้งหมดของชนิดหน่วยลงทุน A |
+| TDEQFOCUS-A | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| TDEQFOCUS-A | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.0856 | ต่อปี ของมูลค่าทรัพย์สินของชนิดหน่วยลงทุน A หักด้วยมูลค่าหนี้สินทั้งหมดของชนิดหน่วยลงทุน A |
+| TDEQFOCUS-A | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 0.7704 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+| TDEQFOCUS-N | ค่าธรรมเนียมการจัดการ (Management Fee) | 1.605 | ต่อปี ของมูลค่าทรัพย์สินของชนิดหน่วยลงทุน N หักด้วยมูลค่าหนี้สินทั้งหมดของชนิดหน่วยลงทุน N |
+| TDEQFOCUS-N | ค่าธรรมเนียมทั้งหมด (Total Fee) | 2.675 | ต่อปี ของมูลค่าทรัพย์สินสุทธิถัวเฉลี่ยของรอบระยะเวลาบัญชีกองทุน |
+| TDEQFOCUS-N | ค่าธรรมเนียมที่ปรึกษาการลงทุน (Investment Advisor Fee) | - | - |
+| TDEQFOCUS-N | ค่าธรรมเนียมนายทะเบียนหน่วยลงทุน (Registrar Fee) | 0.214 | ต่อปี ของมูลค่าทรัพย์สินของชนิดหน่วยลงทุน N หักด้วยมูลค่าหนี้สินทั้งหมดของชนิดหน่วยลงทุน N |
+| TDEQFOCUS-N | ค่าธรรมเนียมผู้จัดจำหน่ายหน่วยลงทุน (Distributor Fee) | - | - |
+| TDEQFOCUS-N | ค่าธรรมเนียมผู้ดูแลผลประโยชน์ (Trustee Fee) | 0.0856 | ต่อปี ของมูลค่าทรัพย์สินของชนิดหน่วยลงทุน N หักด้วยมูลค่าหนี้สินทั้งหมดของชนิดหน่วยลงทุน N |
+| TDEQFOCUS-N | ค่าธรรมเนียมอื่น ๆ (Other Fee) | 0.7704 | ต่อปี ของมูลค่าทรัพย์สินสุทธิของกองทุน |
+
+## 6. ผลการดำเนินงาน
+
+### Class `TDEQFOCUS-A`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | 10 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 13.34 | 25.48 | 30.35 | 23.42 | -0.78 | -0.14 | 2.33 | 6.23 | -15.44 | -3.87 | -14.17 | -1.65 | 24.6 |
+| ผลตอบแทนตัวชี้วัด | 9.15 | 26.36 | 32.98 | 36.82 | 5.55 | 4.95 | 4.03 | 8.23 | - | - | - | 3.53 | 17.67 |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 12.12 | 25.97 | 31.29 | 34.17 | 4.85 | 4.38 | 2.64 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 13.22 | 18.82 | 18.1 | 16.35 | 15.63 | 14.29 | 16.25 | 19.32 | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 12.5 | 16.42 | 15.98 | 14.2 | 12.7 | 11.38 | 12.47 | 14.93 | - | - | - | - | - |
+
+### Class `TDEQFOCUS-N`
+
+| รายการ | 3 เดือน | 6 เดือน | YTD | 1 ปี | 3 ปี | 5 ปี | ตั้งแต่จัดตั้ง | 2025 | 2024 | 2023 | 2022 | 2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ผลตอบแทนกองทุนรวม | 13.34 | 25.49 | 30.35 | 23.42 | -0.78 | -0.14 | 3.44 | -15.43 | -3.87 | -14.17 | -1.66 | 24.61 |
+| ผลตอบแทนตัวชี้วัด | 9.15 | 26.36 | 32.98 | 36.82 | 5.55 | 4.95 | 6.58 | -5.99 | 2.33 | -12.66 | 3.53 | 17.67 |
+| ค่าเฉลี่ยในกลุ่มเดียวกัน | 12.12 | 25.97 | 31.29 | 34.17 | 4.85 | 4.38 | - | - | - | - | - | - |
+| ความผันผวนของกองทุนรวม | 13.22 | 18.82 | 18.1 | 16.35 | 15.63 | 14.29 | 14.81 | - | - | - | - | - |
+| ความผันผวนของตัวชี้วัด | 12.5 | 16.42 | 15.98 | 14.2 | 12.7 | 11.38 | 11.69 | - | - | - | - | - |
+
+> ตัวเลขเป็น % ต่อปี · เทียบ **ผลตอบแทนกองทุนรวม** กับ **ผลตอบแทนตัวชี้วัด** และ **ค่าเฉลี่ยในกลุ่มเดียวกัน** เสมอ  
+> ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+### ดัชนีชี้วัด (Benchmark)
+
+| # | ดัชนีชี้วัด | หมายเหตุ |
+|---|---|---|
+| 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
+
+## 7. พอร์ตการลงทุน
+
+### การจัดสรรสินทรัพย์ (จาก Factsheet)
+
+| สินทรัพย์ | สัดส่วน (%) |
+|---|---|
+| เงินฝากธนาคาร | 2.01 |
+| หนี้สินอื่น | -1.21 |
+| หุ้น | 98.96 |
+| สินทรัพย์อื่น | 0.25 |
+
+### 5 อันดับแรกที่ลงทุน
+
+| # | หลักทรัพย์ | สัดส่วน (%) |
+|---|---|---|
+| 1 | หุ้นสามัญของบริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน) | 9.06 |
+| 2 | หุ้นสามัญของธนาคารกสิกรไทย จำกัด (มหาชน) | 8.34 |
+| 3 | หุ้นสามัญของบริษัท คอมเซเว่น จำกัด (มหาชน) | 8.28 |
+| 4 | หุ้นสามัญของบริษัทแอดวานซ์ อินโฟร์ เซอร์วิส จำกัด (มหาชน) | 8.02 |
+| 5 | หุ้นสามัญของบริษัท ติดล้อ โฮลดิ้งส์ จำกัด (มหาชน) | 7.65 |
+
+### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
+
+| รหัส | ประเภทสินทรัพย์ | มูลค่าตลาด | % NAV |
+|---|---|---|---|
+| 101 | หุ้น (รหัส 101-102) | 174,592,631 | 98.9567 |
+| 201 | เงินฝากธนาคาร P/N และ B/E (รหัส 202-205,216-224) | 3,537,824 | 2.0052 |
+| 700 | สินทรัพย์อื่นๆ/หนี้สินอื่นๆ (รหัส 122,211,301-399,500-599) หัก (รหัส 601-699) | -1,697,153 | -0.9619 |
+
+### รายการลงทุนรายตัวทั้งหมด (งวด 202606 · ณ 2026-06-30)
+
+- จำนวนรายการที่ถือ: **32** รายการ จากผู้ออก 32 ราย
+- มูลค่าทรัพย์สินสุทธิของกองทุน: **178,740,71** บาท
+- น้ำหนัก 10 อันดับแรกรวม: **66.28% ของ NAV** (คิดเป็น 66.0% ของพอร์ต)
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 1 | [[../Entities/GULF DEVELOPMENT PUBLIC COMPANY LIMITED\|GULF DEVELOPMENT PUBLIC COMPANY LIMITED]] <br><sub>`GULF`</sub> | GULF DEVELOPMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC903010005 | 16,263,183 | 9.0988 |
+| 2 | [[../Entities/TIDLOR HOLDINGS PUBLIC COMPANY LIMITED\|TIDLOR HOLDINGS PUBLIC COMPANY LIMITED]] <br><sub>`TIDLOR`</sub> | TIDLOR HOLDINGS PUBLIC COMPANY LIMITED | หุ้นสามัญ | THC997010002 | 15,560,445 | 8.7056 |
+| 3 | [[../Entities/ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED\|ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED]] <br><sub>`ADVANC`</sub> | ADVANCED INFO SERVICE PUBLIC COMPANY LIM | หุ้นสามัญ | TH0268010Z03 | 14,691,377 | 8.2194 |
+| 4 | [[../Entities/KASIKORNBANK PUBLIC COMPANY LIMITED (TH0016010009)\|KASIKORNBANK PUBLIC COMPANY LIMITED]] <br><sub>`KBANK`</sub> | KASIKORNBANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0016010009 | 14,134,684 | 7.9079 |
+| 5 | [[../Entities/COM7 PUBLIC COMPANY LIMITED\|COM7 PUBLIC COMPANY LIMITED]] <br><sub>`COM7`</sub> | COM7 PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH6678010005 | 13,791,167 | 7.7157 |
+| 6 | [[../Entities/DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED\|DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED]] <br><sub>`DELTA`</sub> | DELTA ELECTRONICS (THAILAND) PUBLIC COMP | หุ้นสามัญ | TH0528A10Z06 | 11,960, | 6.6913 |
+| 7 | [[../Entities/PTT PUBLIC COMPANY LIMITED\|PTT PUBLIC COMPANY LIMITED]] <br><sub>`PTT`</sub> | PTT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0646010Z00 | 11,140,432 | 6.2327 |
+| 8 | [[../Entities/SCB X PUBLIC COMPANY LIMITED\|SCB X PUBLIC COMPANY LIMITED]] <br><sub>`SCB`</sub> | SCB X PUBLIC COMPANY LIMITED | หุ้นสามัญ | THA790010005 | 7,215,74 | 4.037 |
+| 9 | [[../Entities/MINOR INTERNATIONAL PUBLIC COMPANY LIMITED\|MINOR INTERNATIONAL PUBLIC COMPANY LIMITED]] <br><sub>`MINT`</sub> | MINOR INTERNATIONAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0128B10Z09 | 6,995,04 | 3.9135 |
+| 10 | [[../Entities/PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED\|PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED]] <br><sub>`PTTEP`</sub> | PTT EXPLORATION AND PRODUCTION PUBLIC CO | หุ้นสามัญ | TH0355A10Z04 | 6,725,862 | 3.7629 |
+| 11 | [[../Entities/CENTRAL PATTANA PUBLIC COMPANY LIMITED\|CENTRAL PATTANA PUBLIC COMPANY LIMITED]] <br><sub>`CPN`</sub> | CENTRAL PATTANA PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0481B10Z00 | 6,170,7 | 3.4523 |
+| 12 | [[../Entities/THAI OIL PUBLIC COMPANY LIMITED\|THAI OIL PUBLIC COMPANY LIMITED]] <br><sub>`TOP`</sub> | THAI OIL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0796010005 | 5,708,45 | 3.1937 |
+| 13 | [[../Entities/BLUEBIK GROUP PUBLIC COMPANY LIMITED\|BLUEBIK GROUP PUBLIC COMPANY LIMITED]] <br><sub>`BBIK`</sub> | BLUEBIK GROUP PUBLIC COMPANY LIMITED | หุ้นสามัญ | THA448010001 | 5,522,876 | 3.0899 |
+| 14 | [[../Entities/CP ALL PUBLIC COMPANY LIMITED\|CP ALL PUBLIC COMPANY LIMITED]] <br><sub>`CPALL`</sub> | CP ALL PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0737010Y08 | 5,192,71 | 2.9052 |
+| 15 | [[../Entities/PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED\|PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED]] <br><sub>`PTTGC`</sub> | PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH1074010006 | 4,586,15 | 2.5658 |
+| 16 | [[../Entities/KIATNAKIN PHATRA BANK PUBLIC COMPANY LIMITED\|KIATNAKIN PHATRA BANK PUBLIC COMPANY LIMITED]] <br><sub>`KKP`</sub> | KIATNAKIN PHATRA BANK PUBLIC COMPANY LIM | หุ้นสามัญ | TH0121010001 | 4,150,65 | 2.3222 |
+| 17 | [[../Entities/THE SIAM COMMERCIAL BANK PLC. - RUTCHAYOTHIN\|THE SIAM COMMERCIAL BANK PLC. - RUTCHAYOTHIN]] <br><sub>`SCB 1114955703`</sub> | THE SIAM COMMERCIAL BANK PLC. - RUTCHAYO | เงินฝากธนาคารประเภทออมทรัพย์ | - | 4,014,178 | 2.2458 |
+| 18 | [[../Entities/KRUNG THAI BANK PUBLIC COMPANY LIMITED\|KRUNG THAI BANK PUBLIC COMPANY LIMITED]] <br><sub>`KTB`</sub> | KRUNG THAI BANK PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0150010Z03 | 3,739,2 | 2.092 |
+| 19 | [[../Entities/KCG CORPORATION PUBLIC COMPANY LIMITED\|KCG CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`KCG`</sub> | KCG CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | THB479010001 | 3,624,718 | 2.0279 |
+| 20 | [[../Entities/INDORAMA VENTURES PUBLIC COMPANY LIMITED\|INDORAMA VENTURES PUBLIC COMPANY LIMITED]] <br><sub>`IVL`</sub> | INDORAMA VENTURES PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH1027010004 | 3,212, | 1.797 |
+| 21 | [[../Entities/KCE ELECTRONICS PUBLIC COMPANY LIMITED\|KCE ELECTRONICS PUBLIC COMPANY LIMITED]] <br><sub>`KCE`</sub> | KCE ELECTRONICS PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0122C10Z04 | 1,903,8 | 1.0651 |
+| 22 | [[../Entities/TRUE CORPORATION PUBLIC COMPANY LIMITED\|TRUE CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`TRUE`</sub> | TRUE CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | THB231010000 | 1,867,92 | 1.045 |
+| 23 | [[../Entities/STAR PETROLEUM REFINING PUBLIC COMPANY LIMITED\|STAR PETROLEUM REFINING PUBLIC COMPANY LIMITED]] <br><sub>`SPRC`</sub> | STAR PETROLEUM REFINING PUBLIC COMPANY L | หุ้นสามัญ | TH6838010002 | 1,825,52 | 1.0213 |
+| 24 | [[../Entities/BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED\|BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMITED]] <br><sub>`BH`</sub> | BUMRUNGRAD HOSPITAL PUBLIC COMPANY LIMIT | หุ้นสามัญ | TH0168A10Z01 | 1,786, | 0.9992 |
+| 25 | [[../Entities/THE SIAM CEMENT PUBLIC COMPANY LIMITED\|THE SIAM CEMENT PUBLIC COMPANY LIMITED]] <br><sub>`SCC`</sub> | THE SIAM CEMENT PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH0003010Z04 | 1,732,4 | 0.9692 |
+
+<details><summary>ดูอีก 7 รายการที่เหลือ</summary>
+
+| # | หลักทรัพย์ | ผู้ออก | ประเภท | ISIN | มูลค่า | % NAV |
+|---|---|---|---|---|---|---|
+| 26 | [[../Entities/i-Tail Corporation Public Company Limited\|i-Tail Corporation Public Company Limited]] <br><sub>`ITC`</sub> | i-Tail Corporation Public Company Limite | หุ้นสามัญ | THB056010002 | 1,719,48 | 0.962 |
+| 27 | [[../Entities/WHA UTILITIES AND POWER PUBLIC COMPANY LIMITED\|WHA UTILITIES AND POWER PUBLIC COMPANY LIMITED]] <br><sub>`WHAUP`</sub> | WHA UTILITIES AND POWER PUBLIC COMPANY L | หุ้นสามัญ | TH7846010Z09 | 1,069,2 | 0.5982 |
+| 28 | [[../Entities/Moshi Moshi Retail Corporation Public Company Limited\|Moshi Moshi Retail Corporation Public Company Limited]] <br><sub>`MOSHI`</sub> | Moshi Moshi Retail Corporation Public Co | หุ้นสามัญ | THB131010001 | 902,225 | 0.5048 |
+| 29 | [[../Entities/WHA CORPORATION PUBLIC COMPANY LIMITED\|WHA CORPORATION PUBLIC COMPANY LIMITED]] <br><sub>`WHA`</sub> | WHA CORPORATION PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH3871010Z01 | 896,1 | 0.5013 |
+| 30 | [[../Entities/MEB Corporation Public Company Limited\|MEB Corporation Public Company Limited]] <br><sub>`MEB`</sub> | MEB Corporation Public Company Limited | หุ้นสามัญ | THB217010008 | 853,534 | 0.4775 |
+| 31 | [[../Entities/MEGA LIFESCIENCES PUBLIC COMPANY LIMITED\|MEGA LIFESCIENCES PUBLIC COMPANY LIMITED]] <br><sub>`MEGA`</sub> | MEGA LIFESCIENCES PUBLIC COMPANY LIMITED | หุ้นสามัญ | TH4984010009 | 441, | 0.2467 |
+| 32 | [[../Entities/TISCO BANK PUBLIC COMPANY LIMITED - H.O\|TISCO BANK PUBLIC COMPANY LIMITED - H.O.]] <br><sub>`TISCO 0001-1230053223`</sub> | TISCO BANK PUBLIC COMPANY LIMITED - H.O. | เงินฝากธนาคารประเภทกระแสรายวัน | - | 115,212 | 0.0645 |
+
+</details>
+
+### ข้อมูลเพิ่มเติมจาก Factsheet
+
+ส่วนนี้ไม่มีใน API — แกะจากตารางใน Factsheet PDF
+
+**การจัดสรรการลงทุนในกลุ่มอุตสาหกรรม**
+
+| กลุ่มอุตสาหกรรม | % NAV |
+|---|---|
+| พลังงานและสาธารณูปโภค | 26.31 |
+| ธนาคาร | 19.05 |
+| พาณิชย์ | 12.17 |
+| เทคโนโลยีสารสนเทศและการสื่อสาร | 11.59 |
+| เงินทุนและหลักทรัพย์ | 8.64 |
+| ชิ้นส่วนอิเล็กทรอนิกส์ | 6.16 |
+| ปิโตรเคมีและเคมีภัณฑ์ | 4.75 |
+| การท่องเที่ยวและสันทนาการ | 3.02 |
+| อาหารและเครื่องดื่ม | 3 |
+| พัฒนาอสังหาริมทรัพย์ | 2.33 |
+| อื่นๆ | 1.94 |
+
+> รายละเอียดทั้งหมดดูที่ [[Factsheet - TDEQFOCUS]]
+
+## 8. NAV
+
+| Class | วันที่ | NAV/หน่วย | ราคาขาย | ราคารับซื้อคืน | มูลค่าทรัพย์สินสุทธิ |
+|---|---|---|---|---|---|
+| TDEQFOCUS-A | 2026-08-26 | 20.1659 | 0 | 20.1659 | 172,788,644 |
+| TDEQFOCUS-N | 2026-08-26 | 19.9974 | 20.1975 | 19.9974 | 611,048 |
+
+อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]
+
+## 9. เงินปันผล
+
+| Class | นโยบายปันผล |
+|---|---|
+| TDEQFOCUS-N | จ่ายเงินปันผล |
+| TDEQFOCUS-A | จ่ายเงินปันผล |
+
+## 10. การซื้อขายหน่วยลงทุน
+
+### ยอดซื้อขายขั้นต่ำ
+
+| Class | มีผลตั้งแต่ | ซื้อขั้นต่ำ (IPO) | สกุล (IPO) | ซื้อขั้นต่ำ | สกุล | ขายคืนขั้นต่ำ | สกุล (ขายคืน) | ยอดคงเหลือขั้นต่ำ |
+|---|---|---|---|---|---|---|---|---|
+| TDEQFOCUS-A | 2026-07-31 | 1000.0 | THB | 1000.0 | THB | - | THB | - |
+| TDEQFOCUS-N | 2026-07-31 | 1000.0 | THB | 1000.0 | THB | - | THB | - |
+
+### ช่วงเวลาซื้อขายและการชำระเงิน
+
+| Class | มีผลตั้งแต่ | ประเภทรายการ | ช่วงเวลาทำรายการ | ระยะเวลารับเงิน |
+|---|---|---|---|---|
+| TDEQFOCUS-A | 2026-07-31 | การขายคืน (redemption) | ทุกวันทำการ | T+3 คือ3 วันทำการหลังจากวันทำรายการขายคืน |
+| TDEQFOCUS-N | 2026-07-31 | การขายคืน (redemption) | ทุกวันทำการ | T+3 คือ3 วันทำการหลังจากวันทำรายการขายคืน |
+| TDEQFOCUS-A | 2026-07-31 | การซื้อ (subscription) | ทุกวันทำการ | - |
+| TDEQFOCUS-N | 2026-07-31 | การซื้อ (subscription) | ทุกวันทำการ | - |
+
+## 11. บุคคลที่เกี่ยวข้อง
+
+### ผู้จัดการกองทุน (จาก Factsheet)
+
+- น.ส. มัลลิกานิยมในธรรม
+- นาย ณพัฒน์ศรีวรพงษ์พันธ์
+
+| บทบาท | ชื่อ |
+|---|---|
+| นายทะเบียนหน่วยลงทุน | บริษัทหลักทรัพย์จัดการกองทุน ทิสโก้ |
+| T | บริษัทหลักทรัพย์จัดการกองทุน ทิสโก้ |
+
+## 12. Factsheet
+
+📄 ข้อความที่แกะจาก PDF: [[Factsheet - TDEQFOCUS]]
+
+- class `TDEQFOCUS-N` (ณ 2026-07-31) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0226_2550.pdf)
+- class `TDEQFOCUS-A` (ณ 2026-07-31) — [PDF](https://secdocumentstorage.blob.core.windows.net/fundfactsheet/M0226_2550.pdf)
+
+---
+
+## ดูเพิ่ม
+
+- กองอื่นของ [[บริษัทหลักทรัพย์จัดการกองทุน ทิสโก้]]
+- กองประเภทเดียวกัน: [[ตราสารทุน]]
+- ความเสี่ยงระดับเดียวกัน: [[by-risk|กองความเสี่ยงระดับ 6]]
+- [[00-home|🏠 Home]] · [[all-funds|รายชื่อกองทุนทั้งหมด]]
+
+> ข้อมูลจาก SEC Open API · อัปเดตล่าสุด `2026-08-27T07:42:31.783`

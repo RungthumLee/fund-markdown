@@ -1,0 +1,52 @@
+---
+title: "KOREA GOVERNMENT"
+entity_id: "isin:KRC035FP29C6"
+isin: "KRC035FP29C6"
+ticker: "KOREAP 0 12/10/29 P291"
+figi: "BBG00004F0X7"
+figi_type: "DOMESTIC"
+kind: "bill"
+fund_count: 3
+indirect_fund_count: 0
+alias_count: 3
+tags: [entity, entity-bill, multi-alias]
+---
+
+# 🧾 KOREA GOVERNMENT
+
+**ประเภท:** ตั๋วเงิน · **ISIN:** `KRC035FP29C6` · **Ticker:** `KOREAP 0 12/10/29 P291 (KOREA)`
+
+ถือโดยตรง **3** กอง
+
+[[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]
+
+## ชื่อที่พบในข้อมูลดิบ
+
+ข้อมูล ก.ล.ต. สะกดสินทรัพย์นี้ **3 แบบ** ซึ่งถูกรวมเป็นรายการเดียวแล้ว
+
+> [!NOTE] ถ้าไม่รวม ตัวเลขการกระจุกตัวจะต่ำกว่าความจริง เพราะฐานะเดียวถูกนับแยกเป็นหลายรายการ
+
+`TB29D10_KOR` · `TB29D10_KORz`
+
+## กองทุนไทยที่ถือโดยตรง (3 กอง)
+
+| กองทุน | บลจ. | % NAV | นโยบาย |
+|---|---|---|---|
+| [[SCBDLITE\|SCBDLITE]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 5.41% | ตราสารหนี้ |
+| [[SCBDBOND\|SCBDBOND]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 4.56% | ตราสารหนี้ |
+| [[SCBFPFUND\|SCBFPFUND]] | บริษัทหลักทรัพย์จัดการกองทุน ไทยพาณิชย์ จำกัด | 1.52% | ตราสารหนี้ |
+
+> น้ำหนักที่แสดงคือ **% NAV สูงสุด** ที่กองนั้นเคยรายงานถือสินทรัพย์นี้ ในงวดที่มีข้อมูล
+
+## รหัสอ้างอิงสากล
+
+| รายการ | ค่า |
+|---|---|
+| FIGI | `BBG00004F0X7` |
+| Share Class FIGI | — |
+| ประเภทตาม Bloomberg | DOMESTIC |
+| หมวดตลาด | Govt |
+
+ที่มา: OpenFIGI ของ Bloomberg · [[../../docs/guides/openfigi|วิธีใช้และข้อจำกัด]]
+
+[[../Indexes/00-home|🏠 Home]] · [[../Indexes/by-holding|ดัชนีสินทรัพย์]]

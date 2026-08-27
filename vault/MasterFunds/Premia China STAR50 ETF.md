@@ -1,0 +1,96 @@
+---
+title: "Premia China STAR50 ETF"
+master_key: "HK0000761418"
+isin: "HK0000761418"
+quote_type: "ETF"
+fund_family: "Premia Partners Company Limited"
+currency: "USD"
+ongoing_charge: "0.58%"
+feeder_count: 2
+has_external_data: true
+tags: [master-fund, external-data, etf]
+---
+
+# 🌐 Premia China STAR50 ETF
+
+**ISIN:** `HK0000761418` · **Ticker:** `9151.HK`
+
+กองทุนหลักของกองทุนไทย **2** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | Premia China STAR50 ETF |
+| ISIN | `HK0000761418` |
+| ประเภท | ETF (จดทะเบียนซื้อขายในตลาด) |
+| โครงสร้างทางกฎหมาย | Exchange Traded Fund |
+| บริษัทจัดการ | Premia Partners Company Limited |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2021-07-26 |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (Yahoo) | 740.65 ล้าน USD |
+| **ค่าธรรมเนียมรวมต่อปี (OCF/TER)** | **0.58%** |
+
+> [!IMPORTANT]
+> ค่าธรรมเนียมนี้เป็นของ **กองทุนหลัก** ผู้ลงทุนไทยจ่าย**ซ้อนกับ**ค่าธรรมเนียมของกองไทยอีกชั้น
+> ดู [[../Concepts/ค่าธรรมเนียมกองทุนรวม|ค่าธรรมเนียมกองทุนรวม]]
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| หุ้น | 99.85% |
+| เงินสด | 0.15% |
+
+## สัดส่วนกลุ่มอุตสาหกรรม
+
+| กลุ่มอุตสาหกรรม | สัดส่วน |
+|---|---|
+| เทคโนโลยี | 87.75% |
+| อุตสาหกรรม | 5.40% |
+| สุขภาพ | 4.82% |
+| วัตถุดิบ | 1.08% |
+| สินค้าฟุ่มเฟือย | 0.95% |
+
+## หลักทรัพย์ที่ถือมากที่สุด
+
+นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
+
+| # | หลักทรัพย์ | Ticker | สัดส่วน |
+|---|---|---|---|
+| 1 | CSOP STAR 50 ETF | `3109` | 20.82% |
+| 2 | Cambricon Technologies Corp Ltd Class A | `688256.SS` | 6.67% |
+| 3 | Hygon Information Technology Co Ltd Class A | `688041.SS` | 6.27% |
+| 4 | Semiconductor Manufacturing International Corp Class A | `688981` | 6.14% |
+| 5 | Advanced Micro-fabrication Equipment Inc Class A | `688012.SS` | 6.00% |
+| 6 | Montage Technology Co Ltd Class A | `688008.SS` | 5.63% |
+| 7 | Piotech Inc Class A | `688072.SS` | 3.48% |
+| 8 | Yuanjie Semiconductor Technology Co Ltd Class A | `688498.SS` | 3.40% |
+| 9 | Hwatsing Technology Co Ltd Class A | `688120.SS` | 2.67% |
+| 10 | Hua Hong Grace Semiconductor Ltd Ordinary Shares - Class A | `688347` | 2.66% |
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**2 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[ES-STARTECH]] | [[บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด]] | ตราสารทุน | 6 | 70.32% |
+| [[ES-STARTECHRMF]] | [[บริษัทหลักทรัพย์จัดการกองทุน อีสท์สปริง (ประเทศไทย) จำกัด]] | ตราสารทุน | 6 | 70.03% |
+
+> [!NOTE]
+> กองไทยทั้ง 2 กองนี้ลงทุนในกองทุนหลัก**เดียวกัน** การถือหลายกองจึงไม่ได้กระจายความเสี่ยงอย่างที่คิด
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `9151.HK`)
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]

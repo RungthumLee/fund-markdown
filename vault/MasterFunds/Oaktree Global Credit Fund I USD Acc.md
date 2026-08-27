@@ -1,0 +1,77 @@
+---
+title: "Oaktree Global Credit Fund I USD Acc"
+master_key: "name:oaktree lux iii oaktree global credit"
+quote_type: "MUTUALFUND"
+category: "Global High Yield Bond - USD Hedged"
+domicile: "Luxembourg"
+currency: "USD"
+feeder_count: 2
+has_external_data: true
+tags: [master-fund, external-data]
+---
+
+# 🌐 Oaktree Global Credit Fund I USD Acc
+
+
+กองทุนหลักของกองทุนไทย **2** กอง · [[../Indexes/master-funds|ดัชนีกองทุนหลักทั้งหมด]] · [[../Concepts/Feeder Fund|Feeder Fund คืออะไร]]
+
+## ข้อมูลกองทุน
+
+| รายการ | ค่า |
+|---|---|
+| ชื่อกองทุน | Oaktree Global Credit Fund I USD Acc |
+| ISIN | - |
+| ประเภท | กองทุนรวม (ไม่ได้จดทะเบียนซื้อขาย) |
+| โครงสร้างทางกฎหมาย | SICAV |
+| ประเทศจดทะเบียน | Luxembourg |
+| หมวด (Morningstar) | Global High Yield Bond - USD Hedged |
+| ผู้จัดการกองทุน | Bruce Karsh (เริ่ม 01 Sep 2017) |
+| สกุลเงิน | USD |
+| วันจัดตั้ง | 2025-09-15 |
+| นโยบายปันผล | Accumulation |
+
+## ขนาดกองทุนและค่าธรรมเนียม
+
+| รายการ | ค่า |
+|---|---|
+| ขนาดกองทุน (FT) | 4.03bn GBP |
+
+## ผลการดำเนินงาน
+
+| ช่วงเวลา | ผลตอบแทน |
+|---|---|
+| YTD | 1.83% |
+| 1 ปี (FT) | +5.07% |
+| Beta (3 ปี) | 0.64 |
+| Morningstar rating | ★★★★ |
+
+> ตัวเลขจากแหล่งภายนอก อาจคิดคนละสกุลเงินและคนละวันอ้างอิงกับ NAV ของกองไทย · ผลตอบแทนในอดีตไม่รับประกันอนาคต
+
+## สัดส่วนประเภทสินทรัพย์
+
+| ประเภท | สัดส่วน |
+|---|---|
+| เงินสด | 100.00% |
+
+## กองทุนไทยที่ลงทุนในกองนี้
+
+**2 กอง** — เรียงตามสัดส่วนที่ถือ
+
+| กองทุนไทย | บลจ. | นโยบาย | เสี่ยง | % NAV ที่ถือกองนี้ |
+|---|---|---|---|---|
+| [[KKP GC-USD-UI FUND]] | [[บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด]] | อื่น ๆ | 8+ | 98.90% |
+| [[KKP GC-UI FUND]] | [[บริษัทหลักทรัพย์จัดการกองทุน เกียรตินาคินภัทร จำกัด]] | อื่น ๆ | 8+ | 95.65% |
+
+> [!NOTE]
+> กองไทยทั้ง 2 กองนี้ลงทุนในกองทุนหลัก**เดียวกัน** การถือหลายกองจึงไม่ได้กระจายความเสี่ยงอย่างที่คิด
+
+---
+
+## แหล่งข้อมูล
+
+- **Yahoo Finance** — โปรไฟล์ ผลตอบแทน sector holdings (symbol `0P0001BKR8`)
+- **FT.com** — ค่าธรรมเนียม ขนาดกองทุน domicile ผู้จัดการ ([tearsheet](https://markets.ft.com/data/funds/tearsheet/summary?s=LU1617687584:USD))
+- **ค้นเว็บ** — พบ ISIN `LU1617687584` แล้วยืนยันตัวเลขซ้ำกับ FT/Yahoo อีกชั้น
+- **ก.ล.ต. ไทย** — รายชื่อกองทุนไทยที่ลงทุนและสัดส่วนที่ถือ
+
+[[../Indexes/00-home|🏠 Home]] · [[../../docs/guides/master-fund-sources|วิธีเก็บข้อมูลกองทุนหลัก]]
