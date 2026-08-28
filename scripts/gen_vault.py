@@ -34,6 +34,7 @@ ENTITY_LINKS: dict[str, str] = {}
 # proj_id -> resolved look-through record, from lookthrough.json
 LOOKTHROUGH: dict[str, dict] = {}
 NAV_HISTORY: dict[str, dict] = {}   # proj_id -> ~120d NAV series + stats (R-05)
+CORRELATIONS: dict[str, dict] = {}  # proj_id -> realized factor correlations
 VAULT = ROOT / "vault"
 
 RETAIL_TYPE = {
@@ -530,6 +531,21 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
                          x.get("bull", "-"), x.get("bear", "-"), x.get("source", "-")]
                         for x in _factors[:8]]))
 
+    # realized factor correlation (measured from NAV, not the map). Descriptive,
+    # short window, past only - heavy caveat (docs ideas §0, §2.6)
+    _corr = CORRELATIONS.get(f.get("proj_id") or "")
+    if _corr and _corr.get("factors"):
+        a("")
+        a("### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)")
+        a("")
+        o.extend(table(["ปัจจัย", "correlation", "ทิศทาง", "จำนวนวัน"],
+                       [[x["name"], f"{x['corr']:+.2f}", x["relationship"], x["n"]]
+                        for x in _corr["factors"]]))
+        a(f"> **วัดจาก NAV รายวัน** ช่วง {_corr['from']}..{_corr['to']} "
+          "(ที่มา: NAV × Yahoo) · +1 = ไปทางเดียวกัน · −1 = สวนทาง")
+        a("> [!warning] เป็น**ความสัมพันธ์ในอดีตช่วงสั้น** — **ไม่ใช่การพยากรณ์** · "
+          "correlation ไม่ใช่สาเหตุ และ**ไม่นิ่ง** (มักพุ่งเข้า 1 ตอนตลาดวิกฤต)")
+
     if f.get("asset_allocation"):
         a("### การจัดสรรสินทรัพย์ (จาก Factsheet)")
         a("")
@@ -1012,6 +1028,11 @@ def main() -> None:
     if nav_hist_path.exists():
         NAV_HISTORY.update(json.loads(nav_hist_path.read_text(encoding="utf-8")))
         LOG.info("NAV history available for %d funds", len(NAV_HISTORY))
+
+    corr_path = PROC / "correlations.json"
+    if corr_path.exists():
+        CORRELATIONS.update(json.loads(corr_path.read_text(encoding="utf-8")))
+        LOG.info("factor correlations available for %d funds", len(CORRELATIONS))
 
     ent_path = PROC / "entity_links.json"
     if ent_path.exists():

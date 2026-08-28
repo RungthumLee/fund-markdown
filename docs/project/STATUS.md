@@ -35,6 +35,7 @@ updated: 2026-08-28
 - [x] **P1 · Factor foundation** ✅ — `factor_map.json` (static) + `factors.py` + section "⚖️ ปัจจัยที่กระทบ" ในโน้ตกอง (สองด้าน, ไม่ทำนาย)
 - [x] **P2 · Skills** ✅ — `.claude/skills/*` : fund-explainer · fund-finder · portfolio-overlap · fee-audit · holding-explorer
 - [x] **P3 · R-05 NAV time-series** ✅ — surface NAV 120 วัน ในโน้ตกอง (ประตูสู่ correlation)
+- [x] **P5 · Correlation (fund↔factor)** ✅ — factor series (Yahoo) + realized correlation + block ในโน้ต (descriptive+caveat)
 - [x] **P4** ✅ เสริมสรุปภาษาคนให้มี **ประเทศ + กลุ่มอุตสาหกรรม** (A-RING: เน้นกลุ่มวัสดุ/โลหะ · แคนาดา)
 
 ## คิวงาน
@@ -71,6 +72,8 @@ _บันทึกผลโหวต 3 agent ต่อทางแยกที�
 ## บันทึกรอบ (Round log)
 
 _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · ไฟล์ที่แตะ_
+
+- **P5 · Correlation fund↔factor** — V ผ่าน (broken=0 · **A-RING +0.89 ทองคำ / −0.60 USD** · 1AMSET50 **+0.93 SET** — วัดจริง) · `fetch_factor_series.py` (7 series Yahoo) + `correlations.py` (Pearson, lag 0/1 กัน timezone, |r|≥0.4, ≥30 obs) → 1,704 กอง · block "📊 เคลื่อนไหวสัมพันธ์กับอะไร" + caveat แรง · wired · **ปิด loop factor-measured** · ไฟล์: `fetch_factor_series.py` `correlations.py` `gen_vault.py` `run_all.py` `daily.py`
 
 - **P4 · สรุปภาษาคน + ประเทศ/กลุ่ม** — V ผ่าน (broken=0) · plain_summary เพิ่ม 'เน้นกลุ่ม<sector>' + 'ลงทุนต่างประเทศ (<ประเทศ>)' · ไฟล์: `tagging.py` `gen_vault.py`
 
