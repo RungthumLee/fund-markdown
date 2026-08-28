@@ -26,7 +26,7 @@ top10_pct_nav: 55.22
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 91.8
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # SCBRM3
@@ -46,7 +46,7 @@ _SCB FLEXIBLE FUND RMF_
 > - **NAV 28.4069 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

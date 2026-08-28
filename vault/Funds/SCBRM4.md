@@ -26,7 +26,7 @@ top10_pct_nav: 61.99
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.5
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # SCBRM4
@@ -46,7 +46,7 @@ _SCB EQUITY RMF_
 > - **NAV 58.0558 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 45 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · พอร์ตถือราว 45 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.80%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

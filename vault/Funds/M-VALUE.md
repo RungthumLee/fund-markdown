@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 91.4
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, sector/energy, conc/focused, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, sector/energy, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # M-VALUE
@@ -47,7 +47,7 @@ _MFC Retirement Value Fund_
 > - **NAV 83.642 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · เน้นกลุ่มพลังงาน · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.87%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · เน้นกลุ่มพลังงาน · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.87%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

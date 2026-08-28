@@ -26,7 +26,7 @@ top10_pct_nav: 63.28
 market_countries: ["ไทย", "สิงคโปร์", "ญี่ปุ่น"]
 country_top: "ไทย"
 country_coverage_pct: 96.9
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/total-market, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/total-market, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # SCBRMPIN
@@ -46,7 +46,7 @@ _SCB Property and Infrastructure Flexible RMF_
 > - **NAV 9.0131 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.19%/ปี
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.19%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

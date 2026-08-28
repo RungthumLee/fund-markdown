@@ -58,7 +58,10 @@ def fund_factors(tags: list[str], market_countries: list[str] | None = None,
                 _strength_rank(picked[key].get("strength", "")):
             picked[key] = cand
 
-    tagset = set(tags or [])
+    # sorted, not set order: Python randomises string hashing per process, so
+    # iterating the raw set reshuffles equal-strength factors on every run and
+    # regenerating the vault produces diffs in notes whose data never changed.
+    tagset = sorted(set(tags or []))
 
     # asset (gold, oil, real-estate...) and sector, keyed by the exact tag
     for tag in tagset:
@@ -85,4 +88,5 @@ def fund_factors(tags: list[str], market_countries: list[str] | None = None,
             add(dict(e, factor=f"ค่าธรรมเนียมรวมสูง ({ter:.2f}%/ปี)"), "โครงสร้างกอง")
 
     return sorted(picked.values(),
-                  key=lambda e: -_strength_rank(e.get("strength", "")))
+                  key=lambda e: (-_strength_rank(e.get("strength", "")),
+                                 e.get("factor", "")))

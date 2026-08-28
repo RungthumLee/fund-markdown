@@ -1,7 +1,7 @@
 ---
 title: Task Board
 tags: [project, tasks, kanban]
-updated: 2026-08-27
+updated: 2026-08-28
 ---
 
 # ✅ Task Board
@@ -123,7 +123,8 @@ Legend: `[x]` เสร็จ · `[~]` กำลังทำ · `[ ]` ยัง�
 
 ### 9.3 Changelog ต่อเนื่อง — ก้อนที่ 3 ([[roadmap|R-07]])
 - [x] **T-099** ยืนยัน `gen_changelog.py` ทำงานครบ + wired ใน `daily.py` + ทดสอบรันจริง (diff = 0 ตามคาด)
-- [~] **T-100** ลงทะเบียน scheduled task — **ผู้ใช้รันเอง 1 บรรทัด** (คำสั่งอยู่ใน `run-daily.cmd`):
+- [~] **T-100** ลงทะเบียน scheduled task — **ผู้ใช้รันเอง 1 บรรทัด** (คำสั่งอยู่ใน `run-daily.cmd`)
+  _(2026-08-28: agent พยายามรันให้แล้ว แต่ถูก policy ของ Claude Code บล็อกการสร้าง scheduled task — ต้องรันเองใน terminal)_
   ```
   schtasks /Create /TN "FundKnowledge Daily" /SC DAILY /ST 07:30 /TR "d:\Website\Fund-knowledge\run-daily.cmd" /RL LIMITED /F
   ```
@@ -169,6 +170,16 @@ tag ภาษานักลงทุน) เป็น markdown ล้วน ใ
 
 > เฟส 3 (LLM ขัด theme/geo) **ยกเลิก** — ผู้ใช้เลือกใช้ AIMC peer_group ที่แม่นกว่าแทน
 > เหลือ optional: LLM ขัดสำนวนสรุปให้ลื่นขึ้น (ตอนนี้ template ก็อ่านรู้เรื่องแล้ว)
+
+## Phase 11 — Probe ต้นทาง + เก็บงานค้าง (2026-08-28 · [[STATUS|P6]])
+- [x] **T-103** `scripts/probe_history.py` — วัด NAV/portfolio reach + rate limit จริง (463 call)
+  - NAV = ถึงวันจัดตั้ง (K-FIXED 32 ปี) · portfolio = เพดาน 12 ไตรมาส (202309) · ไม่เจอ 429 ถึง 73 req/s
+  - ปิด [[outstanding|OUT-002]] · อัปเดต [[outstanding|OUT-004]] + [[decisions|DEC-002]] + [[ideas|ideas §5.5]]
+- [x] **T-104** [[outstanding|OUT-001]] RMF: เปลี่ยนสัญญาณเป็นชื่อจดทะเบียน "เพื่อการเลี้ยงชีพ"
+  (`tagging.py::_is_rmf`) → `#tax/rmf` 341 → 377 กอง · regenerate vault · broken=0
+- [x] **T-105** sync [[handover|Handover]] ให้ตรงรอบล่าสุด + ชี้ [[STATUS|STATUS §Handoff]] เป็นแหล่งจริง
+- [x] **T-107** [[issues|ISS-038]] ตารางปัจจัยสลับลำดับเองทุก regenerate → `factors.py` deterministic
+- [ ] **T-106** Backfill NAV 5 ปี (`MAX_NAV_YEARS=5`) + holding 12 ไตรมาส — ประเมิน ~23,000 call ≈ 50 นาที
 
 ---
 

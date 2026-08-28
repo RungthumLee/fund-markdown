@@ -26,7 +26,7 @@ top10_pct_nav: 50.21
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 96.9
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # SCBRM2
@@ -46,7 +46,7 @@ _SCB GOVERNMENT BOND RMF_
 > - **NAV 15.9518 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.74%/ปี
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.74%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

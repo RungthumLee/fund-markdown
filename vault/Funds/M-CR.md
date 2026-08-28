@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.6
 fund_managers: ["นาย กมลสิฐิ์ ขวัญใจธัญญา", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/low, liquidity/t5, duration/short, credit/government, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/low, liquidity/t5, duration/short, credit/government, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # M-CR
@@ -47,7 +47,7 @@ _MFC Capital Protection Retirement Mutual Fund_
 > - **NAV 13.3348 (2026-08-21)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.61%/ปี
+> กองผสม · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.61%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.5
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/medium, credit/investment-grade, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/medium, credit/investment-grade, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # M-FIX
@@ -47,7 +47,7 @@ _MFC Retirement Fixed Income Fund_
 > - **NAV 15.5957 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

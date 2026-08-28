@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 95.4
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "น.ส. มณีวรรณ อรุณธีรวุฒิ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/medium, credit/high-yield, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/medium, credit/high-yield, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ASP-FRF
@@ -47,7 +47,7 @@ _Asset Plus Fixed RMF_
 > - **NAV 16.7747 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.37%/ปี
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.37%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

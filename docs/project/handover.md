@@ -1,12 +1,16 @@
 ---
 title: Handover
 tags: [project, handover, summary]
-updated: 2026-08-27
+updated: 2026-08-28
 ---
 
 # 🤝 Handover — สรุปสิ่งที่ทำเสร็จและวิธีรับช่วงต่อ
 
-**ที่เกี่ยวข้อง:** [[tasks|Tasks]] · [[issues|Issues]] · [[outstanding|Outstanding]] · [[roadmap|Roadmap]] · [[data-quality|Data Quality]]
+**ที่เกี่ยวข้อง:** [[STATUS|STATUS]] · [[tasks|Tasks]] · [[issues|Issues]] · [[outstanding|Outstanding]] · [[roadmap|Roadmap]] · [[data-quality|Data Quality]]
+
+> [!IMPORTANT] เอกสารนี้คือ **ภาพรวมโปรเจกต์** (ส่งมอบอะไร · ต้องรู้อะไรก่อนแก้โค้ด)
+> ส่วน **คิวงานและ handoff ของรอบล่าสุด** อยู่ที่ [[STATUS#🤝 Handoff — สำหรับ Session ถัดไป (2026-08-28)|STATUS §Handoff]]
+> — ถ้าสองที่ไม่ตรงกัน ให้ยึด STATUS
 
 ---
 
@@ -50,7 +54,7 @@ data-quality, validation-report, security-notes
 | แถวข้อมูลดิบที่ดึงมา | 743,690 |
 | Factsheet PDF | 2,119 (แกะข้อความไทยได้ 100%) |
 | กองที่แกะตารางจาก PDF ได้ | 1,763 |
-| โน้ตใน vault | 4,286 |
+| โน้ตใน vault | 8,079 |
 | หน้าเอกสาร | 44 |
 
 **ผลตรวจสอบ:** ลิงก์เสีย **0** · โน้ตกำพร้า **0** · ชื่อไฟล์ซ้ำ **0** · frontmatter ขาด **0**
@@ -87,32 +91,44 @@ rm data/raw/*.done && python run_all.py
 
 ---
 
-## รอบพัฒนา 2026-08-27 — สถานะปัจจุบัน
+## รอบพัฒนา — สถานะปัจจุบัน (2026-08-28)
 
-กำลังทำ 3 ก้อน (สถานะรายตัวที่ [[tasks|Phase 9]]):
+### รอบ 2026-08-27 — ปิดครบทุกก้อน
 
 | ก้อน | สถานะ |
 |---|---|
-| 1. Semantic validator (`validate_semantics.py`) | ✅ เสร็จ — S1=0 (แก้ Mapletree แล้ว) · wired ใน pipeline |
-| 2. Dataview + เทียบค่าธรรมเนียม ([[roadmap|R-01]]/[[roadmap|R-02]]) | ✅ เสร็จ — frontmatter + [[../../vault/Indexes/screener\|screener]] · compare-fees มีอยู่แล้ว |
-| 3. Changelog ต่อเนื่อง ([[roadmap|R-07]]) | ✅ โค้ด/wiring/ทดสอบเสร็จ · ⏳ เหลือผู้ใช้รัน `schtasks` 1 บรรทัด (T-100) |
-| 4. Git + push GitHub ([[roadmap|R-03]]) | ✅ push แล้ว — `github.com/RungthumLee/fund-markdown` branch `main` (8,114 ไฟล์) |
+| 1. Semantic validator (`validate_semantics.py`) | ✅ S1=0 · wired ใน pipeline |
+| 2. Dataview + เทียบค่าธรรมเนียม ([[roadmap|R-01]]/[[roadmap|R-02]]) | ✅ frontmatter + [[../../vault/Indexes/screener\|screener]] + `compare-fees` |
+| 3. Changelog ต่อเนื่อง ([[roadmap|R-07]]) | ✅ โค้ด/wiring/ทดสอบ · ⏳ เหลือผู้ใช้รัน `schtasks` 1 บรรทัด ([[tasks|T-100]]) |
+| 4. Git + push GitHub ([[roadmap|R-03]]) | ✅ `github.com/RungthumLee/fund-markdown` branch `main` |
+
+### รอบ 2026-08-28 — ชั้นสังเคราะห์ (P1–P5) + probe
+
+- **P1 factor exposure** — section "⚖️ ปัจจัยที่กระทบ" สองด้าน ไม่ทำนาย (`factor_map.json` + `factors.py`)
+- **P2 skills 6 ตัว** — `.claude/skills/` : fund-explainer · fund-finder · portfolio-overlap · fee-audit · holding-explorer · factor-analysis
+- **P3 NAV history** ([[roadmap|R-05]]) — ~120 วัน + สถิติที่คำนวณเอง
+- **P4 สรุปภาษาคน** — เพิ่มกลุ่มอุตสาหกรรม + ประเทศตลาด
+- **P5 correlation วัดจริง** — A-RING↔ทอง **+0.89** · 1AMSET50↔SET **+0.93** (1,704 กอง)
+- **Probe ต้นทาง** — `scripts/probe_history.py`: NAV ย้อนถึงวันจัดตั้ง (K-FIXED 32 ปี) ·
+  portfolio เพดาน 12 ไตรมาส · ไม่เจอ 429 ถึง 73 req/s → [[outstanding|OUT-002]] / [[outstanding|OUT-004]]
+- **OUT-001 แก้แล้ว** — RMF ตรวจจากชื่อจดทะเบียน "เพื่อการเลี้ยงชีพ" แทนชื่อย่อ (341 → 377 กอง)
 
 > [!NOTE] ความปลอดภัยตอน push: ยืนยันแล้วว่า `.env.local` + ทั้ง `data/` ถูก `.gitignore`
 > และสแกน 8 ค่าลับไม่หลุดในไฟล์ใด — ดู [[security-notes|Security Notes]]
 
-**ผลตรวจ semantic (หลังแก้):** 🔴 S1 = **0** (แก้ Mapletree/MINT แล้ว — [[issues|ISS-035]]) ·
+**ผลตรวจ semantic:** 🔴 S1 = **0** ([[issues|ISS-035]] แก้แล้ว) ·
 🟢 S8 = 5 กอง ISIN ต้นทางกรอกผิด ([[issues|ISS-035b]]) · 🟡 S2 = 2 benchmark ต้นทางผิด ([[issues|ISS-036]]) ·
 🟢 S5/S6/S7 = ช่องว่างข้อมูลต้นทาง · รายงานเต็มที่ [[semantic-report|Semantic Report]]
 
 ## สิ่งที่ควรทำต่อ (เรียงตามความคุ้มค่า)
 
-1. **[[tasks|T-095]]** แก้ต้นเหตุ Mapletree/MINT ใน `normalize_entities.py` → validator เขียว
-2. **[[roadmap|R-01]]** เพิ่ม Dataview query ในโน้ต index — frontmatter พร้อมแล้ว ใช้แรงน้อยมาก
-3. **[[roadmap|R-02]]** โน้ตเปรียบเทียบค่าธรรมเนียมรายหมวด — ตอบคำถามที่คนถามบ่อยที่สุด
-4. **[[outstanding|OUT-001]]** ปรับวิธีตรวจจับ RMF ให้แม่นกว่าการดูชื่อกอง
+1. **Backfill NAV → 5 ปี** `min(5 ปี, ตั้งแต่จัดตั้ง)` — probe ยืนยันแล้วว่าต้นทางให้ได้
+   (~23,000 call ≈ 50 นาที) → ปลุก correlation ให้เชื่อถือได้ + rolling + crisis + fund-to-fund
+2. **Backfill holding → 12 ไตรมาส** — เพดานต้นทางพอดี → tag ที่ทน + style drift + attribution
+3. **[[tasks|T-100]]** ลงทะเบียน `schtasks` (ผู้ใช้รันเอง 1 บรรทัด) ให้ changelog เดินจริง
+4. **ต่อยอด descriptive:** rolling correlation · return attribution · consistency/drift score
 
----
+รายละเอียดและเหตุผลเชิงสถิติที่ [[ideas|ideas §5]]
 
 ## สิ่งที่ต้องรู้ก่อนแก้โค้ด
 
@@ -177,9 +193,9 @@ rm data/raw/*.done && python run_all.py
 ทั้งหมดบันทึกไว้ที่ [[data-quality|Data Quality §5]] — สรุปที่สำคัญที่สุด:
 
 - ข้อมูลเป็นภาพ ณ **งวด factsheet ล่าสุด** ไม่ใช่เรียลไทม์
-- NAV ย้อนหลังเก็บแค่ 120 วัน
+- NAV ย้อนหลังเก็บแค่ 120 วัน (เพดานที่**เราตั้งเอง** — ต้นทางให้ถึงวันจัดตั้ง ดู [[outstanding|OUT-004]])
 - พอร์ตรายตัวแสดง **ครบทุกรายการ** ของงวดล่าสุด แต่เป็นข้อมูล**รายไตรมาส** จึงล้าหลัง NAV
-- RMF ตรวจจับจากชื่อกองทุน (heuristic)
+- RMF ตรวจจับจากชื่อ**จดทะเบียน** ("เพื่อการเลี้ยงชีพ") เพราะ API ไม่มี flag — [[outstanding|OUT-001]]
 - ข้อความยาวถูกตัดที่ 4,000 อักขระ
 
 > [!NOTE]

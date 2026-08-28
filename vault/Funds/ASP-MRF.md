@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 95.3
 fund_managers: ["นาย พีรพัฒน์ จิรารยะพงศ์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ASP-MRF
@@ -47,7 +47,7 @@ _Asset Plus Mixed RMF_
 > - **NAV 30.9475 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.29%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.29%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

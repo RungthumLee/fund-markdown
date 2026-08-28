@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 28.0
 master_fund: "DWS Invest CROCI Sectors Plus FCH (P)"
 master_isin: "LU1701862812"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/consumer, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/consumer, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # SCBRMPGF
@@ -48,7 +48,7 @@ _SCB Platinum Global RMF_
 > - **NAV 12.6855 (2026-08-24)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · เน้นกลุ่มสินค้า/บริการผู้บริโภค · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · เน้นกลุ่มสินค้า/บริการผู้บริโภค · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

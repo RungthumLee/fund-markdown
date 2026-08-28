@@ -37,6 +37,7 @@ updated: 2026-08-28
 - [x] **P3 · R-05 NAV time-series** ✅ — surface NAV 120 วัน ในโน้ตกอง (ประตูสู่ correlation)
 - [x] **P5 · Correlation (fund↔factor)** ✅ — factor series (Yahoo) + realized correlation + block ในโน้ต (descriptive+caveat)
 - [x] **P4** ✅ เสริมสรุปภาษาคนให้มี **ประเทศ + กลุ่มอุตสาหกรรม** (A-RING: เน้นกลุ่มวัสดุ/โลหะ · แคนาดา)
+- [x] **P6 · Probe ต้นทาง + เก็บงานค้าง** ✅ — `probe_history.py` (NAV/portfolio reach + rate limit) · OUT-001 RMF · sync เอกสาร
 
 ## 🤝 Handoff — สำหรับ Session ถัดไป (2026-08-28)
 
@@ -47,10 +48,16 @@ updated: 2026-08-28
 - **Skills 6 ตัว** ที่ `.claude/skills/` · **ออกแบบ+กรอบ** ที่ [[ideas]] (§0 = เส้นห้ามข้าม)
 
 ### งานถัดไป (เรียงตามคุ้มค่า) — ดูรายละเอียด [[ideas#5]]
-1. **ทดสอบ SEC API reach** — 1–2 กอง ดูว่า NAV/holding ย้อนหลังได้ไกลแค่ไหน + rate limit (ประตูของทุกข้อล่าง)
-2. **Backfill NAV → 5 ปี** (`min(5y, ตั้งแต่จัดตั้ง)`) ใน `harvest.py` → ปลุก correlation ให้เชื่อถือได้ + rolling + crisis + fund-to-fund
-3. **Backfill holding → 3 ปี** (12 ไตรมาส) → tag ที่ทน + style drift + return attribution
-4. **ต่อยอด (descriptive):** rolling correlation · return attribution · consistency/drift score · factor-live skill (FRED ค่าปัจจุบัน + caveat)
+> ข้อ 1 เดิม (**ทดสอบ SEC API reach**) ✅ **ทำแล้ว 2026-08-28** — ผลอยู่ที่ [[ideas#5.5|ideas §5.5]] /
+> [[outstanding|OUT-002]] / [[outstanding|OUT-004]] · เครื่องมือ: `python scripts/probe_history.py`
+
+1. **Backfill NAV → 5 ปี** (`min(5y, ตั้งแต่จัดตั้ง)`) — ตั้ง `MAX_NAV_YEARS=5` ใน `harvest.py`
+   แล้ว `--force nav` · ต้นทางให้ถึงวันจัดตั้งจริง (K-FIXED 32 ปี) · ~23,000 call ≈ 50 นาที
+   → ปลุก correlation ให้เชื่อถือได้ + rolling + crisis + fund-to-fund
+2. **Backfill holding → 12 ไตรมาส** (`PORT_QUARTERS_BACK=12`) — **เพดานต้นทางพอดี** (งวดแรกสุด 202309)
+   → tag ที่ทน + style drift + return attribution
+3. **[[tasks|T-100]]** ลงทะเบียน `schtasks` — ผู้ใช้รันเอง 1 บรรทัด (agent ถูก policy บล็อก)
+4. **ต่อยอด (descriptive):** rolling correlation · return attribution · consistency/drift score · factor-live skill (FRED + caveat)
 
 ### วิธีทำงาน (สำคัญ)
 - **ทุกอย่างอยู่ใต้กรอบ [[ideas#0. กรอบ|§0]]:** descriptive · สองด้าน · ไม่ทำนาย · ไม่มี `estimated_change`/`confidence` · ทุกตัวเลขมีที่มา+ช่วงเวลา · ไม่มีข้อมูล=บอกไม่มี
@@ -107,6 +114,17 @@ _บันทึกผลโหวต 3 agent ต่อทางแยกที�
 ## บันทึกรอบ (Round log)
 
 _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · ไฟล์ที่แตะ_
+
+- **P6 · Probe ต้นทาง + เก็บงานค้าง** — V ผ่าน (broken=0 · orphan=0 · S1=0 · `#tax/rmf` 341→**377** กอง) ·
+  `probe_history.py` วัดจริง 463 call: **NAV ย้อนถึงวันจัดตั้ง** (K-FIXED 1995–2026 = 32 ปี · ปีก่อนจัดตั้ง 0 แถว) ·
+  **portfolio เพดาน 202309 = 12 ไตรมาส** (กอง 32 ปี/24 ปี ได้งวดแรกเท่ากัน → retention ของ API ไม่ใช่อายุกอง) ·
+  **ไม่เจอ 429 เลย** ถึง 73 req/s (8 threads) — ยิงเรียงถูกจำกัดด้วย latency ~80 ms ·
+  **OUT-001 แก้:** RMF อ่านจากชื่อจดทะเบียน "เพื่อการเลี้ยงชีพ" แทนชื่อย่อ (ยืนยัน `fund_class_tax_incentive_type`
+  มีแค่ SSF 398 / Thai ESG 44 ไม่มี RMF) → superset ของวิธีเดิม เพิ่ม M-VALUE/SCBRMS&P500/SCB2576 ·
+  **[[issues|ISS-038]] แก้:** ตารางปัจจัยสลับลำดับเองทุกรอบ (set iteration + hash seed) → `sorted()` + tiebreaker
+  ทำให้ regenerate ได้ผลเท่าเดิมทุกครั้ง (พิสูจน์ด้วยการรัน 2 ครั้งติด) ·
+  sync `handover.md` ให้ชี้ STATUS เป็นแหล่งจริง · ไฟล์: `probe_history.py`(ใหม่) `tagging.py` `factors.py`
+  `gen_data_quality.py` `handover.md` `outstanding.md` `decisions.md` `ideas.md` `issues.md` `tasks.md` `STATUS.md`
 
 - **P5 · Correlation fund↔factor** — V ผ่าน (broken=0 · **A-RING +0.89 ทองคำ / −0.60 USD** · 1AMSET50 **+0.93 SET** — วัดจริง) · `fetch_factor_series.py` (7 series Yahoo) + `correlations.py` (Pearson, lag 0/1 กัน timezone, |r|≥0.4, ≥30 obs) → 1,704 กอง · block "📊 เคลื่อนไหวสัมพันธ์กับอะไร" + caveat แรง · wired · **ปิด loop factor-measured** · ไฟล์: `fetch_factor_series.py` `correlations.py` `gen_vault.py` `run_all.py` `daily.py`
 

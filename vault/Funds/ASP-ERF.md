@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 92.5
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ASP-ERF
@@ -47,7 +47,7 @@ _Asset Plus Equity RMF_
 > - **NAV 37.2734 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 23 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 23 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

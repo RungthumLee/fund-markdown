@@ -30,8 +30,8 @@ _ประเภทสินทรัพย์หลักที่กองล�
 
 _กองนี้เหมาะกับโจทย์แบบไหน_
 
-- #use/accumulate · **1195**
-- #use/tax-saving · **664**
+- #use/accumulate · **1160**
+- #use/tax-saving · **700**
 - #use/income · **308**
 - #use/park-cash · **48**
 
@@ -138,7 +138,7 @@ _ได้เงินคืนกี่วันทำการหลังข�
 
 _RMF / SSF / Thai ESG_
 
-- #tax/rmf · **341**
+- #tax/rmf · **377**
 - #tax/ssf · **299**
 - #tax/thai-esg · **24**
 

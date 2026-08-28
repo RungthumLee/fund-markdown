@@ -82,6 +82,24 @@ def _text(f: dict) -> str:
                      "policy")).lower()
 
 
+def _is_rmf(f: dict, name: str) -> bool:
+    """RMF has no flag in the source: `fund_class_tax_incentive_type` only ever
+    carries SSF and Thai ESG (verified across every profile row). The registered
+    Thai name does carry it — "เพื่อการเลี้ยงชีพ" is the statutory designation an
+    RMF must use — so the name, not the abbreviation, is the signal.
+
+    Measured on the full profile dump: the Thai phrase plus the English wording
+    covers 379 projects and is a strict superset of the 341 the old abbreviation
+    match found, adding real RMFs it missed (SCBRMS&P500, M-VALUE, SCB2576)
+    whose abbreviation never spells "RMF". See OUT-001.
+    """
+    if "เพื่อการเลี้ยงชีพ" in name:
+        return True
+    if re.search(r"rmf|retirement", name):
+        return True
+    return "RMF" in str(f.get("abbr") or "").upper()
+
+
 def _asset_tags(f: dict, text: str) -> list[str]:
     policy = f.get("policy") or ""
     base = _POLICY_ASSET.get(policy, "other")
@@ -328,7 +346,7 @@ def investor_tags(f: dict) -> list[str]:
         tags.append("tax/ssf")
     if any("ESG" in t for t in taxes):
         tags += ["tax/thai-esg", "compliance/sri-fund"]
-    if "RMF" in str(f.get("abbr") or "").upper():
+    if _is_rmf(f, name):
         tags.append("tax/rmf")
     if re.search(r"ชารีอะห์|อิสลาม|sharia|islamic", name):
         tags.append("compliance/sharia")

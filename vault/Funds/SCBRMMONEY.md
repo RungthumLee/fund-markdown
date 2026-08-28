@@ -26,7 +26,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 100.0
 master_fund: "กองทุนเปิดไทยพาณิชย์ ตราสารตลาดเงิน เพื่อการเลี้ยงชีพ"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t2, struct/feeder, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t2, struct/feeder, style/active, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # SCBRMMONEY
@@ -46,7 +46,7 @@ _SCB Money Market RMF_
 > - **NAV 10.0689 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.30%/ปี
+> กองตลาดเงิน · ความเสี่ยงต่ำมาก (1/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.30%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

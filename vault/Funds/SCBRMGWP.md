@@ -26,7 +26,7 @@ top10_pct_nav: 102.0
 market_countries: ["สหรัฐฯ", "ญี่ปุ่น"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 86.8
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # SCBRMGWP
@@ -46,7 +46,7 @@ _SCB GLOBAL WEALTH PLUS RMF_
 > - **NAV 14.6716 (2026-08-24)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 
