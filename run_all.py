@@ -29,6 +29,8 @@ STAGES = [
      "ดึงข้อมูลดิบทั้ง 21 dataset จาก SEC API"),
     ("transform",  [PY, "scripts/transform.py"],
      "รวม/กรอง/ทำความสะอาด -> data/processed/"),
+    ("navhist",    [PY, "scripts/nav_history.py"],
+     "สร้าง NAV ย้อนหลัง ~120 วัน + สถิติ (จาก data/raw/nav.jsonl)"),
     ("factsheets", [PY, "scripts/fetch_factsheets.py"],
      "ดาวน์โหลด factsheet PDF"),
     ("parse",      [PY, "scripts/parse_factsheets.py"],

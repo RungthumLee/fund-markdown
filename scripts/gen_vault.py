@@ -33,6 +33,7 @@ ENTITY_LINKS: dict[str, str] = {}
 
 # proj_id -> resolved look-through record, from lookthrough.json
 LOOKTHROUGH: dict[str, dict] = {}
+NAV_HISTORY: dict[str, dict] = {}   # proj_id -> ~120d NAV series + stats (R-05)
 VAULT = ROOT / "vault"
 
 RETAIL_TYPE = {
@@ -689,6 +690,24 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
         a("_ไม่มีข้อมูล NAV ในช่วง 120 วันที่ผ่านมา_")
     a("")
 
+    # NAV history ~120d (R-05): self-computed descriptive stats + sparkline.
+    # No-op if nav_history.json has not been built. Backward-looking only.
+    _hist = NAV_HISTORY.get(f.get("proj_id") or "")
+    if _hist:
+        a(f"### NAV ย้อนหลัง ~120 วัน (ชนิด `{_hist['class']}`)")
+        a("")
+        a(f"`{_hist['sparkline']}`")
+        a("")
+        o.extend(table(["ช่วง", "จำนวนวัน", "เปลี่ยนแปลงช่วงนี้", "ความผันผวน (ต่อปี)",
+                        "สูงสุด", "ต่ำสุด"],
+                       [[f"{_hist['from']} → {_hist['to']}", _hist["n"],
+                         fmt(_hist.get("window_return_pct"), digits=2) + "%",
+                         fmt(_hist.get("volatility_annualized_pct"), digits=1) + "%",
+                         fmt(_hist.get("high")), fmt(_hist.get("low"))]]))
+        a("> ตัวเลข**คำนวณเองจาก NAV รายวัน** (ที่มา: `data/raw/nav.jsonl`) · "
+          "เป็นข้อมูล**ย้อนหลัง** ไม่ใช่การพยากรณ์ · ผลตอบแทน/ผันผวนอดีตไม่รับประกันอนาคต")
+        a("")
+
     # ---- 9. dividend
     a("## 9. เงินปันผล")
     a("")
@@ -987,6 +1006,11 @@ def main() -> None:
         LOOKTHROUGH.update(
             json.loads(lt_path.read_text(encoding="utf-8")).get("funds", {}))
         LOG.info("look-through resolved for %d feeder funds", len(LOOKTHROUGH))
+
+    nav_hist_path = PROC / "nav_history.json"
+    if nav_hist_path.exists():
+        NAV_HISTORY.update(json.loads(nav_hist_path.read_text(encoding="utf-8")))
+        LOG.info("NAV history available for %d funds", len(NAV_HISTORY))
 
     ent_path = PROC / "entity_links.json"
     if ent_path.exists():
