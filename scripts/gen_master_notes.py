@@ -19,6 +19,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import fees  # noqa: E402
 from sec_client import ROOT, get_logger  # noqa: E402
 
 LOG = get_logger("gen_master_notes")
@@ -103,7 +104,14 @@ def epoch_date(value) -> str:
         return "-"
 
 
-def render(rec: dict, entry: dict) -> str:
+def _ocf_num(ocf) -> float | None:
+    """Parse an OCF string like '1.95%' into a number for the fee-stacking sum."""
+    m = re.search(r"(\d+(?:\.\d+)?)", str(ocf or ""))
+    return float(m.group(1)) if m else None
+
+
+def render(rec: dict, entry: dict, ter_by_pid: dict[str, float] | None = None) -> str:
+    ter_by_pid = ter_by_pid or {}
     y = rec.get("yahoo") or {}
     ft = rec.get("ft") or {}
     name = y.get("longName") or ft.get("name") or rec["display_name"]
@@ -283,11 +291,31 @@ def render(rec: dict, entry: dict) -> str:
     a("")
     feeders = sorted(entry["feeders"],
                      key=lambda x: -(x.get("pct_nav") or 0))
-    o.extend(table(["กองทุนไทย", "บลจ.", "นโยบาย", "เสี่ยง", "% NAV ที่ถือกองนี้"],
+    # fee stacking: the Thai fund's own TER PLUS this master's OCF is the true
+    # all-in cost, because the master fee is charged inside the master's NAV on
+    # top of the Thai fee. See the double-fee concept note.
+    master_ocf = _ocf_num(ocf)
+
+    def fee_cells(x: dict) -> list[str]:
+        ter = ter_by_pid.get(x.get("proj_id"))
+        ter_s = f"{ter:.2f}" if ter is not None else "-"
+        if ter is not None and master_ocf is not None:
+            combined = f"**≈ {ter + master_ocf:.2f}**"
+        else:
+            combined = "-"
+        return [ter_s, combined]
+
+    o.extend(table(["กองทุนไทย", "บลจ.", "เสี่ยง", "% NAV ที่ถือกองนี้",
+                    "TER ไทย (%)", "รวม 2 ชั้น ≈ (%)"],
                    [[f"[[{safe_name(x.get('abbr'))}]]",
                      f"[[{safe_name(x.get('amc_th') or 'ไม่ระบุ')}]]",
-                     x.get("policy"), x.get("risk_spectrum") or "-",
-                     pct(x.get("pct_nav"))] for x in feeders]))
+                     x.get("risk_spectrum") or "-",
+                     pct(x.get("pct_nav")), *fee_cells(x)] for x in feeders]))
+    if master_ocf is not None:
+        a(f"> **รวม 2 ชั้น** = TER ของกองไทย + OCF ของกองหลัก (**{master_ocf:.2f}%**) "
+          "— ค่าธรรมเนียมที่แท้จริงที่ผู้ลงทุนไทยแบกทั้งหมด · "
+          "ดู [[../Concepts/ค่าธรรมเนียมสองชั้นของ Feeder Fund|ค่าธรรมเนียมสองชั้น]]")
+        a("")
     if rec["feeder_count"] > 1:
         a("> [!NOTE]")
         a(f"> กองไทยทั้ง {rec['feeder_count']} กองนี้ลงทุนในกองทุนหลัก**เดียวกัน** "
@@ -322,6 +350,9 @@ def render(rec: dict, entry: dict) -> str:
 
 def main() -> None:
     masters = json.loads((PROC / "master_funds.json").read_text(encoding="utf-8"))
+    # the retail TER of each Thai fund, for the fee-stacking column
+    funds = json.loads((PROC / "funds.json").read_text(encoding="utf-8"))
+    ter_by_pid = {pid: fees.retail_ter(f) for pid, f in funds.items()}
     OUT.mkdir(parents=True, exist_ok=True)
     IDX.mkdir(parents=True, exist_ok=True)
     # the generator owns this folder outright: stale notes from an earlier run
@@ -358,7 +389,8 @@ def main() -> None:
             note = safe_name(f"{name} ({rec.get('isin') or key[-6:]})")
         used[note] = key
 
-        (OUT / f"{note}.md").write_text(render(rec, entry), encoding="utf-8")
+        (OUT / f"{note}.md").write_text(
+            render(rec, entry, ter_by_pid), encoding="utf-8")
         written += 1
         if rec.get("has_data"):
             with_data += 1

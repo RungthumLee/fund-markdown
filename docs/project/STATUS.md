@@ -63,6 +63,10 @@ _บันทึกผลโหวต 3 agent ต่อทางแยกที�
 
 _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · ไฟล์ที่แตะ_
 
+- **B2-R1 · Fee stacking ในโน้ตกองหลัก** — V ผ่าน (broken=0 · LHHEALTH 2.16%+1.14%=≈3.30% · KT-US 1.54%+0.92%=≈2.46% ·
+  กองที่ไม่มี TER → "-" ไม่ปลอม) · เพิ่มคอลัมน์ TER ไทย + รวม 2 ชั้น (TER ไทย + OCF กองหลัก) ในตารางกองไทยที่ feed ·
+  ไม่ต้องโหวต · ไฟล์: `gen_master_notes.py` (import fees + ter_by_pid + fee_cells)
+
 - **R1 · A1 ประเทศจากหลักทรัพย์** — V ผ่าน (broken=0 · orphan=0 · ISIN/symbol→ประเทศถูกทุกตัวที่สุ่ม) ·
   ตัดสินใจ DEC-L01 (โหวต 3/3 dual field) · 1750/2121 กองมีประเทศ พร้อม covered% เปิดเผยส่วนที่ทะลุไม่ได้ ·
   ไฟล์: `geography.py`(ใหม่) · `gen_vault.py` (§7 + frontmatter + by-country index + home) · `STATUS.md` · `tasks.md`
