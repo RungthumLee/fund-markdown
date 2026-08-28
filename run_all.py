@@ -31,6 +31,8 @@ STAGES = [
      "รวม/กรอง/ทำความสะอาด -> data/processed/"),
     ("navhist",    [PY, "scripts/nav_history.py"],
      "สร้าง NAV ย้อนหลังถึง 5 ปี + สถิติหลายช่วง (จาก data/raw/nav.jsonl)"),
+    ("navcheck",   [PY, "scripts/check_nav_continuity.py"],
+     "ตรวจความต่อเนื่องของ NAV รายชนิด + จับการเปลี่ยนชื่อจากป้าย class"),
     ("factorseries", [PY, "scripts/fetch_factor_series.py"],
      "ดึง series ปัจจัย (ทอง/น้ำมัน/ดอกเบี้ย/USD/SET) จาก Yahoo"),
     ("correlations", [PY, "scripts/correlations.py"],

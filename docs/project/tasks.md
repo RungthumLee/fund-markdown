@@ -184,6 +184,8 @@ tag ภาษานักลงทุน) เป็น markdown ล้วน ใ
   - `harvest.py` ดึงแบบแบ่ง slice + `.done` ต่อ slice → รันต่อได้ถ้าหลุด · `--workers` มีแต่ไม่แนะนำ (429)
   - correlation median n **53 → 1,050** · กองที่มีสถิติ 5 ปี 1,442 กอง
 - [x] **T-108** [[issues|ISS-039]] NAV ในสรุปย่อเป็นของ class ที่เลิกรายงาน → ใช้ `fund_latest_nav()`
+- [x] **T-110** ตอบคำถามความต่อเนื่องของ NAV ([[issues|ISS-041]]/[[issues|ISS-042]]) —
+  `check_nav_continuity.py` + `stitch_lineage` + `MAX_GAP_DAYS` + โน้ตแนวคิด + รายงาน [[nav-continuity]]
 - [x] **T-109** [[issues|ISS-040]] รัน `transform` แล้วต้องรัน `run_all.py --from masters` ไม่งั้นลิงก์หลักทรัพย์หาย
 
 ---

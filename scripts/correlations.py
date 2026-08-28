@@ -25,6 +25,7 @@ from __future__ import annotations
 import json
 import math
 import sys
+from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -38,13 +39,25 @@ MIN_OBS = 30
 MIN_ABS = 0.40
 TOP_N = 4
 
+# A change measured across a reporting hole is not a daily change. The SEC NAV
+# feed is missing ~2 weeks market-wide in Nov 2024, individual funds go quiet
+# for months, and Yahoo has its own holidays. Pairing a 15-day move against one
+# factor day is not a like-for-like observation, so it is dropped rather than
+# correlated. (ISS-041)
+MAX_GAP_DAYS = 7
+
 
 def _returns(points: list, kind: str) -> dict[str, float]:
-    """date -> daily change. Price: log-return; yield: level difference."""
+    """date -> daily change. Price: log-return; yield: level difference.
+
+    Pairs spanning more than MAX_GAP_DAYS are skipped: the level either side is
+    real, the "per day" reading of the step between them is not."""
     pts = sorted((d, v) for d, v in points)
     out: dict[str, float] = {}
     for i in range(1, len(pts)):
         (d0, v0), (d1, v1) = pts[i - 1], pts[i]
+        if (date.fromisoformat(d1) - date.fromisoformat(d0)).days > MAX_GAP_DAYS:
+            continue
         if kind == "yield":
             out[d1] = v1 - v0
         elif v0 > 0 and v1 > 0:

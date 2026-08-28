@@ -719,6 +719,17 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
         a(f"### NAV ย้อนหลัง {_hist['from']} → {_hist['to']} "
           f"(ชนิด `{_hist['class']}`)")
         a("")
+        # the feed keeps no name history; an old label in the NAV stream is the
+        # only record that this fund used to be called something else (ISS-042)
+        _former = [c for c in (_hist.get("class_history") or [])
+                   if c != _hist["class"]]
+        if _former:
+            a("> [!info] ชื่อเดิมที่พบในข้อมูล NAV: "
+              + " · ".join(f"`{c}`" for c in _former))
+            a("> ต่อ series ให้แล้วเพราะ NAV เชื่อมกันพอดีตอนเปลี่ยนชื่อ "
+              "(ต้นทางไม่เก็บประวัติชื่อ) — ดู "
+              "[[../Concepts/การเปลี่ยนชื่อกองทุนกับ NAV]]")
+            a("")
         a(f"`{_hist['sparkline']}`")
         a("")
         rows = [["ทั้งช่วง", f"{_hist['from']} → {_hist['to']}", _hist["n"],

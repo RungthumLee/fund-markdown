@@ -37,6 +37,7 @@ updated: 2026-08-28
 - [x] **P3 · R-05 NAV time-series** ✅ — surface NAV 120 วัน ในโน้ตกอง (ประตูสู่ correlation)
 - [x] **P5 · Correlation (fund↔factor)** ✅ — factor series (Yahoo) + realized correlation + block ในโน้ต (descriptive+caveat)
 - [x] **P4** ✅ เสริมสรุปภาษาคนให้มี **ประเทศ + กลุ่มอุตสาหกรรม** (A-RING: เน้นกลุ่มวัสดุ/โลหะ · แคนาดา)
+- [x] **P8 · ความต่อเนื่องของ NAV + การเปลี่ยนชื่อกอง** ✅ — ต่อ series ให้ 116 กอง · กันผลตอบแทนคร่อมช่องว่าง · รายงาน [[nav-continuity|NAV Continuity]]
 - [x] **P7 · Backfill NAV 5 ปี + holding 12 ไตรมาส** ✅ — 3.3 ล้านแถว NAV · correlation median n 53 → **1,050**
 - [x] **P6 · Probe ต้นทาง + เก็บงานค้าง** ✅ — `probe_history.py` (NAV/portfolio reach + rate limit) · OUT-001 RMF · sync เอกสาร
 
@@ -117,6 +118,21 @@ _บันทึกผลโหวต 3 agent ต่อทางแยกที�
 ## บันทึกรอบ (Round log)
 
 _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · ไฟล์ที่แตะ_
+
+- **P8 · NAV ต่อเนื่องไหม + กองเปลี่ยนชื่อ** (คำถามผู้ใช้) — V ผ่าน (broken=0 · orphan=0 · S1=0) ·
+  **คำตอบ 1:** ไม่ต่อเนื่องทั้งหมด — series รายวัน **2,646/3,466 มีช่องว่าง >10 วัน** ·
+  สาเหตุใหญ่คือ **ต้นทางขาดทั้งตลาด 1–12 พ.ย. 2024** (เรียก API ตรง ๆ ได้ 21 แถวทั้งช่วง
+  เทียบกับช่วงข้างเคียงที่เต็ม) กระทบ ~1,500 series · อีก 51 series เป็นกองที่ประกาศ
+  **รายเดือน/รายสัปดาห์** ซึ่งปกติ ไม่ใช่ข้อมูลขาด · และมีกองที่หายจริงยาว ๆ เช่น B-EQUITY 425 วัน ·
+  **คำตอบ 2:** ต้นทาง**ไม่เก็บประวัติชื่อ** (`profiles` มีชื่อเดียวต่อโครงการ ครบ 4,892 แถว = 0 กรณี)
+  ร่องรอยเดียวคือ `fund_class_name` ในชุด NAV → พบการส่งไม้ **358 คู่** (ASP-POWER→ASP-NCLR ·
+  ASP-BRIC→ASP-BIC · ASP-LTF→ASP-THDEQ) **NAV ต่อเนื่องจริง แต่ป้ายเปลี่ยน** ·
+  **แก้:** [[issues|ISS-041]] กันคำนวณผลตอบแทนคร่อมช่องว่าง (`MAX_GAP_DAYS=7`) ·
+  [[issues|ISS-042]] `stitch_lineage` ต่อป้ายเดิม 3 เงื่อนไข (ไม่เคยรายงานวันเดียวกัน · ≤7 วัน · NAV ≤5%)
+  → ต่อให้ **116 กอง** (ASP-NCLR 841 → 1,218 วัน) · เงื่อนไข "ไม่เคยรายงานวันเดียวกัน" คือตัวกัน
+  ไม่ให้ 1AMSET50-RA/-RU (ต่างกัน <1%) ถูกต่อผิด ·
+  ไฟล์: `nav_history.py` `correlations.py` `gen_vault.py` `check_nav_continuity.py`(ใหม่) `run_all.py`
+  `vault/Concepts/การเปลี่ยนชื่อกองทุนกับ NAV.md`(ใหม่) `gen_data_quality.py`
 
 - **P7 · Backfill ข้อมูลย้อนหลัง (T-106)** — V ผ่าน (broken=0 · orphan=0 · S1=0) ·
   `harvest.py` `NAV_YEARS=5` + `PORT_QUARTERS_BACK=12` และเปลี่ยนเป็น **ดึงแบบแบ่ง slice**
