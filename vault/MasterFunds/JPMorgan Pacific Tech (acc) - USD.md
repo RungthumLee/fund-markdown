@@ -60,18 +60,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 6.04% |
-| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 4.12% |
-| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 3.89% |
-| 4 | [[../Entities/Nintendo Co Ltd\|Nintendo Co Ltd]] | `7974.T` | ญี่ปุ่น | 3.50% |
-| 5 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 3.27% |
-| 6 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | 3.02% |
-| 7 | [[../Entities/NetEase Inc Ordinary Shares\|NetEase Inc Ordinary Shares]] | `9999.HK` | ฮ่องกง | 2.98% |
-| 8 | [[../Entities/Nan Ya Plastics Corp\|Nan Ya Plastics Corp]] | `1303.TW` | ไต้หวัน | 2.61% |
-| 9 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | 2.45% |
-| 10 | [[../Entities/Singapore Telecommunications\|Singapore Telecommunications Ltd]] | `Z74.SI` | สิงคโปร์ | 2.39% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 6.04% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 4.12% |
+| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 3.89% |
+| 4 | [[../Entities/Nintendo Co Ltd\|Nintendo Co Ltd]] | `7974.T` | ญี่ปุ่น | สื่อสาร | 3.50% |
+| 5 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 3.27% |
+| 6 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | เทคโนโลยี | 3.02% |
+| 7 | [[../Entities/NetEase Inc Ordinary Shares\|NetEase Inc Ordinary Shares]] | `9999.HK` | ฮ่องกง | สื่อสาร | 2.98% |
+| 8 | [[../Entities/Nan Ya Plastics Corp\|Nan Ya Plastics Corp]] | `1303.TW` | ไต้หวัน | วัสดุ | 2.61% |
+| 9 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | - | 2.45% |
+| 10 | [[../Entities/Singapore Telecommunications\|Singapore Telecommunications Ltd]] | `Z74.SI` | สิงคโปร์ | สื่อสาร | 2.39% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

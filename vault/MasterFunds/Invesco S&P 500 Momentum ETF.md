@@ -82,18 +82,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 9.51% |
-| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.41% |
-| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 6.91% |
-| 4 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.71% |
-| 5 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 4.58% |
-| 6 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.00% |
-| 7 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 3.78% |
-| 8 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 3.41% |
-| 9 | [[../Entities/ExxonMobil Holdings Corp\|ExxonMobil Holdings Corp]] | `XOM` | สหรัฐฯ | 3.11% |
-| 10 | [[../Entities/CATERPILLAR INC\|Caterpillar Inc]] | `CAT` | สหรัฐฯ | 2.53% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | เทคโนโลยี | 9.51% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 8.41% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 6.91% |
+| 4 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 4.71% |
+| 5 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | สุขภาพ | 4.58% |
+| 6 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 4.00% |
+| 7 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | สื่อสาร | 3.78% |
+| 8 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | เทคโนโลยี | 3.41% |
+| 9 | [[../Entities/ExxonMobil Holdings Corp\|ExxonMobil Holdings Corp]] | `XOM` | สหรัฐฯ | พลังงาน | 3.11% |
+| 10 | [[../Entities/CATERPILLAR INC\|Caterpillar Inc]] | `CAT` | สหรัฐฯ | อุตสาหกรรม | 2.53% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

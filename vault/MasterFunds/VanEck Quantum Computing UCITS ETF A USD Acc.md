@@ -60,18 +60,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/IonQ Inc\|IonQ Inc]] | `IONQ` | สหรัฐฯ | 5.55% |
-| 2 | [[../Entities/D-Wave Quantum Inc\|D-Wave Quantum Inc]] | `QBTS` | สหรัฐฯ | 5.39% |
-| 3 | [[../Entities/NEC Corp\|NEC Corp]] | `6701.T` | ญี่ปุ่น | 5.14% |
-| 4 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.04% |
-| 5 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.92% |
-| 6 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | 4.90% |
-| 7 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | 4.79% |
-| 8 | [[../Entities/Fujitsu Ltd\|Fujitsu Ltd]] | `6702.T` | ญี่ปุ่น | 4.73% |
-| 9 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | 4.70% |
-| 10 | [[../Entities/Wells Fargo & Co\|Wells Fargo & Co]] | `WFC` | สหรัฐฯ | 4.55% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/IonQ Inc\|IonQ Inc]] | `IONQ` | สหรัฐฯ | เทคโนโลยี | 5.55% |
+| 2 | [[../Entities/D-Wave Quantum Inc\|D-Wave Quantum Inc]] | `QBTS` | สหรัฐฯ | เทคโนโลยี | 5.39% |
+| 3 | [[../Entities/NEC Corp\|NEC Corp]] | `6701.T` | ญี่ปุ่น | เทคโนโลยี | 5.14% |
+| 4 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 5.04% |
+| 5 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 4.92% |
+| 6 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | การเงิน | 4.90% |
+| 7 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | อุตสาหกรรม | 4.79% |
+| 8 | [[../Entities/Fujitsu Ltd\|Fujitsu Ltd]] | `6702.T` | ญี่ปุ่น | เทคโนโลยี | 4.73% |
+| 9 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | อุตสาหกรรม | 4.70% |
+| 10 | [[../Entities/Wells Fargo & Co\|Wells Fargo & Co]] | `WFC` | สหรัฐฯ | การเงิน | 4.55% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

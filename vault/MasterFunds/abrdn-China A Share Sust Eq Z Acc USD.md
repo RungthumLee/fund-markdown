@@ -81,17 +81,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 6.67% |
-| 2 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | 5.41% |
-| 3 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | 4.94% |
-| 4 | Luxshare Precision Industry Co Ltd Class A | `002475.SZ` | จีน | 4.80% |
-| 5 | [[../Entities/Wus Printed Circuit (Kunshan) Co Ltd Class A\|Wus Printed Circuit (Kunshan) Co Ltd Class A]] | `002463.SZ` | จีน | 3.94% |
-| 6 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | 3.51% |
-| 7 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | 3.01% |
-| 8 | [[../Entities/CMOC Group Ltd Class A\|CMOC Group Ltd Class A]] | `603993` | - | 2.75% |
-| 9 | [[../Entities/Sieyuan Electric Co Ltd Class A\|Sieyuan Electric Co Ltd Class A]] | `002028.SZ` | จีน | 2.68% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 6.67% |
+| 2 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | เทคโนโลยี | 5.41% |
+| 3 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | เทคโนโลยี | 4.94% |
+| 4 | Luxshare Precision Industry Co Ltd Class A | `002475.SZ` | จีน | เทคโนโลยี | 4.80% |
+| 5 | [[../Entities/Wus Printed Circuit (Kunshan) Co Ltd Class A\|Wus Printed Circuit (Kunshan) Co Ltd Class A]] | `002463.SZ` | จีน | เทคโนโลยี | 3.94% |
+| 6 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | ผู้บริโภค | 3.51% |
+| 7 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | การเงิน | 3.01% |
+| 8 | [[../Entities/CMOC Group Ltd Class A\|CMOC Group Ltd Class A]] | `603993` | - | - | 2.75% |
+| 9 | [[../Entities/Sieyuan Electric Co Ltd Class A\|Sieyuan Electric Co Ltd Class A]] | `002028.SZ` | จีน | อุตสาหกรรม | 2.68% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

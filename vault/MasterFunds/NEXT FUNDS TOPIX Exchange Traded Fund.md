@@ -71,18 +71,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | 3.97% |
-| 2 | [[../Entities/Toyota Motor Corp\|Toyota Motor Corp]] | `7203.T` | ญี่ปุ่น | 2.79% |
-| 3 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | 2.60% |
-| 4 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | 2.43% |
-| 5 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | 2.31% |
-| 6 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 1.99% |
-| 7 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | 1.94% |
-| 8 | [[../Entities/Mitsubishi Corp\|Mitsubishi Corp]] | `8058.T` | ญี่ปุ่น | 1.68% |
-| 9 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | 1.68% |
-| 10 | [[../Entities/SoftBank Group Corp\|SoftBank Group Corp]] | `9984.T` | ญี่ปุ่น | 1.61% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | การเงิน | 3.97% |
+| 2 | [[../Entities/Toyota Motor Corp\|Toyota Motor Corp]] | `7203.T` | ญี่ปุ่น | ผู้บริโภค | 2.79% |
+| 3 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | การเงิน | 2.60% |
+| 4 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | อุตสาหกรรม | 2.43% |
+| 5 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | เทคโนโลยี | 2.31% |
+| 6 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | เทคโนโลยี | 1.99% |
+| 7 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | การเงิน | 1.94% |
+| 8 | [[../Entities/Mitsubishi Corp\|Mitsubishi Corp]] | `8058.T` | ญี่ปุ่น | อุตสาหกรรม | 1.68% |
+| 9 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | สื่อสาร | 1.68% |
+| 10 | [[../Entities/SoftBank Group Corp\|SoftBank Group Corp]] | `9984.T` | ญี่ปุ่น | สื่อสาร | 1.61% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

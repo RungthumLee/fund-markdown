@@ -73,17 +73,17 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/WPM CN Equity\|Wheaton Precious Metals Corp]] | `WPM.TO` | แคนาดา | 22.37% |
-| 2 | [[../Entities/Pan American Silver Corp\|Pan American Silver Corp]] | `PAAS.TO` | แคนาดา | 12.54% |
-| 3 | [[../Entities/Coeur Mining Inc\|Coeur Mining Inc]] | `CDE` | สหรัฐฯ | 10.58% |
-| 4 | [[../Entities/Industrias Penoles SAB de CV\|Industrias Penoles SAB de CV]] | `PE&OLES.MX` | - | 5.20% |
-| 5 | [[../Entities/Hecla Mining Co\|Hecla Mining Co]] | `HL` | สหรัฐฯ | 4.63% |
-| 6 | [[../Entities/Fresnillo PLC\|Fresnillo PLC]] | `FRES.L` | สหราชอาณาจักร | 4.30% |
-| 7 | Compania De Minas Buenaventura SAA ADR | `BVN` | สหรัฐฯ | 4.18% |
-| 8 | OR Royalties Inc | `OR.TO` | แคนาดา | 4.15% |
-| 9 | SSR Mining Inc | `SSRM.TO` | แคนาดา | 3.85% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/WPM CN Equity\|Wheaton Precious Metals Corp]] | `WPM.TO` | แคนาดา | วัสดุ | 22.37% |
+| 2 | [[../Entities/Pan American Silver Corp\|Pan American Silver Corp]] | `PAAS.TO` | แคนาดา | วัสดุ | 12.54% |
+| 3 | [[../Entities/Coeur Mining Inc\|Coeur Mining Inc]] | `CDE` | สหรัฐฯ | วัสดุ | 10.58% |
+| 4 | [[../Entities/Industrias Penoles SAB de CV\|Industrias Penoles SAB de CV]] | `PE&OLES.MX` | - | วัสดุ | 5.20% |
+| 5 | [[../Entities/Hecla Mining Co\|Hecla Mining Co]] | `HL` | สหรัฐฯ | วัสดุ | 4.63% |
+| 6 | [[../Entities/Fresnillo PLC\|Fresnillo PLC]] | `FRES.L` | สหราชอาณาจักร | วัสดุ | 4.30% |
+| 7 | Compania De Minas Buenaventura SAA ADR | `BVN` | สหรัฐฯ | วัสดุ | 4.18% |
+| 8 | OR Royalties Inc | `OR.TO` | แคนาดา | วัสดุ | 4.15% |
+| 9 | SSR Mining Inc | `SSRM.TO` | แคนาดา | วัสดุ | 3.85% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

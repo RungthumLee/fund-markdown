@@ -77,18 +77,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 4.49% |
-| 2 | [[../Entities/MARVELL TECHNOLOGY GROUP LTD\|Marvell Technology Inc]] | `MRVL` | สหรัฐฯ | 4.02% |
-| 3 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | 3.62% |
-| 4 | ARM Holdings PLC ADR | `ARM` | สหรัฐฯ | 3.60% |
-| 5 | Renesas Electronics Corp | `6723.T` | ญี่ปุ่น | 3.36% |
-| 6 | [[../Entities/Quanta Services Inc\|Quanta Services Inc]] | `PWR` | สหรัฐฯ | 3.30% |
-| 7 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 3.15% |
-| 8 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | 3.10% |
-| 9 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | 2.90% |
-| 10 | [[../Entities/SSE PLC\|SSE PLC]] | `SSE.L` | สหราชอาณาจักร | 2.79% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | เทคโนโลยี | 4.49% |
+| 2 | [[../Entities/MARVELL TECHNOLOGY GROUP LTD\|Marvell Technology Inc]] | `MRVL` | สหรัฐฯ | เทคโนโลยี | 4.02% |
+| 3 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | เทคโนโลยี | 3.62% |
+| 4 | ARM Holdings PLC ADR | `ARM` | สหรัฐฯ | เทคโนโลยี | 3.60% |
+| 5 | Renesas Electronics Corp | `6723.T` | ญี่ปุ่น | เทคโนโลยี | 3.36% |
+| 6 | [[../Entities/Quanta Services Inc\|Quanta Services Inc]] | `PWR` | สหรัฐฯ | อุตสาหกรรม | 3.30% |
+| 7 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | เทคโนโลยี | 3.15% |
+| 8 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | อุตสาหกรรม | 3.10% |
+| 9 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | อุตสาหกรรม | 2.90% |
+| 10 | [[../Entities/SSE PLC\|SSE PLC]] | `SSE.L` | สหราชอาณาจักร | สาธารณูปโภค | 2.79% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

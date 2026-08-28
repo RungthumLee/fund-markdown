@@ -73,18 +73,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Corteva Inc\|Corteva Inc]] | `CTVA` | สหรัฐฯ | 8.28% |
-| 2 | [[../Entities/Archer-Daniels-Midland Co\|Archer-Daniels-Midland Co]] | `ADM` | สหรัฐฯ | 7.64% |
-| 3 | [[../Entities/CF Industries Holdings Inc\|CF Industries Holdings Inc]] | `CF` | สหรัฐฯ | 6.56% |
-| 4 | [[../Entities/Deere & Co\|Deere & Co]] | `DE` | สหรัฐฯ | 6.22% |
-| 5 | [[../Entities/Nutrien Ltd\|Nutrien Ltd]] | `NTR.TO` | แคนาดา | 6.21% |
-| 6 | [[../Entities/Bunge Global SA\|Bunge Global SA]] | `BG` | สหรัฐฯ | 4.99% |
-| 7 | [[../Entities/Tyson Foods Inc Class A\|Tyson Foods Inc Class A]] | `TSN` | สหรัฐฯ | 4.55% |
-| 8 | [[../Entities/Kubota Corp\|Kubota Corp]] | `6326.T` | ญี่ปุ่น | 4.39% |
-| 9 | [[../Entities/WH Group Ltd Shs Unitary 144A-Reg S\|WH Group Ltd Shs Unitary 144A/Reg S]] | `0288.HK` | ฮ่องกง | 2.99% |
-| 10 | [[../Entities/Saudi Arabian Mining Co\|Saudi Arabian Mining Co]] | `1211.SR` | - | 2.63% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Corteva Inc\|Corteva Inc]] | `CTVA` | สหรัฐฯ | วัสดุ | 8.28% |
+| 2 | [[../Entities/Archer-Daniels-Midland Co\|Archer-Daniels-Midland Co]] | `ADM` | สหรัฐฯ | ผู้บริโภค | 7.64% |
+| 3 | [[../Entities/CF Industries Holdings Inc\|CF Industries Holdings Inc]] | `CF` | สหรัฐฯ | วัสดุ | 6.56% |
+| 4 | [[../Entities/Deere & Co\|Deere & Co]] | `DE` | สหรัฐฯ | อุตสาหกรรม | 6.22% |
+| 5 | [[../Entities/Nutrien Ltd\|Nutrien Ltd]] | `NTR.TO` | แคนาดา | วัสดุ | 6.21% |
+| 6 | [[../Entities/Bunge Global SA\|Bunge Global SA]] | `BG` | สหรัฐฯ | ผู้บริโภค | 4.99% |
+| 7 | [[../Entities/Tyson Foods Inc Class A\|Tyson Foods Inc Class A]] | `TSN` | สหรัฐฯ | ผู้บริโภค | 4.55% |
+| 8 | [[../Entities/Kubota Corp\|Kubota Corp]] | `6326.T` | ญี่ปุ่น | อุตสาหกรรม | 4.39% |
+| 9 | [[../Entities/WH Group Ltd Shs Unitary 144A-Reg S\|WH Group Ltd Shs Unitary 144A/Reg S]] | `0288.HK` | ฮ่องกง | ผู้บริโภค | 2.99% |
+| 10 | [[../Entities/Saudi Arabian Mining Co\|Saudi Arabian Mining Co]] | `1211.SR` | - | วัสดุ | 2.63% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

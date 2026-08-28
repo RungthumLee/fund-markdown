@@ -78,18 +78,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | 4.48% |
-| 2 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | 3.90% |
-| 3 | [[../Entities/EQIX US Equity\|Equinix Inc]] | `EQIX` | สหรัฐฯ | 3.85% |
-| 4 | [[../Entities/Canadian Pacific Kansas City Ltd\|Canadian Pacific Kansas City Ltd]] | `CP.TO` | แคนาดา | 3.80% |
-| 5 | [[../Entities/Engie SA\|Engie SA]] | `ENGI.PA` | ฝรั่งเศส | 3.80% |
-| 6 | [[../Entities/Ferrovial NV\|Ferrovial NV]] | `FER.AS` | เนเธอร์แลนด์ | 3.75% |
-| 7 | [[../Entities/Cheniere Energy Inc\|Cheniere Energy Inc]] | `LNG` | สหรัฐฯ | 3.70% |
-| 8 | [[../Entities/E.ON SE\|E.ON SE]] | `EOAN.DE` | เยอรมนี | 3.70% |
-| 9 | [[../Entities/Enbridge Inc\|Enbridge Inc]] | `ENB.TO` | แคนาดา | 3.55% |
-| 10 | [[../Entities/Entergy Corp\|Entergy Corp]] | `ETR` | สหรัฐฯ | 3.34% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | สาธารณูปโภค | 4.48% |
+| 2 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | พลังงาน | 3.90% |
+| 3 | [[../Entities/EQIX US Equity\|Equinix Inc]] | `EQIX` | สหรัฐฯ | อสังหา | 3.85% |
+| 4 | [[../Entities/Canadian Pacific Kansas City Ltd\|Canadian Pacific Kansas City Ltd]] | `CP.TO` | แคนาดา | อุตสาหกรรม | 3.80% |
+| 5 | [[../Entities/Engie SA\|Engie SA]] | `ENGI.PA` | ฝรั่งเศส | สาธารณูปโภค | 3.80% |
+| 6 | [[../Entities/Ferrovial NV\|Ferrovial NV]] | `FER.AS` | เนเธอร์แลนด์ | อุตสาหกรรม | 3.75% |
+| 7 | [[../Entities/Cheniere Energy Inc\|Cheniere Energy Inc]] | `LNG` | สหรัฐฯ | พลังงาน | 3.70% |
+| 8 | [[../Entities/E.ON SE\|E.ON SE]] | `EOAN.DE` | เยอรมนี | สาธารณูปโภค | 3.70% |
+| 9 | [[../Entities/Enbridge Inc\|Enbridge Inc]] | `ENB.TO` | แคนาดา | พลังงาน | 3.55% |
+| 10 | [[../Entities/Entergy Corp\|Entergy Corp]] | `ETR` | สหรัฐฯ | สาธารณูปโภค | 3.34% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

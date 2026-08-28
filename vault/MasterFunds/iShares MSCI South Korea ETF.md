@@ -81,18 +81,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 23.19% |
-| 2 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 22.35% |
-| 3 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | 3.27% |
-| 4 | [[../Entities/Samsung Electro-Mechanics Co Ltd\|Samsung Electro-Mechanics Co Ltd]] | `009150.KQ` | เกาหลีใต้ | 2.38% |
-| 5 | [[../Entities/KB Financial Group Inc\|KB Financial Group Inc]] | `105560.KQ` | เกาหลีใต้ | 2.12% |
-| 6 | [[../Entities/Hyundai Motor Co\|Hyundai Motor Co]] | `005380.KQ` | เกาหลีใต้ | 1.73% |
-| 7 | [[../Entities/Shinhan Financial Group Co Ltd\|Shinhan Financial Group Co Ltd]] | `055550.KQ` | เกาหลีใต้ | 1.58% |
-| 8 | [[../Entities/Hana Financial Group Inc\|Hana Financial Group Inc]] | `086790.KQ` | เกาหลีใต้ | 1.36% |
-| 9 | [[../Entities/NAVER Corp\|NAVER Corp]] | `035420.KS` | เกาหลีใต้ | 1.21% |
-| 10 | [[../Entities/Kia Corp\|Kia Corp]] | `000270.KQ` | เกาหลีใต้ | 1.18% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 23.19% |
+| 2 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 22.35% |
+| 3 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | - | 3.27% |
+| 4 | [[../Entities/Samsung Electro-Mechanics Co Ltd\|Samsung Electro-Mechanics Co Ltd]] | `009150.KQ` | เกาหลีใต้ | - | 2.38% |
+| 5 | [[../Entities/KB Financial Group Inc\|KB Financial Group Inc]] | `105560.KQ` | เกาหลีใต้ | - | 2.12% |
+| 6 | [[../Entities/Hyundai Motor Co\|Hyundai Motor Co]] | `005380.KQ` | เกาหลีใต้ | - | 1.73% |
+| 7 | [[../Entities/Shinhan Financial Group Co Ltd\|Shinhan Financial Group Co Ltd]] | `055550.KQ` | เกาหลีใต้ | - | 1.58% |
+| 8 | [[../Entities/Hana Financial Group Inc\|Hana Financial Group Inc]] | `086790.KQ` | เกาหลีใต้ | - | 1.36% |
+| 9 | [[../Entities/NAVER Corp\|NAVER Corp]] | `035420.KS` | เกาหลีใต้ | สื่อสาร | 1.21% |
+| 10 | [[../Entities/Kia Corp\|Kia Corp]] | `000270.KQ` | เกาหลีใต้ | - | 1.18% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

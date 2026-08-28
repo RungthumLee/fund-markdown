@@ -65,18 +65,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | 9.32% |
-| 2 | [[../Entities/Fast Retailing Co Ltd\|Fast Retailing Co Ltd]] | `9983.T` | ญี่ปุ่น | 5.13% |
-| 3 | [[../Entities/ASICS Corp\|ASICS Corp]] | `7936.T` | ญี่ปุ่น | 4.96% |
-| 4 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | 4.69% |
-| 5 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | 4.48% |
-| 6 | [[../Entities/Mitsubishi Electric Corp\|Mitsubishi Electric Corp]] | `6503.T` | ญี่ปุ่น | 4.34% |
-| 7 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 3.51% |
-| 8 | [[../Entities/Tokio Marine Holdings Inc\|Tokio Marine Holdings Inc]] | `8766.T` | ญี่ปุ่น | 3.41% |
-| 9 | [[../Entities/iShares U.S. Medical Devices ETF (US4642888105)\|IHI Corp]] | `7013.T` | ญี่ปุ่น | 3.33% |
-| 10 | [[../Entities/Ryohin Keikaku Co Ltd\|Ryohin Keikaku Co Ltd]] | `7453.T` | ญี่ปุ่น | 3.32% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | การเงิน | 9.32% |
+| 2 | [[../Entities/Fast Retailing Co Ltd\|Fast Retailing Co Ltd]] | `9983.T` | ญี่ปุ่น | ผู้บริโภค | 5.13% |
+| 3 | [[../Entities/ASICS Corp\|ASICS Corp]] | `7936.T` | ญี่ปุ่น | ผู้บริโภค | 4.96% |
+| 4 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | สื่อสาร | 4.69% |
+| 5 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | เทคโนโลยี | 4.48% |
+| 6 | [[../Entities/Mitsubishi Electric Corp\|Mitsubishi Electric Corp]] | `6503.T` | ญี่ปุ่น | อุตสาหกรรม | 4.34% |
+| 7 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | เทคโนโลยี | 3.51% |
+| 8 | [[../Entities/Tokio Marine Holdings Inc\|Tokio Marine Holdings Inc]] | `8766.T` | ญี่ปุ่น | การเงิน | 3.41% |
+| 9 | [[../Entities/iShares U.S. Medical Devices ETF (US4642888105)\|IHI Corp]] | `7013.T` | ญี่ปุ่น | อุตสาหกรรม | 3.33% |
+| 10 | [[../Entities/Ryohin Keikaku Co Ltd\|Ryohin Keikaku Co Ltd]] | `7453.T` | ญี่ปุ่น | ผู้บริโภค | 3.32% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -70,10 +70,10 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Euro Bobl Future Sept 26\|Euro Bobl Future Sept 26]] | `FGBMU26` | - | 12.40% |
-| 2 | [[../Entities/Euro Schatz Future Sept 26\|Euro Schatz Future Sept 26]] | `FGBSU26` | - | 4.76% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Euro Bobl Future Sept 26\|Euro Bobl Future Sept 26]] | `FGBMU26` | - | - | 12.40% |
+| 2 | [[../Entities/Euro Schatz Future Sept 26\|Euro Schatz Future Sept 26]] | `FGBSU26` | - | - | 4.76% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

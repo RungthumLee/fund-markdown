@@ -76,18 +76,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Global Payments Inc\|Global Payments Inc]] | `GPN` | สหรัฐฯ | 4.55% |
-| 2 | [[../Entities/Etoro Group Ltd Ordinary Shares - Class A\|Etoro Group Ltd Ordinary Shares - Class A]] | `ETOR` | สหรัฐฯ | 4.13% |
-| 3 | [[../Entities/Capital One Financial Corp\|Capital One Financial Corp]] | `COF` | สหรัฐฯ | 4.04% |
-| 4 | [[../Entities/Sezzle Inc\|Sezzle Inc]] | `SEZL` | สหรัฐฯ | 3.95% |
-| 5 | [[../Entities/Nexi SpA\|Nexi SpA]] | `NEXI.MI` | อิตาลี | 3.73% |
-| 6 | [[../Entities/Affirm Holdings Inc Ordinary Shares - Class A\|Affirm Holdings Inc Ordinary Shares - Class A]] | `AFRM` | สหรัฐฯ | 3.72% |
-| 7 | [[../Entities/LendingClub Corp\|LendingClub Corp]] | `HAPN` | สหรัฐฯ | 3.52% |
-| 8 | [[../Entities/Block Inc Class A\|Block Inc Class A]] | `XYZ` | สหรัฐฯ | 3.22% |
-| 9 | [[../Entities/MELI US Equity\|MercadoLibre Inc]] | `MELI` | สหรัฐฯ | 3.11% |
-| 10 | [[../Entities/Kaspi.kz JSC ADS\|Kaspi.kz JSC ADS]] | `KSPI` | สหรัฐฯ | 3.10% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Global Payments Inc\|Global Payments Inc]] | `GPN` | สหรัฐฯ | อุตสาหกรรม | 4.55% |
+| 2 | [[../Entities/Etoro Group Ltd Ordinary Shares - Class A\|Etoro Group Ltd Ordinary Shares - Class A]] | `ETOR` | สหรัฐฯ | การเงิน | 4.13% |
+| 3 | [[../Entities/Capital One Financial Corp\|Capital One Financial Corp]] | `COF` | สหรัฐฯ | การเงิน | 4.04% |
+| 4 | [[../Entities/Sezzle Inc\|Sezzle Inc]] | `SEZL` | สหรัฐฯ | การเงิน | 3.95% |
+| 5 | [[../Entities/Nexi SpA\|Nexi SpA]] | `NEXI.MI` | อิตาลี | เทคโนโลยี | 3.73% |
+| 6 | [[../Entities/Affirm Holdings Inc Ordinary Shares - Class A\|Affirm Holdings Inc Ordinary Shares - Class A]] | `AFRM` | สหรัฐฯ | การเงิน | 3.72% |
+| 7 | [[../Entities/LendingClub Corp\|LendingClub Corp]] | `HAPN` | สหรัฐฯ | การเงิน | 3.52% |
+| 8 | [[../Entities/Block Inc Class A\|Block Inc Class A]] | `XYZ` | สหรัฐฯ | เทคโนโลยี | 3.22% |
+| 9 | [[../Entities/MELI US Equity\|MercadoLibre Inc]] | `MELI` | สหรัฐฯ | ผู้บริโภค | 3.11% |
+| 10 | [[../Entities/Kaspi.kz JSC ADS\|Kaspi.kz JSC ADS]] | `KSPI` | สหรัฐฯ | เทคโนโลยี | 3.10% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -77,18 +77,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 6.64% |
-| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 5.89% |
-| 3 | [[../Entities/SALESFORCE INC\|Salesforce Inc]] | `CRM` | สหรัฐฯ | 5.16% |
-| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 5.02% |
-| 5 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 4.95% |
-| 6 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.86% |
-| 7 | [[../Entities/ServiceNow Inc\|ServiceNow Inc]] | `NOW` | สหรัฐฯ | 4.09% |
-| 8 | [[../Entities/SAP SE\|SAP SE]] | `SAP.DE` | เยอรมนี | 3.79% |
-| 9 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 3.79% |
-| 10 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 3.61% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 6.64% |
+| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 5.89% |
+| 3 | [[../Entities/SALESFORCE INC\|Salesforce Inc]] | `CRM` | สหรัฐฯ | เทคโนโลยี | 5.16% |
+| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 5.02% |
+| 5 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 4.95% |
+| 6 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 4.86% |
+| 7 | [[../Entities/ServiceNow Inc\|ServiceNow Inc]] | `NOW` | สหรัฐฯ | เทคโนโลยี | 4.09% |
+| 8 | [[../Entities/SAP SE\|SAP SE]] | `SAP.DE` | เยอรมนี | เทคโนโลยี | 3.79% |
+| 9 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | เทคโนโลยี | 3.79% |
+| 10 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | เทคโนโลยี | 3.61% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

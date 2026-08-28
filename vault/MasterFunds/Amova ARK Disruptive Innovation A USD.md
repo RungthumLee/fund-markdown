@@ -80,18 +80,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 8.95% |
-| 2 | [[../Entities/Robinhood Markets Inc Class A\|Robinhood Markets Inc Class A]] | `HOOD` | สหรัฐฯ | 6.61% |
-| 3 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 5.57% |
-| 4 | [[../Entities/Tempus AI Inc Class A common stock\|Tempus AI Inc Class A common stock]] | `TEM` | สหรัฐฯ | 5.45% |
-| 5 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | 4.25% |
-| 6 | [[../Entities/10x Genomics Inc Ordinary Shares - Class A\|10x Genomics Inc Ordinary Shares - Class A]] | `TXG` | สหรัฐฯ | 3.65% |
-| 7 | [[../Entities/Roblox Corp Ordinary Shares - Class A\|Roblox Corp Ordinary Shares - Class A]] | `RBLX` | สหรัฐฯ | 3.45% |
-| 8 | [[../Entities/Coinbase Global Inc Ordinary Shares - Class A\|Coinbase Global Inc Ordinary Shares - Class A]] | `COIN` | สหรัฐฯ | 3.43% |
-| 9 | [[../Entities/Beam Therapeutics Inc\|Beam Therapeutics Inc]] | `BEAM` | สหรัฐฯ | 3.36% |
-| 10 | [[../Entities/Space Exploration Technologies Corp Class A\|Space Exploration Technologies Corp Class A]] | `SPCX` | สหรัฐฯ | 3.35% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | ผู้บริโภค | 8.95% |
+| 2 | [[../Entities/Robinhood Markets Inc Class A\|Robinhood Markets Inc Class A]] | `HOOD` | สหรัฐฯ | การเงิน | 6.61% |
+| 3 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 5.57% |
+| 4 | [[../Entities/Tempus AI Inc Class A common stock\|Tempus AI Inc Class A common stock]] | `TEM` | สหรัฐฯ | สุขภาพ | 5.45% |
+| 5 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | เทคโนโลยี | 4.25% |
+| 6 | [[../Entities/10x Genomics Inc Ordinary Shares - Class A\|10x Genomics Inc Ordinary Shares - Class A]] | `TXG` | สหรัฐฯ | สุขภาพ | 3.65% |
+| 7 | [[../Entities/Roblox Corp Ordinary Shares - Class A\|Roblox Corp Ordinary Shares - Class A]] | `RBLX` | สหรัฐฯ | สื่อสาร | 3.45% |
+| 8 | [[../Entities/Coinbase Global Inc Ordinary Shares - Class A\|Coinbase Global Inc Ordinary Shares - Class A]] | `COIN` | สหรัฐฯ | การเงิน | 3.43% |
+| 9 | [[../Entities/Beam Therapeutics Inc\|Beam Therapeutics Inc]] | `BEAM` | สหรัฐฯ | สุขภาพ | 3.36% |
+| 10 | [[../Entities/Space Exploration Technologies Corp Class A\|Space Exploration Technologies Corp Class A]] | `SPCX` | สหรัฐฯ | อุตสาหกรรม | 3.35% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -69,17 +69,17 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.86% |
-| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 6.85% |
-| 3 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 6.57% |
-| 4 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 5.94% |
-| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.58% |
-| 6 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.54% |
-| 7 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.32% |
-| 8 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 3.40% |
-| 9 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 2.81% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 7.86% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 6.85% |
+| 3 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | เทคโนโลยี | 6.57% |
+| 4 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | สื่อสาร | 5.94% |
+| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 4.58% |
+| 6 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 4.54% |
+| 7 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 4.32% |
+| 8 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | เทคโนโลยี | 3.40% |
+| 9 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | ผู้บริโภค | 2.81% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

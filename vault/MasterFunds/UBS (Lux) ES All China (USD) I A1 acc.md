@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 9.15% |
-| 2 | [[../Entities/NetEase Inc ADR\|NetEase Inc ADR]] | `NTES` | สหรัฐฯ | 7.97% |
-| 3 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | 6.71% |
-| 4 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 5.88% |
-| 5 | [[../Entities/China Merchants Bank Co Ltd Class H\|China Merchants Bank Co Ltd Class H]] | `03968` | - | 4.94% |
-| 6 | [[../Entities/Far East Horizon Ltd\|Far East Horizon Ltd]] | `3360.HK` | ฮ่องกง | 4.84% |
-| 7 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | 4.30% |
-| 8 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | 3.71% |
-| 9 | [[../Entities/CHINA MOBILE LTD\|China Mobile Ltd]] | `00941` | - | 2.70% |
-| 10 | [[../Entities/Montage Technology Co Ltd Ordinary Shares - Class H\|Montage Technology Co Ltd Ordinary Shares - Class H]] | `06809` | - | 2.53% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 9.15% |
+| 2 | [[../Entities/NetEase Inc ADR\|NetEase Inc ADR]] | `NTES` | สหรัฐฯ | สื่อสาร | 7.97% |
+| 3 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | ผู้บริโภค | 6.71% |
+| 4 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 5.88% |
+| 5 | [[../Entities/China Merchants Bank Co Ltd Class H\|China Merchants Bank Co Ltd Class H]] | `03968` | - | - | 4.94% |
+| 6 | [[../Entities/Far East Horizon Ltd\|Far East Horizon Ltd]] | `3360.HK` | ฮ่องกง | การเงิน | 4.84% |
+| 7 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | การเงิน | 4.30% |
+| 8 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | - | 3.71% |
+| 9 | [[../Entities/CHINA MOBILE LTD\|China Mobile Ltd]] | `00941` | - | - | 2.70% |
+| 10 | [[../Entities/Montage Technology Co Ltd Ordinary Shares - Class H\|Montage Technology Co Ltd Ordinary Shares - Class H]] | `06809` | - | - | 2.53% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

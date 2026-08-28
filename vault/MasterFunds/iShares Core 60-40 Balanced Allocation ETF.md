@@ -82,16 +82,16 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | iShares Core S&P 500 ETF | `IVV` | สหรัฐฯ | 34.70% |
-| 2 | iShares Core Universal USD Bond ETF | `IUSB` | สหรัฐฯ | 32.68% |
-| 3 | iShares Core MSCI Intl Dev Mkts ETF | `IDEV` | สหรัฐฯ | 17.31% |
-| 4 | iShares Core MSCI Emerging Markets ETF | `IEMG` | สหรัฐฯ | 6.47% |
-| 5 | iShares Core International Aggt Bd ETF | `IAGG` | สหรัฐฯ | 5.85% |
-| 6 | iShares Core S&P Mid-Cap ETF | `IJH` | สหรัฐฯ | 1.95% |
-| 7 | iShares Core S&P Small-Cap ETF | `IJR` | สหรัฐฯ | 0.96% |
-| 8 | [[../Entities/BlackRock Cash Funds Treasury SL Agency\|BlackRock Cash Funds Treasury SL Agency]] | `XTSLA` | สหรัฐฯ | 0.09% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | iShares Core S&P 500 ETF | `IVV` | สหรัฐฯ | - | 34.70% |
+| 2 | iShares Core Universal USD Bond ETF | `IUSB` | สหรัฐฯ | - | 32.68% |
+| 3 | iShares Core MSCI Intl Dev Mkts ETF | `IDEV` | สหรัฐฯ | - | 17.31% |
+| 4 | iShares Core MSCI Emerging Markets ETF | `IEMG` | สหรัฐฯ | - | 6.47% |
+| 5 | iShares Core International Aggt Bd ETF | `IAGG` | สหรัฐฯ | - | 5.85% |
+| 6 | iShares Core S&P Mid-Cap ETF | `IJH` | สหรัฐฯ | - | 1.95% |
+| 7 | iShares Core S&P Small-Cap ETF | `IJR` | สหรัฐฯ | - | 0.96% |
+| 8 | [[../Entities/BlackRock Cash Funds Treasury SL Agency\|BlackRock Cash Funds Treasury SL Agency]] | `XTSLA` | สหรัฐฯ | - | 0.09% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

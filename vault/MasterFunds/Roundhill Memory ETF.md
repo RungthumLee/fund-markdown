@@ -59,13 +59,13 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 19.55% |
-| 2 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 17.09% |
-| 3 | First American Government Obligs X | `FGXXX` | สหรัฐฯ | 14.66% |
-| 4 | [[../Entities/Seagate Technology Holdings PLC\|Seagate Technology Holdings PLC]] | `STX` | สหรัฐฯ | 5.05% |
-| 5 | Western Digital Corp | `WDC` | สหรัฐฯ | 4.98% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 19.55% |
+| 2 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 17.09% |
+| 3 | First American Government Obligs X | `FGXXX` | สหรัฐฯ | - | 14.66% |
+| 4 | [[../Entities/Seagate Technology Holdings PLC\|Seagate Technology Holdings PLC]] | `STX` | สหรัฐฯ | เทคโนโลยี | 5.05% |
+| 5 | Western Digital Corp | `WDC` | สหรัฐฯ | เทคโนโลยี | 4.98% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

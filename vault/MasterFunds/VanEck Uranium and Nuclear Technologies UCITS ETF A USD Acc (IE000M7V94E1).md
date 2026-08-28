@@ -71,18 +71,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Cameco Corp\|Cameco Corp]] | `CCO.TO` | แคนาดา | 14.11% |
-| 2 | [[../Entities/Sprott Physical Uranium Trust\|Sprott Physical Uranium Trust]] | `U-U.TO` | แคนาดา | 7.34% |
-| 3 | [[../Entities/NexGen Energy Ltd\|NexGen Energy Ltd]] | `NXE.TO` | แคนาดา | 7.11% |
-| 4 | [[../Entities/Oklo Inc Class A Shares\|Oklo Inc Class A Shares]] | `OKLO` | สหรัฐฯ | 6.50% |
-| 5 | [[../Entities/iShares U.S. Medical Devices ETF (US4642888105)\|IHI Corp]] | `7013.T` | ญี่ปุ่น | 6.05% |
-| 6 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | 5.74% |
-| 7 | [[../Entities/Fuji Electric Co Ltd\|Fuji Electric Co Ltd]] | `6504.T` | ญี่ปุ่น | 5.61% |
-| 8 | [[../Entities/Atkinsrealis Group Inc\|Atkinsrealis Group Inc]] | `ATRL.TO` | แคนาดา | 5.59% |
-| 9 | [[../Entities/Mitsubishi Heavy Industries Ltd\|Mitsubishi Heavy Industries Ltd]] | `7011.T` | ญี่ปุ่น | 5.49% |
-| 10 | [[../Entities/Samsung C&T Corp\|Samsung C&T Corp]] | `028260.KQ` | เกาหลีใต้ | 4.77% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Cameco Corp\|Cameco Corp]] | `CCO.TO` | แคนาดา | พลังงาน | 14.11% |
+| 2 | [[../Entities/Sprott Physical Uranium Trust\|Sprott Physical Uranium Trust]] | `U-U.TO` | แคนาดา | พลังงาน | 7.34% |
+| 3 | [[../Entities/NexGen Energy Ltd\|NexGen Energy Ltd]] | `NXE.TO` | แคนาดา | พลังงาน | 7.11% |
+| 4 | [[../Entities/Oklo Inc Class A Shares\|Oklo Inc Class A Shares]] | `OKLO` | สหรัฐฯ | สาธารณูปโภค | 6.50% |
+| 5 | [[../Entities/iShares U.S. Medical Devices ETF (US4642888105)\|IHI Corp]] | `7013.T` | ญี่ปุ่น | อุตสาหกรรม | 6.05% |
+| 6 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | อุตสาหกรรม | 5.74% |
+| 7 | [[../Entities/Fuji Electric Co Ltd\|Fuji Electric Co Ltd]] | `6504.T` | ญี่ปุ่น | อุตสาหกรรม | 5.61% |
+| 8 | [[../Entities/Atkinsrealis Group Inc\|Atkinsrealis Group Inc]] | `ATRL.TO` | แคนาดา | อุตสาหกรรม | 5.59% |
+| 9 | [[../Entities/Mitsubishi Heavy Industries Ltd\|Mitsubishi Heavy Industries Ltd]] | `7011.T` | ญี่ปุ่น | อุตสาหกรรม | 5.49% |
+| 10 | [[../Entities/Samsung C&T Corp\|Samsung C&T Corp]] | `028260.KQ` | เกาหลีใต้ | - | 4.77% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

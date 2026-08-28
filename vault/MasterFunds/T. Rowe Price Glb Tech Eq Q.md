@@ -78,18 +78,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.65% |
-| 2 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 7.38% |
-| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 6.80% |
-| 4 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 6.23% |
-| 5 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | 5.48% |
-| 6 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 5.02% |
-| 7 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.70% |
-| 8 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 4.67% |
-| 9 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 2.32% |
-| 10 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 2.15% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 8.65% |
+| 2 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 7.38% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 6.80% |
+| 4 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 6.23% |
+| 5 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | เทคโนโลยี | 5.48% |
+| 6 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 5.02% |
+| 7 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 4.70% |
+| 8 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 4.67% |
+| 9 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | เทคโนโลยี | 2.32% |
+| 10 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | เทคโนโลยี | 2.15% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -75,18 +75,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Arqit Quantum Inc | `ARQQ` | สหรัฐฯ | 1.62% |
-| 2 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 1.57% |
-| 3 | [[../Entities/Snowflake Inc Ordinary Shares\|Snowflake Inc Ordinary Shares]] | `SNOW` | สหรัฐฯ | 1.51% |
-| 4 | [[../Entities/RTX Corp\|RTX Corp]] | `RTX` | สหรัฐฯ | 1.50% |
-| 5 | Horizon Quantum Holdings Ltd Class A | `HQ` | สหรัฐฯ | 1.49% |
-| 6 | [[../Entities/NEC Corp\|NEC Corp]] | `6701.T` | ญี่ปุ่น | 1.48% |
-| 7 | Nutanix Inc Class A | `NTNX` | สหรัฐฯ | 1.47% |
-| 8 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 1.45% |
-| 9 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | 1.43% |
-| 10 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 1.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Arqit Quantum Inc | `ARQQ` | สหรัฐฯ | เทคโนโลยี | 1.62% |
+| 2 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | เทคโนโลยี | 1.57% |
+| 3 | [[../Entities/Snowflake Inc Ordinary Shares\|Snowflake Inc Ordinary Shares]] | `SNOW` | สหรัฐฯ | เทคโนโลยี | 1.51% |
+| 4 | [[../Entities/RTX Corp\|RTX Corp]] | `RTX` | สหรัฐฯ | อุตสาหกรรม | 1.50% |
+| 5 | Horizon Quantum Holdings Ltd Class A | `HQ` | สหรัฐฯ | เทคโนโลยี | 1.49% |
+| 6 | [[../Entities/NEC Corp\|NEC Corp]] | `6701.T` | ญี่ปุ่น | เทคโนโลยี | 1.48% |
+| 7 | Nutanix Inc Class A | `NTNX` | สหรัฐฯ | เทคโนโลยี | 1.47% |
+| 8 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 1.45% |
+| 9 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | อุตสาหกรรม | 1.43% |
+| 10 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 1.41% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | PetroChina Co Ltd Class A | `601857.SS` | จีน | 5.72% |
-| 2 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | 4.16% |
-| 3 | Wanhua Chemical Group Co Ltd Class A | `600309.SS` | จีน | 3.31% |
-| 4 | Cangzhou Dahua Co Ltd Class A | `600230.SS` | จีน | 3.31% |
-| 5 | XCMG Construction Machinery Co Ltd Class A | `000425.SZ` | จีน | 3.21% |
-| 6 | [[../Entities/CMOC Group Ltd Class A\|CMOC Group Ltd Class A]] | `603993` | - | 3.14% |
-| 7 | [[../Entities/Bank Of Ningbo Co Ltd Class A\|Bank Of Ningbo Co Ltd Class A]] | `002142.SZ` | จีน | 3.07% |
-| 8 | [[../Entities/Sieyuan Electric Co Ltd Class A\|Sieyuan Electric Co Ltd Class A]] | `002028.SZ` | จีน | 2.94% |
-| 9 | [[../Entities/Advanced Micro-fabrication Equipment Inc Class A\|Advanced Micro-fabrication Equipment Inc Class A]] | `688012.SS` | จีน | 2.72% |
-| 10 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 2.53% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | PetroChina Co Ltd Class A | `601857.SS` | จีน | พลังงาน | 5.72% |
+| 2 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | วัสดุ | 4.16% |
+| 3 | Wanhua Chemical Group Co Ltd Class A | `600309.SS` | จีน | วัสดุ | 3.31% |
+| 4 | Cangzhou Dahua Co Ltd Class A | `600230.SS` | จีน | วัสดุ | 3.31% |
+| 5 | XCMG Construction Machinery Co Ltd Class A | `000425.SZ` | จีน | อุตสาหกรรม | 3.21% |
+| 6 | [[../Entities/CMOC Group Ltd Class A\|CMOC Group Ltd Class A]] | `603993` | - | - | 3.14% |
+| 7 | [[../Entities/Bank Of Ningbo Co Ltd Class A\|Bank Of Ningbo Co Ltd Class A]] | `002142.SZ` | จีน | การเงิน | 3.07% |
+| 8 | [[../Entities/Sieyuan Electric Co Ltd Class A\|Sieyuan Electric Co Ltd Class A]] | `002028.SZ` | จีน | อุตสาหกรรม | 2.94% |
+| 9 | [[../Entities/Advanced Micro-fabrication Equipment Inc Class A\|Advanced Micro-fabrication Equipment Inc Class A]] | `688012.SS` | จีน | เทคโนโลยี | 2.72% |
+| 10 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 2.53% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

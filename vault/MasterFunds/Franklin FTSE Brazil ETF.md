@@ -83,18 +83,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Vale SA\|Vale SA]] | `VALE3.SA` | - | 10.99% |
-| 2 | Itau Unibanco Holding SA Participating Preferred | `ITUB4` | - | 9.54% |
-| 3 | Petroleo Brasileiro SA Petrobras Participating Preferred | `PETR4` | - | 8.13% |
-| 4 | Petroleo Brasileiro SA Petrobras | `PETR3.SA` | - | 7.49% |
-| 5 | Bank Bradesco SA Participating Preferred | `BBDC4` | - | 3.91% |
-| 6 | Itausa Investimentos ITAU SA Participating Preferred | `ITSA4` | - | 3.30% |
-| 7 | [[../Entities/B3 SA - Brasil Bolsa Balcao\|B3 SA - Brasil Bolsa Balcao]] | `B3SA3.SA` | - | 3.27% |
-| 8 | Weg SA | `WEGE3.SA` | - | 2.89% |
-| 9 | [[../Entities/Axia Energia\|Axia Energia]] | `AXIA3.SA` | - | 2.88% |
-| 10 | Ambev SA | `ABEV3.SA` | - | 2.81% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Vale SA\|Vale SA]] | `VALE3.SA` | - | วัสดุ | 10.99% |
+| 2 | Itau Unibanco Holding SA Participating Preferred | `ITUB4` | - | - | 9.54% |
+| 3 | Petroleo Brasileiro SA Petrobras Participating Preferred | `PETR4` | - | - | 8.13% |
+| 4 | Petroleo Brasileiro SA Petrobras | `PETR3.SA` | - | พลังงาน | 7.49% |
+| 5 | Bank Bradesco SA Participating Preferred | `BBDC4` | - | - | 3.91% |
+| 6 | Itausa Investimentos ITAU SA Participating Preferred | `ITSA4` | - | - | 3.30% |
+| 7 | [[../Entities/B3 SA - Brasil Bolsa Balcao\|B3 SA - Brasil Bolsa Balcao]] | `B3SA3.SA` | - | การเงิน | 3.27% |
+| 8 | Weg SA | `WEGE3.SA` | - | อุตสาหกรรม | 2.89% |
+| 9 | [[../Entities/Axia Energia\|Axia Energia]] | `AXIA3.SA` | - | สาธารณูปโภค | 2.88% |
+| 10 | Ambev SA | `ABEV3.SA` | - | ผู้บริโภค | 2.81% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

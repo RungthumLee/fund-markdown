@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ExxonMobil Holdings Corp\|ExxonMobil Holdings Corp]] | `XOM` | สหรัฐฯ | 20.58% |
-| 2 | [[../Entities/Chevron Corp\|Chevron Corp]] | `CVX` | สหรัฐฯ | 15.26% |
-| 3 | [[../Entities/COP US Equity\|ConocoPhillips]] | `COP` | สหรัฐฯ | 6.08% |
-| 4 | [[../Entities/MARATHON PETROLEUM CORP\|Marathon Petroleum Corp]] | `MPC` | สหรัฐฯ | 4.93% |
-| 5 | [[../Entities/PHILLIPS 66\|Phillips 66]] | `PSX` | สหรัฐฯ | 4.91% |
-| 6 | [[../Entities/Valero Energy Corp\|Valero Energy Corp]] | `VLO` | สหรัฐฯ | 4.74% |
-| 7 | [[../Entities/EOG US Equity\|EOG Resources Inc]] | `EOG` | สหรัฐฯ | 4.55% |
-| 8 | [[../Entities/SLB Ltd\|SLB Ltd]] | `SLB` | สหรัฐฯ | 4.32% |
-| 9 | Kinder Morgan Inc Class P | `KMI` | สหรัฐฯ | 3.91% |
-| 10 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | 3.86% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ExxonMobil Holdings Corp\|ExxonMobil Holdings Corp]] | `XOM` | สหรัฐฯ | พลังงาน | 20.58% |
+| 2 | [[../Entities/Chevron Corp\|Chevron Corp]] | `CVX` | สหรัฐฯ | พลังงาน | 15.26% |
+| 3 | [[../Entities/COP US Equity\|ConocoPhillips]] | `COP` | สหรัฐฯ | พลังงาน | 6.08% |
+| 4 | [[../Entities/MARATHON PETROLEUM CORP\|Marathon Petroleum Corp]] | `MPC` | สหรัฐฯ | พลังงาน | 4.93% |
+| 5 | [[../Entities/PHILLIPS 66\|Phillips 66]] | `PSX` | สหรัฐฯ | พลังงาน | 4.91% |
+| 6 | [[../Entities/Valero Energy Corp\|Valero Energy Corp]] | `VLO` | สหรัฐฯ | พลังงาน | 4.74% |
+| 7 | [[../Entities/EOG US Equity\|EOG Resources Inc]] | `EOG` | สหรัฐฯ | พลังงาน | 4.55% |
+| 8 | [[../Entities/SLB Ltd\|SLB Ltd]] | `SLB` | สหรัฐฯ | พลังงาน | 4.32% |
+| 9 | Kinder Morgan Inc Class P | `KMI` | สหรัฐฯ | พลังงาน | 3.91% |
+| 10 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | พลังงาน | 3.86% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

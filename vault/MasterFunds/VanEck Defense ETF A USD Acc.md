@@ -59,18 +59,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/RTX Corp\|RTX Corp]] | `RTX` | สหรัฐฯ | 9.76% |
-| 2 | [[../Entities/Palantir Technologies Inc Ordinary Shares - Class A\|Palantir Technologies Inc Ordinary Shares - Class A]] | `PLTR` | สหรัฐฯ | 7.61% |
-| 3 | [[../Entities/Thales\|Thales]] | `HO.PA` | ฝรั่งเศส | 7.29% |
-| 4 | [[../Entities/Leonardo SpA Az nom Post raggruppamento\|Leonardo SpA Az nom Post raggruppamento]] | `LDO.MI` | อิตาลี | 6.84% |
-| 5 | Elbit Systems Ltd | `ESLT.TA` | - | 5.85% |
-| 6 | [[../Entities/Curtiss-Wright Corp\|Curtiss-Wright Corp]] | `CW` | สหรัฐฯ | 5.63% |
-| 7 | Saab AB Class B | `SAAB-B.ST` | - | 5.61% |
-| 8 | Hanwha Aerospace Co Ltd | `012450.KQ` | เกาหลีใต้ | 5.04% |
-| 9 | Kongsberg Gruppen ASA | `KOG.OL` | - | 3.22% |
-| 10 | [[../Entities/Singapore Technologies Engineering Ltd\|Singapore Technologies Engineering Ltd]] | `S63.SI` | สิงคโปร์ | 3.20% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/RTX Corp\|RTX Corp]] | `RTX` | สหรัฐฯ | อุตสาหกรรม | 9.76% |
+| 2 | [[../Entities/Palantir Technologies Inc Ordinary Shares - Class A\|Palantir Technologies Inc Ordinary Shares - Class A]] | `PLTR` | สหรัฐฯ | เทคโนโลยี | 7.61% |
+| 3 | [[../Entities/Thales\|Thales]] | `HO.PA` | ฝรั่งเศส | อุตสาหกรรม | 7.29% |
+| 4 | [[../Entities/Leonardo SpA Az nom Post raggruppamento\|Leonardo SpA Az nom Post raggruppamento]] | `LDO.MI` | อิตาลี | อุตสาหกรรม | 6.84% |
+| 5 | Elbit Systems Ltd | `ESLT.TA` | - | อุตสาหกรรม | 5.85% |
+| 6 | [[../Entities/Curtiss-Wright Corp\|Curtiss-Wright Corp]] | `CW` | สหรัฐฯ | อุตสาหกรรม | 5.63% |
+| 7 | Saab AB Class B | `SAAB-B.ST` | - | อุตสาหกรรม | 5.61% |
+| 8 | Hanwha Aerospace Co Ltd | `012450.KQ` | เกาหลีใต้ | - | 5.04% |
+| 9 | Kongsberg Gruppen ASA | `KOG.OL` | - | อุตสาหกรรม | 3.22% |
+| 10 | [[../Entities/Singapore Technologies Engineering Ltd\|Singapore Technologies Engineering Ltd]] | `S63.SI` | สิงคโปร์ | อุตสาหกรรม | 3.20% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

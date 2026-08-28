@@ -66,18 +66,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Toyota Motor Corp\|Toyota Motor Corp]] | `7203.T` | ญี่ปุ่น | 4.90% |
-| 2 | NTT Inc | `9432.T` | ญี่ปุ่น | 4.60% |
-| 3 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | 3.89% |
-| 4 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | 3.43% |
-| 5 | [[../Entities/Japan Post Bank Co Ltd\|Japan Post Bank Co Ltd]] | `7182.T` | ญี่ปุ่น | 3.40% |
-| 6 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | 3.24% |
-| 7 | Mitsui & Co Ltd | `8031.T` | ญี่ปุ่น | 2.97% |
-| 8 | [[../Entities/Tokio Marine Holdings Inc\|Tokio Marine Holdings Inc]] | `8766.T` | ญี่ปุ่น | 2.88% |
-| 9 | [[../Entities/ITOCHU Corp\|ITOCHU Corp]] | `8001.T` | ญี่ปุ่น | 2.38% |
-| 10 | Takeda Pharmaceutical Co Ltd | `4502.T` | ญี่ปุ่น | 1.90% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Toyota Motor Corp\|Toyota Motor Corp]] | `7203.T` | ญี่ปุ่น | ผู้บริโภค | 4.90% |
+| 2 | NTT Inc | `9432.T` | ญี่ปุ่น | สื่อสาร | 4.60% |
+| 3 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | การเงิน | 3.89% |
+| 4 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | อุตสาหกรรม | 3.43% |
+| 5 | [[../Entities/Japan Post Bank Co Ltd\|Japan Post Bank Co Ltd]] | `7182.T` | ญี่ปุ่น | การเงิน | 3.40% |
+| 6 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | เทคโนโลยี | 3.24% |
+| 7 | Mitsui & Co Ltd | `8031.T` | ญี่ปุ่น | อุตสาหกรรม | 2.97% |
+| 8 | [[../Entities/Tokio Marine Holdings Inc\|Tokio Marine Holdings Inc]] | `8766.T` | ญี่ปุ่น | การเงิน | 2.88% |
+| 9 | [[../Entities/ITOCHU Corp\|ITOCHU Corp]] | `8001.T` | ญี่ปุ่น | อุตสาหกรรม | 2.38% |
+| 10 | Takeda Pharmaceutical Co Ltd | `4502.T` | ญี่ปุ่น | สุขภาพ | 1.90% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

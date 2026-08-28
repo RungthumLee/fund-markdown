@@ -77,18 +77,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 10.60% |
-| 2 | [[../Entities/ABB Ltd\|ABB Ltd]] | `ABBN.SW` | สวิตเซอร์แลนด์ | 9.34% |
-| 3 | [[../Entities/Fanuc Corp\|Fanuc Corp]] | `6954.T` | ญี่ปุ่น | 9.14% |
-| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.86% |
-| 5 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | 5.76% |
-| 6 | [[../Entities/SMC Corp\|SMC Corp]] | `6273.T` | ญี่ปุ่น | 4.61% |
-| 7 | Shenzhen Inovance Technology Co Ltd Class A | `300124.SZ` | จีน | 4.23% |
-| 8 | [[../Entities/Daifuku Co Ltd\|Daifuku Co Ltd]] | `6383.T` | ญี่ปุ่น | 3.24% |
-| 9 | Cognex Corp | `CGNX` | สหรัฐฯ | 2.45% |
-| 10 | Aurora Innovation Inc Class A | `AUR` | สหรัฐฯ | 2.40% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | เทคโนโลยี | 10.60% |
+| 2 | [[../Entities/ABB Ltd\|ABB Ltd]] | `ABBN.SW` | สวิตเซอร์แลนด์ | อุตสาหกรรม | 9.34% |
+| 3 | [[../Entities/Fanuc Corp\|Fanuc Corp]] | `6954.T` | ญี่ปุ่น | อุตสาหกรรม | 9.14% |
+| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 8.86% |
+| 5 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | สุขภาพ | 5.76% |
+| 6 | [[../Entities/SMC Corp\|SMC Corp]] | `6273.T` | ญี่ปุ่น | อุตสาหกรรม | 4.61% |
+| 7 | Shenzhen Inovance Technology Co Ltd Class A | `300124.SZ` | จีน | อุตสาหกรรม | 4.23% |
+| 8 | [[../Entities/Daifuku Co Ltd\|Daifuku Co Ltd]] | `6383.T` | ญี่ปุ่น | อุตสาหกรรม | 3.24% |
+| 9 | Cognex Corp | `CGNX` | สหรัฐฯ | เทคโนโลยี | 2.45% |
+| 10 | Aurora Innovation Inc Class A | `AUR` | สหรัฐฯ | ผู้บริโภค | 2.40% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

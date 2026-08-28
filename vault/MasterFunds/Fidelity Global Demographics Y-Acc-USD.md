@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 6.79% |
-| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 6.46% |
-| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 6.19% |
-| 4 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 5.38% |
-| 5 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 4.85% |
-| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.03% |
-| 7 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 3.07% |
-| 8 | [[../Entities/Compagnie Financiere Richemont SA Class A\|Compagnie Financiere Richemont SA Class A]] | `CFR.SW` | สวิตเซอร์แลนด์ | 3.04% |
-| 9 | [[../Entities/Johnson Controls International PLC Registered Shares\|Johnson Controls International PLC Registered Shares]] | `JCI` | สหรัฐฯ | 2.94% |
-| 10 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 2.93% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 6.79% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 6.46% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 6.19% |
+| 4 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 5.38% |
+| 5 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 4.85% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 4.03% |
+| 7 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | เทคโนโลยี | 3.07% |
+| 8 | [[../Entities/Compagnie Financiere Richemont SA Class A\|Compagnie Financiere Richemont SA Class A]] | `CFR.SW` | สวิตเซอร์แลนด์ | ผู้บริโภค | 3.04% |
+| 9 | [[../Entities/Johnson Controls International PLC Registered Shares\|Johnson Controls International PLC Registered Shares]] | `JCI` | สหรัฐฯ | อุตสาหกรรม | 2.94% |
+| 10 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 2.93% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

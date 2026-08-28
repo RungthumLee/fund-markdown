@@ -21,7 +21,16 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fees  # noqa: E402
 import geography  # noqa: E402
+import securities  # noqa: E402  (sector/cap; dormant until fetch_sectors has run)
 from sec_client import ROOT, get_logger  # noqa: E402
+
+# canonical sector (from securities.py) -> Thai label, matching the vault
+SECTOR_CANON_TH = {
+    "financials": "การเงิน", "technology": "เทคโนโลยี", "communication": "สื่อสาร",
+    "energy": "พลังงาน", "utilities": "สาธารณูปโภค", "real-estate": "อสังหา",
+    "healthcare": "สุขภาพ", "industrials": "อุตสาหกรรม", "materials": "วัสดุ",
+    "consumer": "ผู้บริโภค",
+}
 
 LOG = get_logger("gen_master_notes")
 PROC = ROOT / "data" / "processed"
@@ -284,10 +293,15 @@ def render(rec: dict, entry: dict, ter_by_pid: dict[str, float] | None = None,
             note = sym_to_note.get(h.get("symbol"))
             return f"[[../Entities/{note}|{h['name']}]]" if note else h["name"]
 
-        o.extend(table(["#", "หลักทรัพย์", "Ticker", "ตลาด", "สัดส่วน"],
+        def holding_sector(h: dict) -> str:
+            m = securities.meta_of(h.get("symbol"))
+            canon = securities.canonical_sector(m.get("sector")) if m else None
+            return SECTOR_CANON_TH.get(canon, "-")
+
+        o.extend(table(["#", "หลักทรัพย์", "Ticker", "ตลาด", "กลุ่ม", "สัดส่วน"],
                        [[i, holding_cell(h), f"`{h['symbol']}`",
                          geography.market_of_symbol(h.get("symbol")) or "-",
-                         pct(h["percent"])]
+                         holding_sector(h), pct(h["percent"])]
                         for i, h in enumerate(y["top_holdings"], 1)]))
 
     if y.get("longBusinessSummary"):

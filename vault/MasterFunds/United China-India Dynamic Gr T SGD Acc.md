@@ -67,18 +67,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 7.57% |
-| 2 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 7.13% |
-| 3 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 6.47% |
-| 4 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 5.32% |
-| 5 | [[../Entities/Shriram Finance Ltd\|Shriram Finance Ltd]] | `SHRIRAMFIN.NS` | อินเดีย | 4.77% |
-| 6 | CNOOC Energy Technology & Services Ltd Class A | `600968.SS` | จีน | 3.54% |
-| 7 | [[../Entities/Nine Dragons Paper (Holdings) Ltd\|Nine Dragons Paper (Holdings) Ltd]] | `2689.HK` | ฮ่องกง | 3.45% |
-| 8 | Sany Heavy Industry Co Ltd Ordinary Shares- Class H | `06031` | - | 3.36% |
-| 9 | [[../Entities/China Resources Building Materials Technology Holdings Ltd\|China Resources Building Materials Technology Holdings Ltd]] | `1313.HK` | ฮ่องกง | 3.32% |
-| 10 | Gemdale Corp Class A | `600383.SS` | จีน | 3.19% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 7.57% |
+| 2 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 7.13% |
+| 3 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 6.47% |
+| 4 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | การเงิน | 5.32% |
+| 5 | [[../Entities/Shriram Finance Ltd\|Shriram Finance Ltd]] | `SHRIRAMFIN.NS` | อินเดีย | การเงิน | 4.77% |
+| 6 | CNOOC Energy Technology & Services Ltd Class A | `600968.SS` | จีน | พลังงาน | 3.54% |
+| 7 | [[../Entities/Nine Dragons Paper (Holdings) Ltd\|Nine Dragons Paper (Holdings) Ltd]] | `2689.HK` | ฮ่องกง | วัสดุ | 3.45% |
+| 8 | Sany Heavy Industry Co Ltd Ordinary Shares- Class H | `06031` | - | - | 3.36% |
+| 9 | [[../Entities/China Resources Building Materials Technology Holdings Ltd\|China Resources Building Materials Technology Holdings Ltd]] | `1313.HK` | ฮ่องกง | วัสดุ | 3.32% |
+| 10 | Gemdale Corp Class A | `600383.SS` | จีน | อสังหา | 3.19% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Fuyao Glass Industry Group Co Ltd Class A\|Fuyao Glass Industry Group Co Ltd Class A]] | `600660.SS` | จีน | 7.69% |
-| 2 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | 7.58% |
-| 3 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 6.58% |
-| 4 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | 6.33% |
-| 5 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | 5.79% |
-| 6 | [[../Entities/Midea Group Co Ltd Class A\|Midea Group Co Ltd Class A]] | `000333.SZ` | จีน | 4.83% |
-| 7 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class A\|Ping An Insurance (Group) Co. of China Ltd Class A]] | `601318.SS` | จีน | 4.77% |
-| 8 | [[../Entities/Angel Yeast Co Ltd Class A\|Angel Yeast Co Ltd Class A]] | `600298.SS` | จีน | 3.92% |
-| 9 | [[../Entities/Yunnan Baiyao Group Co Ltd Class A\|Yunnan Baiyao Group Co Ltd Class A]] | `000538.SZ` | จีน | 3.87% |
-| 10 | [[../Entities/Jiangsu Hengrui Pharmaceuticals Co Ltd Class A\|Jiangsu Hengrui Pharmaceuticals Co Ltd Class A]] | `600276.SS` | จีน | 3.82% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Fuyao Glass Industry Group Co Ltd Class A\|Fuyao Glass Industry Group Co Ltd Class A]] | `600660.SS` | จีน | ผู้บริโภค | 7.69% |
+| 2 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | ผู้บริโภค | 7.58% |
+| 3 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 6.58% |
+| 4 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | เทคโนโลยี | 6.33% |
+| 5 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | การเงิน | 5.79% |
+| 6 | [[../Entities/Midea Group Co Ltd Class A\|Midea Group Co Ltd Class A]] | `000333.SZ` | จีน | ผู้บริโภค | 4.83% |
+| 7 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class A\|Ping An Insurance (Group) Co. of China Ltd Class A]] | `601318.SS` | จีน | การเงิน | 4.77% |
+| 8 | [[../Entities/Angel Yeast Co Ltd Class A\|Angel Yeast Co Ltd Class A]] | `600298.SS` | จีน | ผู้บริโภค | 3.92% |
+| 9 | [[../Entities/Yunnan Baiyao Group Co Ltd Class A\|Yunnan Baiyao Group Co Ltd Class A]] | `000538.SZ` | จีน | สุขภาพ | 3.87% |
+| 10 | [[../Entities/Jiangsu Hengrui Pharmaceuticals Co Ltd Class A\|Jiangsu Hengrui Pharmaceuticals Co Ltd Class A]] | `600276.SS` | จีน | สุขภาพ | 3.82% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -71,17 +71,17 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.76% |
-| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.61% |
-| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 2.60% |
-| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 2.54% |
-| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 2.21% |
-| 6 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 1.90% |
-| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 1.84% |
-| 8 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 1.76% |
-| 9 | [[../Entities/ROSS STORES, INC\|Ross Stores Inc]] | `ROST` | สหรัฐฯ | 1.71% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 2.76% |
+| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 2.61% |
+| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 2.60% |
+| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 2.54% |
+| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 2.21% |
+| 6 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | การเงิน | 1.90% |
+| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 1.84% |
+| 8 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | สุขภาพ | 1.76% |
+| 9 | [[../Entities/ROSS STORES, INC\|Ross Stores Inc]] | `ROST` | สหรัฐฯ | ผู้บริโภค | 1.71% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

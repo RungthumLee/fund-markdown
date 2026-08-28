@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Jiangsu Boqian New Materials Stock Co Ltd Class A | `605376.SS` | จีน | 5.50% |
-| 2 | Acter Technology Integration Group Co Ltd Class A | `603163.SS` | จีน | 4.09% |
-| 3 | [[../Entities/Beijing Huafeng Test & Control Technology Co Ltd Class A\|Beijing Huafeng Test & Control Technology Co Ltd Class A]] | `688200.SS` | จีน | 4.03% |
-| 4 | [[../Entities/Kingboard Laminates Holdings Ltd\|Kingboard Laminates Holdings Ltd]] | `1888.HK` | ฮ่องกง | 3.92% |
-| 5 | ACM Research Inc Class A | `ACMR` | สหรัฐฯ | 3.83% |
-| 6 | Wuxi NCE Power Co Ltd Class A | `605111.SS` | จีน | 3.26% |
-| 7 | [[../Entities/Yantai Jereh Oilfield Services Group Co Ltd Class A\|Yantai Jereh Oilfield Services Group Co Ltd Class A]] | `002353.SZ` | จีน | 3.17% |
-| 8 | [[../Entities/ASMPT LTD\|ASMPT Ltd]] | `0522.HK` | ฮ่องกง | 2.95% |
-| 9 | [[../Entities/Advanced Micro-fabrication Equipment Inc Class A\|Advanced Micro-fabrication Equipment Inc Class A]] | `688012.SS` | จีน | 2.73% |
-| 10 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 2.42% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Jiangsu Boqian New Materials Stock Co Ltd Class A | `605376.SS` | จีน | วัสดุ | 5.50% |
+| 2 | Acter Technology Integration Group Co Ltd Class A | `603163.SS` | จีน | อุตสาหกรรม | 4.09% |
+| 3 | [[../Entities/Beijing Huafeng Test & Control Technology Co Ltd Class A\|Beijing Huafeng Test & Control Technology Co Ltd Class A]] | `688200.SS` | จีน | เทคโนโลยี | 4.03% |
+| 4 | [[../Entities/Kingboard Laminates Holdings Ltd\|Kingboard Laminates Holdings Ltd]] | `1888.HK` | ฮ่องกง | เทคโนโลยี | 3.92% |
+| 5 | ACM Research Inc Class A | `ACMR` | สหรัฐฯ | เทคโนโลยี | 3.83% |
+| 6 | Wuxi NCE Power Co Ltd Class A | `605111.SS` | จีน | เทคโนโลยี | 3.26% |
+| 7 | [[../Entities/Yantai Jereh Oilfield Services Group Co Ltd Class A\|Yantai Jereh Oilfield Services Group Co Ltd Class A]] | `002353.SZ` | จีน | พลังงาน | 3.17% |
+| 8 | [[../Entities/ASMPT LTD\|ASMPT Ltd]] | `0522.HK` | ฮ่องกง | เทคโนโลยี | 2.95% |
+| 9 | [[../Entities/Advanced Micro-fabrication Equipment Inc Class A\|Advanced Micro-fabrication Equipment Inc Class A]] | `688012.SS` | จีน | เทคโนโลยี | 2.73% |
+| 10 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 2.42% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

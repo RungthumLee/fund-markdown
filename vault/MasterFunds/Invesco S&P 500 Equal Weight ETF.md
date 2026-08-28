@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/PAYPAL HOLDING PLC\|PayPal Holdings Inc]] | `PYPL` | สหรัฐฯ | 0.27% |
-| 2 | [[../Entities/Bio-Techne Corp\|Bio-Techne Corp]] | `TECH` | สหรัฐฯ | 0.26% |
-| 3 | Zebra Technologies Corp Ordinary Shares - Class A | `ZBRA` | สหรัฐฯ | 0.26% |
-| 4 | [[../Entities/Global Payments Inc\|Global Payments Inc]] | `GPN` | สหรัฐฯ | 0.26% |
-| 5 | [[../Entities/Expedia Group Inc\|Expedia Group Inc]] | `EXPE` | สหรัฐฯ | 0.26% |
-| 6 | [[../Entities/DoorDash Inc Ordinary Shares - Class A\|DoorDash Inc Ordinary Shares - Class A]] | `DASH` | สหรัฐฯ | 0.25% |
-| 7 | [[../Entities/IQVIA HOLDINGS, INC\|IQVIA Holdings Inc]] | `IQV` | สหรัฐฯ | 0.25% |
-| 8 | Baxter International Inc | `BAX` | สหรัฐฯ | 0.25% |
-| 9 | International Paper Co | `IP` | สหรัฐฯ | 0.25% |
-| 10 | Willis Towers Watson PLC | `WTW` | สหรัฐฯ | 0.24% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/PAYPAL HOLDING PLC\|PayPal Holdings Inc]] | `PYPL` | สหรัฐฯ | การเงิน | 0.27% |
+| 2 | [[../Entities/Bio-Techne Corp\|Bio-Techne Corp]] | `TECH` | สหรัฐฯ | สุขภาพ | 0.26% |
+| 3 | Zebra Technologies Corp Ordinary Shares - Class A | `ZBRA` | สหรัฐฯ | เทคโนโลยี | 0.26% |
+| 4 | [[../Entities/Global Payments Inc\|Global Payments Inc]] | `GPN` | สหรัฐฯ | อุตสาหกรรม | 0.26% |
+| 5 | [[../Entities/Expedia Group Inc\|Expedia Group Inc]] | `EXPE` | สหรัฐฯ | ผู้บริโภค | 0.26% |
+| 6 | [[../Entities/DoorDash Inc Ordinary Shares - Class A\|DoorDash Inc Ordinary Shares - Class A]] | `DASH` | สหรัฐฯ | ผู้บริโภค | 0.25% |
+| 7 | [[../Entities/IQVIA HOLDINGS, INC\|IQVIA Holdings Inc]] | `IQV` | สหรัฐฯ | สุขภาพ | 0.25% |
+| 8 | Baxter International Inc | `BAX` | สหรัฐฯ | สุขภาพ | 0.25% |
+| 9 | International Paper Co | `IP` | สหรัฐฯ | ผู้บริโภค | 0.25% |
+| 10 | Willis Towers Watson PLC | `WTW` | สหรัฐฯ | การเงิน | 0.24% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

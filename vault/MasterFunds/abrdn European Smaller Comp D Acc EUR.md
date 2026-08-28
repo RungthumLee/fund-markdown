@@ -68,18 +68,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Games Workshop Group PLC | `GAW.L` | สหราชอาณาจักร | 5.15% |
-| 2 | Morgan Sindall Group PLC | `MGNS.L` | สหราชอาณาจักร | 4.84% |
-| 3 | Fagron SA | `FAGR.BR` | - | 4.65% |
-| 4 | [[../Entities/ASR Nederland NV\|ASR Nederland NV]] | `ASRNL.AS` | เนเธอร์แลนด์ | 4.62% |
-| 5 | [[../Entities/FinecoBank SpA\|FinecoBank SpA]] | `FBK.MI` | อิตาลี | 4.60% |
-| 6 | [[../Entities/Gaztransport et technigaz SA\|Gaztransport et technigaz SA]] | `GTT.PA` | ฝรั่งเศส | 4.46% |
-| 7 | [[../Entities/Diploma PLC\|Diploma PLC]] | `DPLM.L` | สหราชอาณาจักร | 4.41% |
-| 8 | Hill & Smith PLC | `HILS.L` | สหราชอาณาจักร | 4.22% |
-| 9 | Koninklijke Heijm 0% | `HEIJM.AS` | เนเธอร์แลนด์ | 3.35% |
-| 10 | Addtech AB Class B | `ADDT-B.ST` | - | 3.19% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Games Workshop Group PLC | `GAW.L` | สหราชอาณาจักร | ผู้บริโภค | 5.15% |
+| 2 | Morgan Sindall Group PLC | `MGNS.L` | สหราชอาณาจักร | อุตสาหกรรม | 4.84% |
+| 3 | Fagron SA | `FAGR.BR` | - | สุขภาพ | 4.65% |
+| 4 | [[../Entities/ASR Nederland NV\|ASR Nederland NV]] | `ASRNL.AS` | เนเธอร์แลนด์ | การเงิน | 4.62% |
+| 5 | [[../Entities/FinecoBank SpA\|FinecoBank SpA]] | `FBK.MI` | อิตาลี | การเงิน | 4.60% |
+| 6 | [[../Entities/Gaztransport et technigaz SA\|Gaztransport et technigaz SA]] | `GTT.PA` | ฝรั่งเศส | พลังงาน | 4.46% |
+| 7 | [[../Entities/Diploma PLC\|Diploma PLC]] | `DPLM.L` | สหราชอาณาจักร | อุตสาหกรรม | 4.41% |
+| 8 | Hill & Smith PLC | `HILS.L` | สหราชอาณาจักร | อุตสาหกรรม | 4.22% |
+| 9 | Koninklijke Heijm 0% | `HEIJM.AS` | เนเธอร์แลนด์ | อุตสาหกรรม | 3.35% |
+| 10 | Addtech AB Class B | `ADDT-B.ST` | - | อุตสาหกรรม | 3.19% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

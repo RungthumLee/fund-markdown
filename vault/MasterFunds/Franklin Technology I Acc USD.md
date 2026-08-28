@@ -80,18 +80,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.08% |
-| 2 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 6.41% |
-| 3 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 5.72% |
-| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 5.56% |
-| 5 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 4.23% |
-| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.14% |
-| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.02% |
-| 8 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 3.97% |
-| 9 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 3.56% |
-| 10 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 3.26% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 8.08% |
+| 2 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 6.41% |
+| 3 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | สื่อสาร | 5.72% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | เทคโนโลยี | 5.56% |
+| 5 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | เทคโนโลยี | 4.23% |
+| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 4.14% |
+| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 4.02% |
+| 8 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 3.97% |
+| 9 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 3.56% |
+| 10 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | สื่อสาร | 3.26% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

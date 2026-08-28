@@ -71,18 +71,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | 10.90% |
-| 2 | [[../Entities/Fast Retailing Co Ltd\|Fast Retailing Co Ltd]] | `9983.T` | ญี่ปุ่น | 10.21% |
-| 3 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 8.49% |
-| 4 | [[../Entities/SoftBank Group Corp\|SoftBank Group Corp]] | `9984.T` | ญี่ปุ่น | 6.01% |
-| 5 | [[../Entities/TDK Corp\|TDK Corp]] | `6762.T` | ญี่ปุ่น | 2.29% |
-| 6 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | 2.10% |
-| 7 | [[../Entities/KDDI Corp\|KDDI Corp]] | `9433.T` | ญี่ปุ่น | 1.98% |
-| 8 | [[../Entities/Fanuc Corp\|Fanuc Corp]] | `6954.T` | ญี่ปุ่น | 1.79% |
-| 9 | [[../Entities/Shin-Etsu Chemical Co Ltd\|Shin-Etsu Chemical Co Ltd]] | `4063.T` | ญี่ปุ่น | 1.56% |
-| 10 | [[../Entities/Kyocera Corp\|Kyocera Corp]] | `6971.T` | ญี่ปุ่น | 1.54% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | เทคโนโลยี | 10.90% |
+| 2 | [[../Entities/Fast Retailing Co Ltd\|Fast Retailing Co Ltd]] | `9983.T` | ญี่ปุ่น | ผู้บริโภค | 10.21% |
+| 3 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | เทคโนโลยี | 8.49% |
+| 4 | [[../Entities/SoftBank Group Corp\|SoftBank Group Corp]] | `9984.T` | ญี่ปุ่น | สื่อสาร | 6.01% |
+| 5 | [[../Entities/TDK Corp\|TDK Corp]] | `6762.T` | ญี่ปุ่น | เทคโนโลยี | 2.29% |
+| 6 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | สื่อสาร | 2.10% |
+| 7 | [[../Entities/KDDI Corp\|KDDI Corp]] | `9433.T` | ญี่ปุ่น | สื่อสาร | 1.98% |
+| 8 | [[../Entities/Fanuc Corp\|Fanuc Corp]] | `6954.T` | ญี่ปุ่น | อุตสาหกรรม | 1.79% |
+| 9 | [[../Entities/Shin-Etsu Chemical Co Ltd\|Shin-Etsu Chemical Co Ltd]] | `4063.T` | ญี่ปุ่น | วัสดุ | 1.56% |
+| 10 | [[../Entities/Kyocera Corp\|Kyocera Corp]] | `6971.T` | ญี่ปุ่น | อุตสาหกรรม | 1.54% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

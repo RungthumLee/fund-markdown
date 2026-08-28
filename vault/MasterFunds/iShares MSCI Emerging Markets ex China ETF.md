@@ -70,9 +70,9 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/iShares MSCI EM ex-China ETF USD Dis\|iShares MSCI EM ex-China ETF USD Dis]] | `EXCD.AS` | เนเธอร์แลนด์ | 99.91% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/iShares MSCI EM ex-China ETF USD Dis\|iShares MSCI EM ex-China ETF USD Dis]] | `EXCD.AS` | เนเธอร์แลนด์ | - | 99.91% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

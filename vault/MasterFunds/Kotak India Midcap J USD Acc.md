@@ -83,17 +83,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Shriram Finance Ltd\|Shriram Finance Ltd]] | `SHRIRAMFIN.NS` | อินเดีย | 5.03% |
-| 2 | Cummins India Ltd | `500480` | - | 3.23% |
-| 3 | [[../Entities/Apollo Hospitals Enterprise Ltd\|Apollo Hospitals Enterprise Ltd]] | `APOLLOHOSP.NS` | อินเดีย | 3.12% |
-| 4 | Sansera Engineering Ltd | `SANSERA.BO` | อินเดีย | 3.08% |
-| 5 | Max Healthcare Institute Ltd Ordinary Shares | `MAXHEALTH.BO` | อินเดีย | 3.07% |
-| 6 | [[../Entities/Eternal Ltd\|Eternal Ltd]] | `ETERNAL.BO` | อินเดีย | 2.97% |
-| 7 | TVS Motor Co Ltd | `TVSMOTOR.BO` | อินเดีย | 2.73% |
-| 8 | [[../Entities/Fortis Healthcare Ltd\|Fortis Healthcare Ltd]] | `FORTIS.BO` | อินเดีย | 2.65% |
-| 9 | Laurus Labs Ltd | `LAURUSLABS.BO` | อินเดีย | 2.64% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Shriram Finance Ltd\|Shriram Finance Ltd]] | `SHRIRAMFIN.NS` | อินเดีย | การเงิน | 5.03% |
+| 2 | Cummins India Ltd | `500480` | - | - | 3.23% |
+| 3 | [[../Entities/Apollo Hospitals Enterprise Ltd\|Apollo Hospitals Enterprise Ltd]] | `APOLLOHOSP.NS` | อินเดีย | สุขภาพ | 3.12% |
+| 4 | Sansera Engineering Ltd | `SANSERA.BO` | อินเดีย | ผู้บริโภค | 3.08% |
+| 5 | Max Healthcare Institute Ltd Ordinary Shares | `MAXHEALTH.BO` | อินเดีย | สุขภาพ | 3.07% |
+| 6 | [[../Entities/Eternal Ltd\|Eternal Ltd]] | `ETERNAL.BO` | อินเดีย | ผู้บริโภค | 2.97% |
+| 7 | TVS Motor Co Ltd | `TVSMOTOR.BO` | อินเดีย | ผู้บริโภค | 2.73% |
+| 8 | [[../Entities/Fortis Healthcare Ltd\|Fortis Healthcare Ltd]] | `FORTIS.BO` | อินเดีย | สุขภาพ | 2.65% |
+| 9 | Laurus Labs Ltd | `LAURUSLABS.BO` | อินเดีย | สุขภาพ | 2.64% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

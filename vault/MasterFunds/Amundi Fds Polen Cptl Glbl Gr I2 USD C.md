@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.84% |
-| 2 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 7.10% |
-| 3 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 5.04% |
-| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.87% |
-| 5 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 4.86% |
-| 6 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 4.80% |
-| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.53% |
-| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.36% |
-| 9 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 4.28% |
-| 10 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 3.86% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 7.84% |
+| 2 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | สื่อสาร | 7.10% |
+| 3 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | การเงิน | 5.04% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 4.87% |
+| 5 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 4.86% |
+| 6 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | การเงิน | 4.80% |
+| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 4.53% |
+| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 4.36% |
+| 9 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | สุขภาพ | 4.28% |
+| 10 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 3.86% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

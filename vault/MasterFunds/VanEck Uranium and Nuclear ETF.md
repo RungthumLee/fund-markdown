@@ -75,18 +75,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/CEG US Equity\|Constellation Energy Corp]] | `CEG` | สหรัฐฯ | 9.13% |
-| 2 | [[../Entities/Cameco Corp\|Cameco Corp]] | `CCO.TO` | แคนาดา | 7.80% |
-| 3 | Public Service Enterprise Group Inc | `PEG` | สหรัฐฯ | 7.25% |
-| 4 | [[../Entities/BWX Technologies Inc\|BWX Technologies Inc]] | `BWXT` | สหรัฐฯ | 6.17% |
-| 5 | Fortum Oyj | `FORTUM.HE` | - | 5.91% |
-| 6 | Centrus Energy Corp Class A | `LEU` | สหรัฐฯ | 5.69% |
-| 7 | [[../Entities/NexGen Energy Ltd\|NexGen Energy Ltd]] | `NXE.TO` | แคนาดา | 5.28% |
-| 8 | Uranium Energy Corp | `UEC` | สหรัฐฯ | 4.88% |
-| 9 | Denison Mines Corp | `DML.TO` | แคนาดา | 4.87% |
-| 10 | Paladin Energy Ltd | `PDN.AX` | ออสเตรเลีย | 4.59% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/CEG US Equity\|Constellation Energy Corp]] | `CEG` | สหรัฐฯ | สาธารณูปโภค | 9.13% |
+| 2 | [[../Entities/Cameco Corp\|Cameco Corp]] | `CCO.TO` | แคนาดา | พลังงาน | 7.80% |
+| 3 | Public Service Enterprise Group Inc | `PEG` | สหรัฐฯ | สาธารณูปโภค | 7.25% |
+| 4 | [[../Entities/BWX Technologies Inc\|BWX Technologies Inc]] | `BWXT` | สหรัฐฯ | อุตสาหกรรม | 6.17% |
+| 5 | Fortum Oyj | `FORTUM.HE` | - | สาธารณูปโภค | 5.91% |
+| 6 | Centrus Energy Corp Class A | `LEU` | สหรัฐฯ | พลังงาน | 5.69% |
+| 7 | [[../Entities/NexGen Energy Ltd\|NexGen Energy Ltd]] | `NXE.TO` | แคนาดา | พลังงาน | 5.28% |
+| 8 | Uranium Energy Corp | `UEC` | สหรัฐฯ | พลังงาน | 4.88% |
+| 9 | Denison Mines Corp | `DML.TO` | แคนาดา | พลังงาน | 4.87% |
+| 10 | Paladin Energy Ltd | `PDN.AX` | ออสเตรเลีย | พลังงาน | 4.59% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

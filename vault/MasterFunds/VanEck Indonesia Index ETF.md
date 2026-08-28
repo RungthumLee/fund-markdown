@@ -81,18 +81,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/PT Bank Central Asia Tbk\|PT Bank Central Asia Tbk]] | `BBCA.JK` | อินโดนีเซีย | 8.79% |
-| 2 | [[../Entities/PT Bank Rakyat Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Bank Rakyat Indonesia (Persero) Tbk Registered Shs Series -B-]] | `BBRI.JK` | อินโดนีเซีย | 8.01% |
-| 3 | [[../Entities/PT Bank Mandiri (Persero) Tbk\|PT Bank Mandiri (Persero) Tbk]] | `BMRI.JK` | อินโดนีเซีย | 6.55% |
-| 4 | PT Telkom Indonesia (Persero) Tbk ADR | `TLK` | สหรัฐฯ | 5.93% |
-| 5 | [[../Entities/ASII IJ Equity\|PT Astra International Tbk]] | `ASII.JK` | อินโดนีเซีย | 5.14% |
-| 6 | Jardine Matheson Holdings Ltd | `J36.SI` | สิงคโปร์ | 4.83% |
-| 7 | PT Amman Mineral Internasional Tbk | `AMMN.JK` | อินโดนีเซีย | 3.19% |
-| 8 | PT Barito Renewables Energy Tbk | `BREN.JK` | อินโดนีเซีย | 2.72% |
-| 9 | [[../Entities/PT Bank Negara Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Bank Negara Indonesia (Persero) Tbk Registered Shs Series -B-]] | `BBNI.JK` | อินโดนีเซีย | 2.67% |
-| 10 | PT Barito Pacific Tbk | `BRPT.JK` | อินโดนีเซีย | 2.56% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/PT Bank Central Asia Tbk\|PT Bank Central Asia Tbk]] | `BBCA.JK` | อินโดนีเซีย | การเงิน | 8.79% |
+| 2 | [[../Entities/PT Bank Rakyat Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Bank Rakyat Indonesia (Persero) Tbk Registered Shs Series -B-]] | `BBRI.JK` | อินโดนีเซีย | การเงิน | 8.01% |
+| 3 | [[../Entities/PT Bank Mandiri (Persero) Tbk\|PT Bank Mandiri (Persero) Tbk]] | `BMRI.JK` | อินโดนีเซีย | การเงิน | 6.55% |
+| 4 | PT Telkom Indonesia (Persero) Tbk ADR | `TLK` | สหรัฐฯ | สื่อสาร | 5.93% |
+| 5 | [[../Entities/ASII IJ Equity\|PT Astra International Tbk]] | `ASII.JK` | อินโดนีเซีย | อุตสาหกรรม | 5.14% |
+| 6 | Jardine Matheson Holdings Ltd | `J36.SI` | สิงคโปร์ | อุตสาหกรรม | 4.83% |
+| 7 | PT Amman Mineral Internasional Tbk | `AMMN.JK` | อินโดนีเซีย | วัสดุ | 3.19% |
+| 8 | PT Barito Renewables Energy Tbk | `BREN.JK` | อินโดนีเซีย | สาธารณูปโภค | 2.72% |
+| 9 | [[../Entities/PT Bank Negara Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Bank Negara Indonesia (Persero) Tbk Registered Shs Series -B-]] | `BBNI.JK` | อินโดนีเซีย | การเงิน | 2.67% |
+| 10 | PT Barito Pacific Tbk | `BRPT.JK` | อินโดนีเซีย | วัสดุ | 2.56% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

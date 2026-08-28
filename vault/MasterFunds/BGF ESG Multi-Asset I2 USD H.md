@@ -85,15 +85,15 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/iShares Physical Gold ETC\|iShares Physical Gold ETC]] | `IGLN.L` | สหราชอาณาจักร | 2.39% |
-| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.24% |
-| 3 | [[../Entities/Schiehallion Fund Ord\|Schiehallion Fund Ord]] | `MNTN.L` | สหราชอาณาจักร | 1.96% |
-| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 1.96% |
-| 5 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 1.70% |
-| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 1.57% |
-| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 1.54% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/iShares Physical Gold ETC\|iShares Physical Gold ETC]] | `IGLN.L` | สหราชอาณาจักร | - | 2.39% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 2.24% |
+| 3 | [[../Entities/Schiehallion Fund Ord\|Schiehallion Fund Ord]] | `MNTN.L` | สหราชอาณาจักร | การเงิน | 1.96% |
+| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 1.96% |
+| 5 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | สื่อสาร | 1.70% |
+| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 1.57% |
+| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 1.54% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.24% |
-| 2 | [[../Entities/KO US Equity\|Coca-Cola Co]] | `KO` | สหรัฐฯ | 5.18% |
-| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.08% |
-| 4 | [[../Entities/Netflix Inc\|Netflix Inc]] | `NFLX` | สหรัฐฯ | 4.68% |
-| 5 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 4.58% |
-| 6 | [[../Entities/L'Oreal SA\|L'Oreal SA]] | `OR.PA` | ฝรั่งเศส | 4.34% |
-| 7 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.13% |
-| 8 | [[../Entities/Aon PLC Class A\|Aon PLC Class A]] | `AON` | สหรัฐฯ | 4.05% |
-| 9 | [[../Entities/Intercontinental Exchange Inc\|Intercontinental Exchange Inc]] | `ICE` | สหรัฐฯ | 4.02% |
-| 10 | [[../Entities/RELX PLC\|RELX PLC]] | `REL.L` | สหราชอาณาจักร | 3.46% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 5.24% |
+| 2 | [[../Entities/KO US Equity\|Coca-Cola Co]] | `KO` | สหรัฐฯ | ผู้บริโภค | 5.18% |
+| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 5.08% |
+| 4 | [[../Entities/Netflix Inc\|Netflix Inc]] | `NFLX` | สหรัฐฯ | สื่อสาร | 4.68% |
+| 5 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | การเงิน | 4.58% |
+| 6 | [[../Entities/L'Oreal SA\|L'Oreal SA]] | `OR.PA` | ฝรั่งเศส | ผู้บริโภค | 4.34% |
+| 7 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 4.13% |
+| 8 | [[../Entities/Aon PLC Class A\|Aon PLC Class A]] | `AON` | สหรัฐฯ | การเงิน | 4.05% |
+| 9 | [[../Entities/Intercontinental Exchange Inc\|Intercontinental Exchange Inc]] | `ICE` | สหรัฐฯ | การเงิน | 4.02% |
+| 10 | [[../Entities/RELX PLC\|RELX PLC]] | `REL.L` | สหราชอาณาจักร | อุตสาหกรรม | 3.46% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

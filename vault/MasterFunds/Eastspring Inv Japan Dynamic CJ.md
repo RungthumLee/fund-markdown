@@ -65,18 +65,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | 4.36% |
-| 2 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | 4.25% |
-| 3 | Resona Holdings Inc | `8308.T` | ญี่ปุ่น | 4.19% |
-| 4 | Seven & i Holdings Co Ltd | `3382.T` | ญี่ปุ่น | 3.99% |
-| 5 | Olympus Corp | `7733.T` | ญี่ปุ่น | 3.88% |
-| 6 | [[../Entities/Panasonic Holdings Corp\|Panasonic Holdings Corp]] | `6752.T` | ญี่ปุ่น | 3.84% |
-| 7 | Dentsu Group Inc | `4324.T` | ญี่ปุ่น | 3.68% |
-| 8 | [[../Entities/SUMCO Corp\|SUMCO Corp]] | `3436.T` | ญี่ปุ่น | 3.39% |
-| 9 | Nidec Corp | `6594.T` | ญี่ปุ่น | 3.28% |
-| 10 | [[../Entities/Kubota Corp\|Kubota Corp]] | `6326.T` | ญี่ปุ่น | 3.27% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | การเงิน | 4.36% |
+| 2 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | การเงิน | 4.25% |
+| 3 | Resona Holdings Inc | `8308.T` | ญี่ปุ่น | การเงิน | 4.19% |
+| 4 | Seven & i Holdings Co Ltd | `3382.T` | ญี่ปุ่น | ผู้บริโภค | 3.99% |
+| 5 | Olympus Corp | `7733.T` | ญี่ปุ่น | สุขภาพ | 3.88% |
+| 6 | [[../Entities/Panasonic Holdings Corp\|Panasonic Holdings Corp]] | `6752.T` | ญี่ปุ่น | เทคโนโลยี | 3.84% |
+| 7 | Dentsu Group Inc | `4324.T` | ญี่ปุ่น | สื่อสาร | 3.68% |
+| 8 | [[../Entities/SUMCO Corp\|SUMCO Corp]] | `3436.T` | ญี่ปุ่น | เทคโนโลยี | 3.39% |
+| 9 | Nidec Corp | `6594.T` | ญี่ปุ่น | อุตสาหกรรม | 3.28% |
+| 10 | [[../Entities/Kubota Corp\|Kubota Corp]] | `6326.T` | ญี่ปุ่น | อุตสาหกรรม | 3.27% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

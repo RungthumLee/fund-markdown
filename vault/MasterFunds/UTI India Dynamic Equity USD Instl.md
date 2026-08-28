@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | 6.27% |
-| 2 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 6.25% |
-| 3 | [[../Entities/Eternal Ltd\|Eternal Ltd]] | `ETERNAL.BO` | อินเดีย | 5.98% |
-| 4 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 5.33% |
-| 5 | [[../Entities/Titan Co Ltd\|Titan Co Ltd]] | `TITAN.NS` | อินเดีย | 4.06% |
-| 6 | [[../Entities/Avenue Supermarts Ltd\|Avenue Supermarts Ltd]] | `DMART.BO` | อินเดีย | 3.66% |
-| 7 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 3.50% |
-| 8 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | 3.38% |
-| 9 | Coforge Ltd | `COFORGE.BO` | อินเดีย | 3.35% |
-| 10 | Dixon Technologies (India) Ltd | `DIXON.BO` | อินเดีย | 3.16% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | - | 6.27% |
+| 2 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | การเงิน | 6.25% |
+| 3 | [[../Entities/Eternal Ltd\|Eternal Ltd]] | `ETERNAL.BO` | อินเดีย | ผู้บริโภค | 5.98% |
+| 4 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 5.33% |
+| 5 | [[../Entities/Titan Co Ltd\|Titan Co Ltd]] | `TITAN.NS` | อินเดีย | ผู้บริโภค | 4.06% |
+| 6 | [[../Entities/Avenue Supermarts Ltd\|Avenue Supermarts Ltd]] | `DMART.BO` | อินเดีย | ผู้บริโภค | 3.66% |
+| 7 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | สื่อสาร | 3.50% |
+| 8 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | การเงิน | 3.38% |
+| 9 | Coforge Ltd | `COFORGE.BO` | อินเดีย | เทคโนโลยี | 3.35% |
+| 10 | Dixon Technologies (India) Ltd | `DIXON.BO` | อินเดีย | เทคโนโลยี | 3.16% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

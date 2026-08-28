@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Illumina Inc\|Illumina Inc]] | `ILMN` | สหรัฐฯ | 4.21% |
-| 2 | [[../Entities/TechnipFMC PLC\|TechnipFMC PLC]] | `FTI` | สหรัฐฯ | 4.14% |
-| 3 | Everpure Inc Class A | `P` | สหรัฐฯ | 3.28% |
-| 4 | [[../Entities/Curtiss-Wright Corp\|Curtiss-Wright Corp]] | `CW` | สหรัฐฯ | 3.21% |
-| 5 | Medpace Holdings Inc | `MEDP` | สหรัฐฯ | 3.13% |
-| 6 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | 2.93% |
-| 7 | Manhattan Associates Inc | `MANH` | สหรัฐฯ | 2.79% |
-| 8 | Exelixis Inc | `EXEL` | สหรัฐฯ | 2.70% |
-| 9 | [[../Entities/Carpenter Technology Corp\|Carpenter Technology Corp]] | `CRS` | สหรัฐฯ | 2.69% |
-| 10 | United Therapeutics Corp | `UTHR` | สหรัฐฯ | 2.53% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Illumina Inc\|Illumina Inc]] | `ILMN` | สหรัฐฯ | สุขภาพ | 4.21% |
+| 2 | [[../Entities/TechnipFMC PLC\|TechnipFMC PLC]] | `FTI` | สหรัฐฯ | พลังงาน | 4.14% |
+| 3 | Everpure Inc Class A | `P` | สหรัฐฯ | เทคโนโลยี | 3.28% |
+| 4 | [[../Entities/Curtiss-Wright Corp\|Curtiss-Wright Corp]] | `CW` | สหรัฐฯ | อุตสาหกรรม | 3.21% |
+| 5 | Medpace Holdings Inc | `MEDP` | สหรัฐฯ | สุขภาพ | 3.13% |
+| 6 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | อุตสาหกรรม | 2.93% |
+| 7 | Manhattan Associates Inc | `MANH` | สหรัฐฯ | เทคโนโลยี | 2.79% |
+| 8 | Exelixis Inc | `EXEL` | สหรัฐฯ | สุขภาพ | 2.70% |
+| 9 | [[../Entities/Carpenter Technology Corp\|Carpenter Technology Corp]] | `CRS` | สหรัฐฯ | อุตสาหกรรม | 2.69% |
+| 10 | United Therapeutics Corp | `UTHR` | สหรัฐฯ | สุขภาพ | 2.53% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

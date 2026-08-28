@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.84% |
-| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 7.97% |
-| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 7.26% |
-| 4 | [[../Entities/OVERSEA-CHINESE BANKING CORP\|Oversea-Chinese Banking Corp Ltd]] | `O39.SI` | สิงคโปร์ | 3.29% |
-| 5 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 3.17% |
-| 6 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 3.12% |
-| 7 | [[../Entities/Apollo Hospitals Enterprise Ltd\|Apollo Hospitals Enterprise Ltd]] | `APOLLOHOSP.NS` | อินเดีย | 2.96% |
-| 8 | [[../Entities/Unimicron Technology Corp\|Unimicron Technology Corp]] | `3037.TW` | ไต้หวัน | 2.81% |
-| 9 | [[../Entities/Nan Ya Plastics Corp\|Nan Ya Plastics Corp]] | `1303.TW` | ไต้หวัน | 2.77% |
-| 10 | [[../Entities/WuXi Biologics (Cayman) Inc\|WuXi Biologics (Cayman) Inc]] | `2269.HK` | ฮ่องกง | 2.66% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 9.84% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 7.97% |
+| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 7.26% |
+| 4 | [[../Entities/OVERSEA-CHINESE BANKING CORP\|Oversea-Chinese Banking Corp Ltd]] | `O39.SI` | สิงคโปร์ | การเงิน | 3.29% |
+| 5 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 3.17% |
+| 6 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 3.12% |
+| 7 | [[../Entities/Apollo Hospitals Enterprise Ltd\|Apollo Hospitals Enterprise Ltd]] | `APOLLOHOSP.NS` | อินเดีย | สุขภาพ | 2.96% |
+| 8 | [[../Entities/Unimicron Technology Corp\|Unimicron Technology Corp]] | `3037.TW` | ไต้หวัน | เทคโนโลยี | 2.81% |
+| 9 | [[../Entities/Nan Ya Plastics Corp\|Nan Ya Plastics Corp]] | `1303.TW` | ไต้หวัน | วัสดุ | 2.77% |
+| 10 | [[../Entities/WuXi Biologics (Cayman) Inc\|WuXi Biologics (Cayman) Inc]] | `2269.HK` | ฮ่องกง | สุขภาพ | 2.66% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

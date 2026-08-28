@@ -65,18 +65,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 9.07% |
-| 2 | [[../Entities/FinecoBank SpA\|FinecoBank SpA]] | `FBK.MI` | อิตาลี | 5.45% |
-| 3 | [[../Entities/Hiscox Ltd\|Hiscox Ltd]] | `HSX.L` | สหราชอาณาจักร | 4.32% |
-| 4 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 3.56% |
-| 5 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 3.49% |
-| 6 | [[../Entities/Prudential PLC\|Prudential PLC]] | `PRU.L` | สหราชอาณาจักร | 3.40% |
-| 7 | [[../Entities/Gaztransport et technigaz SA\|Gaztransport et technigaz SA]] | `GTT.PA` | ฝรั่งเศส | 3.17% |
-| 8 | [[../Entities/argenx SE\|argenx SE]] | `ARGX.BR` | - | 3.11% |
-| 9 | [[../Entities/Air Liquide SA\|Air Liquide SA]] | `AI.PA` | ฝรั่งเศส | 3.11% |
-| 10 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | 3.06% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 9.07% |
+| 2 | [[../Entities/FinecoBank SpA\|FinecoBank SpA]] | `FBK.MI` | อิตาลี | การเงิน | 5.45% |
+| 3 | [[../Entities/Hiscox Ltd\|Hiscox Ltd]] | `HSX.L` | สหราชอาณาจักร | การเงิน | 4.32% |
+| 4 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | สุขภาพ | 3.56% |
+| 5 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | อุตสาหกรรม | 3.49% |
+| 6 | [[../Entities/Prudential PLC\|Prudential PLC]] | `PRU.L` | สหราชอาณาจักร | การเงิน | 3.40% |
+| 7 | [[../Entities/Gaztransport et technigaz SA\|Gaztransport et technigaz SA]] | `GTT.PA` | ฝรั่งเศส | พลังงาน | 3.17% |
+| 8 | [[../Entities/argenx SE\|argenx SE]] | `ARGX.BR` | - | สุขภาพ | 3.11% |
+| 9 | [[../Entities/Air Liquide SA\|Air Liquide SA]] | `AI.PA` | ฝรั่งเศส | วัสดุ | 3.11% |
+| 10 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | การเงิน | 3.06% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

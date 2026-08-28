@@ -67,18 +67,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | 5.01% |
-| 2 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | 4.87% |
-| 3 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | 4.31% |
-| 4 | [[../Entities/Tokio Marine Holdings Inc\|Tokio Marine Holdings Inc]] | `8766.T` | ญี่ปุ่น | 4.11% |
-| 5 | [[../Entities/Shin-Etsu Chemical Co Ltd\|Shin-Etsu Chemical Co Ltd]] | `4063.T` | ญี่ปุ่น | 3.86% |
-| 6 | [[../Entities/Mitsui Fudosan Co Ltd\|Mitsui Fudosan Co Ltd]] | `8801.T` | ญี่ปุ่น | 3.59% |
-| 7 | [[../Entities/SMC Corp\|SMC Corp]] | `6273.T` | ญี่ปุ่น | 3.58% |
-| 8 | [[../Entities/TDK Corp\|TDK Corp]] | `6762.T` | ญี่ปุ่น | 3.58% |
-| 9 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | 3.57% |
-| 10 | [[../Entities/Disco Corp\|Disco Corp]] | `6146.T` | ญี่ปุ่น | 3.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | การเงิน | 5.01% |
+| 2 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | การเงิน | 4.87% |
+| 3 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | การเงิน | 4.31% |
+| 4 | [[../Entities/Tokio Marine Holdings Inc\|Tokio Marine Holdings Inc]] | `8766.T` | ญี่ปุ่น | การเงิน | 4.11% |
+| 5 | [[../Entities/Shin-Etsu Chemical Co Ltd\|Shin-Etsu Chemical Co Ltd]] | `4063.T` | ญี่ปุ่น | วัสดุ | 3.86% |
+| 6 | [[../Entities/Mitsui Fudosan Co Ltd\|Mitsui Fudosan Co Ltd]] | `8801.T` | ญี่ปุ่น | อสังหา | 3.59% |
+| 7 | [[../Entities/SMC Corp\|SMC Corp]] | `6273.T` | ญี่ปุ่น | อุตสาหกรรม | 3.58% |
+| 8 | [[../Entities/TDK Corp\|TDK Corp]] | `6762.T` | ญี่ปุ่น | เทคโนโลยี | 3.58% |
+| 9 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | สื่อสาร | 3.57% |
+| 10 | [[../Entities/Disco Corp\|Disco Corp]] | `6146.T` | ญี่ปุ่น | เทคโนโลยี | 3.49% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

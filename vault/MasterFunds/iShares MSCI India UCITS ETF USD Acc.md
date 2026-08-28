@@ -78,18 +78,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 6.38% |
-| 2 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 5.96% |
-| 3 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 5.65% |
-| 4 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 4.05% |
-| 5 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | 2.58% |
-| 6 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | 2.21% |
-| 7 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | 2.14% |
-| 8 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | 2.07% |
-| 9 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | 1.99% |
-| 10 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | 1.61% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 6.38% |
+| 2 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | พลังงาน | 5.96% |
+| 3 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | การเงิน | 5.65% |
+| 4 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | สื่อสาร | 4.05% |
+| 5 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | เทคโนโลยี | 2.58% |
+| 6 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | ผู้บริโภค | 2.21% |
+| 7 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | - | 2.14% |
+| 8 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | การเงิน | 2.07% |
+| 9 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | อุตสาหกรรม | 1.99% |
+| 10 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | การเงิน | 1.61% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

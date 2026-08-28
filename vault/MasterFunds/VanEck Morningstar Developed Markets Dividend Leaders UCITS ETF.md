@@ -77,18 +77,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/HSBC Holdings PLC\|HSBC Holdings PLC]] | `HSBA.L` | สหราชอาณาจักร | 4.77% |
-| 2 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | 4.66% |
-| 3 | [[../Entities/Nestle SA\|Nestle SA]] | `NESN.SW` | สวิตเซอร์แลนด์ | 3.99% |
-| 4 | [[../Entities/Pfizer Inc\|Pfizer Inc]] | `PFE` | สหรัฐฯ | 3.69% |
-| 5 | [[../Entities/Shell PLC\|Shell PLC]] | `SHEL.L` | สหราชอาณาจักร | 3.39% |
-| 6 | [[../Entities/TotalEnergies SE\|TotalEnergies SE]] | `TTE.PA` | ฝรั่งเศส | 3.20% |
-| 7 | [[../Entities/PepsiCo Inc\|PepsiCo Inc]] | `PEP` | สหรัฐฯ | 3.00% |
-| 8 | [[../Entities/Allianz Global Investors Fund - Allianz Global Artificial Intelligence Fund (LU1548497426)\|Allianz SE]] | `ALV.DE` | เยอรมนี | 2.79% |
-| 9 | [[../Entities/Novo Nordisk AS Class B\|Novo Nordisk AS Class B]] | `NOVO-B.CO` | - | 2.53% |
-| 10 | [[../Entities/Intesa Sanpaolo\|Intesa Sanpaolo]] | `ISP.MI` | อิตาลี | 2.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/HSBC Holdings PLC\|HSBC Holdings PLC]] | `HSBA.L` | สหราชอาณาจักร | การเงิน | 4.77% |
+| 2 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | สื่อสาร | 4.66% |
+| 3 | [[../Entities/Nestle SA\|Nestle SA]] | `NESN.SW` | สวิตเซอร์แลนด์ | ผู้บริโภค | 3.99% |
+| 4 | [[../Entities/Pfizer Inc\|Pfizer Inc]] | `PFE` | สหรัฐฯ | สุขภาพ | 3.69% |
+| 5 | [[../Entities/Shell PLC\|Shell PLC]] | `SHEL.L` | สหราชอาณาจักร | พลังงาน | 3.39% |
+| 6 | [[../Entities/TotalEnergies SE\|TotalEnergies SE]] | `TTE.PA` | ฝรั่งเศส | พลังงาน | 3.20% |
+| 7 | [[../Entities/PepsiCo Inc\|PepsiCo Inc]] | `PEP` | สหรัฐฯ | ผู้บริโภค | 3.00% |
+| 8 | [[../Entities/Allianz Global Investors Fund - Allianz Global Artificial Intelligence Fund (LU1548497426)\|Allianz SE]] | `ALV.DE` | เยอรมนี | การเงิน | 2.79% |
+| 9 | [[../Entities/Novo Nordisk AS Class B\|Novo Nordisk AS Class B]] | `NOVO-B.CO` | - | สุขภาพ | 2.53% |
+| 10 | [[../Entities/Intesa Sanpaolo\|Intesa Sanpaolo]] | `ISP.MI` | อิตาลี | การเงิน | 2.49% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

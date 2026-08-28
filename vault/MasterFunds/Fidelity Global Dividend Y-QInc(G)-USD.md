@@ -83,17 +83,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.32% |
-| 2 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 3.58% |
-| 3 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | 3.40% |
-| 4 | [[../Entities/Unilever PLC\|Unilever PLC]] | `ULVR.L` | สหราชอาณาจักร | 3.19% |
-| 5 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | 3.17% |
-| 6 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | 3.17% |
-| 7 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 3.06% |
-| 8 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | 3.05% |
-| 9 | [[../Entities/Legrand SA\|Legrand SA]] | `LR.PA` | ฝรั่งเศส | 2.87% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 4.32% |
+| 2 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 3.58% |
+| 3 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | อุตสาหกรรม | 3.40% |
+| 4 | [[../Entities/Unilever PLC\|Unilever PLC]] | `ULVR.L` | สหราชอาณาจักร | ผู้บริโภค | 3.19% |
+| 5 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | เทคโนโลยี | 3.17% |
+| 6 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | การเงิน | 3.17% |
+| 7 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | สาธารณูปโภค | 3.06% |
+| 8 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 3.05% |
+| 9 | [[../Entities/Legrand SA\|Legrand SA]] | `LR.PA` | ฝรั่งเศส | อุตสาหกรรม | 2.87% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

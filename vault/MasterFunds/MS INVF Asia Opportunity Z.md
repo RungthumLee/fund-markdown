@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.64% |
-| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 9.50% |
-| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 8.56% |
-| 4 | [[../Entities/Trip.com Group Ltd ADR\|Trip.com Group Ltd ADR]] | `TCOM` | สหรัฐฯ | 5.24% |
-| 5 | Baidu Inc ADR | `BIDU` | สหรัฐฯ | 4.68% |
-| 6 | Coupang Inc Ordinary Shares - Class A | `CPNG` | สหรัฐฯ | 4.54% |
-| 7 | [[../Entities/ICICI Bank Ltd ADR\|ICICI Bank Ltd ADR]] | `IBN` | สหรัฐฯ | 4.40% |
-| 8 | KakaoBank Corp | `323410.KQ` | เกาหลีใต้ | 4.38% |
-| 9 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | 3.86% |
-| 10 | Tata Capital Ltd | `TATACAP.NS` | อินเดีย | 3.77% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 9.64% |
+| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 9.50% |
+| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 8.56% |
+| 4 | [[../Entities/Trip.com Group Ltd ADR\|Trip.com Group Ltd ADR]] | `TCOM` | สหรัฐฯ | ผู้บริโภค | 5.24% |
+| 5 | Baidu Inc ADR | `BIDU` | สหรัฐฯ | สื่อสาร | 4.68% |
+| 6 | Coupang Inc Ordinary Shares - Class A | `CPNG` | สหรัฐฯ | ผู้บริโภค | 4.54% |
+| 7 | [[../Entities/ICICI Bank Ltd ADR\|ICICI Bank Ltd ADR]] | `IBN` | สหรัฐฯ | การเงิน | 4.40% |
+| 8 | KakaoBank Corp | `323410.KQ` | เกาหลีใต้ | - | 4.38% |
+| 9 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | ผู้บริโภค | 3.86% |
+| 10 | Tata Capital Ltd | `TATACAP.NS` | อินเดีย | การเงิน | 3.77% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

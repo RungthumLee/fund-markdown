@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Evolution Mining Ltd | `EVN.AX` | ออสเตรเลีย | 6.19% |
-| 2 | [[../Entities/Equinox Gold Corp Ordinary Shares Class A\|Equinox Gold Corp Ordinary Shares Class A]] | `EQX.TO` | แคนาดา | 6.04% |
-| 3 | [[../Entities/Alamos Gold Inc Class A\|Alamos Gold Inc Class A]] | `AGI.TO` | แคนาดา | 5.79% |
-| 4 | Endeavour Mining PLC | `EDV.L` | สหราชอาณาจักร | 5.19% |
-| 5 | [[../Entities/Coeur Mining Inc\|Coeur Mining Inc]] | `CDE` | สหรัฐฯ | 4.82% |
-| 6 | [[../Entities/Industrias Penoles SAB de CV\|Industrias Penoles SAB de CV]] | `PE&OLES.MX` | - | 3.06% |
-| 7 | Eldorado Gold Corp | `ELD.TO` | แคนาดา | 2.61% |
-| 8 | [[../Entities/Hecla Mining Co\|Hecla Mining Co]] | `HL` | สหรัฐฯ | 2.53% |
-| 9 | [[../Entities/First Majestic Silver Corp\|First Majestic Silver Corp]] | `AG.TO` | แคนาดา | 2.50% |
-| 10 | Iamgold Corp | `IMG.TO` | แคนาดา | 2.39% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Evolution Mining Ltd | `EVN.AX` | ออสเตรเลีย | วัสดุ | 6.19% |
+| 2 | [[../Entities/Equinox Gold Corp Ordinary Shares Class A\|Equinox Gold Corp Ordinary Shares Class A]] | `EQX.TO` | แคนาดา | วัสดุ | 6.04% |
+| 3 | [[../Entities/Alamos Gold Inc Class A\|Alamos Gold Inc Class A]] | `AGI.TO` | แคนาดา | วัสดุ | 5.79% |
+| 4 | Endeavour Mining PLC | `EDV.L` | สหราชอาณาจักร | วัสดุ | 5.19% |
+| 5 | [[../Entities/Coeur Mining Inc\|Coeur Mining Inc]] | `CDE` | สหรัฐฯ | วัสดุ | 4.82% |
+| 6 | [[../Entities/Industrias Penoles SAB de CV\|Industrias Penoles SAB de CV]] | `PE&OLES.MX` | - | วัสดุ | 3.06% |
+| 7 | Eldorado Gold Corp | `ELD.TO` | แคนาดา | วัสดุ | 2.61% |
+| 8 | [[../Entities/Hecla Mining Co\|Hecla Mining Co]] | `HL` | สหรัฐฯ | วัสดุ | 2.53% |
+| 9 | [[../Entities/First Majestic Silver Corp\|First Majestic Silver Corp]] | `AG.TO` | แคนาดา | วัสดุ | 2.50% |
+| 10 | Iamgold Corp | `IMG.TO` | แคนาดา | วัสดุ | 2.39% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

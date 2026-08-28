@@ -70,18 +70,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/iShares MSCI ACWI ETF USD Acc\|iShares MSCI ACWI ETF USD Acc]] | `ISAC.L` | สหราชอาณาจักร | 7.28% |
-| 2 | [[../Entities/iShares S&P 500 Financials Sect ETF $Acc\|iShares S&P 500 Financials Sect ETF $Acc]] | `IUFS.L` | สหราชอาณาจักร | 6.13% |
-| 3 | [[../Entities/ISHARES NASDAQ 100 USD ACC\|iShares NASDAQ 100 ETF USD Acc]] | `CSNDX.SW` | สวิตเซอร์แลนด์ | 6.12% |
-| 4 | [[../Entities/iShares Core S&P 500 ETF USD Acc\|iShares Core S&P 500 ETF USD Acc]] | `CSSPX.SW` | สวิตเซอร์แลนด์ | 6.02% |
-| 5 | [[../Entities/iShares MSCI EM Asia ETF USD Acc\|iShares MSCI EM Asia ETF USD Acc]] | `CSEMAS.SW` | สวิตเซอร์แลนด์ | 5.90% |
-| 6 | [[../Entities/Invesco S&P 500® Top 50 ETF\|Invesco S&P 500® Top 50 ETF]] | `XLG` | สหรัฐฯ | 5.37% |
-| 7 | [[../Entities/State Street®TechSelSectSPDR®ETF\|State Street®TechSelSectSPDR®ETF]] | `XLK` | สหรัฐฯ | 4.79% |
-| 8 | [[../Entities/VanEck Semiconductor ETF (หุ้น)\|VanEck Semiconductor ETF]] | `SMH` | สหรัฐฯ | 4.55% |
-| 9 | [[../Entities/iShares MSCI Japan ETF USD Acc\|iShares MSCI Japan ETF USD Acc]] | `CJPU.L` | สหราชอาณาจักร | 3.78% |
-| 10 | [[../Entities/iShares S&P 500 Indstr Sect ETF USD Acc\|iShares S&P 500 Indstr Sect ETF USD Acc]] | `IUIS.L` | สหราชอาณาจักร | 3.43% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/iShares MSCI ACWI ETF USD Acc\|iShares MSCI ACWI ETF USD Acc]] | `ISAC.L` | สหราชอาณาจักร | - | 7.28% |
+| 2 | [[../Entities/iShares S&P 500 Financials Sect ETF $Acc\|iShares S&P 500 Financials Sect ETF $Acc]] | `IUFS.L` | สหราชอาณาจักร | - | 6.13% |
+| 3 | [[../Entities/ISHARES NASDAQ 100 USD ACC\|iShares NASDAQ 100 ETF USD Acc]] | `CSNDX.SW` | สวิตเซอร์แลนด์ | - | 6.12% |
+| 4 | [[../Entities/iShares Core S&P 500 ETF USD Acc\|iShares Core S&P 500 ETF USD Acc]] | `CSSPX.SW` | สวิตเซอร์แลนด์ | - | 6.02% |
+| 5 | [[../Entities/iShares MSCI EM Asia ETF USD Acc\|iShares MSCI EM Asia ETF USD Acc]] | `CSEMAS.SW` | สวิตเซอร์แลนด์ | - | 5.90% |
+| 6 | [[../Entities/Invesco S&P 500® Top 50 ETF\|Invesco S&P 500® Top 50 ETF]] | `XLG` | สหรัฐฯ | - | 5.37% |
+| 7 | [[../Entities/State Street®TechSelSectSPDR®ETF\|State Street®TechSelSectSPDR®ETF]] | `XLK` | สหรัฐฯ | - | 4.79% |
+| 8 | [[../Entities/VanEck Semiconductor ETF (หุ้น)\|VanEck Semiconductor ETF]] | `SMH` | สหรัฐฯ | - | 4.55% |
+| 9 | [[../Entities/iShares MSCI Japan ETF USD Acc\|iShares MSCI Japan ETF USD Acc]] | `CJPU.L` | สหราชอาณาจักร | - | 3.78% |
+| 10 | [[../Entities/iShares S&P 500 Indstr Sect ETF USD Acc\|iShares S&P 500 Indstr Sect ETF USD Acc]] | `IUIS.L` | สหราชอาณาจักร | - | 3.43% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

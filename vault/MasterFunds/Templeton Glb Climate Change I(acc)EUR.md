@@ -66,18 +66,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 6.32% |
-| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.40% |
-| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.15% |
-| 4 | [[../Entities/ING Groep NV\|ING Groep NV]] | `INGA.AS` | เนเธอร์แลนด์ | 3.92% |
-| 5 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | 3.86% |
-| 6 | Crown Holdings Inc | `CCK` | สหรัฐฯ | 3.41% |
-| 7 | Rayonier Inc | `RYN` | สหรัฐฯ | 3.12% |
-| 8 | [[../Entities/Veolia Environnement SA\|Veolia Environnement SA]] | `VIE.PA` | ฝรั่งเศส | 3.09% |
-| 9 | Smurfit WestRock PLC | `SW` | สหรัฐฯ | 3.08% |
-| 10 | [[../Entities/Waste Management Inc\|Waste Management Inc]] | `WM` | สหรัฐฯ | 2.99% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 6.32% |
+| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 4.40% |
+| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 4.15% |
+| 4 | [[../Entities/ING Groep NV\|ING Groep NV]] | `INGA.AS` | เนเธอร์แลนด์ | การเงิน | 3.92% |
+| 5 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | สุขภาพ | 3.86% |
+| 6 | Crown Holdings Inc | `CCK` | สหรัฐฯ | ผู้บริโภค | 3.41% |
+| 7 | Rayonier Inc | `RYN` | สหรัฐฯ | อสังหา | 3.12% |
+| 8 | [[../Entities/Veolia Environnement SA\|Veolia Environnement SA]] | `VIE.PA` | ฝรั่งเศส | อุตสาหกรรม | 3.09% |
+| 9 | Smurfit WestRock PLC | `SW` | สหรัฐฯ | ผู้บริโภค | 3.08% |
+| 10 | [[../Entities/Waste Management Inc\|Waste Management Inc]] | `WM` | สหรัฐฯ | อุตสาหกรรม | 2.99% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

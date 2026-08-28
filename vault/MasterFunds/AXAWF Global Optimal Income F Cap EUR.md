@@ -69,12 +69,12 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.63% |
-| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.27% |
-| 3 | WisdomTree Copper ETC | `COPA.L` | สหราชอาณาจักร | 4.00% |
-| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 3.50% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 4.63% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 4.27% |
+| 3 | WisdomTree Copper ETC | `COPA.L` | สหราชอาณาจักร | - | 4.00% |
+| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 3.50% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

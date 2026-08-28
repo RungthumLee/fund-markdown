@@ -78,18 +78,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 7.11% |
-| 2 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 7.09% |
-| 3 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 5.77% |
-| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 5.73% |
-| 5 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 5.02% |
-| 6 | [[../Entities/SAF FP Equity\|Safran SA]] | `SAF.PA` | ฝรั่งเศส | 4.68% |
-| 7 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | 4.67% |
-| 8 | Experian PLC | `EXPN.L` | สหราชอาณาจักร | 4.13% |
-| 9 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 3.82% |
-| 10 | [[../Entities/ASML Holding NV ADR\|ASML Holding NV ADR]] | `ASML` | สหรัฐฯ | 3.67% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 7.11% |
+| 2 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | สื่อสาร | 7.09% |
+| 3 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | การเงิน | 5.77% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | เทคโนโลยี | 5.73% |
+| 5 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | การเงิน | 5.02% |
+| 6 | [[../Entities/SAF FP Equity\|Safran SA]] | `SAF.PA` | ฝรั่งเศส | อุตสาหกรรม | 4.68% |
+| 7 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | การเงิน | 4.67% |
+| 8 | Experian PLC | `EXPN.L` | สหราชอาณาจักร | อุตสาหกรรม | 4.13% |
+| 9 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 3.82% |
+| 10 | [[../Entities/ASML Holding NV ADR\|ASML Holding NV ADR]] | `ASML` | สหรัฐฯ | เทคโนโลยี | 3.67% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

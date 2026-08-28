@@ -69,6 +69,9 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
 - **B2-R2 · ลิงก์ holdings กองหลัก → โน้ต entity** — V ผ่าน (broken=0 · NVIDIA→[[NVIDIA Corp]] · +คอลัมน์ตลาด) ·
   symbol→entity (look-through) → entity_links → note · กองหลักกลายเป็น hub ในกราฟ (คลิกหุ้น → เห็นกองไทยที่ถือทั้งหมด) ·
   ระวัง ISS-024 (pipe ธรรมดา ให้ cell() escape) · ไฟล์: `gen_master_notes.py` (+geography, sym_to_note)
+- **B2-R3 · sector ต่อหุ้นใน holdings กองหลัก** — V ผ่าน (broken=0 · NVIDIA→เทคโนโลยี · Alphabet→สื่อสาร ตาม GICS) ·
+  ตาราง holdings ครบ: name(ลิงก์)/ticker/ตลาด/กลุ่ม/สัดส่วน (กลุ่มจาก `security_meta`, no-op ถ้ายังไม่ fetch) ·
+  ไฟล์: `gen_master_notes.py` (+securities) · **B2 refinement เสร็จ**
 
 - **R1 · A1 ประเทศจากหลักทรัพย์** — V ผ่าน (broken=0 · orphan=0 · ISIN/symbol→ประเทศถูกทุกตัวที่สุ่ม) ·
   ตัดสินใจ DEC-L01 (โหวต 3/3 dual field) · 1750/2121 กองมีประเทศ พร้อม covered% เปิดเผยส่วนที่ทะลุไม่ได้ ·

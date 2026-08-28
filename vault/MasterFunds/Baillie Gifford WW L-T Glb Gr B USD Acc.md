@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 7.66% |
-| 2 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 6.53% |
-| 3 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 6.52% |
-| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 5.33% |
-| 5 | [[../Entities/AppLovin Corp Ordinary Shares - Class A\|AppLovin Corp Ordinary Shares - Class A]] | `APP` | สหรัฐฯ | 4.99% |
-| 6 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 4.83% |
-| 7 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 3.19% |
-| 8 | [[../Entities/Nu Holdings Ltd Ordinary Shares Class A\|Nu Holdings Ltd Ordinary Shares Class A]] | `NU` | สหรัฐฯ | 3.10% |
-| 9 | [[../Entities/Spotify Technology SA\|Spotify Technology SA]] | `SPOT` | สหรัฐฯ | 2.93% |
-| 10 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 2.91% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 7.66% |
+| 2 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 6.53% |
+| 3 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 6.52% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 5.33% |
+| 5 | [[../Entities/AppLovin Corp Ordinary Shares - Class A\|AppLovin Corp Ordinary Shares - Class A]] | `APP` | สหรัฐฯ | สื่อสาร | 4.99% |
+| 6 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | เทคโนโลยี | 4.83% |
+| 7 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 3.19% |
+| 8 | [[../Entities/Nu Holdings Ltd Ordinary Shares Class A\|Nu Holdings Ltd Ordinary Shares Class A]] | `NU` | สหรัฐฯ | การเงิน | 3.10% |
+| 9 | [[../Entities/Spotify Technology SA\|Spotify Technology SA]] | `SPOT` | สหรัฐฯ | สื่อสาร | 2.93% |
+| 10 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 2.91% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

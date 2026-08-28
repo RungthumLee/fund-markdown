@@ -82,18 +82,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 10.31% |
-| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 9.94% |
-| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 7.05% |
-| 4 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.85% |
-| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.12% |
-| 6 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 3.87% |
-| 7 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 3.32% |
-| 8 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 3.08% |
-| 9 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 2.58% |
-| 10 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 2.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 10.31% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 9.94% |
+| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 7.05% |
+| 4 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 4.85% |
+| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 4.12% |
+| 6 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 3.87% |
+| 7 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | สื่อสาร | 3.32% |
+| 8 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | สุขภาพ | 3.08% |
+| 9 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 2.58% |
+| 10 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | สื่อสาร | 2.49% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

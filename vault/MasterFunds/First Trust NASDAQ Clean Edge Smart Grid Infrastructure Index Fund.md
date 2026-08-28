@@ -75,18 +75,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 9.11% |
-| 2 | [[../Entities/Johnson Controls International PLC Registered Shares\|Johnson Controls International PLC Registered Shares]] | `JCI` | สหรัฐฯ | 8.53% |
-| 3 | [[../Entities/ETN US Equity\|Eaton Corp PLC]] | `ETN` | สหรัฐฯ | 8.39% |
-| 4 | [[../Entities/Quanta Services Inc\|Quanta Services Inc]] | `PWR` | สหรัฐฯ | 8.03% |
-| 5 | [[../Entities/ABB Ltd\|ABB Ltd]] | `ABBN.SW` | สวิตเซอร์แลนด์ | 8.00% |
-| 6 | [[../Entities/E.ON SE\|E.ON SE]] | `EOAN.DE` | เยอรมนี | 4.44% |
-| 7 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 4.32% |
-| 8 | [[../Entities/Prysmian SpA\|Prysmian SpA]] | `PRY.MI` | อิตาลี | 3.50% |
-| 9 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | 2.66% |
-| 10 | [[../Entities/Hubbell Inc\|Hubbell Inc]] | `HUBB` | สหรัฐฯ | 2.56% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | อุตสาหกรรม | 9.11% |
+| 2 | [[../Entities/Johnson Controls International PLC Registered Shares\|Johnson Controls International PLC Registered Shares]] | `JCI` | สหรัฐฯ | อุตสาหกรรม | 8.53% |
+| 3 | [[../Entities/ETN US Equity\|Eaton Corp PLC]] | `ETN` | สหรัฐฯ | อุตสาหกรรม | 8.39% |
+| 4 | [[../Entities/Quanta Services Inc\|Quanta Services Inc]] | `PWR` | สหรัฐฯ | อุตสาหกรรม | 8.03% |
+| 5 | [[../Entities/ABB Ltd\|ABB Ltd]] | `ABBN.SW` | สวิตเซอร์แลนด์ | อุตสาหกรรม | 8.00% |
+| 6 | [[../Entities/E.ON SE\|E.ON SE]] | `EOAN.DE` | เยอรมนี | สาธารณูปโภค | 4.44% |
+| 7 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | สาธารณูปโภค | 4.32% |
+| 8 | [[../Entities/Prysmian SpA\|Prysmian SpA]] | `PRY.MI` | อิตาลี | อุตสาหกรรม | 3.50% |
+| 9 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | อุตสาหกรรม | 2.66% |
+| 10 | [[../Entities/Hubbell Inc\|Hubbell Inc]] | `HUBB` | สหรัฐฯ | อุตสาหกรรม | 2.56% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

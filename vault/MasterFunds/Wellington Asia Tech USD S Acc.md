@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.28% |
-| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 9.14% |
-| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 8.91% |
-| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 5.70% |
-| 5 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 5.13% |
-| 6 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | 3.91% |
-| 7 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 3.41% |
-| 8 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | 3.11% |
-| 9 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 2.72% |
-| 10 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 2.59% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 9.28% |
+| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 9.14% |
+| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 8.91% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 5.70% |
+| 5 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | เทคโนโลยี | 5.13% |
+| 6 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | เทคโนโลยี | 3.91% |
+| 7 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 3.41% |
+| 8 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | เทคโนโลยี | 3.11% |
+| 9 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 2.72% |
+| 10 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | เทคโนโลยี | 2.59% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

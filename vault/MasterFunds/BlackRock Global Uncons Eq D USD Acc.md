@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 8.61% |
-| 2 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | 7.24% |
-| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 7.12% |
-| 4 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 5.63% |
-| 5 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 5.35% |
-| 6 | [[../Entities/HWM US Equity\|Howmet Aerospace Inc]] | `HWM` | สหรัฐฯ | 5.02% |
-| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 5.00% |
-| 8 | [[../Entities/Trane Technologies PLC Class A\|Trane Technologies PLC Class A]] | `TT` | สหรัฐฯ | 4.92% |
-| 9 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | 4.83% |
-| 10 | [[../Entities/Cadence Design Systems Inc\|Cadence Design Systems Inc]] | `CDNS` | สหรัฐฯ | 4.69% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 8.61% |
+| 2 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | อุตสาหกรรม | 7.24% |
+| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 7.12% |
+| 4 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 5.63% |
+| 5 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | สื่อสาร | 5.35% |
+| 6 | [[../Entities/HWM US Equity\|Howmet Aerospace Inc]] | `HWM` | สหรัฐฯ | อุตสาหกรรม | 5.02% |
+| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 5.00% |
+| 8 | [[../Entities/Trane Technologies PLC Class A\|Trane Technologies PLC Class A]] | `TT` | สหรัฐฯ | อุตสาหกรรม | 4.92% |
+| 9 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | อุตสาหกรรม | 4.83% |
+| 10 | [[../Entities/Cadence Design Systems Inc\|Cadence Design Systems Inc]] | `CDNS` | สหรัฐฯ | เทคโนโลยี | 4.69% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

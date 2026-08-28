@@ -80,18 +80,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.73% |
-| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.18% |
-| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 3.22% |
-| 4 | [[../Entities/Spotify Technology SA\|Spotify Technology SA]] | `SPOT` | สหรัฐฯ | 3.21% |
-| 5 | [[../Entities/argenx SE ADR\|argenx SE ADR]] | `ARGX` | สหรัฐฯ | 3.13% |
-| 6 | McKesson Corp | `MCK` | สหรัฐฯ | 2.73% |
-| 7 | Arthur J. Gallagher & Co | `AJG` | สหรัฐฯ | 2.63% |
-| 8 | CBRE Group Inc Class A | `CBRE` | สหรัฐฯ | 2.61% |
-| 9 | [[../Entities/Uber Technologies Inc\|Uber Technologies Inc]] | `UBER` | สหรัฐฯ | 2.56% |
-| 10 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 2.50% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 5.73% |
+| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 4.18% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 3.22% |
+| 4 | [[../Entities/Spotify Technology SA\|Spotify Technology SA]] | `SPOT` | สหรัฐฯ | สื่อสาร | 3.21% |
+| 5 | [[../Entities/argenx SE ADR\|argenx SE ADR]] | `ARGX` | สหรัฐฯ | สุขภาพ | 3.13% |
+| 6 | McKesson Corp | `MCK` | สหรัฐฯ | สุขภาพ | 2.73% |
+| 7 | Arthur J. Gallagher & Co | `AJG` | สหรัฐฯ | การเงิน | 2.63% |
+| 8 | CBRE Group Inc Class A | `CBRE` | สหรัฐฯ | อสังหา | 2.61% |
+| 9 | [[../Entities/Uber Technologies Inc\|Uber Technologies Inc]] | `UBER` | สหรัฐฯ | เทคโนโลยี | 2.56% |
+| 10 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | อุตสาหกรรม | 2.50% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

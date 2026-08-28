@@ -74,18 +74,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Rhythm Pharmaceuticals Inc | `RYTM` | สหรัฐฯ | 4.58% |
-| 2 | Arcutis Biotherapeutics Inc Ordinary Shares | `ARQT` | สหรัฐฯ | 4.30% |
-| 3 | [[../Entities/argenx SE\|argenx SE]] | `ARGX.BR` | - | 4.28% |
-| 4 | Ascendis Pharma AS | `ASND` | สหรัฐฯ | 4.08% |
-| 5 | Xenon Pharmaceuticals Inc | `XENE` | สหรัฐฯ | 3.88% |
-| 6 | [[../Entities/Alnylam Pharmaceuticals Inc\|Alnylam Pharmaceuticals Inc]] | `ALNY` | สหรัฐฯ | 3.61% |
-| 7 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 3.49% |
-| 8 | Enliven Therapeutics Inc | `ELVN` | สหรัฐฯ | 3.40% |
-| 9 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | 3.32% |
-| 10 | Madrigal Pharmaceuticals Inc | `MDGL` | สหรัฐฯ | 3.25% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Rhythm Pharmaceuticals Inc | `RYTM` | สหรัฐฯ | สุขภาพ | 4.58% |
+| 2 | Arcutis Biotherapeutics Inc Ordinary Shares | `ARQT` | สหรัฐฯ | สุขภาพ | 4.30% |
+| 3 | [[../Entities/argenx SE\|argenx SE]] | `ARGX.BR` | - | สุขภาพ | 4.28% |
+| 4 | Ascendis Pharma AS | `ASND` | สหรัฐฯ | สุขภาพ | 4.08% |
+| 5 | Xenon Pharmaceuticals Inc | `XENE` | สหรัฐฯ | สุขภาพ | 3.88% |
+| 6 | [[../Entities/Alnylam Pharmaceuticals Inc\|Alnylam Pharmaceuticals Inc]] | `ALNY` | สหรัฐฯ | สุขภาพ | 3.61% |
+| 7 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | สุขภาพ | 3.49% |
+| 8 | Enliven Therapeutics Inc | `ELVN` | สหรัฐฯ | สุขภาพ | 3.40% |
+| 9 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | สุขภาพ | 3.32% |
+| 10 | Madrigal Pharmaceuticals Inc | `MDGL` | สหรัฐฯ | สุขภาพ | 3.25% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

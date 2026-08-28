@@ -78,18 +78,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | 11.86% |
-| 2 | [[../Entities/Allianz Global Investors Fund - Allianz Global Artificial Intelligence Fund (LU1548497426)\|Allianz SE]] | `ALV.DE` | เยอรมนี | 9.41% |
-| 3 | [[../Entities/SAP SE\|SAP SE]] | `SAP.DE` | เยอรมนี | 9.12% |
-| 4 | [[../Entities/Siemens Energy AG Ordinary Shares\|Siemens Energy AG Ordinary Shares]] | `ENR.DE` | เยอรมนี | 6.86% |
-| 5 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | 6.80% |
-| 6 | [[../Entities/Deutsche Telekom AG\|Deutsche Telekom AG]] | `DTE.DE` | เยอรมนี | 5.30% |
-| 7 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 4.60% |
-| 8 | Munchener Ruckversicherungs-Gesellschaft AG | `MUV2.DE` | เยอรมนี | 3.79% |
-| 9 | [[../Entities/Deutsche Bank AG\|Deutsche Bank AG]] | `DBK.DE` | เยอรมนี | 3.48% |
-| 10 | Deutsche Post AG | `DHL.DE` | เยอรมนี | 3.12% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | อุตสาหกรรม | 11.86% |
+| 2 | [[../Entities/Allianz Global Investors Fund - Allianz Global Artificial Intelligence Fund (LU1548497426)\|Allianz SE]] | `ALV.DE` | เยอรมนี | การเงิน | 9.41% |
+| 3 | [[../Entities/SAP SE\|SAP SE]] | `SAP.DE` | เยอรมนี | เทคโนโลยี | 9.12% |
+| 4 | [[../Entities/Siemens Energy AG Ordinary Shares\|Siemens Energy AG Ordinary Shares]] | `ENR.DE` | เยอรมนี | อุตสาหกรรม | 6.86% |
+| 5 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | อุตสาหกรรม | 6.80% |
+| 6 | [[../Entities/Deutsche Telekom AG\|Deutsche Telekom AG]] | `DTE.DE` | เยอรมนี | สื่อสาร | 5.30% |
+| 7 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | เทคโนโลยี | 4.60% |
+| 8 | Munchener Ruckversicherungs-Gesellschaft AG | `MUV2.DE` | เยอรมนี | การเงิน | 3.79% |
+| 9 | [[../Entities/Deutsche Bank AG\|Deutsche Bank AG]] | `DBK.DE` | เยอรมนี | การเงิน | 3.48% |
+| 10 | Deutsche Post AG | `DHL.DE` | เยอรมนี | อุตสาหกรรม | 3.12% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

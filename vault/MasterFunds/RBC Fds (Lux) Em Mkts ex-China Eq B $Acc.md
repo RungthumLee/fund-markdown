@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.81% |
-| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 9.21% |
-| 3 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 4.90% |
-| 4 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 4.73% |
-| 5 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 4.57% |
-| 6 | [[../Entities/Chroma Ate Inc\|Chroma Ate Inc]] | `2360.TW` | ไต้หวัน | 4.12% |
-| 7 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 3.91% |
-| 8 | [[../Entities/Antofagasta PLC\|Antofagasta PLC]] | `ANTO.L` | สหราชอาณาจักร | 3.73% |
-| 9 | Samsung Fire & Marine Insurance Co Ltd | `000810.KQ` | เกาหลีใต้ | 3.06% |
-| 10 | [[../Entities/Fomento Economico Mexicano SAB de CV Units Cons. Of 1 Shs-B- And 4 Shs-D-\|Fomento Economico Mexicano SAB de CV Units Cons. Of 1 Shs-B- And 4 Shs-D-]] | `FEMSAUBD.MX` | - | 2.45% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 9.81% |
+| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 9.21% |
+| 3 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | - | 4.90% |
+| 4 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | เทคโนโลยี | 4.73% |
+| 5 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 4.57% |
+| 6 | [[../Entities/Chroma Ate Inc\|Chroma Ate Inc]] | `2360.TW` | ไต้หวัน | เทคโนโลยี | 4.12% |
+| 7 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 3.91% |
+| 8 | [[../Entities/Antofagasta PLC\|Antofagasta PLC]] | `ANTO.L` | สหราชอาณาจักร | วัสดุ | 3.73% |
+| 9 | Samsung Fire & Marine Insurance Co Ltd | `000810.KQ` | เกาหลีใต้ | - | 3.06% |
+| 10 | [[../Entities/Fomento Economico Mexicano SAB de CV Units Cons. Of 1 Shs-B- And 4 Shs-D-\|Fomento Economico Mexicano SAB de CV Units Cons. Of 1 Shs-B- And 4 Shs-D-]] | `FEMSAUBD.MX` | - | ผู้บริโภค | 2.45% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

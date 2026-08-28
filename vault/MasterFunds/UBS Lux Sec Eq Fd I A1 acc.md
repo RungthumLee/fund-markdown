@@ -77,18 +77,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Palo Alto Networks Inc\|Palo Alto Networks Inc]] | `PANW` | สหรัฐฯ | 3.82% |
-| 2 | [[../Entities/CrowdStrike Holdings Inc Class A\|CrowdStrike Holdings Inc Class A]] | `CRWD` | สหรัฐฯ | 3.53% |
-| 3 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 3.35% |
-| 4 | [[../Entities/Diploma PLC\|Diploma PLC]] | `DPLM.L` | สหราชอาณาจักร | 3.33% |
-| 5 | [[../Entities/Halma PLC\|Halma PLC]] | `HLMA.L` | สหราชอาณาจักร | 3.06% |
-| 6 | [[../Entities/Fortinet Inc\|Fortinet Inc]] | `FTNT` | สหรัฐฯ | 2.82% |
-| 7 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | 2.65% |
-| 8 | [[../Entities/Clean Harbors Inc\|Clean Harbors Inc]] | `CLH` | สหรัฐฯ | 2.65% |
-| 9 | West Pharmaceutical Services Inc | `WST` | สหรัฐฯ | 2.63% |
-| 10 | [[../Entities/IDEXX Laboratories Inc\|IDEXX Laboratories Inc]] | `IDXX` | สหรัฐฯ | 2.61% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Palo Alto Networks Inc\|Palo Alto Networks Inc]] | `PANW` | สหรัฐฯ | เทคโนโลยี | 3.82% |
+| 2 | [[../Entities/CrowdStrike Holdings Inc Class A\|CrowdStrike Holdings Inc Class A]] | `CRWD` | สหรัฐฯ | เทคโนโลยี | 3.53% |
+| 3 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | เทคโนโลยี | 3.35% |
+| 4 | [[../Entities/Diploma PLC\|Diploma PLC]] | `DPLM.L` | สหราชอาณาจักร | อุตสาหกรรม | 3.33% |
+| 5 | [[../Entities/Halma PLC\|Halma PLC]] | `HLMA.L` | สหราชอาณาจักร | อุตสาหกรรม | 3.06% |
+| 6 | [[../Entities/Fortinet Inc\|Fortinet Inc]] | `FTNT` | สหรัฐฯ | เทคโนโลยี | 2.82% |
+| 7 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | สุขภาพ | 2.65% |
+| 8 | [[../Entities/Clean Harbors Inc\|Clean Harbors Inc]] | `CLH` | สหรัฐฯ | อุตสาหกรรม | 2.65% |
+| 9 | West Pharmaceutical Services Inc | `WST` | สหรัฐฯ | สุขภาพ | 2.63% |
+| 10 | [[../Entities/IDEXX Laboratories Inc\|IDEXX Laboratories Inc]] | `IDXX` | สหรัฐฯ | สุขภาพ | 2.61% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 4.70% |
-| 2 | [[../Entities/Shandong Sinocera Functional Material Co Ltd Class A\|Shandong Sinocera Functional Material Co Ltd Class A]] | `300285.SZ` | จีน | 4.53% |
-| 3 | [[../Entities/Shenzhen Sunlord Electronics Co Ltd Class A\|Shenzhen Sunlord Electronics Co Ltd Class A]] | `002138.SZ` | จีน | 4.23% |
-| 4 | [[../Entities/Chaozhou Three-Circle (Group) Co Ltd Class A\|Chaozhou Three-Circle (Group) Co Ltd Class A]] | `300408.SZ` | จีน | 3.99% |
-| 5 | [[../Entities/Hubei Dinglong Co Ltd Class A\|Hubei Dinglong Co Ltd Class A]] | `300054.SZ` | จีน | 3.48% |
-| 6 | [[../Entities/Bank Of Ningbo Co Ltd Class A\|Bank Of Ningbo Co Ltd Class A]] | `002142.SZ` | จีน | 3.13% |
-| 7 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class A\|Ping An Insurance (Group) Co. of China Ltd Class A]] | `601318.SS` | จีน | 2.95% |
-| 8 | [[../Entities/Shengyi Technology Co Ltd Class A\|Shengyi Technology Co Ltd Class A]] | `600183.SS` | จีน | 2.54% |
-| 9 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | 2.42% |
-| 10 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | 2.39% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 4.70% |
+| 2 | [[../Entities/Shandong Sinocera Functional Material Co Ltd Class A\|Shandong Sinocera Functional Material Co Ltd Class A]] | `300285.SZ` | จีน | วัสดุ | 4.53% |
+| 3 | [[../Entities/Shenzhen Sunlord Electronics Co Ltd Class A\|Shenzhen Sunlord Electronics Co Ltd Class A]] | `002138.SZ` | จีน | เทคโนโลยี | 4.23% |
+| 4 | [[../Entities/Chaozhou Three-Circle (Group) Co Ltd Class A\|Chaozhou Three-Circle (Group) Co Ltd Class A]] | `300408.SZ` | จีน | เทคโนโลยี | 3.99% |
+| 5 | [[../Entities/Hubei Dinglong Co Ltd Class A\|Hubei Dinglong Co Ltd Class A]] | `300054.SZ` | จีน | วัสดุ | 3.48% |
+| 6 | [[../Entities/Bank Of Ningbo Co Ltd Class A\|Bank Of Ningbo Co Ltd Class A]] | `002142.SZ` | จีน | การเงิน | 3.13% |
+| 7 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class A\|Ping An Insurance (Group) Co. of China Ltd Class A]] | `601318.SS` | จีน | การเงิน | 2.95% |
+| 8 | [[../Entities/Shengyi Technology Co Ltd Class A\|Shengyi Technology Co Ltd Class A]] | `600183.SS` | จีน | เทคโนโลยี | 2.54% |
+| 9 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | การเงิน | 2.42% |
+| 10 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | วัสดุ | 2.39% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

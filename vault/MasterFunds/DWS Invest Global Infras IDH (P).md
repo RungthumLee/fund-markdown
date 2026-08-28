@@ -61,18 +61,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | 6.28% |
-| 2 | [[../Entities/TC Energy Corp\|TC Energy Corp]] | `TRP.TO` | แคนาดา | 5.72% |
-| 3 | [[../Entities/Enbridge Inc\|Enbridge Inc]] | `ENB.TO` | แคนาดา | 5.58% |
-| 4 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | 5.32% |
-| 5 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 4.94% |
-| 6 | [[../Entities/TARGA RESOURCES CORP\|Targa Resources Corp]] | `TRGP` | สหรัฐฯ | 4.67% |
-| 7 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | 4.64% |
-| 8 | [[../Entities/Sempra\|Sempra]] | `SRE` | สหรัฐฯ | 4.57% |
-| 9 | [[../Entities/PG&E Corp\|PG&E Corp]] | `PCG` | สหรัฐฯ | 3.63% |
-| 10 | [[../Entities/Consolidated Edison Inc\|Consolidated Edison Inc]] | `ED` | สหรัฐฯ | 3.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | พลังงาน | 6.28% |
+| 2 | [[../Entities/TC Energy Corp\|TC Energy Corp]] | `TRP.TO` | แคนาดา | พลังงาน | 5.72% |
+| 3 | [[../Entities/Enbridge Inc\|Enbridge Inc]] | `ENB.TO` | แคนาดา | พลังงาน | 5.58% |
+| 4 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | อุตสาหกรรม | 5.32% |
+| 5 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | สาธารณูปโภค | 4.94% |
+| 6 | [[../Entities/TARGA RESOURCES CORP\|Targa Resources Corp]] | `TRGP` | สหรัฐฯ | พลังงาน | 4.67% |
+| 7 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | อสังหา | 4.64% |
+| 8 | [[../Entities/Sempra\|Sempra]] | `SRE` | สหรัฐฯ | สาธารณูปโภค | 4.57% |
+| 9 | [[../Entities/PG&E Corp\|PG&E Corp]] | `PCG` | สหรัฐฯ | สาธารณูปโภค | 3.63% |
+| 10 | [[../Entities/Consolidated Edison Inc\|Consolidated Edison Inc]] | `ED` | สหรัฐฯ | สาธารณูปโภค | 3.49% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -66,18 +66,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 8.66% |
-| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.85% |
-| 3 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 7.75% |
-| 4 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 6.40% |
-| 5 | [[../Entities/Take-Two Interactive Software Inc\|Take-Two Interactive Software Inc]] | `TTWO` | สหรัฐฯ | 4.85% |
-| 6 | [[../Entities/Electronic Arts Inc\|Electronic Arts Inc]] | `EA` | สหรัฐฯ | 4.75% |
-| 7 | [[../Entities/Spotify Technology SA\|Spotify Technology SA]] | `SPOT` | สหรัฐฯ | 4.61% |
-| 8 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.59% |
-| 9 | [[../Entities/Nintendo Co Ltd\|Nintendo Co Ltd]] | `7974.T` | ญี่ปุ่น | 4.58% |
-| 10 | [[../Entities/Netflix Inc\|Netflix Inc]] | `NFLX` | สหรัฐฯ | 4.03% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 8.66% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 7.85% |
+| 3 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | สื่อสาร | 7.75% |
+| 4 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 6.40% |
+| 5 | [[../Entities/Take-Two Interactive Software Inc\|Take-Two Interactive Software Inc]] | `TTWO` | สหรัฐฯ | สื่อสาร | 4.85% |
+| 6 | [[../Entities/Electronic Arts Inc\|Electronic Arts Inc]] | `EA` | สหรัฐฯ | สื่อสาร | 4.75% |
+| 7 | [[../Entities/Spotify Technology SA\|Spotify Technology SA]] | `SPOT` | สหรัฐฯ | สื่อสาร | 4.61% |
+| 8 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 4.59% |
+| 9 | [[../Entities/Nintendo Co Ltd\|Nintendo Co Ltd]] | `7974.T` | ญี่ปุ่น | สื่อสาร | 4.58% |
+| 10 | [[../Entities/Netflix Inc\|Netflix Inc]] | `NFLX` | สหรัฐฯ | สื่อสาร | 4.03% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

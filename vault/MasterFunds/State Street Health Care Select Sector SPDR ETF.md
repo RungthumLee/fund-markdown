@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 15.47% |
-| 2 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 10.51% |
-| 3 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | 7.55% |
-| 4 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 6.41% |
-| 5 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 5.47% |
-| 6 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | 3.63% |
-| 7 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | 3.54% |
-| 8 | [[../Entities/Abbott Laboratories\|Abbott Laboratories]] | `ABT` | สหรัฐฯ | 3.13% |
-| 9 | [[../Entities/Gilead Sciences Inc\|Gilead Sciences Inc]] | `GILD` | สหรัฐฯ | 2.75% |
-| 10 | [[../Entities/Pfizer Inc\|Pfizer Inc]] | `PFE` | สหรัฐฯ | 2.43% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | สุขภาพ | 15.47% |
+| 2 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | สุขภาพ | 10.51% |
+| 3 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | สุขภาพ | 7.55% |
+| 4 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | สุขภาพ | 6.41% |
+| 5 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | สุขภาพ | 5.47% |
+| 6 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | สุขภาพ | 3.63% |
+| 7 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | สุขภาพ | 3.54% |
+| 8 | [[../Entities/Abbott Laboratories\|Abbott Laboratories]] | `ABT` | สหรัฐฯ | สุขภาพ | 3.13% |
+| 9 | [[../Entities/Gilead Sciences Inc\|Gilead Sciences Inc]] | `GILD` | สหรัฐฯ | สุขภาพ | 2.75% |
+| 10 | [[../Entities/Pfizer Inc\|Pfizer Inc]] | `PFE` | สหรัฐฯ | สุขภาพ | 2.43% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

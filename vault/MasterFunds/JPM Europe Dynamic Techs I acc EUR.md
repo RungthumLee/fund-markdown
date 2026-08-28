@@ -62,18 +62,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 9.25% |
-| 2 | [[../Entities/SAP SE\|SAP SE]] | `SAP.DE` | เยอรมนี | 8.35% |
-| 3 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 7.71% |
-| 4 | Nokia Oyj | `NOKIA.HE` | - | 6.13% |
-| 5 | [[../Entities/ASM International NV\|ASM International NV]] | `ASM.AS` | เนเธอร์แลนด์ | 4.68% |
-| 6 | Capgemini SE | `CAP.PA` | ฝรั่งเศส | 4.56% |
-| 7 | [[../Entities/Halma PLC\|Halma PLC]] | `HLMA.L` | สหราชอาณาจักร | 4.10% |
-| 8 | STMicroelectronics NV | `STMPA.PA` | ฝรั่งเศส | 3.84% |
-| 9 | [[../Entities/Hexagon AB Class B\|Hexagon AB Class B]] | `HEXA-B.ST` | - | 3.66% |
-| 10 | Dassault Systemes SE | `DSY.PA` | ฝรั่งเศส | 3.64% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 9.25% |
+| 2 | [[../Entities/SAP SE\|SAP SE]] | `SAP.DE` | เยอรมนี | เทคโนโลยี | 8.35% |
+| 3 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | เทคโนโลยี | 7.71% |
+| 4 | Nokia Oyj | `NOKIA.HE` | - | เทคโนโลยี | 6.13% |
+| 5 | [[../Entities/ASM International NV\|ASM International NV]] | `ASM.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 4.68% |
+| 6 | Capgemini SE | `CAP.PA` | ฝรั่งเศส | เทคโนโลยี | 4.56% |
+| 7 | [[../Entities/Halma PLC\|Halma PLC]] | `HLMA.L` | สหราชอาณาจักร | อุตสาหกรรม | 4.10% |
+| 8 | STMicroelectronics NV | `STMPA.PA` | ฝรั่งเศส | เทคโนโลยี | 3.84% |
+| 9 | [[../Entities/Hexagon AB Class B\|Hexagon AB Class B]] | `HEXA-B.ST` | - | เทคโนโลยี | 3.66% |
+| 10 | Dassault Systemes SE | `DSY.PA` | ฝรั่งเศส | เทคโนโลยี | 3.64% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

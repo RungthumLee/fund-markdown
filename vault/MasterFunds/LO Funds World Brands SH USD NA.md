@@ -78,18 +78,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.20% |
-| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.72% |
-| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 3.63% |
-| 4 | [[../Entities/CATERPILLAR INC\|Caterpillar Inc]] | `CAT` | สหรัฐฯ | 3.43% |
-| 5 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.32% |
-| 6 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 3.05% |
-| 7 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 3.03% |
-| 8 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 2.95% |
-| 9 | Monster Beverage Corp | `MNST` | สหรัฐฯ | 2.80% |
-| 10 | Dell Technologies Inc Ordinary Shares - Class C | `DELL` | สหรัฐฯ | 2.70% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 5.20% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 4.72% |
+| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 3.63% |
+| 4 | [[../Entities/CATERPILLAR INC\|Caterpillar Inc]] | `CAT` | สหรัฐฯ | อุตสาหกรรม | 3.43% |
+| 5 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 3.32% |
+| 6 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 3.05% |
+| 7 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 3.03% |
+| 8 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | สุขภาพ | 2.95% |
+| 9 | Monster Beverage Corp | `MNST` | สหรัฐฯ | ผู้บริโภค | 2.80% |
+| 10 | Dell Technologies Inc Ordinary Shares - Class C | `DELL` | สหรัฐฯ | เทคโนโลยี | 2.70% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

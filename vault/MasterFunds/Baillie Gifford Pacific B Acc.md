@@ -68,18 +68,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.01% |
-| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 8.02% |
-| 3 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | 7.82% |
-| 4 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 6.60% |
-| 5 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 5.09% |
-| 6 | [[../Entities/Montage Technology Co Ltd Class A\|Montage Technology Co Ltd Class A]] | `688008.SS` | จีน | 4.37% |
-| 7 | [[../Entities/Nanya Technology Corp\|Nanya Technology Corp]] | `2408.TW` | ไต้หวัน | 3.99% |
-| 8 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 3.91% |
-| 9 | [[../Entities/CNOOC Ltd\|CNOOC Ltd]] | `0883.HK` | ฮ่องกง | 2.33% |
-| 10 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 2.28% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 9.01% |
+| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 8.02% |
+| 3 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | - | 7.82% |
+| 4 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 6.60% |
+| 5 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 5.09% |
+| 6 | [[../Entities/Montage Technology Co Ltd Class A\|Montage Technology Co Ltd Class A]] | `688008.SS` | จีน | เทคโนโลยี | 4.37% |
+| 7 | [[../Entities/Nanya Technology Corp\|Nanya Technology Corp]] | `2408.TW` | ไต้หวัน | เทคโนโลยี | 3.99% |
+| 8 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 3.91% |
+| 9 | [[../Entities/CNOOC Ltd\|CNOOC Ltd]] | `0883.HK` | ฮ่องกง | พลังงาน | 2.33% |
+| 10 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | - | 2.28% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

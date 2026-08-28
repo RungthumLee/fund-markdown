@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 19.58% |
-| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 17.94% |
-| 3 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | 4.36% |
-| 4 | [[../Entities/Samsung Electro-Mechanics Co Ltd\|Samsung Electro-Mechanics Co Ltd]] | `009150.KQ` | เกาหลีใต้ | 2.95% |
-| 5 | [[../Entities/KB Financial Group Inc\|KB Financial Group Inc]] | `105560.KQ` | เกาหลีใต้ | 2.70% |
-| 6 | [[../Entities/Hyundai Motor Co\|Hyundai Motor Co]] | `005380.KQ` | เกาหลีใต้ | 2.45% |
-| 7 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electncs Co]] | `005935` | - | 2.27% |
-| 8 | [[../Entities/Shinhan Financial Group Co Ltd\|Shinhan Financial Group Co Ltd]] | `055550.KQ` | เกาหลีใต้ | 2.00% |
-| 9 | [[../Entities/Hana Financial Group Inc\|Hana Financial Group Inc]] | `086790.KQ` | เกาหลีใต้ | 1.55% |
-| 10 | [[../Entities/NAVER Corp\|NAVER Corp]] | `035420.KS` | เกาหลีใต้ | 1.46% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 19.58% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 17.94% |
+| 3 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | - | 4.36% |
+| 4 | [[../Entities/Samsung Electro-Mechanics Co Ltd\|Samsung Electro-Mechanics Co Ltd]] | `009150.KQ` | เกาหลีใต้ | - | 2.95% |
+| 5 | [[../Entities/KB Financial Group Inc\|KB Financial Group Inc]] | `105560.KQ` | เกาหลีใต้ | - | 2.70% |
+| 6 | [[../Entities/Hyundai Motor Co\|Hyundai Motor Co]] | `005380.KQ` | เกาหลีใต้ | - | 2.45% |
+| 7 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electncs Co]] | `005935` | - | - | 2.27% |
+| 8 | [[../Entities/Shinhan Financial Group Co Ltd\|Shinhan Financial Group Co Ltd]] | `055550.KQ` | เกาหลีใต้ | - | 2.00% |
+| 9 | [[../Entities/Hana Financial Group Inc\|Hana Financial Group Inc]] | `086790.KQ` | เกาหลีใต้ | - | 1.55% |
+| 10 | [[../Entities/NAVER Corp\|NAVER Corp]] | `035420.KS` | เกาหลีใต้ | สื่อสาร | 1.46% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Military Commercial Joint Stock Bank\|Military Commercial Joint Stock Bank]] | `MBB.VN` | เวียดนาม | 9.28% |
-| 2 | [[../Entities/Viet Nam Joint Stock Commercial Bank For Industry And Trade\|Viet Nam Joint Stock Commercial Bank For Industry And Trade]] | `CTG.VN` | เวียดนาม | 7.55% |
-| 3 | [[../Entities/Mobile World Investment Corp\|Mobile World Investment Corp]] | `MWG.VN` | เวียดนาม | 5.73% |
-| 4 | [[../Entities/Joint Stock Commercial Bank for Investment and Development of Vietnam\|Joint Stock Commercial Bank for Investment and Development of Vietnam]] | `BID.VN` | เวียดนาม | 4.80% |
-| 5 | [[../Entities/Vietnam Technological and Commercial Joint Stock bank Ordinary Shares\|Vietnam Technological and Commercial Joint Stock bank Ordinary Shares]] | `TCB.VN` | เวียดนาม | 4.58% |
-| 6 | [[../Entities/VIETCAP SECURITIES JSC\|Vietcap Securities JSC]] | `VCI.VN` | เวียดนาม | 4.35% |
-| 7 | [[../Entities/Hoa Phat Group JSC\|Hoa Phat Group JSC]] | `HPG.VN` | เวียดนาม | 4.16% |
-| 8 | [[../Entities/VINGROUP JSC\|Vingroup JSC]] | `VIC.VN` | เวียดนาม | 4.02% |
-| 9 | [[../Entities/Vinhomes Joint Stock Company\|Vinhomes JSC]] | `VHM.VN` | เวียดนาม | 3.81% |
-| 10 | [[../Entities/Saigon Thuong Tin Commercial Joint Stock Bank\|Saigon Thuong Tin Commercial Joint Stock Bank]] | `STB.VN` | เวียดนาม | 3.77% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Military Commercial Joint Stock Bank\|Military Commercial Joint Stock Bank]] | `MBB.VN` | เวียดนาม | การเงิน | 9.28% |
+| 2 | [[../Entities/Viet Nam Joint Stock Commercial Bank For Industry And Trade\|Viet Nam Joint Stock Commercial Bank For Industry And Trade]] | `CTG.VN` | เวียดนาม | การเงิน | 7.55% |
+| 3 | [[../Entities/Mobile World Investment Corp\|Mobile World Investment Corp]] | `MWG.VN` | เวียดนาม | ผู้บริโภค | 5.73% |
+| 4 | [[../Entities/Joint Stock Commercial Bank for Investment and Development of Vietnam\|Joint Stock Commercial Bank for Investment and Development of Vietnam]] | `BID.VN` | เวียดนาม | การเงิน | 4.80% |
+| 5 | [[../Entities/Vietnam Technological and Commercial Joint Stock bank Ordinary Shares\|Vietnam Technological and Commercial Joint Stock bank Ordinary Shares]] | `TCB.VN` | เวียดนาม | การเงิน | 4.58% |
+| 6 | [[../Entities/VIETCAP SECURITIES JSC\|Vietcap Securities JSC]] | `VCI.VN` | เวียดนาม | การเงิน | 4.35% |
+| 7 | [[../Entities/Hoa Phat Group JSC\|Hoa Phat Group JSC]] | `HPG.VN` | เวียดนาม | วัสดุ | 4.16% |
+| 8 | [[../Entities/VINGROUP JSC\|Vingroup JSC]] | `VIC.VN` | เวียดนาม | อสังหา | 4.02% |
+| 9 | [[../Entities/Vinhomes Joint Stock Company\|Vinhomes JSC]] | `VHM.VN` | เวียดนาม | อสังหา | 3.81% |
+| 10 | [[../Entities/Saigon Thuong Tin Commercial Joint Stock Bank\|Saigon Thuong Tin Commercial Joint Stock Bank]] | `STB.VN` | เวียดนาม | การเงิน | 3.77% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

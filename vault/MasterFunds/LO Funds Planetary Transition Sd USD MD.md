@@ -67,18 +67,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.45% |
-| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.42% |
-| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 2.33% |
-| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 2.26% |
-| 5 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 2.10% |
-| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 2.06% |
-| 7 | [[../Entities/LIN US Equity\|Linde PLC]] | `LIN` | สหรัฐฯ | 2.02% |
-| 8 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 2.02% |
-| 9 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 1.95% |
-| 10 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 1.88% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 5.45% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 4.42% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | เทคโนโลยี | 2.33% |
+| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 2.26% |
+| 5 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 2.10% |
+| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 2.06% |
+| 7 | [[../Entities/LIN US Equity\|Linde PLC]] | `LIN` | สหรัฐฯ | วัสดุ | 2.02% |
+| 8 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | เทคโนโลยี | 2.02% |
+| 9 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | เทคโนโลยี | 1.95% |
+| 10 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 1.88% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

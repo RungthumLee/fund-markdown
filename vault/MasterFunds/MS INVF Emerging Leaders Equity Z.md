@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 11.42% |
-| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 10.50% |
-| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 6.29% |
-| 4 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 3.80% |
-| 5 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | 3.44% |
-| 6 | [[../Entities/Sea Ltd ADR\|Sea Ltd ADR]] | `SE` | สหรัฐฯ | 2.88% |
-| 7 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 2.84% |
-| 8 | [[../Entities/Credicorp Ltd\|Credicorp Ltd]] | `BAP` | สหรัฐฯ | 2.64% |
-| 9 | OUTsurance Group Ltd | `OUT.JO` | - | 2.52% |
-| 10 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 2.50% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 11.42% |
+| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 10.50% |
+| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 6.29% |
+| 4 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | เทคโนโลยี | 3.80% |
+| 5 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | เทคโนโลยี | 3.44% |
+| 6 | [[../Entities/Sea Ltd ADR\|Sea Ltd ADR]] | `SE` | สหรัฐฯ | ผู้บริโภค | 2.88% |
+| 7 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 2.84% |
+| 8 | [[../Entities/Credicorp Ltd\|Credicorp Ltd]] | `BAP` | สหรัฐฯ | การเงิน | 2.64% |
+| 9 | OUTsurance Group Ltd | `OUT.JO` | - | การเงิน | 2.52% |
+| 10 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | การเงิน | 2.50% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

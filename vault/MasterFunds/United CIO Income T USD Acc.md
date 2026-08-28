@@ -69,15 +69,15 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/iShares Core Global Aggt Bd ETF USD HAcc\|iShares Core Global Aggt Bd ETF USD HAcc]] | `AGGU.L` | สหราชอาณาจักร | 6.99% |
-| 2 | [[../Entities/iShares MSCI ACWI ETF USD Acc\|iShares MSCI ACWI ETF USD Acc]] | `ISAC.L` | สหราชอาณาจักร | 4.41% |
-| 3 | [[../Entities/iShares S&P 500 Financials Sect ETF $Acc\|iShares S&P 500 Financials Sect ETF $Acc]] | `IUFS.L` | สหราชอาณาจักร | 3.75% |
-| 4 | [[../Entities/ISHARES NASDAQ 100 USD ACC\|iShares NASDAQ 100 ETF USD Acc]] | `CSNDX.SW` | สวิตเซอร์แลนด์ | 3.70% |
-| 5 | [[../Entities/iShares Core S&P 500 ETF USD Acc\|iShares Core S&P 500 ETF USD Acc]] | `CSSPX.SW` | สวิตเซอร์แลนด์ | 3.64% |
-| 6 | [[../Entities/iShares MSCI All Country Asia ex Jpn ETF\|iShares MSCI All Country Asia ex Jpn ETF]] | `AAXJ` | สหรัฐฯ | 3.60% |
-| 7 | [[../Entities/iShares $ Short Dur Corp Bd ETF USD Dist\|iShares $ Short Dur Corp Bd ETF USD Dist]] | `SDIG.L` | สหราชอาณาจักร | 3.44% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/iShares Core Global Aggt Bd ETF USD HAcc\|iShares Core Global Aggt Bd ETF USD HAcc]] | `AGGU.L` | สหราชอาณาจักร | - | 6.99% |
+| 2 | [[../Entities/iShares MSCI ACWI ETF USD Acc\|iShares MSCI ACWI ETF USD Acc]] | `ISAC.L` | สหราชอาณาจักร | - | 4.41% |
+| 3 | [[../Entities/iShares S&P 500 Financials Sect ETF $Acc\|iShares S&P 500 Financials Sect ETF $Acc]] | `IUFS.L` | สหราชอาณาจักร | - | 3.75% |
+| 4 | [[../Entities/ISHARES NASDAQ 100 USD ACC\|iShares NASDAQ 100 ETF USD Acc]] | `CSNDX.SW` | สวิตเซอร์แลนด์ | - | 3.70% |
+| 5 | [[../Entities/iShares Core S&P 500 ETF USD Acc\|iShares Core S&P 500 ETF USD Acc]] | `CSSPX.SW` | สวิตเซอร์แลนด์ | - | 3.64% |
+| 6 | [[../Entities/iShares MSCI All Country Asia ex Jpn ETF\|iShares MSCI All Country Asia ex Jpn ETF]] | `AAXJ` | สหรัฐฯ | - | 3.60% |
+| 7 | [[../Entities/iShares $ Short Dur Corp Bd ETF USD Dist\|iShares $ Short Dur Corp Bd ETF USD Dist]] | `SDIG.L` | สหราชอาณาจักร | - | 3.44% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

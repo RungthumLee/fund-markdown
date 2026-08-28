@@ -63,18 +63,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 6.36% |
-| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 5.38% |
-| 3 | [[../Entities/Amphenol Corp Class A\|Amphenol Corp Class A]] | `APH` | สหรัฐฯ | 3.48% |
-| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 3.39% |
-| 5 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 3.32% |
-| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.25% |
-| 7 | [[../Entities/SPGI US Equity\|S&P Global Inc]] | `SPGI` | สหรัฐฯ | 3.20% |
-| 8 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 2.95% |
-| 9 | [[../Entities/AMETEK Inc\|AMETEK Inc]] | `AME` | สหรัฐฯ | 2.77% |
-| 10 | [[../Entities/Aon PLC Class A\|Aon PLC Class A]] | `AON` | สหรัฐฯ | 2.58% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 6.36% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 5.38% |
+| 3 | [[../Entities/Amphenol Corp Class A\|Amphenol Corp Class A]] | `APH` | สหรัฐฯ | เทคโนโลยี | 3.48% |
+| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 3.39% |
+| 5 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | การเงิน | 3.32% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 3.25% |
+| 7 | [[../Entities/SPGI US Equity\|S&P Global Inc]] | `SPGI` | สหรัฐฯ | การเงิน | 3.20% |
+| 8 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 2.95% |
+| 9 | [[../Entities/AMETEK Inc\|AMETEK Inc]] | `AME` | สหรัฐฯ | อุตสาหกรรม | 2.77% |
+| 10 | [[../Entities/Aon PLC Class A\|Aon PLC Class A]] | `AON` | สหรัฐฯ | การเงิน | 2.58% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

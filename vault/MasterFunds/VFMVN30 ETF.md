@@ -69,18 +69,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/VINGROUP JSC\|Vingroup JSC]] | `VIC.VN` | เวียดนาม | 11.81% |
-| 2 | [[../Entities/FPT CORPORATION\|FPT Corp]] | `FPT.VN` | เวียดนาม | 10.43% |
-| 3 | [[../Entities/Hoa Phat Group JSC\|Hoa Phat Group JSC]] | `HPG.VN` | เวียดนาม | 8.39% |
-| 4 | [[../Entities/Mobile World Investment Corp\|Mobile World Investment Corp]] | `MWG.VN` | เวียดนาม | 6.67% |
-| 5 | [[../Entities/Masan Group Corp\|Masan Group Corp]] | `MSN.VN` | เวียดนาม | 5.06% |
-| 6 | [[../Entities/Vietnam Prosperity JSC Bank\|Vietnam Prosperity JSC Bank]] | `VPB.VN` | เวียดนาม | 4.60% |
-| 7 | LocPhat Vietnam Joint Stock Commercial Bank Ordinary Shares | `LPB.VN` | เวียดนาม | 4.56% |
-| 8 | [[../Entities/Vietnam Technological and Commercial Joint Stock bank Ordinary Shares\|Vietnam Technological and Commercial Joint Stock bank Ordinary Shares]] | `TCB.VN` | เวียดนาม | 4.34% |
-| 9 | [[../Entities/Vinhomes Joint Stock Company\|Vinhomes JSC]] | `VHM.VN` | เวียดนาม | 4.29% |
-| 10 | [[../Entities/VIETNAM DAIRY PRODUCTS JSC\|Vietnam Dairy Products JSC]] | `VNM.VN` | เวียดนาม | 4.02% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/VINGROUP JSC\|Vingroup JSC]] | `VIC.VN` | เวียดนาม | อสังหา | 11.81% |
+| 2 | [[../Entities/FPT CORPORATION\|FPT Corp]] | `FPT.VN` | เวียดนาม | เทคโนโลยี | 10.43% |
+| 3 | [[../Entities/Hoa Phat Group JSC\|Hoa Phat Group JSC]] | `HPG.VN` | เวียดนาม | วัสดุ | 8.39% |
+| 4 | [[../Entities/Mobile World Investment Corp\|Mobile World Investment Corp]] | `MWG.VN` | เวียดนาม | ผู้บริโภค | 6.67% |
+| 5 | [[../Entities/Masan Group Corp\|Masan Group Corp]] | `MSN.VN` | เวียดนาม | อุตสาหกรรม | 5.06% |
+| 6 | [[../Entities/Vietnam Prosperity JSC Bank\|Vietnam Prosperity JSC Bank]] | `VPB.VN` | เวียดนาม | การเงิน | 4.60% |
+| 7 | LocPhat Vietnam Joint Stock Commercial Bank Ordinary Shares | `LPB.VN` | เวียดนาม | การเงิน | 4.56% |
+| 8 | [[../Entities/Vietnam Technological and Commercial Joint Stock bank Ordinary Shares\|Vietnam Technological and Commercial Joint Stock bank Ordinary Shares]] | `TCB.VN` | เวียดนาม | การเงิน | 4.34% |
+| 9 | [[../Entities/Vinhomes Joint Stock Company\|Vinhomes JSC]] | `VHM.VN` | เวียดนาม | อสังหา | 4.29% |
+| 10 | [[../Entities/VIETNAM DAIRY PRODUCTS JSC\|Vietnam Dairy Products JSC]] | `VNM.VN` | เวียดนาม | ผู้บริโภค | 4.02% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

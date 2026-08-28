@@ -65,18 +65,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/FinecoBank SpA\|FinecoBank SpA]] | `FBK.MI` | อิตาลี | 5.39% |
-| 2 | US Foods Holding Corp | `USFD` | สหรัฐฯ | 5.15% |
-| 3 | [[../Entities/Clean Harbors Inc\|Clean Harbors Inc]] | `CLH` | สหรัฐฯ | 4.49% |
-| 4 | Nasdaq Inc | `NDAQ` | สหรัฐฯ | 4.30% |
-| 5 | AerCap Holdings NV | `AER` | สหรัฐฯ | 3.89% |
-| 6 | Epiroc AB Ordinary Shares - Class A | `EPI-A.ST` | - | 3.89% |
-| 7 | [[../Entities/Reckitt Benckiser Group PLC\|Reckitt Benckiser Group PLC]] | `RKT.L` | สหราชอาณาจักร | 3.83% |
-| 8 | [[../Entities/HDFC Bank Ltd ADR\|HDFC Bank Ltd ADR]] | `HDB` | สหรัฐฯ | 3.71% |
-| 9 | [[../Entities/Engie SA\|Engie SA]] | `ENGI.PA` | ฝรั่งเศส | 3.66% |
-| 10 | [[../Entities/ITOCHU Corp\|ITOCHU Corp]] | `8001.T` | ญี่ปุ่น | 3.66% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/FinecoBank SpA\|FinecoBank SpA]] | `FBK.MI` | อิตาลี | การเงิน | 5.39% |
+| 2 | US Foods Holding Corp | `USFD` | สหรัฐฯ | ผู้บริโภค | 5.15% |
+| 3 | [[../Entities/Clean Harbors Inc\|Clean Harbors Inc]] | `CLH` | สหรัฐฯ | อุตสาหกรรม | 4.49% |
+| 4 | Nasdaq Inc | `NDAQ` | สหรัฐฯ | การเงิน | 4.30% |
+| 5 | AerCap Holdings NV | `AER` | สหรัฐฯ | อุตสาหกรรม | 3.89% |
+| 6 | Epiroc AB Ordinary Shares - Class A | `EPI-A.ST` | - | อุตสาหกรรม | 3.89% |
+| 7 | [[../Entities/Reckitt Benckiser Group PLC\|Reckitt Benckiser Group PLC]] | `RKT.L` | สหราชอาณาจักร | ผู้บริโภค | 3.83% |
+| 8 | [[../Entities/HDFC Bank Ltd ADR\|HDFC Bank Ltd ADR]] | `HDB` | สหรัฐฯ | การเงิน | 3.71% |
+| 9 | [[../Entities/Engie SA\|Engie SA]] | `ENGI.PA` | ฝรั่งเศส | สาธารณูปโภค | 3.66% |
+| 10 | [[../Entities/ITOCHU Corp\|ITOCHU Corp]] | `8001.T` | ญี่ปุ่น | อุตสาหกรรม | 3.66% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

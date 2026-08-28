@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/United Microelectronics Corp\|United Microelectronics Corp]] | `2303.TW` | ไต้หวัน | 2.60% |
-| 2 | [[../Entities/Realtek Semiconductor Corp\|Realtek Semiconductor Corp]] | `2379.TW` | ไต้หวัน | 2.27% |
-| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 2.04% |
-| 4 | [[../Entities/Marketech International Corp\|Marketech International Corp]] | `6196.TW` | ไต้หวัน | 1.93% |
-| 5 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 1.89% |
-| 6 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 1.89% |
-| 7 | Topco Scientific Co Ltd | `5434.TW` | ไต้หวัน | 1.76% |
-| 8 | [[../Entities/OVERSEA-CHINESE BANKING CORP\|Oversea-Chinese Banking Corp Ltd]] | `O39.SI` | สิงคโปร์ | 1.74% |
-| 9 | [[../Entities/Foxconn Industrial Internet Co Ltd Class A\|Foxconn Industrial Internet Co Ltd Class A]] | `601138.SS` | จีน | 1.72% |
-| 10 | DB HiTek Co Ltd | `000990.KQ` | เกาหลีใต้ | 1.72% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/United Microelectronics Corp\|United Microelectronics Corp]] | `2303.TW` | ไต้หวัน | เทคโนโลยี | 2.60% |
+| 2 | [[../Entities/Realtek Semiconductor Corp\|Realtek Semiconductor Corp]] | `2379.TW` | ไต้หวัน | เทคโนโลยี | 2.27% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 2.04% |
+| 4 | [[../Entities/Marketech International Corp\|Marketech International Corp]] | `6196.TW` | ไต้หวัน | เทคโนโลยี | 1.93% |
+| 5 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 1.89% |
+| 6 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 1.89% |
+| 7 | Topco Scientific Co Ltd | `5434.TW` | ไต้หวัน | เทคโนโลยี | 1.76% |
+| 8 | [[../Entities/OVERSEA-CHINESE BANKING CORP\|Oversea-Chinese Banking Corp Ltd]] | `O39.SI` | สิงคโปร์ | การเงิน | 1.74% |
+| 9 | [[../Entities/Foxconn Industrial Internet Co Ltd Class A\|Foxconn Industrial Internet Co Ltd Class A]] | `601138.SS` | จีน | เทคโนโลยี | 1.72% |
+| 10 | DB HiTek Co Ltd | `000990.KQ` | เกาหลีใต้ | - | 1.72% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

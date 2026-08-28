@@ -75,18 +75,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Dycom Industries Inc | `DY` | สหรัฐฯ | 3.44% |
-| 2 | Argan Inc | `AGX` | สหรัฐฯ | 3.24% |
-| 3 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | 3.14% |
-| 4 | IES Holdings Inc | `IESC` | สหรัฐฯ | 3.13% |
-| 5 | [[../Entities/BWX Technologies Inc\|BWX Technologies Inc]] | `BWXT` | สหรัฐฯ | 3.07% |
-| 6 | [[../Entities/Kratos Defense & Security Solutions Inc\|Kratos Defense & Security Solutions Inc]] | `KTOS` | สหรัฐฯ | 3.03% |
-| 7 | Karman Holdings Inc | `KRMN` | สหรัฐฯ | 3.02% |
-| 8 | SPX Technologies Inc | `SPXC` | สหรัฐฯ | 3.01% |
-| 9 | Owens-Corning Inc | `OC` | สหรัฐฯ | 3.01% |
-| 10 | [[../Entities/Powell Industries Inc\|Powell Industries Inc]] | `POWL` | สหรัฐฯ | 2.97% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Dycom Industries Inc | `DY` | สหรัฐฯ | อุตสาหกรรม | 3.44% |
+| 2 | Argan Inc | `AGX` | สหรัฐฯ | อุตสาหกรรม | 3.24% |
+| 3 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | เทคโนโลยี | 3.14% |
+| 4 | IES Holdings Inc | `IESC` | สหรัฐฯ | อุตสาหกรรม | 3.13% |
+| 5 | [[../Entities/BWX Technologies Inc\|BWX Technologies Inc]] | `BWXT` | สหรัฐฯ | อุตสาหกรรม | 3.07% |
+| 6 | [[../Entities/Kratos Defense & Security Solutions Inc\|Kratos Defense & Security Solutions Inc]] | `KTOS` | สหรัฐฯ | อุตสาหกรรม | 3.03% |
+| 7 | Karman Holdings Inc | `KRMN` | สหรัฐฯ | อุตสาหกรรม | 3.02% |
+| 8 | SPX Technologies Inc | `SPXC` | สหรัฐฯ | อุตสาหกรรม | 3.01% |
+| 9 | Owens-Corning Inc | `OC` | สหรัฐฯ | อุตสาหกรรม | 3.01% |
+| 10 | [[../Entities/Powell Industries Inc\|Powell Industries Inc]] | `POWL` | สหรัฐฯ | อุตสาหกรรม | 2.97% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

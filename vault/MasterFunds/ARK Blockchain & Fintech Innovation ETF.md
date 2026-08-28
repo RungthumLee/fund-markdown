@@ -77,18 +77,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | 9.22% |
-| 2 | [[../Entities/Block Inc Class A\|Block Inc Class A]] | `XYZ` | สหรัฐฯ | 6.62% |
-| 3 | Simplify Managed Futures Strategy ETF | `CTA` | สหรัฐฯ | 6.23% |
-| 4 | [[../Entities/Robinhood Markets Inc Class A\|Robinhood Markets Inc Class A]] | `HOOD` | สหรัฐฯ | 5.35% |
-| 5 | [[../Entities/Coinbase Global Inc Ordinary Shares - Class A\|Coinbase Global Inc Ordinary Shares - Class A]] | `COIN` | สหรัฐฯ | 5.24% |
-| 6 | Toast Inc Class A | `TOST` | สหรัฐฯ | 5.12% |
-| 7 | [[../Entities/Circle Internet Group Inc Ordinary Shares - Class A\|Circle Internet Group Inc Ordinary Shares - Class A]] | `CRCL` | สหรัฐฯ | 4.77% |
-| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.34% |
-| 9 | [[../Entities/Palantir Technologies Inc Ordinary Shares - Class A\|Palantir Technologies Inc Ordinary Shares - Class A]] | `PLTR` | สหรัฐฯ | 4.22% |
-| 10 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 3.50% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | เทคโนโลยี | 9.22% |
+| 2 | [[../Entities/Block Inc Class A\|Block Inc Class A]] | `XYZ` | สหรัฐฯ | เทคโนโลยี | 6.62% |
+| 3 | Simplify Managed Futures Strategy ETF | `CTA` | สหรัฐฯ | - | 6.23% |
+| 4 | [[../Entities/Robinhood Markets Inc Class A\|Robinhood Markets Inc Class A]] | `HOOD` | สหรัฐฯ | การเงิน | 5.35% |
+| 5 | [[../Entities/Coinbase Global Inc Ordinary Shares - Class A\|Coinbase Global Inc Ordinary Shares - Class A]] | `COIN` | สหรัฐฯ | การเงิน | 5.24% |
+| 6 | Toast Inc Class A | `TOST` | สหรัฐฯ | เทคโนโลยี | 5.12% |
+| 7 | [[../Entities/Circle Internet Group Inc Ordinary Shares - Class A\|Circle Internet Group Inc Ordinary Shares - Class A]] | `CRCL` | สหรัฐฯ | การเงิน | 4.77% |
+| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 4.34% |
+| 9 | [[../Entities/Palantir Technologies Inc Ordinary Shares - Class A\|Palantir Technologies Inc Ordinary Shares - Class A]] | `PLTR` | สหรัฐฯ | เทคโนโลยี | 4.22% |
+| 10 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 3.50% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -72,11 +72,11 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/INVESCO PHYSICAL GOLD ETC\|Invesco Physical Gold ETC]] | `SGLD.L` | สหราชอาณาจักร | 3.38% |
-| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.94% |
-| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 2.67% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/INVESCO PHYSICAL GOLD ETC\|Invesco Physical Gold ETC]] | `SGLD.L` | สหราชอาณาจักร | - | 3.38% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 2.94% |
+| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 2.67% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Bawag Group AG Ordinary Shares\|Bawag Group AG Ordinary Shares]] | `BG.VI` | - | 5.86% |
-| 2 | [[../Entities/Accelleron Industries AG Ordinary Shares\|Accelleron Industries AG Ordinary Shares]] | `ACLN.SW` | สวิตเซอร์แลนด์ | 4.23% |
-| 3 | [[../Entities/SigmaRoc PLC\|SigmaRoc PLC]] | `SRC.L` | สหราชอาณาจักร | 3.84% |
-| 4 | [[../Entities/SBM Offshore NV\|SBM Offshore NV]] | `SBMO.AS` | เนเธอร์แลนด์ | 3.65% |
-| 5 | [[../Entities/Asker Healthcare Group AB\|Asker Healthcare Group AB]] | `ASKER.ST` | - | 3.55% |
-| 6 | [[../Entities/Vincorion SE\|Vincorion SE]] | `V1NC.F` | เยอรมนี | 3.38% |
-| 7 | [[../Entities/Bufab AB\|Bufab AB]] | `BUFAB.ST` | - | 3.37% |
-| 8 | [[../Entities/CTT-Correios de Portugal SA\|CTT-Correios de Portugal SA]] | `CTT.LS` | - | 3.22% |
-| 9 | [[../Entities/Konecranes Oyj\|Konecranes Oyj]] | `KCR.HE` | - | 3.16% |
-| 10 | [[../Entities/Eiffage SA Bearer and - or registered shares\|Eiffage SA Bearer and / or registered shares]] | `FGR.PA` | ฝรั่งเศส | 3.01% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Bawag Group AG Ordinary Shares\|Bawag Group AG Ordinary Shares]] | `BG.VI` | - | การเงิน | 5.86% |
+| 2 | [[../Entities/Accelleron Industries AG Ordinary Shares\|Accelleron Industries AG Ordinary Shares]] | `ACLN.SW` | สวิตเซอร์แลนด์ | อุตสาหกรรม | 4.23% |
+| 3 | [[../Entities/SigmaRoc PLC\|SigmaRoc PLC]] | `SRC.L` | สหราชอาณาจักร | วัสดุ | 3.84% |
+| 4 | [[../Entities/SBM Offshore NV\|SBM Offshore NV]] | `SBMO.AS` | เนเธอร์แลนด์ | พลังงาน | 3.65% |
+| 5 | [[../Entities/Asker Healthcare Group AB\|Asker Healthcare Group AB]] | `ASKER.ST` | - | สุขภาพ | 3.55% |
+| 6 | [[../Entities/Vincorion SE\|Vincorion SE]] | `V1NC.F` | เยอรมนี | อุตสาหกรรม | 3.38% |
+| 7 | [[../Entities/Bufab AB\|Bufab AB]] | `BUFAB.ST` | - | อุตสาหกรรม | 3.37% |
+| 8 | [[../Entities/CTT-Correios de Portugal SA\|CTT-Correios de Portugal SA]] | `CTT.LS` | - | อุตสาหกรรม | 3.22% |
+| 9 | [[../Entities/Konecranes Oyj\|Konecranes Oyj]] | `KCR.HE` | - | อุตสาหกรรม | 3.16% |
+| 10 | [[../Entities/Eiffage SA Bearer and - or registered shares\|Eiffage SA Bearer and / or registered shares]] | `FGR.PA` | ฝรั่งเศส | อุตสาหกรรม | 3.01% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

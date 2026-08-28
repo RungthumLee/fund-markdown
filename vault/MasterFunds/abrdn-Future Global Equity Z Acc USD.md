@@ -84,17 +84,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 3.13% |
-| 2 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 2.76% |
-| 3 | [[../Entities/Gaztransport et technigaz SA\|Gaztransport et technigaz SA]] | `GTT.PA` | ฝรั่งเศส | 2.59% |
-| 4 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 2.55% |
-| 5 | [[../Entities/Motorola Solutions Inc\|Motorola Solutions Inc]] | `MSI` | สหรัฐฯ | 2.50% |
-| 6 | [[../Entities/Elite Material Co Ltd\|Elite Material Co Ltd]] | `2383.TW` | ไต้หวัน | 2.47% |
-| 7 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 2.26% |
-| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 2.26% |
-| 9 | [[../Entities/Canadian Pacific Kansas City Ltd\|Canadian Pacific Kansas City Ltd]] | `CP.TO` | แคนาดา | 2.15% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | เทคโนโลยี | 3.13% |
+| 2 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 2.76% |
+| 3 | [[../Entities/Gaztransport et technigaz SA\|Gaztransport et technigaz SA]] | `GTT.PA` | ฝรั่งเศส | พลังงาน | 2.59% |
+| 4 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 2.55% |
+| 5 | [[../Entities/Motorola Solutions Inc\|Motorola Solutions Inc]] | `MSI` | สหรัฐฯ | เทคโนโลยี | 2.50% |
+| 6 | [[../Entities/Elite Material Co Ltd\|Elite Material Co Ltd]] | `2383.TW` | ไต้หวัน | เทคโนโลยี | 2.47% |
+| 7 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | การเงิน | 2.26% |
+| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 2.26% |
+| 9 | [[../Entities/Canadian Pacific Kansas City Ltd\|Canadian Pacific Kansas City Ltd]] | `CP.TO` | แคนาดา | อุตสาหกรรม | 2.15% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

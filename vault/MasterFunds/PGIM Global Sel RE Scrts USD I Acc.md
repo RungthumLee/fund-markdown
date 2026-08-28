@@ -75,18 +75,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | 8.47% |
-| 2 | [[../Entities/PLD US Equity\|Prologis Inc]] | `PLD` | สหรัฐฯ | 6.21% |
-| 3 | [[../Entities/Digital Realty\|Digital Realty Trust Inc]] | `DLR` | สหรัฐฯ | 4.04% |
-| 4 | [[../Entities/SPG US Equity\|Simon Property Group Inc]] | `SPG` | สหรัฐฯ | 3.74% |
-| 5 | [[../Entities/American Healthcare REIT Inc Ordinary Shares\|American Healthcare REIT Inc Ordinary Shares]] | `AHR` | สหรัฐฯ | 3.02% |
-| 6 | [[../Entities/GOODMAN GROUP\|Goodman Group]] | `GMG.AX` | ออสเตรเลีย | 3.00% |
-| 7 | [[../Entities/First Industrial Realty Trust Inc\|First Industrial Realty Trust Inc]] | `FR` | สหรัฐฯ | 2.87% |
-| 8 | [[../Entities/Iron Mountain Inc\|Iron Mountain Inc]] | `IRM` | สหรัฐฯ | 2.86% |
-| 9 | [[../Entities/Americold Realty Trust Inc\|Americold Realty Trust Inc]] | `COLD` | สหรัฐฯ | 2.77% |
-| 10 | [[../Entities/Agree Realty Corp\|Agree Realty Corp]] | `ADC` | สหรัฐฯ | 2.63% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | อสังหา | 8.47% |
+| 2 | [[../Entities/PLD US Equity\|Prologis Inc]] | `PLD` | สหรัฐฯ | อสังหา | 6.21% |
+| 3 | [[../Entities/Digital Realty\|Digital Realty Trust Inc]] | `DLR` | สหรัฐฯ | อสังหา | 4.04% |
+| 4 | [[../Entities/SPG US Equity\|Simon Property Group Inc]] | `SPG` | สหรัฐฯ | อสังหา | 3.74% |
+| 5 | [[../Entities/American Healthcare REIT Inc Ordinary Shares\|American Healthcare REIT Inc Ordinary Shares]] | `AHR` | สหรัฐฯ | อสังหา | 3.02% |
+| 6 | [[../Entities/GOODMAN GROUP\|Goodman Group]] | `GMG.AX` | ออสเตรเลีย | อสังหา | 3.00% |
+| 7 | [[../Entities/First Industrial Realty Trust Inc\|First Industrial Realty Trust Inc]] | `FR` | สหรัฐฯ | อสังหา | 2.87% |
+| 8 | [[../Entities/Iron Mountain Inc\|Iron Mountain Inc]] | `IRM` | สหรัฐฯ | อสังหา | 2.86% |
+| 9 | [[../Entities/Americold Realty Trust Inc\|Americold Realty Trust Inc]] | `COLD` | สหรัฐฯ | อสังหา | 2.77% |
+| 10 | [[../Entities/Agree Realty Corp\|Agree Realty Corp]] | `ADC` | สหรัฐฯ | อสังหา | 2.63% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

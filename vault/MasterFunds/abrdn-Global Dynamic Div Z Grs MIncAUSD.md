@@ -85,17 +85,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 3.79% |
-| 2 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 3.79% |
-| 3 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 3.35% |
-| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 3.24% |
-| 5 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 2.85% |
-| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.55% |
-| 7 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.40% |
-| 8 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 1.89% |
-| 9 | [[../Entities/ING Groep NV\|ING Groep NV]] | `INGA.AS` | เนเธอร์แลนด์ | 1.74% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 3.79% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | - | 3.79% |
+| 3 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | สื่อสาร | 3.35% |
+| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 3.24% |
+| 5 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 2.85% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 2.55% |
+| 7 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 2.40% |
+| 8 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 1.89% |
+| 9 | [[../Entities/ING Groep NV\|ING Groep NV]] | `INGA.AS` | เนเธอร์แลนด์ | การเงิน | 1.74% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -71,18 +71,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.74% |
-| 2 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 5.25% |
-| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 4.92% |
-| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.62% |
-| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.59% |
-| 6 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 4.55% |
-| 7 | [[../Entities/Walmart Inc\|Walmart Inc]] | `WMT` | สหรัฐฯ | 4.52% |
-| 8 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 4.08% |
-| 9 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 3.94% |
-| 10 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | 3.88% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 5.74% |
+| 2 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 5.25% |
+| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 4.92% |
+| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 4.62% |
+| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 4.59% |
+| 6 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | สื่อสาร | 4.55% |
+| 7 | [[../Entities/Walmart Inc\|Walmart Inc]] | `WMT` | สหรัฐฯ | ผู้บริโภค | 4.52% |
+| 8 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | เทคโนโลยี | 4.08% |
+| 9 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 3.94% |
+| 10 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | การเงิน | 3.88% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

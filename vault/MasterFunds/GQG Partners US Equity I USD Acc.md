@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/AT&T, INC\|AT&T Inc]] | `T` | สหรัฐฯ | 5.93% |
-| 2 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | 5.54% |
-| 3 | [[../Entities/PM US Equity\|Philip Morris International Inc]] | `PM` | สหรัฐฯ | 5.52% |
-| 4 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 4.63% |
-| 5 | [[../Entities/MO US Equity\|Altria Group Inc]] | `MO` | สหรัฐฯ | 4.34% |
-| 6 | [[../Entities/Progressive Corp\|Progressive Corp]] | `PGR` | สหรัฐฯ | 4.18% |
-| 7 | [[../Entities/Occidental Petroleum Corp\|Occidental Petroleum Corp]] | `OXY` | สหรัฐฯ | 4.16% |
-| 8 | [[../Entities/American Electric Power Co Inc\|American Electric Power Co Inc]] | `AEP` | สหรัฐฯ | 3.90% |
-| 9 | [[../Entities/The Cigna Group\|The Cigna Group]] | `CI` | สหรัฐฯ | 3.78% |
-| 10 | [[../Entities/Chevron Corp\|Chevron Corp]] | `CVX` | สหรัฐฯ | 3.63% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/AT&T, INC\|AT&T Inc]] | `T` | สหรัฐฯ | สื่อสาร | 5.93% |
+| 2 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | สื่อสาร | 5.54% |
+| 3 | [[../Entities/PM US Equity\|Philip Morris International Inc]] | `PM` | สหรัฐฯ | ผู้บริโภค | 5.52% |
+| 4 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | สุขภาพ | 4.63% |
+| 5 | [[../Entities/MO US Equity\|Altria Group Inc]] | `MO` | สหรัฐฯ | ผู้บริโภค | 4.34% |
+| 6 | [[../Entities/Progressive Corp\|Progressive Corp]] | `PGR` | สหรัฐฯ | การเงิน | 4.18% |
+| 7 | [[../Entities/Occidental Petroleum Corp\|Occidental Petroleum Corp]] | `OXY` | สหรัฐฯ | พลังงาน | 4.16% |
+| 8 | [[../Entities/American Electric Power Co Inc\|American Electric Power Co Inc]] | `AEP` | สหรัฐฯ | สาธารณูปโภค | 3.90% |
+| 9 | [[../Entities/The Cigna Group\|The Cigna Group]] | `CI` | สหรัฐฯ | สุขภาพ | 3.78% |
+| 10 | [[../Entities/Chevron Corp\|Chevron Corp]] | `CVX` | สหรัฐฯ | พลังงาน | 3.63% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

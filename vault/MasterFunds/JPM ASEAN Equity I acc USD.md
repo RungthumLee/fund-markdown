@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/DBS Group Holdings Ltd\|DBS Group Holdings Ltd]] | `D05.SI` | สิงคโปร์ | 9.87% |
-| 2 | [[../Entities/OVERSEA-CHINESE BANKING CORP\|Oversea-Chinese Banking Corp Ltd]] | `O39.SI` | สิงคโปร์ | 9.68% |
-| 3 | [[../Entities/Sea Ltd ADR\|Sea Ltd ADR]] | `SE` | สหรัฐฯ | 6.10% |
-| 4 | [[../Entities/Singapore Telecommunications\|Singapore Telecommunications Ltd]] | `Z74.SI` | สิงคโปร์ | 5.59% |
-| 5 | [[../Entities/United Overseas Bank Ltd\|United Overseas Bank Ltd]] | `U11.SI` | สิงคโปร์ | 4.74% |
-| 6 | [[../Entities/PT Bank Central Asia Tbk\|PT Bank Central Asia Tbk]] | `BBCA.JK` | อินโดนีเซีย | 4.51% |
-| 7 | [[../Entities/DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED\|Delta Electronics (Thailand) PCL]] | `DELTA-F` | - | 3.89% |
-| 8 | [[../Entities/MAY MK Equity\|Malayan Banking Bhd]] | `1155.KL` | มาเลเซีย | 3.66% |
-| 9 | [[../Entities/International Container Terminal Services Inc\|International Container Terminal Services Inc]] | `ICT.XPHS` | - | 3.48% |
-| 10 | [[../Entities/SINGAPORE EXCHANGE LTD\|Singapore Exchange Ltd]] | `S68.SI` | สิงคโปร์ | 3.47% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/DBS Group Holdings Ltd\|DBS Group Holdings Ltd]] | `D05.SI` | สิงคโปร์ | การเงิน | 9.87% |
+| 2 | [[../Entities/OVERSEA-CHINESE BANKING CORP\|Oversea-Chinese Banking Corp Ltd]] | `O39.SI` | สิงคโปร์ | การเงิน | 9.68% |
+| 3 | [[../Entities/Sea Ltd ADR\|Sea Ltd ADR]] | `SE` | สหรัฐฯ | ผู้บริโภค | 6.10% |
+| 4 | [[../Entities/Singapore Telecommunications\|Singapore Telecommunications Ltd]] | `Z74.SI` | สิงคโปร์ | สื่อสาร | 5.59% |
+| 5 | [[../Entities/United Overseas Bank Ltd\|United Overseas Bank Ltd]] | `U11.SI` | สิงคโปร์ | การเงิน | 4.74% |
+| 6 | [[../Entities/PT Bank Central Asia Tbk\|PT Bank Central Asia Tbk]] | `BBCA.JK` | อินโดนีเซีย | การเงิน | 4.51% |
+| 7 | [[../Entities/DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED\|Delta Electronics (Thailand) PCL]] | `DELTA-F` | - | - | 3.89% |
+| 8 | [[../Entities/MAY MK Equity\|Malayan Banking Bhd]] | `1155.KL` | มาเลเซีย | การเงิน | 3.66% |
+| 9 | [[../Entities/International Container Terminal Services Inc\|International Container Terminal Services Inc]] | `ICT.XPHS` | - | - | 3.48% |
+| 10 | [[../Entities/SINGAPORE EXCHANGE LTD\|Singapore Exchange Ltd]] | `S68.SI` | สิงคโปร์ | การเงิน | 3.47% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -79,18 +79,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 22.47% |
-| 2 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 5.91% |
-| 3 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 3.85% |
-| 4 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | 3.66% |
-| 5 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | 2.69% |
-| 6 | [[../Entities/Elite Material Co Ltd\|Elite Material Co Ltd]] | `2383.TW` | ไต้หวัน | 2.23% |
-| 7 | [[../Entities/United Microelectronics Corp\|United Microelectronics Corp]] | `2303.TW` | ไต้หวัน | 1.96% |
-| 8 | [[../Entities/Unimicron Technology Corp\|Unimicron Technology Corp]] | `3037.TW` | ไต้หวัน | 1.87% |
-| 9 | [[../Entities/Accton Technology Corp\|Accton Technology Corp]] | `2345.TW` | ไต้หวัน | 1.83% |
-| 10 | Fubon Financial Holdings Co Ltd | `2881.TW` | ไต้หวัน | 1.64% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 22.47% |
+| 2 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 5.91% |
+| 3 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | เทคโนโลยี | 3.85% |
+| 4 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | เทคโนโลยี | 3.66% |
+| 5 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | เทคโนโลยี | 2.69% |
+| 6 | [[../Entities/Elite Material Co Ltd\|Elite Material Co Ltd]] | `2383.TW` | ไต้หวัน | เทคโนโลยี | 2.23% |
+| 7 | [[../Entities/United Microelectronics Corp\|United Microelectronics Corp]] | `2303.TW` | ไต้หวัน | เทคโนโลยี | 1.96% |
+| 8 | [[../Entities/Unimicron Technology Corp\|Unimicron Technology Corp]] | `3037.TW` | ไต้หวัน | เทคโนโลยี | 1.87% |
+| 9 | [[../Entities/Accton Technology Corp\|Accton Technology Corp]] | `2345.TW` | ไต้หวัน | เทคโนโลยี | 1.83% |
+| 10 | Fubon Financial Holdings Co Ltd | `2881.TW` | ไต้หวัน | การเงิน | 1.64% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

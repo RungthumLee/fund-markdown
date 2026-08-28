@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 10.00% |
-| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 9.94% |
-| 3 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 9.74% |
-| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 6.36% |
-| 5 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | 4.48% |
-| 6 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 3.82% |
-| 7 | [[../Entities/Chroma Ate Inc\|Chroma Ate Inc]] | `2360.TW` | ไต้หวัน | 3.78% |
-| 8 | [[../Entities/First Quantum Minerals Ltd\|First Quantum Minerals Ltd]] | `FM.TO` | แคนาดา | 3.24% |
-| 9 | [[../Entities/Credicorp Ltd\|Credicorp Ltd]] | `BAP` | สหรัฐฯ | 2.87% |
-| 10 | [[../Entities/MELI US Equity\|MercadoLibre Inc]] | `MELI` | สหรัฐฯ | 2.78% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 10.00% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 9.94% |
+| 3 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 9.74% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 6.36% |
+| 5 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | - | 4.48% |
+| 6 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 3.82% |
+| 7 | [[../Entities/Chroma Ate Inc\|Chroma Ate Inc]] | `2360.TW` | ไต้หวัน | เทคโนโลยี | 3.78% |
+| 8 | [[../Entities/First Quantum Minerals Ltd\|First Quantum Minerals Ltd]] | `FM.TO` | แคนาดา | วัสดุ | 3.24% |
+| 9 | [[../Entities/Credicorp Ltd\|Credicorp Ltd]] | `BAP` | สหรัฐฯ | การเงิน | 2.87% |
+| 10 | [[../Entities/MELI US Equity\|MercadoLibre Inc]] | `MELI` | สหรัฐฯ | ผู้บริโภค | 2.78% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

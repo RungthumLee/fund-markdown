@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.92% |
-| 2 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 9.50% |
-| 3 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 8.66% |
-| 4 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 4.26% |
-| 5 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 4.24% |
-| 6 | [[../Entities/Grupo Mexico SAB de CV Class B\|Grupo Mexico SAB de CV Class B]] | `GMEXICOB.MX` | - | 3.33% |
-| 7 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 3.08% |
-| 8 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | 2.93% |
-| 9 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 2.41% |
-| 10 | [[../Entities/Chroma Ate Inc\|Chroma Ate Inc]] | `2360.TW` | ไต้หวัน | 2.39% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 9.92% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | - | 9.50% |
+| 3 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 8.66% |
+| 4 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 4.26% |
+| 5 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 4.24% |
+| 6 | [[../Entities/Grupo Mexico SAB de CV Class B\|Grupo Mexico SAB de CV Class B]] | `GMEXICOB.MX` | - | วัสดุ | 3.33% |
+| 7 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 3.08% |
+| 8 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | เทคโนโลยี | 2.93% |
+| 9 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 2.41% |
+| 10 | [[../Entities/Chroma Ate Inc\|Chroma Ate Inc]] | `2360.TW` | ไต้หวัน | เทคโนโลยี | 2.39% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

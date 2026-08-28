@@ -81,18 +81,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/HSBC Holdings PLC\|HSBC Holdings PLC]] | `HSBA.L` | สหราชอาณาจักร | 8.70% |
-| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 7.30% |
-| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 6.81% |
-| 4 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | 5.42% |
-| 5 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 5.12% |
-| 6 | [[../Entities/Industrial And Commercial Bank Of China Ltd Class H\|Industrial And Commercial Bank Of China Ltd Class H]] | `01398` | - | 3.43% |
-| 7 | [[../Entities/CHINA MOBILE LTD\|China Mobile Ltd]] | `00941` | - | 3.32% |
-| 8 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | 3.21% |
-| 9 | [[../Entities/Hong Kong Exchanges and Clearing Ltd\|Hong Kong Exchanges and Clearing Ltd]] | `0388.HK` | ฮ่องกง | 3.02% |
-| 10 | [[../Entities/CNOOC Ltd\|CNOOC Ltd]] | `0883.HK` | ฮ่องกง | 2.58% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/HSBC Holdings PLC\|HSBC Holdings PLC]] | `HSBA.L` | สหราชอาณาจักร | การเงิน | 8.70% |
+| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 7.30% |
+| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 6.81% |
+| 4 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | การเงิน | 5.42% |
+| 5 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | - | 5.12% |
+| 6 | [[../Entities/Industrial And Commercial Bank Of China Ltd Class H\|Industrial And Commercial Bank Of China Ltd Class H]] | `01398` | - | - | 3.43% |
+| 7 | [[../Entities/CHINA MOBILE LTD\|China Mobile Ltd]] | `00941` | - | - | 3.32% |
+| 8 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | เทคโนโลยี | 3.21% |
+| 9 | [[../Entities/Hong Kong Exchanges and Clearing Ltd\|Hong Kong Exchanges and Clearing Ltd]] | `0388.HK` | ฮ่องกง | การเงิน | 3.02% |
+| 10 | [[../Entities/CNOOC Ltd\|CNOOC Ltd]] | `0883.HK` | ฮ่องกง | พลังงาน | 2.58% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

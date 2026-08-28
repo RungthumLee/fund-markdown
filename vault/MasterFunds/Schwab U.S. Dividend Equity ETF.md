@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Abbott Laboratories\|Abbott Laboratories]] | `ABT` | สหรัฐฯ | 4.66% |
-| 2 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | 4.41% |
-| 3 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 4.35% |
-| 4 | [[../Entities/KO US Equity\|Coca-Cola Co]] | `KO` | สหรัฐฯ | 4.32% |
-| 5 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 4.30% |
-| 6 | [[../Entities/The Home Depot Inc\|The Home Depot Inc]] | `HD` | สหรัฐฯ | 4.10% |
-| 7 | [[../Entities/Procter & Gamble Co\|Procter & Gamble Co]] | `PG` | สหรัฐฯ | 3.95% |
-| 8 | [[../Entities/Chevron Corp\|Chevron Corp]] | `CVX` | สหรัฐฯ | 3.90% |
-| 9 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | 3.80% |
-| 10 | [[../Entities/PepsiCo Inc\|PepsiCo Inc]] | `PEP` | สหรัฐฯ | 3.78% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Abbott Laboratories\|Abbott Laboratories]] | `ABT` | สหรัฐฯ | สุขภาพ | 4.66% |
+| 2 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | สุขภาพ | 4.41% |
+| 3 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | สุขภาพ | 4.35% |
+| 4 | [[../Entities/KO US Equity\|Coca-Cola Co]] | `KO` | สหรัฐฯ | ผู้บริโภค | 4.32% |
+| 5 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | สุขภาพ | 4.30% |
+| 6 | [[../Entities/The Home Depot Inc\|The Home Depot Inc]] | `HD` | สหรัฐฯ | ผู้บริโภค | 4.10% |
+| 7 | [[../Entities/Procter & Gamble Co\|Procter & Gamble Co]] | `PG` | สหรัฐฯ | ผู้บริโภค | 3.95% |
+| 8 | [[../Entities/Chevron Corp\|Chevron Corp]] | `CVX` | สหรัฐฯ | พลังงาน | 3.90% |
+| 9 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | สื่อสาร | 3.80% |
+| 10 | [[../Entities/PepsiCo Inc\|PepsiCo Inc]] | `PEP` | สหรัฐฯ | ผู้บริโภค | 3.78% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -57,18 +57,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 9.79% |
-| 2 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 7.37% |
-| 3 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | 5.91% |
-| 4 | [[../Entities/Vertex Pharmaceuticals Inc\|Vertex Pharmaceuticals Inc]] | `VRTX` | สหรัฐฯ | 5.13% |
-| 5 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 4.99% |
-| 6 | [[../Entities/Gilead Sciences Inc\|Gilead Sciences Inc]] | `GILD` | สหรัฐฯ | 4.65% |
-| 7 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | 4.31% |
-| 8 | Jazz Pharmaceuticals PLC | `JAZZ` | สหรัฐฯ | 3.64% |
-| 9 | Neurocrine Biosciences Inc | `NBIX` | สหรัฐฯ | 3.45% |
-| 10 | [[../Entities/argenx SE ADR\|argenx SE ADR]] | `ARGX` | สหรัฐฯ | 3.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | สุขภาพ | 9.79% |
+| 2 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | สุขภาพ | 7.37% |
+| 3 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | สุขภาพ | 5.91% |
+| 4 | [[../Entities/Vertex Pharmaceuticals Inc\|Vertex Pharmaceuticals Inc]] | `VRTX` | สหรัฐฯ | สุขภาพ | 5.13% |
+| 5 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | สุขภาพ | 4.99% |
+| 6 | [[../Entities/Gilead Sciences Inc\|Gilead Sciences Inc]] | `GILD` | สหรัฐฯ | สุขภาพ | 4.65% |
+| 7 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | สุขภาพ | 4.31% |
+| 8 | Jazz Pharmaceuticals PLC | `JAZZ` | สหรัฐฯ | สุขภาพ | 3.64% |
+| 9 | Neurocrine Biosciences Inc | `NBIX` | สหรัฐฯ | สุขภาพ | 3.45% |
+| 10 | [[../Entities/argenx SE ADR\|argenx SE ADR]] | `ARGX` | สหรัฐฯ | สุขภาพ | 3.41% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

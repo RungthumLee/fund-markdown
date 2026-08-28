@@ -76,18 +76,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.81% |
-| 2 | [[../Entities/Cipher Digital Inc\|Cipher Digital Inc]] | `CIFR` | สหรัฐฯ | 4.45% |
-| 3 | [[../Entities/Riot Platforms Inc\|Riot Platforms Inc]] | `RIOT` | สหรัฐฯ | 4.16% |
-| 4 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 3.55% |
-| 5 | SBI Holdings Inc | `8473.T` | ญี่ปุ่น | 3.54% |
-| 6 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 3.31% |
-| 7 | HIVE Digital Technologies Ltd | `HIVE.TO` | แคนาดา | 3.28% |
-| 8 | [[../Entities/Block Inc Class A\|Block Inc Class A]] | `XYZ` | สหรัฐฯ | 3.26% |
-| 9 | [[../Entities/PAYPAL HOLDING PLC\|PayPal Holdings Inc]] | `PYPL` | สหรัฐฯ | 3.23% |
-| 10 | Keel Infrastructure Corp | `KEEL.TO` | แคนาดา | 3.06% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 4.81% |
+| 2 | [[../Entities/Cipher Digital Inc\|Cipher Digital Inc]] | `CIFR` | สหรัฐฯ | เทคโนโลยี | 4.45% |
+| 3 | [[../Entities/Riot Platforms Inc\|Riot Platforms Inc]] | `RIOT` | สหรัฐฯ | การเงิน | 4.16% |
+| 4 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 3.55% |
+| 5 | SBI Holdings Inc | `8473.T` | ญี่ปุ่น | การเงิน | 3.54% |
+| 6 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 3.31% |
+| 7 | HIVE Digital Technologies Ltd | `HIVE.TO` | แคนาดา | การเงิน | 3.28% |
+| 8 | [[../Entities/Block Inc Class A\|Block Inc Class A]] | `XYZ` | สหรัฐฯ | เทคโนโลยี | 3.26% |
+| 9 | [[../Entities/PAYPAL HOLDING PLC\|PayPal Holdings Inc]] | `PYPL` | สหรัฐฯ | การเงิน | 3.23% |
+| 10 | Keel Infrastructure Corp | `KEEL.TO` | แคนาดา | เทคโนโลยี | 3.06% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

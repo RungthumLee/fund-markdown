@@ -64,18 +64,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | 8.38% |
-| 2 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | 6.98% |
-| 3 | Anker Innovations Technology Co Ltd Class A | `300866.SZ` | จีน | 5.63% |
-| 4 | China Mobile Ltd Class A | `600941.SS` | จีน | 5.09% |
-| 5 | VeriSilicon Microelectronics Shanghai Co Ltd Class A | `688521.SS` | จีน | 4.23% |
-| 6 | Yutong Bus Co Ltd Class A | `600066.SS` | จีน | 3.90% |
-| 7 | Bank of Chengdu Co Ltd Class A | `601838.SS` | จีน | 3.78% |
-| 8 | Skyverse Technology Co Ltd Ordinary Shares - Class A | `688361.SS` | จีน | 3.78% |
-| 9 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | 3.68% |
-| 10 | Shanghai Pudong Development Bank Co Ltd Class A | `600000.SS` | จีน | 3.18% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | เทคโนโลยี | 8.38% |
+| 2 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | เทคโนโลยี | 6.98% |
+| 3 | Anker Innovations Technology Co Ltd Class A | `300866.SZ` | จีน | เทคโนโลยี | 5.63% |
+| 4 | China Mobile Ltd Class A | `600941.SS` | จีน | สื่อสาร | 5.09% |
+| 5 | VeriSilicon Microelectronics Shanghai Co Ltd Class A | `688521.SS` | จีน | เทคโนโลยี | 4.23% |
+| 6 | Yutong Bus Co Ltd Class A | `600066.SS` | จีน | อุตสาหกรรม | 3.90% |
+| 7 | Bank of Chengdu Co Ltd Class A | `601838.SS` | จีน | การเงิน | 3.78% |
+| 8 | Skyverse Technology Co Ltd Ordinary Shares - Class A | `688361.SS` | จีน | เทคโนโลยี | 3.78% |
+| 9 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | วัสดุ | 3.68% |
+| 10 | Shanghai Pudong Development Bank Co Ltd Class A | `600000.SS` | จีน | การเงิน | 3.18% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

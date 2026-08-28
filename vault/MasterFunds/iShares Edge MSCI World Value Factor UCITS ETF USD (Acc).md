@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 12.53% |
-| 2 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 3.24% |
-| 3 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | 2.14% |
-| 4 | [[../Entities/Toyota Motor Corp\|Toyota Motor Corp]] | `7203.T` | ญี่ปุ่น | 1.74% |
-| 5 | [[../Entities/AT&T, INC\|AT&T Inc]] | `T` | สหรัฐฯ | 1.59% |
-| 6 | Comcast Corp Class A | `CMCSA` | สหรัฐฯ | 1.36% |
-| 7 | [[../Entities/QUALCOMM, INC\|Qualcomm Inc]] | `QCOM` | สหรัฐฯ | 1.25% |
-| 8 | Hewlett Packard Enterprise Co | `HPE` | สหรัฐฯ | 1.23% |
-| 9 | [[../Entities/GENERAL MOTORS CO\|General Motors Co]] | `GM` | สหรัฐฯ | 1.19% |
-| 10 | [[../Entities/BATS LN Equity\|British American Tobacco PLC]] | `BATS.L` | สหราชอาณาจักร | 1.16% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | เทคโนโลยี | 12.53% |
+| 2 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | เทคโนโลยี | 3.24% |
+| 3 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | สื่อสาร | 2.14% |
+| 4 | [[../Entities/Toyota Motor Corp\|Toyota Motor Corp]] | `7203.T` | ญี่ปุ่น | ผู้บริโภค | 1.74% |
+| 5 | [[../Entities/AT&T, INC\|AT&T Inc]] | `T` | สหรัฐฯ | สื่อสาร | 1.59% |
+| 6 | Comcast Corp Class A | `CMCSA` | สหรัฐฯ | สื่อสาร | 1.36% |
+| 7 | [[../Entities/QUALCOMM, INC\|Qualcomm Inc]] | `QCOM` | สหรัฐฯ | เทคโนโลยี | 1.25% |
+| 8 | Hewlett Packard Enterprise Co | `HPE` | สหรัฐฯ | เทคโนโลยี | 1.23% |
+| 9 | [[../Entities/GENERAL MOTORS CO\|General Motors Co]] | `GM` | สหรัฐฯ | ผู้บริโภค | 1.19% |
+| 10 | [[../Entities/BATS LN Equity\|British American Tobacco PLC]] | `BATS.L` | สหราชอาณาจักร | ผู้บริโภค | 1.16% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

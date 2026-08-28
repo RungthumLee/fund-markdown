@@ -85,17 +85,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 8.35% |
-| 2 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 7.07% |
-| 3 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 4.70% |
-| 4 | [[../Entities/PetroChina Co Ltd Class H\|PetroChina Co Ltd Class H]] | `00857` | - | 3.28% |
-| 5 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 3.09% |
-| 6 | [[../Entities/BYD Co Ltd Class H\|BYD Co Ltd Class H]] | `01211` | - | 3.00% |
-| 7 | [[../Entities/Baidu Inc\|Baidu Inc]] | `9888.HK` | ฮ่องกง | 2.52% |
-| 8 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | 2.52% |
-| 9 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | 2.47% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | - | 8.35% |
+| 2 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 7.07% |
+| 3 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 4.70% |
+| 4 | [[../Entities/PetroChina Co Ltd Class H\|PetroChina Co Ltd Class H]] | `00857` | - | - | 3.28% |
+| 5 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 3.09% |
+| 6 | [[../Entities/BYD Co Ltd Class H\|BYD Co Ltd Class H]] | `01211` | - | - | 3.00% |
+| 7 | [[../Entities/Baidu Inc\|Baidu Inc]] | `9888.HK` | ฮ่องกง | สื่อสาร | 2.52% |
+| 8 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | เทคโนโลยี | 2.52% |
+| 9 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | เทคโนโลยี | 2.47% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

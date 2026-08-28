@@ -62,18 +62,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.89% |
-| 2 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 5.62% |
-| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.25% |
-| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.70% |
-| 5 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 4.41% |
-| 6 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 4.31% |
-| 7 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 3.95% |
-| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.42% |
-| 9 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | 3.34% |
-| 10 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | 3.27% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 5.89% |
+| 2 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | เทคโนโลยี | 5.62% |
+| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 5.25% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 4.70% |
+| 5 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 4.41% |
+| 6 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | สุขภาพ | 4.31% |
+| 7 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | สื่อสาร | 3.95% |
+| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 3.42% |
+| 9 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | สุขภาพ | 3.34% |
+| 10 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | เทคโนโลยี | 3.27% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

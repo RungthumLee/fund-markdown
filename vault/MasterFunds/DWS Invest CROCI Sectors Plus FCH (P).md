@@ -57,18 +57,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/JM Smucker Co\|JM Smucker Co]] | `SJM` | สหรัฐฯ | 3.78% |
-| 2 | [[../Entities/Henkel AG & Co KGaA Participating Preferred\|Henkel AG & Co KGaA Participating Preferred]] | `HEN3.DE` | เยอรมนี | 3.69% |
-| 3 | [[../Entities/Novo Nordisk AS Class B\|Novo Nordisk AS Class B]] | `NOVO-B.CO` | - | 3.69% |
-| 4 | [[../Entities/Kerry Group PLC Class A\|Kerry Group PLC Class A]] | `KRZ.IR` | - | 3.58% |
-| 5 | [[../Entities/Eversource Energy\|Eversource Energy]] | `ES` | สหรัฐฯ | 3.51% |
-| 6 | [[../Entities/The Kraft Heinz Co\|The Kraft Heinz Co]] | `KHC` | สหรัฐฯ | 3.51% |
-| 7 | [[../Entities/Conagra Brands Inc\|Conagra Brands Inc]] | `CAG` | สหรัฐฯ | 3.49% |
-| 8 | [[../Entities/Exelon Corp\|Exelon Corp]] | `EXC` | สหรัฐฯ | 3.49% |
-| 9 | [[../Entities/Terna SpA\|Terna SpA]] | `TRN.MI` | อิตาลี | 3.45% |
-| 10 | [[../Entities/Duke Energy Corp\|Duke Energy Corp]] | `DUK` | สหรัฐฯ | 3.43% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/JM Smucker Co\|JM Smucker Co]] | `SJM` | สหรัฐฯ | ผู้บริโภค | 3.78% |
+| 2 | [[../Entities/Henkel AG & Co KGaA Participating Preferred\|Henkel AG & Co KGaA Participating Preferred]] | `HEN3.DE` | เยอรมนี | ผู้บริโภค | 3.69% |
+| 3 | [[../Entities/Novo Nordisk AS Class B\|Novo Nordisk AS Class B]] | `NOVO-B.CO` | - | สุขภาพ | 3.69% |
+| 4 | [[../Entities/Kerry Group PLC Class A\|Kerry Group PLC Class A]] | `KRZ.IR` | - | ผู้บริโภค | 3.58% |
+| 5 | [[../Entities/Eversource Energy\|Eversource Energy]] | `ES` | สหรัฐฯ | สาธารณูปโภค | 3.51% |
+| 6 | [[../Entities/The Kraft Heinz Co\|The Kraft Heinz Co]] | `KHC` | สหรัฐฯ | ผู้บริโภค | 3.51% |
+| 7 | [[../Entities/Conagra Brands Inc\|Conagra Brands Inc]] | `CAG` | สหรัฐฯ | ผู้บริโภค | 3.49% |
+| 8 | [[../Entities/Exelon Corp\|Exelon Corp]] | `EXC` | สหรัฐฯ | สาธารณูปโภค | 3.49% |
+| 9 | [[../Entities/Terna SpA\|Terna SpA]] | `TRN.MI` | อิตาลี | สาธารณูปโภค | 3.45% |
+| 10 | [[../Entities/Duke Energy Corp\|Duke Energy Corp]] | `DUK` | สหรัฐฯ | สาธารณูปโภค | 3.43% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -83,18 +83,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 19.64% |
-| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 9.15% |
-| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 7.07% |
-| 4 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 1.69% |
-| 5 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 1.14% |
-| 6 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 1.05% |
-| 7 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | 1.01% |
-| 8 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 0.95% |
-| 9 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 0.88% |
-| 10 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 0.83% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 19.64% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 9.15% |
+| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 7.07% |
+| 4 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 1.69% |
+| 5 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | - | 1.14% |
+| 6 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | เทคโนโลยี | 1.05% |
+| 7 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | เทคโนโลยี | 1.01% |
+| 8 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 0.95% |
+| 9 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | พลังงาน | 0.88% |
+| 10 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | การเงิน | 0.83% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

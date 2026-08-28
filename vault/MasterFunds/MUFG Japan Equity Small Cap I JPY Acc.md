@@ -66,18 +66,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Fujibo Holdings Inc\|Fujibo Holdings Inc]] | `3104.T` | ญี่ปุ่น | 2.74% |
-| 2 | [[../Entities/Hirakawa Hewtech Corp\|Hirakawa Hewtech Corp]] | `5821.T` | ญี่ปุ่น | 2.56% |
-| 3 | [[../Entities/TOCALO Co Ltd\|TOCALO Co Ltd]] | `3433.T` | ญี่ปุ่น | 2.54% |
-| 4 | [[../Entities/Open House Group Co Ltd\|Open House Group Co Ltd]] | `3288.T` | ญี่ปุ่น | 2.28% |
-| 5 | [[../Entities/Kaga Electronics Co Ltd\|Kaga Electronics Co Ltd]] | `8154.T` | ญี่ปุ่น | 2.21% |
-| 6 | [[../Entities/The 77 Bank Ltd\|The 77 Bank Ltd]] | `8341.T` | ญี่ปุ่น | 2.16% |
-| 7 | [[../Entities/Hachijuni Nagano Bank Ltd\|Hachijuni Nagano Bank Ltd]] | `8359.T` | ญี่ปุ่น | 2.02% |
-| 8 | [[../Entities/Eiken Chemical Co Ltd\|Eiken Chemical Co Ltd]] | `4549.T` | ญี่ปุ่น | 1.97% |
-| 9 | [[../Entities/ANEST IWATA Corp\|ANEST IWATA Corp]] | `6381.T` | ญี่ปุ่น | 1.84% |
-| 10 | [[../Entities/YOKOWO Co Ltd\|YOKOWO Co Ltd]] | `6800.T` | ญี่ปุ่น | 1.78% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Fujibo Holdings Inc\|Fujibo Holdings Inc]] | `3104.T` | ญี่ปุ่น | ผู้บริโภค | 2.74% |
+| 2 | [[../Entities/Hirakawa Hewtech Corp\|Hirakawa Hewtech Corp]] | `5821.T` | ญี่ปุ่น | อุตสาหกรรม | 2.56% |
+| 3 | [[../Entities/TOCALO Co Ltd\|TOCALO Co Ltd]] | `3433.T` | ญี่ปุ่น | อุตสาหกรรม | 2.54% |
+| 4 | [[../Entities/Open House Group Co Ltd\|Open House Group Co Ltd]] | `3288.T` | ญี่ปุ่น | อสังหา | 2.28% |
+| 5 | [[../Entities/Kaga Electronics Co Ltd\|Kaga Electronics Co Ltd]] | `8154.T` | ญี่ปุ่น | เทคโนโลยี | 2.21% |
+| 6 | [[../Entities/The 77 Bank Ltd\|The 77 Bank Ltd]] | `8341.T` | ญี่ปุ่น | การเงิน | 2.16% |
+| 7 | [[../Entities/Hachijuni Nagano Bank Ltd\|Hachijuni Nagano Bank Ltd]] | `8359.T` | ญี่ปุ่น | การเงิน | 2.02% |
+| 8 | [[../Entities/Eiken Chemical Co Ltd\|Eiken Chemical Co Ltd]] | `4549.T` | ญี่ปุ่น | สุขภาพ | 1.97% |
+| 9 | [[../Entities/ANEST IWATA Corp\|ANEST IWATA Corp]] | `6381.T` | ญี่ปุ่น | อุตสาหกรรม | 1.84% |
+| 10 | [[../Entities/YOKOWO Co Ltd\|YOKOWO Co Ltd]] | `6800.T` | ญี่ปุ่น | เทคโนโลยี | 1.78% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

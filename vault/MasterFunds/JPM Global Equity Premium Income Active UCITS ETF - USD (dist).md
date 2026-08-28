@@ -69,17 +69,17 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 1.99% |
-| 2 | [[../Entities/Southern Co\|Southern Co]] | `SO` | สหรัฐฯ | 1.71% |
-| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 1.59% |
-| 4 | [[../Entities/Berkshire Hathaway Inc Class B\|Berkshire Hathaway Inc Class B]] | `BRK-B` | - | 1.33% |
-| 5 | [[../Entities/AT&T, INC\|AT&T Inc]] | `T` | สหรัฐฯ | 1.23% |
-| 6 | [[../Entities/Motorola Solutions Inc\|Motorola Solutions Inc]] | `MSI` | สหรัฐฯ | 1.21% |
-| 7 | [[../Entities/KO US Equity\|Coca-Cola Co]] | `KO` | สหรัฐฯ | 1.18% |
-| 8 | [[../Entities/MCD US Equity\|McDonald's Corp]] | `MCD` | สหรัฐฯ | 1.15% |
-| 9 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 1.14% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | สุขภาพ | 1.99% |
+| 2 | [[../Entities/Southern Co\|Southern Co]] | `SO` | สหรัฐฯ | สาธารณูปโภค | 1.71% |
+| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 1.59% |
+| 4 | [[../Entities/Berkshire Hathaway Inc Class B\|Berkshire Hathaway Inc Class B]] | `BRK-B` | - | การเงิน | 1.33% |
+| 5 | [[../Entities/AT&T, INC\|AT&T Inc]] | `T` | สหรัฐฯ | สื่อสาร | 1.23% |
+| 6 | [[../Entities/Motorola Solutions Inc\|Motorola Solutions Inc]] | `MSI` | สหรัฐฯ | เทคโนโลยี | 1.21% |
+| 7 | [[../Entities/KO US Equity\|Coca-Cola Co]] | `KO` | สหรัฐฯ | ผู้บริโภค | 1.18% |
+| 8 | [[../Entities/MCD US Equity\|McDonald's Corp]] | `MCD` | สหรัฐฯ | ผู้บริโภค | 1.15% |
+| 9 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 1.14% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -68,10 +68,10 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/INVESCO PHYSICAL GOLD ETC\|Invesco Physical Gold ETC]] | `SGLD.L` | สหราชอาณาจักร | 3.51% |
-| 2 | [[../Entities/iShares Physical Gold ETC\|iShares Physical Gold ETC]] | `IGLN.L` | สหราชอาณาจักร | 3.50% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/INVESCO PHYSICAL GOLD ETC\|Invesco Physical Gold ETC]] | `SGLD.L` | สหราชอาณาจักร | - | 3.51% |
+| 2 | [[../Entities/iShares Physical Gold ETC\|iShares Physical Gold ETC]] | `IGLN.L` | สหราชอาณาจักร | - | 3.50% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

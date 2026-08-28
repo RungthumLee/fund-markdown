@@ -87,10 +87,10 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/MTR Corp Ltd\|MTR Corp Ltd]] | `0066.HK` | ฮ่องกง | 1.92% |
-| 2 | [[../Entities/Hong Kong and China Gas Co Ltd\|Hong Kong and China Gas Co Ltd]] | `0003.HK` | ฮ่องกง | 1.83% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/MTR Corp Ltd\|MTR Corp Ltd]] | `0066.HK` | ฮ่องกง | อุตสาหกรรม | 1.92% |
+| 2 | [[../Entities/Hong Kong and China Gas Co Ltd\|Hong Kong and China Gas Co Ltd]] | `0003.HK` | ฮ่องกง | สาธารณูปโภค | 1.83% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

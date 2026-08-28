@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 6.41% |
-| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 6.11% |
-| 3 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 5.58% |
-| 4 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 5.47% |
-| 5 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.24% |
-| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 4.25% |
-| 7 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 4.12% |
-| 8 | [[../Entities/MARVELL TECHNOLOGY GROUP LTD\|Marvell Technology Inc]] | `MRVL` | สหรัฐฯ | 4.07% |
-| 9 | [[../Entities/Palo Alto Networks Inc\|Palo Alto Networks Inc]] | `PANW` | สหรัฐฯ | 3.82% |
-| 10 | [[../Entities/Ciena Corp\|Ciena Corp]] | `CIEN` | สหรัฐฯ | 3.75% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 6.41% |
+| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 6.11% |
+| 3 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 5.58% |
+| 4 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 5.47% |
+| 5 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 5.24% |
+| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 4.25% |
+| 7 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | เทคโนโลยี | 4.12% |
+| 8 | [[../Entities/MARVELL TECHNOLOGY GROUP LTD\|Marvell Technology Inc]] | `MRVL` | สหรัฐฯ | เทคโนโลยี | 4.07% |
+| 9 | [[../Entities/Palo Alto Networks Inc\|Palo Alto Networks Inc]] | `PANW` | สหรัฐฯ | เทคโนโลยี | 3.82% |
+| 10 | [[../Entities/Ciena Corp\|Ciena Corp]] | `CIEN` | สหรัฐฯ | เทคโนโลยี | 3.75% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

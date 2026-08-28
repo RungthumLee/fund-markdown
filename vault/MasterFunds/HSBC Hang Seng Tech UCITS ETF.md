@@ -62,18 +62,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | 9.27% |
-| 2 | [[../Entities/NetEase Inc Ordinary Shares\|NetEase Inc Ordinary Shares]] | `9999.HK` | ฮ่องกง | 9.01% |
-| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 8.45% |
-| 4 | [[../Entities/BYD Co Ltd Class H\|BYD Co Ltd Class H]] | `01211` | - | 8.34% |
-| 5 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | 8.32% |
-| 6 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 7.66% |
-| 7 | [[../Entities/Semiconductor Manufacturing International Corp\|Semiconductor Manufacturing International Corp]] | `0981.HK` | ฮ่องกง | 6.62% |
-| 8 | [[../Entities/JD.com Inc Ordinary Shares - Class A\|JD.com Inc Ordinary Shares - Class A]] | `9618.HK` | ฮ่องกง | 5.58% |
-| 9 | [[../Entities/LENOVO GROUP LTD\|Lenovo Group Ltd]] | `0992.HK` | ฮ่องกง | 4.48% |
-| 10 | [[../Entities/Baidu Inc\|Baidu Inc]] | `9888.HK` | ฮ่องกง | 4.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | ผู้บริโภค | 9.27% |
+| 2 | [[../Entities/NetEase Inc Ordinary Shares\|NetEase Inc Ordinary Shares]] | `9999.HK` | ฮ่องกง | สื่อสาร | 9.01% |
+| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 8.45% |
+| 4 | [[../Entities/BYD Co Ltd Class H\|BYD Co Ltd Class H]] | `01211` | - | - | 8.34% |
+| 5 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | เทคโนโลยี | 8.32% |
+| 6 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 7.66% |
+| 7 | [[../Entities/Semiconductor Manufacturing International Corp\|Semiconductor Manufacturing International Corp]] | `0981.HK` | ฮ่องกง | เทคโนโลยี | 6.62% |
+| 8 | [[../Entities/JD.com Inc Ordinary Shares - Class A\|JD.com Inc Ordinary Shares - Class A]] | `9618.HK` | ฮ่องกง | ผู้บริโภค | 5.58% |
+| 9 | [[../Entities/LENOVO GROUP LTD\|Lenovo Group Ltd]] | `0992.HK` | ฮ่องกง | เทคโนโลยี | 4.48% |
+| 10 | [[../Entities/Baidu Inc\|Baidu Inc]] | `9888.HK` | ฮ่องกง | สื่อสาร | 4.41% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

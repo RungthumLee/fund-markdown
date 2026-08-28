@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Aramark\|Aramark]] | `ARMK` | สหรัฐฯ | 2.78% |
-| 2 | ICU Medical Inc | `ICUI` | สหรัฐฯ | 2.18% |
-| 3 | CommVault Systems Inc | `CVLT` | สหรัฐฯ | 2.09% |
-| 4 | Repligen Corp | `RGEN` | สหรัฐฯ | 2.01% |
-| 5 | [[../Entities/Bio-Techne Corp\|Bio-Techne Corp]] | `TECH` | สหรัฐฯ | 1.95% |
-| 6 | Viavi Solutions Inc | `VIAV` | สหรัฐฯ | 1.88% |
-| 7 | Assurant Inc | `AIZ` | สหรัฐฯ | 1.86% |
-| 8 | [[../Entities/Moog Inc Class A\|Moog Inc Class A]] | `MOG-A` | - | 1.77% |
-| 9 | Novanta Inc | `NOVT` | สหรัฐฯ | 1.70% |
-| 10 | Hexcel Corp | `HXL` | สหรัฐฯ | 1.62% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Aramark\|Aramark]] | `ARMK` | สหรัฐฯ | อุตสาหกรรม | 2.78% |
+| 2 | ICU Medical Inc | `ICUI` | สหรัฐฯ | สุขภาพ | 2.18% |
+| 3 | CommVault Systems Inc | `CVLT` | สหรัฐฯ | เทคโนโลยี | 2.09% |
+| 4 | Repligen Corp | `RGEN` | สหรัฐฯ | สุขภาพ | 2.01% |
+| 5 | [[../Entities/Bio-Techne Corp\|Bio-Techne Corp]] | `TECH` | สหรัฐฯ | สุขภาพ | 1.95% |
+| 6 | Viavi Solutions Inc | `VIAV` | สหรัฐฯ | เทคโนโลยี | 1.88% |
+| 7 | Assurant Inc | `AIZ` | สหรัฐฯ | การเงิน | 1.86% |
+| 8 | [[../Entities/Moog Inc Class A\|Moog Inc Class A]] | `MOG-A` | - | อุตสาหกรรม | 1.77% |
+| 9 | Novanta Inc | `NOVT` | สหรัฐฯ | เทคโนโลยี | 1.70% |
+| 10 | Hexcel Corp | `HXL` | สหรัฐฯ | อุตสาหกรรม | 1.62% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

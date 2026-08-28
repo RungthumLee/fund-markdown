@@ -81,11 +81,11 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/State Street Instl US Govt MMkt Inv\|State Street Instl US Govt MMkt Inv]] | `SAMXX` | สหรัฐฯ | 17.00% |
-| 2 | [[../Entities/State Street® SPDR® Port S&P 500® ETF\|State Street® SPDR® Port S&P 500® ETF]] | `SPYM` | สหรัฐฯ | 6.63% |
-| 3 | [[../Entities/Euro Stoxx 50 Future Sept 26\|Euro Stoxx 50 Future Sept 26]] | `FESXU26` | - | 4.68% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/State Street Instl US Govt MMkt Inv\|State Street Instl US Govt MMkt Inv]] | `SAMXX` | สหรัฐฯ | - | 17.00% |
+| 2 | [[../Entities/State Street® SPDR® Port S&P 500® ETF\|State Street® SPDR® Port S&P 500® ETF]] | `SPYM` | สหรัฐฯ | - | 6.63% |
+| 3 | [[../Entities/Euro Stoxx 50 Future Sept 26\|Euro Stoxx 50 Future Sept 26]] | `FESXU26` | - | - | 4.68% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

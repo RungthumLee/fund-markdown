@@ -85,18 +85,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ICICI Bank Ltd ADR\|ICICI Bank Ltd ADR]] | `IBN` | สหรัฐฯ | 5.05% |
-| 2 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 5.01% |
-| 3 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 4.26% |
-| 4 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 3.18% |
-| 5 | [[../Entities/State Bank of India\|State Bank of India]] | `SBIN.NS` | อินเดีย | 2.60% |
-| 6 | Bajaj Finserv Ltd | `BAJAJFINSV.BO` | อินเดีย | 2.50% |
-| 7 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | 2.42% |
-| 8 | Nestle India Ltd | `NESTLEIND.NS` | อินเดีย | 2.17% |
-| 9 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | 1.79% |
-| 10 | Bharat Electronics Ltd | `BEL.NS` | อินเดีย | 1.74% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ICICI Bank Ltd ADR\|ICICI Bank Ltd ADR]] | `IBN` | สหรัฐฯ | การเงิน | 5.05% |
+| 2 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | สื่อสาร | 5.01% |
+| 3 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 4.26% |
+| 4 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | พลังงาน | 3.18% |
+| 5 | [[../Entities/State Bank of India\|State Bank of India]] | `SBIN.NS` | อินเดีย | การเงิน | 2.60% |
+| 6 | Bajaj Finserv Ltd | `BAJAJFINSV.BO` | อินเดีย | การเงิน | 2.50% |
+| 7 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | ผู้บริโภค | 2.42% |
+| 8 | Nestle India Ltd | `NESTLEIND.NS` | อินเดีย | ผู้บริโภค | 2.17% |
+| 9 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | การเงิน | 1.79% |
+| 10 | Bharat Electronics Ltd | `BEL.NS` | อินเดีย | อุตสาหกรรม | 1.74% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

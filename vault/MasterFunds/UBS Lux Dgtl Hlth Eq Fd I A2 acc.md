@@ -75,18 +75,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | 3.37% |
-| 2 | iRhythm Holdings Inc | `IRTC` | สหรัฐฯ | 3.17% |
-| 3 | [[../Entities/Guardant Health Inc\|Guardant Health Inc]] | `GH` | สหรัฐฯ | 3.15% |
-| 4 | Medline Inc Ordinary Shares - Class A | `MDLN` | สหรัฐฯ | 3.03% |
-| 5 | Alcon Inc | `ALC.SW` | สวิตเซอร์แลนด์ | 2.96% |
-| 6 | Arrowhead Pharmaceuticals Inc | `ARWR` | สหรัฐฯ | 2.85% |
-| 7 | [[../Entities/Koninklijke Philips NV\|Koninklijke Philips NV]] | `PHIA.AS` | เนเธอร์แลนด์ | 2.76% |
-| 8 | Ionis Pharmaceuticals Inc | `IONS` | สหรัฐฯ | 2.62% |
-| 9 | [[../Entities/Chugai Pharmaceutical Co Ltd\|Chugai Pharmaceutical Co Ltd]] | `4519.T` | ญี่ปุ่น | 2.51% |
-| 10 | [[../Entities/Natera Inc\|Natera Inc]] | `NTRA` | สหรัฐฯ | 2.48% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | สุขภาพ | 3.37% |
+| 2 | iRhythm Holdings Inc | `IRTC` | สหรัฐฯ | สุขภาพ | 3.17% |
+| 3 | [[../Entities/Guardant Health Inc\|Guardant Health Inc]] | `GH` | สหรัฐฯ | สุขภาพ | 3.15% |
+| 4 | Medline Inc Ordinary Shares - Class A | `MDLN` | สหรัฐฯ | สุขภาพ | 3.03% |
+| 5 | Alcon Inc | `ALC.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 2.96% |
+| 6 | Arrowhead Pharmaceuticals Inc | `ARWR` | สหรัฐฯ | สุขภาพ | 2.85% |
+| 7 | [[../Entities/Koninklijke Philips NV\|Koninklijke Philips NV]] | `PHIA.AS` | เนเธอร์แลนด์ | สุขภาพ | 2.76% |
+| 8 | Ionis Pharmaceuticals Inc | `IONS` | สหรัฐฯ | สุขภาพ | 2.62% |
+| 9 | [[../Entities/Chugai Pharmaceutical Co Ltd\|Chugai Pharmaceutical Co Ltd]] | `4519.T` | ญี่ปุ่น | สุขภาพ | 2.51% |
+| 10 | [[../Entities/Natera Inc\|Natera Inc]] | `NTRA` | สหรัฐฯ | สุขภาพ | 2.48% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

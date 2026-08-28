@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.28% |
-| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 6.52% |
-| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.79% |
-| 4 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | 4.71% |
-| 5 | [[../Entities/Motorola Solutions Inc\|Motorola Solutions Inc]] | `MSI` | สหรัฐฯ | 3.86% |
-| 6 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 3.85% |
-| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 3.78% |
-| 8 | [[../Entities/UNP US Equity\|Union Pacific Corp]] | `UNP` | สหรัฐฯ | 3.62% |
-| 9 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 3.45% |
-| 10 | [[../Entities/Kerry Group PLC Class A\|Kerry Group PLC Class A]] | `KRZ.IR` | - | 3.30% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 7.28% |
+| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 6.52% |
+| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 5.79% |
+| 4 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | การเงิน | 4.71% |
+| 5 | [[../Entities/Motorola Solutions Inc\|Motorola Solutions Inc]] | `MSI` | สหรัฐฯ | เทคโนโลยี | 3.86% |
+| 6 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | สื่อสาร | 3.85% |
+| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 3.78% |
+| 8 | [[../Entities/UNP US Equity\|Union Pacific Corp]] | `UNP` | สหรัฐฯ | อุตสาหกรรม | 3.62% |
+| 9 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 3.45% |
+| 10 | [[../Entities/Kerry Group PLC Class A\|Kerry Group PLC Class A]] | `KRZ.IR` | - | ผู้บริโภค | 3.30% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

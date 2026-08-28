@@ -79,18 +79,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 13.13% |
-| 2 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 3.72% |
-| 3 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 3.50% |
-| 4 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 3.11% |
-| 5 | [[../Entities/ExxonMobil Holdings Corp\|ExxonMobil Holdings Corp]] | `XOM` | สหรัฐฯ | 2.59% |
-| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 2.57% |
-| 7 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 2.48% |
-| 8 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 1.83% |
-| 9 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 1.62% |
-| 10 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | 1.59% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 13.13% |
+| 2 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | เทคโนโลยี | 3.72% |
+| 3 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | ผู้บริโภค | 3.50% |
+| 4 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 3.11% |
+| 5 | [[../Entities/ExxonMobil Holdings Corp\|ExxonMobil Holdings Corp]] | `XOM` | สหรัฐฯ | พลังงาน | 2.59% |
+| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 2.57% |
+| 7 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | สุขภาพ | 2.48% |
+| 8 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | เทคโนโลยี | 1.83% |
+| 9 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | เทคโนโลยี | 1.62% |
+| 10 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | เทคโนโลยี | 1.59% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

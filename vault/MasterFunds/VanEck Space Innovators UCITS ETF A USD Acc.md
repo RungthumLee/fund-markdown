@@ -68,18 +68,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Viasat Inc\|Viasat Inc]] | `VSAT` | สหรัฐฯ | 9.72% |
-| 2 | [[../Entities/AST SpaceMobile Inc Ordinary Shares - Class A\|AST SpaceMobile Inc Ordinary Shares - Class A]] | `ASTS` | สหรัฐฯ | 7.00% |
-| 3 | [[../Entities/Globalstar Inc\|Globalstar Inc]] | `GSAT` | สหรัฐฯ | 6.72% |
-| 4 | [[../Entities/EchoStar Corp Class A\|EchoStar Corp Class A]] | `ECHO` | สหรัฐฯ | 6.62% |
-| 5 | [[../Entities/Rocket Lab Corp\|Rocket Lab Corp]] | `RKLB` | สหรัฐฯ | 6.41% |
-| 6 | [[../Entities/Iridium Communications Inc\|Iridium Communications Inc]] | `IRDM` | สหรัฐฯ | 6.05% |
-| 7 | Melrose Industries PLC | `MRO.L` | สหราชอาณาจักร | 5.93% |
-| 8 | [[../Entities/MDA Space Ltd\|MDA Space Ltd]] | `MDA.TO` | แคนาดา | 5.71% |
-| 9 | [[../Entities/Planet Labs PBC Class A\|Planet Labs PBC Class A]] | `PL` | สหรัฐฯ | 5.61% |
-| 10 | WNC Corp | `6285.TW` | ไต้หวัน | 4.70% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Viasat Inc\|Viasat Inc]] | `VSAT` | สหรัฐฯ | เทคโนโลยี | 9.72% |
+| 2 | [[../Entities/AST SpaceMobile Inc Ordinary Shares - Class A\|AST SpaceMobile Inc Ordinary Shares - Class A]] | `ASTS` | สหรัฐฯ | เทคโนโลยี | 7.00% |
+| 3 | [[../Entities/Globalstar Inc\|Globalstar Inc]] | `GSAT` | สหรัฐฯ | สื่อสาร | 6.72% |
+| 4 | [[../Entities/EchoStar Corp Class A\|EchoStar Corp Class A]] | `ECHO` | สหรัฐฯ | สื่อสาร | 6.62% |
+| 5 | [[../Entities/Rocket Lab Corp\|Rocket Lab Corp]] | `RKLB` | สหรัฐฯ | อุตสาหกรรม | 6.41% |
+| 6 | [[../Entities/Iridium Communications Inc\|Iridium Communications Inc]] | `IRDM` | สหรัฐฯ | สื่อสาร | 6.05% |
+| 7 | Melrose Industries PLC | `MRO.L` | สหราชอาณาจักร | อุตสาหกรรม | 5.93% |
+| 8 | [[../Entities/MDA Space Ltd\|MDA Space Ltd]] | `MDA.TO` | แคนาดา | อุตสาหกรรม | 5.71% |
+| 9 | [[../Entities/Planet Labs PBC Class A\|Planet Labs PBC Class A]] | `PL` | สหรัฐฯ | อุตสาหกรรม | 5.61% |
+| 10 | WNC Corp | `6285.TW` | ไต้หวัน | เทคโนโลยี | 4.70% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

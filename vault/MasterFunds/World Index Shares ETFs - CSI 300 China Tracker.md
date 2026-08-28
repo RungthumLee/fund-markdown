@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | 4.23% |
-| 2 | Contemporary Amperex Technology Co Ltd ADR | `CYATY` | สหรัฐฯ | 3.19% |
-| 3 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class A\|Ping An Insurance (Group) Co. of China Ltd Class A]] | `601318.SS` | จีน | 2.86% |
-| 4 | China Merchants Bank Co Ltd ADR | `CIHKY` | สหรัฐฯ | 2.72% |
-| 5 | [[../Entities/Industrial Bank Co Ltd Class A\|Industrial Bank Co Ltd Class A]] | `601166.SS` | จีน | 1.86% |
-| 6 | [[../Entities/China Yangtze Power Co Ltd Class A\|China Yangtze Power Co Ltd Class A]] | `600900.SS` | จีน | 1.77% |
-| 7 | [[../Entities/Midea Group Co Ltd Class A\|Midea Group Co Ltd Class A]] | `000333.SZ` | จีน | 1.70% |
-| 8 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | 1.54% |
-| 9 | [[../Entities/BYD Co Ltd Class A\|BYD Co Ltd Class A]] | `002594.SZ` | จีน | 1.44% |
-| 10 | East Money Information Co Ltd Class A | `300059.SZ` | จีน | 1.40% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | ผู้บริโภค | 4.23% |
+| 2 | Contemporary Amperex Technology Co Ltd ADR | `CYATY` | สหรัฐฯ | อุตสาหกรรม | 3.19% |
+| 3 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class A\|Ping An Insurance (Group) Co. of China Ltd Class A]] | `601318.SS` | จีน | การเงิน | 2.86% |
+| 4 | China Merchants Bank Co Ltd ADR | `CIHKY` | สหรัฐฯ | การเงิน | 2.72% |
+| 5 | [[../Entities/Industrial Bank Co Ltd Class A\|Industrial Bank Co Ltd Class A]] | `601166.SS` | จีน | การเงิน | 1.86% |
+| 6 | [[../Entities/China Yangtze Power Co Ltd Class A\|China Yangtze Power Co Ltd Class A]] | `600900.SS` | จีน | สาธารณูปโภค | 1.77% |
+| 7 | [[../Entities/Midea Group Co Ltd Class A\|Midea Group Co Ltd Class A]] | `000333.SZ` | จีน | ผู้บริโภค | 1.70% |
+| 8 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | วัสดุ | 1.54% |
+| 9 | [[../Entities/BYD Co Ltd Class A\|BYD Co Ltd Class A]] | `002594.SZ` | จีน | ผู้บริโภค | 1.44% |
+| 10 | East Money Information Co Ltd Class A | `300059.SZ` | จีน | การเงิน | 1.40% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

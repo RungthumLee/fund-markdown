@@ -72,12 +72,12 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Xtrackers IE Physical Gold ETC\|Xtrackers IE Physical Gold ETC]] | `XGDU.L` | สหราชอาณาจักร | 5.62% |
-| 2 | [[../Entities/iShares Core € Corp Bond ETF EUR Dist\|iShares Core € Corp Bond ETF EUR Dist]] | `IEAC.L` | สหราชอาณาจักร | 2.72% |
-| 3 | [[../Entities/Xtrackers EUR Corporate Bd ETF 1C\|Xtrackers EUR Corporate Bd ETF 1C]] | `D5BG.DE` | เยอรมนี | 1.45% |
-| 4 | [[../Entities/AGSDFUS LX\|AXA SA]] | `CS.PA` | ฝรั่งเศส | 1.13% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Xtrackers IE Physical Gold ETC\|Xtrackers IE Physical Gold ETC]] | `XGDU.L` | สหราชอาณาจักร | - | 5.62% |
+| 2 | [[../Entities/iShares Core € Corp Bond ETF EUR Dist\|iShares Core € Corp Bond ETF EUR Dist]] | `IEAC.L` | สหราชอาณาจักร | - | 2.72% |
+| 3 | [[../Entities/Xtrackers EUR Corporate Bd ETF 1C\|Xtrackers EUR Corporate Bd ETF 1C]] | `D5BG.DE` | เยอรมนี | - | 1.45% |
+| 4 | [[../Entities/AGSDFUS LX\|AXA SA]] | `CS.PA` | ฝรั่งเศส | การเงิน | 1.13% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

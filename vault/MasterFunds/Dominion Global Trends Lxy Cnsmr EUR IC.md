@@ -64,18 +64,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Compagnie Financiere Richemont SA Class A\|Compagnie Financiere Richemont SA Class A]] | `CFR.SW` | สวิตเซอร์แลนด์ | 8.28% |
-| 2 | [[../Entities/LVMH MOET HENNESSY LOUIS VUITTON SE\|Lvmh Moet Hennessy Louis Vuitton SE]] | `MC.PA` | ฝรั่งเศส | 7.60% |
-| 3 | [[../Entities/L'Oreal SA\|L'Oreal SA]] | `OR.PA` | ฝรั่งเศส | 6.16% |
-| 4 | Ferrari NV | `RACE.MI` | อิตาลี | 5.70% |
-| 5 | Interactive Brokers Group Inc Class A | `IBKR` | สหรัฐฯ | 4.83% |
-| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 4.75% |
-| 7 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 4.08% |
-| 8 | Prada SpA | `1913.HK` | ฮ่องกง | 3.89% |
-| 9 | [[../Entities/RMS FP Equity\|Hermes International SA]] | `RMS.PA` | ฝรั่งเศส | 3.78% |
-| 10 | [[../Entities/American Express Co\|American Express Co]] | `AXP` | สหรัฐฯ | 3.57% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Compagnie Financiere Richemont SA Class A\|Compagnie Financiere Richemont SA Class A]] | `CFR.SW` | สวิตเซอร์แลนด์ | ผู้บริโภค | 8.28% |
+| 2 | [[../Entities/LVMH MOET HENNESSY LOUIS VUITTON SE\|Lvmh Moet Hennessy Louis Vuitton SE]] | `MC.PA` | ฝรั่งเศส | ผู้บริโภค | 7.60% |
+| 3 | [[../Entities/L'Oreal SA\|L'Oreal SA]] | `OR.PA` | ฝรั่งเศส | ผู้บริโภค | 6.16% |
+| 4 | Ferrari NV | `RACE.MI` | อิตาลี | ผู้บริโภค | 5.70% |
+| 5 | Interactive Brokers Group Inc Class A | `IBKR` | สหรัฐฯ | การเงิน | 4.83% |
+| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 4.75% |
+| 7 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | การเงิน | 4.08% |
+| 8 | Prada SpA | `1913.HK` | ฮ่องกง | ผู้บริโภค | 3.89% |
+| 9 | [[../Entities/RMS FP Equity\|Hermes International SA]] | `RMS.PA` | ฝรั่งเศส | ผู้บริโภค | 3.78% |
+| 10 | [[../Entities/American Express Co\|American Express Co]] | `AXP` | สหรัฐฯ | การเงิน | 3.57% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.35% |
-| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.08% |
-| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 4.02% |
-| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 3.80% |
-| 5 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 3.43% |
-| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.00% |
-| 7 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 2.99% |
-| 8 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 2.82% |
-| 9 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.70% |
-| 10 | [[../Entities/Rentokil Initial PLC\|Rentokil Initial PLC]] | `RTO.L` | สหราชอาณาจักร | 2.35% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 5.35% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 5.08% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | เทคโนโลยี | 4.02% |
+| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 3.80% |
+| 5 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | เทคโนโลยี | 3.43% |
+| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 3.00% |
+| 7 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | สุขภาพ | 2.99% |
+| 8 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | การเงิน | 2.82% |
+| 9 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 2.70% |
+| 10 | [[../Entities/Rentokil Initial PLC\|Rentokil Initial PLC]] | `RTO.L` | สหราชอาณาจักร | อุตสาหกรรม | 2.35% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

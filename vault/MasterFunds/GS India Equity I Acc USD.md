@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 5.54% |
-| 2 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 3.56% |
-| 3 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 2.93% |
-| 4 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | 2.60% |
-| 5 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | 2.56% |
-| 6 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | 2.49% |
-| 7 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | 2.45% |
-| 8 | [[../Entities/Tata Steel Ltd\|Tata Steel Ltd]] | `TATASTEEL.NS` | อินเดีย | 2.30% |
-| 9 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | 2.29% |
-| 10 | [[../Entities/Sun Pharmaceuticals Industries Ltd\|Sun Pharmaceuticals Industries Ltd]] | `SUNPHARMA.NS` | อินเดีย | 2.14% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | การเงิน | 5.54% |
+| 2 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 3.56% |
+| 3 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | พลังงาน | 2.93% |
+| 4 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | การเงิน | 2.60% |
+| 5 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | ผู้บริโภค | 2.56% |
+| 6 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | - | 2.49% |
+| 7 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | เทคโนโลยี | 2.45% |
+| 8 | [[../Entities/Tata Steel Ltd\|Tata Steel Ltd]] | `TATASTEEL.NS` | อินเดีย | วัสดุ | 2.30% |
+| 9 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | การเงิน | 2.29% |
+| 10 | [[../Entities/Sun Pharmaceuticals Industries Ltd\|Sun Pharmaceuticals Industries Ltd]] | `SUNPHARMA.NS` | อินเดีย | สุขภาพ | 2.14% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

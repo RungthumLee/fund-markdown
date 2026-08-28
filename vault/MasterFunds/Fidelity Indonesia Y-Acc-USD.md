@@ -85,18 +85,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/PT Bank Central Asia Tbk\|PT Bank Central Asia Tbk]] | `BBCA.JK` | อินโดนีเซีย | 9.16% |
-| 2 | [[../Entities/PT Bank Mandiri (Persero) Tbk\|PT Bank Mandiri (Persero) Tbk]] | `BMRI.JK` | อินโดนีเซีย | 9.02% |
-| 3 | [[../Entities/PT Telkom Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Telkom Indonesia (Persero) Tbk Registered Shs Series -B-]] | `TLKM.JK` | อินโดนีเซีย | 6.78% |
-| 4 | [[../Entities/ASII IJ Equity\|PT Astra International Tbk]] | `ASII.JK` | อินโดนีเซีย | 6.34% |
-| 5 | [[../Entities/PT Bank Rakyat Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Bank Rakyat Indonesia (Persero) Tbk Registered Shs Series -B-]] | `BBRI.JK` | อินโดนีเซีย | 6.12% |
-| 6 | [[../Entities/PT Indofood CBP Sukses Makmur Tbk\|PT Indofood CBP Sukses Makmur Tbk]] | `ICBP.JK` | อินโดนีเซีย | 4.42% |
-| 7 | [[../Entities/PT Bank Negara Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Bank Negara Indonesia (Persero) Tbk Registered Shs Series -B-]] | `BBNI.JK` | อินโดนีเซีย | 4.28% |
-| 8 | [[../Entities/PT Mayora Indah Tbk\|PT Mayora Indah Tbk]] | `MYOR.JK` | อินโดนีเซีย | 4.20% |
-| 9 | [[../Entities/AADI IJ Equity\|PT Adaro Andalan Indonesia Tbk]] | `AADI.JK` | อินโดนีเซีย | 4.19% |
-| 10 | [[../Entities/PT Indosat Tbk Class B\|PT Indosat Tbk Class B]] | `ISAT.JK` | อินโดนีเซีย | 3.40% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/PT Bank Central Asia Tbk\|PT Bank Central Asia Tbk]] | `BBCA.JK` | อินโดนีเซีย | การเงิน | 9.16% |
+| 2 | [[../Entities/PT Bank Mandiri (Persero) Tbk\|PT Bank Mandiri (Persero) Tbk]] | `BMRI.JK` | อินโดนีเซีย | การเงิน | 9.02% |
+| 3 | [[../Entities/PT Telkom Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Telkom Indonesia (Persero) Tbk Registered Shs Series -B-]] | `TLKM.JK` | อินโดนีเซีย | สื่อสาร | 6.78% |
+| 4 | [[../Entities/ASII IJ Equity\|PT Astra International Tbk]] | `ASII.JK` | อินโดนีเซีย | อุตสาหกรรม | 6.34% |
+| 5 | [[../Entities/PT Bank Rakyat Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Bank Rakyat Indonesia (Persero) Tbk Registered Shs Series -B-]] | `BBRI.JK` | อินโดนีเซีย | การเงิน | 6.12% |
+| 6 | [[../Entities/PT Indofood CBP Sukses Makmur Tbk\|PT Indofood CBP Sukses Makmur Tbk]] | `ICBP.JK` | อินโดนีเซีย | ผู้บริโภค | 4.42% |
+| 7 | [[../Entities/PT Bank Negara Indonesia (Persero) Tbk Registered Shs Series -B-\|PT Bank Negara Indonesia (Persero) Tbk Registered Shs Series -B-]] | `BBNI.JK` | อินโดนีเซีย | การเงิน | 4.28% |
+| 8 | [[../Entities/PT Mayora Indah Tbk\|PT Mayora Indah Tbk]] | `MYOR.JK` | อินโดนีเซีย | ผู้บริโภค | 4.20% |
+| 9 | [[../Entities/AADI IJ Equity\|PT Adaro Andalan Indonesia Tbk]] | `AADI.JK` | อินโดนีเซีย | พลังงาน | 4.19% |
+| 10 | [[../Entities/PT Indosat Tbk Class B\|PT Indosat Tbk Class B]] | `ISAT.JK` | อินโดนีเซีย | สื่อสาร | 3.40% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

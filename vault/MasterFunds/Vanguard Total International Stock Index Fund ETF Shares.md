@@ -92,18 +92,18 @@ US-listed ETF, ticker VXUS, CUSIP 921909768
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.02% |
-| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 1.80% |
-| 3 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 1.42% |
-| 4 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 1.41% |
-| 5 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 0.85% |
-| 6 | [[../Entities/HSBC Holdings PLC\|HSBC Holdings PLC]] | `HSBA.L` | สหราชอาณาจักร | 0.82% |
-| 7 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 0.69% |
-| 8 | Royal Bank of Canada | `RY` | สหรัฐฯ | 0.66% |
-| 9 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | 0.65% |
-| 10 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 0.62% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 4.02% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 1.80% |
+| 3 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 1.42% |
+| 4 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 1.41% |
+| 5 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 0.85% |
+| 6 | [[../Entities/HSBC Holdings PLC\|HSBC Holdings PLC]] | `HSBA.L` | สหราชอาณาจักร | การเงิน | 0.82% |
+| 7 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 0.69% |
+| 8 | Royal Bank of Canada | `RY` | สหรัฐฯ | - | 0.66% |
+| 9 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 0.65% |
+| 10 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 0.62% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

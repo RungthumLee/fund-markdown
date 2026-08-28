@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.01% |
-| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.79% |
-| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.18% |
-| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 3.60% |
-| 5 | [[../Entities/Rockwell Automation Inc\|Rockwell Automation Inc]] | `ROK` | สหรัฐฯ | 2.65% |
-| 6 | [[../Entities/Galderma Group AG Registered Shares\|Galderma Group AG Registered Shares]] | `GALD.SW` | สวิตเซอร์แลนด์ | 2.40% |
-| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 2.19% |
-| 8 | [[../Entities/Cummins Inc\|Cummins Inc]] | `CMI` | สหรัฐฯ | 2.10% |
-| 9 | [[../Entities/NXP SEMICONDUCTORS NV\|NXP Semiconductors NV]] | `NXPI` | สหรัฐฯ | 2.08% |
-| 10 | [[../Entities/Emerson Electric Co\|Emerson Electric Co]] | `EMR` | สหรัฐฯ | 2.08% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 5.01% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 4.79% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 4.18% |
+| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 3.60% |
+| 5 | [[../Entities/Rockwell Automation Inc\|Rockwell Automation Inc]] | `ROK` | สหรัฐฯ | อุตสาหกรรม | 2.65% |
+| 6 | [[../Entities/Galderma Group AG Registered Shares\|Galderma Group AG Registered Shares]] | `GALD.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 2.40% |
+| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 2.19% |
+| 8 | [[../Entities/Cummins Inc\|Cummins Inc]] | `CMI` | สหรัฐฯ | อุตสาหกรรม | 2.10% |
+| 9 | [[../Entities/NXP SEMICONDUCTORS NV\|NXP Semiconductors NV]] | `NXPI` | สหรัฐฯ | เทคโนโลยี | 2.08% |
+| 10 | [[../Entities/Emerson Electric Co\|Emerson Electric Co]] | `EMR` | สหรัฐฯ | อุตสาหกรรม | 2.08% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

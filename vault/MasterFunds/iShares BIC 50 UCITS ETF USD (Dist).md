@@ -67,18 +67,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 14.69% |
-| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 14.07% |
-| 3 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 5.36% |
-| 4 | [[../Entities/ICICI Bank Ltd ADR\|ICICI Bank Ltd ADR]] | `IBN` | สหรัฐฯ | 4.07% |
-| 5 | [[../Entities/Industrial And Commercial Bank Of China Ltd Class H\|Industrial And Commercial Bank Of China Ltd Class H]] | `01398` | - | 3.95% |
-| 6 | [[../Entities/PDD Holdings Inc ADR\|PDD Holdings Inc ADR]] | `PDD` | สหรัฐฯ | 3.52% |
-| 7 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | 3.34% |
-| 8 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | 3.26% |
-| 9 | Vale SA ADR | `VALE` | สหรัฐฯ | 2.72% |
-| 10 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | 2.50% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 14.69% |
+| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 14.07% |
+| 3 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | - | 5.36% |
+| 4 | [[../Entities/ICICI Bank Ltd ADR\|ICICI Bank Ltd ADR]] | `IBN` | สหรัฐฯ | การเงิน | 4.07% |
+| 5 | [[../Entities/Industrial And Commercial Bank Of China Ltd Class H\|Industrial And Commercial Bank Of China Ltd Class H]] | `01398` | - | - | 3.95% |
+| 6 | [[../Entities/PDD Holdings Inc ADR\|PDD Holdings Inc ADR]] | `PDD` | สหรัฐฯ | ผู้บริโภค | 3.52% |
+| 7 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | ผู้บริโภค | 3.34% |
+| 8 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | เทคโนโลยี | 3.26% |
+| 9 | Vale SA ADR | `VALE` | สหรัฐฯ | วัสดุ | 2.72% |
+| 10 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | - | 2.50% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

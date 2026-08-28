@@ -87,18 +87,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | 5.13% |
-| 2 | [[../Entities/Shell PLC\|Shell PLC]] | `SHEL.L` | สหราชอาณาจักร | 2.35% |
-| 3 | [[../Entities/Eversource Energy\|Eversource Energy]] | `ES` | สหรัฐฯ | 1.70% |
-| 4 | [[../Entities/Banco de Sabadell SA\|Banco de Sabadell SA]] | `SAB.MC` | - | 1.68% |
-| 5 | [[../Entities/Sanofi SA\|Sanofi SA]] | `SAN.PA` | ฝรั่งเศส | 1.46% |
-| 6 | [[../Entities/Huntington Bancshares Inc\|Huntington Bancshares Inc]] | `HBAN` | สหรัฐฯ | 1.41% |
-| 7 | [[../Entities/Bristol-Myers Squibb Co\|Bristol-Myers Squibb Co]] | `BMY` | สหรัฐฯ | 1.39% |
-| 8 | [[../Entities/U.S. Bancorp\|U.S. Bancorp]] | `USB` | สหรัฐฯ | 1.30% |
-| 9 | [[../Entities/Regions Financial Corp\|Regions Financial Corp]] | `RF` | สหรัฐฯ | 1.26% |
-| 10 | [[../Entities/Grupo Financiero Banorte SAB de CV Class O\|Grupo Financiero Banorte SAB de CV Class O]] | `GFNORTEO.MX` | - | 1.25% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | การเงิน | 5.13% |
+| 2 | [[../Entities/Shell PLC\|Shell PLC]] | `SHEL.L` | สหราชอาณาจักร | พลังงาน | 2.35% |
+| 3 | [[../Entities/Eversource Energy\|Eversource Energy]] | `ES` | สหรัฐฯ | สาธารณูปโภค | 1.70% |
+| 4 | [[../Entities/Banco de Sabadell SA\|Banco de Sabadell SA]] | `SAB.MC` | - | การเงิน | 1.68% |
+| 5 | [[../Entities/Sanofi SA\|Sanofi SA]] | `SAN.PA` | ฝรั่งเศส | สุขภาพ | 1.46% |
+| 6 | [[../Entities/Huntington Bancshares Inc\|Huntington Bancshares Inc]] | `HBAN` | สหรัฐฯ | การเงิน | 1.41% |
+| 7 | [[../Entities/Bristol-Myers Squibb Co\|Bristol-Myers Squibb Co]] | `BMY` | สหรัฐฯ | สุขภาพ | 1.39% |
+| 8 | [[../Entities/U.S. Bancorp\|U.S. Bancorp]] | `USB` | สหรัฐฯ | การเงิน | 1.30% |
+| 9 | [[../Entities/Regions Financial Corp\|Regions Financial Corp]] | `RF` | สหรัฐฯ | การเงิน | 1.26% |
+| 10 | [[../Entities/Grupo Financiero Banorte SAB de CV Class O\|Grupo Financiero Banorte SAB de CV Class O]] | `GFNORTEO.MX` | - | การเงิน | 1.25% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

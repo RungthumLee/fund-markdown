@@ -63,18 +63,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Array Technologies Inc Ordinary Shares\|Array Technologies Inc Ordinary Shares]] | `ARRY` | สหรัฐฯ | 5.88% |
-| 2 | [[../Entities/Siemens Energy AG Ordinary Shares\|Siemens Energy AG Ordinary Shares]] | `ENR.DE` | เยอรมนี | 5.76% |
-| 3 | [[../Entities/Legence Corp Ordinary Shares - Class A\|Legence Corp Ordinary Shares - Class A]] | `LGN` | สหรัฐฯ | 5.73% |
-| 4 | [[../Entities/Sunrun Inc\|Sunrun Inc]] | `RUN` | สหรัฐฯ | 5.67% |
-| 5 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | 5.53% |
-| 6 | [[../Entities/Lumentum Holdings Inc\|Lumentum Holdings Inc]] | `LITE` | สหรัฐฯ | 5.34% |
-| 7 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 4.73% |
-| 8 | [[../Entities/Cameco Corp\|Cameco Corp]] | `CCO.TO` | แคนาดา | 4.44% |
-| 9 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | 4.42% |
-| 10 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 4.33% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Array Technologies Inc Ordinary Shares\|Array Technologies Inc Ordinary Shares]] | `ARRY` | สหรัฐฯ | เทคโนโลยี | 5.88% |
+| 2 | [[../Entities/Siemens Energy AG Ordinary Shares\|Siemens Energy AG Ordinary Shares]] | `ENR.DE` | เยอรมนี | อุตสาหกรรม | 5.76% |
+| 3 | [[../Entities/Legence Corp Ordinary Shares - Class A\|Legence Corp Ordinary Shares - Class A]] | `LGN` | สหรัฐฯ | อุตสาหกรรม | 5.73% |
+| 4 | [[../Entities/Sunrun Inc\|Sunrun Inc]] | `RUN` | สหรัฐฯ | เทคโนโลยี | 5.67% |
+| 5 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | เทคโนโลยี | 5.53% |
+| 6 | [[../Entities/Lumentum Holdings Inc\|Lumentum Holdings Inc]] | `LITE` | สหรัฐฯ | เทคโนโลยี | 5.34% |
+| 7 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 4.73% |
+| 8 | [[../Entities/Cameco Corp\|Cameco Corp]] | `CCO.TO` | แคนาดา | พลังงาน | 4.44% |
+| 9 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | อุตสาหกรรม | 4.42% |
+| 10 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 4.33% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

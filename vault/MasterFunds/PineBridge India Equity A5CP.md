@@ -63,18 +63,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Waaree Energies Ltd | `WAAREEENER.NS` | อินเดีย | 7.99% |
-| 2 | Indian Bank | `INDIANB.BO` | อินเดีย | 7.43% |
-| 3 | Bank of Baroda | `532134` | - | 6.70% |
-| 4 | Bajaj Auto Ltd | `BAJAJ-AUTO.BO` | อินเดีย | 5.29% |
-| 5 | Infosys Ltd ADR | `INFY` | สหรัฐฯ | 4.84% |
-| 6 | Polycab India Ltd | `POLYCAB.BO` | อินเดีย | 4.59% |
-| 7 | Tata Consultancy Services Ltd | `TCS.NS` | อินเดีย | 4.45% |
-| 8 | [[../Entities/HDFC Bank Ltd ADR\|HDFC Bank Ltd ADR]] | `HDB` | สหรัฐฯ | 4.00% |
-| 9 | Union Bank of India | `UNIONBANK.BO` | อินเดีย | 3.89% |
-| 10 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 3.85% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Waaree Energies Ltd | `WAAREEENER.NS` | อินเดีย | เทคโนโลยี | 7.99% |
+| 2 | Indian Bank | `INDIANB.BO` | อินเดีย | การเงิน | 7.43% |
+| 3 | Bank of Baroda | `532134` | - | - | 6.70% |
+| 4 | Bajaj Auto Ltd | `BAJAJ-AUTO.BO` | อินเดีย | ผู้บริโภค | 5.29% |
+| 5 | Infosys Ltd ADR | `INFY` | สหรัฐฯ | เทคโนโลยี | 4.84% |
+| 6 | Polycab India Ltd | `POLYCAB.BO` | อินเดีย | อุตสาหกรรม | 4.59% |
+| 7 | Tata Consultancy Services Ltd | `TCS.NS` | อินเดีย | เทคโนโลยี | 4.45% |
+| 8 | [[../Entities/HDFC Bank Ltd ADR\|HDFC Bank Ltd ADR]] | `HDB` | สหรัฐฯ | การเงิน | 4.00% |
+| 9 | Union Bank of India | `UNIONBANK.BO` | อินเดีย | การเงิน | 3.89% |
+| 10 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | พลังงาน | 3.85% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

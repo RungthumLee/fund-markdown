@@ -82,18 +82,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ING Groep NV\|ING Groep NV]] | `INGA.AS` | เนเธอร์แลนด์ | 6.25% |
-| 2 | [[../Entities/UniCredit SpA\|UniCredit SpA]] | `UCG.MI` | อิตาลี | 6.09% |
-| 3 | [[../Entities/Standard Chartered PLC\|Standard Chartered PLC]] | `STAN.L` | สหราชอาณาจักร | 5.21% |
-| 4 | Prosus NV Ordinary Shares - Class N | `PRX.AS` | เนเธอร์แลนด์ | 4.69% |
-| 5 | [[../Entities/Honda Motor Co Ltd\|Honda Motor Co Ltd]] | `7267.T` | ญี่ปุ่น | 4.40% |
-| 6 | [[../Entities/Shell PLC\|Shell PLC]] | `SHEL.L` | สหราชอาณาจักร | 4.39% |
-| 7 | [[../Entities/TotalEnergies SE\|TotalEnergies SE]] | `TTE.PA` | ฝรั่งเศส | 4.28% |
-| 8 | Equinor ASA | `EQNR.OL` | - | 3.34% |
-| 9 | [[../Entities/Sompo Holdings Inc\|Sompo Holdings Inc]] | `8630.T` | ญี่ปุ่น | 2.66% |
-| 10 | Vodafone Group PLC | `VOD.L` | สหราชอาณาจักร | 2.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ING Groep NV\|ING Groep NV]] | `INGA.AS` | เนเธอร์แลนด์ | การเงิน | 6.25% |
+| 2 | [[../Entities/UniCredit SpA\|UniCredit SpA]] | `UCG.MI` | อิตาลี | การเงิน | 6.09% |
+| 3 | [[../Entities/Standard Chartered PLC\|Standard Chartered PLC]] | `STAN.L` | สหราชอาณาจักร | การเงิน | 5.21% |
+| 4 | Prosus NV Ordinary Shares - Class N | `PRX.AS` | เนเธอร์แลนด์ | ผู้บริโภค | 4.69% |
+| 5 | [[../Entities/Honda Motor Co Ltd\|Honda Motor Co Ltd]] | `7267.T` | ญี่ปุ่น | ผู้บริโภค | 4.40% |
+| 6 | [[../Entities/Shell PLC\|Shell PLC]] | `SHEL.L` | สหราชอาณาจักร | พลังงาน | 4.39% |
+| 7 | [[../Entities/TotalEnergies SE\|TotalEnergies SE]] | `TTE.PA` | ฝรั่งเศส | พลังงาน | 4.28% |
+| 8 | Equinor ASA | `EQNR.OL` | - | พลังงาน | 3.34% |
+| 9 | [[../Entities/Sompo Holdings Inc\|Sompo Holdings Inc]] | `8630.T` | ญี่ปุ่น | การเงิน | 2.66% |
+| 10 | Vodafone Group PLC | `VOD.L` | สหราชอาณาจักร | สื่อสาร | 2.41% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -80,18 +80,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Twist Bioscience Corp\|Twist Bioscience Corp]] | `TWST` | สหรัฐฯ | 5.93% |
-| 2 | [[../Entities/Astera Labs Inc\|Astera Labs Inc]] | `ALAB` | สหรัฐฯ | 5.62% |
-| 3 | [[../Entities/Xometry Inc Ordinary Shares - Class A\|Xometry Inc Ordinary Shares - Class A]] | `XMTR` | สหรัฐฯ | 4.58% |
-| 4 | [[../Entities/Axon Enterprise Inc\|Axon Enterprise Inc]] | `AXON` | สหรัฐฯ | 4.46% |
-| 5 | [[../Entities/Alnylam Pharmaceuticals Inc\|Alnylam Pharmaceuticals Inc]] | `ALNY` | สหรัฐฯ | 4.41% |
-| 6 | [[../Entities/Aspeed Technology Inc\|Aspeed Technology Inc]] | `5274.TWO` | ไต้หวัน | 3.26% |
-| 7 | [[../Entities/Guardant Health Inc\|Guardant Health Inc]] | `GH` | สหรัฐฯ | 2.91% |
-| 8 | [[../Entities/JFrog Ltd Ordinary Shares\|JFrog Ltd Ordinary Shares]] | `FROG` | สหรัฐฯ | 2.80% |
-| 9 | [[../Entities/Harmonic Drive Systems Inc\|Harmonic Drive Systems Inc]] | `6324.T` | ญี่ปุ่น | 2.69% |
-| 10 | [[../Entities/Revolution Medicines Inc Ordinary Shares\|Revolution Medicines Inc Ordinary Shares]] | `RVMD` | สหรัฐฯ | 2.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Twist Bioscience Corp\|Twist Bioscience Corp]] | `TWST` | สหรัฐฯ | สุขภาพ | 5.93% |
+| 2 | [[../Entities/Astera Labs Inc\|Astera Labs Inc]] | `ALAB` | สหรัฐฯ | เทคโนโลยี | 5.62% |
+| 3 | [[../Entities/Xometry Inc Ordinary Shares - Class A\|Xometry Inc Ordinary Shares - Class A]] | `XMTR` | สหรัฐฯ | อุตสาหกรรม | 4.58% |
+| 4 | [[../Entities/Axon Enterprise Inc\|Axon Enterprise Inc]] | `AXON` | สหรัฐฯ | อุตสาหกรรม | 4.46% |
+| 5 | [[../Entities/Alnylam Pharmaceuticals Inc\|Alnylam Pharmaceuticals Inc]] | `ALNY` | สหรัฐฯ | สุขภาพ | 4.41% |
+| 6 | [[../Entities/Aspeed Technology Inc\|Aspeed Technology Inc]] | `5274.TWO` | ไต้หวัน | เทคโนโลยี | 3.26% |
+| 7 | [[../Entities/Guardant Health Inc\|Guardant Health Inc]] | `GH` | สหรัฐฯ | สุขภาพ | 2.91% |
+| 8 | [[../Entities/JFrog Ltd Ordinary Shares\|JFrog Ltd Ordinary Shares]] | `FROG` | สหรัฐฯ | เทคโนโลยี | 2.80% |
+| 9 | [[../Entities/Harmonic Drive Systems Inc\|Harmonic Drive Systems Inc]] | `6324.T` | ญี่ปุ่น | อุตสาหกรรม | 2.69% |
+| 10 | [[../Entities/Revolution Medicines Inc Ordinary Shares\|Revolution Medicines Inc Ordinary Shares]] | `RVMD` | สหรัฐฯ | สุขภาพ | 2.41% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

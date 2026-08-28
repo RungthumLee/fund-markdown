@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 10.04% |
-| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 5.72% |
-| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.34% |
-| 4 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 5.24% |
-| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.91% |
-| 6 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | 3.94% |
-| 7 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.82% |
-| 8 | [[../Entities/ASMPT LTD\|ASMPT Ltd]] | `0522.HK` | ฮ่องกง | 2.14% |
-| 9 | [[../Entities/ORACLE CORP\|Oracle Corp]] | `ORCL` | สหรัฐฯ | 2.07% |
-| 10 | [[../Entities/Microchip Technology Inc\|Microchip Technology Inc]] | `MCHP` | สหรัฐฯ | 1.89% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 10.04% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 5.72% |
+| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 5.34% |
+| 4 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 5.24% |
+| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 4.91% |
+| 6 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | เทคโนโลยี | 3.94% |
+| 7 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 3.82% |
+| 8 | [[../Entities/ASMPT LTD\|ASMPT Ltd]] | `0522.HK` | ฮ่องกง | เทคโนโลยี | 2.14% |
+| 9 | [[../Entities/ORACLE CORP\|Oracle Corp]] | `ORCL` | สหรัฐฯ | เทคโนโลยี | 2.07% |
+| 10 | [[../Entities/Microchip Technology Inc\|Microchip Technology Inc]] | `MCHP` | สหรัฐฯ | เทคโนโลยี | 1.89% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

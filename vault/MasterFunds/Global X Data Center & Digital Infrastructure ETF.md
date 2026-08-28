@@ -60,18 +60,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/EQIX US Equity\|Equinix Inc]] | `EQIX` | สหรัฐฯ | 13.40% |
-| 2 | [[../Entities/Digital Realty\|Digital Realty Trust Inc]] | `DLR` | สหรัฐฯ | 12.43% |
-| 3 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | 10.26% |
-| 4 | [[../Entities/Crown Castle Inc\|Crown Castle Inc]] | `CCI` | สหรัฐฯ | 6.78% |
-| 5 | [[../Entities/NEXTDC LTD\|Nextdc Ltd]] | `NXT.AX` | ออสเตรเลีย | 5.20% |
-| 6 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 4.31% |
-| 7 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 4.21% |
-| 8 | [[../Entities/MARVELL TECHNOLOGY GROUP LTD\|Marvell Technology Inc]] | `MRVL` | สหรัฐฯ | 4.04% |
-| 9 | [[../Entities/Keppel DC REIT\|Keppel DC REIT]] | `AJBU.SI` | สิงคโปร์ | 3.89% |
-| 10 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 3.72% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/EQIX US Equity\|Equinix Inc]] | `EQIX` | สหรัฐฯ | อสังหา | 13.40% |
+| 2 | [[../Entities/Digital Realty\|Digital Realty Trust Inc]] | `DLR` | สหรัฐฯ | อสังหา | 12.43% |
+| 3 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | อสังหา | 10.26% |
+| 4 | [[../Entities/Crown Castle Inc\|Crown Castle Inc]] | `CCI` | สหรัฐฯ | อสังหา | 6.78% |
+| 5 | [[../Entities/NEXTDC LTD\|Nextdc Ltd]] | `NXT.AX` | ออสเตรเลีย | เทคโนโลยี | 5.20% |
+| 6 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | เทคโนโลยี | 4.31% |
+| 7 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 4.21% |
+| 8 | [[../Entities/MARVELL TECHNOLOGY GROUP LTD\|Marvell Technology Inc]] | `MRVL` | สหรัฐฯ | เทคโนโลยี | 4.04% |
+| 9 | [[../Entities/Keppel DC REIT\|Keppel DC REIT]] | `AJBU.SI` | สิงคโปร์ | อสังหา | 3.89% |
+| 10 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 3.72% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

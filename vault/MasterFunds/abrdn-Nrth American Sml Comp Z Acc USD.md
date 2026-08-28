@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Ligand Pharmaceuticals Inc\|Ligand Pharmaceuticals Inc]] | `LGND` | สหรัฐฯ | 2.87% |
-| 2 | Cohu Inc | `COHU` | สหรัฐฯ | 2.73% |
-| 3 | [[../Entities/Wintrust Financial Corp\|Wintrust Financial Corp]] | `WTFC` | สหรัฐฯ | 2.66% |
-| 4 | WSFS Financial Corp | `WSFS` | สหรัฐฯ | 2.57% |
-| 5 | Everus Construction Group Inc | `ECG` | สหรัฐฯ | 2.54% |
-| 6 | Seacoast Banking Corp of Florida | `SBCF` | สหรัฐฯ | 2.51% |
-| 7 | Casella Waste Systems Inc Class A | `CWST` | สหรัฐฯ | 2.45% |
-| 8 | OneSpaWorld Holdings Ltd | `OSW` | สหรัฐฯ | 2.43% |
-| 9 | Ameris Bancorp | `ABCB` | สหรัฐฯ | 2.42% |
-| 10 | Kiniksa Pharmaceuticals International PLC Class A | `KNSA` | สหรัฐฯ | 2.40% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Ligand Pharmaceuticals Inc\|Ligand Pharmaceuticals Inc]] | `LGND` | สหรัฐฯ | สุขภาพ | 2.87% |
+| 2 | Cohu Inc | `COHU` | สหรัฐฯ | เทคโนโลยี | 2.73% |
+| 3 | [[../Entities/Wintrust Financial Corp\|Wintrust Financial Corp]] | `WTFC` | สหรัฐฯ | การเงิน | 2.66% |
+| 4 | WSFS Financial Corp | `WSFS` | สหรัฐฯ | การเงิน | 2.57% |
+| 5 | Everus Construction Group Inc | `ECG` | สหรัฐฯ | อุตสาหกรรม | 2.54% |
+| 6 | Seacoast Banking Corp of Florida | `SBCF` | สหรัฐฯ | การเงิน | 2.51% |
+| 7 | Casella Waste Systems Inc Class A | `CWST` | สหรัฐฯ | อุตสาหกรรม | 2.45% |
+| 8 | OneSpaWorld Holdings Ltd | `OSW` | สหรัฐฯ | ผู้บริโภค | 2.43% |
+| 9 | Ameris Bancorp | `ABCB` | สหรัฐฯ | การเงิน | 2.42% |
+| 10 | Kiniksa Pharmaceuticals International PLC Class A | `KNSA` | สหรัฐฯ | สุขภาพ | 2.40% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

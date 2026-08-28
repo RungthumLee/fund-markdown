@@ -67,17 +67,17 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Murata Manufacturing Co Ltd\|Murata Manufacturing Co Ltd]] | `6981.T` | ญี่ปุ่น | 4.89% |
-| 2 | [[../Entities/Mitsubishi Electric Corp\|Mitsubishi Electric Corp]] | `6503.T` | ญี่ปุ่น | 4.73% |
-| 3 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | 4.69% |
-| 4 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | 4.62% |
-| 5 | [[../Entities/Citizen Watch Co Ltd\|Citizen Watch Co Ltd]] | `7762.T` | ญี่ปุ่น | 4.06% |
-| 6 | Yokohama Financial Group Inc | `7186.T` | ญี่ปุ่น | 3.94% |
-| 7 | [[../Entities/Japan Post Bank Co Ltd\|Japan Post Bank Co Ltd]] | `7182.T` | ญี่ปุ่น | 3.57% |
-| 8 | Rohm Co Ltd | `6963.T` | ญี่ปุ่น | 3.56% |
-| 9 | Kinden Corp | `1944.T` | ญี่ปุ่น | 3.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Murata Manufacturing Co Ltd\|Murata Manufacturing Co Ltd]] | `6981.T` | ญี่ปุ่น | เทคโนโลยี | 4.89% |
+| 2 | [[../Entities/Mitsubishi Electric Corp\|Mitsubishi Electric Corp]] | `6503.T` | ญี่ปุ่น | อุตสาหกรรม | 4.73% |
+| 3 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | การเงิน | 4.69% |
+| 4 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | เทคโนโลยี | 4.62% |
+| 5 | [[../Entities/Citizen Watch Co Ltd\|Citizen Watch Co Ltd]] | `7762.T` | ญี่ปุ่น | ผู้บริโภค | 4.06% |
+| 6 | Yokohama Financial Group Inc | `7186.T` | ญี่ปุ่น | การเงิน | 3.94% |
+| 7 | [[../Entities/Japan Post Bank Co Ltd\|Japan Post Bank Co Ltd]] | `7182.T` | ญี่ปุ่น | การเงิน | 3.57% |
+| 8 | Rohm Co Ltd | `6963.T` | ญี่ปุ่น | เทคโนโลยี | 3.56% |
+| 9 | Kinden Corp | `1944.T` | ญี่ปุ่น | อุตสาหกรรม | 3.49% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

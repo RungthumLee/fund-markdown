@@ -59,18 +59,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Barrick Mining Corp\|Barrick Mining Corp]] | `ABX.TO` | แคนาดา | 5.39% |
-| 2 | G Mining Ventures Corp | `GMIN.TO` | แคนาดา | 5.04% |
-| 3 | [[../Entities/Alamos Gold Inc Class A\|Alamos Gold Inc Class A]] | `AGI.TO` | แคนาดา | 4.52% |
-| 4 | [[../Entities/Equinox Gold Corp Ordinary Shares Class A\|Equinox Gold Corp Ordinary Shares Class A]] | `EQX.TO` | แคนาดา | 4.18% |
-| 5 | [[../Entities/NEM US Equity\|Newmont Corp]] | `NEM` | สหรัฐฯ | 3.75% |
-| 6 | [[../Entities/Anglogold Ashanti PLC\|Anglogold Ashanti PLC]] | `AU` | สหรัฐฯ | 2.86% |
-| 7 | [[../Entities/AEM CN Equity\|Agnico Eagle Mines Ltd]] | `AEM.TO` | แคนาดา | 2.36% |
-| 8 | Greatland Resources Ltd | `GGP.AX` | ออสเตรเลีย | 2.19% |
-| 9 | Perseus Mining Ltd | `PRU.AX` | ออสเตรเลีย | 2.11% |
-| 10 | Torex Gold Resources Inc | `TXG.TO` | แคนาดา | 2.10% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Barrick Mining Corp\|Barrick Mining Corp]] | `ABX.TO` | แคนาดา | วัสดุ | 5.39% |
+| 2 | G Mining Ventures Corp | `GMIN.TO` | แคนาดา | วัสดุ | 5.04% |
+| 3 | [[../Entities/Alamos Gold Inc Class A\|Alamos Gold Inc Class A]] | `AGI.TO` | แคนาดา | วัสดุ | 4.52% |
+| 4 | [[../Entities/Equinox Gold Corp Ordinary Shares Class A\|Equinox Gold Corp Ordinary Shares Class A]] | `EQX.TO` | แคนาดา | วัสดุ | 4.18% |
+| 5 | [[../Entities/NEM US Equity\|Newmont Corp]] | `NEM` | สหรัฐฯ | วัสดุ | 3.75% |
+| 6 | [[../Entities/Anglogold Ashanti PLC\|Anglogold Ashanti PLC]] | `AU` | สหรัฐฯ | วัสดุ | 2.86% |
+| 7 | [[../Entities/AEM CN Equity\|Agnico Eagle Mines Ltd]] | `AEM.TO` | แคนาดา | วัสดุ | 2.36% |
+| 8 | Greatland Resources Ltd | `GGP.AX` | ออสเตรเลีย | วัสดุ | 2.19% |
+| 9 | Perseus Mining Ltd | `PRU.AX` | ออสเตรเลีย | วัสดุ | 2.11% |
+| 10 | Torex Gold Resources Inc | `TXG.TO` | แคนาดา | วัสดุ | 2.10% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -70,18 +70,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/JPMORGAN CHASE & CO\|JPMorgan Chase & Co]] | `JPM` | สหรัฐฯ | 13.03% |
-| 2 | [[../Entities/Berkshire Hathaway Inc Class B\|Berkshire Hathaway Inc Class B]] | `BRK-B` | - | 12.97% |
-| 3 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 8.40% |
-| 4 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 6.39% |
-| 5 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | 5.59% |
-| 6 | [[../Entities/The Goldman Sachs Group Inc\|The Goldman Sachs Group Inc]] | `GS` | สหรัฐฯ | 4.15% |
-| 7 | [[../Entities/Wells Fargo & Co\|Wells Fargo & Co]] | `WFC` | สหรัฐฯ | 3.66% |
-| 8 | [[../Entities/MORGAN STANLEY INVESTMENT MANAGEMENT\|Morgan Stanley]] | `MS` | สหรัฐฯ | 3.49% |
-| 9 | [[../Entities/CITIGROUP INC\|Citigroup Inc]] | `C` | สหรัฐฯ | 3.11% |
-| 10 | [[../Entities/American Express Co\|American Express Co]] | `AXP` | สหรัฐฯ | 2.47% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/JPMORGAN CHASE & CO\|JPMorgan Chase & Co]] | `JPM` | สหรัฐฯ | การเงิน | 13.03% |
+| 2 | [[../Entities/Berkshire Hathaway Inc Class B\|Berkshire Hathaway Inc Class B]] | `BRK-B` | - | การเงิน | 12.97% |
+| 3 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | การเงิน | 8.40% |
+| 4 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | การเงิน | 6.39% |
+| 5 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | การเงิน | 5.59% |
+| 6 | [[../Entities/The Goldman Sachs Group Inc\|The Goldman Sachs Group Inc]] | `GS` | สหรัฐฯ | การเงิน | 4.15% |
+| 7 | [[../Entities/Wells Fargo & Co\|Wells Fargo & Co]] | `WFC` | สหรัฐฯ | การเงิน | 3.66% |
+| 8 | [[../Entities/MORGAN STANLEY INVESTMENT MANAGEMENT\|Morgan Stanley]] | `MS` | สหรัฐฯ | การเงิน | 3.49% |
+| 9 | [[../Entities/CITIGROUP INC\|Citigroup Inc]] | `C` | สหรัฐฯ | การเงิน | 3.11% |
+| 10 | [[../Entities/American Express Co\|American Express Co]] | `AXP` | สหรัฐฯ | การเงิน | 2.47% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -74,18 +74,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 8.41% |
-| 2 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 5.85% |
-| 3 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 4.70% |
-| 4 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 4.27% |
-| 5 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 3.43% |
-| 6 | [[../Entities/GSK PLC\|GSK PLC]] | `GSK.L` | สหราชอาณาจักร | 2.63% |
-| 7 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | 2.30% |
-| 8 | [[../Entities/Elevance Health Inc\|Elevance Health Inc]] | `ELV` | สหรัฐฯ | 2.27% |
-| 9 | [[../Entities/Edwards Lifesciences Corp\|Edwards Lifesciences Corp]] | `EW` | สหรัฐฯ | 2.21% |
-| 10 | [[../Entities/Vertex Pharmaceuticals Inc\|Vertex Pharmaceuticals Inc]] | `VRTX` | สหรัฐฯ | 2.18% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | สุขภาพ | 8.41% |
+| 2 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | สุขภาพ | 5.85% |
+| 3 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | สุขภาพ | 4.70% |
+| 4 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | สุขภาพ | 4.27% |
+| 5 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | สุขภาพ | 3.43% |
+| 6 | [[../Entities/GSK PLC\|GSK PLC]] | `GSK.L` | สหราชอาณาจักร | สุขภาพ | 2.63% |
+| 7 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | สุขภาพ | 2.30% |
+| 8 | [[../Entities/Elevance Health Inc\|Elevance Health Inc]] | `ELV` | สหรัฐฯ | สุขภาพ | 2.27% |
+| 9 | [[../Entities/Edwards Lifesciences Corp\|Edwards Lifesciences Corp]] | `EW` | สหรัฐฯ | สุขภาพ | 2.21% |
+| 10 | [[../Entities/Vertex Pharmaceuticals Inc\|Vertex Pharmaceuticals Inc]] | `VRTX` | สหรัฐฯ | สุขภาพ | 2.18% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -74,18 +74,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Discovery Mining Ltd\|Discovery Mining Ltd]] | `DSV.TO` | แคนาดา | 10.00% |
-| 2 | [[../Entities/Sprott Physical Silver Trust\|Sprott Physical Silver Trust]] | `PSLV` | สหรัฐฯ | 7.14% |
-| 3 | [[../Entities/Sprott Physical Gold and Silver Trust\|Sprott Physical Gold and Silver Trust]] | `CEF` | สหรัฐฯ | 5.81% |
-| 4 | [[../Entities/First Majestic Silver Corp\|First Majestic Silver Corp]] | `AG.TO` | แคนาดา | 5.74% |
-| 5 | [[../Entities/Collective Mining Ltd Ordinary Shares\|Collective Mining Ltd Ordinary Shares]] | `CNL.TO` | แคนาดา | 4.63% |
-| 6 | [[../Entities/Fresnillo PLC\|Fresnillo PLC]] | `FRES.L` | สหราชอาณาจักร | 4.51% |
-| 7 | [[../Entities/Pan American Silver Corp\|Pan American Silver Corp]] | `PAAS.TO` | แคนาดา | 4.29% |
-| 8 | [[../Entities/Sprott Physical Gold Trust\|Sprott Physical Gold Trust]] | `PHYS` | สหรัฐฯ | 4.13% |
-| 9 | [[../Entities/WPM CN Equity\|Wheaton Precious Metals Corp]] | `WPM.TO` | แคนาดา | 3.92% |
-| 10 | [[../Entities/Lundin Gold Inc\|Lundin Gold Inc]] | `LUG.TO` | แคนาดา | 3.64% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Discovery Mining Ltd\|Discovery Mining Ltd]] | `DSV.TO` | แคนาดา | วัสดุ | 10.00% |
+| 2 | [[../Entities/Sprott Physical Silver Trust\|Sprott Physical Silver Trust]] | `PSLV` | สหรัฐฯ | การเงิน | 7.14% |
+| 3 | [[../Entities/Sprott Physical Gold and Silver Trust\|Sprott Physical Gold and Silver Trust]] | `CEF` | สหรัฐฯ | การเงิน | 5.81% |
+| 4 | [[../Entities/First Majestic Silver Corp\|First Majestic Silver Corp]] | `AG.TO` | แคนาดา | วัสดุ | 5.74% |
+| 5 | [[../Entities/Collective Mining Ltd Ordinary Shares\|Collective Mining Ltd Ordinary Shares]] | `CNL.TO` | แคนาดา | วัสดุ | 4.63% |
+| 6 | [[../Entities/Fresnillo PLC\|Fresnillo PLC]] | `FRES.L` | สหราชอาณาจักร | วัสดุ | 4.51% |
+| 7 | [[../Entities/Pan American Silver Corp\|Pan American Silver Corp]] | `PAAS.TO` | แคนาดา | วัสดุ | 4.29% |
+| 8 | [[../Entities/Sprott Physical Gold Trust\|Sprott Physical Gold Trust]] | `PHYS` | สหรัฐฯ | การเงิน | 4.13% |
+| 9 | [[../Entities/WPM CN Equity\|Wheaton Precious Metals Corp]] | `WPM.TO` | แคนาดา | วัสดุ | 3.92% |
+| 10 | [[../Entities/Lundin Gold Inc\|Lundin Gold Inc]] | `LUG.TO` | แคนาดา | วัสดุ | 3.64% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

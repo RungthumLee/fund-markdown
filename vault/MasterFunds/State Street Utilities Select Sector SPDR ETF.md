@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NEE US Equity\|NextEra Energy Inc]] | `NEE` | สหรัฐฯ | 13.03% |
-| 2 | [[../Entities/Southern Co\|Southern Co]] | `SO` | สหรัฐฯ | 7.66% |
-| 3 | [[../Entities/Duke Energy Corp\|Duke Energy Corp]] | `DUK` | สหรัฐฯ | 7.03% |
-| 4 | [[../Entities/CEG US Equity\|Constellation Energy Corp]] | `CEG` | สหรัฐฯ | 6.04% |
-| 5 | [[../Entities/American Electric Power Co Inc\|American Electric Power Co Inc]] | `AEP` | สหรัฐฯ | 5.00% |
-| 6 | [[../Entities/Dominion Energy Inc\|Dominion Energy Inc]] | `D` | สหรัฐฯ | 4.37% |
-| 7 | [[../Entities/Sempra\|Sempra]] | `SRE` | สหรัฐฯ | 4.16% |
-| 8 | [[../Entities/Entergy Corp\|Entergy Corp]] | `ETR` | สหรัฐฯ | 3.54% |
-| 9 | Xcel Energy Inc | `XEL` | สหรัฐฯ | 3.51% |
-| 10 | [[../Entities/Vistra Corp\|Vistra Corp]] | `VST` | สหรัฐฯ | 3.38% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NEE US Equity\|NextEra Energy Inc]] | `NEE` | สหรัฐฯ | สาธารณูปโภค | 13.03% |
+| 2 | [[../Entities/Southern Co\|Southern Co]] | `SO` | สหรัฐฯ | สาธารณูปโภค | 7.66% |
+| 3 | [[../Entities/Duke Energy Corp\|Duke Energy Corp]] | `DUK` | สหรัฐฯ | สาธารณูปโภค | 7.03% |
+| 4 | [[../Entities/CEG US Equity\|Constellation Energy Corp]] | `CEG` | สหรัฐฯ | สาธารณูปโภค | 6.04% |
+| 5 | [[../Entities/American Electric Power Co Inc\|American Electric Power Co Inc]] | `AEP` | สหรัฐฯ | สาธารณูปโภค | 5.00% |
+| 6 | [[../Entities/Dominion Energy Inc\|Dominion Energy Inc]] | `D` | สหรัฐฯ | สาธารณูปโภค | 4.37% |
+| 7 | [[../Entities/Sempra\|Sempra]] | `SRE` | สหรัฐฯ | สาธารณูปโภค | 4.16% |
+| 8 | [[../Entities/Entergy Corp\|Entergy Corp]] | `ETR` | สหรัฐฯ | สาธารณูปโภค | 3.54% |
+| 9 | Xcel Energy Inc | `XEL` | สหรัฐฯ | สาธารณูปโภค | 3.51% |
+| 10 | [[../Entities/Vistra Corp\|Vistra Corp]] | `VST` | สหรัฐฯ | สาธารณูปโภค | 3.38% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

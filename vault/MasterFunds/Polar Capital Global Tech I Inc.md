@@ -79,17 +79,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.57% |
-| 2 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.75% |
-| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.59% |
-| 4 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 3.80% |
-| 5 | [[../Entities/SanDisk Corp Ordinary Shares\|SanDisk Corp Ordinary Shares]] | `SNDK` | สหรัฐฯ | 3.51% |
-| 6 | [[../Entities/Seagate Technology Holdings PLC\|Seagate Technology Holdings PLC]] | `STX` | สหรัฐฯ | 2.79% |
-| 7 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | 2.71% |
-| 8 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 2.68% |
-| 9 | [[../Entities/KLA Corp\|KLA Corp]] | `KLAC` | สหรัฐฯ | 2.56% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 7.57% |
+| 2 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 4.75% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 4.59% |
+| 4 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | เทคโนโลยี | 3.80% |
+| 5 | [[../Entities/SanDisk Corp Ordinary Shares\|SanDisk Corp Ordinary Shares]] | `SNDK` | สหรัฐฯ | เทคโนโลยี | 3.51% |
+| 6 | [[../Entities/Seagate Technology Holdings PLC\|Seagate Technology Holdings PLC]] | `STX` | สหรัฐฯ | เทคโนโลยี | 2.79% |
+| 7 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | เทคโนโลยี | 2.71% |
+| 8 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | เทคโนโลยี | 2.68% |
+| 9 | [[../Entities/KLA Corp\|KLA Corp]] | `KLAC` | สหรัฐฯ | เทคโนโลยี | 2.56% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

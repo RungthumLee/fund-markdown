@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 8.00% |
-| 2 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 4.88% |
-| 3 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 4.05% |
-| 4 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | 3.61% |
-| 5 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | 3.30% |
-| 6 | [[../Entities/State Bank of India\|State Bank of India]] | `SBIN.NS` | อินเดีย | 3.06% |
-| 7 | [[../Entities/Titan Co Ltd\|Titan Co Ltd]] | `TITAN.NS` | อินเดีย | 2.96% |
-| 8 | Cholamandalam Investment and Finance Co Ltd | `CHOLAFIN.NS` | อินเดีย | 2.54% |
-| 9 | [[../Entities/Shriram Finance Ltd\|Shriram Finance Ltd]] | `SHRIRAMFIN.NS` | อินเดีย | 2.49% |
-| 10 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | 2.16% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | การเงิน | 8.00% |
+| 2 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 4.88% |
+| 3 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | พลังงาน | 4.05% |
+| 4 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | การเงิน | 3.61% |
+| 5 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | ผู้บริโภค | 3.30% |
+| 6 | [[../Entities/State Bank of India\|State Bank of India]] | `SBIN.NS` | อินเดีย | การเงิน | 3.06% |
+| 7 | [[../Entities/Titan Co Ltd\|Titan Co Ltd]] | `TITAN.NS` | อินเดีย | ผู้บริโภค | 2.96% |
+| 8 | Cholamandalam Investment and Finance Co Ltd | `CHOLAFIN.NS` | อินเดีย | การเงิน | 2.54% |
+| 9 | [[../Entities/Shriram Finance Ltd\|Shriram Finance Ltd]] | `SHRIRAMFIN.NS` | อินเดีย | การเงิน | 2.49% |
+| 10 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | อุตสาหกรรม | 2.16% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

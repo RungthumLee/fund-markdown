@@ -83,18 +83,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Revolution Medicines Inc Ordinary Shares\|Revolution Medicines Inc Ordinary Shares]] | `RVMD` | สหรัฐฯ | 0.47% |
-| 2 | [[../Entities/Natera Inc\|Natera Inc]] | `NTRA` | สหรัฐฯ | 0.45% |
-| 3 | EMCOR Group Inc | `EME` | สหรัฐฯ | 0.44% |
-| 4 | [[../Entities/Credo Technology Group Holding Ltd\|Credo Technology Group Holding Ltd]] | `CRDO` | สหรัฐฯ | 0.43% |
-| 5 | Jabil Inc | `JBL` | สหรัฐฯ | 0.41% |
-| 6 | [[../Entities/Casey's General Stores Inc\|Casey's General Stores Inc]] | `CASY` | สหรัฐฯ | 0.40% |
-| 7 | Tapestry Inc | `TPR` | สหรัฐฯ | 0.38% |
-| 8 | [[../Entities/Twilio Inc Class A\|Twilio Inc Class A]] | `TWLO` | สหรัฐฯ | 0.37% |
-| 9 | [[../Entities/Illumina Inc\|Illumina Inc]] | `ILMN` | สหรัฐฯ | 0.37% |
-| 10 | Atmos Energy Corp | `ATO` | สหรัฐฯ | 0.36% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Revolution Medicines Inc Ordinary Shares\|Revolution Medicines Inc Ordinary Shares]] | `RVMD` | สหรัฐฯ | สุขภาพ | 0.47% |
+| 2 | [[../Entities/Natera Inc\|Natera Inc]] | `NTRA` | สหรัฐฯ | สุขภาพ | 0.45% |
+| 3 | EMCOR Group Inc | `EME` | สหรัฐฯ | อุตสาหกรรม | 0.44% |
+| 4 | [[../Entities/Credo Technology Group Holding Ltd\|Credo Technology Group Holding Ltd]] | `CRDO` | สหรัฐฯ | เทคโนโลยี | 0.43% |
+| 5 | Jabil Inc | `JBL` | สหรัฐฯ | เทคโนโลยี | 0.41% |
+| 6 | [[../Entities/Casey's General Stores Inc\|Casey's General Stores Inc]] | `CASY` | สหรัฐฯ | ผู้บริโภค | 0.40% |
+| 7 | Tapestry Inc | `TPR` | สหรัฐฯ | ผู้บริโภค | 0.38% |
+| 8 | [[../Entities/Twilio Inc Class A\|Twilio Inc Class A]] | `TWLO` | สหรัฐฯ | เทคโนโลยี | 0.37% |
+| 9 | [[../Entities/Illumina Inc\|Illumina Inc]] | `ILMN` | สหรัฐฯ | สุขภาพ | 0.37% |
+| 10 | Atmos Energy Corp | `ATO` | สหรัฐฯ | สาธารณูปโภค | 0.36% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

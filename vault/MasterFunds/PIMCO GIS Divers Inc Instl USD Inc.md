@@ -77,11 +77,11 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Euro Bobl Future June 26\|Euro Bobl Future June 26]] | `FGBMM26` | - | 3.32% |
-| 2 | [[../Entities/PIMCO USD Short Mat ETF\|PIMCO USD Short Mat ETF]] | `MINT.L` | สหราชอาณาจักร | 2.72% |
-| 3 | [[../Entities/Euro Schatz Future June 26\|Euro Schatz Future June 26]] | `FGBSM26` | - | 2.15% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Euro Bobl Future June 26\|Euro Bobl Future June 26]] | `FGBMM26` | - | - | 3.32% |
+| 2 | [[../Entities/PIMCO USD Short Mat ETF\|PIMCO USD Short Mat ETF]] | `MINT.L` | สหราชอาณาจักร | - | 2.72% |
+| 3 | [[../Entities/Euro Schatz Future June 26\|Euro Schatz Future June 26]] | `FGBSM26` | - | - | 2.15% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

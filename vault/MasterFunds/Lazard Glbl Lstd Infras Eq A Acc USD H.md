@@ -75,18 +75,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | 8.21% |
-| 2 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 8.02% |
-| 3 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | 7.92% |
-| 4 | [[../Entities/Snam SpA\|Snam SpA]] | `SRG.MI` | อิตาลี | 5.45% |
-| 5 | [[../Entities/Crown Castle Inc\|Crown Castle Inc]] | `CCI` | สหรัฐฯ | 4.75% |
-| 6 | [[../Entities/Terna SpA\|Terna SpA]] | `TRN.MI` | อิตาลี | 4.65% |
-| 7 | [[../Entities/Canadian National Railway Co\|Canadian National Railway Co]] | `CNR.TO` | แคนาดา | 4.62% |
-| 8 | [[../Entities/Ferrovial NV\|Ferrovial NV]] | `FER.AS` | เนเธอร์แลนด์ | 4.39% |
-| 9 | [[../Entities/Exelon Corp\|Exelon Corp]] | `EXC` | สหรัฐฯ | 4.39% |
-| 10 | [[../Entities/Consolidated Edison Inc\|Consolidated Edison Inc]] | `ED` | สหรัฐฯ | 4.28% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | อสังหา | 8.21% |
+| 2 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | สาธารณูปโภค | 8.02% |
+| 3 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | อุตสาหกรรม | 7.92% |
+| 4 | [[../Entities/Snam SpA\|Snam SpA]] | `SRG.MI` | อิตาลี | สาธารณูปโภค | 5.45% |
+| 5 | [[../Entities/Crown Castle Inc\|Crown Castle Inc]] | `CCI` | สหรัฐฯ | อสังหา | 4.75% |
+| 6 | [[../Entities/Terna SpA\|Terna SpA]] | `TRN.MI` | อิตาลี | สาธารณูปโภค | 4.65% |
+| 7 | [[../Entities/Canadian National Railway Co\|Canadian National Railway Co]] | `CNR.TO` | แคนาดา | อุตสาหกรรม | 4.62% |
+| 8 | [[../Entities/Ferrovial NV\|Ferrovial NV]] | `FER.AS` | เนเธอร์แลนด์ | อุตสาหกรรม | 4.39% |
+| 9 | [[../Entities/Exelon Corp\|Exelon Corp]] | `EXC` | สหรัฐฯ | สาธารณูปโภค | 4.39% |
+| 10 | [[../Entities/Consolidated Edison Inc\|Consolidated Edison Inc]] | `ED` | สหรัฐฯ | สาธารณูปโภค | 4.28% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

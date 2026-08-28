@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 7.20% |
-| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.33% |
-| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.70% |
-| 4 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 3.24% |
-| 5 | [[../Entities/Vestas Wind Systems AS\|Vestas Wind Systems AS]] | `VWS.CO` | - | 2.90% |
-| 6 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 2.67% |
-| 7 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 2.66% |
-| 8 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | 2.62% |
-| 9 | [[../Entities/NEE US Equity\|NextEra Energy Inc]] | `NEE` | สหรัฐฯ | 2.60% |
-| 10 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 2.43% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 7.20% |
+| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 4.33% |
+| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 3.70% |
+| 4 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | เทคโนโลยี | 3.24% |
+| 5 | [[../Entities/Vestas Wind Systems AS\|Vestas Wind Systems AS]] | `VWS.CO` | - | อุตสาหกรรม | 2.90% |
+| 6 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | เทคโนโลยี | 2.67% |
+| 7 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 2.66% |
+| 8 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | สาธารณูปโภค | 2.62% |
+| 9 | [[../Entities/NEE US Equity\|NextEra Energy Inc]] | `NEE` | สหรัฐฯ | สาธารณูปโภค | 2.60% |
+| 10 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | อุตสาหกรรม | 2.43% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

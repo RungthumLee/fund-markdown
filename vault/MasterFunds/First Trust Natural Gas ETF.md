@@ -59,18 +59,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Western Midstream Partners LP\|Western Midstream Partners LP]] | `WES` | สหรัฐฯ | 4.94% |
-| 2 | [[../Entities/Hess Midstream LP Class A\|Hess Midstream LP Class A]] | `HESM` | สหรัฐฯ | 4.78% |
-| 3 | [[../Entities/EOG US Equity\|EOG Resources Inc]] | `EOG` | สหรัฐฯ | 4.67% |
-| 4 | [[../Entities/COP US Equity\|ConocoPhillips]] | `COP` | สหรัฐฯ | 4.59% |
-| 5 | [[../Entities/Diamondback Energy Inc\|Diamondback Energy Inc]] | `FANG` | สหรัฐฯ | 4.24% |
-| 6 | [[../Entities/Occidental Petroleum Corp\|Occidental Petroleum Corp]] | `OXY` | สหรัฐฯ | 4.12% |
-| 7 | [[../Entities/Permian Resources Corp Class A\|Permian Resources Corp Class A]] | `PR` | สหรัฐฯ | 3.96% |
-| 8 | [[../Entities/Devon Energy Corp\|Devon Energy Corp]] | `DVN` | สหรัฐฯ | 3.92% |
-| 9 | [[../Entities/Ovintiv Inc\|Ovintiv Inc]] | `OVV` | สหรัฐฯ | 3.86% |
-| 10 | [[../Entities/Expand Energy Corp Ordinary Shares - New\|Expand Energy Corp Ordinary Shares - New]] | `EXE` | สหรัฐฯ | 3.71% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Western Midstream Partners LP\|Western Midstream Partners LP]] | `WES` | สหรัฐฯ | พลังงาน | 4.94% |
+| 2 | [[../Entities/Hess Midstream LP Class A\|Hess Midstream LP Class A]] | `HESM` | สหรัฐฯ | พลังงาน | 4.78% |
+| 3 | [[../Entities/EOG US Equity\|EOG Resources Inc]] | `EOG` | สหรัฐฯ | พลังงาน | 4.67% |
+| 4 | [[../Entities/COP US Equity\|ConocoPhillips]] | `COP` | สหรัฐฯ | พลังงาน | 4.59% |
+| 5 | [[../Entities/Diamondback Energy Inc\|Diamondback Energy Inc]] | `FANG` | สหรัฐฯ | พลังงาน | 4.24% |
+| 6 | [[../Entities/Occidental Petroleum Corp\|Occidental Petroleum Corp]] | `OXY` | สหรัฐฯ | พลังงาน | 4.12% |
+| 7 | [[../Entities/Permian Resources Corp Class A\|Permian Resources Corp Class A]] | `PR` | สหรัฐฯ | พลังงาน | 3.96% |
+| 8 | [[../Entities/Devon Energy Corp\|Devon Energy Corp]] | `DVN` | สหรัฐฯ | พลังงาน | 3.92% |
+| 9 | [[../Entities/Ovintiv Inc\|Ovintiv Inc]] | `OVV` | สหรัฐฯ | พลังงาน | 3.86% |
+| 10 | [[../Entities/Expand Energy Corp Ordinary Shares - New\|Expand Energy Corp Ordinary Shares - New]] | `EXE` | สหรัฐฯ | พลังงาน | 3.71% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

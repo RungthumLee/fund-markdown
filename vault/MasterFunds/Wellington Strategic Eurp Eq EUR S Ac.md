@@ -67,18 +67,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/BATS LN Equity\|British American Tobacco PLC]] | `BATS.L` | สหราชอาณาจักร | 4.73% |
-| 2 | [[../Entities/Unilever PLC\|Unilever PLC]] | `ULVR.L` | สหราชอาณาจักร | 3.73% |
-| 3 | [[../Entities/AIB Group PLC\|AIB Group PLC]] | `A5G.IR` | - | 3.39% |
-| 4 | [[../Entities/Brenntag SE\|Brenntag SE]] | `BNR.DE` | เยอรมนี | 3.12% |
-| 5 | [[../Entities/Bunzl PLC\|Bunzl PLC]] | `BNZL.L` | สหราชอาณาจักร | 2.96% |
-| 6 | [[../Entities/Publicis Groupe SA\|Publicis Groupe SA]] | `PUB.PA` | ฝรั่งเศส | 2.92% |
-| 7 | [[../Entities/Haleon PLC\|Haleon PLC]] | `HLN.L` | สหราชอาณาจักร | 2.85% |
-| 8 | [[../Entities/Erste Group Bank AG\|Erste Group Bank AG.]] | `EBS.VI` | - | 2.58% |
-| 9 | [[../Entities/KBC Groupe NV\|KBC Groupe NV]] | `KBC.BR` | - | 2.52% |
-| 10 | [[../Entities/Technip Energies NV Ordinary Shares\|Technip Energies NV Ordinary Shares]] | `TE.PA` | ฝรั่งเศส | 2.50% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/BATS LN Equity\|British American Tobacco PLC]] | `BATS.L` | สหราชอาณาจักร | ผู้บริโภค | 4.73% |
+| 2 | [[../Entities/Unilever PLC\|Unilever PLC]] | `ULVR.L` | สหราชอาณาจักร | ผู้บริโภค | 3.73% |
+| 3 | [[../Entities/AIB Group PLC\|AIB Group PLC]] | `A5G.IR` | - | การเงิน | 3.39% |
+| 4 | [[../Entities/Brenntag SE\|Brenntag SE]] | `BNR.DE` | เยอรมนี | วัสดุ | 3.12% |
+| 5 | [[../Entities/Bunzl PLC\|Bunzl PLC]] | `BNZL.L` | สหราชอาณาจักร | ผู้บริโภค | 2.96% |
+| 6 | [[../Entities/Publicis Groupe SA\|Publicis Groupe SA]] | `PUB.PA` | ฝรั่งเศส | สื่อสาร | 2.92% |
+| 7 | [[../Entities/Haleon PLC\|Haleon PLC]] | `HLN.L` | สหราชอาณาจักร | สุขภาพ | 2.85% |
+| 8 | [[../Entities/Erste Group Bank AG\|Erste Group Bank AG.]] | `EBS.VI` | - | การเงิน | 2.58% |
+| 9 | [[../Entities/KBC Groupe NV\|KBC Groupe NV]] | `KBC.BR` | - | การเงิน | 2.52% |
+| 10 | [[../Entities/Technip Energies NV Ordinary Shares\|Technip Energies NV Ordinary Shares]] | `TE.PA` | ฝรั่งเศส | พลังงาน | 2.50% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

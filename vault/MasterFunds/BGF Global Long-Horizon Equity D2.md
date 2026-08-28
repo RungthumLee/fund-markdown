@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 6.26% |
-| 2 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 5.75% |
-| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 4.70% |
-| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.59% |
-| 5 | [[../Entities/Baker Hughes Co Class A\|Baker Hughes Co Class A]] | `BKR` | สหรัฐฯ | 3.55% |
-| 6 | [[../Entities/HWM US Equity\|Howmet Aerospace Inc]] | `HWM` | สหรัฐฯ | 3.25% |
-| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.14% |
-| 8 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 2.97% |
-| 9 | [[../Entities/Air Liquide SA\|Air Liquide SA]] | `AI.PA` | ฝรั่งเศส | 2.95% |
-| 10 | [[../Entities/Intercontinental Exchange Inc\|Intercontinental Exchange Inc]] | `ICE` | สหรัฐฯ | 2.88% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 6.26% |
+| 2 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 5.75% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 4.70% |
+| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 4.59% |
+| 5 | [[../Entities/Baker Hughes Co Class A\|Baker Hughes Co Class A]] | `BKR` | สหรัฐฯ | พลังงาน | 3.55% |
+| 6 | [[../Entities/HWM US Equity\|Howmet Aerospace Inc]] | `HWM` | สหรัฐฯ | อุตสาหกรรม | 3.25% |
+| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 3.14% |
+| 8 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | การเงิน | 2.97% |
+| 9 | [[../Entities/Air Liquide SA\|Air Liquide SA]] | `AI.PA` | ฝรั่งเศส | วัสดุ | 2.95% |
+| 10 | [[../Entities/Intercontinental Exchange Inc\|Intercontinental Exchange Inc]] | `ICE` | สหรัฐฯ | การเงิน | 2.88% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

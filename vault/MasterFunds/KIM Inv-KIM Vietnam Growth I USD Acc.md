@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/VINGROUP JSC\|Vingroup JSC]] | `VIC.VN` | เวียดนาม | 9.23% |
-| 2 | [[../Entities/Vinhomes Joint Stock Company\|Vinhomes JSC]] | `VHM.VN` | เวียดนาม | 9.03% |
-| 3 | [[../Entities/JSC Bank for Foreign Trade of Vietnam\|Joint Stock Commercial Bank for Foreign Trade of Vietnam]] | `VCB.VN` | เวียดนาม | 7.76% |
-| 4 | Techcom Securities JSC | `TCX.VN` | เวียดนาม | 3.93% |
-| 5 | [[../Entities/Military Commercial Joint Stock Bank\|Military Commercial Joint Stock Bank]] | `MBB.VN` | เวียดนาม | 3.92% |
-| 6 | [[../Entities/Vietnam Prosperity JSC Bank\|Vietnam Prosperity JSC Bank]] | `VPB.VN` | เวียดนาม | 3.72% |
-| 7 | [[../Entities/Vietnam Technological and Commercial Joint Stock bank Ordinary Shares\|Vietnam Technological and Commercial Joint Stock bank Ordinary Shares]] | `TCB.VN` | เวียดนาม | 3.70% |
-| 8 | [[../Entities/Viet Nam Joint Stock Commercial Bank For Industry And Trade\|Viet Nam Joint Stock Commercial Bank For Industry And Trade]] | `CTG.VN` | เวียดนาม | 3.59% |
-| 9 | BaoViet Holdings | `BVH.VN` | เวียดนาม | 2.95% |
-| 10 | [[../Entities/Mobile World Investment Corp\|Mobile World Investment Corp]] | `MWG.VN` | เวียดนาม | 2.68% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/VINGROUP JSC\|Vingroup JSC]] | `VIC.VN` | เวียดนาม | อสังหา | 9.23% |
+| 2 | [[../Entities/Vinhomes Joint Stock Company\|Vinhomes JSC]] | `VHM.VN` | เวียดนาม | อสังหา | 9.03% |
+| 3 | [[../Entities/JSC Bank for Foreign Trade of Vietnam\|Joint Stock Commercial Bank for Foreign Trade of Vietnam]] | `VCB.VN` | เวียดนาม | การเงิน | 7.76% |
+| 4 | Techcom Securities JSC | `TCX.VN` | เวียดนาม | การเงิน | 3.93% |
+| 5 | [[../Entities/Military Commercial Joint Stock Bank\|Military Commercial Joint Stock Bank]] | `MBB.VN` | เวียดนาม | การเงิน | 3.92% |
+| 6 | [[../Entities/Vietnam Prosperity JSC Bank\|Vietnam Prosperity JSC Bank]] | `VPB.VN` | เวียดนาม | การเงิน | 3.72% |
+| 7 | [[../Entities/Vietnam Technological and Commercial Joint Stock bank Ordinary Shares\|Vietnam Technological and Commercial Joint Stock bank Ordinary Shares]] | `TCB.VN` | เวียดนาม | การเงิน | 3.70% |
+| 8 | [[../Entities/Viet Nam Joint Stock Commercial Bank For Industry And Trade\|Viet Nam Joint Stock Commercial Bank For Industry And Trade]] | `CTG.VN` | เวียดนาม | การเงิน | 3.59% |
+| 9 | BaoViet Holdings | `BVH.VN` | เวียดนาม | การเงิน | 2.95% |
+| 10 | [[../Entities/Mobile World Investment Corp\|Mobile World Investment Corp]] | `MWG.VN` | เวียดนาม | ผู้บริโภค | 2.68% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

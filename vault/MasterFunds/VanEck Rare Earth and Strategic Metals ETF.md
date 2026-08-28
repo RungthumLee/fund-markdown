@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Albemarle Corp\|Albemarle Corp]] | `ALB` | สหรัฐฯ | 8.06% |
-| 2 | [[../Entities/PLS Group Ltd\|PLS Group Ltd]] | `PLS.AX` | ออสเตรเลีย | 7.53% |
-| 3 | [[../Entities/China Northern Rare Earth (Group) High-Tech Co Ltd Class A\|China Northern Rare Earth (Group) High-Tech Co Ltd Class A]] | `600111.SS` | จีน | 7.42% |
-| 4 | [[../Entities/Lynas Rare Earths Ltd\|Lynas Rare Earths Ltd]] | `LYC.AX` | ออสเตรเลีย | 6.82% |
-| 5 | [[../Entities/MP Materials Corp Ordinary Shares - Class A\|MP Materials Corp Ordinary Shares - Class A]] | `MP` | สหรัฐฯ | 5.89% |
-| 6 | [[../Entities/Sociedad Quimica Y Minera De Chile SA ADR\|Sociedad Quimica Y Minera De Chile SA ADR]] | `SQM` | สหรัฐฯ | 5.80% |
-| 7 | [[../Entities/Jinduicheng Molybdenum Co Ltd Class A\|Jinduicheng Molybdenum Co Ltd Class A]] | `601958.SS` | จีน | 5.61% |
-| 8 | [[../Entities/Xiamen Tungsten Co Ltd Class A\|Xiamen Tungsten Co Ltd Class A]] | `600549.SS` | จีน | 4.98% |
-| 9 | [[../Entities/Almonty Industries Inc\|Almonty Industries Inc]] | `ALM` | สหรัฐฯ | 4.32% |
-| 10 | [[../Entities/GANFENG LITHIUM CO.,LTD\|Ganfeng Lithium Group Co Ltd]] | `01772` | - | 3.89% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Albemarle Corp\|Albemarle Corp]] | `ALB` | สหรัฐฯ | วัสดุ | 8.06% |
+| 2 | [[../Entities/PLS Group Ltd\|PLS Group Ltd]] | `PLS.AX` | ออสเตรเลีย | วัสดุ | 7.53% |
+| 3 | [[../Entities/China Northern Rare Earth (Group) High-Tech Co Ltd Class A\|China Northern Rare Earth (Group) High-Tech Co Ltd Class A]] | `600111.SS` | จีน | วัสดุ | 7.42% |
+| 4 | [[../Entities/Lynas Rare Earths Ltd\|Lynas Rare Earths Ltd]] | `LYC.AX` | ออสเตรเลีย | วัสดุ | 6.82% |
+| 5 | [[../Entities/MP Materials Corp Ordinary Shares - Class A\|MP Materials Corp Ordinary Shares - Class A]] | `MP` | สหรัฐฯ | วัสดุ | 5.89% |
+| 6 | [[../Entities/Sociedad Quimica Y Minera De Chile SA ADR\|Sociedad Quimica Y Minera De Chile SA ADR]] | `SQM` | สหรัฐฯ | วัสดุ | 5.80% |
+| 7 | [[../Entities/Jinduicheng Molybdenum Co Ltd Class A\|Jinduicheng Molybdenum Co Ltd Class A]] | `601958.SS` | จีน | วัสดุ | 5.61% |
+| 8 | [[../Entities/Xiamen Tungsten Co Ltd Class A\|Xiamen Tungsten Co Ltd Class A]] | `600549.SS` | จีน | วัสดุ | 4.98% |
+| 9 | [[../Entities/Almonty Industries Inc\|Almonty Industries Inc]] | `ALM` | สหรัฐฯ | วัสดุ | 4.32% |
+| 10 | [[../Entities/GANFENG LITHIUM CO.,LTD\|Ganfeng Lithium Group Co Ltd]] | `01772` | - | - | 3.89% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

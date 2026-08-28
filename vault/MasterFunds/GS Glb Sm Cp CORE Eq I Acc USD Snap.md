@@ -84,17 +84,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/SanDisk Corp Ordinary Shares\|SanDisk Corp Ordinary Shares]] | `SNDK` | สหรัฐฯ | 1.64% |
-| 2 | Knowles Corp | `KN` | สหรัฐฯ | 1.08% |
-| 3 | [[../Entities/Aramark\|Aramark]] | `ARMK` | สหรัฐฯ | 1.05% |
-| 4 | [[../Entities/XPO Inc\|XPO Inc]] | `XPO` | สหรัฐฯ | 1.01% |
-| 5 | TTM Technologies Inc | `TTMI` | สหรัฐฯ | 0.95% |
-| 6 | Roku Inc Class A | `ROKU` | สหรัฐฯ | 0.93% |
-| 7 | Kirby Corp | `KEX` | สหรัฐฯ | 0.93% |
-| 8 | [[../Entities/Moog Inc Class A\|Moog Inc Class A]] | `MOG-A` | - | 0.88% |
-| 9 | Construction Partners Inc Class A | `ROAD` | สหรัฐฯ | 0.88% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/SanDisk Corp Ordinary Shares\|SanDisk Corp Ordinary Shares]] | `SNDK` | สหรัฐฯ | เทคโนโลยี | 1.64% |
+| 2 | Knowles Corp | `KN` | สหรัฐฯ | เทคโนโลยี | 1.08% |
+| 3 | [[../Entities/Aramark\|Aramark]] | `ARMK` | สหรัฐฯ | อุตสาหกรรม | 1.05% |
+| 4 | [[../Entities/XPO Inc\|XPO Inc]] | `XPO` | สหรัฐฯ | อุตสาหกรรม | 1.01% |
+| 5 | TTM Technologies Inc | `TTMI` | สหรัฐฯ | เทคโนโลยี | 0.95% |
+| 6 | Roku Inc Class A | `ROKU` | สหรัฐฯ | สื่อสาร | 0.93% |
+| 7 | Kirby Corp | `KEX` | สหรัฐฯ | อุตสาหกรรม | 0.93% |
+| 8 | [[../Entities/Moog Inc Class A\|Moog Inc Class A]] | `MOG-A` | - | อุตสาหกรรม | 0.88% |
+| 9 | Construction Partners Inc Class A | `ROAD` | สหรัฐฯ | อุตสาหกรรม | 0.88% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

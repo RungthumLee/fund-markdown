@@ -89,16 +89,16 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/JPM Nasdaq Eq Prm Inc Act ETF USD Dist\|JPM Nasdaq Eq Prm Inc Act ETF USD Dist]] | `JEPQ.L` | สหราชอาณาจักร | 6.36% |
-| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 1.14% |
-| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 1.04% |
-| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 0.74% |
-| 5 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 0.65% |
-| 6 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 0.50% |
-| 7 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 0.47% |
-| 8 | [[../Entities/Volvo AB Class B\|Volvo AB Class B]] | `VOLV-B.ST` | - | 0.40% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/JPM Nasdaq Eq Prm Inc Act ETF USD Dist\|JPM Nasdaq Eq Prm Inc Act ETF USD Dist]] | `JEPQ.L` | สหราชอาณาจักร | - | 6.36% |
+| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 1.14% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 1.04% |
+| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 0.74% |
+| 5 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 0.65% |
+| 6 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 0.50% |
+| 7 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | การเงิน | 0.47% |
+| 8 | [[../Entities/Volvo AB Class B\|Volvo AB Class B]] | `VOLV-B.ST` | - | อุตสาหกรรม | 0.40% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

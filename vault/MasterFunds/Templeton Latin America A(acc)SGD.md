@@ -65,17 +65,17 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Petroleo Brasileiro Sa Petrobr | `PETR4` | - | 9.80% |
-| 2 | [[../Entities/Vale SA\|Vale SA]] | `VALE3.SA` | - | 6.42% |
-| 3 | [[../Entities/Axia Energia\|Axia Energia]] | `AXIA3.SA` | - | 6.07% |
-| 4 | [[../Entities/Grupo Financiero Banorte SAB de CV Class O\|Grupo Financiero Banorte SAB de CV Class O]] | `GFNORTEO.MX` | - | 5.13% |
-| 5 | [[../Entities/Grupo Mexico SAB de CV Class B\|Grupo Mexico SAB de CV Class B]] | `GMEXICOB.MX` | - | 5.03% |
-| 6 | Itau Unibanco Holding SA ADR | `ITUB` | สหรัฐฯ | 4.80% |
-| 7 | Kimberly - Clark de Mexico SAB de CV Class A | `KIMBERA.MX` | - | 4.41% |
-| 8 | [[../Entities/B3 SA - Brasil Bolsa Balcao\|B3 SA - Brasil Bolsa Balcao]] | `B3SA3.SA` | - | 4.28% |
-| 9 | Rumo SA | `RAIL3.SA` | - | 3.92% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Petroleo Brasileiro Sa Petrobr | `PETR4` | - | - | 9.80% |
+| 2 | [[../Entities/Vale SA\|Vale SA]] | `VALE3.SA` | - | วัสดุ | 6.42% |
+| 3 | [[../Entities/Axia Energia\|Axia Energia]] | `AXIA3.SA` | - | สาธารณูปโภค | 6.07% |
+| 4 | [[../Entities/Grupo Financiero Banorte SAB de CV Class O\|Grupo Financiero Banorte SAB de CV Class O]] | `GFNORTEO.MX` | - | การเงิน | 5.13% |
+| 5 | [[../Entities/Grupo Mexico SAB de CV Class B\|Grupo Mexico SAB de CV Class B]] | `GMEXICOB.MX` | - | วัสดุ | 5.03% |
+| 6 | Itau Unibanco Holding SA ADR | `ITUB` | สหรัฐฯ | การเงิน | 4.80% |
+| 7 | Kimberly - Clark de Mexico SAB de CV Class A | `KIMBERA.MX` | - | ผู้บริโภค | 4.41% |
+| 8 | [[../Entities/B3 SA - Brasil Bolsa Balcao\|B3 SA - Brasil Bolsa Balcao]] | `B3SA3.SA` | - | การเงิน | 4.28% |
+| 9 | Rumo SA | `RAIL3.SA` | - | อุตสาหกรรม | 3.92% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

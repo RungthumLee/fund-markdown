@@ -67,18 +67,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 9.03% |
-| 2 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 3.62% |
-| 3 | [[../Entities/Rolls-Royce Holdings PLC\|Rolls-Royce Holdings PLC]] | `RR.L` | สหราชอาณาจักร | 3.41% |
-| 4 | [[../Entities/Erste Group Bank AG\|Erste Group Bank AG.]] | `EBS.VI` | - | 3.40% |
-| 5 | [[../Entities/UniCredit SpA\|UniCredit SpA]] | `UCG.MI` | อิตาลี | 3.27% |
-| 6 | [[../Entities/AIB Group PLC\|AIB Group PLC]] | `A5G.IR` | - | 3.16% |
-| 7 | Daimler Truck Holding AG Ordinary Shares | `DTG.DE` | เยอรมนี | 3.05% |
-| 8 | [[../Entities/BATS LN Equity\|British American Tobacco PLC]] | `BATS.L` | สหราชอาณาจักร | 3.05% |
-| 9 | [[../Entities/NatWest Group PLC\|NatWest Group PLC]] | `NWG.L` | สหราชอาณาจักร | 2.89% |
-| 10 | Anglo American PLC | `AAL.L` | สหราชอาณาจักร | 2.84% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 9.03% |
+| 2 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | สุขภาพ | 3.62% |
+| 3 | [[../Entities/Rolls-Royce Holdings PLC\|Rolls-Royce Holdings PLC]] | `RR.L` | สหราชอาณาจักร | อุตสาหกรรม | 3.41% |
+| 4 | [[../Entities/Erste Group Bank AG\|Erste Group Bank AG.]] | `EBS.VI` | - | การเงิน | 3.40% |
+| 5 | [[../Entities/UniCredit SpA\|UniCredit SpA]] | `UCG.MI` | อิตาลี | การเงิน | 3.27% |
+| 6 | [[../Entities/AIB Group PLC\|AIB Group PLC]] | `A5G.IR` | - | การเงิน | 3.16% |
+| 7 | Daimler Truck Holding AG Ordinary Shares | `DTG.DE` | เยอรมนี | อุตสาหกรรม | 3.05% |
+| 8 | [[../Entities/BATS LN Equity\|British American Tobacco PLC]] | `BATS.L` | สหราชอาณาจักร | ผู้บริโภค | 3.05% |
+| 9 | [[../Entities/NatWest Group PLC\|NatWest Group PLC]] | `NWG.L` | สหราชอาณาจักร | การเงิน | 2.89% |
+| 10 | Anglo American PLC | `AAL.L` | สหราชอาณาจักร | วัสดุ | 2.84% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

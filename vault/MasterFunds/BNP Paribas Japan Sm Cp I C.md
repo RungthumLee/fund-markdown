@@ -66,18 +66,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Tokuyama Corp | `4043.T` | ญี่ปุ่น | 2.27% |
-| 2 | Nisshinbo Holdings Inc | `3105.T` | ญี่ปุ่น | 2.11% |
-| 3 | Tsugami Corp | `6101.T` | ญี่ปุ่น | 2.06% |
-| 4 | Meidensha Corp | `6508.T` | ญี่ปุ่น | 1.81% |
-| 5 | Yamaichi Electronics Co Ltd | `6941.T` | ญี่ปุ่น | 1.64% |
-| 6 | [[../Entities/LINTEC Corp\|LINTEC Corp]] | `7966.T` | ญี่ปุ่น | 1.59% |
-| 7 | [[../Entities/Fuso Chemical Co Ltd\|Fuso Chemical Co Ltd]] | `4368.T` | ญี่ปุ่น | 1.56% |
-| 8 | [[../Entities/Citizen Watch Co Ltd\|Citizen Watch Co Ltd]] | `7762.T` | ญี่ปุ่น | 1.55% |
-| 9 | Daihen Corp | `6622.T` | ญี่ปุ่น | 1.36% |
-| 10 | Shikoku Kasei Holdings Corp | `4099.T` | ญี่ปุ่น | 1.29% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Tokuyama Corp | `4043.T` | ญี่ปุ่น | วัสดุ | 2.27% |
+| 2 | Nisshinbo Holdings Inc | `3105.T` | ญี่ปุ่น | อุตสาหกรรม | 2.11% |
+| 3 | Tsugami Corp | `6101.T` | ญี่ปุ่น | อุตสาหกรรม | 2.06% |
+| 4 | Meidensha Corp | `6508.T` | ญี่ปุ่น | อุตสาหกรรม | 1.81% |
+| 5 | Yamaichi Electronics Co Ltd | `6941.T` | ญี่ปุ่น | เทคโนโลยี | 1.64% |
+| 6 | [[../Entities/LINTEC Corp\|LINTEC Corp]] | `7966.T` | ญี่ปุ่น | วัสดุ | 1.59% |
+| 7 | [[../Entities/Fuso Chemical Co Ltd\|Fuso Chemical Co Ltd]] | `4368.T` | ญี่ปุ่น | วัสดุ | 1.56% |
+| 8 | [[../Entities/Citizen Watch Co Ltd\|Citizen Watch Co Ltd]] | `7762.T` | ญี่ปุ่น | ผู้บริโภค | 1.55% |
+| 9 | Daihen Corp | `6622.T` | ญี่ปุ่น | อุตสาหกรรม | 1.36% |
+| 10 | Shikoku Kasei Holdings Corp | `4099.T` | ญี่ปุ่น | วัสดุ | 1.29% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

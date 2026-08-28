@@ -57,18 +57,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 9.14% |
-| 2 | [[../Entities/CRISPR Therapeutics AG\|CRISPR Therapeutics AG]] | `CRSP` | สหรัฐฯ | 5.11% |
-| 3 | [[../Entities/Robinhood Markets Inc Class A\|Robinhood Markets Inc Class A]] | `HOOD` | สหรัฐฯ | 5.02% |
-| 4 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.89% |
-| 5 | [[../Entities/Space Exploration Technologies Corp Class A\|Space Exploration Technologies Corp Class A]] | `SPCX` | สหรัฐฯ | 4.85% |
-| 6 | [[../Entities/10x Genomics Inc Ordinary Shares - Class A\|10x Genomics Inc Ordinary Shares - Class A]] | `TXG` | สหรัฐฯ | 4.21% |
-| 7 | [[../Entities/Tempus AI Inc Class A common stock\|Tempus AI Inc Class A common stock]] | `TEM` | สหรัฐฯ | 4.21% |
-| 8 | [[../Entities/Coinbase Global Inc Ordinary Shares - Class A\|Coinbase Global Inc Ordinary Shares - Class A]] | `COIN` | สหรัฐฯ | 3.91% |
-| 9 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | 3.77% |
-| 10 | [[../Entities/Twist Bioscience Corp\|Twist Bioscience Corp]] | `TWST` | สหรัฐฯ | 3.70% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | ผู้บริโภค | 9.14% |
+| 2 | [[../Entities/CRISPR Therapeutics AG\|CRISPR Therapeutics AG]] | `CRSP` | สหรัฐฯ | สุขภาพ | 5.11% |
+| 3 | [[../Entities/Robinhood Markets Inc Class A\|Robinhood Markets Inc Class A]] | `HOOD` | สหรัฐฯ | การเงิน | 5.02% |
+| 4 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 4.89% |
+| 5 | [[../Entities/Space Exploration Technologies Corp Class A\|Space Exploration Technologies Corp Class A]] | `SPCX` | สหรัฐฯ | อุตสาหกรรม | 4.85% |
+| 6 | [[../Entities/10x Genomics Inc Ordinary Shares - Class A\|10x Genomics Inc Ordinary Shares - Class A]] | `TXG` | สหรัฐฯ | สุขภาพ | 4.21% |
+| 7 | [[../Entities/Tempus AI Inc Class A common stock\|Tempus AI Inc Class A common stock]] | `TEM` | สหรัฐฯ | สุขภาพ | 4.21% |
+| 8 | [[../Entities/Coinbase Global Inc Ordinary Shares - Class A\|Coinbase Global Inc Ordinary Shares - Class A]] | `COIN` | สหรัฐฯ | การเงิน | 3.91% |
+| 9 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | เทคโนโลยี | 3.77% |
+| 10 | [[../Entities/Twist Bioscience Corp\|Twist Bioscience Corp]] | `TWST` | สหรัฐฯ | สุขภาพ | 3.70% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

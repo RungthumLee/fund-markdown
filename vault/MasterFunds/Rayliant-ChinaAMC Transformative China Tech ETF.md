@@ -73,18 +73,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 8.98% |
-| 2 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 8.81% |
-| 3 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 6.64% |
-| 4 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | 6.00% |
-| 5 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | 3.47% |
-| 6 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | 3.44% |
-| 7 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | 2.64% |
-| 8 | [[../Entities/NetEase Inc Ordinary Shares\|NetEase Inc Ordinary Shares]] | `9999.HK` | ฮ่องกง | 2.50% |
-| 9 | Eoptolink Technology Inc Ltd Class A | `300502.SZ` | จีน | 2.03% |
-| 10 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | 2.03% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 8.98% |
+| 2 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 8.81% |
+| 3 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 6.64% |
+| 4 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | เทคโนโลยี | 6.00% |
+| 5 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | ผู้บริโภค | 3.47% |
+| 6 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | เทคโนโลยี | 3.44% |
+| 7 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | เทคโนโลยี | 2.64% |
+| 8 | [[../Entities/NetEase Inc Ordinary Shares\|NetEase Inc Ordinary Shares]] | `9999.HK` | ฮ่องกง | สื่อสาร | 2.50% |
+| 9 | Eoptolink Technology Inc Ltd Class A | `300502.SZ` | จีน | - | 2.03% |
+| 10 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | เทคโนโลยี | 2.03% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

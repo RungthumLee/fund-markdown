@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Kingboard Laminates Holdings Ltd\|Kingboard Laminates Holdings Ltd]] | `1888.HK` | ฮ่องกง | 6.28% |
-| 2 | [[../Entities/China Jushi Co Ltd Class A\|China Jushi Co Ltd Class A]] | `600176.SS` | จีน | 4.07% |
-| 3 | [[../Entities/Unimicron Technology Corp\|Unimicron Technology Corp]] | `3037.TW` | ไต้หวัน | 3.74% |
-| 4 | [[../Entities/Yantai Jereh Oilfield Services Group Co Ltd Class A\|Yantai Jereh Oilfield Services Group Co Ltd Class A]] | `002353.SZ` | จีน | 3.33% |
-| 5 | [[../Entities/Beijing Huafeng Test & Control Technology Co Ltd Class A\|Beijing Huafeng Test & Control Technology Co Ltd Class A]] | `688200.SS` | จีน | 3.20% |
-| 6 | [[../Entities/Wus Printed Circuit (Kunshan) Co Ltd Class A\|Wus Printed Circuit (Kunshan) Co Ltd Class A]] | `002463.SZ` | จีน | 2.83% |
-| 7 | [[../Entities/Shengyi Technology Co Ltd Class A\|Shengyi Technology Co Ltd Class A]] | `600183.SS` | จีน | 2.62% |
-| 8 | China Resources Microelectronics Ltd Class A | `688396.SS` | จีน | 2.46% |
-| 9 | Jiangsu Zhongtian Technology Co Ltd Class A | `600522.SS` | จีน | 2.43% |
-| 10 | [[../Entities/Shenzhen Sunlord Electronics Co Ltd Class A\|Shenzhen Sunlord Electronics Co Ltd Class A]] | `002138.SZ` | จีน | 2.29% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Kingboard Laminates Holdings Ltd\|Kingboard Laminates Holdings Ltd]] | `1888.HK` | ฮ่องกง | เทคโนโลยี | 6.28% |
+| 2 | [[../Entities/China Jushi Co Ltd Class A\|China Jushi Co Ltd Class A]] | `600176.SS` | จีน | วัสดุ | 4.07% |
+| 3 | [[../Entities/Unimicron Technology Corp\|Unimicron Technology Corp]] | `3037.TW` | ไต้หวัน | เทคโนโลยี | 3.74% |
+| 4 | [[../Entities/Yantai Jereh Oilfield Services Group Co Ltd Class A\|Yantai Jereh Oilfield Services Group Co Ltd Class A]] | `002353.SZ` | จีน | พลังงาน | 3.33% |
+| 5 | [[../Entities/Beijing Huafeng Test & Control Technology Co Ltd Class A\|Beijing Huafeng Test & Control Technology Co Ltd Class A]] | `688200.SS` | จีน | เทคโนโลยี | 3.20% |
+| 6 | [[../Entities/Wus Printed Circuit (Kunshan) Co Ltd Class A\|Wus Printed Circuit (Kunshan) Co Ltd Class A]] | `002463.SZ` | จีน | เทคโนโลยี | 2.83% |
+| 7 | [[../Entities/Shengyi Technology Co Ltd Class A\|Shengyi Technology Co Ltd Class A]] | `600183.SS` | จีน | เทคโนโลยี | 2.62% |
+| 8 | China Resources Microelectronics Ltd Class A | `688396.SS` | จีน | เทคโนโลยี | 2.46% |
+| 9 | Jiangsu Zhongtian Technology Co Ltd Class A | `600522.SS` | จีน | อุตสาหกรรม | 2.43% |
+| 10 | [[../Entities/Shenzhen Sunlord Electronics Co Ltd Class A\|Shenzhen Sunlord Electronics Co Ltd Class A]] | `002138.SZ` | จีน | เทคโนโลยี | 2.29% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

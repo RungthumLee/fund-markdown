@@ -98,18 +98,18 @@ tags: [master-fund, external-data, web-search]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/American Express Co\|American Express Co]] | `AXP` | สหรัฐฯ | 4.66% |
-| 2 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 4.58% |
-| 3 | [[../Entities/Marriott International Inc Class A\|Marriott International Inc Class A]] | `MAR` | สหรัฐฯ | 4.33% |
-| 4 | [[../Entities/RMS FP Equity\|Hermes International SA]] | `RMS.PA` | ฝรั่งเศส | 4.28% |
-| 5 | [[../Entities/Hilton Worldwide Holdings Inc\|Hilton Worldwide Holdings Inc]] | `HLT` | สหรัฐฯ | 4.19% |
-| 6 | [[../Entities/Galderma Group AG Registered Shares\|Galderma Group AG Registered Shares]] | `GALD.SW` | สวิตเซอร์แลนด์ | 4.16% |
-| 7 | [[../Entities/Moncler SpA\|Moncler SpA]] | `MONC.MI` | อิตาลี | 4.08% |
-| 8 | [[../Entities/LVMH MOET HENNESSY LOUIS VUITTON SE\|Lvmh Moet Hennessy Louis Vuitton SE]] | `MC.PA` | ฝรั่งเศส | 4.07% |
-| 9 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 3.86% |
-| 10 | [[../Entities/InterContinental Hotels Group PLC\|InterContinental Hotels Group PLC]] | `IHG.L` | สหราชอาณาจักร | 3.80% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/American Express Co\|American Express Co]] | `AXP` | สหรัฐฯ | การเงิน | 4.66% |
+| 2 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | การเงิน | 4.58% |
+| 3 | [[../Entities/Marriott International Inc Class A\|Marriott International Inc Class A]] | `MAR` | สหรัฐฯ | ผู้บริโภค | 4.33% |
+| 4 | [[../Entities/RMS FP Equity\|Hermes International SA]] | `RMS.PA` | ฝรั่งเศส | ผู้บริโภค | 4.28% |
+| 5 | [[../Entities/Hilton Worldwide Holdings Inc\|Hilton Worldwide Holdings Inc]] | `HLT` | สหรัฐฯ | ผู้บริโภค | 4.19% |
+| 6 | [[../Entities/Galderma Group AG Registered Shares\|Galderma Group AG Registered Shares]] | `GALD.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 4.16% |
+| 7 | [[../Entities/Moncler SpA\|Moncler SpA]] | `MONC.MI` | อิตาลี | ผู้บริโภค | 4.08% |
+| 8 | [[../Entities/LVMH MOET HENNESSY LOUIS VUITTON SE\|Lvmh Moet Hennessy Louis Vuitton SE]] | `MC.PA` | ฝรั่งเศส | ผู้บริโภค | 4.07% |
+| 9 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 3.86% |
+| 10 | [[../Entities/InterContinental Hotels Group PLC\|InterContinental Hotels Group PLC]] | `IHG.L` | สหราชอาณาจักร | ผู้บริโภค | 3.80% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

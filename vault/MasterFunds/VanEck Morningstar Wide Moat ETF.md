@@ -79,18 +79,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Charles Schwab Corp\|Charles Schwab Corp]] | `SCHW` | สหรัฐฯ | 2.67% |
-| 2 | [[../Entities/LPL Financial Holdings Inc\|LPL Financial Holdings Inc]] | `LPLA` | สหรัฐฯ | 2.67% |
-| 3 | [[../Entities/Veeva Systems Inc Class A\|Veeva Systems Inc Class A]] | `VEEV` | สหรัฐฯ | 2.64% |
-| 4 | [[../Entities/Bristol-Myers Squibb Co\|Bristol-Myers Squibb Co]] | `BMY` | สหรัฐฯ | 2.64% |
-| 5 | [[../Entities/Airbnb Inc Ordinary Shares - Class A\|Airbnb Inc Ordinary Shares - Class A]] | `ABNB` | สหรัฐฯ | 2.62% |
-| 6 | [[../Entities/Brown-Forman Corp Registered Shs -B- Non Vtg\|Brown-Forman Corp Registered Shs -B- Non Vtg]] | `BF-B` | - | 2.60% |
-| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.57% |
-| 8 | [[../Entities/Masco Corp\|Masco Corp]] | `MAS` | สหรัฐฯ | 2.53% |
-| 9 | [[../Entities/Kenvue Inc\|Kenvue Inc]] | `KVUE` | สหรัฐฯ | 2.53% |
-| 10 | [[../Entities/Mondelez International Inc Class A\|Mondelez International Inc Class A]] | `MDLZ` | สหรัฐฯ | 2.46% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Charles Schwab Corp\|Charles Schwab Corp]] | `SCHW` | สหรัฐฯ | การเงิน | 2.67% |
+| 2 | [[../Entities/LPL Financial Holdings Inc\|LPL Financial Holdings Inc]] | `LPLA` | สหรัฐฯ | การเงิน | 2.67% |
+| 3 | [[../Entities/Veeva Systems Inc Class A\|Veeva Systems Inc Class A]] | `VEEV` | สหรัฐฯ | สุขภาพ | 2.64% |
+| 4 | [[../Entities/Bristol-Myers Squibb Co\|Bristol-Myers Squibb Co]] | `BMY` | สหรัฐฯ | สุขภาพ | 2.64% |
+| 5 | [[../Entities/Airbnb Inc Ordinary Shares - Class A\|Airbnb Inc Ordinary Shares - Class A]] | `ABNB` | สหรัฐฯ | ผู้บริโภค | 2.62% |
+| 6 | [[../Entities/Brown-Forman Corp Registered Shs -B- Non Vtg\|Brown-Forman Corp Registered Shs -B- Non Vtg]] | `BF-B` | - | ผู้บริโภค | 2.60% |
+| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 2.57% |
+| 8 | [[../Entities/Masco Corp\|Masco Corp]] | `MAS` | สหรัฐฯ | อุตสาหกรรม | 2.53% |
+| 9 | [[../Entities/Kenvue Inc\|Kenvue Inc]] | `KVUE` | สหรัฐฯ | ผู้บริโภค | 2.53% |
+| 10 | [[../Entities/Mondelez International Inc Class A\|Mondelez International Inc Class A]] | `MDLZ` | สหรัฐฯ | ผู้บริโภค | 2.46% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

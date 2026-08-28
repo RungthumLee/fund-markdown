@@ -68,18 +68,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | IMI PLC | `IMI.L` | สหราชอาณาจักร | 4.37% |
-| 2 | [[../Entities/ASR Nederland NV\|ASR Nederland NV]] | `ASRNL.AS` | เนเธอร์แลนด์ | 3.45% |
-| 3 | [[../Entities/Gaztransport et technigaz SA\|Gaztransport et technigaz SA]] | `GTT.PA` | ฝรั่งเศส | 3.21% |
-| 4 | [[../Entities/Alk-Abello AS Class B\|Alk-Abello AS Class B]] | `ALK-B.CO` | - | 3.17% |
-| 5 | SPIE SA | `SPIE.PA` | ฝรั่งเศส | 3.17% |
-| 6 | Croda International PLC | `CRDA.L` | สหราชอาณาจักร | 3.12% |
-| 7 | Euronext NV | `ENX.PA` | ฝรั่งเศส | 2.65% |
-| 8 | [[../Entities/Merlin Properties SOCIMI SA\|Merlin Properties SOCIMI SA]] | `MRL.MC` | - | 2.61% |
-| 9 | Weir Group PLC | `WEIR.L` | สหราชอาณาจักร | 2.59% |
-| 10 | Comet Holding AG Registered Shares | `COTN.SW` | สวิตเซอร์แลนด์ | 2.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | IMI PLC | `IMI.L` | สหราชอาณาจักร | อุตสาหกรรม | 4.37% |
+| 2 | [[../Entities/ASR Nederland NV\|ASR Nederland NV]] | `ASRNL.AS` | เนเธอร์แลนด์ | การเงิน | 3.45% |
+| 3 | [[../Entities/Gaztransport et technigaz SA\|Gaztransport et technigaz SA]] | `GTT.PA` | ฝรั่งเศส | พลังงาน | 3.21% |
+| 4 | [[../Entities/Alk-Abello AS Class B\|Alk-Abello AS Class B]] | `ALK-B.CO` | - | สุขภาพ | 3.17% |
+| 5 | SPIE SA | `SPIE.PA` | ฝรั่งเศส | อุตสาหกรรม | 3.17% |
+| 6 | Croda International PLC | `CRDA.L` | สหราชอาณาจักร | วัสดุ | 3.12% |
+| 7 | Euronext NV | `ENX.PA` | ฝรั่งเศส | การเงิน | 2.65% |
+| 8 | [[../Entities/Merlin Properties SOCIMI SA\|Merlin Properties SOCIMI SA]] | `MRL.MC` | - | อสังหา | 2.61% |
+| 9 | Weir Group PLC | `WEIR.L` | สหราชอาณาจักร | อุตสาหกรรม | 2.59% |
+| 10 | Comet Holding AG Registered Shares | `COTN.SW` | สวิตเซอร์แลนด์ | เทคโนโลยี | 2.49% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

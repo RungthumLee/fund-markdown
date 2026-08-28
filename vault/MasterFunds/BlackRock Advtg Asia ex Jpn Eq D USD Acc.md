@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 10.15% |
-| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 7.23% |
-| 3 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 5.73% |
-| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 4.32% |
-| 5 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 2.65% |
-| 6 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | 2.06% |
-| 7 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | 1.56% |
-| 8 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 1.47% |
-| 9 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 1.45% |
-| 10 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 1.40% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 10.15% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 7.23% |
+| 3 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | - | 5.73% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 4.32% |
+| 5 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 2.65% |
+| 6 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | เทคโนโลยี | 2.06% |
+| 7 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | เทคโนโลยี | 1.56% |
+| 8 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | เทคโนโลยี | 1.47% |
+| 9 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | เทคโนโลยี | 1.45% |
+| 10 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | - | 1.40% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

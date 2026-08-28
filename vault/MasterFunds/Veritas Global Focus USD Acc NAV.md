@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 6.17% |
-| 2 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 5.69% |
-| 3 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | 5.49% |
-| 4 | [[../Entities/London Stock Exchange Group PLC\|London Stock Exchange Group PLC]] | `LSEG.L` | สหราชอาณาจักร | 5.25% |
-| 5 | [[../Entities/Canadian Pacific Kansas City Ltd\|Canadian Pacific Kansas City Ltd]] | `CP.TO` | แคนาดา | 4.97% |
-| 6 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | 4.74% |
-| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.57% |
-| 8 | [[../Entities/SAF FP Equity\|Safran SA]] | `SAF.PA` | ฝรั่งเศส | 4.56% |
-| 9 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 4.18% |
-| 10 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | 4.14% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 6.17% |
+| 2 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | สุขภาพ | 5.69% |
+| 3 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | อุตสาหกรรม | 5.49% |
+| 4 | [[../Entities/London Stock Exchange Group PLC\|London Stock Exchange Group PLC]] | `LSEG.L` | สหราชอาณาจักร | การเงิน | 5.25% |
+| 5 | [[../Entities/Canadian Pacific Kansas City Ltd\|Canadian Pacific Kansas City Ltd]] | `CP.TO` | แคนาดา | อุตสาหกรรม | 4.97% |
+| 6 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | อุตสาหกรรม | 4.74% |
+| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 4.57% |
+| 8 | [[../Entities/SAF FP Equity\|Safran SA]] | `SAF.PA` | ฝรั่งเศส | อุตสาหกรรม | 4.56% |
+| 9 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | การเงิน | 4.18% |
+| 10 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | สุขภาพ | 4.14% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

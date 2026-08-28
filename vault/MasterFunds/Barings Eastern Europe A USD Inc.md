@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | Alpha Bank SA | `ALPHA.AT` | - | 9.45% |
-| 2 | OTP Bank PLC | `OTP.BD` | - | 9.43% |
-| 3 | Powszechny Zaklad Ubezpieczen SA | `PZU.WA` | - | 6.96% |
-| 4 | Allegro.EU SA Ordinary Shares | `ALE.WA` | - | 6.52% |
-| 5 | Bim Birlesik Magazalar AS | `BIMAS.IS` | - | 5.88% |
-| 6 | Piraeus Bank SA | `TPEIR.AT` | - | 5.06% |
-| 7 | National Bank of Greece SA | `ETE.AT` | - | 4.98% |
-| 8 | PKO Bank Polski SA | `PKO.WA` | - | 4.57% |
-| 9 | [[../Entities/Bank Polska Kasa Opieki SA\|Bank Polska Kasa Opieki SA]] | `PEO.WA` | - | 4.32% |
-| 10 | [[../Entities/Orlen SA\|Orlen SA]] | `PKN.WA` | - | 4.20% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | Alpha Bank SA | `ALPHA.AT` | - | การเงิน | 9.45% |
+| 2 | OTP Bank PLC | `OTP.BD` | - | การเงิน | 9.43% |
+| 3 | Powszechny Zaklad Ubezpieczen SA | `PZU.WA` | - | การเงิน | 6.96% |
+| 4 | Allegro.EU SA Ordinary Shares | `ALE.WA` | - | ผู้บริโภค | 6.52% |
+| 5 | Bim Birlesik Magazalar AS | `BIMAS.IS` | - | ผู้บริโภค | 5.88% |
+| 6 | Piraeus Bank SA | `TPEIR.AT` | - | การเงิน | 5.06% |
+| 7 | National Bank of Greece SA | `ETE.AT` | - | การเงิน | 4.98% |
+| 8 | PKO Bank Polski SA | `PKO.WA` | - | การเงิน | 4.57% |
+| 9 | [[../Entities/Bank Polska Kasa Opieki SA\|Bank Polska Kasa Opieki SA]] | `PEO.WA` | - | การเงิน | 4.32% |
+| 10 | [[../Entities/Orlen SA\|Orlen SA]] | `PKN.WA` | - | พลังงาน | 4.20% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

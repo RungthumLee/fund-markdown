@@ -72,18 +72,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 4.17% |
-| 2 | [[../Entities/First Solar Inc\|First Solar Inc]] | `FSLR` | สหรัฐฯ | 3.94% |
-| 3 | [[../Entities/Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H\|Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H]] | `03750` | - | 3.51% |
-| 4 | [[../Entities/HA Sustainable Infrastructure Capital Inc\|HA Sustainable Infrastructure Capital Inc]] | `HASI` | สหรัฐฯ | 3.33% |
-| 5 | [[../Entities/NXP SEMICONDUCTORS NV\|NXP Semiconductors NV]] | `NXPI` | สหรัฐฯ | 3.32% |
-| 6 | [[../Entities/Vestas Wind Systems AS\|Vestas Wind Systems AS]] | `VWS.CO` | - | 3.19% |
-| 7 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | 3.15% |
-| 8 | [[../Entities/Cadence Design Systems Inc\|Cadence Design Systems Inc]] | `CDNS` | สหรัฐฯ | 2.71% |
-| 9 | [[../Entities/ETN US Equity\|Eaton Corp PLC]] | `ETN` | สหรัฐฯ | 2.63% |
-| 10 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 2.58% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | เทคโนโลยี | 4.17% |
+| 2 | [[../Entities/First Solar Inc\|First Solar Inc]] | `FSLR` | สหรัฐฯ | เทคโนโลยี | 3.94% |
+| 3 | [[../Entities/Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H\|Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H]] | `03750` | - | - | 3.51% |
+| 4 | [[../Entities/HA Sustainable Infrastructure Capital Inc\|HA Sustainable Infrastructure Capital Inc]] | `HASI` | สหรัฐฯ | การเงิน | 3.33% |
+| 5 | [[../Entities/NXP SEMICONDUCTORS NV\|NXP Semiconductors NV]] | `NXPI` | สหรัฐฯ | เทคโนโลยี | 3.32% |
+| 6 | [[../Entities/Vestas Wind Systems AS\|Vestas Wind Systems AS]] | `VWS.CO` | - | อุตสาหกรรม | 3.19% |
+| 7 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | เทคโนโลยี | 3.15% |
+| 8 | [[../Entities/Cadence Design Systems Inc\|Cadence Design Systems Inc]] | `CDNS` | สหรัฐฯ | เทคโนโลยี | 2.71% |
+| 9 | [[../Entities/ETN US Equity\|Eaton Corp PLC]] | `ETN` | สหรัฐฯ | อุตสาหกรรม | 2.63% |
+| 10 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | อุตสาหกรรม | 2.58% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

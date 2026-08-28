@@ -78,18 +78,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 7.69% |
-| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 7.33% |
-| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 6.84% |
-| 4 | [[../Entities/Industrial And Commercial Bank Of China Ltd Class H\|Industrial And Commercial Bank Of China Ltd Class H]] | `01398` | - | 5.16% |
-| 5 | [[../Entities/CHINA MOBILE LTD\|China Mobile Ltd]] | `00941` | - | 4.99% |
-| 6 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | 4.82% |
-| 7 | [[../Entities/CNOOC Ltd\|CNOOC Ltd]] | `0883.HK` | ฮ่องกง | 3.88% |
-| 8 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | 3.81% |
-| 9 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | 3.79% |
-| 10 | [[../Entities/Bank Of China Ltd Class H\|Bank Of China Ltd Class H]] | `03988` | - | 3.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | - | 7.69% |
+| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 7.33% |
+| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 6.84% |
+| 4 | [[../Entities/Industrial And Commercial Bank Of China Ltd Class H\|Industrial And Commercial Bank Of China Ltd Class H]] | `01398` | - | - | 5.16% |
+| 5 | [[../Entities/CHINA MOBILE LTD\|China Mobile Ltd]] | `00941` | - | - | 4.99% |
+| 6 | [[../Entities/Xiaomi Corp Class B\|Xiaomi Corp Class B]] | `1810.HK` | ฮ่องกง | เทคโนโลยี | 4.82% |
+| 7 | [[../Entities/CNOOC Ltd\|CNOOC Ltd]] | `0883.HK` | ฮ่องกง | พลังงาน | 3.88% |
+| 8 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | ผู้บริโภค | 3.81% |
+| 9 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | - | 3.79% |
+| 10 | [[../Entities/Bank Of China Ltd Class H\|Bank Of China Ltd Class H]] | `03988` | - | - | 3.49% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

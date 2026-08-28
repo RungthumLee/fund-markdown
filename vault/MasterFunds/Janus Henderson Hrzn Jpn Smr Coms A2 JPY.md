@@ -65,18 +65,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Harmonic Drive Systems Inc\|Harmonic Drive Systems Inc]] | `6324.T` | ญี่ปุ่น | 5.60% |
-| 2 | Kanto Denka Kogyo Co Ltd | `4047.T` | ญี่ปุ่น | 5.19% |
-| 3 | Taikisha Ltd | `1979.T` | ญี่ปุ่น | 4.76% |
-| 4 | Toyo Gosei Co Ltd | `4970.T` | ญี่ปุ่น | 4.71% |
-| 5 | Denka Co Ltd | `4061.T` | ญี่ปุ่น | 3.74% |
-| 6 | Koa Corp | `6999.T` | ญี่ปุ่น | 3.66% |
-| 7 | Park24 Co Ltd | `4666.T` | ญี่ปุ่น | 3.61% |
-| 8 | Septeni Holdings Co Ltd | `4293.T` | ญี่ปุ่น | 3.22% |
-| 9 | GMO Financial Holdings Inc | `7177.T` | ญี่ปุ่น | 3.10% |
-| 10 | Menicon Co Ltd | `7780.T` | ญี่ปุ่น | 3.06% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Harmonic Drive Systems Inc\|Harmonic Drive Systems Inc]] | `6324.T` | ญี่ปุ่น | อุตสาหกรรม | 5.60% |
+| 2 | Kanto Denka Kogyo Co Ltd | `4047.T` | ญี่ปุ่น | วัสดุ | 5.19% |
+| 3 | Taikisha Ltd | `1979.T` | ญี่ปุ่น | อุตสาหกรรม | 4.76% |
+| 4 | Toyo Gosei Co Ltd | `4970.T` | ญี่ปุ่น | วัสดุ | 4.71% |
+| 5 | Denka Co Ltd | `4061.T` | ญี่ปุ่น | วัสดุ | 3.74% |
+| 6 | Koa Corp | `6999.T` | ญี่ปุ่น | เทคโนโลยี | 3.66% |
+| 7 | Park24 Co Ltd | `4666.T` | ญี่ปุ่น | อุตสาหกรรม | 3.61% |
+| 8 | Septeni Holdings Co Ltd | `4293.T` | ญี่ปุ่น | สื่อสาร | 3.22% |
+| 9 | GMO Financial Holdings Inc | `7177.T` | ญี่ปุ่น | การเงิน | 3.10% |
+| 10 | Menicon Co Ltd | `7780.T` | ญี่ปุ่น | สุขภาพ | 3.06% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

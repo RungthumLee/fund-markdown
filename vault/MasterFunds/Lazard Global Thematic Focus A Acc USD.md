@@ -78,18 +78,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 5.48% |
-| 2 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.96% |
-| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 3.85% |
-| 4 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 3.32% |
-| 5 | Keysight Technologies Inc | `KEYS` | สหรัฐฯ | 3.27% |
-| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.13% |
-| 7 | [[../Entities/Mitsubishi Electric Corp\|Mitsubishi Electric Corp]] | `6503.T` | ญี่ปุ่น | 3.10% |
-| 8 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.85% |
-| 9 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 2.53% |
-| 10 | [[../Entities/Fanuc Corp\|Fanuc Corp]] | `6954.T` | ญี่ปุ่น | 2.39% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | เทคโนโลยี | 5.48% |
+| 2 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | ผู้บริโภค | 3.96% |
+| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 3.85% |
+| 4 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | เทคโนโลยี | 3.32% |
+| 5 | Keysight Technologies Inc | `KEYS` | สหรัฐฯ | เทคโนโลยี | 3.27% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 3.13% |
+| 7 | [[../Entities/Mitsubishi Electric Corp\|Mitsubishi Electric Corp]] | `6503.T` | ญี่ปุ่น | อุตสาหกรรม | 3.10% |
+| 8 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 2.85% |
+| 9 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 2.53% |
+| 10 | [[../Entities/Fanuc Corp\|Fanuc Corp]] | `6954.T` | ญี่ปุ่น | อุตสาหกรรม | 2.39% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

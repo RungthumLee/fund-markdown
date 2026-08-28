@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 9.35% |
-| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 6.38% |
-| 3 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 4.51% |
-| 4 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | 4.37% |
-| 5 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 4.25% |
-| 6 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | 4.14% |
-| 7 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class A\|Ping An Insurance (Group) Co. of China Ltd Class A]] | `601318.SS` | จีน | 3.89% |
-| 8 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | 3.66% |
-| 9 | [[../Entities/Wus Printed Circuit (Kunshan) Co Ltd Class A\|Wus Printed Circuit (Kunshan) Co Ltd Class A]] | `002463.SZ` | จีน | 3.55% |
-| 10 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | 3.12% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | สื่อสาร | 9.35% |
+| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | ผู้บริโภค | 6.38% |
+| 3 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | - | 4.51% |
+| 4 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | เทคโนโลยี | 4.37% |
+| 5 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | อุตสาหกรรม | 4.25% |
+| 6 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | เทคโนโลยี | 4.14% |
+| 7 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class A\|Ping An Insurance (Group) Co. of China Ltd Class A]] | `601318.SS` | จีน | การเงิน | 3.89% |
+| 8 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | เทคโนโลยี | 3.66% |
+| 9 | [[../Entities/Wus Printed Circuit (Kunshan) Co Ltd Class A\|Wus Printed Circuit (Kunshan) Co Ltd Class A]] | `002463.SZ` | จีน | เทคโนโลยี | 3.55% |
+| 10 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | การเงิน | 3.12% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

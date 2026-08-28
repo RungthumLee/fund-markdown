@@ -69,18 +69,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 19.20% |
-| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 18.10% |
-| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 15.23% |
-| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 8.13% |
-| 5 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 4.09% |
-| 6 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 3.42% |
-| 7 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 2.02% |
-| 8 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | 1.88% |
-| 9 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 1.77% |
-| 10 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 1.62% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 19.20% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 18.10% |
+| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 15.23% |
+| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | เทคโนโลยี | 8.13% |
+| 5 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | เทคโนโลยี | 4.09% |
+| 6 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | เทคโนโลยี | 3.42% |
+| 7 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | เทคโนโลยี | 2.02% |
+| 8 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | เทคโนโลยี | 1.88% |
+| 9 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | เทคโนโลยี | 1.77% |
+| 10 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | เทคโนโลยี | 1.62% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

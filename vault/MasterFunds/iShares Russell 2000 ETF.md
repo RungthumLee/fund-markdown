@@ -82,18 +82,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Moog Inc Class A\|Moog Inc Class A]] | `MOG-A` | - | 0.36% |
-| 2 | [[../Entities/Hut 8 Corp\|Hut 8 Corp]] | `HUT` | สหรัฐฯ | 0.36% |
-| 3 | [[../Entities/UMB Financial Corp\|UMB Financial Corp]] | `UMBF` | สหรัฐฯ | 0.35% |
-| 4 | [[../Entities/Cytokinetics Inc\|Cytokinetics Inc]] | `CYTK` | สหรัฐฯ | 0.33% |
-| 5 | [[../Entities/Viasat Inc\|Viasat Inc]] | `VSAT` | สหรัฐฯ | 0.31% |
-| 6 | [[../Entities/BrightSpring Health Services Inc\|BrightSpring Health Services Inc]] | `BTSG` | สหรัฐฯ | 0.31% |
-| 7 | [[../Entities/Glaukos Corp\|Glaukos Corp]] | `GKOS` | สหรัฐฯ | 0.31% |
-| 8 | [[../Entities/CareTrust REIT Inc\|CareTrust REIT Inc]] | `CTRE` | สหรัฐฯ | 0.31% |
-| 9 | [[../Entities/Old National Bancorp\|Old National Bancorp]] | `ONB` | สหรัฐฯ | 0.30% |
-| 10 | [[../Entities/Brinker International Inc\|Brinker International Inc]] | `EAT` | สหรัฐฯ | 0.30% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Moog Inc Class A\|Moog Inc Class A]] | `MOG-A` | - | อุตสาหกรรม | 0.36% |
+| 2 | [[../Entities/Hut 8 Corp\|Hut 8 Corp]] | `HUT` | สหรัฐฯ | การเงิน | 0.36% |
+| 3 | [[../Entities/UMB Financial Corp\|UMB Financial Corp]] | `UMBF` | สหรัฐฯ | การเงิน | 0.35% |
+| 4 | [[../Entities/Cytokinetics Inc\|Cytokinetics Inc]] | `CYTK` | สหรัฐฯ | สุขภาพ | 0.33% |
+| 5 | [[../Entities/Viasat Inc\|Viasat Inc]] | `VSAT` | สหรัฐฯ | เทคโนโลยี | 0.31% |
+| 6 | [[../Entities/BrightSpring Health Services Inc\|BrightSpring Health Services Inc]] | `BTSG` | สหรัฐฯ | สุขภาพ | 0.31% |
+| 7 | [[../Entities/Glaukos Corp\|Glaukos Corp]] | `GKOS` | สหรัฐฯ | สุขภาพ | 0.31% |
+| 8 | [[../Entities/CareTrust REIT Inc\|CareTrust REIT Inc]] | `CTRE` | สหรัฐฯ | อสังหา | 0.31% |
+| 9 | [[../Entities/Old National Bancorp\|Old National Bancorp]] | `ONB` | สหรัฐฯ | การเงิน | 0.30% |
+| 10 | [[../Entities/Brinker International Inc\|Brinker International Inc]] | `EAT` | สหรัฐฯ | ผู้บริโภค | 0.30% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

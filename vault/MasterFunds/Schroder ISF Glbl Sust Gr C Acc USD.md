@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.18% |
-| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 6.70% |
-| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 5.24% |
-| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 5.12% |
-| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.71% |
-| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 4.00% |
-| 7 | [[../Entities/MORGAN STANLEY INVESTMENT MANAGEMENT\|Morgan Stanley]] | `MS` | สหรัฐฯ | 3.28% |
-| 8 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | 2.62% |
-| 9 | [[../Entities/Banco Bilbao Vizcaya Argentaria SA\|Banco Bilbao Vizcaya Argentaria SA]] | `BBVA.MC` | - | 2.50% |
-| 10 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 2.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | เทคโนโลยี | 7.18% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | สื่อสาร | 6.70% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 5.24% |
+| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | เทคโนโลยี | 5.12% |
+| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | เทคโนโลยี | 4.71% |
+| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | เทคโนโลยี | 4.00% |
+| 7 | [[../Entities/MORGAN STANLEY INVESTMENT MANAGEMENT\|Morgan Stanley]] | `MS` | สหรัฐฯ | การเงิน | 3.28% |
+| 8 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | สื่อสาร | 2.62% |
+| 9 | [[../Entities/Banco Bilbao Vizcaya Argentaria SA\|Banco Bilbao Vizcaya Argentaria SA]] | `BBVA.MC` | - | การเงิน | 2.50% |
+| 10 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | สุขภาพ | 2.41% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

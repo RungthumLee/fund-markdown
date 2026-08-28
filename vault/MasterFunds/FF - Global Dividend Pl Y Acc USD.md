@@ -85,17 +85,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 5.06% |
-| 2 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 3.87% |
-| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 3.67% |
-| 4 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | 3.44% |
-| 5 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | 3.36% |
-| 6 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | 2.81% |
-| 7 | [[../Entities/Reckitt Benckiser Group PLC\|Reckitt Benckiser Group PLC]] | `RKT.L` | สหราชอาณาจักร | 2.77% |
-| 8 | [[../Entities/Compass Group PLC\|Compass Group PLC]] | `CPG.L` | สหราชอาณาจักร | 2.70% |
-| 9 | [[../Entities/Industria De Diseno Textil SA Share From Split\|Industria De Diseno Textil SA Share From Split]] | `ITX.MC` | - | 2.62% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | เทคโนโลยี | 5.06% |
+| 2 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 3.87% |
+| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | - | 3.67% |
+| 4 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | การเงิน | 3.44% |
+| 5 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | สุขภาพ | 3.36% |
+| 6 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | สาธารณูปโภค | 2.81% |
+| 7 | [[../Entities/Reckitt Benckiser Group PLC\|Reckitt Benckiser Group PLC]] | `RKT.L` | สหราชอาณาจักร | ผู้บริโภค | 2.77% |
+| 8 | [[../Entities/Compass Group PLC\|Compass Group PLC]] | `CPG.L` | สหราชอาณาจักร | ผู้บริโภค | 2.70% |
+| 9 | [[../Entities/Industria De Diseno Textil SA Share From Split\|Industria De Diseno Textil SA Share From Split]] | `ITX.MC` | - | ผู้บริโภค | 2.62% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

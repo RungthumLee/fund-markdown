@@ -78,18 +78,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | 7.10% |
-| 2 | [[../Entities/PLD US Equity\|Prologis Inc]] | `PLD` | สหรัฐฯ | 7.01% |
-| 3 | [[../Entities/EQIX US Equity\|Equinix Inc]] | `EQIX` | สหรัฐฯ | 6.86% |
-| 4 | [[../Entities/American Healthcare REIT Inc Ordinary Shares\|American Healthcare REIT Inc Ordinary Shares]] | `AHR` | สหรัฐฯ | 3.44% |
-| 5 | [[../Entities/PSA US Equity\|Public Storage]] | `PSA` | สหรัฐฯ | 3.19% |
-| 6 | [[../Entities/Iron Mountain Inc\|Iron Mountain Inc]] | `IRM` | สหรัฐฯ | 2.99% |
-| 7 | [[../Entities/Mitsui Fudosan Co Ltd\|Mitsui Fudosan Co Ltd]] | `8801.T` | ญี่ปุ่น | 2.90% |
-| 8 | [[../Entities/SPG US Equity\|Simon Property Group Inc]] | `SPG` | สหรัฐฯ | 2.79% |
-| 9 | Equity Residential | `VMRK` | สหรัฐฯ | 2.64% |
-| 10 | [[../Entities/Agree Realty Corp\|Agree Realty Corp]] | `ADC` | สหรัฐฯ | 2.60% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | อสังหา | 7.10% |
+| 2 | [[../Entities/PLD US Equity\|Prologis Inc]] | `PLD` | สหรัฐฯ | อสังหา | 7.01% |
+| 3 | [[../Entities/EQIX US Equity\|Equinix Inc]] | `EQIX` | สหรัฐฯ | อสังหา | 6.86% |
+| 4 | [[../Entities/American Healthcare REIT Inc Ordinary Shares\|American Healthcare REIT Inc Ordinary Shares]] | `AHR` | สหรัฐฯ | อสังหา | 3.44% |
+| 5 | [[../Entities/PSA US Equity\|Public Storage]] | `PSA` | สหรัฐฯ | อสังหา | 3.19% |
+| 6 | [[../Entities/Iron Mountain Inc\|Iron Mountain Inc]] | `IRM` | สหรัฐฯ | อสังหา | 2.99% |
+| 7 | [[../Entities/Mitsui Fudosan Co Ltd\|Mitsui Fudosan Co Ltd]] | `8801.T` | ญี่ปุ่น | อสังหา | 2.90% |
+| 8 | [[../Entities/SPG US Equity\|Simon Property Group Inc]] | `SPG` | สหรัฐฯ | อสังหา | 2.79% |
+| 9 | Equity Residential | `VMRK` | สหรัฐฯ | อสังหา | 2.64% |
+| 10 | [[../Entities/Agree Realty Corp\|Agree Realty Corp]] | `ADC` | สหรัฐฯ | อสังหา | 2.60% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

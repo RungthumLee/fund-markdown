@@ -77,18 +77,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | OPAL Fuels Inc Ordinary Shares - Class A | `OPAL` | สหรัฐฯ | 2.41% |
-| 2 | BETA Technologies Inc Ordinary Shares- Class A | `BETA` | สหรัฐฯ | 2.20% |
-| 3 | [[../Entities/Itron Inc\|Itron Inc]] | `ITRI` | สหรัฐฯ | 2.17% |
-| 4 | Gentherm Inc Class A | `THRM` | สหรัฐฯ | 2.10% |
-| 5 | [[../Entities/Darling Ingredients Inc\|Darling Ingredients Inc]] | `DAR` | สหรัฐฯ | 2.08% |
-| 6 | Axia Energia ADR | `AXIA` | สหรัฐฯ | 1.95% |
-| 7 | Cadeler AS ADR | `CDLR` | สหรัฐฯ | 1.91% |
-| 8 | Gevo Inc | `GEVO` | สหรัฐฯ | 1.90% |
-| 9 | Canadian Solar Inc | `CSIQ` | สหรัฐฯ | 1.80% |
-| 10 | Rivian Automotive Inc Class A | `RIVN` | สหรัฐฯ | 1.79% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | OPAL Fuels Inc Ordinary Shares - Class A | `OPAL` | สหรัฐฯ | สาธารณูปโภค | 2.41% |
+| 2 | BETA Technologies Inc Ordinary Shares- Class A | `BETA` | สหรัฐฯ | อุตสาหกรรม | 2.20% |
+| 3 | [[../Entities/Itron Inc\|Itron Inc]] | `ITRI` | สหรัฐฯ | เทคโนโลยี | 2.17% |
+| 4 | Gentherm Inc Class A | `THRM` | สหรัฐฯ | ผู้บริโภค | 2.10% |
+| 5 | [[../Entities/Darling Ingredients Inc\|Darling Ingredients Inc]] | `DAR` | สหรัฐฯ | ผู้บริโภค | 2.08% |
+| 6 | Axia Energia ADR | `AXIA` | สหรัฐฯ | สาธารณูปโภค | 1.95% |
+| 7 | Cadeler AS ADR | `CDLR` | สหรัฐฯ | อุตสาหกรรม | 1.91% |
+| 8 | Gevo Inc | `GEVO` | สหรัฐฯ | วัสดุ | 1.90% |
+| 9 | Canadian Solar Inc | `CSIQ` | สหรัฐฯ | เทคโนโลยี | 1.80% |
+| 10 | Rivian Automotive Inc Class A | `RIVN` | สหรัฐฯ | ผู้บริโภค | 1.79% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

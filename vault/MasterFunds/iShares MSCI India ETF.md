@@ -81,18 +81,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 6.42% |
-| 2 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 5.99% |
-| 3 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 5.68% |
-| 4 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 4.07% |
-| 5 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | 2.59% |
-| 6 | [[../Entities/BlackRock Cash Funds Treasury SL Agency\|BlackRock Cash Funds Treasury SL Agency]] | `XTSLA` | สหรัฐฯ | 2.44% |
-| 7 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | 2.22% |
-| 8 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | 2.15% |
-| 9 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | 2.14% |
-| 10 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | 2.00% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 6.42% |
+| 2 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | พลังงาน | 5.99% |
+| 3 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | การเงิน | 5.68% |
+| 4 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | สื่อสาร | 4.07% |
+| 5 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | เทคโนโลยี | 2.59% |
+| 6 | [[../Entities/BlackRock Cash Funds Treasury SL Agency\|BlackRock Cash Funds Treasury SL Agency]] | `XTSLA` | สหรัฐฯ | - | 2.44% |
+| 7 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | ผู้บริโภค | 2.22% |
+| 8 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | การเงิน | 2.15% |
+| 9 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | - | 2.14% |
+| 10 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | อุตสาหกรรม | 2.00% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

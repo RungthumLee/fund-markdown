@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 6.18% |
-| 2 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 5.97% |
-| 3 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 4.77% |
-| 4 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | 3.80% |
-| 5 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | 3.59% |
-| 6 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | 2.85% |
-| 7 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 2.84% |
-| 8 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | 2.75% |
-| 9 | Varun Beverages Ltd | `VBL.NS` | อินเดีย | 2.43% |
-| 10 | [[../Entities/State Bank of India\|State Bank of India]] | `SBIN.NS` | อินเดีย | 2.35% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | การเงิน | 6.18% |
+| 2 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | การเงิน | 5.97% |
+| 3 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | พลังงาน | 4.77% |
+| 4 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | การเงิน | 3.80% |
+| 5 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | อุตสาหกรรม | 3.59% |
+| 6 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | ผู้บริโภค | 2.85% |
+| 7 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | สื่อสาร | 2.84% |
+| 8 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | เทคโนโลยี | 2.75% |
+| 9 | Varun Beverages Ltd | `VBL.NS` | อินเดีย | ผู้บริโภค | 2.43% |
+| 10 | [[../Entities/State Bank of India\|State Bank of India]] | `SBIN.NS` | อินเดีย | การเงิน | 2.35% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

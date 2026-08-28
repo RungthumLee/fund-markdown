@@ -50,11 +50,11 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
-|---|---|---|---|---|
-| 1 | [[../Entities/Long-Term Euro BTP Future Sept 26\|Long-Term Euro BTP Future Sept 26]] | `FBTPU26` | - | 17.54% |
-| 2 | [[../Entities/Euro Bund Future Sept 26\|Euro Bund Future Sept 26]] | `FGBLU26` | - | 12.05% |
-| 3 | [[../Entities/Euro OAT Future Sept 26\|Euro OAT Future Sept 26]] | `FOATU26` | - | 10.89% |
+| # | หลักทรัพย์ | Ticker | ตลาด | กลุ่ม | สัดส่วน |
+|---|---|---|---|---|---|
+| 1 | [[../Entities/Long-Term Euro BTP Future Sept 26\|Long-Term Euro BTP Future Sept 26]] | `FBTPU26` | - | - | 17.54% |
+| 2 | [[../Entities/Euro Bund Future Sept 26\|Euro Bund Future Sept 26]] | `FGBLU26` | - | - | 12.05% |
+| 3 | [[../Entities/Euro OAT Future Sept 26\|Euro OAT Future Sept 26]] | `FOATU26` | - | - | 10.89% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 
