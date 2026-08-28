@@ -2,6 +2,8 @@
 title: "PT Indosat Tbk Class B"
 entity_id: "equity:IS"
 kind: "equity"
+market_country: "อินโดนีเซีย"
+country: "อินโดนีเซีย"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 PT Indosat Tbk Class B
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** อินโดนีเซีย
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

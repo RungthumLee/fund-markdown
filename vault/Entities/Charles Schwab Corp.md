@@ -2,6 +2,8 @@
 title: "Charles Schwab Corp"
 entity_id: "equity:SCHW"
 kind: "equity"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Charles Schwab Corp
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

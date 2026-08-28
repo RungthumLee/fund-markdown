@@ -6,8 +6,6 @@ figi: "BBG008H84M49"
 share_class_figi: "BBG008H84M67"
 figi_type: "Open-End Fund"
 kind: "fund"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -17,8 +15,6 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 WELLINGTON EMERGING LOCAL DEBT FUND S USD UNHEDGED ACC
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `WELESAU (ID)`
-
-**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

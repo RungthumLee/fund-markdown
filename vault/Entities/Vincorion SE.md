@@ -2,6 +2,8 @@
 title: "Vincorion SE"
 entity_id: "equity:V1NC"
 kind: "equity"
+market_country: "เยอรมนี"
+country: "เยอรมนี"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Vincorion SE
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เยอรมนี
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

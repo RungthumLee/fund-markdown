@@ -2,6 +2,8 @@
 title: "Samsung Electro-Mechanics Co Ltd"
 entity_id: "equity:009150"
 kind: "equity"
+market_country: "เกาหลีใต้"
+country: "เกาหลีใต้"
 fund_count: 0
 indirect_fund_count: 7
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Samsung Electro-Mechanics Co Ltd
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เกาหลีใต้
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **7** กอง
 

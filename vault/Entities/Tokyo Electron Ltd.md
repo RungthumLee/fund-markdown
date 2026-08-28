@@ -2,6 +2,8 @@
 title: "Tokyo Electron Ltd"
 entity_id: "equity:8035"
 kind: "equity"
+market_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 0
 indirect_fund_count: 23
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Tokyo Electron Ltd
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ญี่ปุ่น
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **23** กอง
 

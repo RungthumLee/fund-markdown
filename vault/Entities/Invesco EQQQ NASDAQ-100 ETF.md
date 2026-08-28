@@ -2,6 +2,8 @@
 title: "Invesco EQQQ NASDAQ-100 ETF"
 entity_id: "equity:EQQQ"
 kind: "equity"
+market_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Invesco EQQQ NASDAQ-100 ETF
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สวิตเซอร์แลนด์
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

@@ -8,8 +8,7 @@ share_class_figi: "BBG00CNJ1SS3"
 figi_type: "Fund of Funds"
 kind: "fund"
 domicile_country: "ไทย"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไทย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH7145010008` · **Ticker:** `KFGPROP (TB)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

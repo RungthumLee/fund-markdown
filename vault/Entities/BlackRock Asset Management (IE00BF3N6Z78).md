@@ -8,8 +8,7 @@ share_class_figi: "BBG00HBNKRH9"
 figi_type: "ETP"
 kind: "fund"
 domicile_country: "ไอร์แลนด์"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไอร์แลนด์"
 fund_count: 15
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BF3N6Z78` · **Ticker:** `CRPUUSD (EO)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **15** กอง
 

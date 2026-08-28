@@ -81,7 +81,13 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
 
 ---
 
-## 🛑 STOP — สรุปสถานะลูป (R1–R4)
+- **R5 · B1 coverage (join lookthrough symbol)** — V ผ่าน (broken=0 · โน้ต entity มีประเทศ **2,838/3,136 = 90%** จากเดิม ~764) ·
+  ประเทศจาก symbol ใน look-through (VIETCAP→เวียดนาม ✓) · แก้ false positive "KBANK-F→US" (bare→US เฉพาะ A-Z ล้วน ไม่มีขีด) ·
+  ไม่ต้องโหวต · ไฟล์: `geography.py` (แก้ market_of_symbol) · `gen_entity_notes.py` (LT_SYMBOL fallback)
+
+---
+
+## 🛑 STOP — สรุปสถานะลูป (R1–R5)
 
 ทำเสร็จแบบ deterministic ครบทุกส่วนที่ทำได้ในสภาพแวดล้อมนี้:
 - ✅ **A1** ประเทศตลาดต่อกอง (จากหลักทรัพย์ + look-through) + by-country
@@ -93,4 +99,4 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
 - **A2 Yahoo per-holding sector** — Yahoo คืน **429** ในนี้ · ต้องรัน fetch บนเครื่องผู้ใช้ (pipeline `fetch_masters` มีอยู่แล้ว)
 - **A3 currency exposure** — ต้องขยาย `factsheet_sections.py` ให้ parse ตารางสกุลเงิน (งาน parsing ก้อนใหม่)
 - **A3 market-cap (large/mid/small)** — ต้องแหล่งข้อมูลภายนอก (Yahoo, 429)
-- **B1 coverage** — หุ้น look-through ต่างประเทศ ~2,200 ตัวที่ไม่มี ISIN ยังไม่มีประเทศ
+- ~~**B1 coverage**~~ ✅ แก้แล้ว R5 (90%)

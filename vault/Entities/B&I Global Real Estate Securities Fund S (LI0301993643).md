@@ -8,8 +8,7 @@ share_class_figi: "BBG00BL71D24"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "ลิกเตนสไตน์"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ลิกเตนสไตน์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LI0301993643` · **Ticker:** `BIGRESS (LE)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลิกเตนสไตน์ จาก ISIN
+**จดทะเบียน:** ลิกเตนสไตน์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

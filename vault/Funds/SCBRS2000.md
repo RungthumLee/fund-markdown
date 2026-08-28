@@ -25,7 +25,7 @@ holdings_count: 102
 top10_pct_nav: 110.49
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 3.2
+country_coverage_pct: 2.9
 master_fund: "iShares Russell 2000 ETF"
 master_isin: "US4642876555"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
@@ -311,9 +311,9 @@ _SCB US Small Cap Passive_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 3.2 |
+| สหรัฐฯ | 2.9 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **3.2%** ของกอง (ส่วนที่เหลือ 96.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **2.9%** ของกอง (ส่วนที่เหลือ 97.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -25,7 +25,7 @@ holdings_count: 7
 top10_pct_nav: 100.24
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 9.3
+country_coverage_pct: 8.5
 master_fund: "GS Glb Sm Cp CORE Eq I Acc USD Snap"
 master_isin: "LU0245331581"
 peer_group: "Global Equity"
@@ -185,9 +185,9 @@ _Krungsri Global Small-Mid Cap Equity Dividend Fund_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 9.3 |
+| สหรัฐฯ | 8.5 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **9.3%** ของกอง (ส่วนที่เหลือ 90.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **8.5%** ของกอง (ส่วนที่เหลือ 91.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

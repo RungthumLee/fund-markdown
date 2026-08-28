@@ -2,6 +2,8 @@
 title: "Joint Stock Commercial Bank for Investment and Development of Vietnam"
 entity_id: "equity:JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM"
 kind: "equity"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Joint Stock Commercial Bank for Investment and Development of Vietnam
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

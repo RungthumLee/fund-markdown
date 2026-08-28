@@ -8,8 +8,7 @@ share_class_figi: "BBG00DQ4YZ27"
 figi_type: "Common Stock"
 kind: "equity"
 domicile_country: "เบลเยียม"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "เบลเยียม"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-equity, multi-alias]
 
 **ประเภท:** หุ้น · **ISIN:** `BE0974293251` · **Ticker:** `ABIBEUR (EO)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** เบลเยียม จาก ISIN
+**จดทะเบียน:** เบลเยียม จาก ISIN
 
 ถือโดยตรง **2** กอง
 

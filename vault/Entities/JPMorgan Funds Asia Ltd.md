@@ -8,8 +8,7 @@ share_class_figi: "BBG00ZHY20F0"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "ฮ่องกง"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ฮ่องกง"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000705282` · **Ticker:** `JFPTAUC (HK)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ฮ่องกง จาก ISIN
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **9** กอง
 

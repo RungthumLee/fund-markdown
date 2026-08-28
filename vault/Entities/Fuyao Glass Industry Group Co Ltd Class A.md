@@ -2,6 +2,8 @@
 title: "Fuyao Glass Industry Group Co Ltd Class A"
 entity_id: "equity:600660"
 kind: "equity"
+market_country: "จีน"
+country: "จีน"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Fuyao Glass Industry Group Co Ltd Class A
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

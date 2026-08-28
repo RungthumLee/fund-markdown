@@ -2,6 +2,8 @@
 title: "Hua Hong Grace Semiconductor Ltd Shs Unitary 144A/Reg S"
 entity_id: "equity:HUA HONG GRACE SEMICONDUCTOR SHS UNITARY 144A REG S"
 kind: "equity"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 0
 indirect_fund_count: 5
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Hua Hong Grace Semiconductor Ltd Shs Unitary 144A/Reg S
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

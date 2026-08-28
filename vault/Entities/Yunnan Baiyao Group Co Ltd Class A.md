@@ -2,6 +2,8 @@
 title: "Yunnan Baiyao Group Co Ltd Class A"
 entity_id: "equity:000538"
 kind: "equity"
+market_country: "จีน"
+country: "จีน"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Yunnan Baiyao Group Co Ltd Class A
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

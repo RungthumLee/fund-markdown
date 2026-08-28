@@ -8,8 +8,7 @@ share_class_figi: "BBG001T5LFX1"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "ลักเซมเบิร์ก"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ลักเซมเบิร์ก"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0432979887` · **Ticker:** `JPHLUCA (LX)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

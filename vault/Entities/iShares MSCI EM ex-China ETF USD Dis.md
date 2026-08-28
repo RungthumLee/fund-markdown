@@ -2,6 +2,8 @@
 title: "iShares MSCI EM ex-China ETF USD Dis"
 entity_id: "equity:EXCD"
 kind: "equity"
+market_country: "เนเธอร์แลนด์"
+country: "เนเธอร์แลนด์"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 iShares MSCI EM ex-China ETF USD Dis
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เนเธอร์แลนด์
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

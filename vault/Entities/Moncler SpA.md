@@ -2,6 +2,8 @@
 title: "Moncler SpA"
 entity_id: "equity:MONC"
 kind: "equity"
+market_country: "อิตาลี"
+country: "อิตาลี"
 fund_count: 0
 indirect_fund_count: 4
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Moncler SpA
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** อิตาลี
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

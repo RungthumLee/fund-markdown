@@ -8,8 +8,7 @@ share_class_figi: "BBG00LSVFXQ7"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "ไทย"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไทย"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH8665010006` · **Ticker:** `SCBPINA (TB)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **8** กอง
 

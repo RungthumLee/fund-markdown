@@ -2,6 +2,8 @@
 title: "Elite Material Co Ltd"
 entity_id: "equity:2383"
 kind: "equity"
+market_country: "ไต้หวัน"
+country: "ไต้หวัน"
 fund_count: 0
 indirect_fund_count: 5
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Elite Material Co Ltd
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ไต้หวัน
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

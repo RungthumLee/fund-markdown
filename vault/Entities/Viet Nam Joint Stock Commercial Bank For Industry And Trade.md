@@ -2,6 +2,8 @@
 title: "Viet Nam Joint Stock Commercial Bank For Industry And Trade"
 entity_id: "equity:VIET NAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE"
 kind: "equity"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 0
 indirect_fund_count: 3
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Viet Nam Joint Stock Commercial Bank For Industry And Trade
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

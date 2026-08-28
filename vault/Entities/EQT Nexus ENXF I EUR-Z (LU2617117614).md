@@ -8,8 +8,7 @@ share_class_figi: "BBG01LS3B137"
 figi_type: "Fund of Funds"
 kind: "fund"
 domicile_country: "ลักเซมเบิร์ก"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ลักเซมเบิร์ก"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2617117614` · **Ticker:** `EQTSICI (LX)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

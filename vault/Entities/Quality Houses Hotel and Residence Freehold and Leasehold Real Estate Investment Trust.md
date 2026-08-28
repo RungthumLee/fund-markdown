@@ -8,8 +8,7 @@ share_class_figi: "BBG01N2LWQ51"
 figi_type: "REIT"
 kind: "reit"
 domicile_country: "ไทย"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไทย"
 fund_count: 15
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-reit, multi-alias]
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `THC091010007` · **Ticker:** `QHHRREIT (TB)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **15** กอง
 

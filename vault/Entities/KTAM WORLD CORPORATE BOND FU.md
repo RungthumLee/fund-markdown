@@ -8,8 +8,7 @@ share_class_figi: "BBG004TQD8S0"
 figi_type: "Fund of Funds"
 kind: "fund"
 domicile_country: "ไทย"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไทย"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 3
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH4768010001` · **Ticker:** `KTWCOBD (TB)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

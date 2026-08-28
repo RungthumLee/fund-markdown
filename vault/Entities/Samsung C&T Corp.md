@@ -2,6 +2,8 @@
 title: "Samsung C&T Corp"
 entity_id: "equity:028260"
 kind: "equity"
+market_country: "เกาหลีใต้"
+country: "เกาหลีใต้"
 fund_count: 0
 indirect_fund_count: 5
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Samsung C&T Corp
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เกาหลีใต้
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

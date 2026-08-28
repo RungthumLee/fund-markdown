@@ -2,6 +2,8 @@
 title: "Vietnam Technological and Commercial Joint Stock bank Ordinary Shares"
 entity_id: "equity:VIETNAM TECHNOLOGICAL AND COMMERCIAL JOINT STOCK BANK ORDINARY SHARES"
 kind: "equity"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 0
 indirect_fund_count: 4
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Vietnam Technological and Commercial Joint Stock bank Ordinary Shares
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

@@ -2,6 +2,8 @@
 title: "Deutsche Boerse AG"
 entity_id: "equity:DB1"
 kind: "equity"
+market_country: "เยอรมนี"
+country: "เยอรมนี"
 fund_count: 0
 indirect_fund_count: 7
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Deutsche Boerse AG
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เยอรมนี
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **7** กอง
 

@@ -8,8 +8,7 @@ share_class_figi: "BBG00L4Q1ZK0"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "ไทย"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไทย"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 3
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH8548010009` · **Ticker:** `KTWTAIA (TB)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

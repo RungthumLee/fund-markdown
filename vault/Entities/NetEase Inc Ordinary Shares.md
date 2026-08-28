@@ -2,6 +2,8 @@
 title: "NetEase Inc Ordinary Shares"
 entity_id: "equity:NETEASE ORDINARY SHARES"
 kind: "equity"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 0
 indirect_fund_count: 6
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 NetEase Inc Ordinary Shares
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

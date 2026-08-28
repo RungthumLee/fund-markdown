@@ -2,6 +2,8 @@
 title: "E.ON SE"
 entity_id: "equity:EOAN"
 kind: "equity"
+market_country: "เยอรมนี"
+country: "เยอรมนี"
 fund_count: 0
 indirect_fund_count: 8
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 E.ON SE
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เยอรมนี
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **8** กอง
 

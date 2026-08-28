@@ -2,6 +2,8 @@
 title: "Legrand SA"
 entity_id: "equity:LR"
 kind: "equity"
+market_country: "ฝรั่งเศส"
+country: "ฝรั่งเศส"
 fund_count: 0
 indirect_fund_count: 3
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Legrand SA
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ฝรั่งเศส
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

@@ -2,6 +2,8 @@
 title: "ALS Ltd"
 entity_id: "equity:ALQ"
 kind: "equity"
+market_country: "ออสเตรเลีย"
+country: "ออสเตรเลีย"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 ALS Ltd
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ออสเตรเลีย
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

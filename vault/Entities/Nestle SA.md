@@ -2,6 +2,8 @@
 title: "Nestle SA"
 entity_id: "equity:NESN"
 kind: "equity"
+market_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 0
 indirect_fund_count: 11
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Nestle SA
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สวิตเซอร์แลนด์
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **11** กอง
 

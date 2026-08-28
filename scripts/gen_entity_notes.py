@@ -43,6 +43,10 @@ VAULT = ROOT / "vault"
 OUT = VAULT / "Entities"
 INDEX = VAULT / "Indexes" / "by-holding.md"
 LOOK_INDEX = VAULT / "Indexes" / "by-lookthrough.md"
+
+# entity id -> a Yahoo symbol seen in look-through, used to fill in a security's
+# market country when it has no ISIN of its own (B1 coverage). Populated in main.
+LT_SYMBOL: dict[str, str] = {}
 LINKS = PROC / "entity_links.json"
 LOOKTHROUGH = PROC / "lookthrough.json"
 
@@ -96,7 +100,8 @@ def render(entity: dict, funds: dict, note_names: dict[str, str],
     # market from a Bloomberg ticker alias or the symbol; `country` prefers market
     _domicile = geography.country_of_isin(entity.get("isin"))
     _market = (geography.market_from_aliases(entity.get("aliases"))
-               or geography.market_of_symbol(entity.get("ticker")))
+               or geography.market_of_symbol(entity.get("ticker"))
+               or geography.market_of_symbol(LT_SYMBOL.get(entity["id"])))
     if _domicile:
         a(f'domicile_country: "{_domicile}"')
     if _market:
@@ -417,6 +422,9 @@ def main() -> None:
             eid = exp.get("entity")
             if eid and eid in reach:
                 reach[eid].setdefault("via", {})[pid] = rec["master_name"]
+            # remember a symbol for each look-through security (B1 coverage)
+            if eid and exp.get("symbol"):
+                LT_SYMBOL.setdefault(eid, exp["symbol"])
 
     def total_reach(e: dict) -> int:
         """How many distinct Thai funds reach this entity at all.

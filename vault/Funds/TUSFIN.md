@@ -25,7 +25,7 @@ holdings_count: 6
 top10_pct_nav: 100.81
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 55.1
+country_coverage_pct: 43.8
 master_fund: "State Street Financial Select Sector SPDR ETF"
 master_isin: "US81369Y6059"
 peer_group: "Other Global Sector Equity"
@@ -206,9 +206,9 @@ _TISCO US Financial Fund_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 55.1 |
+| สหรัฐฯ | 43.8 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **55.1%** ของกอง (ส่วนที่เหลือ 44.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **43.8%** ของกอง (ส่วนที่เหลือ 56.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

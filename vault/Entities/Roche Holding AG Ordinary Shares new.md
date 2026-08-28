@@ -2,6 +2,8 @@
 title: "Roche Holding AG Ordinary Shares new"
 entity_id: "equity:ROCHE ORDINARY SHARES NEW"
 kind: "equity"
+market_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 0
 indirect_fund_count: 18
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Roche Holding AG Ordinary Shares new
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สวิตเซอร์แลนด์
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **18** กอง
 

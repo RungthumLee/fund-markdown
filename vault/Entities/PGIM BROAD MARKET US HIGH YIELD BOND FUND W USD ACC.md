@@ -6,8 +6,6 @@ figi: "BBG00K698JX3"
 share_class_figi: "BBG00K6RRZC9"
 figi_type: "Open-End Fund"
 kind: "fund"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -17,8 +15,6 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 PGIM BROAD MARKET US HIGH YIELD BOND FUND W USD ACC
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `PGUHUWA (ID)`
-
-**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

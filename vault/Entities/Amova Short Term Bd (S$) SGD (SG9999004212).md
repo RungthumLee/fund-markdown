@@ -8,8 +8,7 @@ share_class_figi: "BBG001SG2366"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "สิงคโปร์"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "สิงคโปร์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG9999004212` · **Ticker:** `DBSENHI (SP)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
+**จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

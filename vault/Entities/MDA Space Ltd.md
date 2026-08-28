@@ -2,6 +2,8 @@
 title: "MDA Space Ltd"
 entity_id: "equity:MDA"
 kind: "equity"
+market_country: "แคนาดา"
+country: "แคนาดา"
 fund_count: 0
 indirect_fund_count: 5
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 MDA Space Ltd
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** แคนาดา
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

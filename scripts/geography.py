@@ -85,11 +85,13 @@ def market_of_symbol(symbol: str | None) -> str | None:
     """Listing market from a Yahoo symbol suffix; bare tickers are US listings."""
     if not symbol:
         return None
-    s = str(symbol).strip()
+    s = str(symbol).strip().upper()
     if "." in s:
-        return SUFFIX_MARKET.get(s.rsplit(".", 1)[1].upper())
-    # a plain alphabetic ticker with no suffix is a US listing (NVDA, PDD, AAPL)
-    return "สหรัฐฯ" if s.replace("-", "").isalpha() else None
+        return SUFFIX_MARKET.get(s.rsplit(".", 1)[1])
+    # A bare ticker with no market suffix is a US listing (NVDA, PDD, AAPL) - but
+    # only pure A-Z, so Thai foreign-board codes like "KBANK-F" (a dash-suffixed
+    # SET ticker, not a US name) are excluded rather than mislabeled US.
+    return "สหรัฐฯ" if __import__("re").fullmatch(r"[A-Z]{1,6}", s) else None
 
 
 def prefix(isin: str | None) -> str:

@@ -8,8 +8,7 @@ share_class_figi: "BBG001SBVTN9"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "ไอร์แลนด์"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไอร์แลนด์"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 6
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE0002461055` · **Ticker:** `PIMGBAI (ID)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **11** กอง
 

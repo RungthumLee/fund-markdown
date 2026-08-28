@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.51
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 37.4
+country_coverage_pct: 36.0
 master_fund: "iShares Core S&P 500 ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
@@ -293,9 +293,9 @@ _KKP US500 FUND - UNHEDGED_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 37.4 |
+| สหรัฐฯ | 36 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **37.4%** ของกอง (ส่วนที่เหลือ 62.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **36.0%** ของกอง (ส่วนที่เหลือ 64.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

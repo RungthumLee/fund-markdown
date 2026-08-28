@@ -24,7 +24,7 @@ holdings_count: 2
 top10_pct_nav: 99.97
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 35.8
+country_coverage_pct: 34.4
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
@@ -187,9 +187,9 @@ ISIN CodeUS …(ตัดทอน)
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 35.8 |
+| สหรัฐฯ | 34.4 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **35.8%** ของกอง (ส่วนที่เหลือ 64.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **34.4%** ของกอง (ส่วนที่เหลือ 65.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

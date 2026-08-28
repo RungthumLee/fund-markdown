@@ -2,6 +2,8 @@
 title: "Deutsche Bank AG"
 entity_id: "deposit:DEUTSCHE BANK"
 kind: "deposit"
+market_country: "เยอรมนี"
+country: "เยอรมนี"
 fund_count: 3
 indirect_fund_count: 6
 alias_count: 2
@@ -11,6 +13,8 @@ tags: [entity, entity-deposit, held-indirectly, multi-alias]
 # 🏦 Deutsche Bank AG
 
 **ประเภท:** เงินฝาก
+
+**ตลาดซื้อขาย:** เยอรมนี
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

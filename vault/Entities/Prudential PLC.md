@@ -2,6 +2,8 @@
 title: "Prudential PLC"
 entity_id: "equity:PRU"
 kind: "equity"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Prudential PLC
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

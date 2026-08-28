@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 97.11
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 37.0
+country_coverage_pct: 35.5
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
@@ -181,9 +181,9 @@ _TALIS US EQUITY 500-HEDGE_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 37 |
+| สหรัฐฯ | 35.5 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **37.0%** ของกอง (ส่วนที่เหลือ 63.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **35.5%** ของกอง (ส่วนที่เหลือ 64.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -25,7 +25,7 @@ holdings_count: 1
 top10_pct_nav: 98.14
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 36.9
+country_coverage_pct: 35.5
 master_fund: "State Street SPDR S&P 500 ETF Trust"
 master_isin: "US78462F1030"
 peer_group: "US Equity"
@@ -203,9 +203,9 @@ Bloomberg TickerSPY US
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 36.9 |
+| สหรัฐฯ | 35.5 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **36.9%** ของกอง (ส่วนที่เหลือ 63.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **35.5%** ของกอง (ส่วนที่เหลือ 64.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

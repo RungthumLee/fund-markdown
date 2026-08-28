@@ -2,6 +2,8 @@
 title: "Procter & Gamble Co"
 entity_id: "equity:PROCTER GAMBLE"
 kind: "equity"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 0
 indirect_fund_count: 4
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Procter & Gamble Co
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

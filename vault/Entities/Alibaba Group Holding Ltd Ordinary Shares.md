@@ -2,6 +2,8 @@
 title: "Alibaba Group Holding Ltd Ordinary Shares"
 entity_id: "equity:ALIBABA ORDINARY SHARES"
 kind: "equity"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 0
 indirect_fund_count: 48
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Alibaba Group Holding Ltd Ordinary Shares
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **48** กอง
 

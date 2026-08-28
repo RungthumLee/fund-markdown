@@ -2,6 +2,8 @@
 title: "PT Telkom Indonesia (Persero) Tbk Registered Shs Series -B-"
 entity_id: "equity:TELKOM INDONESIA PERSERO REGISTERED SHS SERIES B"
 kind: "equity"
+market_country: "อินโดนีเซีย"
+country: "อินโดนีเซีย"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 PT Telkom Indonesia (Persero) Tbk Registered Shs Series -B-
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** อินโดนีเซีย
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

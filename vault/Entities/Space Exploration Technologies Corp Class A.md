@@ -2,6 +2,8 @@
 title: "Space Exploration Technologies Corp Class A"
 entity_id: "equity:SPACE EXPLORATION TECHNOLOGIES CLASS A"
 kind: "equity"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 0
 indirect_fund_count: 7
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Space Exploration Technologies Corp Class A
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **7** กอง
 

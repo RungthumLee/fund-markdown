@@ -2,6 +2,8 @@
 title: "NetEase Inc ADR"
 entity_id: "equity:NTES"
 kind: "equity"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 0
 indirect_fund_count: 8
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 NetEase Inc ADR
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **8** กอง
 

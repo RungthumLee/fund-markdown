@@ -2,6 +2,8 @@
 title: "Singapore Technologies Engineering Ltd"
 entity_id: "equity:S63"
 kind: "equity"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Singapore Technologies Engineering Ltd
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

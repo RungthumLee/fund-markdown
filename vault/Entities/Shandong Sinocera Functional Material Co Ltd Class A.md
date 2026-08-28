@@ -2,6 +2,8 @@
 title: "Shandong Sinocera Functional Material Co Ltd Class A"
 entity_id: "equity:SHANDONG SINOCERA FUNCTIONAL MATERIAL CLASS A"
 kind: "equity"
+market_country: "จีน"
+country: "จีน"
 fund_count: 0
 indirect_fund_count: 4
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Shandong Sinocera Functional Material Co Ltd Class A
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

@@ -6,8 +6,6 @@ figi: "BBG0088361K6"
 share_class_figi: "BBG0088361L5"
 figi_type: "Open-End Fund"
 kind: "fund"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -17,8 +15,6 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 PGIM FUNDS PLC - PGIM GLOBAL CORPORATE BOND UCITS FUND I USD ACC
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `PRGCBUA (ID)`
-
-**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

@@ -2,6 +2,8 @@
 title: "Infosys Ltd"
 entity_id: "equity:INFOSYS"
 kind: "equity"
+market_country: "อินเดีย"
+country: "อินเดีย"
 fund_count: 0
 indirect_fund_count: 12
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Infosys Ltd
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** อินเดีย
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **12** กอง
 

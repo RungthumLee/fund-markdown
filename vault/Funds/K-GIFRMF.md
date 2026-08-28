@@ -25,7 +25,7 @@ holdings_count: 44
 top10_pct_nav: 104.4
 market_countries: ["สหรัฐฯ", "สิงคโปร์", "ฝรั่งเศส"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 36.9
+country_coverage_pct: 33.6
 master_fund: "Wellington Endrng Infras Asts EUR G Ac"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
@@ -181,13 +181,13 @@ _K Global Infrastructure Equity RMF_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 23.3 |
+| สหรัฐฯ | 20 |
 | สิงคโปร์ | 3.5 |
 | ฝรั่งเศส | 3.4 |
 | เยอรมนี | 3.4 |
 | แคนาดา | 3.4 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **36.9%** ของกอง (ส่วนที่เหลือ 63.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **33.6%** ของกอง (ส่วนที่เหลือ 66.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

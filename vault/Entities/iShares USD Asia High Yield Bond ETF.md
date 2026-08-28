@@ -2,6 +2,8 @@
 title: "iShares USD Asia High Yield Bond ETF"
 entity_id: "equity:O9P"
 kind: "equity"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 0
 indirect_fund_count: 3
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 iShares USD Asia High Yield Bond ETF
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

@@ -25,7 +25,7 @@ holdings_count: 58
 top10_pct_nav: 103.16
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 37.1
+country_coverage_pct: 35.7
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
@@ -372,9 +372,9 @@ _SCB US EQUITY FUND_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 37.1 |
+| สหรัฐฯ | 35.7 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **37.1%** ของกอง (ส่วนที่เหลือ 62.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **35.7%** ของกอง (ส่วนที่เหลือ 64.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

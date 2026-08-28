@@ -25,7 +25,7 @@ holdings_count: 10
 top10_pct_nav: 107.1
 market_countries: ["ไต้หวัน", "เกาหลีใต้", "สหรัฐฯ"]
 country_top: "ไต้หวัน"
-country_coverage_pct: 36.2
+country_coverage_pct: 33.2
 master_fund: "Invesco Emerg Mkts ex-China Eq C USD AD"
 master_isin: "LU1775982249"
 peer_group: "Emerging Market"
@@ -186,9 +186,9 @@ _TISCO Emerging Markets ex China Fund_
 |---|---|
 | ไต้หวัน | 18.3 |
 | เกาหลีใต้ | 11.5 |
-| สหรัฐฯ | 6.4 |
+| สหรัฐฯ | 3.4 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **36.2%** ของกอง (ส่วนที่เหลือ 63.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **33.2%** ของกอง (ส่วนที่เหลือ 66.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

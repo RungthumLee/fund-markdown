@@ -6,8 +6,6 @@ figi: "BBG000PYTVK5"
 share_class_figi: "BBG001T64SW1"
 figi_type: "Open-End Fund"
 kind: "fund"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 2
@@ -17,8 +15,6 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 DODGE & COX WORLDWIDE FUNDS PLC - GLOBAL STOCK FUND USD ACC
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `DOCGLAU (ID)`
-
-**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **8** กอง
 

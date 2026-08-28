@@ -25,7 +25,7 @@ holdings_count: 32
 top10_pct_nav: 97.83
 market_countries: ["ไต้หวัน", "ฮ่องกง", "เกาหลีใต้"]
 country_top: "ไต้หวัน"
-country_coverage_pct: 38.7
+country_coverage_pct: 35.9
 master_fund: "Invesco Asian Equity C USD AD"
 master_isin: "LU1775950394"
 peer_group: "Asia Pacific Ex Japan"
@@ -198,9 +198,8 @@ _Bualuang Asia Equity RMF_
 | เกาหลีใต้ | 6.2 |
 | อินเดีย | 3.1 |
 | ออสเตรเลีย | 2.9 |
-| สหรัฐฯ | 2.8 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **38.7%** ของกอง (ส่วนที่เหลือ 61.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **35.9%** ของกอง (ส่วนที่เหลือ 64.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

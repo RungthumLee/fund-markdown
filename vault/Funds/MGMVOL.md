@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 101.4
 market_countries: ["สหรัฐฯ", "ไต้หวัน", "ญี่ปุ่น"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 12.2
+country_coverage_pct: 11.1
 master_fund: "iShares MSCI Global Min Vol Factor ETF"
 master_isin: "US4642865251"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
@@ -190,11 +190,11 @@ _MFC Global Minimum Volatility Fund_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 9.9 |
+| สหรัฐฯ | 8.9 |
 | ไต้หวัน | 1.2 |
 | ญี่ปุ่น | 1.1 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **12.2%** ของกอง (ส่วนที่เหลือ 87.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **11.1%** ของกอง (ส่วนที่เหลือ 88.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

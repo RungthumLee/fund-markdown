@@ -8,8 +8,7 @@ share_class_figi: "BBG011MMB5P2"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "ไอร์แลนด์"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไอร์แลนด์"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BMG7PH05` · **Ticker:** `LEGIISU (ID)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

@@ -8,8 +8,7 @@ share_class_figi: "BBG011WK3L06"
 figi_type: "REIT"
 kind: "reit"
 domicile_country: "ไทย"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไทย"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-reit, multi-alias]
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `THA411010004` · **Ticker:** `GROREIT (TB)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **12** กอง
 

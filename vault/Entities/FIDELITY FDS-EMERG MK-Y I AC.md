@@ -8,8 +8,7 @@ share_class_figi: "BBG002N8QQT5"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "ลักเซมเบิร์ก"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ลักเซมเบิร์ก"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0742536872` · **Ticker:** `FIDEMIA (LX)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **4** กอง
 

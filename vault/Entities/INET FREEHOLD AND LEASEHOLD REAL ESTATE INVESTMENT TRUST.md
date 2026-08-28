@@ -8,8 +8,7 @@ share_class_figi: "BBG00YD9FT29"
 figi_type: "REIT"
 kind: "reit"
 domicile_country: "ไทย"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไทย"
 fund_count: 30
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-reit, multi-alias]
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `THA430010001` · **Ticker:** `INETREIT (TB)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **30** กอง
 

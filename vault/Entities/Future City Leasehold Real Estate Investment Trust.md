@@ -8,8 +8,7 @@ share_class_figi: "BBG001SCQ5V6"
 figi_type: "REIT"
 kind: "reit"
 domicile_country: "ไทย"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ไทย"
 fund_count: 13
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-reit, multi-alias]
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `THC486010000` · **Ticker:** `FUTURERT (TB)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **13** กอง
 

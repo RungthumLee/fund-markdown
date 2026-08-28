@@ -2,6 +2,8 @@
 title: "Microchip Technology Inc"
 entity_id: "equity:MCHP"
 kind: "equity"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 0
 indirect_fund_count: 5
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Microchip Technology Inc
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

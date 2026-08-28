@@ -24,7 +24,7 @@ holdings_count: 4
 top10_pct_nav: 100.2
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 36.7
+country_coverage_pct: 35.3
 master_fund: "iShares Core S&P 500 ETF"
 peer_group: "US Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
@@ -200,9 +200,9 @@ Websitewww.ishares.com
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 36.7 |
+| สหรัฐฯ | 35.3 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **36.7%** ของกอง (ส่วนที่เหลือ 63.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **35.3%** ของกอง (ส่วนที่เหลือ 64.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

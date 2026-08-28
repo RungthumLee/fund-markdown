@@ -2,6 +2,8 @@
 title: "Sun Pharmaceuticals Industries Ltd"
 entity_id: "equity:SUNPHARMA"
 kind: "equity"
+market_country: "อินเดีย"
+country: "อินเดีย"
 fund_count: 0
 indirect_fund_count: 4
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Sun Pharmaceuticals Industries Ltd
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** อินเดีย
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

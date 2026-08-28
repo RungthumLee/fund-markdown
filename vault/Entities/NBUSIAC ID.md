@@ -6,8 +6,6 @@ figi: "BBG004H7S881"
 share_class_figi: "BBG004H7S8B7"
 figi_type: "Open-End Fund"
 kind: "fund"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -17,8 +15,6 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 NBUSIAC ID
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `NBUSIAC (ID)`
-
-**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

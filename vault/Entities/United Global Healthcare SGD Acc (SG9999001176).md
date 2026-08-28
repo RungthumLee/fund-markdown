@@ -8,8 +8,7 @@ share_class_figi: "BBG001SFMZ29"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "สิงคโปร์"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "สิงคโปร์"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG9999001176` · **Ticker:** `UNIGHCI (SP)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
+**จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

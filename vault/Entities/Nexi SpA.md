@@ -2,6 +2,8 @@
 title: "Nexi SpA"
 entity_id: "equity:NEXI"
 kind: "equity"
+market_country: "อิตาลี"
+country: "อิตาลี"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Nexi SpA
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** อิตาลี
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

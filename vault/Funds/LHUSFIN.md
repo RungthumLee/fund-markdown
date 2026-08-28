@@ -25,7 +25,7 @@ holdings_count: 15
 top10_pct_nav: 105.56
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 60.4
+country_coverage_pct: 48.0
 master_fund: "iShares U.S. Financial Services ETF"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
@@ -279,9 +279,9 @@ _LH US Financial Fund_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 60.4 |
+| สหรัฐฯ | 48 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **60.4%** ของกอง (ส่วนที่เหลือ 39.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **48.0%** ของกอง (ส่วนที่เหลือ 52.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

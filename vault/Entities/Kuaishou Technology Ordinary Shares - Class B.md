@@ -2,6 +2,8 @@
 title: "Kuaishou Technology Ordinary Shares - Class B"
 entity_id: "equity:KUAISHOU TECHNOLOGY ORDINARY SHARES CLASS B"
 kind: "equity"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 0
 indirect_fund_count: 4
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Kuaishou Technology Ordinary Shares - Class B
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

@@ -2,6 +2,8 @@
 title: "Realtek Semiconductor Corp"
 entity_id: "equity:2379"
 kind: "equity"
+market_country: "ไต้หวัน"
+country: "ไต้หวัน"
 fund_count: 0
 indirect_fund_count: 3
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Realtek Semiconductor Corp
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ไต้หวัน
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

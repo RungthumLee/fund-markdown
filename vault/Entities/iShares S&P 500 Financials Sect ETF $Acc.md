@@ -2,6 +2,8 @@
 title: "iShares S&P 500 Financials Sect ETF $Acc"
 entity_id: "equity:IUFS"
 kind: "equity"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 0
 indirect_fund_count: 6
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 iShares S&P 500 Financials Sect ETF $Acc
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

@@ -2,6 +2,8 @@
 title: "SBM Offshore NV"
 entity_id: "equity:SBMO"
 kind: "equity"
+market_country: "เนเธอร์แลนด์"
+country: "เนเธอร์แลนด์"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 SBM Offshore NV
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เนเธอร์แลนด์
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

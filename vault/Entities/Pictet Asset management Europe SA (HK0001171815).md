@@ -8,8 +8,7 @@ share_class_figi: "BBG01XFQJ092"
 figi_type: "Open-End Fund"
 kind: "fund"
 domicile_country: "ฮ่องกง"
-market_country: "สหรัฐฯ"
-country: "สหรัฐฯ"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -20,7 +19,7 @@ tags: [entity, entity-fund, multi-alias]
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0001171815` · **Ticker:** `PIGIQIU (HK)`
 
-**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ฮ่องกง จาก ISIN
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **2** กอง
 

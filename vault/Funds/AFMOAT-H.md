@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 99.75
 market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 25.9
+country_coverage_pct: 23.3
 master_fund: "VanEck Morningstar Wide Moat ETF"
 master_isin: "US92189F6438"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
@@ -233,9 +233,9 @@ _AF US Wide MOAT Fund Hedged_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 25.9 |
+| สหรัฐฯ | 23.3 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **25.9%** ของกอง (ส่วนที่เหลือ 74.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **23.3%** ของกอง (ส่วนที่เหลือ 76.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

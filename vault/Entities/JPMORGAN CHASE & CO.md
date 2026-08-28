@@ -2,6 +2,8 @@
 title: "JPMORGAN CHASE & CO"
 entity_id: "deposit:JPMORGAN CHASE"
 kind: "deposit"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 26
 indirect_fund_count: 53
 alias_count: 2
@@ -11,6 +13,8 @@ tags: [entity, entity-deposit, held-indirectly, multi-alias]
 # 🏦 JPMORGAN CHASE & CO
 
 **ประเภท:** เงินฝาก
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **26** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **53** กอง
 

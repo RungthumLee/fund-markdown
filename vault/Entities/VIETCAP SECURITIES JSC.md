@@ -2,6 +2,8 @@
 title: "VIETCAP SECURITIES JSC"
 entity_id: "equity:VCI VM"
 kind: "equity"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 1
 indirect_fund_count: 2
 alias_count: 2
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 VIETCAP SECURITIES JSC
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

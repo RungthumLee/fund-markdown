@@ -2,6 +2,8 @@
 title: "iShares $ Short Dur Corp Bd ETF USD Dist"
 entity_id: "equity:SDIG"
 kind: "equity"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 0
 indirect_fund_count: 3
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 iShares $ Short Dur Corp Bd ETF USD Dist
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

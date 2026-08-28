@@ -8,6 +8,7 @@ share_class_figi: "BBG001S8N824"
 figi_type: "Common Stock"
 kind: "equity"
 domicile_country: "สหราชอาณาจักร"
+market_country: "สหราชอาณาจักร"
 country: "สหราชอาณาจักร"
 fund_count: 1
 indirect_fund_count: 14
@@ -19,7 +20,7 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ประเภท:** หุ้น · **ISIN:** `GB00BDR05C01` · **Ticker:** `NG/ (LN)`
 
-**จดทะเบียน:** สหราชอาณาจักร จาก ISIN
+**ตลาดซื้อขาย:** สหราชอาณาจักร
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **14** กอง
 

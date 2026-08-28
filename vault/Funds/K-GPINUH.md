@@ -25,7 +25,7 @@ holdings_count: 5
 top10_pct_nav: 99.56
 market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์"]
 country_top: "สหรัฐฯ"
-country_coverage_pct: 12.2
+country_coverage_pct: 10.9
 master_fund: "JPM Global Equity Premium Income Active UCITS ETF - USD (dist)"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
@@ -237,10 +237,10 @@ _K Global Equity Premium Income Unhedged Fund_
 
 | ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
 |---|---|
-| สหรัฐฯ | 11.1 |
+| สหรัฐฯ | 9.8 |
 | เนเธอร์แลนด์ | 1.1 |
 
-> ทะลุถึงหลักทรัพย์จริงได้ **12.2%** ของกอง (ส่วนที่เหลือ 87.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
+> ทะลุถึงหลักทรัพย์จริงได้ **10.9%** ของกอง (ส่วนที่เหลือ 89.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -2,6 +2,8 @@
 title: "Saigon Thuong Tin Commercial Joint Stock Bank"
 entity_id: "equity:SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK"
 kind: "equity"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Saigon Thuong Tin Commercial Joint Stock Bank
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

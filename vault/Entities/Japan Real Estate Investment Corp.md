@@ -2,6 +2,8 @@
 title: "Japan Real Estate Investment Corp"
 entity_id: "equity:8952"
 kind: "equity"
+market_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Japan Real Estate Investment Corp
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** ญี่ปุ่น
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

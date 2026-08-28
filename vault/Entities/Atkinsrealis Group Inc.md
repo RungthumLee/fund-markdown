@@ -2,6 +2,8 @@
 title: "Atkinsrealis Group Inc"
 entity_id: "equity:ATR"
 kind: "equity"
+market_country: "แคนาดา"
+country: "แคนาดา"
 fund_count: 0
 indirect_fund_count: 2
 alias_count: 1
@@ -11,6 +13,8 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 # 🏢 Atkinsrealis Group Inc
 
 **ประเภท:** หุ้น
+
+**ตลาดซื้อขาย:** แคนาดา
 
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 
