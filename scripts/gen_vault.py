@@ -17,6 +17,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import factors  # noqa: E402
 import fees  # noqa: E402
 import geography  # noqa: E402
 import tagging  # noqa: E402
@@ -511,6 +512,22 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
           f"(ส่วนที่เหลือ {max(0, round(100 - _mix['covered'], 1))}% ยังไม่ทะลุ) · "
           f"ที่มา: {_mix['source']}")
         a("")
+
+    # factor exposure: two-sided, descriptive, no forecast (see docs ideas §0)
+    _factors = factors.fund_factors(fund_tags(f),
+                                    [c for c, _ in _mix["rows"]], _ter)
+    if _factors:
+        a("### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)")
+        a("")
+        a("> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง")
+        a("> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** "
+          "ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)")
+        a("")
+        o.extend(table(["ปัจจัย", "หมวด", "ถ้าขึ้น ▲", "ถ้าลง ▼", "จาก"],
+                       [[x["factor"], x.get("category", "-"),
+                         x.get("bull", "-"), x.get("bear", "-"), x.get("source", "-")]
+                        for x in _factors[:8]]))
+
     if f.get("asset_allocation"):
         a("### การจัดสรรสินทรัพย์ (จาก Factsheet)")
         a("")

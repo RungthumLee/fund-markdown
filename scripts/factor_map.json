@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "purpose": "Static map: which factors a sector/asset/country/structure is sensitive to, and which way each factor pushes. Domain knowledge, authored once - NOT a data feed and NOT a forecast. Used by factors.py to build a two-sided 'exposure' view per fund. Every entry is a structural sensitivity (bull_case / bear_case), never a prediction of which way it will go.",
+    "rules": "descriptive only; two-sided; no probability; no target; see docs/project/ideas.md section 0"
+  },
+  "asset": {
+    "commodity/gold": [
+      {"factor": "อัตราดอกเบี้ยแท้จริงสหรัฐ (US real yield)", "category": "Macro", "strength": "high", "bull": "real yield ลง → ทองน่าถือขึ้น", "bear": "real yield ขึ้น → ต้นทุนการถือทองสูงขึ้น"},
+      {"factor": "ค่าเงินดอลลาร์ (USD)", "category": "Macro", "strength": "high", "bull": "USD อ่อน → ทอง (ราคาดอลลาร์) ขึ้น", "bear": "USD แข็ง → กดราคาทอง"},
+      {"factor": "ความไม่แน่นอน/ความเสี่ยงภูมิรัฐศาสตร์", "category": "Macro", "strength": "medium", "bull": "ตลาด risk-off → เงินไหลเข้าทอง", "bear": "ตลาด risk-on → เงินไหลออกจากทอง"}
+    ],
+    "commodity/oil": [
+      {"factor": "อุปสงค์-อุปทานน้ำมันโลก / OPEC", "category": "Macro", "strength": "high", "bull": "OPEC ลดกำลังผลิต / อุปสงค์โต → ราคาน้ำมันขึ้น", "bear": "อุปทานล้น / อุปสงค์ชะลอ → ราคาลง"},
+      {"factor": "วัฏจักรเศรษฐกิจโลก", "category": "Macro", "strength": "medium", "bull": "เศรษฐกิจโต → ใช้พลังงานมาก", "bear": "ถดถอย → อุปสงค์พลังงานลด"}
+    ],
+    "real-estate": [
+      {"factor": "อัตราดอกเบี้ย", "category": "Macro", "strength": "high", "bull": "ดอกเบี้ยลง → ต้นทุนกู้ต่ำ/ผลตอบแทน REIT น่าสนใจ", "bear": "ดอกเบี้ยขึ้น → กด valuation REIT (bond proxy)"}
+    ]
+  },
+  "sector": {
+    "financials": [
+      {"factor": "อัตราดอกเบี้ย / ส่วนต่างดอกเบี้ย (NIM)", "category": "Macro", "strength": "high", "bull": "ดอกเบี้ยขาขึ้น → ส่วนต่างกว้าง กำไรธนาคารเพิ่ม", "bear": "ดอกเบี้ยลง → NIM แคบ"},
+      {"factor": "วัฏจักรสินเชื่อ / หนี้เสีย (NPL)", "category": "Macro", "strength": "high", "bull": "เศรษฐกิจดี → หนี้เสียต่ำ สินเชื่อโต", "bear": "เศรษฐกิจถดถอย → NPL พุ่ง ตั้งสำรองเพิ่ม"}
+    ],
+    "technology": [
+      {"factor": "อัตราดอกเบี้ย (กดหุ้นเติบโต)", "category": "Macro", "strength": "high", "bull": "ดอกเบี้ยลง → หุ้นเติบโต valuation สูงขึ้น", "bear": "ดอกเบี้ยขึ้น → กด valuation หุ้นเทค"},
+      {"factor": "วัฏจักรเซมิคอนดักเตอร์ / การลงทุน AI", "category": "Sector", "strength": "high", "bull": "วัฏจักรชิปขาขึ้น / AI capex โต → รายได้เพิ่ม", "bear": "ชิปล้นตลาด / capex ชะลอ → รายได้หด"},
+      {"factor": "ความตึงเครียดจีน-สหรัฐ / การกีดกันเทคโนโลยี", "category": "Macro", "strength": "medium", "bull": "ผ่อนคลายข้อจำกัด → ห่วงโซ่อุปทานคล่อง", "bear": "คว่ำบาตร/กีดกันชิป → กระทบรายได้/ซัพพลายเชน"}
+    ],
+    "communication": [
+      {"factor": "การลงทุน AI / โฆษณาดิจิทัล", "category": "Sector", "strength": "medium", "bull": "งบโฆษณา/ผู้ใช้โต + AI ลดต้นทุน", "bear": "เศรษฐกิจชะลอ → งบโฆษณาลด · กฎกำกับแพลตฟอร์ม"}
+    ],
+    "energy": [
+      {"factor": "ราคาน้ำมัน/ก๊าซ", "category": "Macro", "strength": "high", "bull": "ราคาพลังงานขึ้น → กำไรผู้ผลิตเพิ่ม", "bear": "ราคาพลังงานลง → กำไรหด"},
+      {"factor": "การเปลี่ยนผ่านสู่พลังงานสะอาด", "category": "Sector", "strength": "medium", "bull": "อุปสงค์ฟอสซิลยังสูงช่วงเปลี่ยนผ่าน", "bear": "เร่งเปลี่ยนผ่าน → อุปสงค์ระยะยาวลด"}
+    ],
+    "utilities": [
+      {"factor": "อัตราดอกเบี้ย (bond proxy)", "category": "Macro", "strength": "high", "bull": "ดอกเบี้ยลง → หุ้นปันผลน่าถือ", "bear": "ดอกเบี้ยขึ้น → เงินไหลไปตราสารหนี้แทน"}
+    ],
+    "materials": [
+      {"factor": "ราคาสินค้าโภคภัณฑ์/โลหะ", "category": "Macro", "strength": "high", "bull": "ราคาโลหะ/วัตถุดิบขึ้น → กำไรเพิ่ม", "bear": "ราคาลง → กำไรหด"},
+      {"factor": "อุปสงค์จากจีน/อุตสาหกรรมโลก", "category": "Macro", "strength": "medium", "bull": "จีน/อุตสาหกรรมฟื้น → อุปสงค์วัตถุดิบโต", "bear": "จีนชะลอ → อุปสงค์ลด"}
+    ],
+    "healthcare": [
+      {"factor": "นโยบาย/กฎกำกับด้านสาธารณสุข (ราคายา)", "category": "Sector", "strength": "medium", "bull": "นวัตกรรม/สังคมสูงวัย → อุปสงค์โต", "bear": "คุมราคายา/กฎเข้ม → มาร์จิ้นถูกกด"}
+    ],
+    "industrials": [
+      {"factor": "วัฏจักรเศรษฐกิจ / การลงทุนโครงสร้างพื้นฐาน", "category": "Macro", "strength": "medium", "bull": "เศรษฐกิจ/การลงทุนโต → คำสั่งซื้อเพิ่ม", "bear": "ถดถอย → การลงทุนชะลอ"}
+    ],
+    "consumer": [
+      {"factor": "กำลังซื้อผู้บริโภค / เงินเฟ้อ", "category": "Macro", "strength": "medium", "bull": "กำลังซื้อดี/เงินเฟ้อคุมได้ → ยอดขายโต", "bear": "เงินเฟ้อสูง/ว่างงาน → กำลังซื้อหด"}
+    ]
+  },
+  "geo": {
+    "china": [
+      {"factor": "นโยบายรัฐบาลจีน / ภาคอสังหา", "category": "Macro", "strength": "high", "bull": "มาตรการกระตุ้น → ตลาดฟื้น", "bear": "คุมเข้ม/วิกฤตอสังหา → กดตลาด"}
+    ],
+    "emerging-markets": [
+      {"factor": "ค่าเงินดอลลาร์ (USD) / ดอกเบี้ยสหรัฐ", "category": "Macro", "strength": "high", "bull": "USD อ่อน/ดอกเบี้ยสหรัฐลง → เงินไหลเข้า EM", "bear": "USD แข็ง/ดอกเบี้ยสหรัฐขึ้น → เงินไหลออก EM"}
+    ],
+    "us": [
+      {"factor": "ดอกเบี้ยเฟด / เศรษฐกิจสหรัฐ", "category": "Macro", "strength": "medium", "bull": "เศรษฐกิจแข็งแรง/เฟดผ่อนคลาย", "bear": "เฟดขึ้นดอกเบี้ย/เศรษฐกิจชะลอ"}
+    ]
+  },
+  "structure": {
+    "fx/unhedged": [
+      {"factor": "ค่าเงินบาทเทียบสกุลที่ลงทุน", "category": "โครงสร้าง", "strength": "medium", "bull": "บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน", "bear": "บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน"}
+    ],
+    "conc/ultra-concentrated": [
+      {"factor": "ความเสี่ยงเฉพาะตัว (single-name/theme)", "category": "โครงสร้าง", "strength": "high", "bull": "ถูกทาง→ upside แรงกว่ากองกระจาย", "bear": "ผิดทาง→ downside แรงกว่ากองกระจาย"}
+    ],
+    "conc/concentrated": [
+      {"factor": "ความเสี่ยงเฉพาะตัว", "category": "โครงสร้าง", "strength": "medium", "bull": "กระจุกในตัวเด่น → upside เด่น", "bear": "กระจุก → เสี่ยงเฉพาะตัวสูงกว่าค่าเฉลี่ย"}
+    ],
+    "fee": [
+      {"factor": "ค่าธรรมเนียมรวม (drag คงที่)", "category": "โครงสร้าง", "strength": "always", "bull": "-", "bear": "ค่าธรรมเนียมยิ่งสูง ยิ่งกินผลตอบแทนทุกปีไม่ว่าตลาดขึ้นหรือลง"}
+    ]
+  }
+}

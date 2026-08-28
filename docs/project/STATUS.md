@@ -28,6 +28,15 @@ updated: 2026-08-28
 
 ---
 
+## 🗂️ แผนเฟส (autonomous — เริ่ม 2026-08-28)
+
+ทำตามลำดับ ทุกเฟส commit + broken=0 · อยู่ในกรอบ [[ideas#0. กรอบ|ข้อมูลอ้างอิง]] (สองด้าน · ไม่ทำนาย)
+
+- [x] **P1 · Factor foundation** ✅ — `factor_map.json` (static) + `factors.py` + section "⚖️ ปัจจัยที่กระทบ" ในโน้ตกอง (สองด้าน, ไม่ทำนาย)
+- [ ] **P2 · Skills** — `.claude/skills/*` : fund-explainer · fund-finder · portfolio-overlap · fee-audit · holding-explorer
+- [ ] **P3 · R-05 NAV time-series** — surface NAV 120 วัน ในโน้ตกอง (ประตูสู่ correlation)
+- [ ] **P4 · (ถ้ามีเวลา)** by-category index กองหลัก · semantic check ใหม่ (country/sector coverage)
+
 ## คิวงาน
 
 - [x] **A1** ประเทศจากหลักทรัพย์ (ISIN/exchange) → rollup ขึ้นกอง → ดัชนี by-country ✅ Round 1
@@ -62,6 +71,8 @@ _บันทึกผลโหวต 3 agent ต่อทางแยกที�
 ## บันทึกรอบ (Round log)
 
 _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · ไฟล์ที่แตะ_
+
+- **P1 · Factor foundation** — V ผ่าน (broken=0 · S1=0 · A-RING→ราคาโลหะ/จีน/เฟด สองด้าน) · `factor_map.json`(static, ความรู้) + `factors.py` + section "⚖️ ปัจจัยที่กระทบ (สองด้าน)" ในโน้ตกอง · descriptive ไม่ทำนาย ตามกรอบ ideas §0 · ไฟล์: `factor_map.json` `factors.py` `gen_vault.py`
 
 - **B2-R1 · Fee stacking ในโน้ตกองหลัก** — V ผ่าน (broken=0 · LHHEALTH 2.16%+1.14%=≈3.30% · KT-US 1.54%+0.92%=≈2.46% ·
   กองที่ไม่มี TER → "-" ไม่ปลอม) · เพิ่มคอลัมน์ TER ไทย + รวม 2 ชั้น (TER ไทย + OCF กองหลัก) ในตารางกองไทยที่ feed ·
