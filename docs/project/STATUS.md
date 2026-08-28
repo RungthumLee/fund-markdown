@@ -99,9 +99,26 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
 - ✅ **A2** sector facet + by-sector (จาก factsheet)
 
 **หยุดตามเกณฑ์ S — เหลือเฉพาะที่ต้อง network หรือ source ไม่มี:**
-- **A2 Yahoo per-holding sector** — Yahoo คืน **429** ในนี้ · ต้องรัน fetch บนเครื่องผู้ใช้ (pipeline `fetch_masters` มีอยู่แล้ว)
-- **A3 market-cap (large/mid/small)** — ต้องแหล่งข้อมูลภายนอก (Yahoo, 429)
+- **A2 Yahoo per-holding sector + A3 market-cap** — 🟢 **เขียนโค้ดพร้อมแล้ว (R7)** เหลือแค่ผู้ใช้รัน fetch บนเครื่องตัวเอง
+  (Yahoo คืน 429 ในเซสชันนี้) → ดูหัวข้อ "วิธีเปิดใช้" ด้านล่าง
 - **A3 currency exposure** — 🔴 **ตรวจแล้วไม่มีในต้นทาง** (R6): factsheet ไม่มีตารางสัดส่วนสกุลเงิน
   มีแค่ glossary + การเอ่ยกระจัดกระจาย → parse แล้วจะไม่น่าเชื่อถือ **จึงตั้งใจไม่ทำ** (หลักเดียวกับ ISS-009)
   มิติค่าเงินที่ source มีจริง = **FX Hedging %** ซึ่งทำเป็น `fx/*` tag แล้ว
 - ~~**B1 coverage**~~ ✅ แก้แล้ว R5 (90%)
+
+---
+
+## ▶️ วิธีเปิดใช้ sector/market-cap จาก Yahoo (A2/A3 — รันบนเครื่องคุณ)
+
+โค้ดพร้อมแล้ว (R7) และ **หลับอยู่จนกว่าจะรัน** — ถ้ายังไม่มีข้อมูล วอลต์ไม่เปลี่ยน
+
+```bash
+python scripts/fetch_sectors.py      # ดึง sector/industry/market-cap ต่อหลักทรัพย์ (resume ได้)
+python scripts/gen_vault.py          # กลายเป็น tag cap/* + sector/* (เสริมกองต่างประเทศ)
+python scripts/gen_entity_notes.py   # โน้ตหุ้นขึ้น กลุ่ม/อุตสาหกรรม/ขนาด
+```
+
+- ใช้ `yfinance` (เหมือน `fetch_masters.py`) · cache ต่อ symbol ที่ `data/sectors/` · รอบแรกช้า
+- ผลลง `data/processed/security_meta.json` → `scripts/securities.py` แปลงเป็น tag
+- ทดสอบด้วยข้อมูลปลอมแล้ว: TCHTECH → `cap/large` + `sector/consumer` · โน้ต Tencent ขึ้น กลุ่ม/อุตสาหกรรม/ขนาด · broken=0
+- ถ้าไม่รัน: ทุกอย่าง no-op (ยืนยันแล้ว) ไม่กระทบของเดิม

@@ -22,6 +22,11 @@ Facets: asset · risk · liquidity · conc · fx · struct · style · use · ta
 from __future__ import annotations
 
 import re
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import securities  # noqa: E402  (dormant until fetch_sectors.py has run)
 
 # ---- asset class ---------------------------------------------------------
 # policy is the trunk; sub-types are read from the policy text and fund name.
@@ -299,7 +304,14 @@ def investor_tags(f: dict) -> list[str]:
             tags.append(f"risk/{word}")
     tags += _liquidity_tags(f)
     tags += _bond_tags(f)
-    tags += _sector_tags(f)
+    # sector: the factsheet allocation first; Yahoo (via look-through) only fills
+    # in when the factsheet gave none. cap/* comes from Yahoo market caps. Both
+    # securities.* calls are no-ops until fetch_sectors.py has run.
+    _sect = _sector_tags(f)
+    tags += _sect
+    if not _sect:
+        tags += securities.fund_sector_tags(f)
+    tags += securities.fund_cap_tags(f)
     tags += _concentration_tags(f)
     tags += _fx_tags(f, text)
     tags += _struct_tags(f)

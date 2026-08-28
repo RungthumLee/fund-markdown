@@ -24,6 +24,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import geography  # noqa: E402
+import securities  # noqa: E402  (dormant until fetch_sectors.py has run)
 from gen_vault import safe_name as gen_vault_safe_name, table  # noqa: E402
 from normalize_entities import KIND_LABEL  # noqa: E402
 
@@ -147,6 +148,23 @@ def render(entity: dict, funds: dict, note_names: dict[str, str],
             geo.append(f"**จดทะเบียน:** {_domicile} {src}".strip())
         a(" · ".join(geo))
         a("")
+    # sector / industry / market cap from Yahoo (dormant until fetch_sectors runs)
+    _meta = securities.meta_of(LT_SYMBOL.get(entity["id"]))
+    if _meta:
+        line = []
+        if _meta.get("sector"):
+            line.append(f"**กลุ่ม:** {_meta['sector']}")
+        if _meta.get("industry"):
+            line.append(f"**อุตสาหกรรม:** {_meta['industry']}")
+        band = securities.cap_band(_meta.get("market_cap"))
+        if band and _meta.get("market_cap"):
+            th = {"large": "ใหญ่", "mid": "กลาง", "small": "เล็ก"}[band]
+            cur = _meta.get("currency") or ""
+            line.append(f"**ขนาด:** {th} ({_meta['market_cap']:,.0f} {cur})".rstrip())
+        if line:
+            a(" · ".join(line))
+            a("> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)")
+            a("")
 
     figi_type = entity.get("figi_type")
     if figi_type:
