@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1736721811.24
 holdings_count: 9
 top10_pct_nav: 100.56
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 46.6
 master_fund: "Baillie Gifford WW L/T Glb Gr B USD Acc"
 master_isin: "IE00BYQG5606"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
@@ -242,6 +245,18 @@ _ONE Ultimate Global Growth Fund_
 | 3 | ดัชนี MSCI ACWI Net Total Return USD | ดัชนี MSCI ACWI Net Total Return USD |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 28.1 |
+| เนเธอร์แลนด์ | 7.4 |
+| ไต้หวัน | 5.2 |
+| ฮ่องกง | 3.1 |
+| จีน | 2.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.6%** ของกอง (ส่วนที่เหลือ 53.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

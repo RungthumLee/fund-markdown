@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 165037070.61
 holdings_count: 15
 top10_pct_nav: 113.99
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 59.5
 master_fund: "First Trust Nasdaq Cybersecurity UCITS ETF Class A USD Accumulation"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
@@ -271,6 +274,14 @@ _LH GLOBAL CYBERSECURITY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 59.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **59.5%** ของกอง (ส่วนที่เหลือ 40.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 7614571359.07
 holdings_count: 79
 top10_pct_nav: 51.45
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.5
 peer_group: "Aggressive Allocation"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
@@ -162,6 +165,14 @@ _Bualuang Mixed 75/25 Fund_
 | 5 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.5%** ของกอง (ส่วนที่เหลือ 1.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 248014934.46
 holdings_count: 10
 top10_pct_nav: 97.94
+market_countries: ["สหราชอาณาจักร"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 2.7
 master_fund: "PIMCO GIS Divers Inc Instl USD Inc"
 master_isin: "IE00B138GV00"
 peer_group: "Global Bond Fully F/X Hedge"
@@ -265,6 +268,14 @@ _Krungsri Diversified Income Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 2.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **2.7%** ของกอง (ส่วนที่เหลือ 97.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

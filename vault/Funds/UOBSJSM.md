@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1156966696.16
 holdings_count: 4
 top10_pct_nav: 102.06
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 16.0
 master_fund: "United Japan Small And Mid Cap JPY"
 master_isin: "SG9999010854"
 peer_group: "Japan Equity"
@@ -177,6 +180,14 @@ _UOB Smart Japan Small And Mid Cap Fund_
 | 2 | ดัชนี MSCI Japan SMID Cap | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน เพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 16 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **16.0%** ของกอง (ส่วนที่เหลือ 84.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

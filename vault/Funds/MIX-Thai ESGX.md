@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 138981.64
 holdings_count: 65
 top10_pct_nav: 60.3
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.6
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย พิพัฒน์ นรานันทน์"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, use/accumulate]
 ---
@@ -234,6 +237,14 @@ _MFC Mixed Thailand ESG Extra Fund_
 | 3 | SET ESG Total Return Index | ดัชนีผลตอบแทนรวม SET ESG (SETESG TRI) สัดส่วน 65% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.6%** ของกอง (ส่วนที่เหลือ 3.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

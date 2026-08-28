@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 7447268179.26
 holdings_count: 67
 top10_pct_nav: 53.86
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.9
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
@@ -300,6 +303,14 @@ _SCB Dividend Mixed 70 Fund_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | เนื่องจากกองทุนนี้มีนโยบายลงทุนในหุ้นจดทะเบียนในตลาดหลักทรัพย์แห่งประเทศไทยเป็นหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.9%** ของกอง (ส่วนที่เหลือ 2.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

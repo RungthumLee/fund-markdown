@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 12255844.05
 holdings_count: 111
 top10_pct_nav: 63.92
+market_countries: ["ไทย", "สิงคโปร์", "ญี่ปุ่น"]
+country_top: "ไทย"
+country_coverage_pct: 98.5
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/total-market, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
@@ -332,6 +335,18 @@ _SCB Property and Infrastructure Flexible Fund_
 | 2 | Bloomberg Singapore REIT Net Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 48.6 |
+| สิงคโปร์ | 44.9 |
+| ญี่ปุ่น | 3.1 |
+| สหรัฐฯ | 1.1 |
+| ออสเตรเลีย | 1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.5%** ของกอง (ส่วนที่เหลือ 1.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

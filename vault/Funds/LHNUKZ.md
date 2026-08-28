@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 191421230.8
 holdings_count: 17
 top10_pct_nav: 105.9
+market_countries: ["สหรัฐฯ", "แคนาดา", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 31.3
 master_fund: "Range Nuclear Renaissance ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
@@ -176,6 +179,17 @@ _LH NUCLEAR ENERGY FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 16.3 |
+| แคนาดา | 7.9 |
+| สหราชอาณาจักร | 3.7 |
+| เกาหลีใต้ | 3.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **31.3%** ของกอง (ส่วนที่เหลือ 68.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

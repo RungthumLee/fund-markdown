@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 3712010805.46
 holdings_count: 18
 top10_pct_nav: 97.52
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.3
 peer_group: "Money Market Government"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, use/park-cash]
@@ -202,6 +205,14 @@ _TISCO Short Term Government Bond Fund_
 | 1 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.3%** ของกอง (ส่วนที่เหลือ 0.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

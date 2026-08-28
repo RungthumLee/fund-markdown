@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 533171502.97
 holdings_count: 7
 top10_pct_nav: 116.63
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 51.6
 master_fund: "E.I. Sturdza Nippon Gr UCITS A JPY UH"
 master_isin: "IE00B563Q870"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "นาย กมลยศ สุขุมสุวรรณ"]
@@ -183,6 +186,14 @@ _Asset Plus Nippon Growth Fund_
 | 1 | ดัชนี TOPIX (Total Return Net) | ดัชนี TOPIX (Total Return Net) ในสัดส่วน 100% คำนวณให้อยู่ในรูปสกุลเงินบาทด้วยอัตราแลกเปลี่ยน ณ วันที่คำนวณ โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 51.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **51.6%** ของกอง (ส่วนที่เหลือ 48.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

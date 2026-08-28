@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1225696201.56
 holdings_count: 11
 top10_pct_nav: 101.21
+market_countries: ["สหรัฐฯ", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 43.1
 master_fund: "GMO Quality Investment USD Acc"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
@@ -304,6 +307,15 @@ _LH GLOBAL EQUITY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 38.5 |
+| ไต้หวัน | 4.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **43.1%** ของกอง (ส่วนที่เหลือ 56.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

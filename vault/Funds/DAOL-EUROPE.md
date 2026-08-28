@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 44101137.28
 holdings_count: 17
 top10_pct_nav: 101.96
+market_countries: ["เยอรมนี"]
+country_top: "เยอรมนี"
+country_coverage_pct: 55.1
 fund_managers: ["นาย สร สุรสิทธิ์", "นาย ด ารงฤทธิ์ ส าเร็จวิทย์"]
 tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -164,6 +167,14 @@ _DAOL EUROPE OPPORTUNITY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เยอรมนี | 55.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **55.1%** ของกอง (ส่วนที่เหลือ 44.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

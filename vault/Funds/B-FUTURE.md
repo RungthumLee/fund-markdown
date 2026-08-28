@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 2300347594.64
 holdings_count: 30
 top10_pct_nav: 91.96
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 22.7
 peer_group: "Global Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -165,6 +168,14 @@ _Bualuang Future Generation Equity Fund_
 | 2 | Bloomberg World Large & Mid Cap Net Return Index | ในสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 22.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **22.7%** ของกอง (ส่วนที่เหลือ 77.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 459231722.15
 holdings_count: 20
 top10_pct_nav: 102.16
+market_countries: ["สหรัฐฯ", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 45.1
 master_fund: "Invesco Solar ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
@@ -153,6 +156,15 @@ _LH SOLAR ENERGY FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 41.7 |
+| ฮ่องกง | 3.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.1%** ของกอง (ส่วนที่เหลือ 54.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

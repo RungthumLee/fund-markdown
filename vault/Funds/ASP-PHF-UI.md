@@ -22,6 +22,9 @@ nav_date: "2026-07-01"
 fund_size: 306078347.57
 holdings_count: 6
 top10_pct_nav: 105.41
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 1.3
 master_fund: "Wellspring GBL Fund"
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
@@ -174,6 +177,14 @@ _Asset Plus Point Hedge Fund Not for Retail Investors_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 1.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **1.3%** ของกอง (ส่วนที่เหลือ 98.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

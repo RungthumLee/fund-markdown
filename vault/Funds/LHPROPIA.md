@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 8586904.74
 holdings_count: 45
 top10_pct_nav: 64.57
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 47.5
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -278,6 +281,14 @@ _LH PROPERTY INFRA FLEXIBLE A FUND_
 | 1 | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 47.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **47.5%** ของกอง (ส่วนที่เหลือ 52.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

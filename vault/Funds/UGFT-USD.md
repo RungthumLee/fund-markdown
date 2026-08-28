@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 15862628.31
 holdings_count: 3
 top10_pct_nav: 79.34
+market_countries: ["สหราชอาณาจักร", "สวิตเซอร์แลนด์", "สหรัฐฯ"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 39.0
 master_fund: "United CIO Growth T USD Acc"
 master_isin: "SGXZ33899576"
 peer_group: "Global Equity"
@@ -176,6 +179,16 @@ _United USD CIO Growth Fund TH_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ในรูปสกุลเงินดอลลาร์สหรัฐอเมริกา (USD) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 15.1 |
+| สวิตเซอร์แลนด์ | 13.2 |
+| สหรัฐฯ | 10.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **39.0%** ของกอง (ส่วนที่เหลือ 61.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

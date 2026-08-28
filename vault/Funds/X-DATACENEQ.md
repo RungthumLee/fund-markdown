@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 118449226.75
 holdings_count: 3
 top10_pct_nav: 99.77
+market_countries: ["สหรัฐฯ", "ออสเตรเลีย", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 66.1
 master_fund: "Global X Data Center & Digital Infrastructure ETF"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
@@ -166,6 +169,17 @@ _XSpring Data Center and Digital Infrastructure Equity_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 53.2 |
+| ออสเตรเลีย | 5 |
+| เกาหลีใต้ | 4.1 |
+| สิงคโปร์ | 3.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **66.1%** ของกอง (ส่วนที่เหลือ 33.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

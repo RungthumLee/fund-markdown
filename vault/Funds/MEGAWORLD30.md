@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 96618370.94
 holdings_count: 34
 top10_pct_nav: 49.1
+market_countries: ["สหรัฐฯ", "เยอรมนี", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 91.9
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
@@ -224,6 +227,19 @@ _MEGA WORLD 30 FUND_
 | 1 | Morningstar Global Target Market Exposure NR USD | Morningstar Global Target Market Exposure NR USD |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 77.4 |
+| เยอรมนี | 4.8 |
+| เนเธอร์แลนด์ | 2.6 |
+| แคนาดา | 2.4 |
+| สหราชอาณาจักร | 2.4 |
+| ฝรั่งเศส | 2.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **91.9%** ของกอง (ส่วนที่เหลือ 8.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

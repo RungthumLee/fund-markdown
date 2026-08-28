@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 14580933.85
 holdings_count: 22
 top10_pct_nav: 72.22
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส", "สวิตเซอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 88.2
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -163,6 +166,16 @@ _Asset Plus Top Brand RMF Fund_
 | 1 | ดัชนี MSCI AC World NETR USD Index | ดัชนี MSCI AC World NETR USD Index ในสัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 76.5 |
+| ฝรั่งเศส | 6.9 |
+| สวิตเซอร์แลนด์ | 4.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **88.2%** ของกอง (ส่วนที่เหลือ 11.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

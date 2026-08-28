@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 1959079422.94
 holdings_count: 34
 top10_pct_nav: 71.34
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.1
 peer_group: "Long Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
@@ -189,6 +192,14 @@ _K ESG Bond Fund_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล ESG ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.1%** ของกอง (ส่วนที่เหลือ 0.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

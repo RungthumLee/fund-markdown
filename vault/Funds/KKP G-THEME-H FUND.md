@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 263987212.85
 holdings_count: 13
 top10_pct_nav: 102.07
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 33.5
 master_fund: "Lazard Global Thematic Focus A Acc USD"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
@@ -243,6 +246,15 @@ _KKP GLOBAL THEMATIC OPPORTUNITIES FUND – HEDGED_
 | 1 | ดัชนี MSCI AC World Daily Total Return Net USD | ดัชนี MSCI All Country World Index USD (Net) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 28.1 |
+| ญี่ปุ่น | 5.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **33.5%** ของกอง (ส่วนที่เหลือ 66.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

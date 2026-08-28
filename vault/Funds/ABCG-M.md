@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 168489140.44
 holdings_count: 11
 top10_pct_nav: 103.28
+market_countries: ["จีน", "ฮ่องกง"]
+country_top: "จีน"
+country_coverage_pct: 42.7
 master_fund: "abrdn-All China Sustainable Eq Z AccUSD"
 master_isin: "LU0278910632"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -210,6 +213,15 @@ _abrdn All China Sustainable Equity Fund_
 | 3 | MSCI China All Share Gross Total Return Index | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวมnกองทุนป้องกันความเสี่ยงจากอัตราแลกเปลี่ยนตามดุลพินิจของผู้จัดการกองทุนโดยมีเป้าหมายป้องกันความเสี่ยงไม่น้อยกว่า 90% ทั้งนี้ตัวชี้วัดแสดงในรูปสกุลเงิน USD ซึ่งเป็นตัวชี้วัดเดียวกับกองทุนหลัก โดยมิได้ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแ |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 27 |
+| ฮ่องกง | 15.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.7%** ของกอง (ส่วนที่เหลือ 57.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

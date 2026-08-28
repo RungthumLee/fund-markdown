@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 413776161.28
 holdings_count: 108
 top10_pct_nav: 37.76
+market_countries: ["จีน", "ฮ่องกง"]
+country_top: "จีน"
+country_coverage_pct: 77.4
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, compliance/trigger-fund, use/accumulate]
 ---
 
@@ -169,6 +172,15 @@ _SCB China Trigger 2 Fund_
 | 2 | S&P China All-Shares LargeMidCap (USD) NTR | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 74 |
+| ฮ่องกง | 3.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **77.4%** ของกอง (ส่วนที่เหลือ 22.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

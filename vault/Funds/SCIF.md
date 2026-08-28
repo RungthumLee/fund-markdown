@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 103106669.41
 holdings_count: 57
 top10_pct_nav: 74.94
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.9
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -193,6 +196,14 @@ _Siam City Open-End-Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.9%** ของกอง (ส่วนที่เหลือ 5.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

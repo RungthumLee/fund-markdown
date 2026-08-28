@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 248157108.63
 holdings_count: 32
 top10_pct_nav: 58.9
+market_countries: ["เวียดนาม", "ไทย"]
+country_top: "เวียดนาม"
+country_coverage_pct: 83.1
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, compliance/trigger-fund, use/accumulate]
 ---
 
@@ -165,6 +168,15 @@ _Principal Vietnam Trigger 7M1 Fund_
 | 1 | ดัชนี VN30 Total Return | VN30TR Index (THB) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 81 |
+| ไทย | 2.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **83.1%** ของกอง (ส่วนที่เหลือ 16.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

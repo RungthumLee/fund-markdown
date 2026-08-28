@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 32865098413.55
 holdings_count: 140
 top10_pct_nav: 28.15
+market_countries: ["ไทย", "ระหว่างประเทศ", "สวีเดน"]
+country_top: "ไทย"
+country_coverage_pct: 93.0
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -173,6 +176,16 @@ _Krung Thai Thanasup Plus Fund_
 | 4 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index): 50% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 88 |
+| ระหว่างประเทศ | 4.9 |
+| สวีเดน | 0 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.0%** ของกอง (ส่วนที่เหลือ 7.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

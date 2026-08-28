@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 392589486.78
 holdings_count: 35
 top10_pct_nav: 92.24
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 78.7
 tags: [fund, sec-data, asset/mixed, risk/moderate, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -187,6 +190,15 @@ _DAOL INCOME STREAM FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 42.5 |
+| สหรัฐฯ | 36.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **78.7%** ของกอง (ส่วนที่เหลือ 21.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

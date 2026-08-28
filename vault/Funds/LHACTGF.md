@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 9822451.18
 holdings_count: 31
 top10_pct_nav: 65.08
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 89.3
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
@@ -189,6 +192,14 @@ _LH Active Growth Fund_
 | 2 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 89.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **89.3%** ของกอง (ส่วนที่เหลือ 10.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

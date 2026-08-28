@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2536742262.37
 holdings_count: 30
 top10_pct_nav: 47.38
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 97.0
 peer_group: "Vietnam Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -165,6 +168,14 @@ _Bualuang Vietnam Equity Fund_
 | 1 | ดัชนี MSCI Vietnam Net Total Return USD Index | ในสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 97 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.0%** ของกอง (ส่วนที่เหลือ 3.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 493556960.49
 holdings_count: 29
 top10_pct_nav: 92.54
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 21.5
 peer_group: "Global Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -166,6 +169,14 @@ _Bualuang Future Equity RMF_
 | 2 | Bloomberg World Large & Mid Cap Net Return Index | ในสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 21.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **21.5%** ของกอง (ส่วนที่เหลือ 78.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

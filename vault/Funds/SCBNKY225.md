@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 3405114508.91
 holdings_count: 105
 top10_pct_nav: 110.23
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 48.0
 master_fund: "iShares Core Nikkei 225 ETF"
 master_isin: "JP3027710007"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, use/income]
@@ -266,6 +269,14 @@ _SCB JAPAN EQUITY FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 95% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 5% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 48 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.0%** ของกอง (ส่วนที่เหลือ 52.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

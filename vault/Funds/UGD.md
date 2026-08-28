@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1081228870.63
 holdings_count: 4
 top10_pct_nav: 101.0
+market_countries: ["สหรัฐฯ", "อิตาลี", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 38.1
 master_fund: "United Global Durable Eqs USD Acc"
 master_isin: "SG9999014021"
 peer_group: "Global Equity"
@@ -173,6 +176,18 @@ _United Global Durable Equities Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 21.5 |
+| อิตาลี | 5.4 |
+| สหราชอาณาจักร | 3.8 |
+| ฝรั่งเศส | 3.7 |
+| ญี่ปุ่น | 3.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **38.1%** ของกอง (ส่วนที่เหลือ 61.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

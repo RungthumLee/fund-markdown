@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 73259867.54
 holdings_count: 9
 top10_pct_nav: 101.64
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 59.4
 master_fund: "Global X ETF Series OFC - Global X China Clean Energy ETF"
 master_isin: "HK0000562675"
 peer_group: "Global Equity- Alternative Energy"
@@ -183,6 +186,14 @@ _TISCO China New Energy Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 59.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **59.4%** ของกอง (ส่วนที่เหลือ 40.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

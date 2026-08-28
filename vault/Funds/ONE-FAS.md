@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 27704741.7
 holdings_count: 50
 top10_pct_nav: 63.55
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.2
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
@@ -176,6 +179,14 @@ _ONE FAS PROSPERITY FUND_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | SET Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.2%** ของกอง (ส่วนที่เหลือ 5.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

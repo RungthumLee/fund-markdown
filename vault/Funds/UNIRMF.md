@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 84858005.5
 holdings_count: 4
 top10_pct_nav: 99.9
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 51.4
 master_fund: "United Global Innovation A USD Acc"
 master_isin: "SGXZ81514606"
 peer_group: "Global Equity"
@@ -183,6 +186,15 @@ _United Global Innovation Fund RMF_
 | 2 | ดัชนี MSCI AC World NETR USD Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน เพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46.1 |
+| เนเธอร์แลนด์ | 5.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **51.4%** ของกอง (ส่วนที่เหลือ 48.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

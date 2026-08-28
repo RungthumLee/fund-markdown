@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1744623853.33
 holdings_count: 4
 top10_pct_nav: 100.79
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 43.6
 master_fund: "iShares Asia Trust - iShares FTSE A50 China Index ETF"
 master_isin: "HK2823028546"
 peer_group: "China Equity - A Shares"
@@ -175,6 +178,14 @@ _Eastspring China Equity Index Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ในรูปสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 100 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 43.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **43.6%** ของกอง (ส่วนที่เหลือ 56.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

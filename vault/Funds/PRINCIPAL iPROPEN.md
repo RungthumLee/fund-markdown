@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 427764898.92
 holdings_count: 111
 top10_pct_nav: 45.47
+market_countries: ["ออสเตรเลีย", "ไทย", "สิงคโปร์"]
+country_top: "ออสเตรเลีย"
+country_coverage_pct: 95.0
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -287,6 +290,18 @@ _Principal Enhanced Property and Infrastructure Flex Income Fund_
 | 9 | Hang Seng REIT Index Total Return Index | HSI 33 Index adjusted with FX hedging cost |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ออสเตรเลีย | 28 |
+| ไทย | 25.7 |
+| สิงคโปร์ | 19.9 |
+| ญี่ปุ่น | 17.1 |
+| ฮ่องกง | 4.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.0%** ของกอง (ส่วนที่เหลือ 5.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

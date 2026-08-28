@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 946713592.21
 holdings_count: 4
 top10_pct_nav: 99.89
+market_countries: ["มาเลเซีย"]
+country_top: "มาเลเซีย"
+country_coverage_pct: 98.6
 master_fund: "Principal Lifetime Bond Fund"
 master_isin: "MYU1000AJ008"
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
@@ -233,6 +236,14 @@ _Principal Malaysian Fixed Income Fund Unhedged_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| มาเลเซีย | 98.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.6%** ของกอง (ส่วนที่เหลือ 1.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 66203883.75
 holdings_count: 6
 top10_pct_nav: 100.28
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 38.6
 master_fund: "Baillie Gifford WW Discovery B USD Acc"
 master_isin: "IE00BD09K416"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
@@ -245,6 +248,16 @@ _ONE DISCOVERY FUND_
 | 1 | ดัชนี MSCI Emerging Markets Index | ดัชนี MSCI Emerging Markets Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 32.7 |
+| ไต้หวัน | 3.2 |
+| ญี่ปุ่น | 2.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **38.6%** ของกอง (ส่วนที่เหลือ 61.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

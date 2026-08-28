@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 11024009764.53
 holdings_count: 99
 top10_pct_nav: 103.57
+market_countries: ["เกาหลีใต้"]
+country_top: "เกาหลีใต้"
+country_coverage_pct: 60.3
 master_fund: "iShares MSCI South Korea ETF"
 master_isin: "US4642867729"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
@@ -255,6 +258,14 @@ _SCB KOREA EQUITY FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 80% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เกาหลีใต้ | 60.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **60.3%** ของกอง (ส่วนที่เหลือ 39.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

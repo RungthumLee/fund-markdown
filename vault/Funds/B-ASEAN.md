@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 229535299.02
 holdings_count: 33
 top10_pct_nav: 61.36
+market_countries: ["สิงคโปร์", "ไทย", "มาเลเซีย"]
+country_top: "สิงคโปร์"
+country_coverage_pct: 95.3
 peer_group: "ASEAN Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
@@ -166,6 +169,20 @@ _Bualuang ASEAN Equity Fund_
 | 1 | ดัชนี Bloomberg ASEAN Large & Mid Net Return USD | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สิงคโปร์ | 33.6 |
+| ไทย | 15.2 |
+| มาเลเซีย | 14.4 |
+| อินโดนีเซีย | 9.9 |
+| สหรัฐฯ | 8.9 |
+| เวียดนาม | 7.3 |
+| ฟิลิปปินส์ | 6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.3%** ของกอง (ส่วนที่เหลือ 4.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

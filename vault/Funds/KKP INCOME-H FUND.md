@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 129187815.14
 holdings_count: 8
 top10_pct_nav: 100.11
+market_countries: ["สวิตเซอร์แลนด์", "สหราชอาณาจักร"]
+country_top: "สวิตเซอร์แลนด์"
+country_coverage_pct: 2.1
 master_fund: "BGF Global Multi-Asset Inc A5G"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
@@ -268,6 +271,15 @@ _KKP GLOBAL MULTI ASSET INCOME FUND – HEDGED_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สวิตเซอร์แลนด์ | 1.1 |
+| สหราชอาณาจักร | 1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **2.1%** ของกอง (ส่วนที่เหลือ 97.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 882355750.33
 holdings_count: 13
 top10_pct_nav: 102.84
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 100.3
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
@@ -216,6 +219,14 @@ _Krungsri China Megatrends Fund_
 | 1 | Morningstar China NR USD | ในสกุลเงินเหรียญสหรัฐฯ ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คํานวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 100.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.3%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

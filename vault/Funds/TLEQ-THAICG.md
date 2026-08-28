@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 11239486.29
 holdings_count: 22
 top10_pct_nav: 62.41
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 88.2
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
@@ -152,6 +155,14 @@ _TALIS THAI EQUITY CG FUND_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 88.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **88.2%** ของกอง (ส่วนที่เหลือ 11.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

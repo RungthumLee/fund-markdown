@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 496991713.93
 holdings_count: 51
 top10_pct_nav: 48.45
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 82.5
 peer_group: "Short Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -211,6 +214,14 @@ _Smart Value Retirement Mutual Fund_
 | 4 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 82.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **82.5%** ของกอง (ส่วนที่เหลือ 17.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

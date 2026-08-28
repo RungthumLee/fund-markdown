@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1735097181.94
 holdings_count: 22
 top10_pct_nav: 81.75
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 100.1
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t2, fx/fully-hedged, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
@@ -156,6 +159,14 @@ _Principal Money Market Retirement Mutual Fund_
 | 1 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตราสารหนี้ไทย | STGovBond Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 100.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.1%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

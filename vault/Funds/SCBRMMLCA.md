@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 114183883.95
 holdings_count: 2
 top10_pct_nav: 100.16
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.1
 master_fund: "กองทุนเปิดไทยพาณิชย์ Machine Learning China All Share เพื่อการเลี้ยงชีพ"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
@@ -182,6 +185,14 @@ _SCB Machine Learning China All Share RMF_
 | 1 | S&P China All-Shares LargeMidCap (USD) NTR | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.1%** ของกอง (ส่วนที่เหลือ 0.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

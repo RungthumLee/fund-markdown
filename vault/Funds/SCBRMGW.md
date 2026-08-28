@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 90220742.59
 holdings_count: 59
 top10_pct_nav: 96.1
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 86.1
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -174,6 +177,15 @@ _SCB GLOBAL WEALTH RMF_
 | 3 | Bloomberg GLOBAL AGGREGATE Total RETURN INDEX VALUE Hedged USD | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 95%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 5%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 80.8 |
+| ญี่ปุ่น | 5.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **86.1%** ของกอง (ส่วนที่เหลือ 13.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

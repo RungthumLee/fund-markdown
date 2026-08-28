@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2288842614.91
 holdings_count: 35
 top10_pct_nav: 71.67
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.6
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "น.ส. นินัทธ์ วงศ์เสงี่ยม"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
@@ -179,6 +182,14 @@ _K Superstar Super Savings Fund Extra_
 | 1 | ดัชนีผลตอบแทนรวม SET High Dividend 30 (SETHD TRI) | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้กำหนดองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.6%** ของกอง (ส่วนที่เหลือ 1.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

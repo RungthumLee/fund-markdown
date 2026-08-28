@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 122277811.23
 holdings_count: 27
 top10_pct_nav: 75.12
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.5
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -182,6 +185,14 @@ _ONE PROPERTY RETIREMENT MUTUAL FUND_
 | 1 | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&RIET Total Return Index) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.5%** ของกอง (ส่วนที่เหลือ 3.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 15903061.52
 holdings_count: 3
 top10_pct_nav: 100.24
+market_countries: ["มาเลเซีย"]
+country_top: "มาเลเซีย"
+country_coverage_pct: 99.3
 master_fund: "Principal China-India-Indonesia Opportunities Fund"
 master_isin: "MYU1000DK000"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, use/accumulate]
@@ -184,6 +187,14 @@ _Principal Daily China-India-Indo Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| มาเลเซีย | 99.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.3%** ของกอง (ส่วนที่เหลือ 0.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

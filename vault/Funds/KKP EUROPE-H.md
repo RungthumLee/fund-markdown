@@ -22,6 +22,9 @@ nav_date: "2026-08-24"
 fund_size: 23213275.68
 holdings_count: 12
 top10_pct_nav: 95.93
+market_countries: ["สวิตเซอร์แลนด์", "เนเธอร์แลนด์", "เยอรมนี"]
+country_top: "สวิตเซอร์แลนด์"
+country_coverage_pct: 21.2
 master_fund: "GS Europe CORE Equity I Acc EUR"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
@@ -182,6 +185,18 @@ _KKP EUROPE EQUITY FUND - HEGDED_
 | 1 | ดัชนี MSCI Europe Net Total Return EUR Index | ดัชนี MSCI Europe Net Toal Return EUR Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สวิตเซอร์แลนด์ | 6.2 |
+| เนเธอร์แลนด์ | 5.3 |
+| เยอรมนี | 3.8 |
+| ฝรั่งเศส | 3.1 |
+| สหราชอาณาจักร | 2.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **21.2%** ของกอง (ส่วนที่เหลือ 78.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

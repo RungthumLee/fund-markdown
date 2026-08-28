@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 80303244.22
 holdings_count: 8
 top10_pct_nav: 92.68
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 44.6
 tags: [fund, sec-data, asset/fixed-income, liquidity/t5, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
@@ -162,6 +165,15 @@ _ไม่มีข้อมูลผลการดำเนินงานจ�
 | 2 | Bloomberg GLOBAL AGGREGATE Total RETURN INDEX VALUE Hedged USD | ดัชนี Bloomberg Global Aggregate Total Return Index Value Hedged USD (70%) ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน (90%) และปรับด้วยอัตราแลกเปลี่ยนเทียบกับเงินบาท (10%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 26.6 |
+| สหรัฐฯ | 18 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **44.6%** ของกอง (ส่วนที่เหลือ 55.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
 

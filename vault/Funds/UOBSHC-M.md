@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1332230605.18
 holdings_count: 4
 top10_pct_nav: 100.76
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 41.2
 master_fund: "United Global Healthcare SGD Acc"
 master_isin: "SG9999001176"
 peer_group: "Health Care"
@@ -205,6 +208,15 @@ _UOB Smart Global Healthcare Fund_
 | 2 | ดัชนี MSCI AC World Health Care Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 32.7 |
+| สหราชอาณาจักร | 8.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **41.2%** ของกอง (ส่วนที่เหลือ 58.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

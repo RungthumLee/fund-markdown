@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 100515338.47
 holdings_count: 36
 top10_pct_nav: 74.0
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 66.1
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -179,6 +182,14 @@ _Krung Thai Mee Sup RMF_
 | 1 | อัตราผลตอบแทนร้อยละ 7 ต่อปี | อัตราผลตอบแทนร้อยละ 7 ต่อปี |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 66.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **66.1%** ของกอง (ส่วนที่เหลือ 33.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

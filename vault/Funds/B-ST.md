@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 38219431656.39
 holdings_count: 90
 top10_pct_nav: 32.54
+market_countries: ["ไทย", "ระหว่างประเทศ", "มาเลเซีย"]
+country_top: "ไทย"
+country_coverage_pct: 102.3
 peer_group: "Short Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -170,6 +173,17 @@ _Bualuang Short Term Fixed Income Fund_
 | 4 | อัตราดอกเบี้ยเงินฝากประจำ 6 เดือน วงเงินน้อยกว่า 5 ล้านบาท เฉลี่ยของ 3 ธนาคารพาณิชย์ขนาดใหญ่ ได้แก่ ธนาคารกรุงเทพ ธนาคารกสิกรไทย และธนาคารไทยพาณิชย์ หลังหักภาษี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 80.9 |
+| ระหว่างประเทศ | 13.7 |
+| มาเลเซีย | 6.3 |
+| สิงคโปร์ | 1.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **102.3%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

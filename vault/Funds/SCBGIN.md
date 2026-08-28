@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 34807721.07
 holdings_count: 32
 top10_pct_nav: 101.64
+market_countries: ["สหราชอาณาจักร", "เยอรมนี", "ฝรั่งเศส"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 10.8
 master_fund: "DWS Multi Opportunities RC"
 master_isin: "LU1590089758"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
@@ -214,6 +217,16 @@ _SCB Global Income Fund_
 | 1 | ไม่มี | เนื่องจากลงทุนในกองทุนหลักที่ไม่มีดัชนีชี้วัด |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 8.2 |
+| เยอรมนี | 1.4 |
+| ฝรั่งเศส | 1.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **10.8%** ของกอง (ส่วนที่เหลือ 89.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

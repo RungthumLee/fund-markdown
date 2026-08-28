@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 269953110.97
 holdings_count: 18
 top10_pct_nav: 98.83
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 37.9
 master_fund: "Wellington Global Hlthcr Eq USD S Ac"
 master_isin: "IE00B0590K11"
 peer_group: "Health Care"
@@ -193,6 +196,15 @@ Bloomberg TickerWGHCEPA ID
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 31.1 |
+| สหราชอาณาจักร | 6.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.9%** ของกอง (ส่วนที่เหลือ 62.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

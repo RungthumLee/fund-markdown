@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 3296877327.12
 holdings_count: 4
 top10_pct_nav: 100.7
+market_countries: ["ฮ่องกง", "สหรัฐฯ", "จีน"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 41.5
 master_fund: "UBS (Lux) ES All China (USD) I A1 acc"
 master_isin: "LU1867708205"
 peer_group: "Greater China Equity"
@@ -205,6 +208,16 @@ _United All China Equity Fund_
 | 2 | MSCI China All Shares Net Total Return Index (USD) | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน เพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 26.9 |
+| สหรัฐฯ | 8 |
+| จีน | 6.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **41.5%** ของกอง (ส่วนที่เหลือ 58.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 59516916.82
 holdings_count: 118
 top10_pct_nav: 73.77
+market_countries: ["สหรัฐฯ", "ไทย", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 78.9
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
@@ -227,6 +230,16 @@ _Principal Multi Asset Balanced Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 47.2 |
+| ไทย | 30.4 |
+| ญี่ปุ่น | 1.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **78.9%** ของกอง (ส่วนที่เหลือ 21.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

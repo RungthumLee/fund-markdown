@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 289078523.41
 holdings_count: 52
 top10_pct_nav: 59.06
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 91.7
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
@@ -178,6 +181,14 @@ _LH INCOME PLUS FUND_
 | 3 | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 91.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **91.7%** ของกอง (ส่วนที่เหลือ 8.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

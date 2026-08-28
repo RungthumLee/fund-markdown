@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 367325172.24
 holdings_count: 21
 top10_pct_nav: 116.17
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 37.0
 master_fund: "Neuberger Nex Gen Spc EcyUSDIAcc"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
@@ -219,6 +222,18 @@ _LH SPACE ECONOMY FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 21.8 |
+| ญี่ปุ่น | 6.8 |
+| เกาหลีใต้ | 3.2 |
+| แคนาดา | 2.9 |
+| สิงคโปร์ | 2.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.0%** ของกอง (ส่วนที่เหลือ 63.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 811026041.67
 holdings_count: 62
 top10_pct_nav: 42.71
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 87.3
 peer_group: "Mid Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, use/accumulate]
 ---
@@ -194,6 +197,14 @@ _Thai Fixed Income Fund_
 | 5 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 87.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **87.3%** ของกอง (ส่วนที่เหลือ 12.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

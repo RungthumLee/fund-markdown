@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 663212287.64
 holdings_count: 40
 top10_pct_nav: 96.84
+market_countries: ["ไต้หวัน"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 44.4
 master_fund: "iShares MSCI Taiwan ETF"
 master_isin: "US46434G7723"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
@@ -186,6 +189,14 @@ _DAOL TAIWAN EQUITY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 44.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **44.4%** ของกอง (ส่วนที่เหลือ 55.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

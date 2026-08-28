@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 422353579.3
 holdings_count: 48
 top10_pct_nav: 64.11
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.8
 peer_group: "Aggressive Allocation"
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
@@ -171,6 +174,14 @@ _UOB SMART MILLENNIUM GROWTH FUND_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.8%** ของกอง (ส่วนที่เหลือ 5.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

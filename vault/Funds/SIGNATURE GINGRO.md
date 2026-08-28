@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 852096368.16
 holdings_count: 3
 top10_pct_nav: 104.89
+market_countries: ["มาเลเซีย"]
+country_top: "มาเลเซีย"
+country_coverage_pct: 100.1
 master_fund: "Signature Dynamic Income and Growth Fund"
 master_isin: "MYU0100B1663"
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, use/accumulate]
@@ -251,6 +254,14 @@ _Signature Global Dynamic Income and Growth Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| มาเลเซีย | 100.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.1%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

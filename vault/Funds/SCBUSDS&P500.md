@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 1530206.14
 holdings_count: 3
 top10_pct_nav: 99.79
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 36.9
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -176,6 +179,14 @@ _SCB US Equity USD_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 36.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.9%** ของกอง (ส่วนที่เหลือ 63.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

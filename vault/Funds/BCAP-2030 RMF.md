@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 171336096.59
 holdings_count: 17
 top10_pct_nav: 98.89
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 68.7
 peer_group: "Conservative Allocation"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -174,6 +177,15 @@ _BCAP Global Target Date 2030 Retirement Mutual Fund_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | ของมูลค่าทรัพย์สินสุทธิของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 68.1 |
+| สหรัฐฯ | 0.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **68.7%** ของกอง (ส่วนที่เหลือ 31.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

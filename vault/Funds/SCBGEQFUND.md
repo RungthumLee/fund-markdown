@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 219004599.59
 holdings_count: 60
 top10_pct_nav: 102.96
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 49.8
 master_fund: "Veritas Global Focus USD Acc NAV"
 master_isin: "IE00B3RMVW88"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -243,6 +246,17 @@ _SCB GLOBAL EQUITY FUND_
 | 1 | Bloomberg Developed Markets Large & Mid Cap Net Return Index (USD) | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 95% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 5% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 24.8 |
+| ฝรั่งเศส | 14.8 |
+| สหราชอาณาจักร | 5.2 |
+| แคนาดา | 5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **49.8%** ของกอง (ส่วนที่เหลือ 50.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

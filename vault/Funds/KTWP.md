@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 219655181.43
 holdings_count: 119
 top10_pct_nav: 43.1
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 97.9
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/total-market, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -196,6 +199,15 @@ _Krung Thai Wealth Plus Mixed Fund_
 | 6 | ดัชนีราคาทองคำในสกุลเงินดอลลาร์สหรัฐ (LBMA Gold Price AM) | ดัชนี LBMA Gold Price AM (5%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 85.3 |
+| สหรัฐฯ | 12.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.9%** ของกอง (ส่วนที่เหลือ 2.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

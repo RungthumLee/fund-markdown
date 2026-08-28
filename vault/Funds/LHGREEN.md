@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 23076541.0
 holdings_count: 14
 top10_pct_nav: 100.9
+market_countries: ["สหรัฐฯ", "เยอรมนี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 17.2
 master_fund: "Wellington Climate Strategy USD N Ac"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
@@ -278,6 +281,15 @@ _LH GREEN TECHNOLOGY FUND_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 14.7 |
+| เยอรมนี | 2.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **17.2%** ของกอง (ส่วนที่เหลือ 82.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

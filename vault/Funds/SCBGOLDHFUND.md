@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 15065208176.26
 holdings_count: 103
 top10_pct_nav: 105.87
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 99.5
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
@@ -321,6 +324,14 @@ _SCB GOLD THB HEDGED OPEN END FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 95% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 5% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 99.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.5%** ของกอง (ส่วนที่เหลือ 0.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

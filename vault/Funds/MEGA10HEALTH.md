@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 35079573.08
 holdings_count: 12
 top10_pct_nav: 94.26
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 94.3
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
@@ -188,6 +191,15 @@ _MEGA 10 HEALTHCARE FUND_
 | 1 | ดัชนี S&P 500 Health Care Sector Total Return | ดัชนี S&P 500 Health Care Sector Total Return |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 84.8 |
+| สหราชอาณาจักร | 9.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.3%** ของกอง (ส่วนที่เหลือ 5.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

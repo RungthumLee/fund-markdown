@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 354120153.7
 holdings_count: 44
 top10_pct_nav: 48.48
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 59.9
 peer_group: "Money Market General"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
@@ -181,6 +184,14 @@ _Thai Cash Management Enjoy Fund_
 | 4 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 59.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **59.9%** ของกอง (ส่วนที่เหลือ 40.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

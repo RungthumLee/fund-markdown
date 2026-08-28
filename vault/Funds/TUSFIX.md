@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 325386038.68
 holdings_count: 4
 top10_pct_nav: 108.54
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 98.9
 master_fund: "State Street SPDR Bloomberg 1-3 Month T-Bill ETF"
 master_isin: "US78468R6633"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
@@ -178,6 +181,14 @@ _TISCO US Short Term Fixed Income Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 98.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.9%** ของกอง (ส่วนที่เหลือ 1.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

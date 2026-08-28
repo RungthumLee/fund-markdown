@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 85647493.26
 holdings_count: 52
 top10_pct_nav: 60.08
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 100.0
 fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
@@ -178,6 +181,14 @@ SET50 Index = (มูลค่าตลาดรวม ณ วันปัจจ
 | 1 | ดัชนีผลตอบแทนรวม SET 50 (SET50 TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 100 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.0%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

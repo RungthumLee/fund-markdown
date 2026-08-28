@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 281904287.0
 holdings_count: 3
 top10_pct_nav: 100.07
+market_countries: ["จีน", "สหรัฐฯ"]
+country_top: "จีน"
+country_coverage_pct: 22.6
 master_fund: "World Index Shares ETFs - CSI 300 China Tracker"
 master_isin: "HK2827039002"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, style/dividend, use/income]
@@ -184,6 +187,15 @@ _W.I.S.E. KTAM CSI 300 China Tracker_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก (100%) ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 16.7 |
+| สหรัฐฯ | 5.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **22.6%** ของกอง (ส่วนที่เหลือ 77.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

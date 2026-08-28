@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 8162927065.68
 holdings_count: 35
 top10_pct_nav: 70.85
+market_countries: ["ไทย", "สิงคโปร์", "ฮ่องกง"]
+country_top: "ไทย"
+country_coverage_pct: 97.5
 peer_group: "Fund of Property fund - Thai and Foreign"
 fund_managers: ["น.ส. ดาราวรรณ ประกายทิพย์", "น.ส. กมลวรรณ ชัยรักษ์วัฒนา"]
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
@@ -169,6 +172,16 @@ _Eastspring Property and Infrastructure Income Plus Flexible Fund_
 | 2 | ดัชนีกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 50.8 |
+| สิงคโปร์ | 44 |
+| ฮ่องกง | 2.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.5%** ของกอง (ส่วนที่เหลือ 2.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

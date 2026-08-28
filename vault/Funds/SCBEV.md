@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1005956196.9
 holdings_count: 146
 top10_pct_nav: 107.28
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 65.2
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -292,6 +295,14 @@ _SCB Electric Vehicles and Future Mobility_
 | 1 | Bloomberg Electric Vehicles Total Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 95%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 5%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 65.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **65.2%** ของกอง (ส่วนที่เหลือ 34.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

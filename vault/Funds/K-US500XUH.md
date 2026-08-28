@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 334259180.55
 holdings_count: 4
 top10_pct_nav: 100.2
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 36.7
 master_fund: "iShares Core S&P 500 ETF"
 peer_group: "US Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
@@ -192,6 +195,14 @@ Websitewww.ishares.com
 | 1 | ดัชนี S&P 500 Total Return | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 36.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.7%** ของกอง (ส่วนที่เหลือ 63.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

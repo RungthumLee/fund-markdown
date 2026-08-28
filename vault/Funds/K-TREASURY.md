@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 44870029286.93
 holdings_count: 35
 top10_pct_nav: 62.21
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.7
 peer_group: "Short Term Government Bond"
 fund_managers: ["น.ส. อัมไพวรรณ เมลืองนนท์"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, struct/direct, style/active, use/park-cash]
@@ -205,6 +208,14 @@ total SIP ซึ่งได้แก่
 | 1 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้เป็นตัวแทนองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.7%** ของกอง (ส่วนที่เหลือ 4.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

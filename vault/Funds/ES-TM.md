@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 41684622111.27
 holdings_count: 47
 top10_pct_nav: 56.58
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 103.2
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธารดร เขียวมีส่วน", "นาง สุวัลลี ศิริสมบัติยืนยง"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
@@ -195,6 +198,14 @@ _Eastspring Treasury Money Fund_
 | 1 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 103.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **103.2%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

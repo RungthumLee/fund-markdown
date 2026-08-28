@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 140743109.19
 holdings_count: 51
 top10_pct_nav: 35.88
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.1
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["นาย กวิฬ เหรียญเสาวภาคย์", "นาย ฑลิต โชคทิพย์พัฒนา"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
@@ -181,6 +184,14 @@ _Krungsri Thai Small-Mid Cap Equity Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.1%** ของกอง (ส่วนที่เหลือ 2.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 50878118360.95
 holdings_count: 148
 top10_pct_nav: 40.15
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.7
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -267,6 +270,14 @@ _KKP SMART PLUS FUND_
 | 5 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.7%** ของกอง (ส่วนที่เหลือ 4.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 58862494111.0
 holdings_count: 116
 top10_pct_nav: 42.69
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.2
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตร อัศวมงคลกุล"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, use/accumulate]
@@ -226,6 +229,14 @@ credit ratingรวมกันไม่เกิน 15%
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.2%** ของกอง (ส่วนที่เหลือ 5.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 331394629.73
 holdings_count: 24
 top10_pct_nav: 66.5
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.4
 peer_group: "Equity Large Cap"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -168,6 +171,14 @@ _United Equity Big Cap Dividend Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.4%** ของกอง (ส่วนที่เหลือ 4.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

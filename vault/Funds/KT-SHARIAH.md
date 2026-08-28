@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 5314979.63
 holdings_count: 39
 top10_pct_nav: 70.98
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.5
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, compliance/sharia, use/accumulate]
 ---
 
@@ -207,6 +210,14 @@ _Krungthai Shariah Thai Equity Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | อัตราผลตอบแทนรวมจากดัชนีตลาดหลักทรัพย์ฯ (SET TRI) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.5%** ของกอง (ส่วนที่เหลือ 3.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

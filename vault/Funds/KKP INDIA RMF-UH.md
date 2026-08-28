@@ -22,6 +22,9 @@ nav_date: "2026-08-24"
 fund_size: 17591342.68
 holdings_count: 5
 top10_pct_nav: 100.69
+market_countries: ["อินเดีย"]
+country_top: "อินเดีย"
+country_coverage_pct: 35.4
 master_fund: "Robeco Indian Equities F $"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
@@ -184,6 +187,14 @@ _KKP INDIA RMF - UNHEDGED_
 | 1 | ดัชนี MSCI India Net Total Return USD | ดัชนี MSCI India Net Total Return USD |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 35.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **35.4%** ของกอง (ส่วนที่เหลือ 64.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

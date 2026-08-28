@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 386064134.07
 holdings_count: 23
 top10_pct_nav: 104.87
+market_countries: ["สหราชอาณาจักร", "เยอรมนี", "ฝรั่งเศส"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 11.1
 master_fund: "DWS Invest Multi Opportunities USD RDMH"
 master_isin: "LU1433454672"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate, audience/restricted]
@@ -178,6 +181,17 @@ _SCB GLOBAL INCOME PLUS FUND (Not for Retail Investors)_
 | 1 | ไม่มี | เนื่องจากกองทุนหลักไม่มีตัวชี้วัดผลการดำเนินงาน เพราะเป็นการลงทุนแบบผสมที่เน้นสร้างรายได้ระหว่างการลงทุนเป็นหลัก จึงไม่มีดัชนีใดที่เหมาะสม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 7.5 |
+| เยอรมนี | 1.3 |
+| ฝรั่งเศส | 1.2 |
+| สหรัฐฯ | 1.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **11.1%** ของกอง (ส่วนที่เหลือ 88.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

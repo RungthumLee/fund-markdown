@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 46600485.58
 holdings_count: 46
 top10_pct_nav: 98.96
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.3
 peer_group: "Miscellaneous"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
@@ -238,6 +241,14 @@ _Capital Protected Retirement Mutual Fund 5_
 | 1 | อัตราผลตอบแทนของสินทรัพย์คุ้มครองเงินต้น (Core Asset Index Return) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.3%** ของกอง (ส่วนที่เหลือ 1.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

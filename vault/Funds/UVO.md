@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 82974471.69
 holdings_count: 6
 top10_pct_nav: 100.21
+market_countries: ["สิงคโปร์", "สหรัฐฯ"]
+country_top: "สิงคโปร์"
+country_coverage_pct: 50.8
 peer_group: "Vietnam Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -168,6 +171,15 @@ _United Vietnam Opportunity Fund_
 | 2 | ดัชนี FTSE Vietnam Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน เพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สิงคโปร์ | 47.7 |
+| สหรัฐฯ | 3.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **50.8%** ของกอง (ส่วนที่เหลือ 49.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

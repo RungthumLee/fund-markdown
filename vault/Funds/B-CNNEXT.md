@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 2029114522.78
 holdings_count: 34
 top10_pct_nav: 91.0
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 10.0
 peer_group: "China Equity - A Shares"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -164,6 +167,14 @@ _Bualuang China Next Economy Fund_
 | 2 | ดัชนี CSI 300 Total Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน และ ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 10 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **10.0%** ของกอง (ส่วนที่เหลือ 90.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

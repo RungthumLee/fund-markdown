@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 153853349.34
 holdings_count: 25
 top10_pct_nav: 91.95
+market_countries: ["สหรัฐฯ", "ไทย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 79.2
 peer_group: "Fund of Property fund-Thai+Foreign"
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -164,6 +167,15 @@ _BCAP Global Property and Infrastructure Flex Fund_
 | 2 | ดัชนี FTSE EPRA NAREIT Global REITS Net Total Return Index | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 54.5 |
+| ไทย | 24.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **79.2%** ของกอง (ส่วนที่เหลือ 20.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

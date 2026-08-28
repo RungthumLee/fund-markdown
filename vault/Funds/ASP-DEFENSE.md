@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 456719740.57
 holdings_count: 10
 top10_pct_nav: 99.37
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 10.4
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -166,6 +169,14 @@ _Asset Plus Defense Equity Fund_
 | 2 | ผลการดำเนินงานของกองทุนปลายทาง | ผลการดำเนินงานของกองทุน AMUNDI STOXX EUROPE DEFENSE UCITS ETF ACC ในสัดส่วน 75% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 10.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **10.4%** ของกอง (ส่วนที่เหลือ 89.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

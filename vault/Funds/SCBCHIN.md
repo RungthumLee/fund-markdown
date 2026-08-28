@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 449991941.09
 holdings_count: 65
 top10_pct_nav: 105.01
+market_countries: ["ฮ่องกง", "สหรัฐฯ", "จีน"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 36.4
 master_fund: "UBS (Lux) ES All China (USD) I A1 acc"
 master_isin: "LU1867708205"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -204,6 +207,16 @@ _SCB Active All China Equity Fund_
 | 1 | ดัชนี Bloomberg China Large & Mid Cap Net Return USD | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 23.5 |
+| สหรัฐฯ | 7 |
+| จีน | 5.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.4%** ของกอง (ส่วนที่เหลือ 63.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

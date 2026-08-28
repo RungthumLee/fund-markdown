@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 22493561.96
 holdings_count: 31
 top10_pct_nav: 56.5
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.8
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -212,6 +215,14 @@ _ONE DELIGHT FUND_
 | 1 | ดัชนี MSCI Emerging Markets Index | ดัชนี MSCI Emerging Markets Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.8%** ของกอง (ส่วนที่เหลือ 1.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

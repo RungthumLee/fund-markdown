@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 25554689.7
 holdings_count: 3
 top10_pct_nav: 100.29
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "เยอรมนี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 48.6
 master_fund: "VanEck Quantum Computing UCITS ETF A USD Acc"
 peer_group: "Technology Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
@@ -167,6 +170,16 @@ _XSpring Quantum Computing Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 29.6 |
+| ญี่ปุ่น | 14.3 |
+| เยอรมนี | 4.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.6%** ของกอง (ส่วนที่เหลือ 51.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

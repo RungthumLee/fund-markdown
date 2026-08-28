@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 114666115.13
 holdings_count: 3
 top10_pct_nav: 100.02
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส", "สวิตเซอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 57.7
 master_fund: "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
@@ -152,6 +155,19 @@ _LH GRID FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 29.3 |
+| ฝรั่งเศส | 8.8 |
+| สวิตเซอร์แลนด์ | 7.8 |
+| เยอรมนี | 4.3 |
+| สหราชอาณาจักร | 4.2 |
+| อิตาลี | 3.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **57.7%** ของกอง (ส่วนที่เหลือ 42.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

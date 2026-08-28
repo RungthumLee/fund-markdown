@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 533327823.87
 holdings_count: 19
 top10_pct_nav: 102.17
+market_countries: ["สหรัฐฯ", "แคนาดา", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 48.8
 master_fund: "DWS Invest Global Infras IDH (P)"
 master_isin: "LU1217772315"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -179,6 +182,17 @@ _SCB GLOBAL INFRASTRUCTURE  RMF_
 | 1 | ไม่มี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 27.2 |
+| แคนาดา | 11.3 |
+| ฝรั่งเศส | 5.3 |
+| สหราชอาณาจักร | 4.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.8%** ของกอง (ส่วนที่เหลือ 51.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

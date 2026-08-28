@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 143868192.34
 holdings_count: 24
 top10_pct_nav: 81.59
+market_countries: ["สหรัฐฯ", "ไทย", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 82.6
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -197,6 +200,18 @@ _Asset Plus Active Asset Allocation Fund_
 | 7 | อัตราผลตอบแทนรวมของ Corporate Bond Index (BBB up) ที่มีอายุคงเหลือระหว่าง 1-3 ปี | อัตราผลตอบแทนรวมของ Corporate Bond Index (BBB up) ที่มีอายุคงเหลือระหว่าง 1-3 ปี สัดส่วน 60.00% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 56.4 |
+| ไทย | 20.1 |
+| ญี่ปุ่น | 2.5 |
+| เยอรมนี | 2.1 |
+| ฮ่องกง | 1.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **82.6%** ของกอง (ส่วนที่เหลือ 17.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

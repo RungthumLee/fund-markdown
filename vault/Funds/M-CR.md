@@ -23,6 +23,9 @@ nav_date: "2026-08-21"
 fund_size: 28526820.25
 holdings_count: 3
 top10_pct_nav: 100.16
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.6
 fund_managers: ["นาย กมลสิฐิ์ ขวัญใจธัญญา", "นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/mixed, risk/low, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/active, use/accumulate]
 ---
@@ -211,6 +214,14 @@ _MFC Capital Protection Retirement Mutual Fund_
 | 1 | อัตราดอกเบี้ยเงินฝากประจํา 1 ปี เฉลี่ยประเภทบุคคลธรรมดาวงเงิน 1 ล้านบาท ของธนาคารกรุงเทพ, ธนาคารกสิกรไทย, และธนาคารไทยพาณิชย์ | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.6%** ของกอง (ส่วนที่เหลือ 0.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1218729883.71
 holdings_count: 17
 top10_pct_nav: 104.51
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 46.0
 master_fund: "MS INVF Global Opportunity Z"
 master_isin: "LU0552385535"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
@@ -290,6 +293,18 @@ _Principal Global Opportunity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 25.9 |
+| ไต้หวัน | 8.1 |
+| เนเธอร์แลนด์ | 5.7 |
+| เกาหลีใต้ | 3.5 |
+| อิตาลี | 2.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.0%** ของกอง (ส่วนที่เหลือ 54.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

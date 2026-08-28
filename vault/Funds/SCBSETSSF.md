@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 814646742.98
 holdings_count: 123
 top10_pct_nav: 52.08
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.4
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
@@ -173,6 +176,14 @@ _SCB SET Index Super Savings Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.4%** ของกอง (ส่วนที่เหลือ 2.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

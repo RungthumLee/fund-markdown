@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 199355693.23
 holdings_count: 12
 top10_pct_nav: 107.65
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 76.2
 master_fund: "Global X Japan Tech Top 20 ETF"
 peer_group: "Japan Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
@@ -166,6 +169,14 @@ _XSpring Japan Equity Top Technology_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 76.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **76.2%** ของกอง (ส่วนที่เหลือ 23.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

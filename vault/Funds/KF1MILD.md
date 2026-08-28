@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 561174212.86
 holdings_count: 17
 top10_pct_nav: 90.45
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.5
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -209,6 +212,14 @@ _Krungsri The One Mild Fund_
 | 7 | Morningstar US Core Bond TR USD | ในสกุลเงินดอลลาร์สหรัฐ ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.5%** ของกอง (ส่วนที่เหลือ 2.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

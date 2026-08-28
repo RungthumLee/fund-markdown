@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 134747.32
 holdings_count: 34
 top10_pct_nav: 60.98
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.2
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
@@ -263,6 +266,14 @@ _KKP SELECT EQUITY FUND_
 | 1 | ดัชนีผลตอบแทนรวม SET 50 Free Float Adjusted Market Capitalization Weighted (SET50FF TRI) | ดัชนีผลตอบแทนรวม SET 50 Free Float Adjusted Market Capitalization Weighted (SET50FF TRI) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.2%** ของกอง (ส่วนที่เหลือ 1.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

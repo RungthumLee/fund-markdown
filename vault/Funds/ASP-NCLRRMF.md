@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 70182014.42
 holdings_count: 11
 top10_pct_nav: 101.43
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 99.9
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -170,6 +173,15 @@ _Asset Plus Nuclear Energy RMF Fund_
 | 1 | ดัชนี MSCI ACWI Net Total Return USD | ดัชนี MSCI ACWI Net Total Return USD ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 94.6 |
+| ฝรั่งเศส | 5.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.9%** ของกอง (ส่วนที่เหลือ 0.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

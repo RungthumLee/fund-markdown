@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 75870158.12
 holdings_count: 10
 top10_pct_nav: 100.85
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 16.1
 master_fund: "AXAWF Global Optimal Income F Cap EUR"
 master_isin: "LU0465917473"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -207,6 +210,15 @@ _KTAM Global Optimal Income Fund_
 | 1 | ไม่มี | ไม่มี เนื่องจากกองทุนหลักไม่มีตัวชี้วัด |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 12.2 |
+| สหราชอาณาจักร | 3.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **16.1%** ของกอง (ส่วนที่เหลือ 83.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

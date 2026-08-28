@@ -23,6 +23,9 @@ nav_date: "2026-06-30"
 fund_size: 10014562.17
 holdings_count: 5
 top10_pct_nav: 100.33
+market_countries: ["สหราชอาณาจักร", "สหรัฐฯ"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 100.0
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t4, fx/discretionary, struct/direct, use/accumulate, audience/restricted]
 ---
@@ -159,6 +162,15 @@ _ONE LIFE INSURANCE SETTLEMENT USD FUND NOT FOR RETAIL INVESTORS_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 97.1 |
+| สหรัฐฯ | 2.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.0%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

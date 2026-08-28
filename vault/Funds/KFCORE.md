@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 882936786.97
 holdings_count: 10
 top10_pct_nav: 100.28
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 13.4
 master_fund: "BGF ESG Multi-Asset I2 USD H"
 master_isin: "LU2349430145"
 peer_group: "Foreign Investment Allocation"
@@ -175,6 +178,15 @@ _Krungsri Global Core Allocation Fund_
 | 1 | ไม่มี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 9 |
+| สหราชอาณาจักร | 4.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **13.4%** ของกอง (ส่วนที่เหลือ 86.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

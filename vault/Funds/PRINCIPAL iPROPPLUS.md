@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 614859126.87
 holdings_count: 52
 top10_pct_nav: 64.69
+market_countries: ["ไทย", "สิงคโปร์"]
+country_top: "ไทย"
+country_coverage_pct: 96.9
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
@@ -184,6 +187,15 @@ _Principal Property Income Plus Health Fund_
 | 3 | ดัชนี FTSE Strait times REIT Index | FSTREI TRI Index (THB) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 55.9 |
+| สิงคโปร์ | 41 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.9%** ของกอง (ส่วนที่เหลือ 3.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

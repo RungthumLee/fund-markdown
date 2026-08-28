@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 892821659.82
 holdings_count: 51
 top10_pct_nav: 109.05
+market_countries: ["ฮ่องกง", "สหรัฐฯ"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 83.0
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -223,6 +226,15 @@ _Principal China Technology Fund_
 | 6 | Hang Seng TECH Index Net Total Return Index | HSTECHN Index adjusted with FX hedging cost |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 71.5 |
+| สหรัฐฯ | 11.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **83.0%** ของกอง (ส่วนที่เหลือ 17.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 79885847.76
 holdings_count: 24
 top10_pct_nav: 105.71
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 102.2
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
@@ -295,6 +298,14 @@ _Principal Gold Income Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 102.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **102.2%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 1988152053.66
 holdings_count: 17
 top10_pct_nav: 103.37
+market_countries: ["สหรัฐฯ", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 42.3
 master_fund: "VistaShares Artificial Intelligence Supercycle ETF"
 master_isin: "US45259A8457"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล  ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
@@ -173,6 +176,15 @@ _DAOL ARTIFICIAL INTELLIGENCE SUPERCYCLE FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 34.3 |
+| เกาหลีใต้ | 8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.3%** ของกอง (ส่วนที่เหลือ 57.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

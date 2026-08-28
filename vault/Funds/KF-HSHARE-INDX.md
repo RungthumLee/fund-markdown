@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1691401247.45
 holdings_count: 10
 top10_pct_nav: 98.24
+market_countries: ["ฮ่องกง"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 30.8
 master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
 peer_group: "Greater China Equity"
@@ -195,6 +198,14 @@ Sponsor : Hang Seng Investment Management Limited ที่จัดตั้ง
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คํานวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 30.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **30.8%** ของกอง (ส่วนที่เหลือ 69.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

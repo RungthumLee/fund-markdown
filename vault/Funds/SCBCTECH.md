@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 18972156.33
 holdings_count: 96
 top10_pct_nav: 104.25
+market_countries: ["ฮ่องกง", "สหรัฐฯ", "จีน"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 56.6
 master_fund: "Invesco China Technology ETF"
 master_isin: "US46138E8003"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
@@ -324,6 +327,16 @@ _SCB China Technology_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 95%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 5%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 41.9 |
+| สหรัฐฯ | 10.9 |
+| จีน | 3.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **56.6%** ของกอง (ส่วนที่เหลือ 43.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 3199932155.5
 holdings_count: 75
 top10_pct_nav: 36.26
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 83.4
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
@@ -157,6 +160,14 @@ _Principal Fixed Income Fund_
 | 3 | ดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | GovBond 1-3Yrs Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 83.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **83.4%** ของกอง (ส่วนที่เหลือ 16.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

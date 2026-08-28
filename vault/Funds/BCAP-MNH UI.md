@@ -23,6 +23,9 @@ nav_date: "2026-08-21"
 fund_size: 4982716087.16
 holdings_count: 17
 top10_pct_nav: 106.63
+market_countries: ["เกิร์นซีย์"]
+country_top: "เกิร์นซีย์"
+country_coverage_pct: 13.7
 peer_group: "Miscellaneous"
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate, audience/restricted]
 ---
@@ -171,6 +174,14 @@ _BCAP Market Neutral Hedge Fund Not for Retail Investors_
 | 1 | ไม่มี | เนื่องจากไม่มีดัชนีชี้วัดใดที่มีนโยบายการลงทุนคล้ายกันให้สามารถเปรียบเทียบได้อย่างเหมาะสม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เกิร์นซีย์ | 13.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **13.7%** ของกอง (ส่วนที่เหลือ 86.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

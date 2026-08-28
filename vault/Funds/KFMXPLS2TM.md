@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1449884755.14
 holdings_count: 134
 top10_pct_nav: 34.27
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 95.9
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/total-market, fx/fully-hedged, struct/direct, style/active, use/accumulate]
@@ -174,6 +177,15 @@ _Krungsri Mixed Plus 2TM Fund_
 | 5 | ผลการดำเนินงานของ SPDR Gold Share ETF | ในสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 89.2 |
+| สหรัฐฯ | 6.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.9%** ของกอง (ส่วนที่เหลือ 4.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

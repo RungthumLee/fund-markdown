@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 73853314.96
 holdings_count: 7
 top10_pct_nav: 98.2
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 53.4
 master_fund: "State Street Utilities Select Sector SPDR ETF"
 master_isin: "US81369Y8865"
 peer_group: "US Equity"
@@ -177,6 +180,14 @@ _TISCO US Utilities Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 53.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **53.4%** ของกอง (ส่วนที่เหลือ 46.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

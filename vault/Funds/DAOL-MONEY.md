@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 3502208367.02
 holdings_count: 37
 top10_pct_nav: 67.89
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 88.6
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, fx/discretionary, struct/direct, style/enhanced-index, use/park-cash]
 ---
 
@@ -184,6 +187,14 @@ _DAOL MONEY MARKET FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 88.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **88.6%** ของกอง (ส่วนที่เหลือ 11.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

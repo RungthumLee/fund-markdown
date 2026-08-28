@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 928394122.61
 holdings_count: 5
 top10_pct_nav: 101.83
+market_countries: ["สหรัฐฯ", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 101.4
 peer_group: "Health Care"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -168,6 +171,15 @@ _United China Healthcare Innovation Fund_
 | 1 | MSCI China All Shares Health Care 10/40 Net Return USD Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 50.8 |
+| ฮ่องกง | 50.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **101.4%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

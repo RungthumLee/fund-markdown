@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 477150014.42
 holdings_count: 8
 top10_pct_nav: 100.95
+market_countries: ["อินเดีย"]
+country_top: "อินเดีย"
+country_coverage_pct: 42.0
 master_fund: "FSSA Indian Subcontinent III USD Acc"
 master_isin: "IE00B6Y13T06"
 peer_group: "India Equity"
@@ -185,6 +188,14 @@ _Krungsri India Equity RMF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คํานวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 42 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.0%** ของกอง (ส่วนที่เหลือ 58.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

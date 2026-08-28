@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1325097224.81
 holdings_count: 3
 top10_pct_nav: 100.72
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "ฮ่องกง"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 35.4
 master_fund: "iShares MSCI Emerging Markets ETF"
 master_isin: "US4642872349"
 peer_group: "Emerging Market"
@@ -175,6 +178,16 @@ _Eastspring Emerging Markets Equity Index Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ในรูปสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 100 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 17.9 |
+| เกาหลีใต้ | 12.4 |
+| ฮ่องกง | 5.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **35.4%** ของกอง (ส่วนที่เหลือ 64.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

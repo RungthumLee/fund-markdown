@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 812033690.14
 holdings_count: 18
 top10_pct_nav: 89.54
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 85.6
 peer_group: "Foreign Investment Allocation"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
@@ -196,6 +199,14 @@ _United Harmony-Rock Fund_
 | 2 | อัตราดอกเบี้ยเงินฝากประจำ 1 ปี วงเงินน้อยกว่า 5 ล้านบาท เฉลี่ยของ 3 ธนาคารพาณิชย์ขนาดใหญ่ ได้แก่ ธนาคารกรุงเทพ ธนาคารกสิกรไทย และธนาคารไทยพาณิชย์ หลังหักภาษี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 85.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **85.6%** ของกอง (ส่วนที่เหลือ 14.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

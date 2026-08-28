@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 47244850.78
 holdings_count: 12
 top10_pct_nav: 119.83
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 59.8
 master_fund: "Defiance Drone and Modern Warfare ETF"
 master_isin: "US26922B3942"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
@@ -178,6 +181,14 @@ _DAOL DRONE AND MODERN WARFARE FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 59.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **59.8%** ของกอง (ส่วนที่เหลือ 40.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

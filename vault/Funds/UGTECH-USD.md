@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 18208799.52
 holdings_count: 3
 top10_pct_nav: 105.21
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 47.2
 master_fund: "Franklin Technology I Acc USD"
 master_isin: "LU0626261944"
 peer_group: "Technology Equity"
@@ -181,6 +184,14 @@ _United USD Global Technology Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ในรูปสกุลเงินดอลลาร์สหรัฐอเมริกา (USD) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 47.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **47.2%** ของกอง (ส่วนที่เหลือ 52.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

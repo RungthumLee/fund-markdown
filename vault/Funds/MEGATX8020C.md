@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 11016509.79
 holdings_count: 22
 top10_pct_nav: 64.6
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 84.9
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
@@ -226,6 +229,14 @@ _MEGA 20 THAILAND ESG EXTRA FUND 80-20 C_
 | 2 | SET ESG Total Return Index | SET ESG Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 84.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **84.9%** ของกอง (ส่วนที่เหลือ 15.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

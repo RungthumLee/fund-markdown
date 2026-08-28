@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 7207836.23
 holdings_count: 12
 top10_pct_nav: 94.43
+market_countries: ["ฝรั่งเศส", "เยอรมนี", "สเปน"]
+country_top: "ฝรั่งเศส"
+country_coverage_pct: 94.4
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, tax/rmf, use/tax-saving]
 ---
 
@@ -168,6 +171,19 @@ _MEGA 10 EURO RETIREMENT MUTUAL FUND_
 | 1 | ดัชนี EURO STOXX 50 | ดัชนี EURO STOXX 50 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฝรั่งเศส | 28.1 |
+| เยอรมนี | 19.1 |
+| สเปน | 18.9 |
+| เบลเยียม | 9.5 |
+| เนเธอร์แลนด์ | 9.4 |
+| อิตาลี | 9.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.4%** ของกอง (ส่วนที่เหลือ 5.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

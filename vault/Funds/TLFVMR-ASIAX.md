@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 3372011156.12
 holdings_count: 14
 top10_pct_nav: 98.59
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 97.7
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
@@ -167,6 +170,14 @@ Risk: การวิเคราะห์วัดค่าความเส�
 | 1 | Morningstar Asia Pacific ex-Japan NR USD | Morningstar Asia Pacific ex-Japan NR USD |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 97.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.7%** ของกอง (ส่วนที่เหลือ 2.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

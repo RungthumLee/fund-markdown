@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 4555294.36
 holdings_count: 7
 top10_pct_nav: 101.25
+market_countries: ["สหราชอาณาจักร", "สวิตเซอร์แลนด์"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 2.9
 master_fund: "BGF Dynamic High Income D2"
 master_isin: "LU1564329206"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -204,6 +207,15 @@ _KTAM Dynamic High Income Fund_
 | 1 | ไม่มี | ไม่มีดัชนีชี้วัด เนื่องจากกองทุน BGF Dynamic High Income Fund (กองทุนหลัก) ไม่มีดัชนีชี้วัด |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 1.6 |
+| สวิตเซอร์แลนด์ | 1.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **2.9%** ของกอง (ส่วนที่เหลือ 97.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

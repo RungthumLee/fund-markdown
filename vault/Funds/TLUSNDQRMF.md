@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 52039734.51
 holdings_count: 3
 top10_pct_nav: 101.78
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 46.0
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
@@ -179,6 +182,14 @@ _TALIS US EQUITY NDQ RETIREMENT MUTUAL FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.0%** ของกอง (ส่วนที่เหลือ 54.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

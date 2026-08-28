@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 162173068.3
 holdings_count: 44
 top10_pct_nav: 97.95
+market_countries: ["ญี่ปุ่น", "ออสเตรเลีย", "ไทย"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 89.8
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t3, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -195,6 +198,17 @@ _SCB SHORT TERM AUD OPEN  END FUND_
 | 1 | อัตราดอกเบี้ย The Reserve Bank of Australia (RBA) Interbank Overnight Cash | ปรับด้วยอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 63.9 |
+| ออสเตรเลีย | 21.9 |
+| ไทย | 2.4 |
+| ระหว่างประเทศ | 1.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **89.8%** ของกอง (ส่วนที่เหลือ 10.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

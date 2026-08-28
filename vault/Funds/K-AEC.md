@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 65689915.35
 holdings_count: 22
 top10_pct_nav: 78.73
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 9.6
 peer_group: "ASEAN Equity"
 fund_managers: ["นาย สุธี เลิศสาครศิริ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -189,6 +192,14 @@ _K ASEAN Economic Community Equity Fund_
 | 1 | ดัชนี MSCI AC Asean Total Return USD (Net Total return) | ปรับด้วยอัตราแลกเปลี่ยน เมื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้เป็นตัวแทนองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 9.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **9.6%** ของกอง (ส่วนที่เหลือ 90.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2460325276.52
 holdings_count: 36
 top10_pct_nav: 55.94
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 91.5
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
@@ -199,6 +202,14 @@ _LH TREASURY FUND_
 | 3 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 1 เดือน | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 91.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **91.5%** ของกอง (ส่วนที่เหลือ 8.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

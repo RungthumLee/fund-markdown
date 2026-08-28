@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 190035113.43
 holdings_count: 62
 top10_pct_nav: 49.81
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.7
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
@@ -169,6 +172,14 @@ _FLEXIBLE PLUS RETIREMENT MUTUAL FUND_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | SET Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.7%** ของกอง (ส่วนที่เหลือ 2.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

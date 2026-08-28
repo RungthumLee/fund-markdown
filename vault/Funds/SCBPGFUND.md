@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 427094657.16
 holdings_count: 45
 top10_pct_nav: 103.31
+market_countries: ["สหรัฐฯ", "เยอรมนี", "อิตาลี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 28.4
 master_fund: "DWS Invest CROCI Sectors Plus FCH (P)"
 master_isin: "LU1701862812"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
@@ -300,6 +303,16 @@ _SCB PLATINUM GLOBAL OPEN END FUND_
 | 1 | Bloomberg Developed Markets Large & Mid Cap Net Return Index (EUR) | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 21.2 |
+| เยอรมนี | 3.7 |
+| อิตาลี | 3.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **28.4%** ของกอง (ส่วนที่เหลือ 71.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

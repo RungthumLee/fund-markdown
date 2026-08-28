@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1881750458.66
 holdings_count: 62
 top10_pct_nav: 58.35
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.9
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
@@ -192,6 +195,14 @@ _The Krung Thai Dividend Selected  Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) สัดส่วน 100% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.9%** ของกอง (ส่วนที่เหลือ 4.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

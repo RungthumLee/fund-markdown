@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 29957219.4
 holdings_count: 28
 top10_pct_nav: 258.1
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 111.5
 peer_group: "Greater China Equity"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, use/accumulate]
@@ -169,6 +172,14 @@ _ไม่มีข้อมูลผลการดำเนินงานจ�
 | 1 | ดัชนี CSI 300 Total Return Index | CSI 300 Total Return Index สัดส่วน 100% ในสกุลเงินหยวน (RMB) ปรับด้วยอัตราแลกเปลี่ยนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 111.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **111.5%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

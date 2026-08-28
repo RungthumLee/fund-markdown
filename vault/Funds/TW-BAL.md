@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 36119609.79
 holdings_count: 46
 top10_pct_nav: 50.52
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 91.3
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
@@ -167,6 +170,14 @@ _TISCO Wealth Balance Fund_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 91.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **91.3%** ของกอง (ส่วนที่เหลือ 8.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

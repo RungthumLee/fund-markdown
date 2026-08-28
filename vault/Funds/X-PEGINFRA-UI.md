@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 235756932.05
 holdings_count: 4
 top10_pct_nav: 100.12
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 3.9
 master_fund: "Macquarie Infrastructure Fund"
 peer_group: "Miscellaneous"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
@@ -169,6 +172,14 @@ _XSpring Private Equity Global Infrastructure Not for Retail Investors_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 3.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **3.9%** ของกอง (ส่วนที่เหลือ 96.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

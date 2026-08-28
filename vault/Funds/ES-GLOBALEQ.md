@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 222014245.71
 holdings_count: 13
 top10_pct_nav: 103.84
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 4.7
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -172,6 +175,14 @@ _Eastspring Global Equity Fund_
 | 1 | Bloomberg World Large & Mid Cap Net Return Index | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 95 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 5 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 4.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **4.7%** ของกอง (ส่วนที่เหลือ 95.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

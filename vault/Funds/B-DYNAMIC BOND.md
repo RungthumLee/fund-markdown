@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 6109715563.17
 holdings_count: 40
 top10_pct_nav: 101.63
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 7.2
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -170,6 +173,14 @@ _Bualuang Dynamic Bond Fund_
 | 4 | ดัชนี Bloomberg Short Treasury 1 - 3 Months Total Return Index Unhedged | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 7.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **7.2%** ของกอง (ส่วนที่เหลือ 92.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

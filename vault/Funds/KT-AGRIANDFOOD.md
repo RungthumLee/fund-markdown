@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 576556698.33
 holdings_count: 2
 top10_pct_nav: 100.82
+market_countries: ["สหรัฐฯ", "แคนาดา", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 51.3
 master_fund: "iShares Agribusiness UCITS ETF USD (Acc)"
 master_isin: "IE00B6R52143"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -177,6 +180,17 @@ _KTAM Sustainable Agriculture and Food Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก (100%) ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 37.8 |
+| แคนาดา | 6.1 |
+| ญี่ปุ่น | 4.3 |
+| ฮ่องกง | 3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **51.3%** ของกอง (ส่วนที่เหลือ 48.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

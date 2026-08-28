@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 357215020.62
 holdings_count: 68
 top10_pct_nav: 51.23
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.8
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
@@ -163,6 +166,14 @@ _SCB Flexible Fund_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.8%** ของกอง (ส่วนที่เหลือ 3.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

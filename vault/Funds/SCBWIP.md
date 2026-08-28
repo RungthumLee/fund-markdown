@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 98751215.57
 holdings_count: 20
 top10_pct_nav: 100.26
+market_countries: ["สหรัฐฯ", "ไทย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 38.8
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -234,6 +237,15 @@ _SCB World Integrated Portfolio_
 | 5 | Bloomberg Singapore REIT Net Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 24.6 |
+| ไทย | 14.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **38.8%** ของกอง (ส่วนที่เหลือ 61.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

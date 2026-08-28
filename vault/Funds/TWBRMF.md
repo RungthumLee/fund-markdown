@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 10589959.16
 holdings_count: 26
 top10_pct_nav: 67.63
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.8
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ศรสวรรค์เติมวุฒิกุล", "นาย นิพจน์ไกรลาศโอฬาร"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -208,6 +211,14 @@ Exclusionary Screening โดยการคัดกรองบริษัท
 | 1 | ดัชนีผลตอบแทนรวม SET Well-being (SETWB TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.8%** ของกอง (ส่วนที่เหลือ 2.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1149749171.33
 holdings_count: 144
 top10_pct_nav: 107.69
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "ฮ่องกง"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 39.6
 master_fund: "iShares Asia Trust - iShares Core MSCI AC Asia ex Japan Index ETF"
 master_isin: "HK0000051877"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
@@ -287,6 +290,17 @@ _SCB Asia ex Japan Equity Index_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 95%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 5%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 18.1 |
+| เกาหลีใต้ | 13.8 |
+| ฮ่องกง | 6.6 |
+| สิงคโปร์ | 1.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **39.6%** ของกอง (ส่วนที่เหลือ 60.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

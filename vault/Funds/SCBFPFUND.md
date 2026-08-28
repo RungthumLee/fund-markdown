@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 10186110778.62
 holdings_count: 123
 top10_pct_nav: 51.09
+market_countries: ["ไทย", "เกาหลีใต้", "ฮ่องกง"]
+country_top: "ไทย"
+country_coverage_pct: 98.2
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -309,6 +312,17 @@ _SCB FIXED INCOME PLUS FUND_
 | 3 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.3 |
+| เกาหลีใต้ | 1.5 |
+| ฮ่องกง | 1.2 |
+| ระหว่างประเทศ | 1.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.2%** ของกอง (ส่วนที่เหลือ 1.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

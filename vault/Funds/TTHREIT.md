@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 350560456.83
 holdings_count: 19
 top10_pct_nav: 76.97
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.8
 peer_group: "Fund of Property Fund - Thai"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -170,6 +173,14 @@ _TISCO Property and Infrastructure Flexible Fund_
 | 2 | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.8%** ของกอง (ส่วนที่เหลือ 3.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

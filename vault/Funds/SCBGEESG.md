@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 155942222.22
 holdings_count: 19
 top10_pct_nav: 105.1
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 32.1
 master_fund: "Janus Henderson Hrzn Glb Sus Eq IU2 USD"
 master_isin: "LU1983259703"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
@@ -258,6 +261,16 @@ _SCB Global Sustainable Equity Fund_
 | 1 | Bloomberg Developed Markets Large & Mid Cap Net Return Index (USD) | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 26.4 |
+| ไต้หวัน | 3.2 |
+| ฝรั่งเศส | 2.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **32.1%** ของกอง (ส่วนที่เหลือ 67.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 228718662.06
 holdings_count: 59
 top10_pct_nav: 102.0
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 86.8
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -175,6 +178,15 @@ _SCB GLOBAL WEALTH PLUS RMF_
 | 3 | Bloomberg World Large & Mid Cap Net Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 95%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 5%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 82 |
+| ญี่ปุ่น | 4.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **86.8%** ของกอง (ส่วนที่เหลือ 13.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

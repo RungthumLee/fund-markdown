@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 6221777.08
 holdings_count: 50
 top10_pct_nav: 55.75
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.2
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย ปีติ ประติพัทธิ์พงษ์"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
@@ -233,6 +236,14 @@ _Krungsri Growth Balance 70/30 Fund_
 | 2 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.2%** ของกอง (ส่วนที่เหลือ 1.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

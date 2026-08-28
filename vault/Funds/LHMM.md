@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1913555965.85
 holdings_count: 47
 top10_pct_nav: 51.34
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.0
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
@@ -240,6 +243,14 @@ _LH MONEY MARKET FUND_
 | 2 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 3 เดือน | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.0%** ของกอง (ส่วนที่เหลือ 6.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

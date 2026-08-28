@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 102305802.42
 holdings_count: 35
 top10_pct_nav: 71.78
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 63.1
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
@@ -165,6 +168,14 @@ _TISCO Aggressive Growth Fund_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 63.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **63.1%** ของกอง (ส่วนที่เหลือ 36.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

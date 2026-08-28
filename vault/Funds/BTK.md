@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 728591495.93
 holdings_count: 17
 top10_pct_nav: 83.85
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.4
 peer_group: "Equity Large Cap"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
@@ -160,6 +163,14 @@ _Bualuang Thanakom Open-end Fund_
 | 3 | ดัชนีผลตอบแทนรวมธุรกิจธนาคาร (BANK TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.4%** ของกอง (ส่วนที่เหลือ 3.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 22680980279.35
 holdings_count: 83
 top10_pct_nav: 31.7
+market_countries: ["ไทย", "ระหว่างประเทศ", "มาเลเซีย"]
+country_top: "ไทย"
+country_coverage_pct: 99.8
 peer_group: "Short Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -171,6 +174,17 @@ _Bualuang Short Term Fixed Income Plus Fund_
 | 4 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 80.6 |
+| ระหว่างประเทศ | 11.6 |
+| มาเลเซีย | 6.1 |
+| สิงคโปร์ | 1.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.8%** ของกอง (ส่วนที่เหลือ 0.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

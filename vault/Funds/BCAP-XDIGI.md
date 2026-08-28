@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 72481925.88
 holdings_count: 13
 top10_pct_nav: 98.98
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 82.4
 peer_group: "Global Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -166,6 +169,14 @@ _BCAP NEXT GEN Digital Lifestyle Fund_
 | 1 | ดัชนี MSCI ACWI Net Total Return USD | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 82.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **82.4%** ของกอง (ส่วนที่เหลือ 17.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

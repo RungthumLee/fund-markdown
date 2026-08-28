@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 723933328.96
 holdings_count: 12
 top10_pct_nav: 101.84
+market_countries: ["สหรัฐฯ", "อิตาลี", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 56.7
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
 master_isin: "IE00B3X5FG30"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
@@ -169,6 +172,19 @@ _Principal Global Infrastructure Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 21.6 |
+| อิตาลี | 10.1 |
+| สหราชอาณาจักร | 8 |
+| ฝรั่งเศส | 7.9 |
+| แคนาดา | 4.6 |
+| เนเธอร์แลนด์ | 4.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **56.7%** ของกอง (ส่วนที่เหลือ 43.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

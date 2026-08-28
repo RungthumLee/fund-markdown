@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 26732803.55
 holdings_count: 21
 top10_pct_nav: 101.66
+market_countries: ["สหรัฐฯ", "เกาหลีใต้", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 56.0
 master_fund: "iShares Digital Entertainment and Education UCITS ETF USD (Acc)"
 master_isin: "IE00023EZQ82"
 tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -170,6 +173,16 @@ _DAOL GLOBAL EDUCATION EQUITY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 45.4 |
+| เกาหลีใต้ | 6.2 |
+| ญี่ปุ่น | 4.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **56.0%** ของกอง (ส่วนที่เหลือ 44.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

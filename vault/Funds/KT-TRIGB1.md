@@ -21,6 +21,9 @@ nav_date: "2026-08-25"
 fund_size: 174151605.22
 holdings_count: 8
 top10_pct_nav: 96.58
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 19.9
 tags: [fund, sec-data, asset/fixed-income, fx/discretionary, struct/direct, style/active, compliance/trigger-fund, use/accumulate]
 ---
 
@@ -125,6 +128,14 @@ _ไม่มีข้อมูล_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 19.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **19.9%** ของกอง (ส่วนที่เหลือ 80.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### สัดส่วนตามประเภทสินทรัพย์ (งวด 202607)
 

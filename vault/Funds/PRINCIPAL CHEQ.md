@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 482068866.92
 holdings_count: 19
 top10_pct_nav: 105.81
+market_countries: ["ฮ่องกง", "จีน"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 25.0
 master_fund: "Schroder ISF All China Equity C Acc USD"
 master_isin: "LU1831875205"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
@@ -205,6 +208,15 @@ _Principal China Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 18.2 |
+| จีน | 6.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **25.0%** ของกอง (ส่วนที่เหลือ 75.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

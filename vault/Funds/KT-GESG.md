@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 261736037.71
 holdings_count: 9
 top10_pct_nav: 98.1
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 42.8
 master_fund: "Schroder ISF Glbl Sust Gr C Acc USD"
 master_isin: "LU0557290854"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
@@ -265,6 +268,19 @@ _KTAM Global Sustainable Growth Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวนผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน ประมาณ 80% และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวนผลตอบแทน ประมาณ 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 26.4 |
+| ไต้หวัน | 5.1 |
+| เนเธอร์แลนด์ | 3.9 |
+| ญี่ปุ่น | 2.6 |
+| สเปน | 2.4 |
+| สหราชอาณาจักร | 2.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.8%** ของกอง (ส่วนที่เหลือ 57.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

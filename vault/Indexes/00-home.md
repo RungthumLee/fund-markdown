@@ -25,6 +25,7 @@ tags: [moc, home]
 | [[compare-fees]] | เทียบค่าธรรมเนียมในหมวดเดียวกัน |
 | [[screener]] | 🔎 คัดกรอง/เรียงกองด้วย Dataview (interactive) |
 | [[tags]] | 🏷️ แท็ก faceted + คำถามยอดฮิต (พักเงิน/จีน AI/ปันผล) |
+| [[by-country]] | 🌏 แยกตามประเทศตลาดหลักในพอร์ต (จากหลักทรัพย์จริง) |
 | [[../Factsheets/00-factsheets-index\|Factsheets]] | ข้อความจาก PDF |
 
 ## 📚 แนวคิดพื้นฐาน

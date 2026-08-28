@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 282224173.34
 holdings_count: 4
 top10_pct_nav: 100.55
+market_countries: ["เนเธอร์แลนด์"]
+country_top: "เนเธอร์แลนด์"
+country_coverage_pct: 99.5
 master_fund: "iShares MSCI Emerging Markets ex China ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
@@ -258,6 +261,14 @@ _KKP EMERGING MARKETS EX CHINA FUND - UNHEDGED_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เนเธอร์แลนด์ | 99.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.5%** ของกอง (ส่วนที่เหลือ 0.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

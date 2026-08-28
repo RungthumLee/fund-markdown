@@ -22,6 +22,9 @@ nav_date: "2026-08-24"
 fund_size: 2796339.99
 holdings_count: 3
 top10_pct_nav: 100.46
+market_countries: ["ฮ่องกง"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 3.7
 master_fund: "BSF Systematic APAC Eq Abs Rt D2 USD"
 master_isin: "LU1508158190"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, use/accumulate]
@@ -178,6 +181,14 @@ _SCB Asia Pacific Equity Absolute Return USD_
 | 1 | ไม่มี | เนื่องจากกองทุนหลักใช้กลยุทธ์ market neutral strategy และมุ่งหวังผลตอบแทนที่เป็นบวกในทุกสภาวะตลาด (absolute return) โดยไม่ได้อ้างอิงดัชนีชี้วัดใด |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 3.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **3.7%** ของกอง (ส่วนที่เหลือ 96.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

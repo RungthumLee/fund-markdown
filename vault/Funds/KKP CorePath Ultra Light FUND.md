@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 630394286.69
 holdings_count: 48
 top10_pct_nav: 74.09
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 27.8
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -231,6 +234,14 @@ _KKP CorePath Ultra Light FUND_
 | 6 | ดัชนี MSCI ACWI Net Total Return USD | ดัชนี MSCI ACWI Net Total Return USD |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 27.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **27.8%** ของกอง (ส่วนที่เหลือ 72.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

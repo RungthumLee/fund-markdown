@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 10195044.1
 holdings_count: 14
 top10_pct_nav: 101.15
+market_countries: ["สหรัฐฯ", "ฮ่องกง", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 49.2
 master_fund: "Artisan Developing World I USD Acc"
 master_isin: "IE00BYQRBG58"
 tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -174,6 +177,16 @@ _DAOL DEVELOPING WORLD FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 40.3 |
+| ฮ่องกง | 5.1 |
+| เนเธอร์แลนด์ | 3.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **49.2%** ของกอง (ส่วนที่เหลือ 50.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

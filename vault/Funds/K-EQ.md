@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 6089573.02
 holdings_count: 32
 top10_pct_nav: 73.56
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.3
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. นฤมล ว่องวุฒิพรชัย"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
@@ -212,6 +215,14 @@ _K Thai Equity Fund_
 | 1 | ดัชนีผลตอบแทนรวม SET High Dividend 30 (SETHD TRI) | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้กำหนดองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.3%** ของกอง (ส่วนที่เหลือ 0.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

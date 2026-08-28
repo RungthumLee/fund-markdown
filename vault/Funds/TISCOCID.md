@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 78436166.17
 holdings_count: 8
 top10_pct_nav: 100.14
+market_countries: ["อินเดีย"]
+country_top: "อินเดีย"
+country_coverage_pct: 16.4
 master_fund: "iShares MSCI India UCITS ETF USD Acc"
 master_isin: "IE00BZCQB185"
 peer_group: "Asia Pacific Ex Japan"
@@ -187,6 +190,14 @@ _TISCO China India Dividend Fund_
 | 3 | ดัชนี MSCI India | ปรับด้วยต้นทุนการป้องกันความเสี่ยง 90% และปรับด้วยอัตราแลกเปลี่ยน 10% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 16.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **16.4%** ของกอง (ส่วนที่เหลือ 83.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

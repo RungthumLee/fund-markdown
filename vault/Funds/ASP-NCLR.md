@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 207585531.58
 holdings_count: 11
 top10_pct_nav: 102.13
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 101.1
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -171,6 +174,15 @@ _Asset Plus Nuclear Energy Fund_
 | 1 | ดัชนี MSCI ACWI Net Total Return USD | ดัชนี MSCI ACWI Net Total Return USD ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 95.6 |
+| ฝรั่งเศส | 5.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **101.1%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

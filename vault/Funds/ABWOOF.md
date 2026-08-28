@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 70372253.11
 holdings_count: 11
 top10_pct_nav: 127.48
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 40.4
 master_fund: "abrdn-Global Sustainable Eqty Z Acc USD"
 master_isin: "LU0278912844"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -185,6 +188,16 @@ _abrdn Global Sustainable Equity Fund_
 | 3 | ดัชนี MSCI AC World | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวมnกองทุนป้องกันความเสี่ยงจากอัตราแลกเปลี่ยนตามดุลพินิจของผู้จัดการกองทุนโดยมีเป้าหมายป้องกันความเสี่ยงไม่น้อยกว่า 90% ทั้งนี้ตัวชี้วัดแสดงในรูปสกุลเงิน USD ซึ่งเป็นตัวชี้วัดเดียวกับกองทุนหลัก โดยมิได้ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแ |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 33.3 |
+| เนเธอร์แลนด์ | 4.5 |
+| ญี่ปุ่น | 2.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **40.4%** ของกอง (ส่วนที่เหลือ 59.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

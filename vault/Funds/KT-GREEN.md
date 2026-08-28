@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 134569607.92
 holdings_count: 12
 top10_pct_nav: 101.94
+market_countries: ["สหรัฐฯ", "สวิตเซอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 16.6
 master_fund: "Schroder ISF Glbl Alt Engy C Acc USD"
 master_isin: "LU2016063229"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -238,6 +241,15 @@ _KTAM Green Energy Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน ประมาณร้อยละ 80 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 20 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 13.9 |
+| สวิตเซอร์แลนด์ | 2.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **16.6%** ของกอง (ส่วนที่เหลือ 83.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

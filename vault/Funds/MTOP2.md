@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 92564962.62
 holdings_count: 40
 top10_pct_nav: 55.18
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.0
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย นรินทร์ จันทร์เนตร"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
@@ -163,6 +166,14 @@ _MFC Thai Opportunity Fund Series 2_
 | 2 | ผลตอบแทนรวมสุทธิของดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ BBB ขึ้นไป ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.0%** ของกอง (ส่วนที่เหลือ 3.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

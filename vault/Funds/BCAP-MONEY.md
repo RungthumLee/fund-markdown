@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1393908877.65
 holdings_count: 19
 top10_pct_nav: 85.49
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 104.6
 peer_group: "Money Market - Government"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t5, struct/direct, style/active, use/park-cash]
 ---
@@ -160,6 +163,14 @@ _BCAP Money Market Fund_
 | 2 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 1 เดือน | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 104.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **104.6%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 60577145.26
 holdings_count: 18
 top10_pct_nav: 98.26
+market_countries: ["สหรัฐฯ", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 97.9
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -245,6 +248,15 @@ _MFC Global Alpha Fund_
 | 1 | ดัชนี MSCI ACWI Net Total Return USD | MSCI All Country World Net Total Return USD Index สัดส่วน 100% ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน สัดส่วน 80% และปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน สัดส่วน 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 96.5 |
+| ฮ่องกง | 1.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.9%** ของกอง (ส่วนที่เหลือ 2.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

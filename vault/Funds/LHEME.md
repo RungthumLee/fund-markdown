@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 67740409.82
 holdings_count: 15
 top10_pct_nav: 108.75
+market_countries: ["เกาหลีใต้", "ไต้หวัน", "ฮ่องกง"]
+country_top: "เกาหลีใต้"
+country_coverage_pct: 37.9
 master_fund: "Schroder ISF Glb Em Mkt Opps A Acc USD"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
@@ -217,6 +220,17 @@ _LH EMERGING MARKETS - E FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เกาหลีใต้ | 16.3 |
+| ไต้หวัน | 14.2 |
+| ฮ่องกง | 3.9 |
+| จีน | 3.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.9%** ของกอง (ส่วนที่เหลือ 62.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

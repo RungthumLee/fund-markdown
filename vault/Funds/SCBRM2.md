@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 10922664501.19
 holdings_count: 95
 top10_pct_nav: 50.21
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.9
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
@@ -161,6 +164,14 @@ _SCB GOVERNMENT BOND RMF_
 | 2 | ดัชนีพันธบัตรรัฐบาลอายุน้อยกว่าเท่ากับ 10 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.9%** ของกอง (ส่วนที่เหลือ 3.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

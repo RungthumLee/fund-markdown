@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 252399600.58
 holdings_count: 25
 top10_pct_nav: 102.37
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 41.2
 master_fund: "First Trust Natural Gas ETF"
 master_isin: "US33733E8075"
 tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
@@ -183,6 +186,14 @@ _DAOL NATURAL GAS FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 41.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **41.2%** ของกอง (ส่วนที่เหลือ 58.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

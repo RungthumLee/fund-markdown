@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 124136426.16
 holdings_count: 38
 top10_pct_nav: 105.43
+market_countries: ["ฝรั่งเศส"]
+country_top: "ฝรั่งเศส"
+country_coverage_pct: 3.7
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -200,6 +203,14 @@ _MFC Global Smart Income Fund_
 | 2 | ดัชนี Bloomberg Barclays US MBS INDEX Total RETURN VALUE Unhedged USD | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฝรั่งเศส | 3.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **3.7%** ของกอง (ส่วนที่เหลือ 96.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

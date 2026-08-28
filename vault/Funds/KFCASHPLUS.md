@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 3305897889.44
 holdings_count: 25
 top10_pct_nav: 73.21
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.9
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธีรภาพ จิรศักยกุล", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/park-cash]
@@ -193,6 +196,14 @@ _Krungsri Cash Plus Fund_
 | 2 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 3 เดือน | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.9%** ของกอง (ส่วนที่เหลือ 3.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

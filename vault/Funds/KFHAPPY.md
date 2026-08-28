@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 449926306.87
 holdings_count: 101
 top10_pct_nav: 38.66
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 97.7
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/total-market, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
@@ -208,6 +211,15 @@ _Krungsri Happy Life Fund_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.5 |
+| สหรัฐฯ | 0.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.7%** ของกอง (ส่วนที่เหลือ 2.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

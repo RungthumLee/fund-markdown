@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2495335.43
 holdings_count: 38
 top10_pct_nav: 76.01
+market_countries: ["ไทย", "สิงคโปร์", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 94.4
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย ธนกร ทองมาก"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -208,6 +211,16 @@ _DAOL FLEXIBLE PROPERTY INFRA INCOME FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 42.4 |
+| สิงคโปร์ | 29.5 |
+| สหรัฐฯ | 22.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.4%** ของกอง (ส่วนที่เหลือ 5.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

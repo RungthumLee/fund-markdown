@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 103847871.13
 holdings_count: 2
 top10_pct_nav: 100.31
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 45.2
 master_fund: "JPM Nasdaq Equity Premium Income Active UCITS ETF USD Dist"
 master_isin: "IE000U9J8HX9"
 peer_group: "US Equity"
@@ -285,6 +288,14 @@ JEPQ LN
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่ากับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 45.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.2%** ของกอง (ส่วนที่เหลือ 54.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

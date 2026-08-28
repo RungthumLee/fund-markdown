@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 35327717.3
 holdings_count: 20
 top10_pct_nav: 102.61
+market_countries: ["สหราชอาณาจักร", "เนเธอร์แลนด์", "อิตาลี"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 30.7
 master_fund: "Principal European Equity I Acc EUR"
 master_isin: "IE00B60S0X89"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -243,6 +246,17 @@ _Principal European Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 15.6 |
+| เนเธอร์แลนด์ | 8.9 |
+| อิตาลี | 3.2 |
+| เยอรมนี | 3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **30.7%** ของกอง (ส่วนที่เหลือ 69.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

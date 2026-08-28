@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1131894303.84
 holdings_count: 88
 top10_pct_nav: 45.95
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.4
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
@@ -202,6 +205,14 @@ _Krungsri Enhanced SET Thailand ESG Fund_
 | 1 | SET ESG Total Return Index | (เป็นดัชนีที่สะท้อนการลงทุนในหลักทรัพย์ของบริษัทที่มีการดำเนินธุรกิจอย่างยั่งยืน คำนึงถึงปัจจัยทางด้าน ESG โดยสามารถศึกษาข้อมูลได้ที่ https://www.set.or.th/th/market/index/setesg/profile) บริษัทจัดการใช้ดัชนีชี้วัดดังกล่าวเพื่อเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.4%** ของกอง (ส่วนที่เหลือ 1.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

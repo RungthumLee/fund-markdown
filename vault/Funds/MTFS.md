@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 81983080.71
 holdings_count: 43
 top10_pct_nav: 63.61
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 89.6
 fund_managers: ["นาย กมลสิฐิ์ ขวัญใจธัญญา", "นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
@@ -199,6 +202,14 @@ _MFC Thai Flexible Super Savings Fund_
 | 2 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 89.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **89.6%** ของกอง (ส่วนที่เหลือ 10.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

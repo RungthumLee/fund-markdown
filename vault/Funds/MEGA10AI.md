@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 436071398.36
 holdings_count: 12
 top10_pct_nav: 96.51
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 96.5
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, fx/unhedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
@@ -214,6 +217,14 @@ _MEGA 10 ARTIFICIAL INTELLIGENCE FUND_
 | 1 | ดัชนี S&P 500 Total Return | ดัชนี S&P 500 Total Return |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 96.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.5%** ของกอง (ส่วนที่เหลือ 3.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

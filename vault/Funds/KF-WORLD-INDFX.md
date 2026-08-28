@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 671104757.05
 holdings_count: 4
 top10_pct_nav: 107.45
+market_countries: ["สหรัฐฯ", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 23.8
 master_fund: "iShares MSCI ACWI ETF"
 master_isin: "US4642882579"
 peer_group: "Global Equity"
@@ -211,6 +214,15 @@ _Krungsri World Equity Index FX Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วย อัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณ ผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 22.1 |
+| ไต้หวัน | 1.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **23.8%** ของกอง (ส่วนที่เหลือ 76.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

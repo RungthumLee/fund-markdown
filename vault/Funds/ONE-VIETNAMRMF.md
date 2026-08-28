@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 125758261.21
 holdings_count: 14
 top10_pct_nav: 100.45
+market_countries: ["ลิกเตนสไตน์", "ฮ่องกง"]
+country_top: "ลิกเตนสไตน์"
+country_coverage_pct: 29.9
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -192,6 +195,15 @@ _ONE VIETNAM EQUITY RETIREMENT MUTUAL FUND_
 | 1 | ดัชนี FTSE Vietnam Index | ดัชนี FTSE Vietnam Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ลิกเตนสไตน์ | 17.6 |
+| ฮ่องกง | 12.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **29.9%** ของกอง (ส่วนที่เหลือ 70.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 332374971.62
 holdings_count: 9
 top10_pct_nav: 102.76
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 25.6
 master_fund: "abrdn-Nrth American Sml Comp Z Acc USD"
 master_isin: "LU1725895533"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -202,6 +205,14 @@ _abrdn American Growth – Smaller Companies Fund_
 | 3 | ดัชนี Russell 2000 Index | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 25.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **25.6%** ของกอง (ส่วนที่เหลือ 74.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

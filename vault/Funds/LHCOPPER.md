@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 142525183.66
 holdings_count: 19
 top10_pct_nav: 103.56
+market_countries: ["แคนาดา", "สหราชอาณาจักร", "สหรัฐฯ"]
+country_top: "แคนาดา"
+country_coverage_pct: 41.0
 master_fund: "Global X Copper Miners ETF"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
@@ -153,6 +156,17 @@ _LH GLOBAL COPPER MINERS EQUITY FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| แคนาดา | 15.7 |
+| สหราชอาณาจักร | 10 |
+| สหรัฐฯ | 9.8 |
+| ออสเตรเลีย | 5.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **41.0%** ของกอง (ส่วนที่เหลือ 59.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

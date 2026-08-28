@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1546859291.8
 holdings_count: 31
 top10_pct_nav: 76.39
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.4
 peer_group: "Long Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -194,6 +197,14 @@ _UOB GOVERNMENT BOND RMF_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.4%** ของกอง (ส่วนที่เหลือ 1.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 147359476.59
 holdings_count: 6
 top10_pct_nav: 100.39
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 21.6
 master_fund: "abrdn-Global Dynamic Div Z Grs MIncAUSD"
 master_isin: "LU2237444604"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
@@ -175,6 +178,16 @@ _abrdn Global Dynamic Dividend Retirement Mutual Fund_
 | 3 | ดัชนี MSCI AC World Daily Total Return Net USD | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 14.2 |
+| ไต้หวัน | 3.8 |
+| เนเธอร์แลนด์ | 3.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **21.6%** ของกอง (ส่วนที่เหลือ 78.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

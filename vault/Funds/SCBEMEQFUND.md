@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 124769223.52
 holdings_count: 90
 top10_pct_nav: 105.29
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "ฮ่องกง"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 22.7
 master_fund: "Lazard Emerging Markets Eq S Acc USD"
 master_isin: "IE00B94NQ323"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -246,6 +249,16 @@ _SCB Sustainable Emerging Markets Equity Fund_
 | 1 | Bloomberg Emerging Markets Large & Mid Cap Net Return Index | บริษัทจัดการจะใช้ค่าเฉลี่ยผลตอบแทนตามน้ำหนักของการทำสัญญาป้องกันความเสี่ยงอัตราแลกเปลี่ยนเงิน โดยปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 95% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ใน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 12 |
+| เกาหลีใต้ | 8.7 |
+| ฮ่องกง | 1.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **22.7%** ของกอง (ส่วนที่เหลือ 77.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

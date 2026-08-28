@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 349082141.63
 holdings_count: 2
 top10_pct_nav: 101.59
+market_countries: ["อินเดีย"]
+country_top: "อินเดีย"
+country_coverage_pct: 37.8
 master_fund: "abrdn-Indian Equity Z Acc USD"
 master_isin: "LU0278911523"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
@@ -181,6 +184,14 @@ _abrdn India Growth Fund_
 | 1 | ดัชนี MSCI India | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวมnกองทุนมีนโยบายป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนตามดุลยพินิจผู้จัดการกองทุน โดยปัจจุบันกองทุนไม่ใช้เครื่องมือป้องกันความเสี่ยงอัตราแลกเปลี่ยนnตัวชี้วัดปรับด้วยอัตราแลกเปลี่ยนเป็นสกุลเงินบาท |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 37.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.8%** ของกอง (ส่วนที่เหลือ 62.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

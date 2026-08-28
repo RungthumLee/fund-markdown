@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 48235410.2
 holdings_count: 22
 top10_pct_nav: 72.62
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.0
 tags: [fund, sec-data, asset/mixed, liquidity/t2, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -185,6 +188,14 @@ _ไม่มีข้อมูลผลการดำเนินงานจ�
 | 2 | SET ESG Total Return Index | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.0%** ของกอง (ส่วนที่เหลือ 2.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

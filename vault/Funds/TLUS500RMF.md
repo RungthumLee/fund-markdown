@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 65290934.34
 holdings_count: 2
 top10_pct_nav: 99.97
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 35.8
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
@@ -179,6 +182,14 @@ ISIN CodeUS …(ตัดทอน)
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 35.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **35.8%** ของกอง (ส่วนที่เหลือ 64.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

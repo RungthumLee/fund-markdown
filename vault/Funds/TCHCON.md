@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1053657161.46
 holdings_count: 6
 top10_pct_nav: 100.28
+market_countries: ["ฮ่องกง", "สหรัฐฯ"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 48.5
 master_fund: "Global X MSCI China Consumer Discretionary ETF"
 master_isin: "US37950E4089"
 peer_group: "Global Equity - Consumer Goods and Services"
@@ -179,6 +182,15 @@ _TISCO China Consumer Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 36.8 |
+| สหรัฐฯ | 11.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.5%** ของกอง (ส่วนที่เหลือ 51.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

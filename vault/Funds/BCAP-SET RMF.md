@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 13619602.47
 holdings_count: 171
 top10_pct_nav: 51.31
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.7
 peer_group: "Equity General"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/total-market, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
@@ -164,6 +167,14 @@ _BCAP SET Index Retirement Mutual Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ของมูลค่าทรัพย์สินสุทธิของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.7%** ของกอง (ส่วนที่เหลือ 2.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 6374803623.45
 holdings_count: 52
 top10_pct_nav: 58.53
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.4
 peer_group: "SET 50 Index Fund"
 fund_managers: ["น.ส. วินิทร ผ่องใส"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, use/accumulate]
@@ -186,6 +189,14 @@ Daily Total Returnt = ผลตอบแทนรวมของดัชนี 
 | 1 | ดัชนีผลตอบแทนรวม SET 50 (SET50 TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.4%** ของกอง (ส่วนที่เหลือ 2.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

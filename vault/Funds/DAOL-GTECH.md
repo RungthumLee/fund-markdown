@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 946533180.09
 holdings_count: 26
 top10_pct_nav: 112.69
+market_countries: ["สหรัฐฯ", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 35.0
 master_fund: "Polar Capital Global Tech I Inc"
 master_isin: "IE00B42NVC37"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
@@ -182,6 +185,15 @@ _DAOL GLOBAL TECHNOLOGY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 30.4 |
+| ไต้หวัน | 4.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **35.0%** ของกอง (ส่วนที่เหลือ 65.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

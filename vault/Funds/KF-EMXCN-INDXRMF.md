@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 257465098.64
 holdings_count: 3
 top10_pct_nav: 100.74
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "อินเดีย"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 40.9
 master_fund: "iShares MSCI Emerging Markets ex China ETF"
 master_isin: "US46434G7640"
 peer_group: "Emerging Market"
@@ -179,6 +182,16 @@ _Krungsri Emerging Markets ex China Index RMF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คํานวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 22.6 |
+| เกาหลีใต้ | 15.7 |
+| อินเดีย | 2.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **40.9%** ของกอง (ส่วนที่เหลือ 59.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

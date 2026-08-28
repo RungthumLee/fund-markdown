@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 4425083764.86
 holdings_count: 67
 top10_pct_nav: 51.14
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.6
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, use/accumulate]
 ---
 
@@ -199,6 +202,14 @@ _Krung Thai 1Y-3Y Fixed Income Fund_
 | 2 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย (70%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.6%** ของกอง (ส่วนที่เหลือ 0.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

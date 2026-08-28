@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 582396557.66
 holdings_count: 18
 top10_pct_nav: 87.23
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.0
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -162,6 +165,14 @@ _LH THAI PROPERTY RMF FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.0%** ของกอง (ส่วนที่เหลือ 3.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

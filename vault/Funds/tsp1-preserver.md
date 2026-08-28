@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 293006356.18
 holdings_count: 12
 top10_pct_nav: 100.3
+market_countries: ["สิงคโปร์", "ไทย"]
+country_top: "สิงคโปร์"
+country_coverage_pct: 99.5
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/direct, style/active, use/accumulate]
@@ -177,6 +180,15 @@ _ttb smart port 1 preserver fund_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สิงคโปร์ | 51 |
+| ไทย | 48.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.5%** ของกอง (ส่วนที่เหลือ 0.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

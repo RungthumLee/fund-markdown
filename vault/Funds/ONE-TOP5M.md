@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 28152017.78
 holdings_count: 49
 top10_pct_nav: 64.54
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 93.5
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, use/accumulate]
 ---
@@ -163,6 +166,14 @@ _ONE TOP SELECTION 5M FUND_
 | 2 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตราสารหนี้ไทย | TBMA Short-term Government Bond Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 93.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.5%** ของกอง (ส่วนที่เหลือ 6.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2692610738.76
 holdings_count: 4
 top10_pct_nav: 100.35
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 1.9
 master_fund: "กองทุนเปิดเค เวียดนาม หุ้นทุนเพื่อการเลี้ยงชีพ"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
@@ -179,6 +182,14 @@ _K Vietnam Equity RMF_
 | 1 | ดัชนี VN30 Total Return | ปรับด้วยอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 1.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **1.9%** ของกอง (ส่วนที่เหลือ 98.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

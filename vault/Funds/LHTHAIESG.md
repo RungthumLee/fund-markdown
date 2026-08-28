@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 15860654.55
 holdings_count: 19
 top10_pct_nav: 78.54
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.3
 tags: [fund, sec-data, asset/equity, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
@@ -178,6 +181,14 @@ _ไม่มีข้อมูลผลการดำเนินงานจ�
 | 1 | SET ESG Total Return Index | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.3%** ของกอง (ส่วนที่เหลือ 5.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

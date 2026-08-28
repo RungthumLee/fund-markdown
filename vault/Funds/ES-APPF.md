@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 817958569.7
 holdings_count: 4
 top10_pct_nav: 100.22
+market_countries: ["ลิกเตนสไตน์"]
+country_top: "ลิกเตนสไตน์"
+country_coverage_pct: 25.0
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
@@ -166,6 +169,14 @@ _Eastspring Asia Pacific Property Flexible Fund_
 | 1 | Bloomberg REIT & Real Estate Asia DM Large, Mid & Small Cap Net Return Index | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ลิกเตนสไตน์ | 25 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **25.0%** ของกอง (ส่วนที่เหลือ 75.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

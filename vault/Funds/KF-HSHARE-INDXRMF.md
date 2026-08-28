@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 63017337.59
 holdings_count: 8
 top10_pct_nav: 100.46
+market_countries: ["ฮ่องกง"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 31.2
 master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
 peer_group: "Greater China Equity"
@@ -182,6 +185,14 @@ _Krungsri China H Shares Equity Index RMF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 31.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **31.2%** ของกอง (ส่วนที่เหลือ 68.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

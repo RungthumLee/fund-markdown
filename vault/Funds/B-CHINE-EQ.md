@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 5316068325.74
 holdings_count: 52
 top10_pct_nav: 94.43
+market_countries: ["สหรัฐฯ", "จีน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 8.1
 peer_group: "Greater China Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -168,6 +171,15 @@ Allianz Global Investors Asia Pacific Limited เป็นบริษัทท�
 | 2 | ดัชนี Bloomberg China Large & Mid Cap Net Return USD | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 4.6 |
+| จีน | 3.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **8.1%** ของกอง (ส่วนที่เหลือ 91.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

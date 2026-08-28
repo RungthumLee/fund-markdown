@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 208928414.77
 holdings_count: 4
 top10_pct_nav: 101.51
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 58.4
 master_fund: "Global X Video Games & Esports ETF"
 master_isin: "US37954Y3927"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
@@ -188,6 +191,17 @@ _United Hero ETF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน เพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 26.7 |
+| ญี่ปุ่น | 20.8 |
+| เกาหลีใต้ | 5.5 |
+| ไต้หวัน | 5.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **58.4%** ของกอง (ส่วนที่เหลือ 41.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

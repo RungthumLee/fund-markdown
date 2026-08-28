@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 16184347.23
 holdings_count: 5
 top10_pct_nav: 147.26
+market_countries: ["อินโดนีเซีย"]
+country_top: "อินโดนีเซีย"
+country_coverage_pct: 95.4
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ภัทรพล โสภณศิรินันท์"]
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
@@ -174,6 +177,14 @@ _Asset Plus Indonesia Growth Fund Not for Retail Investors_
 | 1 | IDX Composite Index | IDX Composite Index ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินโดนีเซีย | 95.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.4%** ของกอง (ส่วนที่เหลือ 4.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

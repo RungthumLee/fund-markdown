@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1348147455.63
 holdings_count: 54
 top10_pct_nav: 50.98
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.9
 peer_group: "Conservative Allocation"
 fund_managers: ["น.ส. วินิทร ผ่องใส", "นาง สลิลสิริ เรืองสุขอุดม"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
@@ -184,6 +187,14 @@ _K ESG Balanced 30 Fund_
 | 3 | ผลตอบแทนรวมสุทธิของดัชนีตราสารหนี้ ESG ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.9%** ของกอง (ส่วนที่เหลือ 1.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

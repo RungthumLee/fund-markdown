@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 791064657.19
 holdings_count: 51
 top10_pct_nav: 47.85
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.2
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
@@ -214,6 +217,14 @@ _Krungthai ESG50 Fund_
 | 1 | SET ESG Total Return Index | ดัชนีผลตอบแทนรวม SET ESG Index (SETESG TRI) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.2%** ของกอง (ส่วนที่เหลือ 2.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

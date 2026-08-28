@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 262335114.26
 holdings_count: 7
 top10_pct_nav: 100.11
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 10.5
 master_fund: "Invesco Global Income C EUR Acc"
 master_isin: "LU1097689365"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -206,6 +209,18 @@ _SCB Active Allocation Fund_
 | 1 | ไม่มี | เนื่องจากกองทุนหลักใช้กลยุทธ์การลงทุนเชิงรุกและไม่ได้อ้างอิงดัชนีชี้วัดใด อย่างไรก็ตาม Reference Benchmark/Index ที่กองทุนหลักใช้ในการเปรียบเทียบผลการดำเนินงาน ได้แก่ MSCI World Index (EUR hedged) (Net Total Return) 40% ICE BofA Global Corporate Index (EUR hedged) (Total Return) 10% ICE BofA Global |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 2.4 |
+| สหราชอาณาจักร | 2.2 |
+| ฮ่องกง | 2.2 |
+| ไต้หวัน | 2 |
+| แคนาดา | 1.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **10.5%** ของกอง (ส่วนที่เหลือ 89.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

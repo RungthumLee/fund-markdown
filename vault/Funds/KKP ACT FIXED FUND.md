@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 7279956961.38
 holdings_count: 98
 top10_pct_nav: 38.73
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 85.9
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -314,6 +317,14 @@ _KKP ACTIVE FIXED INCOME FUND_
 | 3 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 85.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **85.9%** ของกอง (ส่วนที่เหลือ 14.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

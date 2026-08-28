@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 236609456.81
 holdings_count: 6
 top10_pct_nav: 100.31
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 54.2
 master_fund: "Vanguard Real Estate Index Fund ETF Shares"
 master_isin: "US9229085538"
 peer_group: "Fund of Property Fund - Foreign"
@@ -182,6 +185,14 @@ _TISCO US REIT Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 54.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **54.2%** ของกอง (ส่วนที่เหลือ 45.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

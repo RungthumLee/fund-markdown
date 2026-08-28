@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 2487012.87
 holdings_count: 3
 top10_pct_nav: 96.94
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร", "จีน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 40.1
 master_fund: "Invesco Global Founders & Owners CUSDAcc"
 master_isin: "LU1218204631"
 peer_group: "Global Equity"
@@ -179,6 +182,16 @@ _United USD Global Founders & Owners Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ในรูปสกุลเงินดอลลาร์สหรัฐอเมริกา (USD) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 23.7 |
+| สหราชอาณาจักร | 10.3 |
+| จีน | 6.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **40.1%** ของกอง (ส่วนที่เหลือ 59.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

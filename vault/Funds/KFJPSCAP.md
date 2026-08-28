@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 206249489.19
 holdings_count: 12
 top10_pct_nav: 104.22
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 21.1
 master_fund: "MUFG Japan Equity Small Cap I JPY Acc"
 master_isin: "LU1163552489"
 peer_group: "Japan Equity"
@@ -210,6 +213,14 @@ _Krungsri Japan Small Cap Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คํานวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 21.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **21.1%** ของกอง (ส่วนที่เหลือ 78.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

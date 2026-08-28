@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 118072261.51
 holdings_count: 9
 top10_pct_nav: 100.03
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.6
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/park-cash]
 ---
 
@@ -197,6 +200,14 @@ _abrdn Cash Creation Fund_
 | 1 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.6%** ของกอง (ส่วนที่เหลือ 1.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

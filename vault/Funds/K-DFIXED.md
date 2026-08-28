@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 69319242.84
 holdings_count: 10
 top10_pct_nav: 100.01
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 29.5
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย ธีรุตร อัศวมงคลกุล"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/enhanced-index, use/accumulate]
@@ -170,6 +173,14 @@ _K Dynamic Fixed Income Fund_
 | 5 | ดัชนี US Generic Government 6 Month Yield | บวกด้วยค่าเฉลี่ยของ Credit Spread ของตราสารที่มีอันดับความน่าเชื่อถือในระดับ BBB อายุ 6 เดือน ในช่วงระยะเวลาที่คํานวณผลตอบแทน ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้เป็นตัวแทนองค์ประกอบของพอร์ต |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 29.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **29.5%** ของกอง (ส่วนที่เหลือ 70.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

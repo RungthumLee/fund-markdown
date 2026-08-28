@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 467311767.67
 holdings_count: 4
 top10_pct_nav: 99.68
+market_countries: ["สวิตเซอร์แลนด์", "สหราชอาณาจักร", "ไต้หวัน"]
+country_top: "สวิตเซอร์แลนด์"
+country_coverage_pct: 27.7
 master_fund: "FF - Global Dividend Pl Y Acc USD"
 master_isin: "LU1711970662"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -194,6 +197,19 @@ _United Global Dividend Plus Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สวิตเซอร์แลนด์ | 7.2 |
+| สหราชอาณาจักร | 5.5 |
+| ไต้หวัน | 5.1 |
+| เกาหลีใต้ | 3.7 |
+| เยอรมนี | 3.4 |
+| สเปน | 2.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **27.7%** ของกอง (ส่วนที่เหลือ 72.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 7878991.87
 holdings_count: 13
 top10_pct_nav: 106.07
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 43.8
 master_fund: "Schroder ISF Global Innov A Acc USD"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
@@ -217,6 +220,17 @@ _LH MEGA TRENDS FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 31.6 |
+| ไต้หวัน | 6 |
+| เนเธอร์แลนด์ | 3.2 |
+| เกาหลีใต้ | 3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **43.8%** ของกอง (ส่วนที่เหลือ 56.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 169502919.8
 holdings_count: 14
 top10_pct_nav: 102.7
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 58.3
 master_fund: "BlackRock Global Uncons Eq D USD Acc"
 master_isin: "IE00BK70NJ20"
 peer_group: "Global Equity"
@@ -212,6 +215,16 @@ _Krungsri Global Unconstrained Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 47.8 |
+| เนเธอร์แลนด์ | 5.6 |
+| ฝรั่งเศส | 4.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **58.3%** ของกอง (ส่วนที่เหลือ 41.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

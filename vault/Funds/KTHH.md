@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 63271430.04
 holdings_count: 36
 top10_pct_nav: 66.15
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 71.6
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
@@ -178,6 +181,14 @@ _Krung Thai Happy Health_
 | 6 | ผลตอบแทนรวมสุทธิของดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ A- ขึ้นไป อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | ThaiBMA MTM Corporate Bond 1-3Y A- NTR (9%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 71.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **71.6%** ของกอง (ส่วนที่เหลือ 28.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

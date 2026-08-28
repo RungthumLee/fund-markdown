@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 81294322.58
 holdings_count: 8
 top10_pct_nav: 100.18
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "สวิตเซอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 31.1
 master_fund: "AB Sustainable Glb Thematic S1 USD"
 master_isin: "LU0462791079"
 peer_group: "Global Equity Fully FX Risk Hedge"
@@ -179,6 +182,16 @@ _Krungsri Equity Sustainable Global Growth RMF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 24.5 |
+| ไต้หวัน | 4.2 |
+| สวิตเซอร์แลนด์ | 2.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **31.1%** ของกอง (ส่วนที่เหลือ 68.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

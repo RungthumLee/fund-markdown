@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 97620397.59
 holdings_count: 78
 top10_pct_nav: 104.79
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 38.3
 master_fund: "Templeton Glb Climate Change I(acc)EUR"
 master_isin: "LU0195953749"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -202,6 +205,17 @@ _SCB Global Climate Change_
 | 1 | ไม่มี | เนื่องจากกองทุนหลักใช้กลยุทธ์การลงทุนเชิงรุกและไม่ได้อ้างอิงดัชนีชี้วัดใด อย่างไรก็ตาม Reference Index ที่กองทุนหลักใช้ในการเปรียบเทียบผลการดำเนินงาน ได้แก่ MSCI All Country World Index-NR และ MSCI ACWI Investable Market Index-NR |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 26.9 |
+| ไต้หวัน | 4.4 |
+| เนเธอร์แลนด์ | 3.9 |
+| ฝรั่งเศส | 3.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **38.3%** ของกอง (ส่วนที่เหลือ 61.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

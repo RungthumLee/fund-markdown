@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 189900537.97
 holdings_count: 8
 top10_pct_nav: 100.52
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 4.6
 master_fund: "Templeton Latin America A(acc)SGD"
 master_isin: "LU0320763518"
 peer_group: "Emerging Market"
@@ -183,6 +186,14 @@ _Krungsri Latin America Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คํานวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 4.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **4.6%** ของกอง (ส่วนที่เหลือ 95.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

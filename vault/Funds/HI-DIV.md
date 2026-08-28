@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 80925567.26
 holdings_count: 66
 top10_pct_nav: 48.98
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.7
 fund_managers: ["นาย ศรุต สุทธิสำแดง", "นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
@@ -250,6 +253,14 @@ _MFC Hi-Dividend Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.7%** ของกอง (ส่วนที่เหลือ 2.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2076125567.56
 holdings_count: 2
 top10_pct_nav: 103.89
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 98.9
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -238,6 +241,14 @@ _KTAM Gold Fund Unhedged_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก ในสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 98.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.9%** ของกอง (ส่วนที่เหลือ 1.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

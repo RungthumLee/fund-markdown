@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 229610735.28
 holdings_count: 33
 top10_pct_nav: 78.05
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 62.5
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
@@ -246,6 +249,14 @@ _Krung Thai Mung Kung Fund_
 | 1 | อัตราผลตอบแทนร้อยละ 9 ต่อปี | อัตราผลตอบแทนร้อยละ 9 ต่อปี (100%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 62.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **62.5%** ของกอง (ส่วนที่เหลือ 37.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

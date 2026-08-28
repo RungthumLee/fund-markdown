@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 408515353.28
 holdings_count: 27
 top10_pct_nav: 57.35
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.8
 peer_group: "Short Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, use/accumulate, audience/restricted]
@@ -166,6 +169,14 @@ _KA Short Term Fixed-Income Fund_
 | 2 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 6 เดือน | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้เป็นตัวแทนองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.8%** ของกอง (ส่วนที่เหลือ 1.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

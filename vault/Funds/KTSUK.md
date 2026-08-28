@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 238988748.63
 holdings_count: 36
 top10_pct_nav: 91.02
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 82.2
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
@@ -243,6 +246,14 @@ _Krung Thai Suk Jai Fund_
 | 1 | อัตราผลตอบแทนร้อยละ 3 ต่อปี | อัตราผลตอบแทนร้อยละ 3 ต่อปี สัดส่วน 100% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 82.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **82.2%** ของกอง (ส่วนที่เหลือ 17.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

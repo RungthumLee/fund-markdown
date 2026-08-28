@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 17586051493.94
 holdings_count: 57
 top10_pct_nav: 49.78
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 100.0
 peer_group: "Money Market General"
 fund_managers: ["นาง รัชนิภา พรรคพานิช", "นาย ธารดร เขียวมีส่วน"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
@@ -180,6 +183,14 @@ _Eastspring Cash Management Fund_
 | 2 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 100 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.0%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

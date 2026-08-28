@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 235654822.23
 holdings_count: 9
 top10_pct_nav: 100.2
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 46.0
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
 peer_group: "US Equity"
@@ -180,6 +183,14 @@ _Krungsri NDQ Index RMF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.0%** ของกอง (ส่วนที่เหลือ 54.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2016269928.41
 holdings_count: 190
 top10_pct_nav: 46.76
+market_countries: ["ไทย", "สวิตเซอร์แลนด์", "ญี่ปุ่น"]
+country_top: "ไทย"
+country_coverage_pct: 100.9
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย ธีระศันส์ ทุติยะโพธิ", "นาง สุวัลลี ศิริสมบัติยืนยง"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
@@ -177,6 +180,21 @@ _EASTSPRING Short Term Income Plus Fund_
 | 5 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 70.6 |
+| สวิตเซอร์แลนด์ | 13.9 |
+| ญี่ปุ่น | 5.9 |
+| ระหว่างประเทศ | 5.2 |
+| เยอรมนี | 1.9 |
+| สิงคโปร์ | 1.4 |
+| สหรัฐฯ | 1.3 |
+| ฝรั่งเศส | 0.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.9%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

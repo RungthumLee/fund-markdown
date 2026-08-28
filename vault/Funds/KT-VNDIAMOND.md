@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 20548612.46
 holdings_count: 2
 top10_pct_nav: 98.55
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 96.6
 master_fund: "VFMVN Diamond ETF"
 master_isin: "VN0FUEVFVND5"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -208,6 +211,14 @@ _KTAM VN DIAMOND Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก : ในสกุลเงิน VND ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 96.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.6%** ของกอง (ส่วนที่เหลือ 3.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

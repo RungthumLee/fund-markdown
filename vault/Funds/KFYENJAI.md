@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2217922780.8
 holdings_count: 90
 top10_pct_nav: 86.24
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.1
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -195,6 +198,14 @@ _Krungsri Yenjai Fund_
 | 7 | ดัชนีผลตอบแทนรวม SET 50 Free Float Adjusted Market Capitalization Weighted (SET50FF TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.1%** ของกอง (ส่วนที่เหลือ 4.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

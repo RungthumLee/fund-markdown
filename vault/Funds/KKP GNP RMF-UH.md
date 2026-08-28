@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1165203081.76
 holdings_count: 3
 top10_pct_nav: 100.55
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 27.1
 master_fund: "Capital Group New Pers (LUX) B"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, tax/rmf, use/tax-saving]
 ---
@@ -207,6 +210,16 @@ _KKP GLOBAL NEW PERSPECTIVE RMF-UNHEDGED_
 | 1 | ดัชนี MSCI AC World Daily Total Return Net USD | ดัชนี MSCI All Country World Index USD (Net) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 20.7 |
+| ไต้หวัน | 4.6 |
+| สหราชอาณาจักร | 1.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **27.1%** ของกอง (ส่วนที่เหลือ 72.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

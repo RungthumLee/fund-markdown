@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 9022094171.27
 holdings_count: 11
 top10_pct_nav: 99.73
+market_countries: ["สหรัฐฯ", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 23.7
 master_fund: "iShares MSCI ACWI ETF"
 master_isin: "US4642882579"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
@@ -307,6 +310,15 @@ _KTAM Global Equity Passive Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวนผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุนประมาณ 80% และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวนผลตอบแทน ประมาณ 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 21.9 |
+| ไต้หวัน | 1.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **23.7%** ของกอง (ส่วนที่เหลือ 76.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

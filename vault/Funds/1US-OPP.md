@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 179637549.64
 holdings_count: 22
 top10_pct_nav: 92.2
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 15.1
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
@@ -153,6 +156,14 @@ _1 A.M. US Recovery Opportunity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 15.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **15.1%** ของกอง (ส่วนที่เหลือ 84.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

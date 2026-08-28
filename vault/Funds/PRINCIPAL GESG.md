@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 53293261.78
 holdings_count: 14
 top10_pct_nav: 103.6
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 43.8
 master_fund: "Schroder ISF Glbl Sust Gr C Acc USD"
 master_isin: "LU0557290854"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
@@ -246,6 +249,19 @@ _Principal Global Equity ESG Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 27 |
+| ไต้หวัน | 5.2 |
+| เนเธอร์แลนด์ | 4 |
+| ญี่ปุ่น | 2.6 |
+| สเปน | 2.5 |
+| สหราชอาณาจักร | 2.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **43.8%** ของกอง (ส่วนที่เหลือ 56.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

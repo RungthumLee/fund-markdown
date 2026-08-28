@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 84160828.27
 holdings_count: 36
 top10_pct_nav: 102.56
+market_countries: ["สหรัฐฯ", "เยอรมนี", "อิตาลี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 28.0
 master_fund: "DWS Invest CROCI Sectors Plus FCH (P)"
 master_isin: "LU1701862812"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -191,6 +194,16 @@ _SCB Platinum Global RMF_
 | 1 | Bloomberg Developed Markets Large & Mid Cap Net Return Index (EUR) | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 21 |
+| เยอรมนี | 3.6 |
+| อิตาลี | 3.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **28.0%** ของกอง (ส่วนที่เหลือ 72.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

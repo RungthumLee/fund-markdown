@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 158670139.88
 holdings_count: 93
 top10_pct_nav: 54.72
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.3
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
@@ -172,6 +175,14 @@ _Eastspring Sa-Thien Sab Dividend Fund_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.3%** ของกอง (ส่วนที่เหลือ 0.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

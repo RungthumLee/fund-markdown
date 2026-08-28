@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 48922925.53
 holdings_count: 41
 top10_pct_nav: 56.28
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.3
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
@@ -224,6 +227,14 @@ _Principal Equity ESG Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.3%** ของกอง (ส่วนที่เหลือ 1.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

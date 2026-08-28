@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 301681833.89
 holdings_count: 16
 top10_pct_nav: 102.86
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 0.3
 master_fund: "PGIM Global Total Return Bond USD I Acc"
 master_isin: "IE00BFD2HD96"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
@@ -185,6 +188,14 @@ _Eastspring Global Fixed Income Fund_
 | 1 | Bloomberg GLOBAL AGGREGATE Total RETURN INDEX VALUE Hedged USD | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 95 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 5 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 0.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **0.3%** ของกอง (ส่วนที่เหลือ 99.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

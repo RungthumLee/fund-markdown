@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 4013276.41
 holdings_count: 47
 top10_pct_nav: 102.72
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 99.7
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -294,6 +297,14 @@ _SCB Fintech Innovation_
 | 1 | Bloomberg Developed Markets Large & Mid Cap Net Return Index (USD) | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 60%) และปรับด้วยอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 40%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 99.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.7%** ของกอง (ส่วนที่เหลือ 0.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

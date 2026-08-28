@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 9841198.17
 holdings_count: 35
 top10_pct_nav: 60.86
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.2
 fund_managers: ["นาย ธนกร ทองมาก", "นาย วงศกร เหมพันธ์"]
 tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, struct/direct, style/active, compliance/trigger-fund, use/accumulate]
 ---
@@ -173,6 +176,14 @@ _DAOL THAI TRIGGER 6M FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.2%** ของกอง (ส่วนที่เหลือ 2.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

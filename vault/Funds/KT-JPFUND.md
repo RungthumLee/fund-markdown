@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 479088630.58
 holdings_count: 19
 top10_pct_nav: 103.04
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 47.8
 master_fund: "iShares Core Nikkei 225 ETF"
 master_isin: "JP3027710007"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
@@ -216,6 +219,14 @@ _KTAM Japan Equity Passive Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวนผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุนประมาณ 80% และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวนผลตอบแทน ประมาณ 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 47.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **47.8%** ของกอง (ส่วนที่เหลือ 52.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

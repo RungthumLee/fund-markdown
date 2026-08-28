@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1186381878.09
 holdings_count: 3
 top10_pct_nav: 100.83
+market_countries: ["ไต้หวัน", "ฮ่องกง", "จีน"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 57.7
 master_fund: "United Greater China T SGD Acc"
 master_isin: "SGXZ53633806"
 peer_group: "Greater China Equity"
@@ -193,6 +196,16 @@ _UOB Smart Greater China_
 | 1 | ดัชนี MSCI AC Golden Dragon Index | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 30.2 |
+| ฮ่องกง | 22.3 |
+| จีน | 5.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **57.7%** ของกอง (ส่วนที่เหลือ 42.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2848775557.47
 holdings_count: 2
 top10_pct_nav: 100.03
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 58.6
 master_fund: "iShares Expanded Tech Sector ETF"
 master_isin: "US4642875490"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -174,6 +177,14 @@ _TALIS EXPANDED TECH-UNHEDGE_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 58.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **58.6%** ของกอง (ส่วนที่เหลือ 41.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

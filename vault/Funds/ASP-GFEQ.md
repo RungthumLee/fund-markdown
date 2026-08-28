@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 132613762.34
 holdings_count: 4
 top10_pct_nav: 100.27
+market_countries: ["สหรัฐฯ", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 42.9
 master_fund: "PineBridge Global Focus Equity Y"
 master_isin: "IE0004896431"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
@@ -182,6 +185,15 @@ _Asset Plus Global Focus Equity Fund_
 | 1 | ดัชนี MSCI AC World Daily Total Return Net USD | MSCI All Country World Index (ACWI) Daily Total Return Net ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 39.4 |
+| เกาหลีใต้ | 3.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.9%** ของกอง (ส่วนที่เหลือ 57.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 452937761.95
 holdings_count: 16
 top10_pct_nav: 104.38
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 5.3
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
@@ -169,6 +172,14 @@ _Eastspring Global Equity RMF_
 | 1 | Bloomberg World Large & Mid Cap Net Return Index | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 95 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 5 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 5.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **5.3%** ของกอง (ส่วนที่เหลือ 94.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

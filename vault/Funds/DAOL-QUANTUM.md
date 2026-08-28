@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 208734829.44
 holdings_count: 26
 top10_pct_nav: 91.66
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "เยอรมนี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 42.7
 master_fund: "VanEck Quantum Computing UCITS ETF A USD Acc"
 master_isin: "IE0007Y8Y157"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
@@ -179,6 +182,16 @@ _DAOL QUANTUM COMPUTING FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 26.1 |
+| ญี่ปุ่น | 12.6 |
+| เยอรมนี | 4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.7%** ของกอง (ส่วนที่เหลือ 57.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

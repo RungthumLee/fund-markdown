@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 831299549.91
 holdings_count: 31
 top10_pct_nav: 103.73
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 60.5
 master_fund: "iShares Semiconductor ETF"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
@@ -230,6 +233,14 @@ _LH SEMICONDUCTOR FUND_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 60.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **60.5%** ของกอง (ส่วนที่เหลือ 39.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

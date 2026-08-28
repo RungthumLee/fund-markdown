@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 0.0
 holdings_count: 23
 top10_pct_nav: 68.94
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 100.6
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "นาย สุชน รัตนหิรัgภรณ์"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t5, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
@@ -234,6 +237,14 @@ _Asset Plus Daily Government Fund_
 | 2 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 3 เดือน | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 3 เดือน สัดส่วน 50%โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 100.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.6%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

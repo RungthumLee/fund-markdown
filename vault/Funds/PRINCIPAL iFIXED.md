@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 801218540.85
 holdings_count: 56
 top10_pct_nav: 48.85
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 90.1
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -262,6 +265,15 @@ _Principal Core Fixed Income Fund_
 | 3 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | GovBond 1-3Yrs NTR Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 85.3 |
+| สหรัฐฯ | 4.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **90.1%** ของกอง (ส่วนที่เหลือ 9.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

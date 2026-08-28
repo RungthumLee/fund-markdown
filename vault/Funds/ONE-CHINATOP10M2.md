@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 44732378.88
 holdings_count: 11
 top10_pct_nav: 98.73
+market_countries: ["สหรัฐฯ", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 56.8
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -170,6 +173,15 @@ _ONE CHINA TOP 10M2 FUND_
 | 1 | FTSE 3 Month US T-Bill Index | FTSE 3 Month US T-Bill Index USD Unhedged THB |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 33.9 |
+| ฮ่องกง | 22.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **56.8%** ของกอง (ส่วนที่เหลือ 43.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

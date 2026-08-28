@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 273377609.0
 holdings_count: 8
 top10_pct_nav: 100.49
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 41.3
 master_fund: "SuMi TRUST Sakigake Hi Aph B JPY Acc"
 master_isin: "LU1824452749"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
@@ -201,6 +204,14 @@ _Asset Plus Japan High Conviction Fund_
 | 1 | TOPIX Total Return Index | TOPIX Total Return Index ในสัดส่วน 100% โดยปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็น สกุลเงินบาท ณ วันที่ลงทุน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 41.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **41.3%** ของกอง (ส่วนที่เหลือ 58.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 3797796505.26
 holdings_count: 10
 top10_pct_nav: 102.29
+market_countries: ["สหราชอาณาจักร", "สหรัฐฯ"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 5.1
 master_fund: "Allianz Dyn MltAst Stgy SRI 50 P EUR"
 master_isin: "LU1706852701"
 peer_group: "Foreign Investment Allocation"
@@ -244,6 +247,15 @@ _Krungsri Global Dynamic Balance Allocation SRI Fund_
 | 1 | ไม่มี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 3 |
+| สหรัฐฯ | 2.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **5.1%** ของกอง (ส่วนที่เหลือ 94.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

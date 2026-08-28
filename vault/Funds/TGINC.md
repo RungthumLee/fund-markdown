@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 725869314.77
 holdings_count: 17
 top10_pct_nav: 98.27
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 12.1
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
@@ -206,6 +209,15 @@ _TISCO Global Income Plus Fund_
 | 3 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 7.4 |
+| สหรัฐฯ | 4.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **12.1%** ของกอง (ส่วนที่เหลือ 87.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

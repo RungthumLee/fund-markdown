@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1742057423.05
 holdings_count: 29
 top10_pct_nav: 71.67
+market_countries: ["เวียดนาม", "ไทย"]
+country_top: "เวียดนาม"
+country_coverage_pct: 96.7
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
@@ -317,6 +320,15 @@ _SCB Vietnam Equity_
 | 1 | VN100 Total Return Index | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 96.2 |
+| ไทย | 0.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.7%** ของกอง (ส่วนที่เหลือ 3.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

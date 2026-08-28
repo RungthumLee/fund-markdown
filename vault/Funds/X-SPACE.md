@@ -21,6 +21,9 @@ nav_date: "2026-08-25"
 fund_size: 204515903.11
 holdings_count: 3
 top10_pct_nav: 100.71
+market_countries: ["สหรัฐฯ", "แคนาดา", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 48.0
 master_fund: "Tema Space Innovators ETF"
 peer_group: "Global Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
@@ -159,6 +162,16 @@ _XSpring Space Innovator Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 35.5 |
+| แคนาดา | 8.3 |
+| สหราชอาณาจักร | 4.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.0%** ของกอง (ส่วนที่เหลือ 52.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

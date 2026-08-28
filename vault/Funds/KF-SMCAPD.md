@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 53486066.62
 holdings_count: 7
 top10_pct_nav: 100.24
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 9.3
 master_fund: "GS Glb Sm Cp CORE Eq I Acc USD Snap"
 master_isin: "LU0245331581"
 peer_group: "Global Equity"
@@ -177,6 +180,14 @@ _Krungsri Global Small-Mid Cap Equity Dividend Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 9.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **9.3%** ของกอง (ส่วนที่เหลือ 90.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

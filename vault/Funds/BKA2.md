@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 555985929.49
 holdings_count: 36
 top10_pct_nav: 67.11
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.4
 peer_group: "Equity Large Cap"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
@@ -158,6 +161,14 @@ _Buakaew 2 Open-end Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.4%** ของกอง (ส่วนที่เหลือ 2.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

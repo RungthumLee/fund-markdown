@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 261449889.9
 holdings_count: 12
 top10_pct_nav: 88.41
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.7
 peer_group: "Equity Large Cap"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/active, use/accumulate]
 ---
@@ -162,6 +165,14 @@ _Bualuang Equity Top-Ten Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.7%** ของกอง (ส่วนที่เหลือ 5.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

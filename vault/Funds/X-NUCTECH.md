@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 463352720.62
 holdings_count: 3
 top10_pct_nav: 105.28
+market_countries: ["แคนาดา", "ญี่ปุ่น", "สหรัฐฯ"]
+country_top: "แคนาดา"
+country_coverage_pct: 67.2
 master_fund: "VanEck Uranium and Nuclear Technologies UCITS ETF A USD Acc"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
@@ -167,6 +170,17 @@ _XSpring Nuclear Power Technologies and Uranium Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| แคนาดา | 33.6 |
+| ญี่ปุ่น | 22.5 |
+| สหรัฐฯ | 6.4 |
+| เกาหลีใต้ | 4.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **67.2%** ของกอง (ส่วนที่เหลือ 32.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

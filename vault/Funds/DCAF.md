@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 265642565.79
 holdings_count: 40
 top10_pct_nav: 84.92
+market_countries: ["สหรัฐฯ", "เยอรมนี", "ไทย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 93.1
 tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -197,6 +200,16 @@ Crypto Asset
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 87.1 |
+| เยอรมนี | 3 |
+| ไทย | 3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.1%** ของกอง (ส่วนที่เหลือ 6.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

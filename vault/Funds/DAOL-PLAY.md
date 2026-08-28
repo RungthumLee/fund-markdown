@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 87662482.69
 holdings_count: 17
 top10_pct_nav: 101.48
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 59.0
 master_fund: "VanEck Video Gaming and eSports ETF"
 master_isin: "US92189F1140"
 tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -176,6 +179,17 @@ _DAOL VIDEO GAMING AND ESPORTS FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 29.9 |
+| ญี่ปุ่น | 16.9 |
+| ฮ่องกง | 7 |
+| ออสเตรเลีย | 5.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **59.0%** ของกอง (ส่วนที่เหลือ 41.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

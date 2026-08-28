@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 112479525.81
 holdings_count: 2
 top10_pct_nav: 100.32
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร", "เยอรมนี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 64.2
 master_fund: "Global X Defense Tech ETF"
 master_isin: "US37960A5294"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -195,6 +198,18 @@ ISIN CodeUS37960A5294
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 47.4 |
+| สหราชอาณาจักร | 4.8 |
+| เยอรมนี | 4.2 |
+| อิตาลี | 3.8 |
+| ฝรั่งเศส | 3.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **64.2%** ของกอง (ส่วนที่เหลือ 35.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

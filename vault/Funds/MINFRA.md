@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 20022146.86
 holdings_count: 12
 top10_pct_nav: 101.59
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 36.2
 master_fund: "KBI Glb Sust Infras D EUR Acc"
 master_isin: "IE00BJ5JS448"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
@@ -186,6 +189,16 @@ _MFC Global Sustainable Infrastructure Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 25 |
+| สหราชอาณาจักร | 7.3 |
+| ฝรั่งเศส | 3.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.2%** ของกอง (ส่วนที่เหลือ 63.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

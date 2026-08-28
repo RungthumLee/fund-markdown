@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 886819531.06
 holdings_count: 14
 top10_pct_nav: 101.76
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 34.4
 master_fund: "Schroder ISF China A Y Acc USD"
 master_isin: "LU2747266877"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
@@ -185,6 +188,14 @@ _KTAM China A Shares Equity RMF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก ในสกุลเงินดอลลาร์สหรัฐปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน ประมาณ 80% และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณ 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 34.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **34.4%** ของกอง (ส่วนที่เหลือ 65.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

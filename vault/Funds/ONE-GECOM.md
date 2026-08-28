@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 757054705.67
 holdings_count: 17
 top10_pct_nav: 99.86
+market_countries: ["สหรัฐฯ", "แคนาดา", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 85.0
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -174,6 +177,16 @@ _ONE GLOBAL E-COMMERCE FUND_
 | 1 | ดัชนี EQM Online Retail | EQM Online Retail Total Return THB |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 81.1 |
+| แคนาดา | 2.3 |
+| เนเธอร์แลนด์ | 1.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **85.0%** ของกอง (ส่วนที่เหลือ 15.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

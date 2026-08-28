@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 31781217.12
 holdings_count: 4
 top10_pct_nav: 99.41
+market_countries: ["ฮ่องกง"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 30.9
 master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
 peer_group: "Greater China Equity"
@@ -184,6 +187,14 @@ _TISCO China Trigger 8% Fund 21_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 30.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **30.9%** ของกอง (ส่วนที่เหลือ 69.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

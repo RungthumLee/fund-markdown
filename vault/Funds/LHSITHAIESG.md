@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 23899171.8
 holdings_count: 5
 top10_pct_nav: 100.16
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 90.1
 tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
@@ -146,6 +149,14 @@ _LH SOVEREIGN INSTRUMENTS THAILAND ESG FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 90.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **90.1%** ของกอง (ส่วนที่เหลือ 9.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

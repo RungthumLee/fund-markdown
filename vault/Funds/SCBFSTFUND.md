@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 780022294.18
 holdings_count: 26
 top10_pct_nav: 82.7
+market_countries: ["ญี่ปุ่น", "สหรัฐฯ", "ระหว่างประเทศ"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 96.6
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t3, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -231,6 +234,17 @@ _SCB FOREIGN SHORT TERM FIXED INCOME_
 | 1 | ดัชนี BofA Merrill Lynch US 3-month Treasury Bill | ปรับด้วยอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 33.4 |
+| สหรัฐฯ | 29.5 |
+| ระหว่างประเทศ | 23.2 |
+| ไทย | 10.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.6%** ของกอง (ส่วนที่เหลือ 3.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

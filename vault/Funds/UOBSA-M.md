@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2718013007.08
 holdings_count: 3
 top10_pct_nav: 102.41
+market_countries: ["ไต้หวัน", "ฮ่องกง", "เกาหลีใต้"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 44.5
 master_fund: "United Asia T SGD Acc"
 master_isin: "SGXZ97414734"
 peer_group: "Asia Pacific Ex Japan"
@@ -238,6 +241,18 @@ _UOB Smart Asia Fund_
 | 1 | ดัชนี MSCI AC Asia (ex Japan) net TR USD | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 17.7 |
+| ฮ่องกง | 12 |
+| เกาหลีใต้ | 9.7 |
+| จีน | 2.6 |
+| อินเดีย | 2.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **44.5%** ของกอง (ส่วนที่เหลือ 55.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

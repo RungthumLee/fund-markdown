@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 15469583.39
 holdings_count: 6
 top10_pct_nav: 100.86
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.9
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย พุทธินันท์ วชิราคม  ตั้งแต่ 04 ก.ย. 2566", "นาย สุชาติ เจริญวุฒิคุณ  ตั้งแต่ 24 ส.ค. 2566"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -157,6 +160,14 @@ _PHILLIP FIXED INCOME RETIREMENT MUTUAL FUND_
 | 1 | ดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ BBB ขึ้นไป ของสมาคมตลาดตราสารหนี้ไทย | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลของสมาคมตลาดตราสารหนี้ไทย (ThaiBMA Government Bond Index Total Return) สัดส่วน 100% โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.9%** ของกอง (ส่วนที่เหลือ 5.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

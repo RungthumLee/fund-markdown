@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 135853637.06
 holdings_count: 57
 top10_pct_nav: 70.55
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.9
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "นาย วีรชัย จันเป็ง"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
@@ -301,6 +304,14 @@ _Eastspring Dividend Stock 70 Thailand ESG Extra Fund_
 | 3 | ดัชนีผลตอบแทนรวม SET High Dividend 30 (SETHD TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.9%** ของกอง (ส่วนที่เหลือ 0.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

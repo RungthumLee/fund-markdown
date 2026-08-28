@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 294096269.93
 holdings_count: 9
 top10_pct_nav: 101.24
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 97.8
 peer_group: "Other Global Sector Equity"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
@@ -179,6 +182,14 @@ _TISCO Rare Earth & Strategic Metals Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 97.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.8%** ของกอง (ส่วนที่เหลือ 2.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

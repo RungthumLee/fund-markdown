@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 549846892.2
 holdings_count: 46
 top10_pct_nav: 103.3
+market_countries: ["อินเดีย", "สหรัฐฯ"]
+country_top: "อินเดีย"
+country_coverage_pct: 50.4
 master_fund: "iShares India 50 ETF"
 master_isin: "US4642895290"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, style/dividend, use/income]
@@ -273,6 +276,15 @@ _SCB INDIA EQUITY FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 80% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 46.9 |
+| สหรัฐฯ | 3.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **50.4%** ของกอง (ส่วนที่เหลือ 49.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

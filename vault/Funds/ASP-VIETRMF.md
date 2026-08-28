@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 795146279.92
 holdings_count: 22
 top10_pct_nav: 73.36
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 85.6
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย พีรพัฒน์ จิรารยะพงศ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -167,6 +170,14 @@ _Asset Plus Vietnam Growth RMF Fund_
 | 1 | ดัชนี VN30 Total Return | ดัชนี VN30 Total Return ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 85.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **85.6%** ของกอง (ส่วนที่เหลือ 14.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

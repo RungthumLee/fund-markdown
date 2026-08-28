@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 47253937.56
 holdings_count: 5
 top10_pct_nav: 100.27
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 31.0
 master_fund: "Invesco S&P MidCap Quality ETF"
 master_isin: "US46137V4721"
 peer_group: "US Equity"
@@ -182,6 +185,14 @@ _TISCO US Mid/Small Cap Equity Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 31 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **31.0%** ของกอง (ส่วนที่เหลือ 69.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

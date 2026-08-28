@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 12942791.68
 holdings_count: 12
 top10_pct_nav: 100.98
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 32.7
 master_fund: "BNP Paribas Aqua I"
 master_isin: "LU2005507657"
 tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -174,6 +177,16 @@ _DAOL GLOBAL WATER FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 26.5 |
+| ฝรั่งเศส | 3.4 |
+| สหราชอาณาจักร | 2.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **32.7%** ของกอง (ส่วนที่เหลือ 67.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

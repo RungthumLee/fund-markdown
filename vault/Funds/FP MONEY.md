@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 15312467.06
 holdings_count: 8
 top10_pct_nav: 132.76
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 130.7
 peer_group: "Money Market Government"
 fund_managers: ["นาง สาวชนัยกานต์ สวัสดิฤกษ์", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/park-cash]
@@ -175,6 +178,14 @@ _First Plus Money Market Fund_
 | 2 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 3 เดือน | 1) ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 3 เดือน สัดส่วน 55% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 130.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **130.7%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

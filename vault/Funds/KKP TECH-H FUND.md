@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2184553451.45
 holdings_count: 13
 top10_pct_nav: 101.49
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 57.9
 master_fund: "iShares Expanded Tech Sector ETF"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
@@ -271,6 +274,14 @@ _KKP EXPANDED TECH FUND - HEDGED_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 57.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **57.9%** ของกอง (ส่วนที่เหลือ 42.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

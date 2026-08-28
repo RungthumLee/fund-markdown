@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 92822759.84
 holdings_count: 11
 top10_pct_nav: 107.4
+market_countries: ["ฮ่องกง"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 49.6
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
@@ -172,6 +175,14 @@ _TISCO North Asia Equity Fund_
 | 4 | ดัชนี MSCI Taiwan TRN | ปรับด้วยต้นทุนการป้องกันความเสี่ยง 90% และปรับด้วยอัตราแลกเปลี่ยน 10% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 49.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **49.6%** ของกอง (ส่วนที่เหลือ 50.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

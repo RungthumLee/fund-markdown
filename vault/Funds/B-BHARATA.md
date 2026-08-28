@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2707799960.31
 holdings_count: 20
 top10_pct_nav: 99.01
+market_countries: ["อินเดีย"]
+country_top: "อินเดีย"
+country_coverage_pct: 37.3
 master_fund: "Nippon India Equities I USD"
 master_isin: "IE00BN6Q7D46"
 peer_group: "India Equity"
@@ -180,6 +183,14 @@ Nippon India Equity Fund เป็นกองทุนที่มุ่งห�
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 37.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.3%** ของกอง (ส่วนที่เหลือ 62.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

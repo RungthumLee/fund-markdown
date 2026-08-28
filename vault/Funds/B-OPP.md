@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 331357488.19
 holdings_count: 13
 top10_pct_nav: 99.12
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 41.7
 master_fund: "Pictet - Global Thematic Opps-I USD"
 master_isin: "LU1437675744"
 peer_group: "Global Equity"
@@ -182,6 +185,16 @@ _Bualuang Equity Opportunities Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 34.7 |
+| ไต้หวัน | 4.3 |
+| เนเธอร์แลนด์ | 2.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **41.7%** ของกอง (ส่วนที่เหลือ 58.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

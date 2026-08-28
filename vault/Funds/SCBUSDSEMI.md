@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 11316558.2
 holdings_count: 3
 top10_pct_nav: 104.06
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 83.2
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -176,6 +179,14 @@ _SCB Semiconductor USD_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 83.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **83.2%** ของกอง (ส่วนที่เหลือ 16.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

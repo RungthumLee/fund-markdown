@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 34742742.55
 holdings_count: 3
 top10_pct_nav: 99.92
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 51.1
 master_fund: "Schwab U.S. Large-Cap Growth ETF"
 master_isin: "US8085243009"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
@@ -173,6 +176,14 @@ _TALIS U.S. LARGE-CAP GROWTH EQUITY RETIREMENT MUTUAL FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 51.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **51.1%** ของกอง (ส่วนที่เหลือ 48.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

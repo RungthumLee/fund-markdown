@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 501649879.21
 holdings_count: 8
 top10_pct_nav: 100.04
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.6
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
@@ -155,6 +158,14 @@ _XSpring Fixed Income Roll Over Fund 6M 2 Not for Retail Investors_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.6%** ของกอง (ส่วนที่เหลือ 5.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 249303347.35
 holdings_count: 48
 top10_pct_nav: 101.7
+market_countries: ["สวิตเซอร์แลนด์", "สหราชอาณาจักร"]
+country_top: "สวิตเซอร์แลนด์"
+country_coverage_pct: 2.1
 master_fund: "BGF Global Multi-Asset Inc I2"
 master_isin: "LU1523255922"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -214,6 +217,15 @@ _SCB World Income Fund_
 | 1 | ไม่มี | เนื่องจากกองทุนหลักใช้กลยุทธ์การลงทุนเชิงรุกและไม่ได้อ้างอิงดัชนีชี้วัดใด |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สวิตเซอร์แลนด์ | 1.1 |
+| สหราชอาณาจักร | 1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **2.1%** ของกอง (ส่วนที่เหลือ 97.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

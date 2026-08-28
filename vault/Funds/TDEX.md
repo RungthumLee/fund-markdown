@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 4145697992.44
 holdings_count: 53
 top10_pct_nav: 60.02
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.4
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
 tags: [fund, sec-data, asset/equity, risk/high, conc/focused, struct/direct, style/passive, style/dividend, use/income]
 ---
@@ -163,6 +166,14 @@ _ThaiDex SET50 Exchange Traded Fund_
 | 1 | ดัชนีผลตอบแทนรวม SET 50 (SET50 TRI) | ดัชนีผลตอบแทนรวม SET50 (SET50 TRI) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.4%** ของกอง (ส่วนที่เหลือ 0.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

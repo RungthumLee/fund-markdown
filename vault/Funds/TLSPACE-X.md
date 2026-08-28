@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 54914209.07
 holdings_count: 2
 top10_pct_nav: 100.43
+market_countries: ["สหรัฐฯ", "แคนาดา"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 72.1
 master_fund: "Global X Space Tech ETF"
 master_isin: "US37966B7780"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -174,6 +177,15 @@ _TALIS SPACE TECH FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 67.5 |
+| แคนาดา | 4.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **72.1%** ของกอง (ส่วนที่เหลือ 27.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

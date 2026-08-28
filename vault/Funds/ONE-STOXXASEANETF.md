@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 54859885.23
 holdings_count: 39
 top10_pct_nav: 36.47
+market_countries: ["อินโดนีเซีย", "สิงคโปร์", "มาเลเซีย"]
+country_top: "อินโดนีเซีย"
+country_coverage_pct: 93.6
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, use/income]
 ---
@@ -161,6 +164,19 @@ _ONE STOXX ASEAN  SELECT DIVIDEND INDEX ETF_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินโดนีเซีย | 24 |
+| สิงคโปร์ | 20.5 |
+| มาเลเซีย | 20 |
+| ไทย | 15 |
+| เวียดนาม | 10.4 |
+| ฟิลิปปินส์ | 3.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.6%** ของกอง (ส่วนที่เหลือ 6.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

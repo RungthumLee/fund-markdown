@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 39402038.11
 holdings_count: 36
 top10_pct_nav: 87.41
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.1
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย รุ่งโรจน์ นิลนพคุณ", "นาย อรวิทย์ บุญชม"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, compliance/sharia, use/accumulate]
 ---
@@ -258,6 +261,14 @@ _MFC Islamic Fund_
 | 1 | ดัชนี FTSE SET SHARIAH INDEX | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.1%** ของกอง (ส่วนที่เหลือ 4.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

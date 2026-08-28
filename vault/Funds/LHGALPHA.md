@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 163830197.98
 holdings_count: 23
 top10_pct_nav: 109.2
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 41.1
 master_fund: "Fullerton Lux Global Abs Alpha I USD C"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
@@ -154,6 +157,18 @@ _LH GLOBAL ALPHA FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 28.6 |
+| ไต้หวัน | 3.7 |
+| เนเธอร์แลนด์ | 3.4 |
+| เกาหลีใต้ | 2.7 |
+| สิงคโปร์ | 2.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **41.1%** ของกอง (ส่วนที่เหลือ 58.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

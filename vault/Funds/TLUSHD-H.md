@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 98681502.67
 holdings_count: 10
 top10_pct_nav: 100.75
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 41.6
 master_fund: "Schwab U.S. Dividend Equity ETF"
 master_isin: "US8085247976"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
@@ -173,6 +176,14 @@ _TALIS U.S. DIVIDEND EQUITY FUND-HEDGE_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 41.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **41.6%** ของกอง (ส่วนที่เหลือ 58.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

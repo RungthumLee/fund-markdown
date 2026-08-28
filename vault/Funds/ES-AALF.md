@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 263951788.98
 holdings_count: 29
 top10_pct_nav: 85.46
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 33.5
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ธีระศันส์ ทุติยะโพธิ"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -215,6 +218,14 @@ _Eastspring Asset Allocation Long Term Fund_
 | 4 | Bloomberg World Large & Mid Cap Net Return Index | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 32.50 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 32.50 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 33.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **33.5%** ของกอง (ส่วนที่เหลือ 66.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

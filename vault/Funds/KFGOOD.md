@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 224272687.82
 holdings_count: 89
 top10_pct_nav: 31.58
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 97.2
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
@@ -172,6 +175,15 @@ _Krungsri Good Life Fund_
 | 4 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.1 |
+| สหรัฐฯ | 0 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.2%** ของกอง (ส่วนที่เหลือ 2.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

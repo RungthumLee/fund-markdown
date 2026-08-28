@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 2383230017.73
 holdings_count: 80
 top10_pct_nav: 102.64
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 42.0
 master_fund: "Janus Henderson Glb Life Scn I2 USD"
 master_isin: "IE0002141913"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -179,6 +182,15 @@ _SCB GLOBAL HEALTH CARE RMF_
 | 1 | Bloomberg Developed Markets Health Care Large & Mid Cap Net Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 95% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 5% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 37.8 |
+| สหราชอาณาจักร | 4.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.0%** ของกอง (ส่วนที่เหลือ 58.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

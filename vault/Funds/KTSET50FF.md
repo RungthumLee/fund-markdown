@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 0.0
 holdings_count: 55
 top10_pct_nav: 59.0
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.9
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, use/accumulate]
 ---
 
@@ -202,6 +205,14 @@ _Krungthai SET50FF Index Fund_
 | 1 | ดัชนีผลตอบแทนรวม SET 50 Free Float Adjusted Market Capitalization Weighted (SET50FF TRI) | ดัชนีผลตอบแทนรวม SET 50 Free Float Adjusted Market Capitalization Weighted (SET50FF TRI)(100%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.9%** ของกอง (ส่วนที่เหลือ 1.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

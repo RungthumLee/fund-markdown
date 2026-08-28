@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 316047803.5
 holdings_count: 38
 top10_pct_nav: 51.43
+market_countries: ["เวียดนาม", "ไทย"]
+country_top: "เวียดนาม"
+country_coverage_pct: 81.6
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -289,6 +292,15 @@ _Principal Vietnam Thai Opportunity Fund_
 | 2 | ดัชนี VN30 Total Return | VN30TR Index (THB) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 54 |
+| ไทย | 27.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **81.6%** ของกอง (ส่วนที่เหลือ 18.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

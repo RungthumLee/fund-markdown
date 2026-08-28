@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 236996762.96
 holdings_count: 19
 top10_pct_nav: 94.0
+market_countries: ["สหรัฐฯ", "สิงคโปร์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 70.4
 peer_group: "Foreign Investment Allocation"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
@@ -196,6 +199,15 @@ _United Harmony-Pop Fund_
 | 2 | อัตราดอกเบี้ยเงินฝากประจำ 1 ปี วงเงินน้อยกว่า 5 ล้านบาท เฉลี่ยของ 3 ธนาคารพาณิชย์ขนาดใหญ่ ได้แก่ ธนาคารกรุงเทพ ธนาคารกสิกรไทย และธนาคารไทยพาณิชย์ หลังหักภาษี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 67.9 |
+| สิงคโปร์ | 2.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **70.4%** ของกอง (ส่วนที่เหลือ 29.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

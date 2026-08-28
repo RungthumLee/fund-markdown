@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 291968056.4
 holdings_count: 2
 top10_pct_nav: 100.45
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 37.2
 master_fund: "abrdn-Japan Sustainable Eqty Z Acc JPY"
 master_isin: "LU1488356244"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
@@ -178,6 +181,14 @@ _abrdn Japanese Sustainable Equity Fund_
 | 2 | ดัชนี MSCI Japan | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวมnกองทุนมีนโยบายป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนตามดุลยพินิจผู้จัดการกองทุน โดยปัจจุบันกองทุนไม่ใช้เครื่องมือป้องกันความเสี่ยงอัตราแลกเปลี่ยนnตัวชี้วัดปรับด้วยอัตราแลกเปลี่ยนเป็นสกุลเงินบาท |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 37.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.2%** ของกอง (ส่วนที่เหลือ 62.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

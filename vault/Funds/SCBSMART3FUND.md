@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 57409138.19
 holdings_count: 39
 top10_pct_nav: 64.41
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 75.7
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, use/income]
 ---
 
@@ -202,6 +205,14 @@ _SCB SMART PLAN 3 OPEN END FUND_
 | 7 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 75.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **75.7%** ของกอง (ส่วนที่เหลือ 24.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

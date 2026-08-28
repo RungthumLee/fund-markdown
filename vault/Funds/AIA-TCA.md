@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 179999431.65
 holdings_count: 7
 top10_pct_nav: 100.22
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 8.4
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -170,6 +173,14 @@ _AIA Conventional Allocation Fund_
 | 4 | ดัชนีผลตอบแทนรวม SET 50 (SET50 TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 8.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **8.4%** ของกอง (ส่วนที่เหลือ 91.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 69434781.69
 holdings_count: 5
 top10_pct_nav: 100.21
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 38.0
 master_fund: "B&I Global Real Estate Securities Fund S"
 master_isin: "LI0301993643"
 peer_group: "Fund of Property Fund - Foreign"
@@ -182,6 +185,14 @@ _TISCO Global REIT Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 38 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **38.0%** ของกอง (ส่วนที่เหลือ 62.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

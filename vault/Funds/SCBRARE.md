@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 1357510880.79
 holdings_count: 19
 top10_pct_nav: 101.43
+market_countries: ["สหรัฐฯ", "จีน", "ออสเตรเลีย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 60.1
 master_fund: "VanEck Rare Earth and Strategic Metals ETF"
 master_isin: "US92189H8051"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
@@ -237,6 +240,16 @@ _SCB Rare Earth and Strategic Metals_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 60%) และปรับด้วยอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 40%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 24 |
+| จีน | 21.8 |
+| ออสเตรเลีย | 14.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **60.1%** ของกอง (ส่วนที่เหลือ 39.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

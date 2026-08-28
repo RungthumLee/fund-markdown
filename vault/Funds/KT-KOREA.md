@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 568780729.8
 holdings_count: 25
 top10_pct_nav: 124.22
+market_countries: ["เกาหลีใต้"]
+country_top: "เกาหลีใต้"
+country_coverage_pct: 60.4
 master_fund: "iShares MSCI South Korea ETF"
 master_isin: "US4642867729"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
@@ -177,6 +180,14 @@ _KTAM South Korea Equity Passive Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน ประมาณร้อยละ 80 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 20 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เกาหลีใต้ | 60.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **60.4%** ของกอง (ส่วนที่เหลือ 39.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

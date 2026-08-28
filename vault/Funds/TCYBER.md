@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 51263507.03
 holdings_count: 8
 top10_pct_nav: 100.79
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 49.2
 peer_group: "Technology Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
@@ -169,6 +172,14 @@ _TISCO Cyber Security Fund_
 | 2 | ดัชนี Indxx Cybersecurity | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 49.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **49.2%** ของกอง (ส่วนที่เหลือ 50.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

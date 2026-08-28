@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1583755396.68
 holdings_count: 81
 top10_pct_nav: 44.87
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 77.2
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย นราธิป พฤทธิ์ธโนปจัย", "นาย ธิติวุฒิ ตั้งพิกุลทอง"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/enhanced-index, use/accumulate]
@@ -187,6 +190,14 @@ _K PLAN 3 FUND_
 | 5 | ดัชนี US Generic Government 12 Month Yield | บวกด้วย Average Credit Spread ของตราสารที่มีอันดับต่ำสุด ในระดับ Investment Grade (BBB) อายุ 1 ปี ในช่วงระยะเวลาที่คำนวณผลตอบแทน และปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้เป็นตัวแทนองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกอ |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 77.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **77.2%** ของกอง (ส่วนที่เหลือ 22.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 215294270.27
 holdings_count: 36
 top10_pct_nav: 63.59
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.0
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พักตร์พริ้ง พู่ไพจิตรกุล"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
@@ -195,6 +198,14 @@ _THE RUANG KHAO 4 FUND_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้กำหนดองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.0%** ของกอง (ส่วนที่เหลือ 3.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

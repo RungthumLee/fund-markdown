@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2313593736.25
 holdings_count: 11
 top10_pct_nav: 102.51
+market_countries: ["เกาหลีใต้", "ไต้หวัน", "ฮ่องกง"]
+country_top: "เกาหลีใต้"
+country_coverage_pct: 42.9
 master_fund: "JPM Asia Growth I acc USD"
 master_isin: "LU0943624824"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
@@ -244,6 +247,17 @@ _KTAM Asia Growth Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวนผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุนประมาณ 80% และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวนผลตอบแทน ประมาณ 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เกาหลีใต้ | 20 |
+| ไต้หวัน | 13.1 |
+| ฮ่องกง | 7.1 |
+| สิงคโปร์ | 2.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.9%** ของกอง (ส่วนที่เหลือ 57.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

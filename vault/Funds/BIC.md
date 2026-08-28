@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 37309814.0
 holdings_count: 4
 top10_pct_nav: 100.96
+market_countries: ["ฮ่องกง", "สหรัฐฯ"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 45.7
 master_fund: "iShares BIC 50 UCITS ETF USD (Dist)"
 master_isin: "IE00B1W57M07"
 peer_group: "Emerging Market"
@@ -177,6 +180,15 @@ _BIC Fund_
 | 1 | ดัชนี FTSE BRIC 50 | ซึ่งเป็นดัชนีเปรียบเทียบของกองทุน iShares BIC 50 UCITS ETF ซึ่งเป็นกองทุนปลายทาง ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 35.4 |
+| สหรัฐฯ | 10.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.7%** ของกอง (ส่วนที่เหลือ 54.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

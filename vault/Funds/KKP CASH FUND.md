@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 4000471972.64
 holdings_count: 83
 top10_pct_nav: 49.86
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 92.7
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
@@ -262,6 +265,14 @@ _KKP CASH FUND_
 | 2 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 92.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **92.7%** ของกอง (ส่วนที่เหลือ 7.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

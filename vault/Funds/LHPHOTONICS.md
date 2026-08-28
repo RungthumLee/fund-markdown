@@ -21,6 +21,9 @@ nav_date: "2026-08-25"
 fund_size: 74245025.38
 holdings_count: 7
 top10_pct_nav: 99.97
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 55.1
 master_fund: "Corgi Lithography & Semiconductor Photonics ETF"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
@@ -144,6 +147,14 @@ _LH SEMICON PHOTONICS FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 55.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **55.1%** ของกอง (ส่วนที่เหลือ 44.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

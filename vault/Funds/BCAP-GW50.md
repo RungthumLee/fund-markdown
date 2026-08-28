@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 1062199574.22
 holdings_count: 19
 top10_pct_nav: 93.2
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 40.2
 peer_group: "Moderate Allocation"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -174,6 +177,15 @@ _BCAP Global Wealth 50 Fund_
 | 4 | Bloomberg Global Aggregate Total Return Index Hedged THB | ของมูลค่าทรัพย์สินสุทธิของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 36.5 |
+| สหรัฐฯ | 3.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **40.2%** ของกอง (ส่วนที่เหลือ 59.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

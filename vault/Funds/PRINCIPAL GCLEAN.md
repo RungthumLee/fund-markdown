@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 885993840.24
 holdings_count: 36
 top10_pct_nav: 105.63
+market_countries: ["สหรัฐฯ", "แคนาดา", "ออสเตรเลีย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 54.1
 master_fund: "VanEck Uranium and Nuclear ETF"
 master_isin: "US92189F6016"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
@@ -243,6 +246,16 @@ _Principal Global Clean Energy Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 32.2 |
+| แคนาดา | 17.5 |
+| ออสเตรเลีย | 4.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **54.1%** ของกอง (ส่วนที่เหลือ 45.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

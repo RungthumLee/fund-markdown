@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 233780586.09
 holdings_count: 11
 top10_pct_nav: 100.83
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 36.7
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
@@ -156,6 +159,14 @@ _Principal Global REITs Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 36.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.7%** ของกอง (ส่วนที่เหลือ 63.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

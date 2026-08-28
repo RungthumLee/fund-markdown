@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 113375965.52
 holdings_count: 15
 top10_pct_nav: 102.28
+market_countries: ["สหรัฐฯ", "แคนาดา", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 40.3
 master_fund: "Principal International Equity ETF"
 master_isin: "US74255Y6986"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -232,6 +235,20 @@ _Principal International Ex US Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 9.9 |
+| แคนาดา | 8.3 |
+| เนเธอร์แลนด์ | 5.7 |
+| ญี่ปุ่น | 4.4 |
+| เกาหลีใต้ | 4.1 |
+| ฮ่องกง | 4 |
+| สหราชอาณาจักร | 3.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **40.3%** ของกอง (ส่วนที่เหลือ 59.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

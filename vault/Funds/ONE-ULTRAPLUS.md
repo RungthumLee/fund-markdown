@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 48756913.62
 holdings_count: 77
 top10_pct_nav: 87.1
+market_countries: ["ไทย", "สหรัฐฯ", "เยอรมนี"]
+country_top: "ไทย"
+country_coverage_pct: 39.1
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ปณิธิ จิตรีโภชน์"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
@@ -194,6 +197,16 @@ _ONE ULTRA INCOME PLUS FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 29.1 |
+| สหรัฐฯ | 8.2 |
+| เยอรมนี | 1.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **39.1%** ของกอง (ส่วนที่เหลือ 60.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 980474380.23
 holdings_count: 29
 top10_pct_nav: 71.98
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 100.0
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -196,6 +199,14 @@ _Krung Thai Strategic Active Global Allocation Fund_
 | 1 | Bloomberg Global EQ:FI 50:50 Index | Bloomberg Global EQ:FI 50:50 Index ในสกุลเงินดอลลาร์สหรัฐ ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน ประมาณ 80% และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณ 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 100 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.0%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

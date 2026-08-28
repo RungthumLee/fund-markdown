@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 3971897.97
 holdings_count: 21
 top10_pct_nav: 77.74
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.5
 fund_managers: ["นาย ศรุต สุทธิสำแดง", "นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -231,6 +234,14 @@ _MFC Hi-Dividend Thailand ESG Extra Fund_
 | 1 | ดัชนีผลตอบแทนรวม SET High Dividend 30 (SETHD TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.5%** ของกอง (ส่วนที่เหลือ 5.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 5743476.44
 holdings_count: 15
 top10_pct_nav: 78.99
+market_countries: ["มาเลเซีย", "สิงคโปร์"]
+country_top: "มาเลเซีย"
+country_coverage_pct: 97.5
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -172,6 +175,15 @@ _MFC International Asean Star 10 Fund_
 | 1 | ดัชนี MSCI ASEAN Index | MSCI ASEAN Net Total Return สัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| มาเลเซีย | 51.8 |
+| สิงคโปร์ | 45.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.5%** ของกอง (ส่วนที่เหลือ 2.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

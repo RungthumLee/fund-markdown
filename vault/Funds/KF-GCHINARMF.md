@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1158222916.95
 holdings_count: 17
 top10_pct_nav: 101.81
+market_countries: ["ไต้หวัน", "ฮ่องกง", "สหรัฐฯ"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 48.5
 master_fund: "FSSA Greater China Growth I USD Acc"
 master_isin: "IE0031814852"
 peer_group: "Greater China Equity"
@@ -187,6 +190,16 @@ _Krungsri Greater China Equity Hedged FX RMF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 32.6 |
+| ฮ่องกง | 12.7 |
+| สหรัฐฯ | 3.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.5%** ของกอง (ส่วนที่เหลือ 51.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

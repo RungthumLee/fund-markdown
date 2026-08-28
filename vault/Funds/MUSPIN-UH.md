@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 6581439.28
 holdings_count: 2
 top10_pct_nav: 100.98
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 19.7
 master_fund: "JPM US Equity Premium Income Active UCITS ETF USD Dist"
 master_isin: "IE000U5MJOZ6"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
@@ -215,6 +218,14 @@ _MFC US Equity Premium Income Fund Unhedged_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก สัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 19.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **19.7%** ของกอง (ส่วนที่เหลือ 80.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

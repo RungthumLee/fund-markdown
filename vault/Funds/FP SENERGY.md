@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 5203084.43
 holdings_count: 3
 top10_pct_nav: 100.5
+market_countries: ["สหรัฐฯ", "เยอรมนี", "จีน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 29.6
 master_fund: "Robeco Smart Energy I-USD Cap"
 master_isin: "LU2145463027"
 peer_group: "Global Equity - Alternative Energy"
@@ -208,6 +211,19 @@ _First Plus Smart Energy Equities FIF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก (past performance of master fund) สัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 14.6 |
+| เยอรมนี | 3.9 |
+| จีน | 3.1 |
+| ญี่ปุ่น | 2.9 |
+| ไต้หวัน | 2.7 |
+| สหราชอาณาจักร | 2.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **29.6%** ของกอง (ส่วนที่เหลือ 70.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 306830802.71
 holdings_count: 49
 top10_pct_nav: 116.33
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 49.4
 master_fund: "Granahan US Focused Growth I USD Acc"
 master_isin: "IE00BF5KD889"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t7, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -238,6 +241,14 @@ _SCB US SMALL CAP EQUITY FUND_
 | 1 | Bloomberg US 2000 Growth Net Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 80% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 49.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **49.4%** ของกอง (ส่วนที่เหลือ 50.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

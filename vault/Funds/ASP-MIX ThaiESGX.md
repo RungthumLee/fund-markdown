@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 54333478.24
 holdings_count: 29
 top10_pct_nav: 58.68
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 94.1
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ปิยะณั คุ้มเมธา"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
@@ -227,6 +230,15 @@ _Asset Plus Mixed Thailand ESG Extra Fund_
 | 4 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) ในสัดส่วน 75% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 89.2 |
+| สหรัฐฯ | 4.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.1%** ของกอง (ส่วนที่เหลือ 5.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

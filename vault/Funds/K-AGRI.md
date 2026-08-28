@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 108132769.46
 holdings_count: 93
 top10_pct_nav: 110.01
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 46.3
 master_fund: "Invesco DB Agriculture Fund"
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
@@ -183,6 +186,14 @@ _K Agriculture Fund_
 | 1 | ดัชนี DBIQ Diversified Agriculture Total Return | ปรับด้วยต้นทุนการป้องกันความเสี่ยงจากอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ร้อยละ 90 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ร้อยละ 10 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.3%** ของกอง (ส่วนที่เหลือ 53.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

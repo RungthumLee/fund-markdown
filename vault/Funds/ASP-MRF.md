@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 145696977.86
 holdings_count: 23
 top10_pct_nav: 70.61
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.3
 fund_managers: ["นาย พีรพัฒน์ จิรารยะพงศ์"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
@@ -198,6 +201,14 @@ _Asset Plus Mixed RMF_
 | 2 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) ในสัดส่วน 50% โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.3%** ของกอง (ส่วนที่เหลือ 4.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

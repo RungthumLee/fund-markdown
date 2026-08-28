@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1702584501.84
 holdings_count: 33
 top10_pct_nav: 103.08
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 61.9
 master_fund: "VanEck Digital Transformation ETF"
 master_isin: "US92189H8218"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
@@ -184,6 +187,14 @@ _DAOL DIGITAL TRANSFORMATION FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 61.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **61.9%** ของกอง (ส่วนที่เหลือ 38.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

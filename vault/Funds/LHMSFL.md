@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 5413356.99
 holdings_count: 19
 top10_pct_nav: 72.06
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.6
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
@@ -210,6 +213,14 @@ _LH MS FLEXIBLE FUND_
 | 2 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.6%** ของกอง (ส่วนที่เหลือ 5.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

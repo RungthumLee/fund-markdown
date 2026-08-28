@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 157404642.38
 holdings_count: 6
 top10_pct_nav: 100.07
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.7
 fund_managers: ["นาย พิพัฒน์ นรานันทน์", "นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t5, struct/direct, style/active, use/accumulate]
 ---
@@ -166,6 +169,14 @@ _MFC Sovereign Instruments Thailand ESG Fund_
 | 2 | ThaiBMA Government Bond ESG Index Net Total Return | ThaiBMA Government Bond ESG Index Net Total Return สัดส่วน 80% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.7%** ของกอง (ส่วนที่เหลือ 3.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

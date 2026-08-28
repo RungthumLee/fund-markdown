@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 774837027.29
 holdings_count: 15
 top10_pct_nav: 102.59
+market_countries: ["สหรัฐฯ", "สวิตเซอร์แลนด์", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 51.1
 master_fund: "BGF World Healthscience X10"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
@@ -184,6 +187,16 @@ _K Asia High Yield C Fund Not for Retail Investors_
 | 1 | ดัชนี JP Morgan JACI Non-Investment Grade Total Return | ปรับด้วยต้นทุนการป้องกันความเสี่ยงจากอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ร้อยละ 90 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ร้อยละ 10 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 36.4 |
+| สวิตเซอร์แลนด์ | 9 |
+| สหราชอาณาจักร | 5.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **51.1%** ของกอง (ส่วนที่เหลือ 48.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

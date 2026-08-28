@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 30593490.63
 holdings_count: 3
 top10_pct_nav: 100.27
+market_countries: ["ฮ่องกง", "อินเดีย", "จีน"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 44.1
 master_fund: "United China-India Dynamic Gr T SGD Acc"
 master_isin: "SGXZ43502095"
 peer_group: "Asia Pacific Ex Japan"
@@ -215,6 +218,16 @@ _UOB Smart China India Fund_
 | 3 | ดัชนี MSCI India Net Total Return USD | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 21.2 |
+| อินเดีย | 16.3 |
+| จีน | 6.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **44.1%** ของกอง (ส่วนที่เหลือ 55.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

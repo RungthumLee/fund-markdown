@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 480056601.33
 holdings_count: 5
 top10_pct_nav: 100.49
+market_countries: ["สหรัฐฯ", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 34.3
 master_fund: "LO Funds World Brands SH USD NA"
 master_isin: "LU1809978650"
 peer_group: "Global Equity - Consumer Goods and Services"
@@ -183,6 +186,15 @@ _TISCO World Brands Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 28.3 |
+| เกาหลีใต้ | 6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **34.3%** ของกอง (ส่วนที่เหลือ 65.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

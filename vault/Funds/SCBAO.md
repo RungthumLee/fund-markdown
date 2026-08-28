@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 975652438.44
 holdings_count: 54
 top10_pct_nav: 102.99
+market_countries: ["เกาหลีใต้", "สหรัฐฯ", "ไต้หวัน"]
+country_top: "เกาหลีใต้"
+country_coverage_pct: 58.4
 master_fund: "MS INVF Asia Opportunity Z"
 master_isin: "LU1378878604"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -204,6 +207,18 @@ _SCB Asia Opportunity Fund_
 | 1 | Bloomberg Asia ex Japan Large & Mid Cap Net Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เกาหลีใต้ | 22.4 |
+| สหรัฐฯ | 18.8 |
+| ไต้หวัน | 9.6 |
+| ฮ่องกง | 3.8 |
+| อินเดีย | 3.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **58.4%** ของกอง (ส่วนที่เหลือ 41.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

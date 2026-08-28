@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 706120434.16
 holdings_count: 55
 top10_pct_nav: 102.57
+market_countries: ["สหราชอาณาจักร"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 3.5
 master_fund: "PIMCO GIS GlInGd Crdt Instl USD Acc"
 master_isin: "IE0034085260"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
@@ -295,6 +298,14 @@ _SCB GLOBAL STRATEGIC INVESTMENT FUND_
 | 1 | ดัชนี Bloomberg Global Aggregate Credit Total Return Index Value Hedged USD | ในสกุลเงินเหรียญสหรัฐ ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 95% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 5% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 3.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **3.5%** ของกอง (ส่วนที่เหลือ 96.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

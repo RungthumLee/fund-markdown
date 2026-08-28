@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 3288912.93
 holdings_count: 50
 top10_pct_nav: 91.37
+market_countries: ["สหรัฐฯ", "ไทย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 90.6
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย ประวีร์ อัจจิมากุล"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -192,6 +195,15 @@ _MFC Flexible Investment Fund_
 | 4 | ดัชนี MSCI AC World NETR USD Index | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 65.9 |
+| ไทย | 24.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **90.6%** ของกอง (ส่วนที่เหลือ 9.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

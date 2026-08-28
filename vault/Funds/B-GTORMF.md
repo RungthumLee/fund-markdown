@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 421267602.8
 holdings_count: 19
 top10_pct_nav: 99.06
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 48.9
 master_fund: "Wellington Global Innovation USD S Ac"
 master_isin: "LU1547288214"
 peer_group: "Global Equity"
@@ -186,6 +189,15 @@ Wellington Global Innovation Fund เป็นกองทุนที่มุ�
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 43.1 |
+| เนเธอร์แลนด์ | 5.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.9%** ของกอง (ส่วนที่เหลือ 51.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

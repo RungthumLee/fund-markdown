@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 80959559.19
 holdings_count: 17
 top10_pct_nav: 99.0
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 26.7
 peer_group: "Aggressive Allocation"
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -175,6 +178,15 @@ _BCAP Global Wealth 90 Super Saving Fund_
 | 4 | ดัชนี MSCI ACWI Net Total Return USD | ของมูลค่าทรัพย์สินสุทธิของกองทุน ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 20 |
+| สหรัฐฯ | 6.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **26.7%** ของกอง (ส่วนที่เหลือ 73.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

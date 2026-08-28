@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 17094073.16
 holdings_count: 16
 top10_pct_nav: 102.59
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 29.5
 master_fund: "UBS Lux Sec Eq Fd I A1 acc"
 master_isin: "LU1042675485"
 tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -174,6 +177,15 @@ _DAOL GLOBAL SECURITY EQUITY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 23.3 |
+| สหราชอาณาจักร | 6.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **29.5%** ของกอง (ส่วนที่เหลือ 70.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

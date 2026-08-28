@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 21611101.26
 holdings_count: 14
 top10_pct_nav: 103.01
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 45.5
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -177,6 +180,14 @@ _MFC International Emerging 10 Fund Series 2_
 | 1 | MSCI Emerging Markets Net Total Return USD Index | MSCI EM Net Total Return USD Index สัดส่วน 100% ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน สัดส่วน 85% และปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน สัดส่วน 15% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 45.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.5%** ของกอง (ส่วนที่เหลือ 54.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

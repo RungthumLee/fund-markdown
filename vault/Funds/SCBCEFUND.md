@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 577414673.22
 holdings_count: 3
 top10_pct_nav: 99.31
+market_countries: ["ฮ่องกง"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 30.7
 master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
@@ -314,6 +317,14 @@ _SCB CHINA EQUITY OPEN END FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 30.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **30.7%** ของกอง (ส่วนที่เหลือ 69.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1430229315.39
 holdings_count: 76
 top10_pct_nav: 104.14
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "ฮ่องกง"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 43.3
 master_fund: "BGF Asian Growth Leaders D2"
 master_isin: "LU0859042482"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -233,6 +236,18 @@ _SCB ASIAN EMERGING MARKETS OPEN END FUND_
 | 1 | Bloomberg Asia ex Japan Large & Mid Cap Net Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 80% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 12.9 |
+| เกาหลีใต้ | 12.5 |
+| ฮ่องกง | 11.3 |
+| สหรัฐฯ | 3.3 |
+| สิงคโปร์ | 3.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **43.3%** ของกอง (ส่วนที่เหลือ 56.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

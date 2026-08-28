@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 7157872.23
 holdings_count: 2
 top10_pct_nav: 100.04
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.5
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, struct/direct, style/active, use/accumulate]
 ---
 
@@ -217,6 +220,14 @@ _The Krung Thai Capital Protection Fixed 3M Fund3_
 | 1 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 3 เดือน | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 3 เดือน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.5%** ของกอง (ส่วนที่เหลือ 0.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

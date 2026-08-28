@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 211549940.2
 holdings_count: 24
 top10_pct_nav: 106.9
+market_countries: ["ออสเตรเลีย", "สหรัฐฯ"]
+country_top: "ออสเตรเลีย"
+country_coverage_pct: 34.4
 fund_managers: ["นาย ชาญวุฒิ รุงแสงมนูญ", "นาย กิตติพงษ กังวานเกียรติชัย"]
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -250,6 +253,15 @@ _MFC Asia Technology Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ออสเตรเลีย | 25.4 |
+| สหรัฐฯ | 8.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **34.4%** ของกอง (ส่วนที่เหลือ 65.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

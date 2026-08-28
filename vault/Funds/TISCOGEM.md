@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 39893546.29
 holdings_count: 4
 top10_pct_nav: 110.32
+market_countries: ["ไต้หวัน", "ฮ่องกง", "อินเดีย"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 25.3
 master_fund: "Vanguard FTSE Emerging Markets Index Fund ETF Shares"
 master_isin: "US9220428588"
 peer_group: "Emerging Market"
@@ -181,6 +184,16 @@ _TISCO Global Emerging Markets Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 17.7 |
+| ฮ่องกง | 5.5 |
+| อินเดีย | 2.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **25.3%** ของกอง (ส่วนที่เหลือ 74.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

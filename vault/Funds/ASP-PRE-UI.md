@@ -23,6 +23,9 @@ nav_date: "2026-08-17"
 fund_size: 5595365.18
 holdings_count: 6
 top10_pct_nav: 100.15
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 3.9
 master_fund: "Brookfield Real Estate Income Trust Inc."
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate, audience/restricted]
@@ -203,6 +206,14 @@ _Asset Plus Private Real Estate Fund Not for Retail Investors_
 | 1 | ไม่มี | ไม่มี เนื่องจากกองทุน Brookfield Real Estate Income Trust Inc. ที่ไปลงทุนไม่มีดัชนีชี้วัด |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 3.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **3.9%** ของกอง (ส่วนที่เหลือ 96.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

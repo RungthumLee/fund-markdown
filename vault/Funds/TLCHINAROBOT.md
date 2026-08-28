@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 57396678.13
 holdings_count: 2
 top10_pct_nav: 100.38
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 99.3
 master_fund: "China Asset Management Co Ltd. - Robot ETF"
 master_isin: "CNE100004WL8"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -172,6 +175,14 @@ _TALIS CHINA ROBOTICS FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 99.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.3%** ของกอง (ส่วนที่เหลือ 0.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

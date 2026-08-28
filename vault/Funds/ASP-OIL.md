@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 14919674.15
 holdings_count: 5
 top10_pct_nav: 99.94
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 51.8
 master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
@@ -189,6 +192,14 @@ _Asset Plus Oil Fund_
 | 1 | ดัชนี Deutsche Bank Liquid Commodity Index - Optimum Yield Crude Oil Excess Return | ดัชนี Deutsche Bank Liquid Commodity Index - Optimum Yield Crude Oil Excess Return ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 51.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **51.8%** ของกอง (ส่วนที่เหลือ 48.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

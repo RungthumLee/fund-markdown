@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 5226197.26
 holdings_count: 3
 top10_pct_nav: 99.78
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 99.0
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -177,6 +180,14 @@ _SCB Gold USD_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 99 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.0%** ของกอง (ส่วนที่เหลือ 1.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

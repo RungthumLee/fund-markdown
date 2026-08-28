@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 158853505.83
 holdings_count: 52
 top10_pct_nav: 47.53
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.6
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "นาย ชัชพล ตรีวิภานนท์"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, use/accumulate]
@@ -185,6 +188,14 @@ _The Ruang Khao Balanced Class_
 | 4 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.6%** ของกอง (ส่วนที่เหลือ 1.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

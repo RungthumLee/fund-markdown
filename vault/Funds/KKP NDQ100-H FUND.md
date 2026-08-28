@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1523180623.71
 holdings_count: 11
 top10_pct_nav: 101.56
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 45.7
 master_fund: "Invesco NASDAQ 100 ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
@@ -240,6 +243,14 @@ _KKP NDQ100 FUND – HEDGED_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 45.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.7%** ของกอง (ส่วนที่เหลือ 54.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

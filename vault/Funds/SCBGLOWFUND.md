@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 25393223.32
 holdings_count: 63
 top10_pct_nav: 95.67
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 85.6
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -232,6 +235,15 @@ _SCB GLOBAL WEALTH OPEN END FUND_
 | 3 | Bloomberg GLOBAL AGGREGATE Total RETURN INDEX VALUE Hedged USD | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 95%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 5%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 80.6 |
+| ญี่ปุ่น | 4.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **85.6%** ของกอง (ส่วนที่เหลือ 14.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

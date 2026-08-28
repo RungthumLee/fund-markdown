@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 7277796401.66
 holdings_count: 74
 top10_pct_nav: 44.19
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.6
 peer_group: "Equity General"
 fund_managers: ["นาย กวิฬ เหรียญเสาวภาคย์", "นาย ปีติ ประติพัทธิ์พงษ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
@@ -193,6 +196,14 @@ _Krungsri Dividend Stock Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.6%** ของกอง (ส่วนที่เหลือ 1.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

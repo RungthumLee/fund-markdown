@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 42734946.46
 holdings_count: 3
 top10_pct_nav: 99.97
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 40.9
 master_fund: "Schwab U.S. Dividend Equity ETF"
 master_isin: "US8085247976"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
@@ -173,6 +176,14 @@ _TALIS U.S. DIVIDEND EQUITY RETIREMENT MUTUAL FUND_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 40.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **40.9%** ของกอง (ส่วนที่เหลือ 59.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

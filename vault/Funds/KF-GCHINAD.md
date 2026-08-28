@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 852532474.45
 holdings_count: 20
 top10_pct_nav: 102.58
+market_countries: ["ไต้หวัน", "ฮ่องกง", "สหรัฐฯ"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 48.0
 master_fund: "FSSA Greater China Growth I USD Acc"
 master_isin: "IE0031814852"
 peer_group: "Greater China Equity"
@@ -183,6 +186,16 @@ _Krungsri Greater China Equity Hedged Dividend Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 32.3 |
+| ฮ่องกง | 12.5 |
+| สหรัฐฯ | 3.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.0%** ของกอง (ส่วนที่เหลือ 52.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

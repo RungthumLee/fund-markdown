@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 22843255.84
 holdings_count: 16
 top10_pct_nav: 101.97
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 17.5
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, tax/ssf, use/tax-saving]
 ---
@@ -218,6 +221,15 @@ _Asset Plus Global Income Plus Fund_
 | 5 | Bloomberg GLOBAL AGGREGATE Total RETURN INDEX VALUE Hedged USD | ดัชนี Bloomberg GLOBAL AGGREGATE Total RETURN INDEX VALUE Hedged USD ในสัดส่วน 50% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 14.5 |
+| ฝรั่งเศส | 3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **17.5%** ของกอง (ส่วนที่เหลือ 82.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

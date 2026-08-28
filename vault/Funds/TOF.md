@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 641712864.77
 holdings_count: 53
 top10_pct_nav: 68.24
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 93.2
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income, audience/restricted]
 ---
 
@@ -183,6 +186,14 @@ _The Thai Opportunity Fund_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) (50%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 93.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.2%** ของกอง (ส่วนที่เหลือ 6.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

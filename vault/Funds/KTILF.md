@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 833919174.55
 holdings_count: 4
 top10_pct_nav: 104.64
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.6
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/discretionary, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
@@ -170,6 +173,14 @@ _Krung Thai Inflation Linked Fund_
 | 1 | ดัชนี Bloomberg Barclays Thailand Government Inflation-Linked All Maturities TRI | ดัชนี Bloomberg Barclays Thailand Government Inflation-Linked All Maturities TRI สัดส่วน 100% ที่แปลงกลับมาเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.6%** ของกอง (ส่วนที่เหลือ 0.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

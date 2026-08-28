@@ -23,6 +23,9 @@ nav_date: "2026-07-31"
 fund_size: 104014959.67
 holdings_count: 8
 top10_pct_nav: 100.03
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 80.6
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, fx/discretionary, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
@@ -169,6 +172,14 @@ _DAOL BOND FUND 3M NOT FOR RETAIL INVESTORS_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 80.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **80.6%** ของกอง (ส่วนที่เหลือ 19.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

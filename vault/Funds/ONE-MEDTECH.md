@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 251401352.56
 holdings_count: 15
 top10_pct_nav: 103.23
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 73.0
 master_fund: "iShares U.S. Medical Devices ETF"
 master_isin: "US4642888105"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
@@ -177,6 +180,14 @@ _ONE MEDICAL TECHNOLOGY FUND_
 | 1 | Dow Jones U.S. Select Medical Equipment Index (NTR) | Dow Jones U.S. Select Medical Equipment Index NTR THB |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 73 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **73.0%** ของกอง (ส่วนที่เหลือ 27.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

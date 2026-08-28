@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 13603041477.89
 holdings_count: 115
 top10_pct_nav: 36.54
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 90.8
 peer_group: "Mid Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -164,6 +167,14 @@ _Bualuang Fixed-income RMF_
 | 5 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 3-7 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 90.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **90.8%** ของกอง (ส่วนที่เหลือ 9.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

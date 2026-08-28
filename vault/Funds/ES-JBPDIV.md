@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1260916552.29
 holdings_count: 37
 top10_pct_nav: 63.55
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.3
 peer_group: "Equity General"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/passive, style/dividend, use/income]
@@ -185,6 +188,14 @@ _Eastspring JUMBO PLUS Dividend Fund_
 | 2 | ดัชนีผลตอบแทนรวม SET 50 Free Float Adjusted Market Capitalization Weighted (SET50FF TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.3%** ของกอง (ส่วนที่เหลือ 0.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

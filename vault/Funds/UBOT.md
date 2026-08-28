@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 32809569.89
 holdings_count: 4
 top10_pct_nav: 127.41
+market_countries: ["ญี่ปุ่น", "สหรัฐฯ", "สวิตเซอร์แลนด์"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 60.6
 master_fund: "Global X Robotics & Artificial Intelligence ETF"
 master_isin: "US37954Y7159"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
@@ -191,6 +194,17 @@ Indxx Global Robotics & Artificial Intelligence Thematic Index ได้รั�
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน เพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 27.6 |
+| สหรัฐฯ | 19.5 |
+| สวิตเซอร์แลนด์ | 9.3 |
+| จีน | 4.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **60.6%** ของกอง (ส่วนที่เหลือ 39.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

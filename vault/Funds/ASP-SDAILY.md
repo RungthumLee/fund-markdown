@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 3615165445.41
 holdings_count: 38
 top10_pct_nav: 52.2
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 100.5
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -159,6 +162,14 @@ _Asset Plus Short Term Fixed Income Daily Fund_
 | 2 | ดัชนีผลตอบแทนรวมตั๋วสัญญาใช้เงินระยะสั้น (Commercial Paper Index) ที่มีระดับความน่าเชื่อถือของผู้ออกที่ A- หรือสูงกว่า | ดัชนีผลตอบแทนรวมตั๋วสัญญาใช้เงินระยะสั้น (Commercial Paper Index) ที่มีระดับความน่าเชื่อถือของผู้ออกที่ A- หรือสูงกว่าของสมาคมตลาดตราสารหนี้ไทย ในสัดส่วน 60% โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 100.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.5%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

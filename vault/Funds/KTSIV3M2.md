@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 11799918.64
 holdings_count: 2
 top10_pct_nav: 100.06
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.5
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/active, use/accumulate]
 ---
 
@@ -182,6 +185,14 @@ _Krung Thai Smart Invest 3M2 Fund_
 | 1 | ดัชนีพันธบัตรที่มีอายุคงที่ Zero Rate Return (ZRR) อายุ 3 เดือน บวกด้วยส่วนต่างของตราสารหนี้ภาคเอกชนเทียบกับพันธบัตร (Spread) ซึ่งอยู่ในอันดับที่สามารถลงทุนได้ (investment grade) | ดัชนีพันธบัตรที่มีอายุคงที่ Zero Rate Return (ZRR) อายุ 3 เดือน บวกด้วยส่วนต่างของตราสารหนี้ภาคเอกชนเทียบกับพันธบัตร (Spread) ซึ่งอยู่ในอันดับที่สามารถลงทุนได้ (investment grade) สัดส่วน 100% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.5%** ของกอง (ส่วนที่เหลือ 0.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

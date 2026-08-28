@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 97517197.38
 holdings_count: 51
 top10_pct_nav: 60.24
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.7
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/ssf, use/tax-saving]
 ---
 
@@ -186,6 +189,14 @@ _Principal SET50 Index Super Savings Fund_
 | 1 | ดัชนีผลตอบแทนรวม SET 50 (SET50 TRI) | SET50 TRI Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.7%** ของกอง (ส่วนที่เหลือ 0.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1930527045.59
 holdings_count: 27
 top10_pct_nav: 102.82
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 60.0
 master_fund: "iShares Semiconductor ETF"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
@@ -274,6 +277,14 @@ _KKP SEMICONDUCTOR FUND – HEDGED_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 60 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **60.0%** ของกอง (ส่วนที่เหลือ 40.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

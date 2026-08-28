@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 240529079612.27
 holdings_count: 235
 top10_pct_nav: 25.5
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 63.9
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตร อัศวมงคลกุล"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/enhanced-index, use/accumulate]
@@ -241,6 +244,14 @@ _K SF Plus Fund_
 | 4 | ดัชนีตราสารหนี้ภาคเอกชนที่มีอายุคงที่มีอันดับความน่าเชื่อถืออยู่ในระดับ BBB อายุ 1 ปี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 63.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **63.9%** ของกอง (ส่วนที่เหลือ 36.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

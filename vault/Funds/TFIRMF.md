@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 400133070.06
 holdings_count: 150
 top10_pct_nav: 42.45
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.2
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
@@ -246,6 +249,14 @@ _TISCO  Fixed Income Retirement  Fund_
 | 3 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 1 ปี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.2%** ของกอง (ส่วนที่เหลือ 5.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

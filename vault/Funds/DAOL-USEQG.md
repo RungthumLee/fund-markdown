@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 284762151.47
 holdings_count: 18
 top10_pct_nav: 102.49
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 45.5
 master_fund: "Baillie Gifford WW US Equity Gr B USD"
 master_isin: "IE00B8HW2209"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
@@ -181,6 +184,14 @@ _DAOL US EQUITY GROWTH FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 45.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.5%** ของกอง (ส่วนที่เหลือ 54.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

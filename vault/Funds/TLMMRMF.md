@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 106061642.97
 holdings_count: 21
 top10_pct_nav: 74.64
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 89.0
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
@@ -158,6 +161,14 @@ _TALIS MONEY MARKET RETIREMENT MUTUAL FUND_
 | 3 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 89 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **89.0%** ของกอง (ส่วนที่เหลือ 11.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

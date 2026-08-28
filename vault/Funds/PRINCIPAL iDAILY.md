@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 518823028.23
 holdings_count: 24
 top10_pct_nav: 74.84
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.5
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -281,6 +284,14 @@ _Principal Daily Income Fund_
 | 3 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตราสารหนี้ไทย | STGovBond Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.5%** ของกอง (ส่วนที่เหลือ 3.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

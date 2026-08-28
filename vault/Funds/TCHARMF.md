@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 96651172.95
 holdings_count: 5
 top10_pct_nav: 99.76
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 19.7
 master_fund: "ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF"
 master_isin: "HK0000123577"
 peer_group: "China Equity - A Shares"
@@ -209,6 +212,14 @@ _TISCO China A-Shares Equity RMF_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 19.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **19.7%** ของกอง (ส่วนที่เหลือ 80.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

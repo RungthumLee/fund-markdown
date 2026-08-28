@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 82377071747.5
 holdings_count: 31
 top10_pct_nav: 74.57
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.4
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
@@ -162,6 +165,14 @@ _SCB Short Term Fixed Income Fund_
 | 2 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.4%** ของกอง (ส่วนที่เหลือ 5.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

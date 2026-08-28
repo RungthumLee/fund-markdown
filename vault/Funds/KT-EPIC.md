@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 199591767.61
 holdings_count: 12
 top10_pct_nav: 102.06
+market_countries: ["สหราชอาณาจักร", "สวิตเซอร์แลนด์"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 38.4
 master_fund: "E.P.I.C Global Equity Opps Instl I (USD)"
 master_isin: "IE000XAUGXW1"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -222,6 +225,15 @@ _KTAM E.P.I.C. Global Equity Opportunities Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวนผลตอบแทนเป็นสกุลเงินบาท ณ คำนวณผลตอบแทน ประมาณ 80% และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวนผลตอบแทน ประมาณ 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 32.2 |
+| สวิตเซอร์แลนด์ | 6.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **38.4%** ของกอง (ส่วนที่เหลือ 61.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

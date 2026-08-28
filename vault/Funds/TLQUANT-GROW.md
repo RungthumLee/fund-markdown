@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 75926539.82
 holdings_count: 8
 top10_pct_nav: 190.43
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 90.4
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
@@ -183,6 +186,14 @@ _ไม่มีข้อมูลผลการดำเนินงานจ�
 | 3 | Morningstar Global Target Market Exposure NR USD | Morningstar Global Target Market Exposure NR USD |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 90.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **90.4%** ของกอง (ส่วนที่เหลือ 9.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

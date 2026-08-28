@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 39070249.99
 holdings_count: 11
 top10_pct_nav: 97.46
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 89.1
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย พีรพัฒน์ จิรารยะพงศ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
@@ -157,6 +160,14 @@ _Asset Plus Vietnam Focus Equity Fund Not for Retail Investors_
 | 1 | VN100 Total Return Index | VN100 Total Return Index ในสัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 89.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **89.1%** ของกอง (ส่วนที่เหลือ 10.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 23136843.03
 holdings_count: 26
 top10_pct_nav: 61.51
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.6
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
@@ -248,6 +251,14 @@ _SCB Thai Equity Value Portfolio_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.6%** ของกอง (ส่วนที่เหลือ 0.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

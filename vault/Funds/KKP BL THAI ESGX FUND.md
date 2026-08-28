@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 18519613.79
 holdings_count: 61
 top10_pct_nav: 45.33
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.9
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -230,6 +233,14 @@ _KKP BALANCED THAILAND ESG EXTRA FUND_
 | 3 | SET ESG Total Return Index | SET ESG Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.9%** ของกอง (ส่วนที่เหลือ 1.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

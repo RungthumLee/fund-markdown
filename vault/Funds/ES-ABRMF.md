@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 808788499.63
 holdings_count: 124
 top10_pct_nav: 31.48
+market_countries: ["ไทย", "ญี่ปุ่น", "สวิตเซอร์แลนด์"]
+country_top: "ไทย"
+country_coverage_pct: 100.4
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. วิภาสิริ เกษมศุข"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -180,6 +183,20 @@ _Eastspring Aggregate Bond RMF_
 | 4 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1-3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 72.8 |
+| ญี่ปุ่น | 8.4 |
+| สวิตเซอร์แลนด์ | 7.2 |
+| ระหว่างประเทศ | 6.9 |
+| สิงคโปร์ | 3.2 |
+| ฮ่องกง | 1.1 |
+| สหรัฐฯ | 0.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.4%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

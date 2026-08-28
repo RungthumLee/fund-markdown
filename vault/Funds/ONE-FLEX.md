@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 25249414.63
 holdings_count: 57
 top10_pct_nav: 53.55
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 84.6
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
@@ -160,6 +163,14 @@ _ONE  FLEXIBLE FUND_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | SET Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 84.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **84.6%** ของกอง (ส่วนที่เหลือ 15.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

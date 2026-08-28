@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 266833539.39
 holdings_count: 5
 top10_pct_nav: 100.19
+market_countries: ["ฮ่องกง", "จีน"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 38.7
 master_fund: "KraneShares MSCI China Clean Technology ETF"
 master_isin: "US5007678502"
 peer_group: "Global Equity - Alternative Energy"
@@ -180,6 +183,15 @@ KraneShares MSCI China Clean Technology Index ETF มีวัตถุประ
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนปลายทาง สัดส่วน 100% ในรูปสกุลเงินดอลลาร์สหรัฐ โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนให้อยู่ในรูปสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 28.3 |
+| จีน | 10.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **38.7%** ของกอง (ส่วนที่เหลือ 61.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

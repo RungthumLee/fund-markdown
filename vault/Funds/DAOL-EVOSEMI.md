@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2108250986.74
 holdings_count: 38
 top10_pct_nav: 106.93
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 81.2
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
@@ -173,6 +176,14 @@ _DAOL EVOLUTION OF SEMICONDUCTOR FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 81.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **81.2%** ของกอง (ส่วนที่เหลือ 18.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 24672285.95
 holdings_count: 13
 top10_pct_nav: 94.05
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 36.7
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
@@ -181,6 +184,14 @@ _MEGA 10 CHINA POPULAR CONSUMER BRAND FUND_
 | 1 | Hang Seng Consumption Index Total Return Index | Hang Seng Consumption Index Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 36.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.7%** ของกอง (ส่วนที่เหลือ 63.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

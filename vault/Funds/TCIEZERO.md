@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 83810481.67
 holdings_count: 34
 top10_pct_nav: 60.31
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 91.6
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -168,6 +171,15 @@ _TISCO Conservative Income - Equity Zero Fund_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 89 |
+| สหรัฐฯ | 2.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **91.6%** ของกอง (ส่วนที่เหลือ 8.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 146416118.41
 holdings_count: 9
 top10_pct_nav: 100.2
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส", "เยอรมนี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 19.1
 master_fund: "DWS Invest ESG Climate Opps USD TFC"
 master_isin: "LU1885667664"
 peer_group: "Other Global Sector Equity"
@@ -208,6 +211,17 @@ _Krungsri ESG Climate Tech Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 7.1 |
+| ฝรั่งเศส | 5 |
+| เยอรมนี | 4.3 |
+| อิตาลี | 2.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **19.1%** ของกอง (ส่วนที่เหลือ 80.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

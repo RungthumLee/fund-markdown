@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 258347603.37
 holdings_count: 60
 top10_pct_nav: 31.46
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.8
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -196,6 +199,14 @@ _KKP BALANCE RETIREMENT MUTUAL FUND_
 | 5 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.8%** ของกอง (ส่วนที่เหลือ 0.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

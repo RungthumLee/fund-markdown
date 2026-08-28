@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 60231953.16
 holdings_count: 5
 top10_pct_nav: 102.82
+market_countries: ["ฮ่องกง", "จีน"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 30.3
 master_fund: "Manulife GF Dragon Growth AA"
 master_isin: "LU1328277881"
 peer_group: "Greater China Equity"
@@ -212,6 +215,15 @@ Manulife Investment Management International Holdings Limited
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก (past performance of master fund) สัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 27 |
+| จีน | 3.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **30.3%** ของกอง (ส่วนที่เหลือ 69.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

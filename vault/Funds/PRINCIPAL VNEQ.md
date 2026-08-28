@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 5617535138.71
 holdings_count: 35
 top10_pct_nav: 57.96
+market_countries: ["เวียดนาม", "ไทย"]
+country_top: "เวียดนาม"
+country_coverage_pct: 78.0
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -312,6 +315,15 @@ _Principal Vietnam Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 72.3 |
+| ไทย | 5.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **78.0%** ของกอง (ส่วนที่เหลือ 22.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

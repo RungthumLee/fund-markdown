@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 81525251.4
 holdings_count: 9
 top10_pct_nav: 99.97
+market_countries: ["ฮ่องกง", "สหรัฐฯ"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 54.2
 peer_group: "Greater China Equity"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
@@ -170,6 +173,15 @@ _TISCO China Stars Plus Fund_
 | 2 | ดัชนี MSCI Daily Total Return Net China USD | ปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนให้อยู่ในรูปสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 40.2 |
+| สหรัฐฯ | 13.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **54.2%** ของกอง (ส่วนที่เหลือ 45.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

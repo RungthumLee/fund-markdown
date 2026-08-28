@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 28983356.39
 holdings_count: 16
 top10_pct_nav: 101.65
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 48.6
 master_fund: "KIM Inv-KIM Vietnam Growth I USD Acc"
 master_isin: "LU1586949999"
 tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -173,6 +176,14 @@ _DAOL VIETNAM GROWTH FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 48.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.6%** ของกอง (ส่วนที่เหลือ 51.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

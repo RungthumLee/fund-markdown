@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 7300382047.56
 holdings_count: 47
 top10_pct_nav: 65.65
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 54.0
 peer_group: "Fund of Property fund - Thai and Foreign"
 fund_managers: ["นาย ธีรวัฒน์ บรรเจิดสุทธิกุล"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, use/income]
@@ -184,6 +187,14 @@ _K Property Infrastructure Flexible Fund_
 | 2 | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้เป็นตัวแทนองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน โดยจะมีการพิจารณาความเหมาะสมของน้ำหนักองค์ประกอบทุกปี |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 54 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **54.0%** ของกอง (ส่วนที่เหลือ 46.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

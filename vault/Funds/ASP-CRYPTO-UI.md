@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 125877794.36
 holdings_count: 6
 top10_pct_nav: 99.49
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 98.1
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
 tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/partially-hedged, struct/direct, use/accumulate, audience/restricted]
 ---
@@ -164,6 +167,14 @@ _Asset Plus Cryptocurrency ETF Tracker Fund Not for Retail Investors_
 | 1 | ผลการดำเนินงานของกองทุนปลายทาง | ผลการดำเนินงานของกองทุนปลายทาง ได้แก่ iShares Bitcoin Trust ETF ในสัดส่วน 40%, Fidelity Wise Origin Bitcoin Fund ในสัดส่วน 40% และ iShares Ethereum Trust ETF ในสัดส่วน 20% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนิ |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 98.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.1%** ของกอง (ส่วนที่เหลือ 1.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

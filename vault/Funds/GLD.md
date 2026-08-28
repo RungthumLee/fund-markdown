@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1434204512.38
 holdings_count: 2
 top10_pct_nav: 100.05
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 99.8
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
 tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -185,6 +188,14 @@ _KTAM GOLD ETF Tracker_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก (100%) ในสกุลเงินดอลลาร์สหรัฐปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 99.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.8%** ของกอง (ส่วนที่เหลือ 0.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

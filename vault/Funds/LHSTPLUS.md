@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 3008994934.32
 holdings_count: 69
 top10_pct_nav: 46.01
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 92.6
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -209,6 +212,14 @@ _LH Short Term Fixed Income Plus Fund_
 | 2 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 92.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **92.6%** ของกอง (ส่วนที่เหลือ 7.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

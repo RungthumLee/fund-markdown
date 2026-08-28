@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 985486470.77
 holdings_count: 62
 top10_pct_nav: 73.67
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "จีน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 93.1
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -165,6 +168,17 @@ _Asset Plus Artificial Intelligence Equity Growth Fund_
 | 2 | MSCI ACWI IMI Robotics & AI Net USD Index | MSCI ACWI IMI Robotics & AI USD Net Total Return สัดส่วน 90% โดยปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 74.3 |
+| ญี่ปุ่น | 9 |
+| จีน | 8.3 |
+| เนเธอร์แลนด์ | 1.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.1%** ของกอง (ส่วนที่เหลือ 6.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

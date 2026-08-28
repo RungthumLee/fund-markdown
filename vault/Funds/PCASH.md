@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 273042097.59
 holdings_count: 16
 top10_pct_nav: 91.16
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.0
 peer_group: "Money Market Government"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
@@ -164,6 +167,14 @@ Notes)
 | 1 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market ของสมาคมตลาดตราสารหนี้ไทย | ผลตอบแทนรวมของดัชนีตราสารหนี้ภาครัฐระยะสั้น (ThaiBMA Short term Government Bond Index Total Return) สัดส่วน 100% โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.0%** ของกอง (ส่วนที่เหลือ 4.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

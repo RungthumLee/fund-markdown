@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 753267786.94
 holdings_count: 36
 top10_pct_nav: 99.32
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 8.9
 peer_group: "Greater China Equity"
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -168,6 +171,14 @@ _Bualuang Dynamic Bond RMF_
 | 4 | ดัชนี Bloomberg Short Treasury 1 - 3 Months Total Return Index Unhedged | ในสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 8.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **8.9%** ของกอง (ส่วนที่เหลือ 91.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

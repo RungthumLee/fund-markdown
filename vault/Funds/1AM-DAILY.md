@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1389850934.36
 holdings_count: 40
 top10_pct_nav: 55.04
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.9
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/enhanced-index, tax/ssf, use/park-cash, use/tax-saving]
 ---
@@ -201,6 +204,14 @@ _1 A.M. DAILY FUND_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุไม่เกิน 1 ปี ของสมาคมตลาดตราสารหนี้ไทย | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุไม่เกิน 1 ปี ของสมาคมตลาดตราสารหนี้ไทย |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.9%** ของกอง (ส่วนที่เหลือ 0.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

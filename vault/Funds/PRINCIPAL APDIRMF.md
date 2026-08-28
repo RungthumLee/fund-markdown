@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 237187629.01
 holdings_count: 21
 top10_pct_nav: 102.5
+market_countries: ["มาเลเซีย"]
+country_top: "มาเลเซีย"
+country_coverage_pct: 99.1
 master_fund: "Principal Asia Pacific Dynamic Income Fund"
 master_isin: "MYU1002DP005"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/rmf, use/tax-saving]
@@ -191,6 +194,14 @@ _Principal Asia Pacific Dynamic Income Equity Retirement Mutual Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| มาเลเซีย | 99.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.1%** ของกอง (ส่วนที่เหลือ 0.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 638240274.67
 holdings_count: 21
 top10_pct_nav: 111.86
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "สหราชอาณาจักร"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 42.8
 master_fund: "RBC Fds (Lux) Em Mkts ex-China Eq B $Acc"
 master_isin: "LU2200108640"
 peer_group: "Emerging Market"
@@ -213,6 +216,16 @@ _Krungsri Emerging Markets ex China Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 23.1 |
+| เกาหลีใต้ | 16.1 |
+| สหราชอาณาจักร | 3.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.8%** ของกอง (ส่วนที่เหลือ 57.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

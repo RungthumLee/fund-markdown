@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 479033883.03
 holdings_count: 17
 top10_pct_nav: 112.81
+market_countries: ["เกาหลีใต้"]
+country_top: "เกาหลีใต้"
+country_coverage_pct: 61.1
 master_fund: "Xtrackers MSCI Korea UCITS ETF 1C"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
 tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
@@ -177,6 +180,14 @@ _DAOL KOREA PASSIVE INDEX FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เกาหลีใต้ | 61.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **61.1%** ของกอง (ส่วนที่เหลือ 38.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

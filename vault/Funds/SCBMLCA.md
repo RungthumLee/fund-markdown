@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 4307001.85
 holdings_count: 85
 top10_pct_nav: 36.96
+market_countries: ["จีน", "ฮ่องกง", "สหรัฐฯ"]
+country_top: "จีน"
+country_coverage_pct: 75.9
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
@@ -300,6 +303,16 @@ _SCB Machine Learning China All Share_
 | 1 | S&P China All-Shares LargeMidCap (USD) NTR | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 71.5 |
+| ฮ่องกง | 3.2 |
+| สหรัฐฯ | 1.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **75.9%** ของกอง (ส่วนที่เหลือ 24.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

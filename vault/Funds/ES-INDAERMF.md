@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 35124223.49
 holdings_count: 9
 top10_pct_nav: 101.17
+market_countries: ["อินเดีย"]
+country_top: "อินเดีย"
+country_coverage_pct: 26.1
 master_fund: "GS India Equity I Acc USD"
 master_isin: "LU0333811072"
 peer_group: "India Equity"
@@ -194,6 +197,14 @@ MSCI India IMI, Net returns, Unhedged, USD
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 26.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **26.1%** ของกอง (ส่วนที่เหลือ 73.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### 5 อันดับแรกที่ลงทุน
 

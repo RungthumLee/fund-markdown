@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 507608711.83
 holdings_count: 39
 top10_pct_nav: 102.53
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "สวิตเซอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 45.5
 master_fund: "Fidelity Global Demographics Y-Acc-USD"
 master_isin: "LU0528228231"
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -234,6 +237,17 @@ _SCB Global Sustainable Population Trend Fund_
 | 1 | Bloomberg World Large & Mid Cap Net Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 30.3 |
+| ไต้หวัน | 6.2 |
+| สวิตเซอร์แลนด์ | 5.9 |
+| ญี่ปุ่น | 3.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.5%** ของกอง (ส่วนที่เหลือ 54.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

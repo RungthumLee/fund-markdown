@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1636409467.13
 holdings_count: 16
 top10_pct_nav: 92.17
+market_countries: ["จีน", "ไทย"]
+country_top: "จีน"
+country_coverage_pct: 39.0
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
@@ -210,6 +213,15 @@ _MEGA 10 CHINA FUND_
 | 1 | ดัชนี Hang Seng Total Return Index | ดัชนี Hang Seng Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 36 |
+| ไทย | 3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **39.0%** ของกอง (ส่วนที่เหลือ 61.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

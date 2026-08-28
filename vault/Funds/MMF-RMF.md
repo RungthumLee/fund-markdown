@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 377162622.03
 holdings_count: 20
 top10_pct_nav: 73.13
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 93.9
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t5, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
@@ -205,6 +208,14 @@ _MFC Money Market Retirement Fund_
 | 3 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 1 เดือน | ดัชนีอัตราผลตอบแทนของการลงทุนในพันธบัตร (Zero Rate Return (ZRR) Index) ที่มีอายุ 1 เดือน สัดส่วน 50% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 93.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.9%** ของกอง (ส่วนที่เหลือ 6.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

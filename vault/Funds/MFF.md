@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 180501213.68
 holdings_count: 36
 top10_pct_nav: 54.83
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 92.7
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, use/accumulate]
 ---
@@ -184,6 +187,14 @@ _MFC Fixed Income Fund_
 | 3 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 92.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **92.7%** ของกอง (ส่วนที่เหลือ 7.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

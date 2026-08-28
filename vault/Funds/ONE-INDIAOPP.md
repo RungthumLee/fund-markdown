@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 21632653.05
 holdings_count: 5
 top10_pct_nav: 99.05
+market_countries: ["อินเดีย", "สหรัฐฯ"]
+country_top: "อินเดีย"
+country_coverage_pct: 45.7
 master_fund: "PineBridge India Equity A5CP"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, use/accumulate]
@@ -246,6 +249,15 @@ _ONE INDIA OPPORTUNITY FUND_
 | 1 | ดัชนี MSCI Emerging Markets Index | ดัชนี MSCI Emerging Markets Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 37 |
+| สหรัฐฯ | 8.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.7%** ของกอง (ส่วนที่เหลือ 54.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

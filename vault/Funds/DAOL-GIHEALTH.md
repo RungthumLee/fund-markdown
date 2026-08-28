@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 61559829.54
 holdings_count: 29
 top10_pct_nav: 104.37
+market_countries: ["สหรัฐฯ", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 97.7
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย วงศกร เหมพันธ์"]
 tags: [fund, sec-data, asset/equity, risk/very-high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -163,6 +166,15 @@ _DAOL GLOBAL INNOVATIVE HEALTHCARE FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 94 |
+| ฮ่องกง | 3.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.7%** ของกอง (ส่วนที่เหลือ 2.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

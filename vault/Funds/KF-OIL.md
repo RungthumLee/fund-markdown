@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 242373421.44
 holdings_count: 23
 top10_pct_nav: 103.78
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 52.1
 master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
 peer_group: "Commodities Energy"
@@ -177,6 +180,14 @@ _Krungsri Oil Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 52.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **52.1%** ของกอง (ส่วนที่เหลือ 47.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

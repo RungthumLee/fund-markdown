@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 5121293712.82
 holdings_count: 22
 top10_pct_nav: 102.95
+market_countries: ["แคนาดา", "สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "แคนาดา"
+country_coverage_pct: 52.5
 master_fund: "Jupiter Gold & Silver I USD Acc"
 master_isin: "IE00BYVJRD56"
 tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -180,6 +183,16 @@ _DAOL GOLD AND SILVER EQUITY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| แคนาดา | 31.5 |
+| สหรัฐฯ | 16.7 |
+| สหราชอาณาจักร | 4.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **52.5%** ของกอง (ส่วนที่เหลือ 47.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

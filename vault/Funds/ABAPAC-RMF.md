@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 672441124.05
 holdings_count: 8
 top10_pct_nav: 100.2
+market_countries: ["ไต้หวัน", "ฮ่องกง", "เกาหลีใต้"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 39.8
 master_fund: "abrdn Pacific Eq SGD"
 master_isin: "SG9999000459"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
@@ -194,6 +197,17 @@ _abrdn Asia Pacific Equity Retirement Mutual Fund_
 | 3 | ดัชนี MSCI AC Asia-Pacific ex Japan | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 18.1 |
+| ฮ่องกง | 9.8 |
+| เกาหลีใต้ | 9.5 |
+| จีน | 2.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **39.8%** ของกอง (ส่วนที่เหลือ 60.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

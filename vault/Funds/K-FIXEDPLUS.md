@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 24875217905.65
 holdings_count: 143
 top10_pct_nav: 43.84
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 76.1
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตร อัศวมงคลกุล"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
@@ -224,6 +227,14 @@ _K Fixed Income Plus Fund_
 | 5 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 76.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **76.1%** ของกอง (ส่วนที่เหลือ 23.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

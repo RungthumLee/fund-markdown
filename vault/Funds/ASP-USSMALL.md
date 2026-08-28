@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 298865812.13
 holdings_count: 7
 top10_pct_nav: 99.72
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 17.8
 master_fund: "Heptagon Driehaus US Sm Cp Eq S USD Acc"
 master_isin: "IE00BH3ZJB48"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
@@ -209,6 +212,14 @@ _Asset Plus U.S. Small Cap Focus Fund_
 | 1 | Russell 2000 Growth Total Return Index | Russell 2000 Growth Total Return Index ในสัดส่วน 100% โดยปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 17.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **17.8%** ของกอง (ส่วนที่เหลือ 82.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

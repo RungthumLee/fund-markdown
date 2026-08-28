@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 175050321.83
 holdings_count: 17
 top10_pct_nav: 107.86
+market_countries: ["ลิกเตนสไตน์", "ญี่ปุ่น"]
+country_top: "ลิกเตนสไตน์"
+country_coverage_pct: 20.3
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
@@ -196,6 +199,15 @@ _ONE ULTIMATE JAPAN EQUITY FUND_
 | 1 | ดัชนี TOPIX (Total Return Net) | ดัชนี TOPIX (Total Return Net) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ลิกเตนสไตน์ | 11.5 |
+| ญี่ปุ่น | 8.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **20.3%** ของกอง (ส่วนที่เหลือ 79.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

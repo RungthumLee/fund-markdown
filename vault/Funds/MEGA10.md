@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 402833761.72
 holdings_count: 13
 top10_pct_nav: 93.7
+market_countries: ["สหรัฐฯ", "ไทย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 96.3
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, fx/unhedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
@@ -191,6 +194,15 @@ _MEGA 10 FUND_
 | 1 | ดัชนี S&P 500 Total Return | ดัชนี S&P 500 Total Return |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 93.7 |
+| ไทย | 2.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.3%** ของกอง (ส่วนที่เหลือ 3.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

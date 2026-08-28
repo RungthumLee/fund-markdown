@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 473501098.36
 holdings_count: 15
 top10_pct_nav: 100.94
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 55.0
 master_fund: "GS Global Future Gen Eq I Acc USD"
 master_isin: "LU0786609700"
 peer_group: "Global Equity Fully FX Risk Hedge"
@@ -212,6 +215,16 @@ _Krungsri Global Future Generations Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46.3 |
+| ไต้หวัน | 6.3 |
+| ฝรั่งเศส | 2.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **55.0%** ของกอง (ส่วนที่เหลือ 45.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

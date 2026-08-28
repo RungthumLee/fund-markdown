@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 43179063.45
 holdings_count: 7
 top10_pct_nav: 98.55
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 20.9
 peer_group: "Foreign Investment Allocation"
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -192,6 +195,14 @@ _United Platinum Income Opportunities Plus Fund_
 | 2 | Bloomberg Contingent Capital Western Europe TR Hedged USD | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 20.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **20.9%** ของกอง (ส่วนที่เหลือ 79.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

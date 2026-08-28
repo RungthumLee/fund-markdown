@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 1392152.84
 holdings_count: 3
 top10_pct_nav: 100.1
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 39.3
 master_fund: "BlackRock Advantage US Eq D USD Acc"
 master_isin: "IE00BFZP7V49"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
@@ -176,6 +179,14 @@ _SCB US Sustainable Core Focus Equity USD_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | โดยกองทุนอ้างอิงตัวชี้วัดดังกล่าวเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (performance objective) เท่านั้น ทั้งนี้ กองทุนไม่มีดัชนีชี้วัดด้านความยั่งยืน (reference ESG benchmark) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 39.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **39.3%** ของกอง (ส่วนที่เหลือ 60.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

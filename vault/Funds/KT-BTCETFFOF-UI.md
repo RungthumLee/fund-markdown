@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 128010549.77
 holdings_count: 3
 top10_pct_nav: 98.76
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 96.9
 tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t2, fx/discretionary, struct/direct, use/accumulate, audience/restricted]
 ---
 
@@ -196,6 +199,14 @@ _KTAM Bitcoin ETF Fund of Funds Not for Retail Investors_
 | 2 | ผลการดำเนินงานของกองทุน Fidelity Wise Origin Bitcoin Fund | ผลการดำเนินงานกองทุน Fidelity Wise Origin Bitcoin Fund(FBTC)(50%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 96.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.9%** ของกอง (ส่วนที่เหลือ 3.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

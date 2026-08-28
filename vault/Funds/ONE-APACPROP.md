@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 8638858.52
 holdings_count: 16
 top10_pct_nav: 102.32
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 12.7
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -195,6 +198,14 @@ _ONE ASIA PACIFIC PROPERTY REITs FUND_
 | 2 | ดัชนี FTSE EPRA/NAREIT Asia ex Japan Net Total Return REIT Index | ดัชนี FTSE EPRA/NAREIT Asia ex Japan Net Total Return REIT Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 12.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **12.7%** ของกอง (ส่วนที่เหลือ 87.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

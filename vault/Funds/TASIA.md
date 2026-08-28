@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 526112060.45
 holdings_count: 4
 top10_pct_nav: 101.25
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "ฮ่องกง"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 36.3
 master_fund: "BlackRock Advtg Asia ex Jpn Eq D USD Acc"
 master_isin: "IE00BFZP7Q95"
 peer_group: "Asia Pacific Ex Japan"
@@ -175,6 +178,16 @@ _TISCO Asia Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนให้อยู่ในรูปสกุลเงินบาท |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 16.5 |
+| เกาหลีใต้ | 12.9 |
+| ฮ่องกง | 6.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.3%** ของกอง (ส่วนที่เหลือ 63.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

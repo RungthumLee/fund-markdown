@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 7344115824.52
 holdings_count: 38
 top10_pct_nav: 60.0
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 102.1
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
 
@@ -259,6 +262,14 @@ _SCB TREASURY MONEY PLUS OPEN END FUND_
 | 3 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 3 เดือน | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 102.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **102.1%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

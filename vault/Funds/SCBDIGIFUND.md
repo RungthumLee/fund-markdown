@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 1469280900.66
 holdings_count: 99
 top10_pct_nav: 106.42
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 48.8
 master_fund: "BNP Paribas Disrpt Tech I USD C"
 master_isin: "LU2005507905"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -239,6 +242,15 @@ _SCB GLOBAL DIGITAL FUND_
 | 1 | Bloomberg Developed Markets Large & Mid Cap Net Return Index (USD) | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 44.6 |
+| เนเธอร์แลนด์ | 4.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.8%** ของกอง (ส่วนที่เหลือ 51.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

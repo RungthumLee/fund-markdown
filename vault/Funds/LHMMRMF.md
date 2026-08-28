@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 56521868.09
 holdings_count: 23
 top10_pct_nav: 82.27
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 102.8
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
@@ -161,6 +164,14 @@ _LH MONEY MARKET RMF FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 102.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **102.8%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

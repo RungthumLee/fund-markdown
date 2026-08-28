@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 237924080.03
 holdings_count: 13
 top10_pct_nav: 99.97
+market_countries: ["ลิกเตนสไตน์", "ฮ่องกง"]
+country_top: "ลิกเตนสไตน์"
+country_coverage_pct: 31.3
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -197,6 +200,15 @@ _ONE VIETNAM EQUITY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ลิกเตนสไตน์ | 18.3 |
+| ฮ่องกง | 13 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **31.3%** ของกอง (ส่วนที่เหลือ 68.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

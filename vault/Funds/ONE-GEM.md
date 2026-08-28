@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 9707870.02
 holdings_count: 19
 top10_pct_nav: 102.67
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 11.4
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
@@ -174,6 +177,14 @@ _ONE GLOBAL EMERGING MARKET EQUITY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 11.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **11.4%** ของกอง (ส่วนที่เหลือ 88.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

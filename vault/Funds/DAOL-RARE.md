@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 2380535027.91
 holdings_count: 32
 top10_pct_nav: 101.99
+market_countries: ["สหรัฐฯ", "จีน", "ออสเตรเลีย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 58.6
 master_fund: "VanEck Rare Earth and Strategic Metals ETF"
 master_isin: "US92189H8051"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
@@ -182,6 +185,16 @@ _DAOL RARE EARTH AND STRATEGIC METALS FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 23.4 |
+| จีน | 21.3 |
+| ออสเตรเลีย | 13.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **58.6%** ของกอง (ส่วนที่เหลือ 41.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

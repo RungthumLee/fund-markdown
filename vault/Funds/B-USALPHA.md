@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 1031286344.55
 holdings_count: 21
 top10_pct_nav: 98.61
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 46.0
 master_fund: "JPM US Growth I acc USD"
 master_isin: "LU0248059726"
 peer_group: "US Equity"
@@ -185,6 +188,14 @@ JPMorgan Funds - US Growth Fund เป็นกองทุนที่มุ่
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.0%** ของกอง (ส่วนที่เหลือ 54.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

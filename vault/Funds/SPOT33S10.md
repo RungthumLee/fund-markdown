@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 41882771.81
 holdings_count: 43
 top10_pct_nav: 51.65
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 93.5
 fund_managers: ["นาย สุชัย สุตภาคย์", "นาย นรินทร์ จันทร์เนตร"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, use/accumulate]
 ---
@@ -203,6 +206,14 @@ _MFC SPOT 33 Series 10 Fund_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 93.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.5%** ของกอง (ส่วนที่เหลือ 6.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

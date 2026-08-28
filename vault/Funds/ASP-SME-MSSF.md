@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 112842403.25
 holdings_count: 27
 top10_pct_nav: 64.22
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.9
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
@@ -193,6 +196,14 @@ _Asset Plus Small and Mid Cap Equity Super Savings Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) ในสัดส่วน 100% โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.9%** ของกอง (ส่วนที่เหลือ 4.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

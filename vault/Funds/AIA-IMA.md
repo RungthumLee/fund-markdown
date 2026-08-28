@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 4885622302.41
 holdings_count: 55
 top10_pct_nav: 101.23
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 4.2
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t1, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
@@ -172,6 +175,14 @@ _AIA Combined Moderate Allocation Fund_
 | 5 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุน้อยกว่าเท่ากับ 1 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 4.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **4.2%** ของกอง (ส่วนที่เหลือ 95.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

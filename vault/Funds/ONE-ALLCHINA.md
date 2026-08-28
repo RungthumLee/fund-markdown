@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 527390806.12
 holdings_count: 15
 top10_pct_nav: 101.63
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 4.7
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
@@ -231,6 +234,14 @@ _ONE ALL CHINA EQUITY FUND_
 | 1 | ดัชนี MSCI Emerging Markets Index | ดัชนี MSCI Emerging Markets Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 4.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **4.7%** ของกอง (ส่วนที่เหลือ 95.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

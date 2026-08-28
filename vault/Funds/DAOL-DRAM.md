@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 417789659.66
 holdings_count: 5
 top10_pct_nav: 112.45
+market_countries: ["เกาหลีใต้", "สหรัฐฯ"]
+country_top: "เกาหลีใต้"
+country_coverage_pct: 61.3
 master_fund: "Roundhill Memory ETF"
 master_isin: "US77926X3200"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
@@ -180,6 +183,15 @@ _DAOL MEMORY FUND NOT FOR RETAIL INVESTORS_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เกาหลีใต้ | 36.6 |
+| สหรัฐฯ | 24.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **61.3%** ของกอง (ส่วนที่เหลือ 38.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

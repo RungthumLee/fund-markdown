@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 132833688.68
 holdings_count: 21
 top10_pct_nav: 104.3
+market_countries: ["จีน", "สหรัฐฯ"]
+country_top: "จีน"
+country_coverage_pct: 52.4
 master_fund: "Themes Humanoid Robotics ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
@@ -154,6 +157,15 @@ _LH HUMANOID THEME FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 37.4 |
+| สหรัฐฯ | 15 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **52.4%** ของกอง (ส่วนที่เหลือ 47.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 154515774.24
 holdings_count: 92
 top10_pct_nav: 21.82
+market_countries: ["ไทย", "สิงคโปร์", "อินโดนีเซีย"]
+country_top: "ไทย"
+country_coverage_pct: 97.3
 peer_group: "ASEAN Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -163,6 +166,17 @@ _BCAP ASEAN Quant Equity Fund_
 | 1 | ดัชนี MSCI AC ASEAN (USD) | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 30.7 |
+| สิงคโปร์ | 27.4 |
+| อินโดนีเซีย | 21.7 |
+| มาเลเซีย | 17.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.3%** ของกอง (ส่วนที่เหลือ 2.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

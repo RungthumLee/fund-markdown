@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 60506048.18
 holdings_count: 56
 top10_pct_nav: 60.88
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 92.7
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
@@ -169,6 +172,14 @@ _TISCO Wealth Conservative E20 Fund_
 | 3 | อัตราดอกเบี้ยเงินฝากประจำ 1 ปี วงเงินน้อยกว่า 5 ล้านบาท เฉลี่ยของ 3 ธนาคารพาณิชย์ขนาดใหญ่ ได้แก่ ธนาคารกรุงเทพ ธนาคารกสิกรไทย และธนาคารไทยพาณิชย์ หลังหักภาษี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 92.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **92.7%** ของกอง (ส่วนที่เหลือ 7.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

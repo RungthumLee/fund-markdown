@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 63391514.2
 holdings_count: 43
 top10_pct_nav: 57.91
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 87.0
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
@@ -174,6 +177,14 @@ _SCB SMART TRADE 555 FUND B_
 | 3 | ผลตอบแทนรวมสุทธิของดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ BBB+ ขึ้นไป ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 87 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **87.0%** ของกอง (ส่วนที่เหลือ 13.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

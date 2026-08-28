@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2442804798.1
 holdings_count: 76
 top10_pct_nav: 45.14
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 87.8
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -199,6 +202,14 @@ _The Krung Thai Fixed Income RMF 2_
 | 3 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1-3 ปี ของสมาคมตลาดตราสารหนี้ไทย | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1-3 ปี ของ ThaiBMA (50%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 87.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **87.8%** ของกอง (ส่วนที่เหลือ 12.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

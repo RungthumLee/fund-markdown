@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1224916.83
 holdings_count: 9
 top10_pct_nav: 100.37
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 10.9
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "นาย สุชน รัตนหิรัgภรณ์"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -232,6 +235,14 @@ _Asset Plus Foreign Fixed Income Plus Fund_
 | 1 | Bloomberg GLOBAL AGGREGATE Total RETURN INDEX VALUE Hedged USD | ดัชนี Bloomberg GLOBAL AGGREGATE Total RETURN INDEX VALUE Hedged USD อายุ 1 - 3 ปี ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน ในสัดส่วน 100% โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 10.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **10.9%** ของกอง (ส่วนที่เหลือ 89.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

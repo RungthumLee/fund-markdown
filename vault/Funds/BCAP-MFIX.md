@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 3863418033.05
 holdings_count: 75
 top10_pct_nav: 41.29
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 101.9
 peer_group: "Mid Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/active, use/accumulate]
 ---
@@ -157,6 +160,14 @@ _BCAP Medium Term Fixed Income Fund_
 | 3 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | ของมูลค่าทรัพย์สินสุทธิ |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 101.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **101.9%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

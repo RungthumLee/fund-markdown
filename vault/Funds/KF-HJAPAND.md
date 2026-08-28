@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1293750647.33
 holdings_count: 13
 top10_pct_nav: 102.11
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 45.3
 master_fund: "JPM Japan Equity C acc JPY"
 master_isin: "LU1374269352"
 peer_group: "Japan Equity"
@@ -183,6 +186,14 @@ _Krungsri Japan Hedged Dividend Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 45.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.3%** ของกอง (ส่วนที่เหลือ 54.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

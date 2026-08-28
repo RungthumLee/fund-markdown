@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 344219815.9
 holdings_count: 41
 top10_pct_nav: 104.05
+market_countries: ["อินเดีย"]
+country_top: "อินเดีย"
+country_coverage_pct: 38.7
 master_fund: "UTI India Dynamic Equity USD Instl"
 master_isin: "IE00BYPC7R45"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -269,6 +272,14 @@ _SCB India Active Equity_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 38.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **38.7%** ของกอง (ส่วนที่เหลือ 61.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

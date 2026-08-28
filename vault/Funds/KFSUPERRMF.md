@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 141405091.36
 holdings_count: 86
 top10_pct_nav: 40.09
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 92.3
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -182,6 +185,15 @@ _Krungsri Super Life RMF_
 | 4 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 91.7 |
+| สหรัฐฯ | 0.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **92.3%** ของกอง (ส่วนที่เหลือ 7.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

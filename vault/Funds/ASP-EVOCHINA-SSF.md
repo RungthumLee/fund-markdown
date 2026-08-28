@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 23278597.18
 holdings_count: 33
 top10_pct_nav: 53.56
+market_countries: ["จีน", "สหรัฐฯ", "ฮ่องกง"]
+country_top: "จีน"
+country_coverage_pct: 78.1
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "นาย กมลยศ สุขุมสุวรรณ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -169,6 +172,16 @@ _Asset Plus Evolution China Equity Super Savings Fund_
 | 1 | ดัชนี MSCI China TRN | ดัชนี MSCI China TRN ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 52 |
+| สหรัฐฯ | 13.2 |
+| ฮ่องกง | 12.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **78.1%** ของกอง (ส่วนที่เหลือ 21.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

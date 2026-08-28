@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2807686593.96
 holdings_count: 26
 top10_pct_nav: 85.77
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 96.9
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
@@ -281,6 +284,14 @@ _MFC Property Dividend Fund_
 | 1 | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 96.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.9%** ของกอง (ส่วนที่เหลือ 3.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1037576789.03
 holdings_count: 94
 top10_pct_nav: 47.97
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.6
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
@@ -279,6 +282,14 @@ _SCB Thai Sustainable Equity Passive Fund_
 | 1 | SET ESG Total Return Index | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.6%** ของกอง (ส่วนที่เหลือ 0.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

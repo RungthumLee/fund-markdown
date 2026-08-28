@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1792348711.65
 holdings_count: 35
 top10_pct_nav: 59.26
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 88.6
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. สาวิณี สุขศรีวงศ์"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -212,6 +215,14 @@ _Krungsri Taweesap RMF_
 | 4 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 88.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **88.6%** ของกอง (ส่วนที่เหลือ 11.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

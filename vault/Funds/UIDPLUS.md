@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 8377229193.93
 holdings_count: 77
 top10_pct_nav: 40.43
+market_countries: ["ไทย", "ระหว่างประเทศ", "สิงคโปร์"]
+country_top: "ไทย"
+country_coverage_pct: 79.6
 peer_group: "Short Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -177,6 +180,17 @@ _United Income Daily Ultra Plus Fund_
 | 4 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 61.8 |
+| ระหว่างประเทศ | 11.9 |
+| สิงคโปร์ | 3.1 |
+| มาเลเซีย | 2.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **79.6%** ของกอง (ส่วนที่เหลือ 20.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 164856534.55
 holdings_count: 13
 top10_pct_nav: 95.72
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 37.4
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/unhedged, struct/direct, tax/rmf, use/tax-saving]
 ---
 
@@ -164,6 +167,14 @@ _MEGA 10 CHINA RETIREMENT MUTUAL FUND_
 | 1 | ดัชนี Hang Seng Total Return Index | ดัชนี Hang Seng Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 37.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.4%** ของกอง (ส่วนที่เหลือ 62.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

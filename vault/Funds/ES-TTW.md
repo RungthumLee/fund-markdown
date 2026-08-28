@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 59109985.54
 holdings_count: 90
 top10_pct_nav: 54.64
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.4
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย วีรชัย จันเป็ง"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, use/income]
@@ -179,6 +182,14 @@ _Eastspring Tuntawee Fund_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.4%** ของกอง (ส่วนที่เหลือ 2.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

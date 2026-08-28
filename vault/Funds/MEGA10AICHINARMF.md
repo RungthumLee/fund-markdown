@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 29175070.04
 holdings_count: 13
 top10_pct_nav: 92.16
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 18.6
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, tax/rmf, use/tax-saving]
 ---
 
@@ -168,6 +171,14 @@ _MEGA 10 ARTIFICIAL INTELLIGENCE CHINA RETIREMENT MUTUAL FUND_
 | 1 | Hang Seng Artificial Intelligence Theme Total Return Index | Hang Seng Artificial Intelligence Theme Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 18.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **18.6%** ของกอง (ส่วนที่เหลือ 81.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

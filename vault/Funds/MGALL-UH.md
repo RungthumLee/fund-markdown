@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 396621751.81
 holdings_count: 2
 top10_pct_nav: 101.95
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 23.4
 master_fund: "State Street Bridgewater All Weather ETF"
 master_isin: "US78470P6300"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
@@ -192,6 +195,14 @@ U.S. Securities and Exchange Commission
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก (SPDR Bridgewater All Weather ETF) สัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 23.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **23.4%** ของกอง (ส่วนที่เหลือ 76.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

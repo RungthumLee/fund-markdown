@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 111177094.51
 holdings_count: 74
 top10_pct_nav: 45.18
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 89.8
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย ภัคพลวนวิทย์", "นาย พีรภัทร์แสงทองฉาย"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -235,6 +238,15 @@ _TISCO Income Plus RMF_
 | 3 | ดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 84.9 |
+| สหรัฐฯ | 4.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **89.8%** ของกอง (ส่วนที่เหลือ 10.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

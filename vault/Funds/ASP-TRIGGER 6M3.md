@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 288610938.8
 holdings_count: 19
 top10_pct_nav: 87.4
+market_countries: ["สหรัฐฯ", "จีน", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 64.4
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย กมลยศ สุขุมสุวรรณ"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, compliance/trigger-fund, use/accumulate]
 ---
@@ -171,6 +174,17 @@ _Asset Plus Trigger Fund 6M3_
 | 1 | ดัชนี MSCI AC World Daily Total Return Net USD | ดัชนี MSCI All Country World Index USD (Net) ในสัดส่วน 100% โดยปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเมื่อเทียบกับค่าสกุลเงินบาท ณ วันที่ลงทุน ในอัตราส่วน 90% และปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ในอัตราส่วน 10% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46 |
+| จีน | 8.3 |
+| ฮ่องกง | 6.4 |
+| สหราชอาณาจักร | 3.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **64.4%** ของกอง (ส่วนที่เหลือ 35.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

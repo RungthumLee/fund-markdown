@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1230321085.47
 holdings_count: 44
 top10_pct_nav: 68.12
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 65.5
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
@@ -186,6 +189,15 @@ _SCB MULTI  INCOME PLUS FUND_
 | 6 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 55.9 |
+| สหรัฐฯ | 9.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **65.5%** ของกอง (ส่วนที่เหลือ 34.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

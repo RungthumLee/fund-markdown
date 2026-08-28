@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 11473445159.19
 holdings_count: 68
 top10_pct_nav: 38.97
+market_countries: ["ไทย", "ระหว่างประเทศ", "มาเลเซีย"]
+country_top: "ไทย"
+country_coverage_pct: 102.1
 peer_group: "Money Market General"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/fully-hedged, struct/direct, tax/rmf, use/park-cash, use/tax-saving]
 ---
@@ -174,6 +177,17 @@ _Bualuang Money Market RMF_
 | 4 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 88.6 |
+| ระหว่างประเทศ | 10.2 |
+| มาเลเซีย | 1.7 |
+| สิงคโปร์ | 1.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **102.1%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

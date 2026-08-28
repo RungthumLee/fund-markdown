@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 34790303783.07
 holdings_count: 129
 top10_pct_nav: 45.38
+market_countries: ["ไทย", "ระหว่างประเทศ"]
+country_top: "ไทย"
+country_coverage_pct: 84.6
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. พรทิพา หนึ่งนํ้าใจ", "นาย เอกพจน์ ภู่วิบูลย์พาณิชย์"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
@@ -260,6 +263,15 @@ _Krungsri Active Fixed Income Fund_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุน้อยกว่าเท่ากับ 10 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 73.1 |
+| ระหว่างประเทศ | 11.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **84.6%** ของกอง (ส่วนที่เหลือ 15.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

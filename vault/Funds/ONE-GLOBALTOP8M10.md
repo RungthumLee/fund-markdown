@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 565439390.47
 holdings_count: 17
 top10_pct_nav: 101.22
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "เยอรมนี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 56.9
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -166,6 +169,16 @@ _ONE GLOBAL TOP 8M10 FUND_
 | 2 | FTSE All World Index TR Net of Tax | FTSE All-World Net Total Return Index USD Unhedged THB |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 39.3 |
+| ญี่ปุ่น | 12.1 |
+| เยอรมนี | 5.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **56.9%** ของกอง (ส่วนที่เหลือ 43.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

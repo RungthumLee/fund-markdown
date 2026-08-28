@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 41042574.43
 holdings_count: 24
 top10_pct_nav: 85.17
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 74.2
 fund_managers: ["นาย ชาญวุฒิ รุงแสงมนูญ", "นาย รุงโรจน นิลนพคุณ"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t5, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -170,6 +173,14 @@ _MFC Smart Fixed Income Plus Fund_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ BBB+ ขึ้นไป อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 74.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **74.2%** ของกอง (ส่วนที่เหลือ 25.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

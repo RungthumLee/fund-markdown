@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 70796255.22
 holdings_count: 31
 top10_pct_nav: 65.43
+market_countries: ["สิงคโปร์", "ฮ่องกง", "ออสเตรเลีย"]
+country_top: "สิงคโปร์"
+country_coverage_pct: 97.8
 peer_group: "Fund of Property fund - Foreign"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
@@ -193,6 +196,17 @@ _First Plus Asia Pacific Property REIT Fund_
 | 1 | GPR 250 REIT Asia USD Index GTR | GPR 250 REIT Asia USD Index GTR สัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สิงคโปร์ | 68.9 |
+| ฮ่องกง | 16.6 |
+| ออสเตรเลีย | 9.8 |
+| มาเลเซีย | 2.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.8%** ของกอง (ส่วนที่เหลือ 2.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

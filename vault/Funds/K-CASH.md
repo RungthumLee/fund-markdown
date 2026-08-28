@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 56647127146.8
 holdings_count: 53
 top10_pct_nav: 48.36
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 88.5
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธีรุตม์ ทวิชศรี"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
@@ -220,6 +223,14 @@ _K Cash Management Fund_
 | 1 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้เป็นตัวแทนองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 88.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **88.5%** ของกอง (ส่วนที่เหลือ 11.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

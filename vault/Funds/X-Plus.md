@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 505948069.21
 holdings_count: 30
 top10_pct_nav: 71.91
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.9
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t1, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -166,6 +169,14 @@ _XSpring Fixed Income Plus Fund_
 | 3 | ดัชนีตราสารหนี้ภาคเอกชนระยะสั้น (ThaiBMA Commercial Paper Index) ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ A- ขึ้นไป ของสมาคมตลาดตราสารหนี้ไทย | ดัชนีของตราสารหนี้เอกชนระยะสั้น (ThaiBMA Commercial Paper Index: A- up) ในสัดส่วน 50% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.9%** ของกอง (ส่วนที่เหลือ 4.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

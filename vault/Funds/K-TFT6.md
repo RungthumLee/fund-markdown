@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 165360533.36
 holdings_count: 21
 top10_pct_nav: 72.37
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 93.7
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. กอบพร กุลสุรกิจ"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, struct/direct, compliance/trigger-fund, use/accumulate]
@@ -155,6 +158,14 @@ _K Thai Flexible Trigger 6 Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้กำหนดองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 93.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.7%** ของกอง (ส่วนที่เหลือ 6.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

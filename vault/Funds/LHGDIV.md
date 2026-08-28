@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 29736183.34
 holdings_count: 11
 top10_pct_nav: 102.13
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร", "สวิตเซอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 32.0
 master_fund: "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
@@ -271,6 +274,19 @@ _LH GLOBAL EQUITY DIVIDEND FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 11.3 |
+| สหราชอาณาจักร | 8.2 |
+| สวิตเซอร์แลนด์ | 4 |
+| ฝรั่งเศส | 3.2 |
+| เยอรมนี | 2.8 |
+| อิตาลี | 2.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **32.0%** ของกอง (ส่วนที่เหลือ 68.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

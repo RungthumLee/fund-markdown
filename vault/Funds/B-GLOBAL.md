@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 8000087194.47
 holdings_count: 25
 top10_pct_nav: 98.99
+market_countries: ["สหรัฐฯ", "ไต้หวัน", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 29.9
 master_fund: "Wellington Glbl Quality Gr USD S Ac"
 master_isin: "LU0629158030"
 peer_group: "Global Equity"
@@ -184,6 +187,16 @@ Wellington Global Quality Growth Fund เป็นกองทุนที่ม
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 23.6 |
+| ไต้หวัน | 3.4 |
+| เกาหลีใต้ | 2.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **29.9%** ของกอง (ส่วนที่เหลือ 70.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

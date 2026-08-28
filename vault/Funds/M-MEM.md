@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2360674813.65
 holdings_count: 104
 top10_pct_nav: 107.32
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 88.7
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/total-market, fx/unhedged, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
@@ -175,6 +178,15 @@ _MFC Memory Chip Equity Fund Not for Retail Investors_
 | 1 | ดัชนี MSCI World Information Technology Net Total Return USD Index | MSCI World Information Technology Index ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน ในสัดส่วน 100% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 76.5 |
+| ญี่ปุ่น | 12.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **88.7%** ของกอง (ส่วนที่เหลือ 11.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

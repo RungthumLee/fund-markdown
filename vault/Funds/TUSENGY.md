@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 275652620.51
 holdings_count: 10
 top10_pct_nav: 100.17
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 71.5
 master_fund: "State Street Energy Select Sector SPDR ETF"
 master_isin: "US81369Y5069"
 peer_group: "Other Global Sector Equity"
@@ -178,6 +181,14 @@ _TISCO US Energy Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 71.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **71.5%** ของกอง (ส่วนที่เหลือ 28.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

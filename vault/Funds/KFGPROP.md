@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 539281609.09
 holdings_count: 12
 top10_pct_nav: 102.81
+market_countries: ["สหรัฐฯ", "ออสเตรเลีย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 51.9
 master_fund: "Janus Henderson Glb Rl EstEqInc I1qUSD"
 master_isin: "IE0033534888"
 peer_group: "Fund of Property fund - Foreign"
@@ -238,6 +241,15 @@ _Krungsri Global Property Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 48.1 |
+| ออสเตรเลีย | 3.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **51.9%** ของกอง (ส่วนที่เหลือ 48.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

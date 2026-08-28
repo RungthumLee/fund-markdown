@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 377089310.26
 holdings_count: 5
 top10_pct_nav: 98.98
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 35.9
 master_fund: "Vietnam Equity (UCITS) A USD"
 master_isin: "IE00BD5HPH84"
 peer_group: "Vietnam Equity"
@@ -173,6 +176,14 @@ _Eastspring Vietnam Active Equity RMF_
 | 1 | Vietnam Ho Chi Minh Stock Index | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 35.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **35.9%** ของกอง (ส่วนที่เหลือ 64.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

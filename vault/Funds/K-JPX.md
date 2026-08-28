@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1376943758.88
 holdings_count: 64
 top10_pct_nav: 101.68
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 22.3
 master_fund: "NEXT FUNDS TOPIX Exchange Traded Fund"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
@@ -196,6 +199,14 @@ _K Japanese Equity Index Fund_
 | 1 | TOPIX Total Return Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงจากอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทนร้อยละ 90 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทนร้อยละ 10 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 22.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **22.3%** ของกอง (ส่วนที่เหลือ 77.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

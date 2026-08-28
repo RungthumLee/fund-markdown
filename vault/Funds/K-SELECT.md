@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 291810938.06
 holdings_count: 20
 top10_pct_nav: 74.34
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.6
 peer_group: "Equity General"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "น.ส. กอบพร กุลสุรกิจ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
@@ -220,6 +223,14 @@ _K Select Equity Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | วัตถุประสงค์ในการอ้างอิงดัชนีชี้วัด : เพื่อใช้กำหนดองค์ประกอบของพอร์ตโฟลิโอและเปรียบเทียบผลการดำเนินงานของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.6%** ของกอง (ส่วนที่เหลือ 4.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

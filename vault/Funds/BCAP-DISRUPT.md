@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 331001506.15
 holdings_count: 15
 top10_pct_nav: 96.08
+market_countries: ["สหรัฐฯ", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 83.4
 peer_group: "Technology Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -164,6 +167,15 @@ _BCAP Disruptive Technology Fund_
 | 1 | ดัชนี MSCI ACWI Net Total Return USD | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 63.5 |
+| ฮ่องกง | 19.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **83.4%** ของกอง (ส่วนที่เหลือ 16.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

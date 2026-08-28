@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 102177613.11
 holdings_count: 10
 top10_pct_nav: 101.2
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 47.6
 master_fund: "Invesco Dynamic Leisure and Entertainment ETF"
 master_isin: "US46137V7203"
 peer_group: "Global Equity - Consumer Goods and Services"
@@ -178,6 +181,14 @@ _Eastspring Dynamic Leisure and Entertainment Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 95 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 5 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 47.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **47.6%** ของกอง (ส่วนที่เหลือ 52.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

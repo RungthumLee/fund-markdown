@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 81735882.0
 holdings_count: 47
 top10_pct_nav: 110.31
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 16.3
 master_fund: "Nomura Japan Small Cap Equity I JPY Acc"
 master_isin: "IE00BJCW7C72"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -233,6 +236,14 @@ _SCB Japan Small Cap Equity Fund_
 | 1 | ไม่มี | เนื่องจากกองทุนหลักใช้กลยุทธ์การลงทุนเชิงรุกและไม่ได้อ้างอิงดัชนีชี้วัดใด อย่างไรก็ตาม Reference Index ที่กองทุนหลักใช้ในการเปรียบเทียบผลการดำเนินงาน ได้แก่ Russell/Nomura Small Cap Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 16.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **16.3%** ของกอง (ส่วนที่เหลือ 83.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

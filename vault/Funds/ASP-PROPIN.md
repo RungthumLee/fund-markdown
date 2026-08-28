@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 61605465.16
 holdings_count: 23
 top10_pct_nav: 74.67
+market_countries: ["ไทย", "สิงคโปร์", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 77.4
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -202,6 +205,16 @@ _Asset Plus  Property and Infrastructure Flexible Fund_
 | 3 | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) ในสัดส่วน 50% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 44.1 |
+| สิงคโปร์ | 23.6 |
+| สหรัฐฯ | 9.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **77.4%** ของกอง (ส่วนที่เหลือ 22.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

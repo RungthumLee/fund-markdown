@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 951132414.74
 holdings_count: 27
 top10_pct_nav: 66.82
+market_countries: ["ไทย", "สิงคโปร์"]
+country_top: "ไทย"
+country_coverage_pct: 97.1
 peer_group: "Fund of Property Fund - Thai and Foreign"
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -183,6 +186,15 @@ _Bualuang Infrastructure and Real Estate Fund of Funds_
 | 2 | Bloomberg Singapore REIT Net Return Index | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 52.7 |
+| สิงคโปร์ | 44.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.1%** ของกอง (ส่วนที่เหลือ 2.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 176980996.21
 holdings_count: 31
 top10_pct_nav: 141.8
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 29.7
 master_fund: "DWS Concept Nissay Jpn Val Eq JPY XC Acc"
 master_isin: "LU2838977887"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
@@ -271,6 +274,14 @@ _Principal Japanese Equity Fund_
 | 2 | ดัชนี TOPIX Net Total Return | TPXNTR Index adjusted with FX hedging cost |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 29.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **29.7%** ของกอง (ส่วนที่เหลือ 70.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

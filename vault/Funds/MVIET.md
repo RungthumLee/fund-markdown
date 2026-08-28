@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 170112980.73
 holdings_count: 22
 top10_pct_nav: 105.85
+market_countries: ["ลิกเตนสไตน์"]
+country_top: "ลิกเตนสไตน์"
+country_coverage_pct: 50.6
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -167,6 +170,14 @@ _MFC Vietnam Opportunities Fund_
 | 1 | ดัชนี MSCI Vietnam Net Total Return USD Index | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ลิกเตนสไตน์ | 50.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **50.6%** ของกอง (ส่วนที่เหลือ 49.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

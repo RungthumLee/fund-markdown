@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 102263326.05
 holdings_count: 27
 top10_pct_nav: 107.13
+market_countries: ["สหรัฐฯ", "เกาหลีใต้", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 58.1
 master_fund: "iShares Digital Entertainment and Education UCITS ETF USD (Acc)"
 master_isin: "IE00023EZQ82"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
@@ -216,6 +219,16 @@ _Principal Global Education Tech Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 47.1 |
+| เกาหลีใต้ | 6.4 |
+| ญี่ปุ่น | 4.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **58.1%** ของกอง (ส่วนที่เหลือ 41.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

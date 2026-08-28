@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 20295316502.82
 holdings_count: 211
 top10_pct_nav: 64.32
+market_countries: ["ไทย", "สวีเดน", "ไต้หวัน"]
+country_top: "ไทย"
+country_coverage_pct: 97.4
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, use/park-cash]
 ---
 
@@ -210,6 +213,17 @@ _Krung Thai SV Fund_
 | 1 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97.3 |
+| สวีเดน | 0.1 |
+| ไต้หวัน | 0 |
+| สิงคโปร์ | 0 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.4%** ของกอง (ส่วนที่เหลือ 2.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

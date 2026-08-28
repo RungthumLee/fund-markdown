@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 3886473511.28
 holdings_count: 36
 top10_pct_nav: 64.78
+market_countries: ["สหรัฐฯ", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 8.4
 peer_group: "Foreign Investment Allocation"
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -168,6 +171,15 @@ _BCAP Global Multi Asset Plus Fund_
 | 2 | ดัชนี MSCI ACWI Net Total Return USD | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคํานวณผลตอบแทนของกองทุนเป็นสกุลเงินบาท ณ สิ้นวันทำการสุดท้ายของเดือน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 6.5 |
+| ฮ่องกง | 1.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **8.4%** ของกอง (ส่วนที่เหลือ 91.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2185217544.82
 holdings_count: 4
 top10_pct_nav: 100.51
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 37.4
 master_fund: "iShares Core S&P 500 ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
@@ -285,6 +288,14 @@ _KKP US500 FUND - UNHEDGED_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 37.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.4%** ของกอง (ส่วนที่เหลือ 62.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

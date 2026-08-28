@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 951958711.45
 holdings_count: 21
 top10_pct_nav: 107.1
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 78.6
 peer_group: "Conservative Allocation"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -174,6 +177,15 @@ _BCAP Global Wealth 10 Fund_
 | 4 | Bloomberg Global Aggregate Total Return Index Hedged THB | ของมูลค่าทรัพย์สินสุทธิของกองทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 78.1 |
+| สหรัฐฯ | 0.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **78.6%** ของกอง (ส่วนที่เหลือ 21.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

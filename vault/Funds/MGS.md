@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2718428.92
 holdings_count: 16
 top10_pct_nav: 104.25
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 95.7
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -187,6 +190,14 @@ _MFC Global Smart Fund_
 | 1 | ดัชนี MSCI ACWI Net Total Return USD | MSCI All Country World Net Total Return USD Index สัดส่วน 100% ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน สัดส่วน 85% และปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน สัดส่วน 15% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 95.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.7%** ของกอง (ส่วนที่เหลือ 4.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

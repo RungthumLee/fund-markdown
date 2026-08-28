@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 291384614340.38
 holdings_count: 200
 top10_pct_nav: 24.42
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 63.7
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย สารัช อรุณากูร"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
@@ -238,6 +241,14 @@ _K Short Term Fixed Income Fund_
 | 4 | ดัชนีตราสารหนี้ภาคเอกชนที่มีอายุคงที่มีอันดับความน่าเชื่อถืออยู่ในระดับ A อายุ 1 ปี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 63.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **63.7%** ของกอง (ส่วนที่เหลือ 36.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

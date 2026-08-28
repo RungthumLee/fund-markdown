@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 385932800.57
 holdings_count: 6
 top10_pct_nav: 100.58
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 46.0
 master_fund: "Global X Cloud Computing ETF"
 master_isin: "US37954Y4420"
 peer_group: "Technology Equity"
@@ -177,6 +180,14 @@ _TISCO Cloud Computing Equity Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.0%** ของกอง (ส่วนที่เหลือ 54.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

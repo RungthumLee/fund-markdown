@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 32406633.55
 holdings_count: 9
 top10_pct_nav: 100.22
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 22.7
 master_fund: "abrdn-Future Global Equity Z Acc USD"
 master_isin: "LU1653037256"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -209,6 +212,19 @@ _abrdn Global Innovation Equity Fund_
 | 3 | ดัชนี MSCI AC World | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 9.6 |
+| ญี่ปุ่น | 3.1 |
+| เนเธอร์แลนด์ | 2.8 |
+| ฝรั่งเศส | 2.6 |
+| ไต้หวัน | 2.5 |
+| แคนาดา | 2.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **22.7%** ของกอง (ส่วนที่เหลือ 77.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

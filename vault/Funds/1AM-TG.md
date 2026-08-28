@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 693773490.36
 holdings_count: 13
 top10_pct_nav: 98.44
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.1
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
 tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/enhanced-index, use/accumulate]
 ---
@@ -164,6 +167,14 @@ _1 A.M. THAI GOVERNMENT BOND FUND_
 | 2 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตราสารหนี้ไทย | TBMA Short-term Government Bond Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.1%** ของกอง (ส่วนที่เหลือ 0.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

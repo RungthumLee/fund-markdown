@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1863674833.13
 holdings_count: 39
 top10_pct_nav: 67.3
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 94.6
 peer_group: "Equity General"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -173,6 +176,15 @@ _Bualuang Basic RMF_
 | 5 | ดัชนีผลตอบแทนรวมธุรกิจพาณิชย์ (COMM TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 84.9 |
+| สหรัฐฯ | 9.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.6%** ของกอง (ส่วนที่เหลือ 5.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 1161569873.28
 holdings_count: 56
 top10_pct_nav: 92.82
+market_countries: ["สหรัฐฯ", "ไทย", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 76.3
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -213,6 +216,16 @@ _B YOU FUND - COREPORT_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 38.7 |
+| ไทย | 36.4 |
+| ญี่ปุ่น | 1.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **76.3%** ของกอง (ส่วนที่เหลือ 23.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

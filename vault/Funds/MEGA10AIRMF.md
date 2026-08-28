@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 111040970.08
 holdings_count: 12
 top10_pct_nav: 94.68
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 94.7
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, fx/unhedged, struct/direct, tax/rmf, use/tax-saving]
 ---
 
@@ -168,6 +171,14 @@ _MEGA 10 ARTIFICIAL INTELLIGENCE RETIREMENT MUTUAL FUND_
 | 1 | ดัชนี S&P 500 Total Return | ดัชนี S&P 500 Total Return |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 94.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.7%** ของกอง (ส่วนที่เหลือ 5.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

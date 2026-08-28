@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1458332698.92
 holdings_count: 13
 top10_pct_nav: 102.52
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 97.2
 peer_group: "Health Care"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, conc/ultra-concentrated, fx/partially-hedged, struct/direct, use/accumulate]
@@ -173,6 +176,14 @@ _TISCO Genomic Revolution Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 97.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.2%** ของกอง (ส่วนที่เหลือ 2.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

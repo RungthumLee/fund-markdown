@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 315159305.16
 holdings_count: 17
 top10_pct_nav: 97.68
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 92.7
 fund_managers: ["นาย คมสัน ผลานุสนธิ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -168,6 +171,15 @@ _Asset Plus Digital Blockchain RMF Fund_
 | 1 | MVIS Global Digital Assets Equity Index Total Return Net | ดัชนี MVIS Global Digital Assets Equity Index Total Return Net ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 85.5 |
+| เนเธอร์แลนด์ | 7.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **92.7%** ของกอง (ส่วนที่เหลือ 7.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

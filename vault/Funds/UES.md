@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 184138120.57
 holdings_count: 4
 top10_pct_nav: 82.25
+market_countries: ["สหราชอาณาจักร", "ฝรั่งเศส", "เนเธอร์แลนด์"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 20.4
 master_fund: "Amundi Fds European Eq Sm Cp I2 EUR C"
 master_isin: "LU1883307545"
 peer_group: "European Equity"
@@ -175,6 +178,17 @@ _United European Small Cap Fund_
 | 2 | ดัชนี MSCI Europe Small Cap | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน เพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 8.2 |
+| ฝรั่งเศส | 7.3 |
+| เนเธอร์แลนด์ | 2.8 |
+| สวิตเซอร์แลนด์ | 2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **20.4%** ของกอง (ส่วนที่เหลือ 79.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

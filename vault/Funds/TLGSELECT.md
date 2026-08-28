@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 225747131.71
 holdings_count: 29
 top10_pct_nav: 59.79
+market_countries: ["สหรัฐฯ", "สวิตเซอร์แลนด์", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 84.7
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
@@ -168,6 +171,17 @@ _TALIS GLOBAL SELECT FUND_
 | 2 | Morningstar Global Target Market Exposure NR USD | Morningstar Global Target Market Exposure NR USD |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 75.8 |
+| สวิตเซอร์แลนด์ | 3.5 |
+| ญี่ปุ่น | 3.4 |
+| ฝรั่งเศส | 2.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **84.7%** ของกอง (ส่วนที่เหลือ 15.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

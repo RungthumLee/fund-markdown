@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1735699042.02
 holdings_count: 4
 top10_pct_nav: 100.35
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 37.6
 master_fund: "Robeco Global Stars Equities IL USD"
 master_isin: "LU2080584019"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
@@ -262,6 +265,14 @@ _United Global Stars Equity Fund_
 | 2 | MSCI World Net Total Return USD Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 37.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.6%** ของกอง (ส่วนที่เหลือ 62.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

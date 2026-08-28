@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 44153677.47
 holdings_count: 38
 top10_pct_nav: 57.31
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 80.6
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, use/income]
 ---
 
@@ -202,6 +205,14 @@ _SCB SMART PLAN 4 OPEN END FUND_
 | 7 | Bloomberg GLOBAL AGGREGATE Total RETURN INDEX VALUE Hedged USD | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนในช่วงระยะเวลาที่คำนวณผลตอบแทนของตัวชี้วัดเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาทในอัตราส่วน 95% และปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ในอัตราส่วน 5% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 80.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **80.6%** ของกอง (ส่วนที่เหลือ 19.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

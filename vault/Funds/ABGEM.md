@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 412039726.59
 holdings_count: 13
 top10_pct_nav: 104.17
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "จีน"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 37.9
 master_fund: "abrdn-Emerg Markets Equity Z Acc USD"
 master_isin: "LU0278911010"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
@@ -178,6 +181,18 @@ _abrdn Global Emerging Growth Fund_
 | 3 | ดัชนี MSCI Emerging Markets Index | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 16.6 |
+| เกาหลีใต้ | 8.7 |
+| จีน | 5.3 |
+| ฮ่องกง | 4.2 |
+| อินเดีย | 3.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.9%** ของกอง (ส่วนที่เหลือ 62.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

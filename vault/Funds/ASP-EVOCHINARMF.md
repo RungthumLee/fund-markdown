@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 138969831.82
 holdings_count: 34
 top10_pct_nav: 54.67
+market_countries: ["จีน", "สหรัฐฯ", "ฮ่องกง"]
+country_top: "จีน"
+country_coverage_pct: 78.2
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "นาย กมลยศ สุขุมสุวรรณ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -168,6 +171,16 @@ _Asset Plus Evolution China Equity RMF Fund_
 | 1 | ดัชนี MSCI China TRN | ดัชนี MSCI China TRN ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 51.5 |
+| สหรัฐฯ | 13.6 |
+| ฮ่องกง | 13 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **78.2%** ของกอง (ส่วนที่เหลือ 21.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

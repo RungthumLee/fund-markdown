@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 107328430.06
 holdings_count: 6
 top10_pct_nav: 100.48
+market_countries: ["ลิกเตนสไตน์", "สิงคโปร์"]
+country_top: "ลิกเตนสไตน์"
+country_coverage_pct: 88.6
 peer_group: "Vietnam Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -183,6 +186,15 @@ _TISCO Vietnam Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนให้อยู่ในรูปสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ลิกเตนสไตน์ | 71.2 |
+| สิงคโปร์ | 17.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **88.6%** ของกอง (ส่วนที่เหลือ 11.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

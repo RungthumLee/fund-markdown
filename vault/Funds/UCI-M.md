@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2919385957.92
 holdings_count: 4
 top10_pct_nav: 104.38
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 48.6
 master_fund: "United China A-Shares Innovt T USD Acc"
 master_isin: "SGXZ16399552"
 peer_group: "China Equity - A Shares"
@@ -203,6 +206,14 @@ _United China A-Shares Innovation Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 48.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.6%** ของกอง (ส่วนที่เหลือ 51.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

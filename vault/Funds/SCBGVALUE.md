@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 439727384.58
 holdings_count: 104
 top10_pct_nav: 105.97
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 27.4
 master_fund: "iShares Edge MSCI World Value Factor UCITS ETF USD (Acc)"
 master_isin: "IE00BP3QZB59"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
@@ -280,6 +283,16 @@ _SCB Global Value Equity_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 95%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 5%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 24.5 |
+| ญี่ปุ่น | 1.7 |
+| สหราชอาณาจักร | 1.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **27.4%** ของกอง (ส่วนที่เหลือ 72.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

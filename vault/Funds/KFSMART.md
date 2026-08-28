@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 152348557844.21
 holdings_count: 146
 top10_pct_nav: 25.2
+market_countries: ["ไทย", "ระหว่างประเทศ"]
+country_top: "ไทย"
+country_coverage_pct: 88.3
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย ธีรภาพ จิรศักยกุล", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
@@ -221,6 +224,15 @@ _Krungsri Smart Fixed Income Fund_
 | 4 | ดัชนีอัตราดอกเบี้ยอ้างอิง THOR หลังหักภาษี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 76.2 |
+| ระหว่างประเทศ | 12.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **88.3%** ของกอง (ส่วนที่เหลือ 11.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

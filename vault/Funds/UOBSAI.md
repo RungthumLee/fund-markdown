@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 71361756.55
 holdings_count: 4
 top10_pct_nav: 99.99
+market_countries: ["ไต้หวัน", "ฮ่องกง", "จีน"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 17.5
 master_fund: "JPM Asia Pacific Income A mth USD"
 master_isin: "LU0784639295"
 peer_group: "Foreign Investment Allocation"
@@ -174,6 +177,18 @@ _UOB Smart Asia Pacific Income Fund_
 | 2 | ดัชนี MSCI All Country Asia Pacific ex Japan Index (Total Return Net) | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน 95% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 8.5 |
+| ฮ่องกง | 3.6 |
+| จีน | 2.4 |
+| เกาหลีใต้ | 1.9 |
+| ออสเตรเลีย | 1.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **17.5%** ของกอง (ส่วนที่เหลือ 82.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

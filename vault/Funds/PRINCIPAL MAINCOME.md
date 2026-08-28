@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 366232167.11
 holdings_count: 113
 top10_pct_nav: 67.06
+market_countries: ["ไทย", "สหรัฐฯ", "ญี่ปุ่น"]
+country_top: "ไทย"
+country_coverage_pct: 54.8
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -236,6 +239,16 @@ _Principal Multi Asset Income Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 37.6 |
+| สหรัฐฯ | 16.8 |
+| ญี่ปุ่น | 0.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **54.8%** ของกอง (ส่วนที่เหลือ 45.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 47078470.9
 holdings_count: 4
 top10_pct_nav: 101.15
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "อินเดีย"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 26.0
 master_fund: "AB EM Multi-Asset S1 USD"
 master_isin: "LU0633141881"
 peer_group: "Foreign Investment Allocation"
@@ -207,6 +210,16 @@ _United Emerging Markets Income Fund_
 | 2 | ดัชนี MSCI Emerging Markets Net Total Return | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน เพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 12.7 |
+| เกาหลีใต้ | 11.7 |
+| อินเดีย | 1.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **26.0%** ของกอง (ส่วนที่เหลือ 74.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 144939815.5
 holdings_count: 38
 top10_pct_nav: 60.47
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 85.9
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
@@ -151,6 +154,14 @@ _LH FLEXIBLE FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 85.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **85.9%** ของกอง (ส่วนที่เหลือ 14.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

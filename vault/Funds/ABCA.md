@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 131114413.89
 holdings_count: 9
 top10_pct_nav: 102.27
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 35.0
 master_fund: "abrdn-China A Share Sust Eq Z Acc USD"
 master_isin: "LU1130125955"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -192,6 +195,14 @@ _abrdn China A Share Sustainable Equity Fund_
 | 3 | ดัชนี MSCI China A Onshore | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวมnกองทุนป้องกันความเสี่ยงจากอัตราแลกเปลี่ยนตามดุลพินิจของผู้จัดการกองทุนโดยมีเป้าหมายป้องกันความเสี่ยงไม่น้อยกว่า 90% ทั้งนี้ตัวชี้วัดแสดงในรูปสกุลเงิน USD ซึ่งเป็นตัวชี้วัดเดียวกับกองทุนหลัก โดยมิได้ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแ |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 35 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **35.0%** ของกอง (ส่วนที่เหลือ 65.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

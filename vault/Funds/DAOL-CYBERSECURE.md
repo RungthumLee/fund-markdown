@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 166258804.08
 holdings_count: 25
 top10_pct_nav: 63.42
+market_countries: ["สหรัฐฯ", "แคนาดา"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 32.9
 master_fund: "Allianz Cyber Security RT USD Acc"
 master_isin: "LU2286301283"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
@@ -183,6 +186,15 @@ _DAOL CYBER SECURITY  FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 28.1 |
+| แคนาดา | 4.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **32.9%** ของกอง (ส่วนที่เหลือ 67.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

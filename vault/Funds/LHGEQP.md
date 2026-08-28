@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 790754409.31
 holdings_count: 12
 top10_pct_nav: 101.32
+market_countries: ["สหรัฐฯ", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 23.6
 master_fund: "iShares MSCI ACWI ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
@@ -270,6 +273,15 @@ _LH Global Equity Passive Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 21.9 |
+| ไต้หวัน | 1.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **23.6%** ของกอง (ส่วนที่เหลือ 76.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

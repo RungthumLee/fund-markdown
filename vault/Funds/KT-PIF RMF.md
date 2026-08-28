@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 222444243.47
 holdings_count: 39
 top10_pct_nav: 68.63
+market_countries: ["ไทย", "สิงคโปร์", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 97.3
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t3, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -169,6 +172,16 @@ _Krung Thai Property and Infrastructure Flexible RMF_
 | 2 | ดัชนีผลตอบแทนรวมของกองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ (PF&REIT Total Return Index) | PF&REIT Total Return Index.(50%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 54.3 |
+| สิงคโปร์ | 40.9 |
+| สหรัฐฯ | 2.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.3%** ของกอง (ส่วนที่เหลือ 2.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

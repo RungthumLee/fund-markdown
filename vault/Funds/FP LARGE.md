@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 37469283.48
 holdings_count: 47
 top10_pct_nav: 54.65
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.3
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/ssf, use/tax-saving]
@@ -208,6 +211,14 @@ _First Plus Large Cap Equity Fund_
 | 1 | ดัชนีผลตอบแทนรวม SET 50 Free Float Adjusted Market Capitalization Weighted (SET50FF TRI) | ดัชนีผลตอบแทนรวม SET 50FF (SET50FF TRI) สัดส่วน 100% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.3%** ของกอง (ส่วนที่เหลือ 0.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

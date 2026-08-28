@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 165294846.66
 holdings_count: 26
 top10_pct_nav: 63.83
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.9
 fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย พิพัฒน์ นรานันทน์"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -168,6 +171,14 @@ _MFC Equity Top 25 Thailand ESG Fund_
 | 1 | SET ESG Total Return Index | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.9%** ของกอง (ส่วนที่เหลือ 1.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

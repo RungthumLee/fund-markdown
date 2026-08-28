@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 643083745.4
 holdings_count: 14
 top10_pct_nav: 102.34
+market_countries: ["สหรัฐฯ", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 23.9
 master_fund: "iShares MSCI ACWI ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
@@ -187,6 +190,15 @@ _KKP PASSIVE GLOBAL EQUITY RMF-HEDGED_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 22.1 |
+| ไต้หวัน | 1.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **23.9%** ของกอง (ส่วนที่เหลือ 76.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

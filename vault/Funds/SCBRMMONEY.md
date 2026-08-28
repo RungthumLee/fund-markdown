@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 437265192.8
 holdings_count: 16
 top10_pct_nav: 98.78
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 100.0
 master_fund: "กองทุนเปิดไทยพาณิชย์ ตราสารตลาดเงิน เพื่อการเลี้ยงชีพ"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t2, struct/feeder, style/active, use/park-cash]
 ---
@@ -185,6 +188,14 @@ _SCB Money Market RMF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 100 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.0%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

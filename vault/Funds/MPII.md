@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 86824888.76
 holdings_count: 47
 top10_pct_nav: 63.95
+market_countries: ["สิงคโปร์", "ไทย", "ออสเตรเลีย"]
+country_top: "สิงคโปร์"
+country_coverage_pct: 99.7
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -258,6 +261,17 @@ _MFC Property and Infrastructure Flexible Income Fund_
 | 2 | ดัชนี SGX S-REIT Total Return | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สิงคโปร์ | 51.6 |
+| ไทย | 43.5 |
+| ออสเตรเลีย | 2.3 |
+| สหรัฐฯ | 2.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.7%** ของกอง (ส่วนที่เหลือ 0.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-06-02"
 fund_size: 301445713.05
 holdings_count: 8
 top10_pct_nav: 100.29
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 4.7
 master_fund: "Oaktree Strategic Credit iCapital Access Fund SPC"
 master_isin: "KYG6690J1783"
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
@@ -231,6 +234,14 @@ _Asset Plus Strategic Credit Fund Not for Retail Investors_
 | 1 | ไม่มี | ไม่มี เนื่องจากกองทุนหลักและกองทุนอ้างอิงไม่มีดัชนีชี้วัด |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 4.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **4.7%** ของกอง (ส่วนที่เหลือ 95.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

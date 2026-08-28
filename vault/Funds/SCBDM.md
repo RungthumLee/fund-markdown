@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 29982024.8
 holdings_count: 38
 top10_pct_nav: 98.95
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "เยอรมนี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 68.0
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -173,6 +176,16 @@ _SCB Dynamic Fund_
 | 2 | Bloomberg US Aggregate Total Return Value Unhedged USD Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 95%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 5%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 65.9 |
+| ญี่ปุ่น | 1.1 |
+| เยอรมนี | 1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **68.0%** ของกอง (ส่วนที่เหลือ 32.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

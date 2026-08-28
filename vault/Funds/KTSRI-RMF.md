@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 60044072.01
 holdings_count: 36
 top10_pct_nav: 80.47
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 72.9
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -178,6 +181,14 @@ _Krung Thai Sri Siri RMF_
 | 1 | อัตราผลตอบแทนร้อยละ 5 ต่อปี | อัตราผลตอบแทนร้อยละ 5 ต่อปี |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 72.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **72.9%** ของกอง (ส่วนที่เหลือ 27.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

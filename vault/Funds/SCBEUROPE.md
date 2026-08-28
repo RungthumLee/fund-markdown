@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 705563089.1
 holdings_count: 32
 top10_pct_nav: 101.93
+market_countries: ["ฝรั่งเศส", "สหรัฐฯ", "อิตาลี"]
+country_top: "ฝรั่งเศส"
+country_coverage_pct: 41.2
 master_fund: "MS INVF Europe Opportunity Z"
 master_isin: "LU1387591727"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -305,6 +308,17 @@ _SCB Europe Active Equity_
 | 1 | Bloomberg Europe Developed Markets Large & Mid Cap Net Return Index EUR | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 80%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 20%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฝรั่งเศส | 14.4 |
+| สหรัฐฯ | 13.5 |
+| อิตาลี | 7.4 |
+| เนเธอร์แลนด์ | 5.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **41.2%** ของกอง (ส่วนที่เหลือ 58.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

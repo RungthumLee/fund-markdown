@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 22373154.44
 holdings_count: 14
 top10_pct_nav: 109.21
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 71.3
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "น.ส. จารุภัทร์ ศรีจำเริญ"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -167,6 +170,14 @@ _ONE HOSPITAL FUND_
 | 3 | ดัชนีผลตอบแทนรวมธุรกิจการแพทย์ (HELTH TRI) | SET Health Care Services Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 71.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **71.3%** ของกอง (ส่วนที่เหลือ 28.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

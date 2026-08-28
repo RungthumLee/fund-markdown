@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 144019144.25
 holdings_count: 4
 top10_pct_nav: 100.08
+market_countries: ["สหรัฐฯ", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 12.4
 master_fund: "BGF Global Allocation A2"
 master_isin: "LU0072462426"
 peer_group: "Foreign Investment Allocation"
@@ -206,6 +209,15 @@ _UOB Smart Global Allocation Fund_
 | 4 | ดัชนี S&P 500 Total Return | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน 95% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 10.7 |
+| ไต้หวัน | 1.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **12.4%** ของกอง (ส่วนที่เหลือ 87.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

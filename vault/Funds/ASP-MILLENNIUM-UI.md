@@ -23,6 +23,9 @@ nav_date: "2026-07-01"
 fund_size: 3398039931.09
 holdings_count: 8
 top10_pct_nav: 100.29
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 2.8
 master_fund: "Wellspring GBL Fund"
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
@@ -175,6 +178,14 @@ _Asset Plus Millennium Fund (Unhedged) Not for Retail Investors_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก ในสัดส่วน 100% โดยปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 2.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **2.8%** ของกอง (ส่วนที่เหลือ 97.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

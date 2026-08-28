@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 63793501.38
 holdings_count: 3
 top10_pct_nav: 100.44
+market_countries: ["อินเดีย"]
+country_top: "อินเดีย"
+country_coverage_pct: 36.5
 master_fund: "Manulife GF India Equity I2"
 master_isin: "LU1079480668"
 peer_group: "India Equity"
@@ -206,6 +209,14 @@ _First Plus India Equity FIF_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก (past performance of master fund) สัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 36.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.5%** ของกอง (ส่วนที่เหลือ 63.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -21,6 +21,9 @@ nav_date: "2026-08-25"
 fund_size: 65088520.56
 holdings_count: 25
 top10_pct_nav: 125.22
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 33.6
 master_fund: "Nomura Fds Japan Strategic Value I JPY"
 master_isin: "IE00B3VTL690"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
@@ -175,6 +178,14 @@ _DAOL JAPAN STRATEGIC VALUE FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 33.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **33.6%** ของกอง (ส่วนที่เหลือ 66.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

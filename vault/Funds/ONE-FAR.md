@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 442479695.6
 holdings_count: 42
 top10_pct_nav: 64.68
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.9
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, use/accumulate]
 ---
@@ -168,6 +171,14 @@ _ONE  FIXED INCOME AUTOMATIC REDEMPTION FUND_
 | 2 | อัตราดอกเบี้ยเงินฝากประจำ 1 ปี วงเงินน้อยกว่า 5 ล้านบาท เฉลี่ยของ 3 ธนาคารพาณิชย์ขนาดใหญ่ ได้แก่ ธนาคารกรุงเทพ ธนาคารกสิกรไทย และธนาคารไทยพาณิชย์ | Avg 1Y F/D Rate Retail 1MB BBL KBANK SCB TAX |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.9%** ของกอง (ส่วนที่เหลือ 0.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

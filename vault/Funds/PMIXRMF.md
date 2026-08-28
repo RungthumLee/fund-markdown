@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 39453723.43
 holdings_count: 40
 top10_pct_nav: 59.21
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 86.9
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย พุทธินันท์ วชิราคม  ตั้งแต่ 04 ก.ย. 2566", "นาย สุชาติ เจริญวุฒิคุณ  ตั้งแต่ 24 ส.ค. 2566"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -161,6 +164,15 @@ _PHILLIP MIXED RETIREMENT MUTUAL FUND_
 | 2 | ดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ BBB ขึ้นไป ของสมาคมตลาดตราสารหนี้ไทย | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลของสมาคมตลาดตราสารหนี้ไทย (ThaiBMA Government Bond Index Total Return) สัดส่วน 50% โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 73 |
+| สหรัฐฯ | 13.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **86.9%** ของกอง (ส่วนที่เหลือ 13.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

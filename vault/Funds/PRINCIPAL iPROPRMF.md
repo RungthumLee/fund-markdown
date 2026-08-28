@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1149209249.73
 holdings_count: 54
 top10_pct_nav: 65.7
+market_countries: ["ไทย", "สิงคโปร์"]
+country_top: "ไทย"
+country_coverage_pct: 98.0
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -177,6 +180,15 @@ _Principal Property Income Retirement Mutual Fund_
 | 3 | ดัชนี FTSE Strait times REIT Index | FSTREI TRI Index (THB) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 56.7 |
+| สิงคโปร์ | 41.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.0%** ของกอง (ส่วนที่เหลือ 2.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

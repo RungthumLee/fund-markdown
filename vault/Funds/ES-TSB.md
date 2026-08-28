@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 637539437.42
 holdings_count: 54
 top10_pct_nav: 37.14
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.0
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. วิภาสิริ เกษมศุข"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/unhedged, struct/direct, style/active, use/accumulate]
@@ -183,6 +186,14 @@ _Eastspring Thi Ra Sombat Fund_
 | 2 | ผลตอบแทนรวมสุทธิของดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ BBB ขึ้นไป อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.0%** ของกอง (ส่วนที่เหลือ 1.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

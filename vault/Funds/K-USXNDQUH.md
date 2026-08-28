@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 344790814.45
 holdings_count: 4
 top10_pct_nav: 100.91
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 45.6
 master_fund: "Invesco NASDAQ 100 ETF"
 peer_group: "US Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
@@ -199,6 +202,14 @@ Websitehttps://www.invesco.com/us/financial-products/etfs/
 | 1 | ดัชนี NASDAQ-100 Total Return | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 45.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.6%** ของกอง (ส่วนที่เหลือ 54.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

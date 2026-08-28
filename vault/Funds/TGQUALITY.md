@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 993112337.99
 holdings_count: 5
 top10_pct_nav: 100.11
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 33.7
 master_fund: "iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc)"
 master_isin: "IE00BP3QZ601"
 peer_group: "Global Equity"
@@ -211,6 +214,15 @@ _TISCO Global Quality Equity Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 30.8 |
+| เนเธอร์แลนด์ | 2.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **33.7%** ของกอง (ส่วนที่เหลือ 66.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

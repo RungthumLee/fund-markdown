@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 96836315.81
 holdings_count: 39
 top10_pct_nav: 63.31
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 74.2
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
@@ -191,6 +194,14 @@ _LH Select Fund_
 | 3 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 74.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **74.2%** ของกอง (ส่วนที่เหลือ 25.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

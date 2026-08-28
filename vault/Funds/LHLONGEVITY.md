@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 49655957.87
 holdings_count: 23
 top10_pct_nav: 155.64
+market_countries: ["สหรัฐฯ", "สวิตเซอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 42.6
 master_fund: "Tema Oncology ETF"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
@@ -154,6 +157,15 @@ _LH LONGEVITY HEALTHCARE FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 38.4 |
+| สวิตเซอร์แลนด์ | 4.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.6%** ของกอง (ส่วนที่เหลือ 57.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

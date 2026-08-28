@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 323220271.4
 holdings_count: 88
 top10_pct_nav: 55.42
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 90.3
 fund_managers: ["นาย วิภพ เฉลียวจิตติกุล", "นาย รุ่งโรจน์ นิลนพคุณ"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
@@ -190,6 +193,14 @@ _MFC Senior Taweesuk Retirement Fund_
 | 4 | ดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ A- ขึ้นไป อายุ 1 - 3 ปี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 90.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **90.3%** ของกอง (ส่วนที่เหลือ 9.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

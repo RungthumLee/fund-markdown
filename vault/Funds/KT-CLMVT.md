@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 233999727.03
 holdings_count: 67
 top10_pct_nav: 41.08
+market_countries: ["ไทย", "เวียดนาม"]
+country_top: "ไทย"
+country_coverage_pct: 97.5
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
@@ -213,6 +216,15 @@ _Krung Thai CLMVT Equity Fund_
 | 2 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) (50%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 53.7 |
+| เวียดนาม | 43.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.5%** ของกอง (ส่วนที่เหลือ 2.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

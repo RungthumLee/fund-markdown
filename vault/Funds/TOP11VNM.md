@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 195208911.31
 holdings_count: 13
 top10_pct_nav: 85.75
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 93.9
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
 tags: [fund, sec-data, asset/equity, risk/high, conc/ultra-concentrated, fx/unhedged, struct/direct, use/accumulate]
 ---
@@ -157,6 +160,14 @@ _TOP 11 VIETNAM FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 93.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.9%** ของกอง (ส่วนที่เหลือ 6.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

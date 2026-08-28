@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 42008884.15
 holdings_count: 5
 top10_pct_nav: 99.71
+market_countries: ["ญี่ปุ่น"]
+country_top: "ญี่ปุ่น"
+country_coverage_pct: 46.5
 master_fund: "NEXT FUNDS REIT INDEX ETF"
 master_isin: "JP3047010008"
 peer_group: "Fund of Property Fund - Foreign"
@@ -184,6 +187,14 @@ _TISCO Japan REIT Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ญี่ปุ่น | 46.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.5%** ของกอง (ส่วนที่เหลือ 53.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

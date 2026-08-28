@@ -18,6 +18,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fees  # noqa: E402
+import geography  # noqa: E402
 import tagging  # noqa: E402
 from sec_client import ROOT, get_logger  # noqa: E402
 
@@ -229,6 +230,12 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
     if f.get("portfolio"):
         a(f"holdings_count: {f['portfolio']['total_rows']}")
         a(f"top10_pct_nav: {f['portfolio'].get('top10_pct_nav') or 0}")
+    # market-country breakdown from holdings (DEC-L01); computed once, reused in §7
+    _mix = geography.fund_country_mix(f, LOOKTHROUGH)
+    if _mix["rows"]:
+        a("market_countries: [" + ", ".join(yaml_str(c) for c, _ in _mix["rows"][:3]) + "]")
+        a(f"country_top: {yaml_str(_mix['rows'][0][0])}")
+        a(f"country_coverage_pct: {_mix['covered']}")
     _fs = f.get("factsheet_sections") or {}
     if f.get("_master"):
         a(f"master_fund: {yaml_str(f['_master']['name'])}")
@@ -492,6 +499,18 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
     # ---- 7. portfolio
     a("## 7. พอร์ตการลงทุน")
     a("")
+    # country mix from the actual holdings (DEC-L01): market_country, weighted
+    # by % of fund, with the uncovered tail stated so it never reads as complete
+    # (_mix was computed in the frontmatter block above)
+    if _mix["rows"]:
+        a("### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)")
+        a("")
+        o.extend(table(["ประเทศ (ตลาดที่ซื้อขาย)", "% ของกอง"],
+                       [[c, fmt(p, digits=1)] for c, p in _mix["rows"]]))
+        a(f"> ทะลุถึงหลักทรัพย์จริงได้ **{_mix['covered']:.1f}%** ของกอง "
+          f"(ส่วนที่เหลือ {max(0, round(100 - _mix['covered'], 1))}% ยังไม่ทะลุ) · "
+          f"ที่มา: {_mix['source']}")
+        a("")
     if f.get("asset_allocation"):
         a("### การจัดสรรสินทรัพย์ (จาก Factsheet)")
         a("")
@@ -1190,6 +1209,20 @@ def main() -> None:
     # faceted tag browser + intent queries
     (idx / "tags.md").write_text(render_tag_index(scoped), encoding="utf-8")
 
+    # by dominant market country (from holdings, DEC-L01)
+    g_country = defaultdict(list)
+    for f in scoped:
+        mix = geography.fund_country_mix(f, LOOKTHROUGH)
+        if mix["rows"]:
+            g_country[mix["rows"][0][0]].append(f)
+    if g_country:
+        (idx / "by-country.md").write_text(render_index(
+            "🌏 กองทุนแยกตามประเทศ (ตลาดหลักในพอร์ต)",
+            "จัดกลุ่มตาม**ประเทศที่มีน้ำหนักมากสุด**ในพอร์ต อ่านจากหลักทรัพย์จริง "
+            "(feeder ใช้ look-through) — ดูรายละเอียด % ต่อกองในหัวข้อ 7 ของโน้ตกอง\n\n"
+            "> กองที่ทะลุถึงหลักทรัพย์ไม่ได้ (เช่น ทองคำ/สินค้าโภคภัณฑ์) จะไม่อยู่ในหน้านี้",
+            g_country, "country"), encoding="utf-8")
+
     # by AMC index
     o = ["---", "title: บลจ. ทั้งหมด", "tags: [index, amc]", "---", "",
          "# 🏢 บริษัทจัดการกองทุน (บลจ.)", "", "[[00-home|🏠 Home]]", "",
@@ -1234,6 +1267,7 @@ def main() -> None:
          "| [[compare-fees]] | เทียบค่าธรรมเนียมในหมวดเดียวกัน |",
          "| [[screener]] | 🔎 คัดกรอง/เรียงกองด้วย Dataview (interactive) |",
          "| [[tags]] | 🏷️ แท็ก faceted + คำถามยอดฮิต (พักเงิน/จีน AI/ปันผล) |",
+         "| [[by-country]] | 🌏 แยกตามประเทศตลาดหลักในพอร์ต (จากหลักทรัพย์จริง) |",
          "| [[../Factsheets/00-factsheets-index\\|Factsheets]] | ข้อความจาก PDF |",
          "", "## 📚 แนวคิดพื้นฐาน", "",
          "- [[ค่าธรรมเนียมกองทุนรวม]]",

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 50201270.56
 holdings_count: 38
 top10_pct_nav: 104.23
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์", "ญี่ปุ่น"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 26.5
 master_fund: "LO Funds Planetary Transition Sd USD MD"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
@@ -184,6 +187,16 @@ _K Planetary Transition RMF_
 | 1 | MSCI World Net Total Return USD Index | ปรับด้วยต้นทุนการป้องกันความเสี่ยงจากอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ร้อยละ 90 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ร้อยละ 10 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 22.4 |
+| เนเธอร์แลนด์ | 2.1 |
+| ญี่ปุ่น | 2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **26.5%** ของกอง (ส่วนที่เหลือ 73.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

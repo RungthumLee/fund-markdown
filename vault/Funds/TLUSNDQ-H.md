@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1917398581.33
 holdings_count: 11
 top10_pct_nav: 100.7
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 46.3
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
@@ -209,6 +212,14 @@ _TALIS US EQUITY NDQ-HEDGE_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.3%** ของกอง (ส่วนที่เหลือ 53.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

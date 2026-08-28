@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 303290303.58
 holdings_count: 9
 top10_pct_nav: 100.21
+market_countries: ["สหรัฐฯ", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 45.6
 master_fund: "Xtrackers Artificial Intelligence & Big Data UCITS ETF 1C"
 master_isin: "IE00BGV5VN51"
 peer_group: "Technology Equity"
@@ -176,6 +179,15 @@ _TISCO AI & Big Data Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 41.7 |
+| เกาหลีใต้ | 3.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.6%** ของกอง (ส่วนที่เหลือ 54.4% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

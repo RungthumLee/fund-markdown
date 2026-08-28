@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 150679882.49
 holdings_count: 13
 top10_pct_nav: 99.77
+market_countries: ["ไทย", "สิงคโปร์"]
+country_top: "ไทย"
+country_coverage_pct: 98.0
 peer_group: "Short Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -163,6 +166,15 @@ _United Daily Liquidity Fund_
 | 3 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 82.6 |
+| สิงคโปร์ | 15.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.0%** ของกอง (ส่วนที่เหลือ 2.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

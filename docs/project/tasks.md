@@ -8,7 +8,7 @@ updated: 2026-08-27
 
 สถานะงานทั้งหมดของโปรเจกต์ Fund Knowledge Base
 
-**ที่เกี่ยวข้อง:** [[issues|Issues]] · [[outstanding|Outstanding]] · [[decisions|Decisions]] · [[roadmap|Roadmap]]
+**ที่เกี่ยวข้อง:** [[issues|Issues]] · [[outstanding|Outstanding]] · [[decisions|Decisions]] · [[roadmap|Roadmap]] · [[STATUS|STATUS (คิวลูป)]]
 
 Legend: `[x]` เสร็จ · `[~]` กำลังทำ · `[ ]` ยังไม่เริ่ม · `[!]` ติดปัญหา
 

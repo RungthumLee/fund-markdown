@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 145732325.98
 holdings_count: 10
 top10_pct_nav: 100.37
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "ฮ่องกง"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 61.0
 master_fund: "VanEck Video Gaming and eSports ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/dividend, use/income]
 ---
@@ -224,6 +227,17 @@ _LH ESPORTS FUND_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 30.9 |
+| ญี่ปุ่น | 17.5 |
+| ฮ่องกง | 7.2 |
+| ออสเตรเลีย | 5.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **61.0%** ของกอง (ส่วนที่เหลือ 39.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

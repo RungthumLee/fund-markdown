@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 40877358.16
 holdings_count: 21
 top10_pct_nav: 102.04
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 96.2
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย วงศกร เหมพันธ์"]
 tags: [fund, sec-data, asset/equity, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -168,6 +171,14 @@ _DAOL CANNABIS BUSINESS FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 96.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.2%** ของกอง (ส่วนที่เหลือ 3.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

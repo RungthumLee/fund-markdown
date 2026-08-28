@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 1051051346.64
 holdings_count: 34
 top10_pct_nav: 110.51
+market_countries: ["สหรัฐฯ", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 39.3
 master_fund: "Roundhill Generative AI & Technology ETF"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
@@ -176,6 +179,15 @@ _LH AI & TECHNOLOGY FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 31.8 |
+| เกาหลีใต้ | 7.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **39.3%** ของกอง (ส่วนที่เหลือ 60.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

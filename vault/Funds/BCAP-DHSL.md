@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 11547060418.77
 holdings_count: 33
 top10_pct_nav: 102.9
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 28.6
 peer_group: "Short Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t7, fx/fully-hedged, struct/direct, use/accumulate]
 ---
@@ -167,6 +170,14 @@ _BCAP Dynamic Hedged Short Term Liquidity Fund_
 | 1 | ไม่มี | เนื่องจากสัดส่วนการลงทุนในหน่วยลงทุนของแต่ละกองทุนสามารถปรับเปลี่ยนได้ทุกขณะขึ้นอยู่กับสภาวะตลาด จึงไม่สามารถเปรียบเทียบผลการดำเนินงานของกองทุนกับตัวชี้วัดได้ |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 28.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **28.6%** ของกอง (ส่วนที่เหลือ 71.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

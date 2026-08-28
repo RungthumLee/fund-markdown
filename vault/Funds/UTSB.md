@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1238461029.32
 holdings_count: 12
 top10_pct_nav: 99.42
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.5
 tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
@@ -192,6 +195,14 @@ _United Thai Sustainable Bond Fund_
 | 4 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาล ESG ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.5%** ของกอง (ส่วนที่เหลือ 1.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

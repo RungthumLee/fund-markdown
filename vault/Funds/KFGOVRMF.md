@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 7851542913.39
 holdings_count: 36
 top10_pct_nav: 54.23
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.5
 peer_group: "Mid Term Government Bond"
 fund_managers: ["น.ส. พรทิพา หนึ่งนํ้าใจ", "น.ส. รัมภารัจน์ ยุธานหัส"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -209,6 +212,14 @@ _Krungsri Government Bond RMF_
 | 2 | อัตราดอกเบี้ยเงินฝากประจำ 1 ปี วงเงินน้อยกว่า 5 ล้านบาท เฉลี่ยของ 3 ธนาคารพาณิชย์ขนาดใหญ่ ได้แก่ ธนาคารกรุงเทพ ธนาคารกสิกรไทย และธนาคารไทยพาณิชย์ | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.5%** ของกอง (ส่วนที่เหลือ 1.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

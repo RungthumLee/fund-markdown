@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1287177590.96
 holdings_count: 111
 top10_pct_nav: 33.99
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.5
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -176,6 +179,14 @@ _Krung Thai Conservative 25/75 RMF_
 | 5 | ดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุน้อยกว่าเท่ากับ 10 ปี ของสมาคมตลาดตราสารหนี้ไทย | MTM ThaiBMA Govt Bond Index Up to 10Y:30% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.5%** ของกอง (ส่วนที่เหลือ 5.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

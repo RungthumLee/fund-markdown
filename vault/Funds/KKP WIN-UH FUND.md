@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 221397830.41
 holdings_count: 6
 top10_pct_nav: 103.05
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 16.4
 master_fund: "iShares World Equity High Income Active UCITS ETF USD Acc"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
@@ -219,6 +222,14 @@ _KKP WORLD EQUITY HIGH INCOME FUND - UNHEDGED_
 | 1 | MSCI World Net Total Return USD Index | MSCI World Net Total Return USD Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 16.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **16.4%** ของกอง (ส่วนที่เหลือ 83.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

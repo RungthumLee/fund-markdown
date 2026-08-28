@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 5729084.43
 holdings_count: 15
 top10_pct_nav: 92.9
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 97.0
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
@@ -167,6 +170,14 @@ _ONE POWER ENERGY FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 97 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.0%** ของกอง (ส่วนที่เหลือ 3.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

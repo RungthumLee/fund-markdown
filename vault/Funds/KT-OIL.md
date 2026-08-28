@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 392405814.79
 holdings_count: 4
 top10_pct_nav: 101.47
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 50.3
 master_fund: "Invesco DB Oil Fund"
 master_isin: "US46140H4039"
 tags: [fund, sec-data, asset/alternative, asset/commodity/oil, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -194,6 +197,14 @@ _KTAM Oil Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก (100%) ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 50.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **50.3%** ของกอง (ส่วนที่เหลือ 49.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

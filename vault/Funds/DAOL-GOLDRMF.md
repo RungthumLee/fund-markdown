@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 214381447.84
 holdings_count: 23
 top10_pct_nav: 101.59
+market_countries: ["แคนาดา", "สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "แคนาดา"
+country_coverage_pct: 51.8
 master_fund: "Jupiter Gold & Silver I USD Acc"
 master_isin: "IE00BYVJRD56"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
@@ -181,6 +184,16 @@ _DAOL GOLD AND SILVER EQUITY RETIREMENT MUTUAL FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| แคนาดา | 31 |
+| สหรัฐฯ | 16.4 |
+| สหราชอาณาจักร | 4.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **51.8%** ของกอง (ส่วนที่เหลือ 48.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 24104693.33
 holdings_count: 8
 top10_pct_nav: 102.87
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส", "ออสเตรเลีย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 31.1
 master_fund: "abrdn- Global Smaller Comp Z Acc USD"
 master_isin: "LU2530219000"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -209,6 +212,16 @@ _abrdn Global Small Cap Fund_
 | 3 | ดัชนี MSCI ACWI Small Cap Gross Total Return USD | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 24.7 |
+| ฝรั่งเศส | 3.7 |
+| ออสเตรเลีย | 2.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **31.1%** ของกอง (ส่วนที่เหลือ 68.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

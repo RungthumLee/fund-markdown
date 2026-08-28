@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 275510686.04
 holdings_count: 4
 top10_pct_nav: 100.07
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 37.0
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 peer_group: "US Equity"
@@ -212,6 +215,14 @@ _Krungsri US Equity Index FX Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 37 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.0%** ของกอง (ส่วนที่เหลือ 63.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

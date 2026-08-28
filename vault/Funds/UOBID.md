@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1238307853.77
 holdings_count: 54
 top10_pct_nav: 58.66
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 72.2
 peer_group: "Short Term General Bond"
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/active, use/accumulate]
 ---
@@ -164,6 +167,14 @@ _UOB Income Daily Open-ended Fund_
 | 3 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 72.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **72.2%** ของกอง (ส่วนที่เหลือ 27.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 580899943.87
 holdings_count: 5
 top10_pct_nav: 99.56
+market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 12.2
 master_fund: "JPM Global Equity Premium Income Active UCITS ETF - USD (dist)"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
@@ -229,6 +232,15 @@ _K Global Equity Premium Income Unhedged Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 11.1 |
+| เนเธอร์แลนด์ | 1.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **12.2%** ของกอง (ส่วนที่เหลือ 87.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

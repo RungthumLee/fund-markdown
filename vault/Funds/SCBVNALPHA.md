@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 9602761778.71
 holdings_count: 11
 top10_pct_nav: 99.9
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 93.1
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
@@ -165,6 +168,14 @@ _SCB Vietnam Alpha Fund Not for Retail Investors_
 | 1 | VN100 Total Return Index | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 93.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.1%** ของกอง (ส่วนที่เหลือ 6.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1128657087.96
 holdings_count: 46
 top10_pct_nav: 107.21
+market_countries: ["สหรัฐฯ", "แคนาดา", "เกาหลีใต้"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 36.3
 master_fund: "Invesco CoinShares Global Blockchain UCITS ETF"
 master_isin: "IE00BGBN6P67"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
@@ -289,6 +292,18 @@ _SCB Blockchain_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน (ในอัตราส่วน 60%) และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน (ในอัตราส่วน 40%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 19.7 |
+| แคนาดา | 6.3 |
+| เกาหลีใต้ | 3.5 |
+| ญี่ปุ่น | 3.5 |
+| ไต้หวัน | 3.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.3%** ของกอง (ส่วนที่เหลือ 63.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

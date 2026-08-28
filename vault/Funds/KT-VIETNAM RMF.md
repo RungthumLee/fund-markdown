@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 312309583.48
 holdings_count: 24
 top10_pct_nav: 66.26
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 92.6
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -165,6 +168,14 @@ _KTAM Vietnam Equity RMF_
 | 1 | ดัชนี VN30 Total Return | ดัชนี VN30 Total Return Index ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 92.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **92.6%** ของกอง (ส่วนที่เหลือ 7.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

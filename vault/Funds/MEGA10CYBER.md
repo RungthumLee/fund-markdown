@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 44404917.56
 holdings_count: 12
 top10_pct_nav: 95.16
+market_countries: ["สหรัฐฯ", "แคนาดา"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 95.2
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
@@ -185,6 +188,15 @@ _MEGA 10 CYBERSECURITY AND ENTERPRISE SOFTWARE FUND_
 | 1 | S&P 500 Information Technology Sector Total Return Index | S&P 500 Information Technology Sector Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 85.4 |
+| แคนาดา | 9.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.2%** ของกอง (ส่วนที่เหลือ 4.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

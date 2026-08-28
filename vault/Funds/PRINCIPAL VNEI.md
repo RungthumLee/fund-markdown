@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 0.0
 holdings_count: 4
 top10_pct_nav: 198.61
+market_countries: ["เวียดนาม"]
+country_top: "เวียดนาม"
+country_coverage_pct: 61.4
 master_fund: "VFMVN30 ETF"
 master_isin: "VN0E1VFVN306"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -222,6 +225,14 @@ _Principal Vietnam Equity Index Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เวียดนาม | 61.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **61.4%** ของกอง (ส่วนที่เหลือ 38.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

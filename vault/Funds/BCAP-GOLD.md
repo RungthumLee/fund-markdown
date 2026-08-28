@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 160442941.2
 holdings_count: 6
 top10_pct_nav: 100.13
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 94.5
 peer_group: "Commodities Precious Metals"
 tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
@@ -165,6 +168,14 @@ _BCAP Gold  Fund_
 | 1 | ดัชนีราคาทองคำในสกุลเงินดอลลาร์สหรัฐ (LBMA Gold Price PM) | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคํานวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คํานวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 94.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.5%** ของกอง (ส่วนที่เหลือ 5.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

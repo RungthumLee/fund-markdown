@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 243642752.97
 holdings_count: 80
 top10_pct_nav: 103.72
+market_countries: ["สหรัฐฯ", "แคนาดา", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 48.8
 master_fund: "DWS Invest Global Infras IDH (P)"
 master_isin: "LU1217772315"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -237,6 +240,17 @@ _SCB GLOBAL INFRASTRUCTURE EQUITY FUND_
 | 1 | ไม่มี | เนื่องจากเป็นการลงทุนในหุ้นกลุ่ม Infrastructure ทั่วโลก ที่เน้นผลตอบแทนในรูปแบบ Total return และเพื่อให้สามารถพิจารณากรอบการลงทุนในหุ้นกลุ่มดังกล่าวได้กว้างขึ้น กองทุนหลักจึงไม่กำหนดดัชนีชี้วัดในการลงทุน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 27.3 |
+| แคนาดา | 11.3 |
+| ฝรั่งเศส | 5.3 |
+| สหราชอาณาจักร | 4.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **48.8%** ของกอง (ส่วนที่เหลือ 51.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

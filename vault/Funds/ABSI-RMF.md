@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 551502469.26
 holdings_count: 26
 top10_pct_nav: 71.22
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 104.6
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -199,6 +202,14 @@ _abrdn Smart Income Retirement Mutual Fund_
 | 1 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 104.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **104.6%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1443677074.91
 holdings_count: 9
 top10_pct_nav: 102.11
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 8.9
 master_fund: "Allianz Dyn MltAst Stgy SRI75 P EUR"
 master_isin: "LU1575694655"
 peer_group: "Foreign Investment Allocation"
@@ -244,6 +247,15 @@ _Krungsri Global Dynamic Aggressive Allocation SRI Fund_
 | 1 | ไม่มี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 5.5 |
+| สหราชอาณาจักร | 3.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **8.9%** ของกอง (ส่วนที่เหลือ 91.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 1399271975.1
 holdings_count: 27
 top10_pct_nav: 85.07
+market_countries: ["ฮ่องกง", "จีน"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 22.8
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate]
@@ -203,6 +206,15 @@ _Krungsri China Tech 10 Plus Fund_
 | 1 | Hang Seng TECH Index Net Total Return Index | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 15.7 |
+| จีน | 7.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **22.8%** ของกอง (ส่วนที่เหลือ 77.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 106578966.94
 holdings_count: 13
 top10_pct_nav: 94.39
+market_countries: ["จีน"]
+country_top: "จีน"
+country_coverage_pct: 18.7
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
@@ -179,6 +182,14 @@ _MEGA 10 CHINA TECHNOLOGY FUND_
 | 1 | Hang Seng TECH Index Net Total Return Index | Hang Seng TECH Index Net Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| จีน | 18.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **18.7%** ของกอง (ส่วนที่เหลือ 81.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

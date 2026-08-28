@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 1172939416.8
 holdings_count: 13
 top10_pct_nav: 88.92
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 88.9
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
@@ -166,6 +169,14 @@ _TALIS GLOBAL FIXED INCOME ALLOCATION FUND_
 | 1 | Morningstar Global Core Bond GR USD Index | Morningstar Global Core Bond GR USD Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 88.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **88.9%** ของกอง (ส่วนที่เหลือ 11.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1159381657.62
 holdings_count: 7
 top10_pct_nav: 101.44
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 24.5
 peer_group: "Miscellaneous"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -171,6 +174,15 @@ _ttb smart port 5 go-getter fund_
 | 2 | ดัชนี MSCI AC World NETR USD Index | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 21.7 |
+| สหรัฐฯ | 2.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **24.5%** ของกอง (ส่วนที่เหลือ 75.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 3255657.83
 holdings_count: 4
 top10_pct_nav: 100.65
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 89.0
 tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
@@ -159,6 +162,14 @@ _Principal Balanced Allocation Retirement Mutual Fund_
 | 2 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตราสารหนี้ไทย | STGovBond Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 89 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **89.0%** ของกอง (ส่วนที่เหลือ 11.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

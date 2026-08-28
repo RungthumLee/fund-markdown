@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 224875986.54
 holdings_count: 37
 top10_pct_nav: 60.47
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 77.1
 peer_group: "Conservative Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ธีระศันส์ ทุติยะโพธิ"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
@@ -217,6 +220,14 @@ _Eastspring Asset Allocation Short Term Fund_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 77.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **77.1%** ของกอง (ส่วนที่เหลือ 22.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 90814513.78
 holdings_count: 15
 top10_pct_nav: 102.39
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 40.3
 master_fund: "First Trust Natural Gas ETF"
 tags: [fund, sec-data, asset/equity, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
@@ -152,6 +155,14 @@ _ไม่มีข้อมูลระดับความเสี่ยง�
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 40.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **40.3%** ของกอง (ส่วนที่เหลือ 59.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

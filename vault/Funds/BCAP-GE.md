@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 3059595437.77
 holdings_count: 16
 top10_pct_nav: 94.44
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 16.5
 peer_group: "Global Equity"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
@@ -164,6 +167,14 @@ _BCAP Global Equity Fund_
 | 1 | ดัชนี MSCI ACWI Net Total Return USD | ปรับด้วยอัตราแลกเปลี่ยน เพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 16.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **16.5%** ของกอง (ส่วนที่เหลือ 83.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 308980896.62
 holdings_count: 47
 top10_pct_nav: 71.82
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 24.2
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -181,6 +184,14 @@ _KKP PROPERTY SECTOR RETIREMENT MUTUAL FUND_
 | 3 | ดัชนี FTSE ST Real Estate Investment Trusts Total Return SGD | ดัชนี FTSE ST Real Estate Investment Trusts Total Return SGD |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 24.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **24.2%** ของกอง (ส่วนที่เหลือ 75.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

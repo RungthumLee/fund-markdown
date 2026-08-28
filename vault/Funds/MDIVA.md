@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 13582250.89
 holdings_count: 27
 top10_pct_nav: 58.45
+market_countries: ["สิงคโปร์", "ไต้หวัน", "ไทย"]
+country_top: "สิงคโปร์"
+country_coverage_pct: 96.2
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -248,6 +251,20 @@ _MFC Dividend Asia Fund_
 | 2 | ดัชนี MSCI AC Asia-Pacific ex Japan | MSCI AC Asia Ex Japan สัดส่วน 75% ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สิงคโปร์ | 24.2 |
+| ไต้หวัน | 22 |
+| ไทย | 18.6 |
+| มาเลเซีย | 15.2 |
+| เกาหลีใต้ | 8.7 |
+| ฮ่องกง | 4.5 |
+| จีน | 3.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **96.2%** ของกอง (ส่วนที่เหลือ 3.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

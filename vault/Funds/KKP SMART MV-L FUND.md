@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 26128.07
 holdings_count: 37
 top10_pct_nav: 50.18
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.1
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, use/accumulate]
 ---
 
@@ -235,6 +238,14 @@ _KKP SMART MINIMUM VOLATILITY-L FUND_
 | 1 | ดัชนีผลตอบแทนรวม SET 100 Free Float Adjusted Market Capitalization Weighted (SET100FF TRI) | SET100 Free Float Adjusted Market Capitalization Weighted Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.1%** ของกอง (ส่วนที่เหลือ 0.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 6135325666.08
 holdings_count: 82
 top10_pct_nav: 45.03
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 95.2
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. ณัฐยา เตรียมวิทยา", "นาย เอกพจน์ ภู่วิบูลย์พาณิชย์"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -210,6 +213,14 @@ _Krungsri Medium Term Fixed Income RMF_
 | 3 | ดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 95.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.2%** ของกอง (ส่วนที่เหลือ 4.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

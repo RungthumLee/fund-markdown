@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 15545598.2
 holdings_count: 11
 top10_pct_nav: 109.92
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 108.6
 fund_managers: ["นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569", "นาย ด ารงฤทธิ์ ส าเร็จวิทย์"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, fx/discretionary, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
@@ -182,6 +185,14 @@ _DAOL MONEY MARKET RETIREMENT MUTUAL FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 108.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **108.6%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

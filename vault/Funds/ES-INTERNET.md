@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 471811059.55
 holdings_count: 15
 top10_pct_nav: 103.23
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 25.2
 master_fund: "ARK Innovation UCITS ETF Class A USD Accumulation"
 master_isin: "IE000GA3D489"
 peer_group: "Technology Equity"
@@ -177,6 +180,14 @@ _Eastspring Next Generation Internet Fund_
 | 1 | Bloomberg World Large & Mid Cap Net Return Index | ในรูปสกุลเงินดอลลาร์สหรัฐ ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 95 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 5 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 25.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **25.2%** ของกอง (ส่วนที่เหลือ 74.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

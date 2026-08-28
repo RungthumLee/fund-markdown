@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 2773468881.22
 holdings_count: 20
 top10_pct_nav: 98.65
+market_countries: ["อินเดีย"]
+country_top: "อินเดีย"
+country_coverage_pct: 25.0
 master_fund: "Kotak India Midcap J USD Acc"
 master_isin: "LU0675383409"
 peer_group: "India Equity"
@@ -189,6 +192,14 @@ Kotak Funds - India Midcap Fund เป็นกองทุนที่มุ่
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 25 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **25.0%** ของกอง (ส่วนที่เหลือ 75.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

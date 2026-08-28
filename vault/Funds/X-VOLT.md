@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 52663510.53
 holdings_count: 2
 top10_pct_nav: 103.17
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 52.7
 master_fund: "Tema Electrification ETF"
 peer_group: "Global Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
@@ -165,6 +168,14 @@ _XSpring Electrification Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 52.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **52.7%** ของกอง (ส่วนที่เหลือ 47.3% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

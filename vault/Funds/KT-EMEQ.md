@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 495090923.76
 holdings_count: 12
 top10_pct_nav: 105.14
+market_countries: ["ไต้หวัน", "เกาหลีใต้", "ฮ่องกง"]
+country_top: "ไต้หวัน"
+country_coverage_pct: 36.9
 master_fund: "Vontobel mtx Em Mkts Ldrs I USD"
 master_isin: "LU0571085686"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -208,6 +211,17 @@ _KTAM Emerging Markets Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวนผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุนประมาณ 80% และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวนผลตอบแทน ประมาณ 20% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไต้หวัน | 14.5 |
+| เกาหลีใต้ | 11 |
+| ฮ่องกง | 6.8 |
+| จีน | 4.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **36.9%** ของกอง (ส่วนที่เหลือ 63.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

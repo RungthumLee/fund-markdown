@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 16879394.42
 holdings_count: 70
 top10_pct_nav: 70.33
+market_countries: ["ไทย", "สหรัฐฯ", "เยอรมนี"]
+country_top: "ไทย"
+country_coverage_pct: 51.4
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
@@ -171,6 +174,16 @@ _ONE INCOME PREMIER FUND_
 | 5 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | TBMA Government Bond 1-3Y Net Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 45.7 |
+| สหรัฐฯ | 4.2 |
+| เยอรมนี | 1.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **51.4%** ของกอง (ส่วนที่เหลือ 48.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

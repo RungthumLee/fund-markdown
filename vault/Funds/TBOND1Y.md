@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 186676053.02
 holdings_count: 14
 top10_pct_nav: 96.23
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.4
 peer_group: "Short Term Government Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t2, struct/direct, style/enhanced-index, use/park-cash]
@@ -178,6 +181,14 @@ _TISCO 1 Year Bond Fund_
 | 1 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุไม่เกิน 1 ปี ของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.4%** ของกอง (ส่วนที่เหลือ 0.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

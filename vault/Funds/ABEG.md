@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 172173716.74
 holdings_count: 3
 top10_pct_nav: 103.94
+market_countries: ["สหราชอาณาจักร", "ฝรั่งเศส", "เนเธอร์แลนด์"]
+country_top: "สหราชอาณาจักร"
+country_coverage_pct: 37.8
 master_fund: "abrdn-European Sust Equity Z Acc EUR"
 master_isin: "LU0278923536"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
@@ -184,6 +187,18 @@ _abrdn European Sustainable Equity Fund_
 | 2 | ดัชนี FTSE World Europe | อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวมnกองทุนมีนโยบายป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนตามดุลยพินิจผู้จัดการกองทุน โดยปัจจุบันกองทุนไม่ใช้เครื่องมือป้องกันความเสี่ยงอัตราแลกเปลี่ยนnตัวชี้วัดปรับด้วยอัตราแลกเปลี่ยนเป็นสกุลเงินบาท |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหราชอาณาจักร | 11 |
+| ฝรั่งเศส | 9.6 |
+| เนเธอร์แลนด์ | 8.9 |
+| อิตาลี | 5.3 |
+| เยอรมนี | 3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **37.8%** ของกอง (ส่วนที่เหลือ 62.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

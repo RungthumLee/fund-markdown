@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 10493481.98
 holdings_count: 16
 top10_pct_nav: 121.67
+market_countries: ["ฝรั่งเศส"]
+country_top: "ฝรั่งเศส"
+country_coverage_pct: 30.4
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -163,6 +166,14 @@ _MFC Global Convertible Bond Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฝรั่งเศส | 30.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **30.4%** ของกอง (ส่วนที่เหลือ 69.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

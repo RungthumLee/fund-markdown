@@ -23,6 +23,9 @@ nav_date: "2026-07-31"
 fund_size: 787405079.32
 holdings_count: 10
 top10_pct_nav: 94.88
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.8
 fund_managers: ["นาย พิพัฒน์ นรานันทน์", "นาย นรินทร์ จันทร์เนตร"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
@@ -160,6 +163,14 @@ _MFC Fixed Income Rollover Fund 6M Not for Retail Investors_
 | 1 | ไม่มี | ไม่มี เนื่องจากกองทุนมีกลยุทธ์การลงทุนแบบ buy&hold เพื่อให้ได้ผลตอบแทนที่คาดหวังตามรอบระยะเวลาการลงทุน ซึ่งในแต่ละรอบมีระยะเวลาประมาณ 6 เดือน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.8%** ของกอง (ส่วนที่เหลือ 5.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

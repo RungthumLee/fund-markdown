@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 207837061.55
 holdings_count: 13
 top10_pct_nav: 99.81
+market_countries: ["สหรัฐฯ", "สิงคโปร์"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 71.0
 peer_group: "Global Equity"
 fund_managers: ["นาย พุทธินันท์ วชิราคม  ตั้งแต่ 04 ก.ย. 2566", "นาย สุชาติ เจริญวุฒิคุณ  ตั้งแต่ 24 ส.ค. 2566"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -173,6 +176,15 @@ _PHILLIP WORLD INNOVATION RETIREMENT MUTUAL FUND_
 | 1 | ดัชนี Morningstar Global Mkts Index NR USD | Morningstar Global Mkts Index NR USD สัดส่วน 100% ปรับด้วยอัตราแลกเปลี่ยนเพื่อคํานวณผลตอบแทนให้อยู่ในรูปสกุลเงินบาท ณ วันที่คํานวณผลตอบแทน โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 55.6 |
+| สิงคโปร์ | 15.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **71.0%** ของกอง (ส่วนที่เหลือ 29.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 101404907.9
 holdings_count: 30
 top10_pct_nav: 104.47
+market_countries: ["สหรัฐฯ", "สิงคโปร์", "ออสเตรเลีย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 86.6
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
 tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
@@ -217,6 +220,16 @@ _MFC International Real Estate Fund_
 | 1 | Dow Jones Global Select Real Estate Securities Total Return Net Index | Dow Jones Global Select Real Estate Securities Total Return Net Index สัดส่วน 100% ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน สัดส่วน 85% และปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน สัดส่วน 15% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 80.4 |
+| สิงคโปร์ | 3.7 |
+| ออสเตรเลีย | 2.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **86.6%** ของกอง (ส่วนที่เหลือ 13.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

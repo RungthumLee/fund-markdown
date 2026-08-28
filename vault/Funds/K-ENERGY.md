@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 193013743.88
 holdings_count: 33
 top10_pct_nav: 94.84
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 107.5
 peer_group: "Energy"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล"]
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/passive, use/accumulate]
@@ -172,6 +175,14 @@ _K Energy Sector Index Fund_
 | 1 | ดัชนีผลตอบแทนรวมธุรกิจพลังงานและสาธารณูปโภค (ENERG TRI) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 107.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **107.5%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

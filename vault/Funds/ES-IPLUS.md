@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 67356529216.48
 holdings_count: 128
 top10_pct_nav: 39.1
+market_countries: ["ไทย", "มาเลเซีย", "ญี่ปุ่น"]
+country_top: "ไทย"
+country_coverage_pct: 97.7
 peer_group: "Short Term General Bond"
 fund_managers: ["นาง รัชนิภา พรรคพานิช", "นาย ธารดร เขียวมีส่วน"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
@@ -165,6 +168,16 @@ _Eastspring Income Plus Fund_
 | 2 | ดัชนีตราสารหนี้ภาครัฐระยะสั้น (Short-term Government Bond Index) | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 92.4 |
+| มาเลเซีย | 5.1 |
+| ญี่ปุ่น | 0.3 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **97.7%** ของกอง (ส่วนที่เหลือ 2.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

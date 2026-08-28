@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2412256796.57
 holdings_count: 53
 top10_pct_nav: 52.33
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 92.5
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
@@ -270,6 +273,14 @@ _SCB Thai Sustainable Mixed Fund_
 | 4 | SET ESG Total Return Index | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 92.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **92.5%** ของกอง (ส่วนที่เหลือ 7.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

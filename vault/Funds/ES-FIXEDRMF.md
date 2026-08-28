@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 5118108983.17
 holdings_count: 139
 top10_pct_nav: 20.36
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 99.6
 peer_group: "Mid Term Government Bond"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. วิภาสิริ เกษมศุข"]
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
@@ -194,6 +197,14 @@ _Eastspring General Fixed Income RMF_
 | 1 | ดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ BBB ขึ้นไป อายุ 1 - 3 ปี | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 99.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **99.6%** ของกอง (ส่วนที่เหลือ 0.4% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

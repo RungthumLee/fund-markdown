@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1485563028.63
 holdings_count: 10
 top10_pct_nav: 100.86
+market_countries: ["ลิกเตนสไตน์", "สิงคโปร์"]
+country_top: "ลิกเตนสไตน์"
+country_coverage_pct: 34.3
 peer_group: "Vietnam Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
@@ -217,6 +220,15 @@ _Krungsri Vietnam Equity Fund_
 | 1 | ดัชนี VN30 Total Return | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบเท่าค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ลิกเตนสไตน์ | 18.2 |
+| สิงคโปร์ | 16.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **34.3%** ของกอง (ส่วนที่เหลือ 65.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

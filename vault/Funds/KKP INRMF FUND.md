@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 2526988060.66
 holdings_count: 137
 top10_pct_nav: 30.9
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 100.4
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
@@ -200,6 +203,14 @@ _KKP INCOME RETIREMENT MUTUAL FUND_
 | 4 | ดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ BBB+ ขึ้นไป อายุ 1 - 3 ปี | ดัชนีตราสารหนี้ภาคเอกชน Mark-to-Market ที่มีอันดับความน่าเชื่อถือของผู้ออกตราสารอยู่ในระดับ BBB+ ขึ้นไป อายุ 1 - 3 ปี |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 100.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **100.4%** ของกอง (ส่วนที่เหลือ 0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 377084944.58
 holdings_count: 10
 top10_pct_nav: 101.66
+market_countries: ["เยอรมนี", "เนเธอร์แลนด์", "ฝรั่งเศส"]
+country_top: "เยอรมนี"
+country_coverage_pct: 45.3
 master_fund: "JPM Europe Dynamic Techs I acc EUR"
 master_isin: "LU0248050006"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
@@ -244,6 +247,17 @@ _KTAM European Technology Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลักปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน ประมาณร้อยละ 80 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 20 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เยอรมนี | 15.8 |
+| เนเธอร์แลนด์ | 13.7 |
+| ฝรั่งเศส | 11.8 |
+| สหราชอาณาจักร | 4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.3%** ของกอง (ส่วนที่เหลือ 54.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

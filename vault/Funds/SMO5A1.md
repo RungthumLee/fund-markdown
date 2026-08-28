@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 33993108.6
 holdings_count: 49
 top10_pct_nav: 89.96
+market_countries: ["สหรัฐฯ", "ไทย"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 98.7
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย ประวีร์ อัจจิมากุล"]
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -191,6 +194,15 @@ _MFC Smart Momentum Series 5 A1 Fund_
 | 2 | ดัชนี MSCI AC Asia-Pacific ex Japan | MSCI AC Asia Ex Japan สัดส่วน 75% ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 74.3 |
+| ไทย | 24.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.7%** ของกอง (ส่วนที่เหลือ 1.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

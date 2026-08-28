@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 391436654.3
 holdings_count: 12
 top10_pct_nav: 94.97
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 95.0
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/ultra-concentrated, fx/unhedged, struct/direct, tax/rmf, use/tax-saving]
 ---
 
@@ -164,6 +167,14 @@ _MEGA 10 RETIREMENT MUTUAL FUND_
 | 1 | ดัชนี S&P 500 Total Return | ดัชนี S&P 500 Total Return |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 95 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **95.0%** ของกอง (ส่วนที่เหลือ 5.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

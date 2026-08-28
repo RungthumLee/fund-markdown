@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 14427161.18
 holdings_count: 16
 top10_pct_nav: 98.65
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 62.3
 peer_group: "Conservative Allocation"
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -175,6 +178,15 @@ _BCAP Global Wealth 25 Super Saving Fund_
 | 4 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | ของมูลค่าทรัพย์สินสุทธิ |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 61.5 |
+| สหรัฐฯ | 0.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **62.3%** ของกอง (ส่วนที่เหลือ 37.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 243495073.77
 holdings_count: 14
 top10_pct_nav: 92.83
+market_countries: ["สหรัฐฯ", "ฝรั่งเศส", "เยอรมนี"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 47.1
 master_fund: "Brown Advisory Global Leaders B USD Acc"
 master_isin: "IE00BVVHP563"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -237,6 +240,18 @@ _Principal Global Leaders Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 31.3 |
+| ฝรั่งเศส | 4.3 |
+| เยอรมนี | 4.3 |
+| สหราชอาณาจักร | 3.8 |
+| สวิตเซอร์แลนด์ | 3.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **47.1%** ของกอง (ส่วนที่เหลือ 52.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

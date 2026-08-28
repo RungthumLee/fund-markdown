@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 260000184.13
 holdings_count: 18
 top10_pct_nav: 99.34
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 46.4
 master_fund: "JPM US Growth I acc USD"
 master_isin: "LU0248059726"
 peer_group: "US Equity"
@@ -196,6 +199,14 @@ Bloomberg TickerJPUSGIU LX
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 46.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **46.4%** ของกอง (ส่วนที่เหลือ 53.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

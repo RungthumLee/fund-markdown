@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 246313759.19
 holdings_count: 85
 top10_pct_nav: 58.57
+market_countries: ["ไทย", "สหรัฐฯ", "เยอรมนี"]
+country_top: "ไทย"
+country_coverage_pct: 57.5
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
 tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
@@ -173,6 +176,16 @@ _ONE ULTRA INCOME FUND_
 | 5 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | TBMA Government Bond 1-3Y Net Total Return Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 51.9 |
+| สหรัฐฯ | 4.1 |
+| เยอรมนี | 1.5 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **57.5%** ของกอง (ส่วนที่เหลือ 42.5% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

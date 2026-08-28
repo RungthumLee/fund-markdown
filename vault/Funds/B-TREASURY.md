@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 42293582440.51
 holdings_count: 44
 top10_pct_nav: 66.01
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.7
 fund_managers: ["นาง สาวปริยนุช", "นาง สาวอรุณี", "นาง สาวศิรารัตน์", "นาย ปัญญพัฒน์"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
 ---
@@ -164,6 +167,14 @@ _Bualuang Treasury Fund_
 | 2 | ผลตอบแทนรวมของดัชนีพันธบัตรรัฐบาลระยะสั้นของสมาคมตลาดตราสารหนี้ไทย | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.7%** ของกอง (ส่วนที่เหลือ 5.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

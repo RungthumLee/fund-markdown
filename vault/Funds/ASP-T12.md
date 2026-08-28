@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 172665870.8
 holdings_count: 13
 top10_pct_nav: 91.36
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 91.1
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ยุรนันท์ วิภูศิริ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, struct/direct, style/active, use/accumulate]
 ---
@@ -191,6 +194,14 @@ _Asset Plus Thai Top 12 Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) ) ในสัดส่วน 100% โดยมีวัตถุประสงค์เพื่อเปรียบเทียบกับผลการดำเนินงานของกองทุนรวม (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 91.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **91.1%** ของกอง (ส่วนที่เหลือ 8.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

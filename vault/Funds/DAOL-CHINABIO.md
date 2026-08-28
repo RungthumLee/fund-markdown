@@ -22,6 +22,9 @@ nav_date: "2026-08-26"
 fund_size: 62292078.29
 holdings_count: 13
 top10_pct_nav: 100.44
+market_countries: ["ฮ่องกง", "จีน"]
+country_top: "ฮ่องกง"
+country_coverage_pct: 54.1
 master_fund: "CHINAAMC Hang Seng Biotech ETF"
 master_isin: "HK0000711199"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
@@ -180,6 +183,15 @@ _DAOL CHINA BIOTECH FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฮ่องกง | 50.4 |
+| จีน | 3.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **54.1%** ของกอง (ส่วนที่เหลือ 45.9% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 360535530.56
 holdings_count: 20
 top10_pct_nav: 104.45
+market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "ฝรั่งเศส"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 14.9
 master_fund: "Defiance Quantum ETF"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
@@ -186,6 +189,16 @@ _LH QUANTUM TECHNOLOGY FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 12 |
+| ญี่ปุ่น | 1.5 |
+| ฝรั่งเศส | 1.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **14.9%** ของกอง (ส่วนที่เหลือ 85.1% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 137276928.74
 holdings_count: 30
 top10_pct_nav: 81.54
+market_countries: ["ไทย", "สหรัฐฯ"]
+country_top: "ไทย"
+country_coverage_pct: 65.7
 peer_group: "Moderate Allocation"
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
@@ -192,6 +195,15 @@ _United Flexible Income Fund_
 | 3 | Bloomberg Barclays US Treasury Total Return Unhedged USD | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยน เพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน 95% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 42.3 |
+| สหรัฐฯ | 23.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **65.7%** ของกอง (ส่วนที่เหลือ 34.3% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 32421731.86
 holdings_count: 4
 top10_pct_nav: 105.37
+market_countries: ["ฝรั่งเศส", "เยอรมนี", "อิตาลี"]
+country_top: "ฝรั่งเศส"
+country_coverage_pct: 45.5
 master_fund: "BNP Paribas Sust Mul Ast Gr I EUR Acc"
 master_isin: "LU1956156910"
 peer_group: "Foreign Investment Allocation"
@@ -218,6 +221,18 @@ _United Sustainable Thematic Select Fund_
 | 2 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ฝรั่งเศส | 24.4 |
+| เยอรมนี | 6.9 |
+| อิตาลี | 6.2 |
+| สวิตเซอร์แลนด์ | 4.4 |
+| สหรัฐฯ | 3.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **45.5%** ของกอง (ส่วนที่เหลือ 54.5% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

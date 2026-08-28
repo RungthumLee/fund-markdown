@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 32313695.61
 holdings_count: 13
 top10_pct_nav: 103.41
+market_countries: ["สหรัฐฯ", "เยอรมนี", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 24.4
 master_fund: "Wellington Global Impact USD DL Ac"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
@@ -220,6 +223,17 @@ _KKP GLOBAL IMPACT FUND – HEDGED_
 | 1 | ดัชนี MSCI AC World Daily Total Return Net USD | ดัชนี MSCI All Country World Index USD (Net) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 17.5 |
+| เยอรมนี | 2.5 |
+| ไต้หวัน | 2.3 |
+| สหราชอาณาจักร | 2.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **24.4%** ของกอง (ส่วนที่เหลือ 75.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

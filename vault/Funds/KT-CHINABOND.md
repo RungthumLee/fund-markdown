@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 1206214893.99
 holdings_count: 6
 top10_pct_nav: 100.82
+market_countries: ["สิงคโปร์"]
+country_top: "สิงคโปร์"
+country_coverage_pct: 0.8
 master_fund: "BGF China Bond D2"
 master_isin: "LU0719319435"
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -238,6 +241,14 @@ _KTAM China Bond Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก ในสกุลเงินดอลลาร์สหรัฐปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สิงคโปร์ | 0.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **0.8%** ของกอง (ส่วนที่เหลือ 99.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

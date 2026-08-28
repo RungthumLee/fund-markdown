@@ -23,6 +23,9 @@ nav_date: "2026-08-24"
 fund_size: 165723161.5
 holdings_count: 25
 top10_pct_nav: 104.09
+market_countries: ["อินเดีย", "สหรัฐฯ"]
+country_top: "อินเดีย"
+country_coverage_pct: 29.8
 master_fund: "Ashoka WhiteOak India Opps D USD Acc"
 master_isin: "IE00BH3N4915"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
@@ -242,6 +245,15 @@ _Principal India Equity Fund_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| อินเดีย | 24.9 |
+| สหรัฐฯ | 4.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **29.8%** ของกอง (ส่วนที่เหลือ 70.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

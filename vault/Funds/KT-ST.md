@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 26545624471.96
 holdings_count: 153
 top10_pct_nav: 44.93
+market_countries: ["ไทย", "ระหว่างประเทศ"]
+country_top: "ไทย"
+country_coverage_pct: 93.4
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
@@ -188,6 +191,15 @@ _Krung Thai Short Term Fund_
 | 4 | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 6 เดือน | ดัชนีพันธบัตรที่มีอายุคงที่ (ZRR) อายุประมาณ 6 เดือน (50%) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 90.7 |
+| ระหว่างประเทศ | 2.7 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **93.4%** ของกอง (ส่วนที่เหลือ 6.6% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

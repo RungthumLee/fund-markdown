@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 127883356.67
 holdings_count: 13
 top10_pct_nav: 103.31
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 19.8
 master_fund: "Schroder ISF US S&M-Cap Eq X Acc USD"
 master_isin: "LU0607219986"
 peer_group: "US Equity"
@@ -183,6 +186,14 @@ _Krungsri US Small-Mid Cap Equity Hedged FX Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยต้นทุนการป้องกันความเสี่ยงด้านอัตราแลกเปลี่ยน เพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 19.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **19.8%** ของกอง (ส่วนที่เหลือ 80.2% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

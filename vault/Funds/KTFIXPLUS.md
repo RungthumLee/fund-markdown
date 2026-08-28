@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 4528417795.51
 holdings_count: 72
 top10_pct_nav: 42.57
+market_countries: ["ไทย", "ระหว่างประเทศ"]
+country_top: "ไทย"
+country_coverage_pct: 98.3
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
@@ -335,6 +338,15 @@ _Krung Thai Fixed-Income Plus Fund_
 | 5 | ผลตอบแทนรวมสุทธิของดัชนีพันธบัตรรัฐบาล Mark-to-Market อายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | MTM ThaiBMA Govt Bond NTR 1–3Y:30% |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 92.5 |
+| ระหว่างประเทศ | 5.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.3%** ของกอง (ส่วนที่เหลือ 1.7% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

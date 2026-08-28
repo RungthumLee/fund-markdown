@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 9950655.16
 holdings_count: 3
 top10_pct_nav: 130.71
+market_countries: ["สหรัฐฯ"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 35.4
 master_fund: "JPM US Technology I acc USD"
 master_isin: "LU0248060906"
 peer_group: "Global Equity"
@@ -179,6 +182,14 @@ _United USD Global Dividend Plus Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ในรูปสกุลเงินดอลลาร์สหรัฐอเมริกา (USD) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 35.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **35.4%** ของกอง (ส่วนที่เหลือ 64.6% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

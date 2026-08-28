@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 192875759.47
 holdings_count: 58
 top10_pct_nav: 52.83
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.9
 tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
@@ -157,6 +160,14 @@ _Principal Fixed Income Retirement Mutual Fund_
 | 3 | ดัชนีพันธบัตรรัฐบาลอายุ 1 - 3 ปี ของสมาคมตลาดตราสารหนี้ไทย | GovBond 1-3Yrs Index |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.9 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.9%** ของกอง (ส่วนที่เหลือ 5.1% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

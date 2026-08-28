@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 1173625397.31
 holdings_count: 3
 top10_pct_nav: 101.21
+market_countries: ["สหรัฐฯ", "ไต้หวัน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 21.3
 master_fund: "Vanguard Total World Stock Index Fund ETF Shares"
 master_isin: "US9220427424"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
@@ -196,6 +199,15 @@ The FTSE Global All Cap Index
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 19.8 |
+| ไต้หวัน | 1.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **21.3%** ของกอง (ส่วนที่เหลือ 78.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -22,6 +22,9 @@ nav_date: "2026-08-25"
 fund_size: 309747034.1
 holdings_count: 6
 top10_pct_nav: 188.02
+market_countries: ["เกาหลีใต้", "ญี่ปุ่น", "ไต้หวัน"]
+country_top: "เกาหลีใต้"
+country_coverage_pct: 64.3
 master_fund: "Global X Asia Semiconductor ETF"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
@@ -154,6 +157,16 @@ _LH ASIA SEMICONDUCTOR EQUITY FUND_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| เกาหลีใต้ | 24.4 |
+| ญี่ปุ่น | 20.3 |
+| ไต้หวัน | 19.6 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **64.3%** ของกอง (ส่วนที่เหลือ 35.7% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

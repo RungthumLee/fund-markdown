@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 11614392958.62
 holdings_count: 20
 top10_pct_nav: 93.94
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 98.8
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธีรภาพ จิรศักยกุล", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
 tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
@@ -192,6 +195,14 @@ _Krungsri Cash RMF_
 | 1 | อัตราดอกเบี้ยเงินฝากประจำ 1 ปี วงเงินน้อยกว่า 5 ล้านบาท เฉลี่ยของ 3 ธนาคารพาณิชย์ขนาดใหญ่ ได้แก่ ธนาคารกรุงเทพ ธนาคารกสิกรไทย และธนาคารไทยพาณิชย์ | - |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 98.8 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **98.8%** ของกอง (ส่วนที่เหลือ 1.2% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

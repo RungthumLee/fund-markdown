@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 506355438.14
 holdings_count: 11
 top10_pct_nav: 101.56
+market_countries: ["สหรัฐฯ", "สหราชอาณาจักร", "จีน"]
+country_top: "สหรัฐฯ"
+country_coverage_pct: 42.2
 master_fund: "Invesco Global Founders & Owners CUSDAcc"
 master_isin: "LU1218204631"
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
@@ -208,6 +211,16 @@ _KTAM Global Founders and Owners Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนรวมหลัก ปรับด้วยต้นทุนการป้องกันความเสี่ยงอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่ลงทุน ประมาณร้อยละ 80 และปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน ประมาณร้อยละ 20 |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| สหรัฐฯ | 25 |
+| สหราชอาณาจักร | 10.8 |
+| จีน | 6.4 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **42.2%** ของกอง (ส่วนที่เหลือ 57.8% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

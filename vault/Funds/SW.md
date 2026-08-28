@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 22261389.91
 holdings_count: 37
 top10_pct_nav: 64.81
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 90.0
 tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
@@ -187,6 +190,14 @@ _Sawakami Mixed Fund_
 | 1 | ดัชนีผลตอบแทนรวมตลาดหลักทรัพย์แห่งประเทศไทย (SET TRI) | เพื่อเป็นตัวแทนองค์ประกอบของพอร์ตการลงทุน (Portfolio Composition) และ อ้างอิงตัวชี้วัดเพื่อเปรียบเทียบ (Performance Objective) |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 90 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **90.0%** ของกอง (ส่วนที่เหลือ 10.0% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

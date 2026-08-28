@@ -23,6 +23,9 @@ nav_date: "2026-08-26"
 fund_size: 174209161.94
 holdings_count: 49
 top10_pct_nav: 62.7
+market_countries: ["ไทย"]
+country_top: "ไทย"
+country_coverage_pct: 94.1
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
 tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
 ---
@@ -195,6 +198,14 @@ _ONE EQUITY THAILAND ESG EXTRA FUND_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| ไทย | 94.1 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **94.1%** ของกอง (ส่วนที่เหลือ 5.9% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

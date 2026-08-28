@@ -23,6 +23,9 @@ nav_date: "2026-08-25"
 fund_size: 13421375717.25
 holdings_count: 2
 top10_pct_nav: 100.87
+market_countries: ["แคนาดา", "สหรัฐฯ", "ออสเตรเลีย"]
+country_top: "แคนาดา"
+country_coverage_pct: 34.0
 master_fund: "Franklin Gold and Prec Mtls A(acc)SGD"
 master_isin: "LU0498741890"
 tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
@@ -220,6 +223,16 @@ _KTAM World Gold and Precious Equity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ผลการดำเนินงานของกองทุนหลัก (100%) ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันคำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### การกระจายตามประเทศ (ตลาดจริงจากหลักทรัพย์)
+
+| ประเทศ (ตลาดที่ซื้อขาย) | % ของกอง |
+|---|---|
+| แคนาดา | 23.3 |
+| สหรัฐฯ | 6.5 |
+| ออสเตรเลีย | 4.2 |
+
+> ทะลุถึงหลักทรัพย์จริงได้ **34.0%** ของกอง (ส่วนที่เหลือ 66.0% ยังไม่ทะลุ) · ที่มา: look-through (Yahoo top holdings) · symbol/ISIN
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 
