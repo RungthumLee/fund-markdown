@@ -6,6 +6,10 @@ Yahoo must be called from a machine with internet (fine here; the assistant
 sandbox got 429 on raw curl - yfinance handles cookies). Small and fast: seven
 series.
 
+The window matches what NAV now holds (5 years, harvest.py NAV_YEARS): a
+correlation can only be measured over the overlap of the two series, so
+fetching less here would silently cap every fund's sample size at 8 months.
+
 Output: data/processed/factor_series.json
     { key: {name_th, symbol, type: price|yield, points:[[date,value],...]} }
 
@@ -47,7 +51,7 @@ def main() -> None:
     out: dict[str, dict] = {}
     for key, (name, symbol, typ) in FACTORS.items():
         try:
-            h = yf.Ticker(symbol).history(period="8mo")
+            h = yf.Ticker(symbol).history(period="5y")
         except Exception as e:
             LOG.warning("failed %s (%s): %s", key, symbol, str(e)[:60])
             continue

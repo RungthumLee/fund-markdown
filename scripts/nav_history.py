@@ -1,15 +1,22 @@
 """
-nav_history.py - Build a ~120-day NAV series per fund from the raw NAV dump.
+nav_history.py - Build the daily NAV series per fund from the raw NAV dump.
 
 funds.json keeps only the latest NAV (DEC-002); the daily history lives in
-data/raw/nav.jsonl. This surfaces it: for each fund it picks the share class with
-the most complete series, keeps the last ~120 calendar days, and computes
-DESCRIPTIVE window stats (return over the window, annualised volatility, high,
-low) plus a text sparkline. All backward-looking - no forecast (docs ideas §0).
+data/raw/nav.jsonl, now five years deep (harvest.py NAV_YEARS). For each fund
+this picks the share class with the most complete series, keeps every day of it,
+and computes DESCRIPTIVE stats over several horizons - 1Y / 3Y / 5Y, each one
+kept only when the fund is actually old enough to fill it, and each labelled
+with the dates and the number of days it was measured over. All backward-looking
+- no forecast (docs ideas §0).
+
+The full series is kept, not a window: correlations.py reads these points, and
+its standard error is roughly 1/sqrt(n), so the sample size here is what makes a
+correlation trustworthy (ideas §5.1).
 
 Output: data/processed/nav_history.json
     { proj_id: {class, from, to, n, points:[[date,nav],...], sparkline,
-                window_return_pct, volatility_annualized_pct, high, low} }
+                window_return_pct, volatility_annualized_pct, high, low,
+                horizons: [{label, from, to, n, return_pct, volatility_pct}]} }
 
 gen_vault reads it and renders a "NAV ย้อนหลัง" block; if the file is absent the
 block is simply skipped. This is the gateway to correlation work (R-05).
@@ -22,6 +29,7 @@ import json
 import math
 import sys
 from collections import defaultdict
+from datetime import date as _date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -31,7 +39,11 @@ LOG = get_logger("nav_history")
 RAW = ROOT / "data" / "raw" / "nav.jsonl"
 OUT = ROOT / "data" / "processed" / "nav_history.json"
 
-WINDOW_DAYS = 130          # calendar days to keep
+# Horizons reported in the note, longest last. A horizon is shown only when the
+# series covers at least 80% of it: a two-year-old fund gets 1Y, not a "3Y"
+# return quietly measured over two years.
+HORIZONS = [("1 ปี", 365), ("3 ปี", 365 * 3), ("5 ปี", 365 * 5)]
+HORIZON_FILL = 0.8
 SPARK = "▁▂▃▄▅▆▇█"
 
 
@@ -64,6 +76,27 @@ def stats(points: list[tuple[str, float]]) -> dict:
     }
 
 
+def horizons(points: list[tuple[str, float]]) -> list[dict]:
+    """Same descriptive stats over 1Y / 3Y / 5Y, skipping any horizon the fund
+    is too young to fill - a short series would otherwise be labelled with a
+    span it never covered."""
+    last = _date.fromisoformat(points[-1][0])
+    span = (last - _date.fromisoformat(points[0][0])).days
+    out = []
+    for label, days in HORIZONS:
+        if span < days * HORIZON_FILL:
+            continue
+        sub = [p for p in points
+               if (last - _date.fromisoformat(p[0])).days <= days]
+        if len(sub) < 20:
+            continue
+        s = stats(sub)
+        out.append({"label": label, "from": s["from"], "to": s["to"],
+                    "n": s["n"], "return_pct": s["window_return_pct"],
+                    "volatility_pct": s["volatility_annualized_pct"]})
+    return out
+
+
 def main() -> None:
     if not RAW.exists():
         LOG.error("no data/raw/nav.jsonl - run harvest first")
@@ -93,16 +126,9 @@ def main() -> None:
         # pick the class with the most points (most complete history)
         cls, pts = max(by_class.items(), key=lambda kv: len(kv[1]))
         pts = sorted(set(pts))                       # dedupe + sort by date
-        if pts:
-            cutoff = pts[-1][0]
-            # keep last WINDOW_DAYS by simple date-string compare on YYYY-MM-DD
-            from datetime import date as _d
-            last = _d.fromisoformat(cutoff)
-            pts = [p for p in pts
-                   if (last - _d.fromisoformat(p[0])).days <= WINDOW_DAYS]
         if len(pts) < 5:
             continue
-        out[pid] = {"class": cls, **stats(pts),
+        out[pid] = {"class": cls, **stats(pts), "horizons": horizons(pts),
                     "points": [[d, round(v, 4)] for d, v in pts]}
 
     OUT.write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8")

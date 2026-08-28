@@ -68,10 +68,20 @@ def is_in_scope(classes: list[dict]) -> tuple[bool, str]:
 
 | Dataset | หน้าต่าง | ตัวแปร |
 |---|---|---|
-| `nav` | 120 วันล่าสุด | `NAV_DAYS` |
+| `nav` | 5 ปีล่าสุด (หรือตั้งแต่จัดตั้ง) | `NAV_YEARS` |
 | `out_port_asset_type` | 4 เดือนล่าสุด | `PORT_MONTHS_BACK` |
-| `out_portfolio` | 2 ไตรมาสล่าสุด | `PORT_QUARTERS_BACK` |
+| `out_portfolio` | 12 ไตรมาสล่าสุด (= เพดานของ API) | `PORT_QUARTERS_BACK` |
 | `dividend_history` | ทั้งหมด | — |
 | factsheet ทุกตัว | งวดล่าสุด (`latest=true`) | — |
 
 ถ้าต้องการย้อนหลังมากกว่านี้ ให้แก้ค่าคงที่แล้วรัน `python scripts/harvest.py --force <dataset>`
+
+> [!NOTE] วัดขอบเขตของต้นทางแล้ว (2026-08-28 · `scripts/probe_history.py`)
+> **NAV ไม่มีเพดานฝั่ง API** — ย้อนได้ถึงวันจัดตั้ง (K-FIXED ให้ตั้งแต่ปี 1995)
+> ตัวเลข 5 ปีจึงเป็น**การเลือกของเรา** ไม่ใช่ข้อจำกัด
+> **พอร์ตมีเพดานจริงที่งวด 202309** — กองอายุ 32 ปีกับ 24 ปีได้งวดแรกสุดเท่ากัน
+> → 12 ไตรมาสคือทั้งหมดที่ต้นทางมี · ดู [[../project/outstanding|OUT-004]]
+
+`nav` และ `out_portfolio` ดึงแบบ**แบ่งช่วง** (ปีละไฟล์ / ไตรมาสละไฟล์) ลง
+`data/raw/<dataset>.parts/` แล้วต่อกันเป็น `.jsonl` เดิม — ถ้าหลุดกลางทาง
+รันซ้ำได้โดยไม่ต้องเริ่มใหม่ และเพิ่มความเร็วด้วย `--workers=4` ได้

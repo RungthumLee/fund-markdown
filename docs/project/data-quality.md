@@ -101,27 +101,8 @@ tags: [project, data-quality, qa]
 
 | Dataset | จำนวนแถว |
 |---|---|
-| `amcs` | 30 |
-| `profiles` | 4,892 |
-| `specifications` | 13,465 |
-| `mutual_fund_fees` | 83,748 |
-| `involve_parties` | 13,504 |
-| `fs_urls` | 7,131 |
-| `fs_ipos` | 5,898 |
-| `fs_benchmarks` | 4,623 |
-| `fs_min_amounts` | 7,127 |
-| `fs_periods` | 10,992 |
-| `fs_risk` | 4,343 |
-| `fs_statistics` | 3,748 |
-| `fs_dividend` | 7,131 |
-| `fs_fees` | 31,440 |
-| `fs_performance` | 159,009 |
-| `fs_asset_alloc` | 7,990 |
-| `fs_top5` | 8,276 |
-| `nav` | 255,205 |
-| `dividend_history` | 4,145 |
-| `out_port_asset_type` | 41,056 |
-| `out_portfolio` | 136,077 |
+| `nav` | 3,300,111 |
+| `out_portfolio` | 763,302 |
 
 ---
 
@@ -144,8 +125,8 @@ tags: [project, data-quality, qa]
 ### 5.1 ข้อมูลเป็นภาพ ณ งวด factsheet ล่าสุด ไม่ใช่เรียลไทม์
 ค่าธรรมเนียม สถิติ ผลการดำเนินงาน พอร์ต — ทั้งหมดมาจาก factsheet งวดล่าสุดที่ บลจ. ส่ง (โดยทั่วไปคือสิ้นเดือนก่อนหน้า)
 
-### 5.2 NAV ย้อนหลังจำกัด 120 วัน
-โน้ตแสดง NAV ล่าสุดเท่านั้น — ดู [[decisions|DEC-002]]
+### 5.2 NAV ย้อนหลัง 5 ปี · พอร์ตย้อนหลัง 3 ปี
+NAV เก็บ 5 ปี (`NAV_YEARS`) เป็นเพดานที่เลือกเอง — ต้นทางให้ถึงวันจัดตั้ง · พอร์ตเก็บ 12 ไตรมาส ซึ่งเป็น**เพดานของ API เอง** · กองที่อายุน้อยกว่านั้นได้เท่าที่มี — ดู [[decisions|DEC-002]]
 
 ### 5.3 พอร์ตรายตัวแสดงเพียง 30 อันดับแรก
 กองตราสารหนี้บางกองถือหลักทรัพย์หลายร้อยรายการ ข้อมูลเต็มอยู่ใน `data/raw/out_portfolio.jsonl`

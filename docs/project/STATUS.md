@@ -37,6 +37,7 @@ updated: 2026-08-28
 - [x] **P3 · R-05 NAV time-series** ✅ — surface NAV 120 วัน ในโน้ตกอง (ประตูสู่ correlation)
 - [x] **P5 · Correlation (fund↔factor)** ✅ — factor series (Yahoo) + realized correlation + block ในโน้ต (descriptive+caveat)
 - [x] **P4** ✅ เสริมสรุปภาษาคนให้มี **ประเทศ + กลุ่มอุตสาหกรรม** (A-RING: เน้นกลุ่มวัสดุ/โลหะ · แคนาดา)
+- [x] **P7 · Backfill NAV 5 ปี + holding 12 ไตรมาส** ✅ — 3.3 ล้านแถว NAV · correlation median n 53 → **1,050**
 - [x] **P6 · Probe ต้นทาง + เก็บงานค้าง** ✅ — `probe_history.py` (NAV/portfolio reach + rate limit) · OUT-001 RMF · sync เอกสาร
 
 ## 🤝 Handoff — สำหรับ Session ถัดไป (2026-08-28)
@@ -48,16 +49,18 @@ updated: 2026-08-28
 - **Skills 6 ตัว** ที่ `.claude/skills/` · **ออกแบบ+กรอบ** ที่ [[ideas]] (§0 = เส้นห้ามข้าม)
 
 ### งานถัดไป (เรียงตามคุ้มค่า) — ดูรายละเอียด [[ideas#5]]
-> ข้อ 1 เดิม (**ทดสอบ SEC API reach**) ✅ **ทำแล้ว 2026-08-28** — ผลอยู่ที่ [[ideas#5.5|ideas §5.5]] /
-> [[outstanding|OUT-002]] / [[outstanding|OUT-004]] · เครื่องมือ: `python scripts/probe_history.py`
+> ✅ **ทำแล้ว 2026-08-28:** probe ต้นทาง (§5.5) · **backfill NAV 5 ปี + holding 12 ไตรมาส** (P7)
+> ข้อมูลพร้อมสำหรับงานที่ต้องใช้ประวัติยาวแล้ว
 
-1. **Backfill NAV → 5 ปี** (`min(5y, ตั้งแต่จัดตั้ง)`) — ตั้ง `MAX_NAV_YEARS=5` ใน `harvest.py`
-   แล้ว `--force nav` · ต้นทางให้ถึงวันจัดตั้งจริง (K-FIXED 32 ปี) · ~23,000 call ≈ 50 นาที
-   → ปลุก correlation ให้เชื่อถือได้ + rolling + crisis + fund-to-fund
-2. **Backfill holding → 12 ไตรมาส** (`PORT_QUARTERS_BACK=12`) — **เพดานต้นทางพอดี** (งวดแรกสุด 202309)
-   → tag ที่ทน + style drift + return attribution
-3. **[[tasks|T-100]]** ลงทะเบียน `schtasks` — ผู้ใช้รันเอง 1 บรรทัด (agent ถูก policy บล็อก)
-4. **ต่อยอด (descriptive):** rolling correlation · return attribution · consistency/drift score · factor-live skill (FRED + caveat)
+1. **Rolling correlation** — correlation เคลื่อนที่ (เช่น หน้าต่าง 1 ปี ขยับทีละเดือน)
+   → ตอบ "นิ่งหรือดริฟต์" ด้วย**ตัวเลข** แทนการเตือนลอย ๆ · ข้อมูลพร้อม (median 1,050 วัน)
+2. **Crisis correlation** — correlation เฉพาะช่วงตลาดตก → ทำให้คำเตือน "พุ่งเข้า 1 ตอนวิกฤต"
+   เป็นตัวเลขที่วัดได้ · ต้องนิยาม "ช่วงวิกฤต" จากข้อมูล ไม่ใช่เลือกเอง
+3. **Fund-to-fund correlation** — เสริม skill `portfolio-overlap`:
+   ซ้ำซ้อนที่วัดจากการเคลื่อนไหวจริง ไม่ใช่แค่ถือหุ้นตัวเดียวกัน
+4. **Style drift / tag ที่ทน** — ใช้ holding 12 ไตรมาสที่ backfill มาแล้ว
+   (`data/raw/out_portfolio.jsonl` มีครบ · ตอนนี้ `transform` ใช้แค่งวดล่าสุด)
+5. **[[tasks|T-100]]** ลงทะเบียน `schtasks` — ผู้ใช้รันเอง 1 บรรทัด (agent ถูก policy บล็อก)
 
 ### วิธีทำงาน (สำคัญ)
 - **ทุกอย่างอยู่ใต้กรอบ [[ideas#0. กรอบ|§0]]:** descriptive · สองด้าน · ไม่ทำนาย · ไม่มี `estimated_change`/`confidence` · ทุกตัวเลขมีที่มา+ช่วงเวลา · ไม่มีข้อมูล=บอกไม่มี
@@ -114,6 +117,19 @@ _บันทึกผลโหวต 3 agent ต่อทางแยกที�
 ## บันทึกรอบ (Round log)
 
 _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · ไฟล์ที่แตะ_
+
+- **P7 · Backfill ข้อมูลย้อนหลัง (T-106)** — V ผ่าน (broken=0 · orphan=0 · S1=0) ·
+  `harvest.py` `NAV_YEARS=5` + `PORT_QUARTERS_BACK=12` และเปลี่ยนเป็น **ดึงแบบแบ่ง slice**
+  (ปีละไฟล์/ไตรมาสละไฟล์ ลง `.parts/` มี `.done` ของตัวเอง → หลุดกลางทางรันต่อได้) ·
+  ผลจริง: **NAV 3,300,111 แถว / 873 MB ใน 2 ชม. 14 นาที** · **portfolio 763,302 แถว / 251 MB ใน 31 นาที** ·
+  **rate limit ของจริง:** 4 workers → เจอ 429 ใน 3 นาที · เรียงต่อกัน → 429 = 0 (แก้ [[outstanding|OUT-002]] ที่ burst test บอกว่าไม่มีเพดาน) ·
+  `fetch_factor_series` 8 เดือน → 5 ปี (ไม่งั้น correlation ถูกคอขวดที่ฝั่ง factor) ·
+  `nav_history` เก็บ series เต็ม + สถิติ **1Y/3Y/5Y** (แสดงเฉพาะช่วงที่กองอายุถึง ≥80%) ·
+  **ผลลัพธ์ที่วัดได้:** correlation median n **53 → 1,050** (SE ~0.12 → ~0.03) · 1AMSET50↔SET +0.93(n=53) → **+0.97(n=1,167)** ·
+  A-RING↔ทอง +0.89(n=78) → **+0.82(n=170)** · กองที่มี correlation 1,704 → **1,883** · กองในขอบเขตที่มีสถิติ 5 ปี **1,442** ·
+  เจอบั๊กที่โผล่เพราะข้อมูลยาวขึ้น 2 ตัว: [[issues|ISS-039]] (NAV สรุปย่อเป็นของ class ที่ตายแล้ว) ·
+  [[issues|ISS-040]] (รัน `transform` แล้วไม่รัน pipeline ต่อ → ลิงก์หลักทรัพย์หาย 2,027 orphan) ·
+  ไฟล์: `harvest.py` `nav_history.py` `fetch_factor_series.py` `gen_vault.py` + เอกสาร
 
 - **P6 · Probe ต้นทาง + เก็บงานค้าง** — V ผ่าน (broken=0 · orphan=0 · S1=0 · `#tax/rmf` 341→**377** กอง) ·
   `probe_history.py` วัดจริง 463 call: **NAV ย้อนถึงวันจัดตั้ง** (K-FIXED 1995–2026 = 32 ปี · ปีก่อนจัดตั้ง 0 แถว) ·

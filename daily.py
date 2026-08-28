@@ -66,7 +66,7 @@ STAGES: list[Stage] = [
      "รวม/กรอง/ทำความสะอาด -> data/processed/",
      ["data/raw/*.jsonl"], False),
     ("navhist", [PY, "scripts/nav_history.py"],
-     "NAV ย้อนหลัง ~120 วัน + สถิติ",
+     "NAV ย้อนหลังถึง 5 ปี + สถิติหลายช่วง",
      ["data/raw/nav.jsonl"], False),
     ("factorseries", [PY, "scripts/fetch_factor_series.py"],
      "ดึง series ปัจจัยจาก Yahoo (ทอง/น้ำมัน/ดอกเบี้ย/USD/SET)", [], True),

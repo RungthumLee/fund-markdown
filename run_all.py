@@ -30,7 +30,7 @@ STAGES = [
     ("transform",  [PY, "scripts/transform.py"],
      "รวม/กรอง/ทำความสะอาด -> data/processed/"),
     ("navhist",    [PY, "scripts/nav_history.py"],
-     "สร้าง NAV ย้อนหลัง ~120 วัน + สถิติ (จาก data/raw/nav.jsonl)"),
+     "สร้าง NAV ย้อนหลังถึง 5 ปี + สถิติหลายช่วง (จาก data/raw/nav.jsonl)"),
     ("factorseries", [PY, "scripts/fetch_factor_series.py"],
      "ดึง series ปัจจัย (ทอง/น้ำมัน/ดอกเบี้ย/USD/SET) จาก Yahoo"),
     ("correlations", [PY, "scripts/correlations.py"],

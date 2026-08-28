@@ -110,7 +110,10 @@ rm data/raw/*.done && python run_all.py
 - **P4 สรุปภาษาคน** — เพิ่มกลุ่มอุตสาหกรรม + ประเทศตลาด
 - **P5 correlation วัดจริง** — A-RING↔ทอง **+0.89** · 1AMSET50↔SET **+0.93** (1,704 กอง)
 - **Probe ต้นทาง** — `scripts/probe_history.py`: NAV ย้อนถึงวันจัดตั้ง (K-FIXED 32 ปี) ·
-  portfolio เพดาน 12 ไตรมาส · ไม่เจอ 429 ถึง 73 req/s → [[outstanding|OUT-002]] / [[outstanding|OUT-004]]
+  portfolio เพดาน 12 ไตรมาส → [[outstanding|OUT-004]]
+- **P7 Backfill** — NAV **5 ปี (3.3 ล้านแถว)** + portfolio **12 ไตรมาส (763k แถว)** ·
+  correlation median n **53 → 1,050** (SE ~0.12 → ~0.03) · สถิติ NAV มี 1Y/3Y/5Y ในโน้ตกอง ·
+  rate limit ของจริงเป็น quota ต่อเนื่อง ไม่ใช่ burst → [[outstanding|OUT-002]]
 - **OUT-001 แก้แล้ว** — RMF ตรวจจากชื่อจดทะเบียน "เพื่อการเลี้ยงชีพ" แทนชื่อย่อ (341 → 377 กอง)
 
 > [!NOTE] ความปลอดภัยตอน push: ยืนยันแล้วว่า `.env.local` + ทั้ง `data/` ถูก `.gitignore`
@@ -122,11 +125,11 @@ rm data/raw/*.done && python run_all.py
 
 ## สิ่งที่ควรทำต่อ (เรียงตามความคุ้มค่า)
 
-1. **Backfill NAV → 5 ปี** `min(5 ปี, ตั้งแต่จัดตั้ง)` — probe ยืนยันแล้วว่าต้นทางให้ได้
-   (~23,000 call ≈ 50 นาที) → ปลุก correlation ให้เชื่อถือได้ + rolling + crisis + fund-to-fund
-2. **Backfill holding → 12 ไตรมาส** — เพดานต้นทางพอดี → tag ที่ทน + style drift + attribution
-3. **[[tasks|T-100]]** ลงทะเบียน `schtasks` (ผู้ใช้รันเอง 1 บรรทัด) ให้ changelog เดินจริง
-4. **ต่อยอด descriptive:** rolling correlation · return attribution · consistency/drift score
+1. **Rolling correlation** — ข้อมูลพร้อมแล้ว (median 1,050 วัน/กอง) → วัด "นิ่งหรือดริฟต์" เป็นตัวเลข
+2. **Crisis correlation** — correlation เฉพาะช่วงตลาดตก ให้คำเตือน "พุ่งเข้า 1" มีตัวเลขรองรับ
+3. **Fund-to-fund correlation** — เสริม skill `portfolio-overlap` ด้วยความซ้ำซ้อนที่วัดจากการเคลื่อนไหวจริง
+4. **Style drift** — ใช้ holding 12 ไตรมาสที่ backfill แล้ว (ตอนนี้ `transform` ใช้แค่งวดล่าสุด)
+5. **[[tasks|T-100]]** ลงทะเบียน `schtasks` (ผู้ใช้รันเอง 1 บรรทัด) ให้ changelog เดินจริง
 
 รายละเอียดและเหตุผลเชิงสถิติที่ [[ideas|ideas §5]]
 
@@ -193,7 +196,7 @@ rm data/raw/*.done && python run_all.py
 ทั้งหมดบันทึกไว้ที่ [[data-quality|Data Quality §5]] — สรุปที่สำคัญที่สุด:
 
 - ข้อมูลเป็นภาพ ณ **งวด factsheet ล่าสุด** ไม่ใช่เรียลไทม์
-- NAV ย้อนหลังเก็บแค่ 120 วัน (เพดานที่**เราตั้งเอง** — ต้นทางให้ถึงวันจัดตั้ง ดู [[outstanding|OUT-004]])
+- NAV ย้อนหลังเก็บ **5 ปี** (หรือตั้งแต่จัดตั้ง) · พอร์ตย้อนหลัง **12 ไตรมาส** = เพดานของ API — [[outstanding|OUT-004]]
 - พอร์ตรายตัวแสดง **ครบทุกรายการ** ของงวดล่าสุด แต่เป็นข้อมูล**รายไตรมาส** จึงล้าหลัง NAV
 - RMF ตรวจจับจากชื่อ**จดทะเบียน** ("เพื่อการเลี้ยงชีพ") เพราะ API ไม่มี flag — [[outstanding|OUT-001]]
 - ข้อความยาวถูกตัดที่ 4,000 อักขระ

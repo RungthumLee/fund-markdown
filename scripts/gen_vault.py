@@ -264,8 +264,12 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
     a("")
 
     nav_line = ""
-    if f.get("nav"):
-        n0 = f["nav"][0]
+    # newest across classes, not f["nav"][0]: transform keeps the last NAV of
+    # every class, so a class that stopped reporting years ago still has a row,
+    # and with five years of history it can sort first. Same value the
+    # frontmatter carries. (ISS-039)
+    n0 = fund_latest_nav(f)
+    if n0:
         nav_line = f"NAV {fmt(n0.get('nav_per_unit'))} ({n0.get('date')})"
     a("> [!abstract] สรุปย่อ")
     a(f"> - **รหัสโครงการ:** `{f['proj_id']}`")
@@ -543,7 +547,7 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
                         for x in _corr["factors"]]))
         a(f"> **วัดจาก NAV รายวัน** ช่วง {_corr['from']}..{_corr['to']} "
           "(ที่มา: NAV × Yahoo) · +1 = ไปทางเดียวกัน · −1 = สวนทาง")
-        a("> [!warning] เป็น**ความสัมพันธ์ในอดีตช่วงสั้น** — **ไม่ใช่การพยากรณ์** · "
+        a("> [!warning] เป็น**ความสัมพันธ์ที่วัดจากอดีตในช่วงข้างต้น** — **ไม่ใช่การพยากรณ์** · "
           "correlation ไม่ใช่สาเหตุ และ**ไม่นิ่ง** (มักพุ่งเข้า 1 ตอนตลาดวิกฤต)")
 
     if f.get("asset_allocation"):
@@ -704,25 +708,35 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
                          fmt(n.get("net_asset"), digits=0)] for n in f["nav"]]))
         a("อ่านเพิ่ม: [[NAV และราคาซื้อขายหน่วยลงทุน]]")
     else:
-        a("_ไม่มีข้อมูล NAV ในช่วง 120 วันที่ผ่านมา_")
+        a("_ไม่มีข้อมูล NAV ในช่วงที่เก็บ_")
     a("")
 
-    # NAV history ~120d (R-05): self-computed descriptive stats + sparkline.
-    # No-op if nav_history.json has not been built. Backward-looking only.
+    # NAV history (R-05): self-computed descriptive stats + sparkline, over
+    # every horizon the fund is old enough to fill. No-op if nav_history.json
+    # has not been built. Backward-looking only.
     _hist = NAV_HISTORY.get(f.get("proj_id") or "")
     if _hist:
-        a(f"### NAV ย้อนหลัง ~120 วัน (ชนิด `{_hist['class']}`)")
+        a(f"### NAV ย้อนหลัง {_hist['from']} → {_hist['to']} "
+          f"(ชนิด `{_hist['class']}`)")
         a("")
         a(f"`{_hist['sparkline']}`")
         a("")
-        o.extend(table(["ช่วง", "จำนวนวัน", "เปลี่ยนแปลงช่วงนี้", "ความผันผวน (ต่อปี)",
-                        "สูงสุด", "ต่ำสุด"],
-                       [[f"{_hist['from']} → {_hist['to']}", _hist["n"],
-                         fmt(_hist.get("window_return_pct"), digits=2) + "%",
-                         fmt(_hist.get("volatility_annualized_pct"), digits=1) + "%",
-                         fmt(_hist.get("high")), fmt(_hist.get("low"))]]))
+        rows = [["ทั้งช่วง", f"{_hist['from']} → {_hist['to']}", _hist["n"],
+                 fmt(_hist.get("window_return_pct"), digits=2) + "%",
+                 fmt(_hist.get("volatility_annualized_pct"), digits=1) + "%"]]
+        # longest first: the fuller sample is the more meaningful one
+        for h in reversed(_hist.get("horizons") or []):
+            rows.append([h["label"], f"{h['from']} → {h['to']}", h["n"],
+                         fmt(h.get("return_pct"), digits=2) + "%",
+                         fmt(h.get("volatility_pct"), digits=1) + "%"])
+        o.extend(table(["ช่วง", "วันที่", "จำนวนวัน", "เปลี่ยนแปลง",
+                        "ความผันผวน (ต่อปี)"], rows))
+        a(f"สูงสุด {fmt(_hist.get('high'))} · ต่ำสุด {fmt(_hist.get('low'))} "
+          "(ตลอดช่วงที่เก็บ)")
+        a("")
         a("> ตัวเลข**คำนวณเองจาก NAV รายวัน** (ที่มา: `data/raw/nav.jsonl`) · "
-          "เป็นข้อมูล**ย้อนหลัง** ไม่ใช่การพยากรณ์ · ผลตอบแทน/ผันผวนอดีตไม่รับประกันอนาคต")
+          "เป็นข้อมูล**ย้อนหลัง** ไม่ใช่การพยากรณ์ · ผลตอบแทน/ผันผวนอดีตไม่รับประกันอนาคต · "
+          "ช่วงที่กองอายุยังไม่ถึงจะไม่แสดง")
         a("")
 
     # ---- 9. dividend

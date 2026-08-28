@@ -235,7 +235,7 @@ Compounded Effective Federal Funds Rate
 
 ## 8. NAV
 
-_ไม่มีข้อมูล NAV ในช่วง 120 วันที่ผ่านมา_
+_ไม่มีข้อมูล NAV ในช่วงที่เก็บ_
 
 ## 9. เงินปันผล
 

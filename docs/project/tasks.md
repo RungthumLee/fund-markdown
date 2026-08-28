@@ -179,7 +179,12 @@ tag ภาษานักลงทุน) เป็น markdown ล้วน ใ
   (`tagging.py::_is_rmf`) → `#tax/rmf` 341 → 377 กอง · regenerate vault · broken=0
 - [x] **T-105** sync [[handover|Handover]] ให้ตรงรอบล่าสุด + ชี้ [[STATUS|STATUS §Handoff]] เป็นแหล่งจริง
 - [x] **T-107** [[issues|ISS-038]] ตารางปัจจัยสลับลำดับเองทุก regenerate → `factors.py` deterministic
-- [ ] **T-106** Backfill NAV 5 ปี (`MAX_NAV_YEARS=5`) + holding 12 ไตรมาส — ประเมิน ~23,000 call ≈ 50 นาที
+- [x] **T-106** Backfill NAV 5 ปี (`NAV_YEARS=5`) + holding 12 ไตรมาส (`PORT_QUARTERS_BACK=12`)
+  - ของจริง: NAV **3,300,111 แถว / 873 MB / 2 ชม. 14 นาที** · portfolio **763,302 แถว / 251 MB / 31 นาที**
+  - `harvest.py` ดึงแบบแบ่ง slice + `.done` ต่อ slice → รันต่อได้ถ้าหลุด · `--workers` มีแต่ไม่แนะนำ (429)
+  - correlation median n **53 → 1,050** · กองที่มีสถิติ 5 ปี 1,442 กอง
+- [x] **T-108** [[issues|ISS-039]] NAV ในสรุปย่อเป็นของ class ที่เลิกรายงาน → ใช้ `fund_latest_nav()`
+- [x] **T-109** [[issues|ISS-040]] รัน `transform` แล้วต้องรัน `run_all.py --from masters` ไม่งั้นลิงก์หลักทรัพย์หาย
 
 ---
 
