@@ -33,7 +33,7 @@ updated: 2026-08-28
 ทำตามลำดับ ทุกเฟส commit + broken=0 · อยู่ในกรอบ [[ideas#0. กรอบ|ข้อมูลอ้างอิง]] (สองด้าน · ไม่ทำนาย)
 
 - [x] **P1 · Factor foundation** ✅ — `factor_map.json` (static) + `factors.py` + section "⚖️ ปัจจัยที่กระทบ" ในโน้ตกอง (สองด้าน, ไม่ทำนาย)
-- [ ] **P2 · Skills** — `.claude/skills/*` : fund-explainer · fund-finder · portfolio-overlap · fee-audit · holding-explorer
+- [x] **P2 · Skills** ✅ — `.claude/skills/*` : fund-explainer · fund-finder · portfolio-overlap · fee-audit · holding-explorer
 - [ ] **P3 · R-05 NAV time-series** — surface NAV 120 วัน ในโน้ตกอง (ประตูสู่ correlation)
 - [ ] **P4 · (ถ้ามีเวลา)** by-category index กองหลัก · semantic check ใหม่ (country/sector coverage)
 
