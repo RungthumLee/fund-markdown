@@ -28,7 +28,7 @@ country_coverage_pct: 74.8
 master_fund: "Global X Asia Semiconductor ETF"
 master_isin: "HK0000756236"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # A-ASEMI

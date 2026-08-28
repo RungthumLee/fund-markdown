@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 45.1
 master_fund: "Fidelity Global Technology Y-Acc-USD"
 master_isin: "LU1560650563"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-TECHNOLOGY

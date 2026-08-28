@@ -30,7 +30,7 @@ master_fund: "Amundi Fds Polen Cptl Glbl Gr I2 USD C"
 master_isin: "LU1691799990"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-GCGRMF

@@ -28,7 +28,7 @@ country_top: "ญี่ปุ่น"
 country_coverage_pct: 47.8
 master_fund: "iShares Core Nikkei 225 ETF"
 master_isin: "JP3027710007"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-JPFUND

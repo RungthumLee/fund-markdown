@@ -22,6 +22,9 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** ญี่ปุ่น
 
+**กลุ่ม:** Real Estate · **อุตสาหกรรม:** REIT - Office · **ขนาด:** ใหญ่ (540,959,997,952 JPY)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หน่วยลงทุน** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น
 

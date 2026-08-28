@@ -28,7 +28,7 @@ country_top: "เกาหลีใต้"
 country_coverage_pct: 58.4
 master_fund: "MS INVF Asia Opportunity Z"
 master_isin: "LU1378878604"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/consumer, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBAO

@@ -29,7 +29,7 @@ master_fund: "Fidelity Global Dividend Y-QInc(G)-USD"
 master_isin: "LU1560650217"
 peer_group: "Global Equity Fully FX Risk Hedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KF-GDIVRMF

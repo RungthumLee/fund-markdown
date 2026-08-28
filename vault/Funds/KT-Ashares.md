@@ -28,7 +28,7 @@ country_top: "จีน"
 country_coverage_pct: 34.4
 master_fund: "Schroder ISF China A Y Acc USD"
 master_isin: "LU2747266877"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-Ashares

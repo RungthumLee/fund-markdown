@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 52.6
 master_fund: "BNP Paribas Health Cr Innovtr I Cap"
 master_isin: "LU0823417067"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/healthcare, cap/large, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBIHEALTH

@@ -29,7 +29,7 @@ country_coverage_pct: 61.2
 master_fund: "HSBC Hang Seng Tech UCITS ETF"
 master_isin: "IE00BMWXKN31"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/consumer, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-CHINATECH

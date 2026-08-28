@@ -16,6 +16,9 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 
 **ตลาดซื้อขาย:** สหรัฐฯ
 
+**กลุ่ม:** Utilities · **อุตสาหกรรม:** Utilities - Regulated Electric · **ขนาด:** ใหญ่ (94,219,214,848 USD)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

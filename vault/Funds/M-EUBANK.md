@@ -28,7 +28,7 @@ country_top: "สหราชอาณาจักร"
 country_coverage_pct: 52.0
 master_fund: "iShares STOXX Europe 600 Banks UCITS ETF (DE)"
 master_isin: "DE000A0F5UJ7"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/financials, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # M-EUBANK

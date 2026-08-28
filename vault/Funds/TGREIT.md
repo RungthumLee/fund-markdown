@@ -30,7 +30,7 @@ master_fund: "B&I Global Real Estate Securities Fund S"
 master_isin: "LI0301993643"
 peer_group: "Fund of Property Fund - Foreign"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, sector/real-estate, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TGREIT

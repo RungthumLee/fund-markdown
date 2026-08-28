@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ", "แคนาดา", "สหราช�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 31.3
 master_fund: "Range Nuclear Renaissance ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/utilities, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHNUKZ

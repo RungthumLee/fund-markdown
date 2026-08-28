@@ -27,7 +27,7 @@ country_top: "เวียดนาม"
 country_coverage_pct: 61.4
 master_fund: "VFMVN30 ETF"
 master_isin: "VN0E1VFVN306"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/real-estate, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # PRINCIPAL VNEI

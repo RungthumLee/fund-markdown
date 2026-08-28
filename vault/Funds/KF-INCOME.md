@@ -30,7 +30,7 @@ master_fund: "JPM Global Income I mth USD Hdg"
 master_isin: "LU2293733585"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-INCOME

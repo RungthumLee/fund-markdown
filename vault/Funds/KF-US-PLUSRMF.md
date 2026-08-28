@@ -29,7 +29,7 @@ master_fund: "JPM US Select Equity Plus I acc USD"
 master_isin: "LU0281485341"
 peer_group: "US Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KF-US-PLUSRMF

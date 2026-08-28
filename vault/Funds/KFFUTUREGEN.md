@@ -30,7 +30,7 @@ master_fund: "GS Global Future Gen Eq I Acc USD"
 master_isin: "LU0786609700"
 peer_group: "Global Equity Fully FX Risk Hedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFFUTUREGEN

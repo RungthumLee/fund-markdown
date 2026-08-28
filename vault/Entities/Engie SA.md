@@ -16,6 +16,9 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 
 **ตลาดซื้อขาย:** ฝรั่งเศส
 
+**กลุ่ม:** Utilities · **อุตสาหกรรม:** Utilities - Diversified · **ขนาด:** ใหญ่ (61,231,505,408 EUR)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **10** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

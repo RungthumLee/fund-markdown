@@ -28,7 +28,7 @@ country_top: "ฮ่องกง"
 country_coverage_pct: 24.7
 master_fund: "Schroder ISF All China Equity C Acc USD"
 master_isin: "LU1831875205"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/communication, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBCHEQ

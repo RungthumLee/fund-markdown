@@ -29,7 +29,7 @@ country_coverage_pct: 36.0
 master_fund: "BGF Continental Eurp Flex I2"
 master_isin: "LU0888974473"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # MEURO

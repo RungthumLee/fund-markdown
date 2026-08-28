@@ -26,7 +26,7 @@ market_countries: ["อินเดีย"]
 country_top: "อินเดีย"
 country_coverage_pct: 35.4
 master_fund: "Robeco Indian Equities F $"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, cap/large, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KKP INDIA RMF-UH

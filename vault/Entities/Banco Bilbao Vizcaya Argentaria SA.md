@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** สเปน
 
+**กลุ่ม:** Financial Services · **อุตสาหกรรม:** Banks - Diversified · **ขนาด:** ใหญ่ (136,081,408,000 EUR)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **8** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

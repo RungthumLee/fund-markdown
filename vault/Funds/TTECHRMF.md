@@ -30,7 +30,7 @@ master_fund: "iShares Expanded Tech Sector ETF"
 master_isin: "US4642875490"
 peer_group: "Technology Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TTECHRMF

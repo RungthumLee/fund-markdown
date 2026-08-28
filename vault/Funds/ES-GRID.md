@@ -29,7 +29,7 @@ master_fund: "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund
 master_isin: "US33737A1088"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/industrials, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-GRID

@@ -28,7 +28,7 @@ country_top: "ญี่ปุ่น"
 country_coverage_pct: 48.0
 master_fund: "iShares Core Nikkei 225 ETF"
 master_isin: "JP3027710007"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # SCBNKY225

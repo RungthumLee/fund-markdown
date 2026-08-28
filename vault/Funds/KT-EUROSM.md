@@ -28,7 +28,7 @@ country_top: "สวิตเซอร์แลนด์"
 country_coverage_pct: 17.8
 master_fund: "Invesco Cnttl Eur Sm Cp Eq Z EUR Acc"
 master_isin: "LU1775962050"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-EUROSM

@@ -29,7 +29,7 @@ country_coverage_pct: 46.3
 master_fund: "Invesco NASDAQ 100 ETF"
 peer_group: "US Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # K-USXNDQRMF

@@ -30,7 +30,7 @@ master_fund: "JPM Japan Equity C acc JPY"
 master_isin: "LU1374269352"
 peer_group: "Japan Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, sector/consumer, cap/large, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KF-HJAPAND

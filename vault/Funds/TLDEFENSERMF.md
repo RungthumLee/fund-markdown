@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 62.5
 master_fund: "Global X Defense Tech ETF"
 master_isin: "US37960A5294"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/industrials, cap/large, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TLDEFENSERMF

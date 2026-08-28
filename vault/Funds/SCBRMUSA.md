@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 50.3
 master_fund: "MS INVF US Growth Z"
 master_isin: "LU0360477805"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # SCBRMUSA

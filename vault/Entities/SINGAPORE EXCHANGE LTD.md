@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
 
+**กลุ่ม:** Financial Services · **อุตสาหกรรม:** Financial Data & Stock Exchanges · **ขนาด:** ใหญ่ (27,196,327,936 SGD)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

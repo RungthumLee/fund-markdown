@@ -29,7 +29,7 @@ country_coverage_pct: 41.1
 master_fund: "Pictet-Premium Brands R EUR"
 master_isin: "LU0217138485"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/consumer, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-PREMIUMRMF

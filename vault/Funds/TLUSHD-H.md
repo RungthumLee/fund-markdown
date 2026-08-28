@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 41.6
 master_fund: "Schwab U.S. Dividend Equity ETF"
 master_isin: "US8085247976"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/healthcare, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLUSHD-H

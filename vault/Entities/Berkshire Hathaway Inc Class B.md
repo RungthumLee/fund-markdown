@@ -12,6 +12,9 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 
 **ประเภท:** หุ้น
 
+**กลุ่ม:** Financial Services · **อุตสาหกรรม:** Insurance - Diversified · **ขนาด:** ใหญ่ (1,078,275,538,944 USD)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **32** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

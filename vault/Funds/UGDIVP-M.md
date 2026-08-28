@@ -27,7 +27,7 @@ country_top: "สวิตเซอร์แลนด์"
 country_coverage_pct: 27.7
 master_fund: "FF - Global Dividend Pl Y Acc USD"
 master_isin: "LU1711970662"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/consumer, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGDIVP-M

@@ -30,7 +30,7 @@ master_fund: "iShares Global Energy ETF"
 master_isin: "US4642873412"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/energy, cap/large, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GLOBALENERGY

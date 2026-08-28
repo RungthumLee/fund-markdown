@@ -30,7 +30,7 @@ master_fund: "AXAWF Sustainable Equity QI I Cap USD"
 master_isin: "LU0943665264"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GLOBALESG

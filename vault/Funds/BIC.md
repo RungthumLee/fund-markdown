@@ -29,7 +29,7 @@ country_coverage_pct: 45.7
 master_fund: "iShares BIC 50 UCITS ETF USD (Dist)"
 master_isin: "IE00B1W57M07"
 peer_group: "Emerging Market"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/consumer, cap/large, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # BIC

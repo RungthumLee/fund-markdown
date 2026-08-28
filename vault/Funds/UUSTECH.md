@@ -28,7 +28,7 @@ country_coverage_pct: 35.6
 master_fund: "JPM US Technology I acc USD"
 master_isin: "LU0248060906"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UUSTECH

@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 60.5
 master_fund: "iShares Semiconductor ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHSEMICON

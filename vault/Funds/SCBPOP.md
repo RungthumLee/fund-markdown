@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 45.5
 master_fund: "Fidelity Global Demographics Y-Acc-USD"
 master_isin: "LU0528228231"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBPOP

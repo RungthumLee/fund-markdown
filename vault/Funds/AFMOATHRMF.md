@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 23.3
 master_fund: "VanEck Morningstar Wide Moat ETF"
 master_isin: "US92189F6438"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/consumer, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # AFMOATHRMF

@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ", "สวิตเซอร์แลน�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 42.6
 master_fund: "Tema Oncology ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/healthcare, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHLONGEVITY

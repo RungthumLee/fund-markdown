@@ -30,7 +30,7 @@ master_fund: "FSSA Greater China Growth I USD Acc"
 master_isin: "IE0031814852"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "น.ส. วรดา ตันติสุนทร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KF-GCHINARMF

@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 58.4
 master_fund: "Global X Video Games & Esports ETF"
 master_isin: "US37954Y3927"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/communication, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # UHERO

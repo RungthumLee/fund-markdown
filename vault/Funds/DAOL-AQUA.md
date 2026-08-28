@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 32.7
 master_fund: "BNP Paribas Aqua I"
 master_isin: "LU2005507657"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/industrials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-AQUA

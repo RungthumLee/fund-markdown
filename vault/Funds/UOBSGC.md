@@ -29,7 +29,7 @@ country_coverage_pct: 57.7
 master_fund: "United Greater China T SGD Acc"
 master_isin: "SGXZ53633806"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # UOBSGC

@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 26.3
 master_fund: "iShares MSCI World ETF"
 master_isin: "US4642863926"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBRMWORLD

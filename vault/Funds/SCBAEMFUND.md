@@ -28,7 +28,7 @@ country_top: "ไต้หวัน"
 country_coverage_pct: 43.3
 master_fund: "BGF Asian Growth Leaders D2"
 master_isin: "LU0859042482"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBAEMFUND

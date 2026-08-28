@@ -29,7 +29,7 @@ country_coverage_pct: 39.6
 master_fund: "PGIM Global Sel RE Scrts USD I Acc"
 master_isin: "IE00BYM2RB15"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/real-estate, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # MGPROP

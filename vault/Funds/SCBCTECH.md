@@ -28,7 +28,7 @@ country_top: "ฮ่องกง"
 country_coverage_pct: 56.6
 master_fund: "Invesco China Technology ETF"
 master_isin: "US46138E8003"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/communication, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBCTECH

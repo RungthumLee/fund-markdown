@@ -27,7 +27,7 @@ country_top: "ญี่ปุ่น"
 country_coverage_pct: 37.6
 master_fund: "Fidelity Japan Value Y-Acc-JPY"
 master_isin: "LU0370789561"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-JAPANALL

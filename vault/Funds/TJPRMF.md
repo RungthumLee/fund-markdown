@@ -30,7 +30,7 @@ master_fund: "NEXT FUNDS Nikkei 225 Exchange Traded Fund"
 master_isin: "JP3027650005"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TJPRMF

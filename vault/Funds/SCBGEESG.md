@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 32.1
 master_fund: "Janus Henderson Hrzn Glb Sus Eq IU2 USD"
 master_isin: "LU1983259703"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # SCBGEESG

@@ -28,7 +28,7 @@ country_top: "ไต้หวัน"
 country_coverage_pct: 37.9
 master_fund: "abrdn-Emerg Markets Equity Z Acc USD"
 master_isin: "LU0278911010"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ABGEM

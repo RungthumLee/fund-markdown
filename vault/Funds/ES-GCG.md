@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 51.5
 master_fund: "Amundi Fds Polen Cptl Glbl Gr I2 USD C"
 master_isin: "LU1691799990"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ES-GCG

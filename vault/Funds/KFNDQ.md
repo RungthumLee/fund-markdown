@@ -30,7 +30,7 @@ master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
 peer_group: "US Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KFNDQ

@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 16.6
 master_fund: "Schroder ISF Glbl Alt Engy C Acc USD"
 master_isin: "LU2016063229"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KT-GREEN

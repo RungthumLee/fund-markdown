@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 56.7
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
 master_isin: "IE00B3X5FG30"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/utilities, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL GIF

@@ -28,7 +28,7 @@ country_coverage_pct: 54.1
 master_fund: "CHINAAMC Hang Seng Biotech ETF"
 master_isin: "HK0000711199"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, sector/healthcare, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-CHINABIO

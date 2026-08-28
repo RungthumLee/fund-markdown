@@ -28,7 +28,7 @@ country_coverage_pct: 33.1
 master_fund: "Amundi Global Hydrogen UCITS ETF - Acc"
 master_isin: "FR0010930644"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล  ตั้งแต่วันจดทะเบียนกองทุน", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/utilities, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-HYDROGEN

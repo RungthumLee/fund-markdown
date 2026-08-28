@@ -28,7 +28,7 @@ country_top: "เกาหลีใต้"
 country_coverage_pct: 6.5
 master_fund: "Fidelity Abs Ret Glb Eq Y-PF-Acc-USD"
 master_isin: "LU2210152661"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # KT-ARE

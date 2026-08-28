@@ -22,6 +22,9 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** เยอรมนี · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
+**กลุ่ม:** Financial Services · **อุตสาหกรรม:** Insurance - Diversified · **ขนาด:** ใหญ่ (168,858,255,360 EUR)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

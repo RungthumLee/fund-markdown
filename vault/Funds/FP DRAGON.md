@@ -30,7 +30,7 @@ master_fund: "Manulife GF Dragon Growth AA"
 master_isin: "LU1328277881"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/communication, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # FP DRAGON

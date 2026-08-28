@@ -28,7 +28,7 @@ country_coverage_pct: 58.6
 master_fund: "VanEck Rare Earth and Strategic Metals ETF"
 master_isin: "US92189H8051"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, sector/materials, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-RARE

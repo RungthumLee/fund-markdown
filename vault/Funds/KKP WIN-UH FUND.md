@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 16.4
 master_fund: "iShares World Equity High Income Active UCITS ETF USD Acc"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KKP WIN-UH FUND

@@ -29,7 +29,7 @@ country_coverage_pct: 46.6
 master_fund: "Baillie Gifford WW L/T Glb Gr B USD Acc"
 master_isin: "IE00BYQG5606"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, sector/consumer, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, sector/consumer, cap/large, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # ONE-UGG

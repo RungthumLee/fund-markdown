@@ -28,7 +28,7 @@ country_top: "ญี่ปุ่น"
 country_coverage_pct: 37.2
 master_fund: "abrdn-Japan Sustainable Eqty Z Acc JPY"
 master_isin: "LU1488356244"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ABJO

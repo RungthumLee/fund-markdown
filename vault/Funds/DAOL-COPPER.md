@@ -28,7 +28,7 @@ country_coverage_pct: 40.3
 master_fund: "Global X Copper Miners ETF"
 master_isin: "US37954Y8306"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, sector/materials, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-COPPER

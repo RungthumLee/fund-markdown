@@ -29,7 +29,7 @@ country_coverage_pct: 26.0
 master_fund: "AB EM Multi-Asset S1 USD"
 master_isin: "LU0633141881"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UEMIF

@@ -29,7 +29,7 @@ country_coverage_pct: 81.2
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-EVOSEMI

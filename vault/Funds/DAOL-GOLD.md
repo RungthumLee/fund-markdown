@@ -28,7 +28,7 @@ country_top: "แคนาดา"
 country_coverage_pct: 52.5
 master_fund: "Jupiter Gold & Silver I USD Acc"
 master_isin: "IE00BYVJRD56"
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, sector/materials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-GOLD

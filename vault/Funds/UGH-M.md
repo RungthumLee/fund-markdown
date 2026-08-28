@@ -29,7 +29,7 @@ country_coverage_pct: 41.2
 master_fund: "United Global Healthcare SGD Acc"
 master_isin: "SG9999001176"
 peer_group: "Health Care"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/healthcare, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UGH-M

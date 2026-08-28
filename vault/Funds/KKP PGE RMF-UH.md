@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ไต้หวัน"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 24.0
 master_fund: "iShares MSCI ACWI ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # KKP PGE RMF-UH

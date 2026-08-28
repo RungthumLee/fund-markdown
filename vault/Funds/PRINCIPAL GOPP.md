@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 46.0
 master_fund: "MS INVF Global Opportunity Z"
 master_isin: "LU0552385535"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL GOPP

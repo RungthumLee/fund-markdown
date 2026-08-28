@@ -29,7 +29,7 @@ country_coverage_pct: 48.6
 master_fund: "United China A-Shares Innovt T USD Acc"
 master_isin: "SGXZ16399552"
 peer_group: "China Equity - A Shares"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UCI-M

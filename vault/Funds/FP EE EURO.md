@@ -27,7 +27,7 @@ master_fund: "Barings Eastern Europe A USD Inc"
 master_isin: "IE0000805634"
 peer_group: "Emerging Market"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # FP EE EURO

@@ -29,7 +29,7 @@ country_coverage_pct: 24.1
 master_fund: "iShares MSCI ACWI ETF"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # K-WORLDXRMF

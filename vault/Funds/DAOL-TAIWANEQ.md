@@ -29,7 +29,7 @@ country_coverage_pct: 44.4
 master_fund: "iShares MSCI Taiwan ETF"
 master_isin: "US46434G7723"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-TAIWANEQ

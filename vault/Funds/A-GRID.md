@@ -28,7 +28,7 @@ country_coverage_pct: 59.5
 master_fund: "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund"
 master_isin: "US33737A1088"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/industrials, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # A-GRID

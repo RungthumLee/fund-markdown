@@ -25,7 +25,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 55.1
 master_fund: "Corgi Lithography & Semiconductor Photonics ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # LHPHOTONICS

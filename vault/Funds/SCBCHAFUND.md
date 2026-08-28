@@ -28,7 +28,7 @@ country_top: "จีน"
 country_coverage_pct: 19.9
 master_fund: "ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF"
 master_isin: "HK0000123577"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBCHAFUND

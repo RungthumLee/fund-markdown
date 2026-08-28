@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 51.6
 master_fund: "Schwab U.S. Large-Cap Growth ETF"
 master_isin: "US8085243009"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLUSHG-H-X

@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** สิงคโปร์
 
+**กลุ่ม:** Real Estate · **อุตสาหกรรม:** REIT - Office · **ขนาด:** กลาง (5,384,731,648 SGD)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หุ้น** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น
 

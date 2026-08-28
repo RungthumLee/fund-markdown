@@ -30,7 +30,7 @@ master_fund: "State Street Financial Select Sector SPDR ETF"
 master_isin: "US81369Y6059"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TUSFIN

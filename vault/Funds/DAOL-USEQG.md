@@ -29,7 +29,7 @@ country_coverage_pct: 45.5
 master_fund: "Baillie Gifford WW US Equity Gr B USD"
 master_isin: "IE00B8HW2209"
 fund_managers: ["นาย พชรพล ภู่เจริญ", "นาย ปิยะศักดิ์ ดวงบัณฑิตกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-USEQG

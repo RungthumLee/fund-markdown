@@ -29,7 +29,7 @@ country_coverage_pct: 39.4
 master_fund: "Lazard Japanese Strategic Eq A Acc JPY"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/industrials, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/industrials, cap/large, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-JP

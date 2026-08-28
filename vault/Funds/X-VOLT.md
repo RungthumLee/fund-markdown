@@ -29,7 +29,7 @@ country_coverage_pct: 52.7
 master_fund: "Tema Electrification ETF"
 peer_group: "Global Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, sector/industrials, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # X-VOLT

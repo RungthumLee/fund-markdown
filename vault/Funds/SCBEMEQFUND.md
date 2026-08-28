@@ -28,7 +28,7 @@ country_top: "ไต้หวัน"
 country_coverage_pct: 22.7
 master_fund: "Lazard Emerging Markets Eq S Acc USD"
 master_isin: "IE00B94NQ323"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBEMEQFUND

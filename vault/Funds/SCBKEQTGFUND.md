@@ -28,7 +28,7 @@ country_top: "เกาหลีใต้"
 country_coverage_pct: 60.3
 master_fund: "iShares MSCI South Korea ETF"
 master_isin: "US4642867729"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBKEQTGFUND

@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 36.0
 master_fund: "iShares Core S&P 500 ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # KKP US500-UH FUND

@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 51.4
 master_fund: "BNP Clean Energy SolutionsI C"
 master_isin: "LU0823414809"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMCLEAN

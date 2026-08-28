@@ -28,7 +28,7 @@ country_top: "แคนาดา"
 country_coverage_pct: 34.0
 master_fund: "Franklin Gold and Prec Mtls A(acc)SGD"
 master_isin: "LU0498741890"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/materials, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-PRECIOUS

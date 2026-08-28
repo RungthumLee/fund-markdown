@@ -30,7 +30,7 @@ master_fund: "ARK Innovation UCITS ETF Class A USD Accumulation"
 master_isin: "IE000GA3D489"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/healthcare, cap/large, conc/concentrated, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-INTERNET

@@ -21,6 +21,9 @@ tags: [entity, entity-bond, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** เกาหลีใต้ · **จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
+**กลุ่ม:** Communication Services · **อุตสาหกรรม:** Internet Content & Information · **ขนาด:** ใหญ่ (32,982,341,517,312 KRW)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

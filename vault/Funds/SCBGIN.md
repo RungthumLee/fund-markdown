@@ -28,7 +28,7 @@ country_top: "สหราชอาณาจักร"
 country_coverage_pct: 10.8
 master_fund: "DWS Multi Opportunities RC"
 master_isin: "LU1590089758"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # SCBGIN

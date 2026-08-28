@@ -28,7 +28,7 @@ country_top: "ไต้หวัน"
 country_coverage_pct: 36.9
 master_fund: "Vontobel mtx Em Mkts Ldrs I USD"
 master_isin: "LU0571085686"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-EMEQ

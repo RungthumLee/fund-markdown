@@ -30,7 +30,7 @@ master_fund: "Amova ARK Disruptive Innovation A USD"
 master_isin: "LU1861556378"
 peer_group: "Global Equity Fully FX Risk Hedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, sector/healthcare, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, sector/healthcare, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFINNO

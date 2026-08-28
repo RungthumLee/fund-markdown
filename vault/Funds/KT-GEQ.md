@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 23.7
 master_fund: "iShares MSCI ACWI ETF"
 master_isin: "US4642882579"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # KT-GEQ

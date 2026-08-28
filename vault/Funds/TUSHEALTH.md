@@ -30,7 +30,7 @@ master_fund: "State Street Health Care Select Sector SPDR ETF"
 master_isin: "US81369Y2090"
 peer_group: "Health Care"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/healthcare, cap/large, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # TUSHEALTH

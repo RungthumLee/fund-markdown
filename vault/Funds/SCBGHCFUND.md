@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 42.1
 master_fund: "Janus Henderson Glb Life Scn I2 USD"
 master_isin: "IE0002141913"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/healthcare, cap/large, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # SCBGHCFUND

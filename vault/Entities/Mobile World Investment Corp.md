@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** เวียดนาม
 
+**กลุ่ม:** Consumer Cyclical · **อุตสาหกรรม:** Specialty Retail · **ขนาด:** ใหญ่ (110,572,297,256,960 VND)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **16** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

@@ -29,7 +29,7 @@ master_fund: "Wellington Asia Tech USD S Acc"
 master_isin: "LU1751457539"
 peer_group: "Technology Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-ATECH-USD

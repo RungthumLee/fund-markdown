@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ไต้หวัน"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 23.6
 master_fund: "iShares MSCI ACWI ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # LHGEQP

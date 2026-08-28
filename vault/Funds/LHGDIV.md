@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "สหราชอาณาจัก�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 32.0
 master_fund: "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # LHGDIV

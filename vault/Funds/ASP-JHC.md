@@ -29,7 +29,7 @@ country_coverage_pct: 41.3
 master_fund: "SuMi TRUST Sakigake Hi Aph B JPY Acc"
 master_isin: "LU1824452749"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # ASP-JHC

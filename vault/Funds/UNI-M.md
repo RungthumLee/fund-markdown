@@ -29,7 +29,7 @@ country_coverage_pct: 51.5
 master_fund: "United Global Innovation T USD Acc"
 master_isin: "SGXZ34679910"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UNI-M

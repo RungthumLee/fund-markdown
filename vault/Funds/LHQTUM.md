@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "ฝรั่�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 14.9
 master_fund: "Defiance Quantum ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHQTUM

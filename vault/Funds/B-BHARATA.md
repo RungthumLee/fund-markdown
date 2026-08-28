@@ -29,7 +29,7 @@ country_coverage_pct: 37.3
 master_fund: "Nippon India Equities I USD"
 master_isin: "IE00BN6Q7D46"
 peer_group: "India Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-BHARATA

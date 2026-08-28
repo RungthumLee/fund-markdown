@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 46.9
 master_fund: "JPM Nasdaq Equity Premium Income Active UCITS ETF USD Acc"
 master_isin: "IE000N6I8IU2"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # TLNDQINCOME-UH-X

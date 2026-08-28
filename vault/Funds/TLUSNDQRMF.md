@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 46.0
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TLUSNDQRMF

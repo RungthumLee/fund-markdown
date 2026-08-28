@@ -30,7 +30,7 @@ master_fund: "Eastspring Inv Global Low Vol Eq C"
 master_isin: "LU2569857134"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/healthcare, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-LOVE

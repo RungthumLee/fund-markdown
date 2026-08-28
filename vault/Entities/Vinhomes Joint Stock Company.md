@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** เวียดนาม
 
+**กลุ่ม:** Real Estate · **อุตสาหกรรม:** Real Estate - Development · **ขนาด:** ใหญ่ (602,146,563,162,112 VND)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **9** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

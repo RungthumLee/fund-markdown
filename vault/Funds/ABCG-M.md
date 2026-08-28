@@ -28,7 +28,7 @@ country_top: "จีน"
 country_coverage_pct: 42.7
 master_fund: "abrdn-All China Sustainable Eq Z AccUSD"
 master_isin: "LU0278910632"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABCG-M

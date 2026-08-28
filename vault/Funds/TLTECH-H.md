@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 58.4
 master_fund: "iShares Expanded Tech Sector ETF"
 master_isin: "US4642875490"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLTECH-H

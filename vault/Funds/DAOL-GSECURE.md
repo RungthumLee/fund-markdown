@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 29.5
 master_fund: "UBS Lux Sec Eq Fd I A1 acc"
 master_isin: "LU1042675485"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-GSECURE

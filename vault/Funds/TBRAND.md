@@ -30,7 +30,7 @@ master_fund: "LO Funds World Brands SH USD NA"
 master_isin: "LU1809978650"
 peer_group: "Global Equity - Consumer Goods and Services"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TBRAND

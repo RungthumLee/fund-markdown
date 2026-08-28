@@ -29,7 +29,7 @@ country_coverage_pct: 33.2
 master_fund: "T. Rowe Price China Evolution Equity I"
 master_isin: "LU2187417469"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # MCHEVO

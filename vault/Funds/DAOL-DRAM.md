@@ -28,7 +28,7 @@ country_coverage_pct: 61.3
 master_fund: "Roundhill Memory ETF"
 master_isin: "US77926X3200"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/very-high, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
 ---
 
 # DAOL-DRAM

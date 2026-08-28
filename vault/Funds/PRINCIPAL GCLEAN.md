@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 54.1
 master_fund: "VanEck Uranium and Nuclear ETF"
 master_isin: "US92189F6016"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/energy, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL GCLEAN

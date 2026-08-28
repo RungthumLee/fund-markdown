@@ -16,6 +16,9 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 
 **ตลาดซื้อขาย:** สหรัฐฯ
 
+**กลุ่ม:** Basic Materials · **อุตสาหกรรม:** Agricultural Inputs · **ขนาด:** ใหญ่ (19,024,715,776 USD)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

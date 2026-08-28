@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 59.0
 master_fund: "VanEck Video Gaming and eSports ETF"
 master_isin: "US92189F1140"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/communication, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-PLAY

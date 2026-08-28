@@ -16,6 +16,9 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 
 **ตลาดซื้อขาย:** จีน
 
+**กลุ่ม:** Healthcare · **อุตสาหกรรม:** Drug Manufacturers - Specialty & Generic · **ขนาด:** ใหญ่ (89,195,290,624 CNY)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

@@ -30,7 +30,7 @@ master_fund: "JPM Nasdaq Equity Premium Income Active UCITS ETF USD Dist"
 master_isin: "IE000U9J8HX9"
 peer_group: "US Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-NDQPIN

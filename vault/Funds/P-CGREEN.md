@@ -29,7 +29,7 @@ country_coverage_pct: 38.7
 master_fund: "KraneShares MSCI China Clean Technology ETF"
 master_isin: "US5007678502"
 peer_group: "Global Equity - Alternative Energy"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/consumer, cap/large, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # P-CGREEN

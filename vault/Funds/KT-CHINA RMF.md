@@ -27,7 +27,7 @@ country_top: "ฮ่องกง"
 country_coverage_pct: 21.9
 master_fund: "BGF China D2"
 master_isin: "LU0359204475"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/communication, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-CHINA RMF

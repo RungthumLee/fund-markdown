@@ -29,7 +29,7 @@ country_coverage_pct: 48.6
 master_fund: "VanEck Quantum Computing UCITS ETF A USD Acc"
 peer_group: "Technology Equity"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # X-QUANTUM

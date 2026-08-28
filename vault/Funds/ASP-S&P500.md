@@ -29,7 +29,7 @@ country_coverage_pct: 35.9
 master_fund: "State Street SPDR S&P 500 ETF Trust"
 master_isin: "US78462F1030"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # ASP-S&P500

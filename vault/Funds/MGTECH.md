@@ -29,7 +29,7 @@ country_coverage_pct: 32.8
 master_fund: "BGF Next Generation Technology I2"
 master_isin: "LU1861216270"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # MGTECH

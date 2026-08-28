@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 47.1
 master_fund: "Brown Advisory Global Leaders B USD Acc"
 master_isin: "IE00BVVHP563"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # PRINCIPAL GLEADER

@@ -28,7 +28,7 @@ country_top: "จีน"
 country_coverage_pct: 35.0
 master_fund: "abrdn-China A Share Sust Eq Z Acc USD"
 master_isin: "LU1130125955"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABCA

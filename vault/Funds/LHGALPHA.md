@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ", "ไต้หวัน", "เนเธ�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 41.1
 master_fund: "Fullerton Lux Global Abs Alpha I USD C"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # LHGALPHA

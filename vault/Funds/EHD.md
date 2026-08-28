@@ -29,7 +29,7 @@ country_coverage_pct: 34.5
 master_fund: "GS Eurozone EQ Inc-P Cap EUR"
 master_isin: "LU0127786431"
 peer_group: "European Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # EHD

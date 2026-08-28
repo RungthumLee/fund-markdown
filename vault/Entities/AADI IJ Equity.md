@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** อินโดนีเซีย จาก ISIN
 
+**กลุ่ม:** Energy · **อุตสาหกรรม:** Thermal Coal · **ขนาด:** ใหญ่ (79,036,952,870,912 IDR)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

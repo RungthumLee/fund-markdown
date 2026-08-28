@@ -28,7 +28,7 @@ country_top: "สหราชอาณาจักร"
 country_coverage_pct: 30.7
 master_fund: "Principal European Equity I Acc EUR"
 master_isin: "IE00B60S0X89"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL EUEQ

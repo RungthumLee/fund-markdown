@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 28.0
 master_fund: "DWS Invest CROCI Sectors Plus FCH (P)"
 master_isin: "LU1701862812"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/consumer, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMPGF

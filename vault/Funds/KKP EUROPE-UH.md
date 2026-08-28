@@ -26,7 +26,7 @@ market_countries: ["สวิตเซอร์แลนด์", "เนเธ�
 country_top: "สวิตเซอร์แลนด์"
 country_coverage_pct: 22.7
 master_fund: "GS Europe CORE Equity I Acc EUR"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KKP EUROPE-UH

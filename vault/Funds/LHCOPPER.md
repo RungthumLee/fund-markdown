@@ -26,7 +26,7 @@ market_countries: ["แคนาดา", "สหราชอาณาจัก�
 country_top: "แคนาดา"
 country_coverage_pct: 41.0
 master_fund: "Global X Copper Miners ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/materials, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHCOPPER

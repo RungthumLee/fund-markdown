@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ญี่ปุ่น"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 33.5
 master_fund: "Lazard Global Thematic Focus A Acc USD"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP G-THEME-H FUND

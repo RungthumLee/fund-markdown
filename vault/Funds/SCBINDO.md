@@ -28,7 +28,7 @@ country_top: "อินโดนีเซีย"
 country_coverage_pct: 50.4
 master_fund: "VanEck Indonesia Index ETF"
 master_isin: "US92189F8335"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBINDO

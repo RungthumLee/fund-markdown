@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "เกาห�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 37.0
 master_fund: "Neuberger Nex Gen Spc EcyUSDIAcc"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, cap/large, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # LHSPACE

@@ -28,7 +28,7 @@ country_coverage_pct: 42.9
 master_fund: "PineBridge Global Focus Equity Y"
 master_isin: "IE0004896431"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ASP-GFEQ

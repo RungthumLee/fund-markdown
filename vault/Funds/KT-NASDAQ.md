@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 46.3
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-NASDAQ

@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 25.6
 master_fund: "abrdn-Nrth American Sml Comp Z Acc USD"
 master_isin: "LU1725895533"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/mid, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABAGS-M

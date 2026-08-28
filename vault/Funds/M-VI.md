@@ -29,7 +29,7 @@ country_coverage_pct: 20.1
 master_fund: "First Eagle Amundi International IU2-C"
 master_isin: "LU0433182259"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # M-VI

@@ -28,7 +28,7 @@ country_top: "เวียดนาม"
 country_coverage_pct: 48.6
 master_fund: "KIM Inv-KIM Vietnam Growth I USD Acc"
 master_isin: "LU1586949999"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-VIETGROWTH

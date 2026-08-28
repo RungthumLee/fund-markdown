@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** สหราชอาณาจักร
 
+**กลุ่ม:** Utilities · **อุตสาหกรรม:** Utilities - Regulated Electric · **ขนาด:** ใหญ่ (58,310,885,376 GBp)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **14** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

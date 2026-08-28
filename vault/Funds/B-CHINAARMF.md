@@ -29,7 +29,7 @@ country_coverage_pct: 37.0
 master_fund: "Allianz China A Shares PT USD"
 master_isin: "LU1997246811"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-CHINAARMF

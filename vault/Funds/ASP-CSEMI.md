@@ -28,7 +28,7 @@ country_coverage_pct: 70.2
 master_fund: "Global X ETF Series OFC - Global X China Semiconductor ETF"
 master_isin: "HK0000637832"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ASP-CSEMI

@@ -29,7 +29,7 @@ country_coverage_pct: 16.0
 master_fund: "United Japan Small And Mid Cap JPY"
 master_isin: "SG9999010854"
 peer_group: "Japan Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UOBSJSM

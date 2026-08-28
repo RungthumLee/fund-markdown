@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ", "ฮ่องกง"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 45.1
 master_fund: "Invesco Solar ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # LHSOLAR

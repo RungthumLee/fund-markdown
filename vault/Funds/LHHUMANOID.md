@@ -26,7 +26,7 @@ market_countries: ["จีน", "สหรัฐฯ"]
 country_top: "จีน"
 country_coverage_pct: 52.4
 master_fund: "Themes Humanoid Robotics ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/industrials, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # LHHUMANOID

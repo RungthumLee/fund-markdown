@@ -30,7 +30,7 @@ master_fund: "Vietnam Equity (UCITS) A USD"
 master_isin: "IE00BD5HPH84"
 peer_group: "Vietnam Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ศตนนท์ ทัน"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, sector/financials, cap/large, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-VIETNAMRMF

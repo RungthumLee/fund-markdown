@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ไต้หวัน"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 43.1
 master_fund: "GMO Quality Investment USD Acc"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # LHGEQ

@@ -28,7 +28,7 @@ country_coverage_pct: 20.5
 master_fund: "KraneShares Global Humanoid Robotics and Physical AI Index ETF"
 master_isin: "US5007677512"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # A-HUMANOID

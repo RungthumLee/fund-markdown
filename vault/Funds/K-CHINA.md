@@ -29,7 +29,7 @@ country_coverage_pct: 28.9
 master_fund: "JPM China A dist USD"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # K-CHINA

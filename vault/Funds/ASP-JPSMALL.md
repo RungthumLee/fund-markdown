@@ -28,7 +28,7 @@ country_coverage_pct: 16.9
 master_fund: "BNP Paribas Japan Sm Cp I C"
 master_isin: "LU0102000758"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ASP-JPSMALL

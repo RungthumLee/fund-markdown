@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 27.4
 master_fund: "iShares Edge MSCI World Value Factor UCITS ETF USD (Acc)"
 master_isin: "IE00BP3QZB59"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # SCBGVALUE

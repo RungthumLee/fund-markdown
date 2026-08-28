@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 58.1
 master_fund: "iShares Digital Entertainment and Education UCITS ETF USD (Acc)"
 master_isin: "IE00023EZQ82"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/communication, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # PRINCIPAL GEDTECH

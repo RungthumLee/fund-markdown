@@ -29,7 +29,7 @@ country_coverage_pct: 40.0
 master_fund: "BGF Global Long-Horizon Equity D2"
 master_isin: "LU0368270509"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # M-EDGE

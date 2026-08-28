@@ -29,7 +29,7 @@ country_coverage_pct: 62.6
 master_fund: "MS INVF US Core Equity Z"
 master_isin: "LU1439782225"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # M-USEQH

@@ -30,7 +30,7 @@ master_fund: "iShares MSCI India UCITS ETF USD Acc"
 master_isin: "IE00BZCQB185"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, cap/large, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # TCIRMF

@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 41.2
 master_fund: "First Trust Natural Gas ETF"
 master_isin: "US33733E8075"
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, sector/energy, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-GAS

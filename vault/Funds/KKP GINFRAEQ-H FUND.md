@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "อิตาลี", "สหราช�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 56.5
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/utilities, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # KKP GINFRAEQ-H FUND

@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 51.6
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
 master_isin: "IE00B3X5FG30"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/utilities, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # PRINCIPAL GIFUH

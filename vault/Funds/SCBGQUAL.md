@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 30.3
 master_fund: "iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc)"
 master_isin: "IE00BP3QZ601"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBGQUAL

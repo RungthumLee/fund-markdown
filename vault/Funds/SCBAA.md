@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 10.5
 master_fund: "Invesco Global Income C EUR Acc"
 master_isin: "LU1097689365"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBAA

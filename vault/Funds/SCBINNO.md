@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 48.0
 master_fund: "Amova ARK Disruptive Innovation A USD"
 master_isin: "LU1861556378"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/healthcare, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBINNO

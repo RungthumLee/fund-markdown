@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สหราชอาณาจักร จาก ISIN
 
+**กลุ่ม:** Consumer Defensive · **อุตสาหกรรม:** Tobacco · **ขนาด:** ใหญ่ (89,442,443,264 GBp)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

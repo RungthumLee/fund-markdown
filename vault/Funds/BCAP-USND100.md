@@ -29,7 +29,7 @@ country_coverage_pct: 46.2
 master_fund: "Invesco NASDAQ 100 ETF"
 master_isin: "US46138G6492"
 peer_group: "US Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # BCAP-USND100

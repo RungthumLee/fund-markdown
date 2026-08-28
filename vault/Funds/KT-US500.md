@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 35.9
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-US500

@@ -28,7 +28,7 @@ country_coverage_pct: 35.4
 master_fund: "JPM US Technology I acc USD"
 master_isin: "LU0248060906"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGDIVP-USD

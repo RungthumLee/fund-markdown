@@ -30,7 +30,7 @@ master_fund: "Invesco QQQ Trust"
 master_isin: "US46090E1038"
 peer_group: "US Equity"
 fund_managers: ["นาย สากลรัตนวรี", "นาย ธีระศักดิ์บุญญาเสถียร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # TNASDAQ

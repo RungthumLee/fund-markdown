@@ -29,7 +29,7 @@ country_coverage_pct: 66.1
 master_fund: "Global X Data Center & Digital Infrastructure ETF"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, sector/real-estate, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # X-DATACENEQ

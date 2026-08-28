@@ -29,7 +29,7 @@ country_coverage_pct: 17.8
 master_fund: "Heptagon Driehaus US Sm Cp Eq S USD Acc"
 master_isin: "IE00BH3ZJB48"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, cap/mid, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # ASP-USSMALL

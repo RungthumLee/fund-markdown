@@ -29,7 +29,7 @@ country_coverage_pct: 51.1
 master_fund: "BGF World Healthscience X10"
 peer_group: "Emerging Market Bond Discretionary F/X Hedge o"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-high, liquidity/t5, credit/high-yield, fx/fully-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-high, liquidity/t5, credit/high-yield, sector/healthcare, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate, audience/restricted]
 ---
 
 # K-AHYA-UI

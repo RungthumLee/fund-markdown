@@ -30,7 +30,7 @@ master_fund: "Fidelity Indonesia Y-Acc-USD"
 master_isin: "LU0346391328"
 peer_group: "ASEAN Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-INDONESIA-RMF

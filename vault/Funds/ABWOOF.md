@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 40.4
 master_fund: "abrdn-Global Sustainable Eqty Z Acc USD"
 master_isin: "LU0278912844"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ABWOOF

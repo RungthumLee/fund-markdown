@@ -29,7 +29,7 @@ country_coverage_pct: 12.4
 master_fund: "BGF Global Allocation A2"
 master_isin: "LU0072462426"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, cap/large, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # UOBGARMF

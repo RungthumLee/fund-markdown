@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ", "ฝรั่งเศส", "สวิ�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 57.7
 master_fund: "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/industrials, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # LHGRID

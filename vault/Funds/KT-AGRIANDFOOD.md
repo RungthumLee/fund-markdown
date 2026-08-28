@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 51.3
 master_fund: "iShares Agribusiness UCITS ETF USD (Acc)"
 master_isin: "IE00B6R52143"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/materials, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-AGRIANDFOOD

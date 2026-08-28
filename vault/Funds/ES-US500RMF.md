@@ -30,7 +30,7 @@ master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 peer_group: "US Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # ES-US500RMF

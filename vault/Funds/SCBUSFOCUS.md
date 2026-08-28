@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 39.5
 master_fund: "BlackRock Advantage US Eq D USD Acc"
 master_isin: "IE00BFZP7V49"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBUSFOCUS

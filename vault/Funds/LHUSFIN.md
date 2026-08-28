@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 48.0
 master_fund: "iShares U.S. Financial Services ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/financials, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # LHUSFIN

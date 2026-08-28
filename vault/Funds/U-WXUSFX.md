@@ -28,7 +28,7 @@ country_coverage_pct: 40.1
 master_fund: "Invesco International BuyBack Achievers ETF"
 master_isin: "US46138E6445"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # U-WXUSFX

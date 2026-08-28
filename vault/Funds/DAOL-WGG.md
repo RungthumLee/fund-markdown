@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 46.6
 master_fund: "Baillie Gifford WW L/T Glb Gr B USD Acc"
 master_isin: "IE00BYQG5606"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-WGG

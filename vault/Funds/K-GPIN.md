@@ -29,7 +29,7 @@ country_coverage_pct: 11.2
 master_fund: "JPM Global Equity Premium Income Active UCITS ETF - USD (dist)"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-GPIN

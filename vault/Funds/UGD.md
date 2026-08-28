@@ -29,7 +29,7 @@ country_coverage_pct: 38.1
 master_fund: "United Global Durable Eqs USD Acc"
 master_isin: "SG9999014021"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/industrials, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UGD

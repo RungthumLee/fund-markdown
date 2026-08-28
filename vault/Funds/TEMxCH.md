@@ -30,7 +30,7 @@ master_fund: "Invesco Emerg Mkts ex-China Eq C USD AD"
 master_isin: "LU1775982249"
 peer_group: "Emerging Market"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TEMxCH

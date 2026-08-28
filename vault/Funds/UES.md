@@ -29,7 +29,7 @@ country_coverage_pct: 20.4
 master_fund: "Amundi Fds European Eq Sm Cp I2 EUR C"
 master_isin: "LU1883307545"
 peer_group: "European Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, cap/mid, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UES

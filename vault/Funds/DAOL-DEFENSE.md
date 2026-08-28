@@ -29,7 +29,7 @@ country_coverage_pct: 43.0
 master_fund: "VanEck Defense ETF A USD Acc"
 master_isin: "IE000YYE6WK5"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, sector/industrials, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-DEFENSE

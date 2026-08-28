@@ -29,7 +29,7 @@ country_coverage_pct: 39.4
 master_fund: "Lazard Japanese Strategic Eq A Acc JPY"
 master_isin: "IE00B8JGVH80"
 peer_group: "Japan Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # B-NIPPON

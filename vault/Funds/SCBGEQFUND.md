@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 49.8
 master_fund: "Veritas Global Focus USD Acc NAV"
 master_isin: "IE00B3RMVW88"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, sector/industrials, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBGEQFUND

@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 72.1
 master_fund: "Global X Space Tech ETF"
 master_isin: "US37966B7780"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/industrials, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLSPACE-X

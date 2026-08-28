@@ -28,7 +28,7 @@ country_top: "ไต้หวัน"
 country_coverage_pct: 39.8
 master_fund: "abrdn Pacific Eq SGD"
 master_isin: "SG9999000459"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ABAPAC-RMF

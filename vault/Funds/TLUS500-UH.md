@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 36.1
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLUS500-UH

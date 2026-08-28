@@ -30,7 +30,7 @@ master_fund: "Robeco Smart Energy I-USD Cap"
 master_isin: "LU2145463027"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # FP SENERGY

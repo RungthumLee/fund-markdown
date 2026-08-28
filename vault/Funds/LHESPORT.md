@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "ฮ่อง�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 61.0
 master_fund: "VanEck Video Gaming and eSports ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/communication, cap/large, fx/partially-hedged, struct/feeder, style/dividend, use/income]
 ---
 
 # LHESPORT

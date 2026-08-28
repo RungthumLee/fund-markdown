@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 35.4
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # SCBUSDS&P500

@@ -29,7 +29,7 @@ country_coverage_pct: 57.0
 master_fund: "Baillie Gifford WW EM LdgComs B USD Acc"
 master_isin: "IE00BW0DJL69"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # M-EM

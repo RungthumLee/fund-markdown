@@ -29,7 +29,7 @@ country_coverage_pct: 17.5
 master_fund: "JPM Asia Pacific Income A mth USD"
 master_isin: "LU0784639295"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # UOBSAI

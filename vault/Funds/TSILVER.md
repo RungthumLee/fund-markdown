@@ -29,7 +29,7 @@ master_fund: "iShares MSCI Global Silver and Metals Miners ETF"
 master_isin: "US4642863272"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/materials, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TSILVER

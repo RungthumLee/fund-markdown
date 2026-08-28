@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 2.9
 master_fund: "iShares Russell 2000 ETF"
 master_isin: "US4642876555"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBRS2000

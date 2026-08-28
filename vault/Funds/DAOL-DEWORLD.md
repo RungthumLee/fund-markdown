@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 49.2
 master_fund: "Artisan Developing World I USD Acc"
 master_isin: "IE00BYQRBG58"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-DEWORLD

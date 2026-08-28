@@ -30,7 +30,7 @@ master_fund: "Invesco S&P MidCap Quality ETF"
 master_isin: "US46137V4721"
 peer_group: "US Equity"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/healthcare, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TUSMS

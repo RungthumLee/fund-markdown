@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 48.8
 master_fund: "DWS Invest Global Infras IDH (P)"
 master_isin: "LU1217772315"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/energy, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMGIF

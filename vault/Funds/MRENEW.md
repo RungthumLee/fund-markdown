@@ -29,7 +29,7 @@ country_coverage_pct: 30.5
 master_fund: "BGF Sustainable Energy I2"
 master_isin: "LU0534476519"
 fund_managers: ["นาย เฉลิมเดช เตชะโต", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/utilities, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # MRENEW

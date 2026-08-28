@@ -29,7 +29,7 @@ country_coverage_pct: 44.1
 master_fund: "United China-India Dynamic Gr T SGD Acc"
 master_isin: "SGXZ43502095"
 peer_group: "Asia Pacific Ex Japan"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # UOBSCI

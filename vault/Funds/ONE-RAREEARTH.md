@@ -29,7 +29,7 @@ country_coverage_pct: 60.0
 master_fund: "VanEck Rare Earth and Strategic Metals ETF"
 master_isin: "US92189H8051"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/materials, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ONE-RAREEARTH

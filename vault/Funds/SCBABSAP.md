@@ -27,7 +27,7 @@ country_top: "ฮ่องกง"
 country_coverage_pct: 3.8
 master_fund: "BSF Systematic APAC Eq Abs Rt D2 USD"
 master_isin: "LU1508158190"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # SCBABSAP

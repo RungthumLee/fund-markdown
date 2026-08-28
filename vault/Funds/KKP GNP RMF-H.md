@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ไต้หวัน", "สหรา�
 country_top: "สหรัฐฯ"
 country_coverage_pct: 27.0
 master_fund: "Capital Group New Pers (LUX) B"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # KKP GNP RMF-H

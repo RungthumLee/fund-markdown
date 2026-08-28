@@ -28,7 +28,7 @@ country_top: "ญี่ปุ่น"
 country_coverage_pct: 48.2
 master_fund: "GS Japan Equity Ptnrs I Acc JPY (Snap)"
 master_isin: "LU1217871059"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBJAPAN

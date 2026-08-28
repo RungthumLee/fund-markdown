@@ -29,7 +29,7 @@ country_coverage_pct: 19.7
 master_fund: "JPM US Equity Premium Income Active UCITS ETF USD Dist"
 master_isin: "IE000U5MJOZ6"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # MUSPIN-UH

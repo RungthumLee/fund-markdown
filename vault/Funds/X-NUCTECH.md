@@ -29,7 +29,7 @@ country_coverage_pct: 67.2
 master_fund: "VanEck Uranium and Nuclear Technologies UCITS ETF A USD Acc"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, fx/unhedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, sector/energy, sector/industrials, cap/large, fx/unhedged, struct/feeder, use/accumulate]
 ---
 
 # X-NUCTECH

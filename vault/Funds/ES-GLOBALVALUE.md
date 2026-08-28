@@ -30,7 +30,7 @@ master_fund: "Cambria Global Value ETF"
 master_isin: "US1320614092"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, cap/large, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # ES-GLOBALVALUE

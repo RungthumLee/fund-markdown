@@ -28,7 +28,7 @@ country_coverage_pct: 52.2
 master_fund: "VanEck Digital Transformation ETF"
 master_isin: "US92189H8218"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ASP-DAPP 3M5

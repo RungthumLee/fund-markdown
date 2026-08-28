@@ -28,7 +28,7 @@ country_top: "สหราชอาณาจักร"
 country_coverage_pct: 11.1
 master_fund: "DWS Invest Multi Opportunities USD RDMH"
 master_isin: "LU1433454672"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, cap/large, fx/fully-hedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # SCBGPLUS

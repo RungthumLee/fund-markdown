@@ -29,7 +29,7 @@ country_coverage_pct: 36.4
 master_fund: "Invesco Asian Equity C USD AD"
 master_isin: "LU1775950394"
 peer_group: "Asia Pacific Ex Japan"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # B-ASIA

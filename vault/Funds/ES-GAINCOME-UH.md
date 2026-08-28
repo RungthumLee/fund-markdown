@@ -29,7 +29,7 @@ master_fund: "Amundi Fds Inc Opps I2 USD C"
 master_isin: "LU1883840305"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GAINCOME-UH

@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 59.5
 master_fund: "First Trust Nasdaq Cybersecurity UCITS ETF Class A USD Accumulation"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # LHCYBER

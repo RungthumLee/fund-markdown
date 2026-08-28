@@ -28,7 +28,7 @@ country_top: "ไต้หวัน"
 country_coverage_pct: 27.1
 master_fund: "Fidelity Pacific A-Dis-USD H"
 master_isin: "LU1235295612"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-AASIA

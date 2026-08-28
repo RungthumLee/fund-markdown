@@ -29,7 +29,7 @@ country_coverage_pct: 51.8
 master_fund: "Jupiter Gold & Silver I USD Acc"
 master_isin: "IE00BYVJRD56"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, sector/materials, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # DAOL-GOLDRMF

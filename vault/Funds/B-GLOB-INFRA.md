@@ -29,7 +29,7 @@ country_coverage_pct: 40.5
 master_fund: "FTGF CB Glb Infras Inc P2 USD Acc"
 master_isin: "IE00BMG7PH05"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/utilities, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # B-GLOB-INFRA

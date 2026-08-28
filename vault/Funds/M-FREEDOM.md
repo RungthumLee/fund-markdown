@@ -29,7 +29,7 @@ country_coverage_pct: 39.5
 master_fund: "Freedom 100 Emerging Markets ETF"
 master_isin: "US02072L6074"
 fund_managers: ["นาย กิตติพงษ์ กังวานเกียรติชัย", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # M-FREEDOM

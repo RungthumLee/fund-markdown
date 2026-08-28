@@ -30,7 +30,7 @@ master_fund: "Polar Capital Biotech I Inc"
 master_isin: "IE00B42Z4531"
 peer_group: "Health Care"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/healthcare, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # TBIOTECH

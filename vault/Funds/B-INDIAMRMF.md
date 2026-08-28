@@ -29,7 +29,7 @@ country_coverage_pct: 25.0
 master_fund: "Kotak India Midcap J USD Acc"
 master_isin: "LU0675383409"
 peer_group: "India Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/healthcare, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-INDIAMRMF

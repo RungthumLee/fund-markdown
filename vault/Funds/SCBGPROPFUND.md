@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 41.3
 master_fund: "BGF World Real Estate Securities D2"
 master_isin: "LU0842063264"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/real-estate, cap/large, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # SCBGPROPFUND

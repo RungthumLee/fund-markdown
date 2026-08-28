@@ -29,7 +29,7 @@ country_coverage_pct: 22.3
 master_fund: "NEXT FUNDS TOPIX Exchange Traded Fund"
 peer_group: "Japan Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # K-JPX

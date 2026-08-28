@@ -30,7 +30,7 @@ master_fund: "iShares Asia Trust - iShares FTSE A50 China Index ETF"
 master_isin: "HK2823028546"
 peer_group: "China Equity - A Shares"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-CHEQ

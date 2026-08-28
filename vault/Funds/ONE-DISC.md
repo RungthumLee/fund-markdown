@@ -29,7 +29,7 @@ country_coverage_pct: 38.6
 master_fund: "Baillie Gifford WW Discovery B USD Acc"
 master_isin: "IE00BD09K416"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, sector/healthcare, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, sector/healthcare, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # ONE-DISC

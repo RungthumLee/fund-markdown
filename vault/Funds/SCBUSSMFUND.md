@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 49.4
 master_fund: "Granahan US Focused Growth I USD Acc"
 master_isin: "IE00BF5KD889"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t7, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t7, sector/financials, cap/mid, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBUSSMFUND

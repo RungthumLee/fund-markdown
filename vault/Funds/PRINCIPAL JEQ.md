@@ -28,7 +28,7 @@ country_top: "ญี่ปุ่น"
 country_coverage_pct: 29.7
 master_fund: "DWS Concept Nissay Jpn Val Eq JPY XC Acc"
 master_isin: "LU2838977887"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, sector/financials, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL JEQ

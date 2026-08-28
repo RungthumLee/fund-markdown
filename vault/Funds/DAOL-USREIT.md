@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 51.6
 master_fund: "Neuberger US RE Scs USD I Acc"
 master_isin: "IE00B0T0GP78"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, sector/real-estate, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-USREIT

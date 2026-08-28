@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ฝรั่งเศส จาก ISIN
 
+**กลุ่ม:** Industrials · **อุตสาหกรรม:** Aerospace & Defense · **ขนาด:** ใหญ่ (142,214,037,504 EUR)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **12** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

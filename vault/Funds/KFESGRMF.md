@@ -30,7 +30,7 @@ master_fund: "AB Sustainable Glb Thematic S1 USD"
 master_isin: "LU0462791079"
 peer_group: "Global Equity Fully FX Risk Hedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFESGRMF

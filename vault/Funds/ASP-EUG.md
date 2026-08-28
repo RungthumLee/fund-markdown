@@ -29,7 +29,7 @@ country_coverage_pct: 33.1
 master_fund: "Wellington Focused European Eq EUR S Ac"
 master_isin: "IE00BF4JCJ08"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # ASP-EUG

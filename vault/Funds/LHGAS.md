@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 40.3
 master_fund: "First Trust Natural Gas ETF"
-tags: [fund, sec-data, asset/equity, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, liquidity/t2, sector/energy, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # LHGAS

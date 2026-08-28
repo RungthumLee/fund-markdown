@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 2.5
 master_fund: "Invesco S&P 500 Equal Weight ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, cap/large, fx/discretionary, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # KKP EWUS500-UH FUND

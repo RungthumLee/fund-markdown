@@ -29,7 +29,7 @@ country_coverage_pct: 17.8
 master_fund: "iShares STOXX Europe 600 UCITS ETF (DE) EUR (Dist)"
 master_isin: "DE0002635307"
 peer_group: "European Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # B-EUPASSIVE

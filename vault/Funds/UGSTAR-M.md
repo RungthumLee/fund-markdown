@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 37.6
 master_fund: "Robeco Global Stars Equities IL USD"
 master_isin: "LU2080584019"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # UGSTAR-M

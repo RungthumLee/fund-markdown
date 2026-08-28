@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 42.2
 master_fund: "Invesco Global Founders & Owners CUSDAcc"
 master_isin: "LU1218204631"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-GFO

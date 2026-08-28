@@ -22,6 +22,9 @@ tags: [entity, entity-reit, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** สิงคโปร์
 
+**กลุ่ม:** Financial Services · **อุตสาหกรรม:** Banks - Diversified · **ขนาด:** ใหญ่ (427,746,426,880 USD)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **9** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **14** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

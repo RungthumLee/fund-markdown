@@ -29,7 +29,7 @@ country_coverage_pct: 36.7
 master_fund: "United Global Quality Growth A USD Acc"
 master_isin: "SG9999014906"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UGQG-M

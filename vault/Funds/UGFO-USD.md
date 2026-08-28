@@ -28,7 +28,7 @@ country_coverage_pct: 40.1
 master_fund: "Invesco Global Founders & Owners CUSDAcc"
 master_isin: "LU1218204631"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGFO-USD

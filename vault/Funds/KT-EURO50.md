@@ -28,7 +28,7 @@ country_top: "เยอรมนี"
 country_coverage_pct: 36.1
 master_fund: "iShares Core EURO STOXX 50 UCITS ETF EUR (Dist)"
 master_isin: "IE00B53L3W79"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-EURO50

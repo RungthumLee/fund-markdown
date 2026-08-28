@@ -28,7 +28,7 @@ country_coverage_pct: 47.2
 master_fund: "Franklin Technology I Acc USD"
 master_isin: "LU0626261944"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/technology, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGTECH-USD

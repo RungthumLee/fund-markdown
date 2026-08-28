@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 16.1
 master_fund: "AXAWF Global Optimal Income F Cap EUR"
 master_isin: "LU0465917473"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KT-GOI

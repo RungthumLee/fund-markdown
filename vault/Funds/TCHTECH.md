@@ -30,7 +30,7 @@ master_fund: "Invesco China Technology ETF"
 master_isin: "US46138E8003"
 peer_group: "Greater China Equity"
 fund_managers: ["น.ส. ดวงรัตน์เจียรดิษฐ์อาภรณ์", "นาย อธิษฐ์สินอยู่"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/communication, cap/large, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # TCHTECH

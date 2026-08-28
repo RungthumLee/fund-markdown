@@ -29,7 +29,7 @@ country_coverage_pct: 48.9
 master_fund: "Wellington Global Innovation USD S Ac"
 master_isin: "LU1547288214"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-GTORMF

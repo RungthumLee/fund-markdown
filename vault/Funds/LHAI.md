@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ", "เกาหลีใต้"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 39.3
 master_fund: "Roundhill Generative AI & Technology ETF"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHAI

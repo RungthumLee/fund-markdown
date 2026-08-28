@@ -29,7 +29,7 @@ country_coverage_pct: 38.1
 master_fund: "Wellington Global Hlthcr Eq USD S Ac"
 master_isin: "IE00B0590K11"
 peer_group: "Health Care"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/healthcare, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # BCARE

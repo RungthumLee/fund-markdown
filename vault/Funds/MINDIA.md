@@ -29,7 +29,7 @@ country_coverage_pct: 31.4
 master_fund: "Jupiter India Select D USD Acc"
 master_isin: "LU0946219929"
 fund_managers: ["นาย กิตติพงษ์ กังวานเกียรติชัย", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # MINDIA

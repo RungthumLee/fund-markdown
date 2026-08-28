@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 36.3
 master_fund: "Invesco CoinShares Global Blockchain UCITS ETF"
 master_isin: "IE00BGBN6P67"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBBLOC

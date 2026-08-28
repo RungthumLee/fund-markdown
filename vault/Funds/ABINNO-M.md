@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 22.7
 master_fund: "abrdn-Future Global Equity Z Acc USD"
 master_isin: "LU1653037256"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABINNO-M

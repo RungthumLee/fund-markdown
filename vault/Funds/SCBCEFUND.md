@@ -28,7 +28,7 @@ country_top: "ฮ่องกง"
 country_coverage_pct: 30.7
 master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/consumer, cap/large, fx/discretionary, struct/feeder, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBCEFUND

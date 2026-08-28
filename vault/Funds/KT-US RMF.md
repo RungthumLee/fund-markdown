@@ -27,7 +27,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 47.8
 master_fund: "AB American Growth I USD"
 master_isin: "LU0079475348"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KT-US RMF

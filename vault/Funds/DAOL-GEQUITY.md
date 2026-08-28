@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 42.6
 master_fund: "GMO Quality Investment USD Acc"
 master_isin: "IE00B3SBSR82"
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-GEQUITY

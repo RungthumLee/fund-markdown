@@ -28,7 +28,7 @@ country_top: "สหราชอาณาจักร"
 country_coverage_pct: 35.3
 master_fund: "abrdn European Smaller Comp D Acc EUR"
 master_isin: "LU0306632687"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/industrials, cap/mid, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBEUSMFUND

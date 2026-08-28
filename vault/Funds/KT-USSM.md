@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 3.9
 master_fund: "Vanguard Morningstar Small-Cap ETF"
 master_isin: "US9229087518"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-USSM

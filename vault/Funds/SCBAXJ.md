@@ -28,7 +28,7 @@ country_top: "ไต้หวัน"
 country_coverage_pct: 39.6
 master_fund: "iShares Asia Trust - iShares Core MSCI AC Asia ex Japan Index ETF"
 master_isin: "HK0000051877"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBAXJ

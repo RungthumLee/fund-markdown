@@ -28,7 +28,7 @@ country_coverage_pct: 59.8
 master_fund: "Defiance Drone and Modern Warfare ETF"
 master_isin: "US26922B3942"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/industrials, sector/technology, cap/mid, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # DAOL-DRONE

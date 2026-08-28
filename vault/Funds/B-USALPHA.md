@@ -29,7 +29,7 @@ country_coverage_pct: 46.0
 master_fund: "JPM US Growth I acc USD"
 master_isin: "LU0248059726"
 peer_group: "US Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # B-USALPHA

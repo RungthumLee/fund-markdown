@@ -28,7 +28,7 @@ country_top: "สหราชอาณาจักร"
 country_coverage_pct: 37.8
 master_fund: "abrdn-European Sust Equity Z Acc EUR"
 master_isin: "LU0278923536"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ABEG

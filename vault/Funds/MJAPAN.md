@@ -29,7 +29,7 @@ country_coverage_pct: 40.4
 master_fund: "Arcus Japan A Acc USD H"
 master_isin: "LU0573573390"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/consumer, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # MJAPAN

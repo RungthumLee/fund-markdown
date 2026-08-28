@@ -28,7 +28,7 @@ country_coverage_pct: 59.1
 master_fund: "iShares MSCI Global Silver and Metals Miners ETF"
 master_isin: "US4642863272"
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/materials, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # A-SLVP

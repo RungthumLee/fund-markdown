@@ -29,7 +29,7 @@ country_coverage_pct: 38.3
 master_fund: "Robeco Global Consumer Trends Eqs I $"
 master_isin: "LU0936248318"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาง ฉัตรแพร ศิริสกาวกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # MCONT

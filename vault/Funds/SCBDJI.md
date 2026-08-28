@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 55.3
 master_fund: "State Street SPDR Dow Jones Industrial Average ETF Trust"
 master_isin: "US78467X1090"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, cap/large, fx/fully-hedged, struct/feeder, style/passive, tax/ssf, use/tax-saving]
 ---
 
 # SCBDJI

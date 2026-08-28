@@ -29,7 +29,7 @@ country_coverage_pct: 51.6
 master_fund: "E.I. Sturdza Nippon Gr UCITS A JPY UH"
 master_isin: "IE00B563Q870"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "นาย กมลยศ สุขุมสุวรรณ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/fully-hedged, struct/feeder, use/accumulate]
 ---
 
 # ASP-NGF

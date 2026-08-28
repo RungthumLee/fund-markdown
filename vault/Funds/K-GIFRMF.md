@@ -29,7 +29,7 @@ country_coverage_pct: 33.6
 master_fund: "Wellington Endrng Infras Asts EUR G Ac"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย นาทพัฒน์ ปะรักกะมานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/utilities, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/utilities, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-GIFRMF

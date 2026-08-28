@@ -49,14 +49,23 @@ _แปลระดับ 1–8 เป็นคำที่เข้าใจง
 
 _กลุ่มหลักในพอร์ต (factsheet; ต่างประเทศเสริมด้วย Yahoo)_
 
-- #sector/financials · **155**
-- #sector/technology · **135**
-- #sector/energy · **90**
-- #sector/industrials · **20**
-- #sector/consumer · **18**
-- #sector/healthcare · **16**
-- #sector/real-estate · **12**
-- #sector/utilities · **5**
+- #sector/technology · **387**
+- #sector/financials · **202**
+- #sector/energy · **100**
+- #sector/industrials · **56**
+- #sector/consumer · **54**
+- #sector/healthcare · **49**
+- #sector/real-estate · **24**
+- #sector/communication · **19**
+- #sector/materials · **18**
+- #sector/utilities · **17**
+
+## ขนาดบริษัท · `cap`
+
+_ใหญ่ ≥1หมื่นล้าน$ / กลาง 2พัน–1หมื่นล้าน / เล็ก <2พันล้าน (จาก Yahoo)_
+
+- #cap/large · **615**
+- #cap/mid · **9**
 
 ## อายุเฉลี่ยตราสารหนี้ · `duration`
 

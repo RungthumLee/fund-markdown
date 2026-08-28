@@ -29,7 +29,7 @@ country_coverage_pct: 46.5
 master_fund: "JPM US Growth I acc USD"
 master_isin: "LU0248059726"
 peer_group: "US Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # UUSA-M

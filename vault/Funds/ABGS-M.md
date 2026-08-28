@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 31.1
 master_fund: "abrdn- Global Smaller Comp Z Acc USD"
 master_isin: "LU2530219000"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/consumer, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABGS-M

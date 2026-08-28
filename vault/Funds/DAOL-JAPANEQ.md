@@ -27,7 +27,7 @@ country_coverage_pct: 33.6
 master_fund: "Nomura Fds Japan Strategic Value I JPY"
 master_isin: "IE00B3VTL690"
 fund_managers: ["นาย ปิยะศักดิ์ ดวงบัณฑิตกุล", "นาย พชรพล ภู่เจริญ"]
-tags: [fund, sec-data, asset/equity, risk/high, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # DAOL-JAPANEQ

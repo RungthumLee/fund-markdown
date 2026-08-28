@@ -28,7 +28,7 @@ country_top: "จีน"
 country_coverage_pct: 34.2
 master_fund: "Schroder ISF China A C Acc USD"
 master_isin: "LU1713307699"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBRMASHARES

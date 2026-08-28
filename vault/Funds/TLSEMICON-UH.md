@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 83.2
 master_fund: "VanEck Semiconductor UCITS ETF"
 master_isin: "IE00BMC38736"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLSEMICON-UH

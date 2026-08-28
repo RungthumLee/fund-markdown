@@ -29,7 +29,7 @@ country_coverage_pct: 36.1
 master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 fund_managers: ["นาย กิตติพงษ์ กังวานเกียรติชัย", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # M-US500H

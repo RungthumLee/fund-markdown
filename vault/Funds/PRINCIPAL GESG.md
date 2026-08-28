@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 43.8
 master_fund: "Schroder ISF Glbl Sust Gr C Acc USD"
 master_isin: "LU0557290854"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL GESG

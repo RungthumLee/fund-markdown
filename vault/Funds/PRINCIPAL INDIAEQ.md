@@ -28,7 +28,7 @@ country_top: "อินเดีย"
 country_coverage_pct: 29.8
 master_fund: "Ashoka WhiteOak India Opps D USD Acc"
 master_isin: "IE00BH3N4915"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL INDIAEQ

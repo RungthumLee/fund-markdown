@@ -30,7 +30,7 @@ master_fund: "ARK Genomic Revolution UCITS ETF Class A USD Accumulation"
 master_isin: "IE000O5M6XO1"
 peer_group: "Health Care"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/healthcare, cap/mid, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # ES-GENOME

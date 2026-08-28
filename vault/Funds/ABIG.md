@@ -28,7 +28,7 @@ country_top: "อินเดีย"
 country_coverage_pct: 37.8
 master_fund: "abrdn-Indian Equity Z Acc USD"
 master_isin: "LU0278911523"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ABIG

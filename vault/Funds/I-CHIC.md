@@ -29,7 +29,7 @@ country_coverage_pct: 52.6
 master_fund: "Dominion Global Trends Lxy Cnsmr EUR IC"
 master_isin: "MT7000004115"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/consumer, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # I-CHIC

@@ -29,7 +29,7 @@ country_coverage_pct: 26.4
 master_fund: "GS India Equity I Acc USD"
 peer_group: "India Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-INDIARMF

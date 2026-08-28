@@ -29,7 +29,7 @@ country_coverage_pct: 51.1
 master_fund: "BGF World Healthscience D2"
 master_isin: "LU0329593007"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/healthcare, cap/large, fx/partially-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # MHEALTH

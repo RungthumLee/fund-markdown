@@ -29,7 +29,7 @@ country_coverage_pct: 59.1
 master_fund: "iShares MSCI Global Silver and Metals Miners ETF"
 master_isin: "US4642863272"
 fund_managers: ["นาย ธนัย ลิขิตชัยกุล", "นาย ชาญวุฒิ รุ่งแสงมนูญ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/materials, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # MSILVER

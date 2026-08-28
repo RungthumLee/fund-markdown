@@ -29,7 +29,7 @@ country_coverage_pct: 35.5
 master_fund: "Allianz Global Sustainability PT USD"
 master_isin: "LU2232014741"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # USUS-M

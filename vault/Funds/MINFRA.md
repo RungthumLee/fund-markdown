@@ -29,7 +29,7 @@ country_coverage_pct: 36.2
 master_fund: "KBI Glb Sust Infras D EUR Acc"
 master_isin: "IE00BJ5JS448"
 fund_managers: ["นาง ฉัตรแพร ศิริสกาวกุล", "นาย เฉลิมเดช เตชะโต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/utilities, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # MINFRA

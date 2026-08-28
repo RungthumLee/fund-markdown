@@ -12,6 +12,9 @@ tags: [entity, entity-equity, held-indirectly, via-master-only]
 
 **ประเภท:** หุ้น
 
+**กลุ่ม:** Technology · **อุตสาหกรรม:** Scientific & Technical Instruments · **ขนาด:** ใหญ่ (273,135,452,160 SEK)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **0** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

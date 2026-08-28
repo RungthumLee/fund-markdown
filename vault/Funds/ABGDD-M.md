@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 21.5
 master_fund: "abrdn-Global Dynamic Div Z Grs MIncAUSD"
 master_isin: "LU2237444604"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ABGDD-M

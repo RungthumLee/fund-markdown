@@ -28,7 +28,7 @@ country_top: "สหราชอาณาจักร"
 country_coverage_pct: 18.2
 master_fund: "Amundi Core Stoxx Europe 600 UCITS ETF Acc"
 master_isin: "LU0908500753"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, cap/large, fx/fully-hedged, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # SCBEUEQFUND

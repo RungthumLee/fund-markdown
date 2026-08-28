@@ -28,7 +28,7 @@ country_top: "อินเดีย"
 country_coverage_pct: 50.4
 master_fund: "iShares India 50 ETF"
 master_isin: "US4642895290"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/partially-hedged, struct/feeder, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # SCBINDIAFUND

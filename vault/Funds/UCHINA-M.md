@@ -29,7 +29,7 @@ country_coverage_pct: 41.5
 master_fund: "UBS (Lux) ES All China (USD) I A1 acc"
 master_isin: "LU1867708205"
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/communication, cap/large, fx/fully-hedged, struct/feeder, tax/ssf, use/tax-saving]
 ---
 
 # UCHINA-M

@@ -28,7 +28,7 @@ country_top: "จีน"
 country_coverage_pct: 22.6
 master_fund: "World Index Shares ETFs - CSI 300 China Tracker"
 master_isin: "HK2827039002"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, cap/large, fx/discretionary, struct/feeder, style/passive, style/dividend, use/income]
 ---
 
 # CHINA

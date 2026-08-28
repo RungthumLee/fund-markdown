@@ -27,7 +27,7 @@ market_countries: ["เกาหลีใต้", "ไต้หวัน", "ฮ�
 country_top: "เกาหลีใต้"
 country_coverage_pct: 37.9
 master_fund: "Schroder ISF Glb Em Mkt Opps A Acc USD"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, cap/large, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # LHEME

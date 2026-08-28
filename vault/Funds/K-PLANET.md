@@ -29,7 +29,7 @@ country_coverage_pct: 26.5
 master_fund: "LO Funds Planetary Transition Sd USD MD"
 peer_group: "Other Global Sector Equity"
 fund_managers: ["น.ส. วีรยา จุลมนต์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-PLANET

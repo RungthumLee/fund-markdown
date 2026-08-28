@@ -28,7 +28,7 @@ country_top: "อินเดีย"
 country_coverage_pct: 38.7
 master_fund: "UTI India Dynamic Equity USD Instl"
 master_isin: "IE00BYPC7R45"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, sector/financials, cap/large, fx/partially-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # SCBINDEQ

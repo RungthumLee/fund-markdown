@@ -29,7 +29,7 @@ country_coverage_pct: 39.7
 master_fund: "AXAWF Eurp Rl Est Secs I Cap EUR"
 master_isin: "LU0227125514"
 fund_managers: ["นาย ศิรภูมิ ศิริรังษี", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/real-estate, cap/mid, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ASP-EUPROP

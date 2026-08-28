@@ -22,6 +22,9 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 
 **ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
+**กลุ่ม:** Communication Services · **อุตสาหกรรม:** Internet Content & Information · **ขนาด:** ใหญ่ (108,394,274,816 USD)
+> ที่มา: Yahoo Finance (`scripts/fetch_sectors.py`)
+
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **11** กอง
 
 [[../Indexes/by-holding|ดัชนีสินทรัพย์]] · [[../Indexes/by-lookthrough|ดัชนีการถือทางอ้อม]] · [[../Concepts/การรวมชื่อสินทรัพย์|ชื่อนี้รวมมาจากไหน]] · [[../Concepts/Look-through การถือทางอ้อม|Look-through คืออะไร]]

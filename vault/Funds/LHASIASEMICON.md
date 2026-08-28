@@ -26,7 +26,7 @@ market_countries: ["เกาหลีใต้", "ญี่ปุ่น", "ไ�
 country_top: "เกาหลีใต้"
 country_coverage_pct: 64.3
 master_fund: "Global X Asia Semiconductor ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/technology, cap/large, fx/partially-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # LHASIASEMICON

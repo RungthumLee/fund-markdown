@@ -30,7 +30,7 @@ master_fund: "iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc)"
 master_isin: "IE00B3WJKG14"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t3, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-USTECH

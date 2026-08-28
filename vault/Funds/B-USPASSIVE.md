@@ -29,7 +29,7 @@ country_coverage_pct: 35.5
 master_fund: "State Street SPDR S&P 500 ETF Trust"
 master_isin: "US78462F1030"
 peer_group: "US Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # B-USPASSIVE
