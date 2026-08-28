@@ -84,6 +84,9 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
 - **R5 · B1 coverage (join lookthrough symbol)** — V ผ่าน (broken=0 · โน้ต entity มีประเทศ **2,838/3,136 = 90%** จากเดิม ~764) ·
   ประเทศจาก symbol ใน look-through (VIETCAP→เวียดนาม ✓) · แก้ false positive "KBANK-F→US" (bare→US เฉพาะ A-Z ล้วน ไม่มีขีด) ·
   ไม่ต้องโหวต · ไฟล์: `geography.py` (แก้ market_of_symbol) · `gen_entity_notes.py` (LT_SYMBOL fallback)
+- **R6 · A3 currency (สืบแล้วไม่ทำ)** — ตรวจ factsheet: ไม่มีตารางสัดส่วนสกุลเงินที่มีโครงสร้าง
+  (1,831 matches เป็น glossary; "USD 60%" กระจัดกระจาย) → **ตั้งใจไม่ parse** เพื่อเลี่ยงข้อมูลปลอม (ISS-009) ·
+  มิติค่าเงินจริง = FX Hedging % (ทำเป็น fx tag แล้ว) · ไม่มีไฟล์โค้ดเปลี่ยน (บันทึกอย่างเดียวตามกติกา R)
 
 ---
 
@@ -95,8 +98,10 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
 - ✅ **A3** bond duration/credit facets
 - ✅ **A2** sector facet + by-sector (จาก factsheet)
 
-**ต้องให้คน/สภาพแวดล้อมตัดสิน (หยุดตามเกณฑ์ S):**
+**หยุดตามเกณฑ์ S — เหลือเฉพาะที่ต้อง network หรือ source ไม่มี:**
 - **A2 Yahoo per-holding sector** — Yahoo คืน **429** ในนี้ · ต้องรัน fetch บนเครื่องผู้ใช้ (pipeline `fetch_masters` มีอยู่แล้ว)
-- **A3 currency exposure** — ต้องขยาย `factsheet_sections.py` ให้ parse ตารางสกุลเงิน (งาน parsing ก้อนใหม่)
 - **A3 market-cap (large/mid/small)** — ต้องแหล่งข้อมูลภายนอก (Yahoo, 429)
+- **A3 currency exposure** — 🔴 **ตรวจแล้วไม่มีในต้นทาง** (R6): factsheet ไม่มีตารางสัดส่วนสกุลเงิน
+  มีแค่ glossary + การเอ่ยกระจัดกระจาย → parse แล้วจะไม่น่าเชื่อถือ **จึงตั้งใจไม่ทำ** (หลักเดียวกับ ISS-009)
+  มิติค่าเงินที่ source มีจริง = **FX Hedging %** ซึ่งทำเป็น `fx/*` tag แล้ว
 - ~~**B1 coverage**~~ ✅ แก้แล้ว R5 (90%)
