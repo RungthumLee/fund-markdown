@@ -6,6 +6,8 @@ ticker: "SCACTB 4.31 07/18/26 23-2"
 figi: "BBG01HH2JL01"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 SC ASSET CORPORATION PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0747036703` · **Ticker:** `SCACTB 4.31 07/18/26 23-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

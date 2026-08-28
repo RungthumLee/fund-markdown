@@ -7,6 +7,9 @@ figi: "BBG00PQQMHD2"
 share_class_figi: "BBG00PQQMHF0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X Management Company LLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000516697` · **Ticker:** `2820 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **2** กอง
 

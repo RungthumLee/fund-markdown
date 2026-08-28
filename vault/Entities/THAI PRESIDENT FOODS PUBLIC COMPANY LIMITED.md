@@ -7,6 +7,9 @@ figi: "BBG00HZJ2SW3"
 share_class_figi: "BBG00HZJ2SX2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 THAI PRESIDENT FOODS PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH8223010001` · **Ticker:** `TFMAMA (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

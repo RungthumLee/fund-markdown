@@ -7,6 +7,9 @@ figi: "BBG000PVYFK0"
 share_class_figi: "BBG001SMLZ34"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Fund Advisors
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46428R1077` · **Ticker:** `GSG (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

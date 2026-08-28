@@ -7,6 +7,8 @@ figi: "BBG00F9ZPLD1"
 share_class_figi: "BBG00F33RM35"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Amundi Investment Solutions
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1437015735` · **Ticker:** `CEU2EUR (EO)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **14** กอง
 

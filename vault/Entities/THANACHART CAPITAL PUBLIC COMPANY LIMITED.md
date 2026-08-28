@@ -7,6 +7,9 @@ figi: "BBG000BDJ604"
 share_class_figi: "BBG001S6NS79"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 182
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 THANACHART CAPITAL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH0083B10Z02` · **Ticker:** `TCAP (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **182** กอง
 

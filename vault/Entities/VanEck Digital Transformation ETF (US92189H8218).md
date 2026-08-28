@@ -7,6 +7,9 @@ figi: "BBG0100SD3B3"
 share_class_figi: "BBG0100SD467"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Digital Transformation ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US92189H8218` · **Ticker:** `DAPP (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **12** กอง
 

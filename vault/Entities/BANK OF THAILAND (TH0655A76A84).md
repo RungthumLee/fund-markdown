@@ -6,6 +6,8 @@ ticker: "BOTB 0 10/01/26 91"
 figi: "BBG022MN66M4"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 29
 indirect_fund_count: 0
 alias_count: 4
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ BANK OF THAILAND
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH0655A76A84` · **Ticker:** `BOTB 0 10/01/26 91 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **29** กอง
 

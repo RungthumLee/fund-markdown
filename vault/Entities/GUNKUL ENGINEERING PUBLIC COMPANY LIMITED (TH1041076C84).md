@@ -3,6 +3,8 @@ title: "GUNKUL ENGINEERING PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH1041076C84"
 isin: "TH1041076C84"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 GUNKUL ENGINEERING PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH1041076C84`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

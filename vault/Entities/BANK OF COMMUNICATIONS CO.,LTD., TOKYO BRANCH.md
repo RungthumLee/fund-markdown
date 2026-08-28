@@ -6,6 +6,8 @@ ticker: "BOCOM 0 12/08/26 CD"
 figi: "BBG01YV1V3N1"
 figi_type: "EURO-DOLLAR"
 kind: "deposit"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 1
@@ -15,6 +17,8 @@ tags: [entity, entity-deposit]
 # 🏦 BANK OF COMMUNICATIONS CO.,LTD., TOKYO BRANCH
 
 **ประเภท:** เงินฝาก · **ISIN:** `XS3247136388` · **Ticker:** `BOCOM 0 12/08/26 CD (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

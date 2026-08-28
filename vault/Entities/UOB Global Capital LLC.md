@@ -7,6 +7,9 @@ figi: "BBG00RZRRSL8"
 share_class_figi: "BBG00RPH8HG2"
 figi_type: "REIT"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 UOB Global Capital LLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SGXC39411175` · **Ticker:** `UHU (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หน่วยลงทุน** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

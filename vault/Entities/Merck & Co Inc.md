@@ -7,6 +7,9 @@ figi: "BBG000BPD168"
 share_class_figi: "BBG001S5TC52"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 18
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Merck & Co Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US58933Y1055` · **Ticker:** `MRK (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **18** กอง
 

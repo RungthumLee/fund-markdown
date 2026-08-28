@@ -7,6 +7,8 @@ figi: "BBG003NVQGW0"
 share_class_figi: "BBG003NVQGX9"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BGF Asian Growth Leaders D2
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0859042482` · **Ticker:** `BGAGLD2 (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

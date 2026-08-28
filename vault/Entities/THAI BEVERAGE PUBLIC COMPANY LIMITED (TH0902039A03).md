@@ -6,6 +6,8 @@ ticker: "THBEV 3.07 10/22/29 24-2"
 figi: "BBG01QG8BV69"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 18
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 THAI BEVERAGE PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0902039A03` · **Ticker:** `THBEV 3.07 10/22/29 24-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **18** กอง
 

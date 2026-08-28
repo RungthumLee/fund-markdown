@@ -7,6 +7,9 @@ figi: "BBG01Y78ZCW9"
 share_class_figi: "BBG01Y78ZDS2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Tidal ETF Services LLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US45259A2583` · **Ticker:** `GRNJ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

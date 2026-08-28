@@ -7,6 +7,9 @@ figi: "BBG01NXX8H49"
 share_class_figi: "BBG01NXX8HZ5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Ethereum Trust ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46438R1059` · **Ticker:** `ETHA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

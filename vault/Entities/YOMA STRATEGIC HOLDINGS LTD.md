@@ -6,6 +6,8 @@ ticker: "YOMASP 6.09 11/22/26 23-1"
 figi: "BBG01K9FNPP3"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 YOMA STRATEGIC HOLDINGS LTD.
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH8976036B01` · **Ticker:** `YOMASP 6.09 11/22/26 23-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

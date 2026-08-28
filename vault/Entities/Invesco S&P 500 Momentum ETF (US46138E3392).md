@@ -7,6 +7,9 @@ figi: "BBG00B59HSH2"
 share_class_figi: "BBG00B59HSJ0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco S&P 500 Momentum ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46138E3392` · **Ticker:** `SPMO (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

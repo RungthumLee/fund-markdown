@@ -7,6 +7,9 @@ figi: "BBG00CM51933"
 share_class_figi: "BBG00CM51942"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 United Global Quality Growth A USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG9999014906` · **Ticker:** `UOBGQGUA (SP)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -3,6 +3,8 @@ title: "THE ERAWAN GROUP PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0120A10Z08"
 isin: "TH0120A10Z08"
 kind: "equity"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 THE ERAWAN GROUP PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH0120A10Z08`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **14** กอง
 

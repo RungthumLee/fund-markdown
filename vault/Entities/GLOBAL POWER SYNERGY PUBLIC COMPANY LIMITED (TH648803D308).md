@@ -6,6 +6,8 @@ ticker: "GPSCTB 3.46 03/01/33 24-1"
 figi: "BBG01LSH3938"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 GLOBAL POWER SYNERGY PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH648803D308` · **Ticker:** `GPSCTB 3.46 03/01/33 24-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

@@ -7,6 +7,8 @@ figi: "BBG000CQB498"
 share_class_figi: "BBG001SML1C9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+country: "ไอร์แลนด์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BLACKROCK, INC.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B52SF786` · **Ticker:** `SXR2 (GR)`
+
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

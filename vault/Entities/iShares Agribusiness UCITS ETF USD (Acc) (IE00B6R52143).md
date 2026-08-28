@@ -7,6 +7,9 @@ figi: "BBG002TWWJ97"
 share_class_figi: "BBG0022QWZN7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Agribusiness UCITS ETF USD (Acc)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B6R52143` · **Ticker:** `IS0C (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

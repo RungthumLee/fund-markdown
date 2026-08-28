@@ -6,6 +6,8 @@ ticker: "THAIGB 4 06/17/55"
 figi: "BBG01JX38ZQ0"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ MINISTRY OF FINANCE
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH0623A35601` · **Ticker:** `THAIGB 4 06/17/55 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **6** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000Q1XB43"
 share_class_figi: "BBG001T6BDH3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 DAT XANH REAL ESTATE SERVICE & CONSTRUCTION CORPARATION
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000DXG7` · **Ticker:** `DXG (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **6** กอง
 

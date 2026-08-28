@@ -7,6 +7,9 @@ figi: "BBG01R3N5Y96"
 share_class_figi: "BBG01R3N5Z57"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Tema Electrification ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US87975E8342` · **Ticker:** `VOLT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

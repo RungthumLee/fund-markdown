@@ -7,6 +7,9 @@ figi: "BBG000D2VLF3"
 share_class_figi: "BBG001S81QM6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ญี่ปุ่น"
+market_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 1
 indirect_fund_count: 12
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Mitsubishi UFJ Financial Group
 
 **ประเภท:** หุ้น · **ISIN:** `JP3902900004` · **Ticker:** `8306 (JP)`
+
+**ตลาดซื้อขาย:** ญี่ปุ่น
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **12** กอง
 

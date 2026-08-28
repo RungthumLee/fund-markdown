@@ -6,6 +6,8 @@ ticker: "ASKTB 3.75 06/22/27 23-3"
 figi: "BBG01H4Y5LC7"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 ASIA SERMKIJ LEASING PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0816037608` · **Ticker:** `ASKTB 3.75 06/22/27 23-3 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **8** กอง
 

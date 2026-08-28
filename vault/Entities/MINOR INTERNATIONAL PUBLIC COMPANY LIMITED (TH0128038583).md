@@ -6,6 +6,8 @@ ticker: "MINTTB 0 05/19/28 25-1"
 figi: "BBG01V3ZRZ66"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 27
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 MINOR INTERNATIONAL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0128038583` · **Ticker:** `MINTTB 0 05/19/28 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **27** กอง
 

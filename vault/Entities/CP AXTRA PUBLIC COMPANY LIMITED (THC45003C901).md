@@ -6,6 +6,8 @@ ticker: "CPAXTP 2.51 09/13/32 25-1"
 figi: "BBG01WGGP5V2"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CP AXTRA PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `THC45003C901` · **Ticker:** `CPAXTP 2.51 09/13/32 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **11** กอง
 

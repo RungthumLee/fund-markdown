@@ -6,6 +6,8 @@ ticker: "NCBKSG 0 10/16/26 CD"
 figi: "BBG01XWRCR35"
 figi_type: "EURO-DOLLAR"
 kind: "other"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • SAUDI NTL BANK SG
 
 **ประเภท:** อื่น ๆ · **ISIN:** `XS3213223103` · **Ticker:** `NCBKSG 0 10/16/26 CD (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

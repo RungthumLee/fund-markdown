@@ -6,6 +6,8 @@ ticker: "FPTTB 3.39 11/15/27 24-2"
 figi: "BBG01MVVL7Y1"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 FRASERS PROPERTY (THAILAND) PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0675A37B04` · **Ticker:** `FPTTB 3.39 11/15/27 24-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **6** กอง
 

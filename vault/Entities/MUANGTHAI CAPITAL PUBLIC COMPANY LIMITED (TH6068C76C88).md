@@ -3,6 +3,8 @@ title: "MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH6068C76C88"
 isin: "TH6068C76C88"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH6068C76C88`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

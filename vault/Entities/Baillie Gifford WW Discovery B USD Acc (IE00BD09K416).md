@@ -7,6 +7,9 @@ figi: "BBG00HBNFF81"
 share_class_figi: "BBG00HBVP263"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Baillie Gifford WW Discovery B USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BD09K416` · **Ticker:** `BGDIBUA (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

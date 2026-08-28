@@ -7,6 +7,9 @@ figi: "BBG000BP1Q11"
 share_class_figi: "BBG001S5T5M8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 2
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 SPGI US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US78409V1044` · **Ticker:** `SPGI (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

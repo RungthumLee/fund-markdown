@@ -7,6 +7,9 @@ figi: "BBG000BZ73N0"
 share_class_figi: "BBG001S7HL51"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 408
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias, widely-held]
 # 🏢 DELTA ELECTRONICS (THAILAND) PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH0528A10Z06` · **Ticker:** `DELTA (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **408** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

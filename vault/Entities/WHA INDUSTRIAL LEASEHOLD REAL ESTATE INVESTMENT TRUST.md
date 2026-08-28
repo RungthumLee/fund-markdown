@@ -7,6 +7,9 @@ figi: "BBG00D5SQPK8"
 share_class_figi: "BBG00D5SQPH2"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 45
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ WHA INDUSTRIAL LEASEHOLD REAL ESTATE INVESTMENT TRUST
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `TH7585010005` · **Ticker:** `WHAIR (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **45** กอง
 

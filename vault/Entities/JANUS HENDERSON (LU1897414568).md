@@ -7,6 +7,8 @@ figi: "BBG00MNF1KR7"
 share_class_figi: "BBG00MNFNDP1"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JANUS HENDERSON
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1897414568` · **Ticker:** `JHHBIU2 (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

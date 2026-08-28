@@ -6,6 +6,8 @@ ticker: "THANI 0 02/17/28 25-1"
 figi: "BBG01SC1ZDL1"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Ratchthani Leasing Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0697038287` · **Ticker:** `THANI 0 02/17/28 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000C0G1D1"
 share_class_figi: "BBG001S5SF65"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 10
 indirect_fund_count: 18
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 INTEL CORPORATION
 
 **ประเภท:** หุ้น · **ISIN:** `US4581401001` · **Ticker:** `INTC (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **10** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **18** กอง
 

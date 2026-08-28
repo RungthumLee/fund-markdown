@@ -6,6 +6,8 @@ ticker: "BOTGB 1.33 11/10/27"
 figi: "BBG01YBQTYC5"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 18
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ BANK OF THAILAND
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH0655037B08` · **Ticker:** `BOTGB 1.33 11/10/27 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **18** กอง
 

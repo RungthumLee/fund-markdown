@@ -6,6 +6,8 @@ ticker: "EATB 2.99 09/08/32 22-1"
 figi: "BBG019K1T921"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 ENERGY ABSOLUTE PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH3545035901` · **Ticker:** `EATB 2.99 09/08/32 22-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **10** กอง
 

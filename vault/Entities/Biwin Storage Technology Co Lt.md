@@ -7,6 +7,9 @@ figi: "BBG00RKKVY95"
 share_class_figi: "BBG00RKKVYB2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Biwin Storage Technology Co Lt
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100005VN3` · **Ticker:** `688525 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **3** กอง
 

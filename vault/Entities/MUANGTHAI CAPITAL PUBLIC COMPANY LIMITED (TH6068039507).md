@@ -6,6 +6,8 @@ ticker: "MTCTB 3.9 05/29/29 25-3"
 figi: "BBG01VBFR399"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 MUANGTHAI CAPITAL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH6068039507` · **Ticker:** `MTCTB 3.9 05/29/29 25-3 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **10** กอง
 

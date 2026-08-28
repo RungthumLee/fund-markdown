@@ -7,6 +7,9 @@ figi: "BBG000QRNHZ0"
 share_class_figi: "BBG001T8JBX7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X Copper Miners ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US37954Y8306` · **Ticker:** `COPX (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG01JZNRLC9"
 share_class_figi: "BBG00PVML196"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Safe Fertility Group Public Company Limited
 
 **ประเภท:** หุ้น · **ISIN:** `THB695010009` · **Ticker:** `SAFE (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

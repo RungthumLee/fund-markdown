@@ -7,6 +7,9 @@ figi: "BBG000N1D2L9"
 share_class_figi: "BBG001T515D7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 BAO VIET HOLDING COMPANY
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000BVH3` · **Ticker:** `BVH (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **3** กอง
 

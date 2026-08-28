@@ -6,6 +6,8 @@ ticker: "CPALTB 4.2 06/16/33 21-2"
 figi: "BBG011FP85S4"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CP ALL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH073703D601` · **Ticker:** `CPALTB 4.2 06/16/33 21-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

@@ -6,6 +6,8 @@ ticker: "MBKTB 2.94 01/06/29 20-1"
 figi: "BBG00R823JV8"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 MBK PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0480039104` · **Ticker:** `MBKTB 2.94 01/06/29 20-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

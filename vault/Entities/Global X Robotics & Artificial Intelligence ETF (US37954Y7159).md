@@ -7,6 +7,9 @@ figi: "BBG00DSB42G0"
 share_class_figi: "BBG00DSB42H9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X Robotics & Artificial Intelligence ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US37954Y7159` · **Ticker:** `BOTZ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000QNH3T4"
 share_class_figi: "BBG001SSDLM0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 12
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco DB Oil Fund
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46140H4039` · **Ticker:** `DBO (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **8** กอง
 

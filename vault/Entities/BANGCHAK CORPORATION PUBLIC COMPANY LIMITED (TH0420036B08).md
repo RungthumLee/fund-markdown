@@ -6,6 +6,8 @@ ticker: "BCPTB 2.29 11/05/26 21-1"
 figi: "BBG013G5LCL0"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 BANGCHAK CORPORATION PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0420036B08` · **Ticker:** `BCPTB 2.29 11/05/26 21-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

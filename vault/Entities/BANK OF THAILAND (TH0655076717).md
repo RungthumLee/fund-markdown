@@ -6,6 +6,8 @@ ticker: "BOTFRN F 07/20/26 CBF"
 figi: "BBG01VZDJXG3"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 43
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ BANK OF THAILAND
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH0655076717` · **Ticker:** `BOTFRN F 07/20/26 CBF (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **43** กอง
 

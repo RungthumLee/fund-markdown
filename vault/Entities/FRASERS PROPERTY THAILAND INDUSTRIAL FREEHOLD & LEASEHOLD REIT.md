@@ -7,6 +7,9 @@ figi: "BBG007PYPGB7"
 share_class_figi: "BBG007PYPG90"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 61
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `TH6172010006` · **Ticker:** `FTREIT (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **61** กอง
 

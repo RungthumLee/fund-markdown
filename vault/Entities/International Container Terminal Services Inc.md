@@ -7,6 +7,9 @@ figi: "BBG000BL67C5"
 share_class_figi: "BBG001S8JCN7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฟิลิปปินส์"
+market_country: "ฟิลิปปินส์"
+country: "ฟิลิปปินส์"
 fund_count: 2
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 International Container Terminal Services Inc
 
 **ประเภท:** หุ้น · **ISIN:** `PHY411571011` · **Ticker:** `ICT (PM)`
+
+**ตลาดซื้อขาย:** ฟิลิปปินส์
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

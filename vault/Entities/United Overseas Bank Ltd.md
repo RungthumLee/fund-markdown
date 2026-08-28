@@ -7,6 +7,9 @@ figi: "BBG000BFDWJ8"
 share_class_figi: "BBG001S6NSX0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 7
 indirect_fund_count: 1
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 United Overseas Bank Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `SG1M31001969` · **Ticker:** `UOB (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **7** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

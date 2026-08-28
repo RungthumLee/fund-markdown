@@ -7,6 +7,8 @@ figi: "BBG010FC8TK1"
 share_class_figi: "BBG00ZCDZ3G8"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ SF Real Estate Investment Trust
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `HK0000735800` · **Ticker:** `2191 (HK)`
+
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **2** กอง
 

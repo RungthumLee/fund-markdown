@@ -6,6 +6,8 @@ ticker: "TIDLOR 0 12/29/26 24-1"
 figi: "BBG01M7PM280"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 19
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 NGERN TID LOR PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH5520036C82` · **Ticker:** `TIDLOR 0 12/29/26 24-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **19** กอง
 

@@ -3,6 +3,8 @@ title: "Banpu Public Company Limited"
 entity_id: "isin:TH0148A77288"
 isin: "TH0148A77288"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 3
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 Banpu Public Company Limited
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0148A77288`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000CC3P00"
 share_class_figi: "BBG001SFCJK6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อินโดนีเซีย"
+market_country: "อินโดนีเซีย"
+country: "อินโดนีเซีย"
 fund_count: 2
 indirect_fund_count: 4
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 PT Bank Central Asia Tbk
 
 **ประเภท:** หุ้น · **ISIN:** `ID1000109507` · **Ticker:** `BBCA (IJ)`
+
+**ตลาดซื้อขาย:** อินโดนีเซีย
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

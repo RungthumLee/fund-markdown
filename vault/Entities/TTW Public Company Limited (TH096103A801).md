@@ -6,6 +6,8 @@ ticker: "TTWTB 2.3 08/29/30 25-1"
 figi: "BBG01WZZ0680"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 TTW Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH096103A801` · **Ticker:** `TTWTB 2.3 08/29/30 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **11** กอง
 

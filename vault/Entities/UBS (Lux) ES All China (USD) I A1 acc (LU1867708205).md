@@ -7,6 +7,8 @@ figi: "BBG00MKMNTZ3"
 share_class_figi: "BBG00MKP1G33"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 UBS (Lux) ES All China (USD) I A1 acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1867708205` · **Ticker:** `UBAIA1A (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **5** กอง
 

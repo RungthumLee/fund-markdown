@@ -6,6 +6,8 @@ ticker: "BEMTB 3.67 02/15/31 24-1"
 figi: "BBG01LH0SY35"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 BANGKOK EXPRESSWAY AND METRO PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH699903B209` · **Ticker:** `BEMTB 3.67 02/15/31 24-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -6,6 +6,8 @@ ticker: "THAIGB 2.4 03/17/29"
 figi: "BBG01HCSPXD2"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 54
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ MINISTRY OF FINANCE
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH0623039300` · **Ticker:** `THAIGB 2.4 03/17/29 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **54** กอง
 

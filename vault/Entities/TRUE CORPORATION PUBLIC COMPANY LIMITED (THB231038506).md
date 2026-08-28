@@ -6,6 +6,8 @@ ticker: "TRCOPL 3 05/08/28 25-2"
 figi: "BBG01TX4NLW3"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 TRUE CORPORATION PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `THB231038506` · **Ticker:** `TRCOPL 3 05/08/28 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

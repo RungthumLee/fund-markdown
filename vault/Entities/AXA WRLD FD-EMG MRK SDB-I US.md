@@ -7,6 +7,9 @@ figi: "BBG003G7WG45"
 share_class_figi: "BBG003G7WG54"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 AXA WRLD FD-EMG MRK SDB-I US
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0800573346` · **Ticker:** `AWEMIUA (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

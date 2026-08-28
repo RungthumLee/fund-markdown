@@ -6,6 +6,8 @@ ticker: "WHATB 3.69 10/12/26 23-2"
 figi: "BBG01JPWVQZ9"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 WHA CORPORATION PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH3871036A00` · **Ticker:** `WHATB 3.69 10/12/26 23-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

@@ -6,6 +6,8 @@ ticker: "TRCOPL 3.5 05/08/30 25-2"
 figi: "BBG01TX4W736"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 15
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 TRUE CORPORATION PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `THB23103A504` · **Ticker:** `TRCOPL 3.5 05/08/30 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **15** กอง
 

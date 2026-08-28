@@ -7,6 +7,9 @@ figi: "BBG000FM6VK7"
 share_class_figi: "BBG001S6P853"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สเปน"
+market_country: "สเปน"
+country: "สเปน"
 fund_count: 2
 indirect_fund_count: 8
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Banco Bilbao Vizcaya Argentaria SA
 
 **ประเภท:** หุ้น · **ISIN:** `ES0113211835` · **Ticker:** `BOY (GR)`
+
+**ตลาดซื้อขาย:** สเปน
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **8** กอง
 

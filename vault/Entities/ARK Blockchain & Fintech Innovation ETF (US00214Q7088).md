@@ -7,6 +7,9 @@ figi: "BBG00N7YFK60"
 share_class_figi: "BBG00N7YFKY9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ARK Blockchain & Fintech Innovation ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US00214Q7088` · **Ticker:** `ARKF (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

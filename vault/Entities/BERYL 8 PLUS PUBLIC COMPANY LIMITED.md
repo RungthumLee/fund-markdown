@@ -7,6 +7,8 @@ figi: "BBG011P170H0"
 share_class_figi: "BBG011P170L5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 BERYL 8 PLUS PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `THA532010008` · **Ticker:** `BE8 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

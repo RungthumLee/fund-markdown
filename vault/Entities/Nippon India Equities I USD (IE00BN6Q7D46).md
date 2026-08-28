@@ -7,6 +7,9 @@ figi: "BBG014CL1GF7"
 share_class_figi: "BBG014CTG327"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Nippon India Equities I USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BN6Q7D46` · **Ticker:** `INIEPIU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

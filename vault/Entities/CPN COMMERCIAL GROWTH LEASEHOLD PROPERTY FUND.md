@@ -7,6 +7,9 @@ figi: "BBG003D75169"
 share_class_figi: "BBG003D75132"
 figi_type: "Unit"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 CPN COMMERCIAL GROWTH LEASEHOLD PROPERTY FUND
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH3769010002` · **Ticker:** `CPNCG (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

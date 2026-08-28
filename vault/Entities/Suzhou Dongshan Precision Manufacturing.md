@@ -7,6 +7,9 @@ figi: "BBG000Q3M6D2"
 share_class_figi: "BBG001T6DLZ3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Suzhou Dongshan Precision Manufacturing
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100000N79` · **Ticker:** `002384 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **3** กอง
 

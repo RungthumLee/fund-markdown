@@ -7,6 +7,9 @@ figi: "BBG0019LSQ49"
 share_class_figi: "BBG001TG3G38"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 FIRST REPUBLIC BANK/CA
 
 **ประเภท:** หุ้น · **ISIN:** `US33616C1009` · **Ticker:** `FRCB (US)`
+
+**ตลาดซื้อขาย:** มาเลเซีย · **จดทะเบียน:** สหรัฐฯ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,8 @@ figi: "BBG006KZCY35"
 share_class_figi: "BBG006B70NT6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+country: "ไอร์แลนด์"
 fund_count: 21
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Asset Management
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BKM4GZ66` · **Ticker:** `IS3N (GR)`
+
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **21** กอง
 

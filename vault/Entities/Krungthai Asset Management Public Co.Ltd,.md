@@ -7,6 +7,8 @@ figi: "BBG007FMPDL0"
 share_class_figi: "BBG007FMPDM9"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Krungthai Asset Management Public Co.Ltd,
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH5134010005` · **Ticker:** `KTFI13Y (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

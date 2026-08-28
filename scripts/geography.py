@@ -55,6 +55,32 @@ SUFFIX_MARKET = {
 }
 
 
+# Bloomberg exchange code (the 2-letter tail of tickers the SEC data carries,
+# e.g. "700 HK", "2330 TT", "AAPL US") -> country. Distinct from Yahoo suffixes.
+BLOOMBERG_COUNTRY = {
+    "HK": "ฮ่องกง", "TT": "ไต้หวัน", "JP": "ญี่ปุ่น", "JT": "ญี่ปุ่น",
+    "US": "สหรัฐฯ", "UW": "สหรัฐฯ", "UN": "สหรัฐฯ", "UQ": "สหรัฐฯ",
+    "SP": "สิงคโปร์", "LN": "สหราชอาณาจักร", "C1": "จีน", "C2": "จีน",
+    "CH": "จีน", "CG": "จีน", "IN": "อินเดีย", "IS": "อินเดีย",
+    "VN": "เวียดนาม", "KS": "เกาหลีใต้", "MK": "มาเลเซีย", "IJ": "อินโดนีเซีย",
+    "AU": "ออสเตรเลีย", "GR": "เยอรมนี", "FP": "ฝรั่งเศส", "NA": "เนเธอร์แลนด์",
+    "SW": "สวิตเซอร์แลนด์", "IM": "อิตาลี", "SM": "สเปน", "TB": "ไทย",
+    "SS": "สวีเดน", "PM": "ฟิลิปปินส์", "CT": "แคนาดา",
+}
+
+# a Bloomberg ticker alias: "<symbol> <XX>" ending in a 2-letter exchange code
+_BBG_RE = __import__("re").compile(r"^\S+ ([A-Z]{2})$")
+
+
+def market_from_aliases(aliases: list[str] | None) -> str | None:
+    """Listing market inferred from a Bloomberg-style ticker among the aliases."""
+    for a in aliases or []:
+        m = _BBG_RE.match(str(a).strip())
+        if m and m.group(1) in BLOOMBERG_COUNTRY:
+            return BLOOMBERG_COUNTRY[m.group(1)]
+    return None
+
+
 def market_of_symbol(symbol: str | None) -> str | None:
     """Listing market from a Yahoo symbol suffix; bare tickers are US listings."""
     if not symbol:

@@ -6,6 +6,8 @@ ticker: "ORITB 4.4 07/11/26 23-2"
 figi: "BBG01HDHSLM8"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 ORIGIN PROPERTY PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH6830036708` · **Ticker:** `ORITB 4.4 07/11/26 23-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

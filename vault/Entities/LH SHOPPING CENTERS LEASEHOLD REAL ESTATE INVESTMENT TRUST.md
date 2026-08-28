@@ -7,6 +7,9 @@ figi: "BBG007STCYR3"
 share_class_figi: "BBG007STCYQ4"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 36
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ LH SHOPPING CENTERS LEASEHOLD REAL ESTATE INVESTMENT TRUST
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `TH6180010006` · **Ticker:** `LHSC (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **36** กอง
 

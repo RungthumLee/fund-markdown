@@ -6,6 +6,8 @@ ticker: "CPNTB 0 02/22/27 24-1"
 figi: "BBG01LM7SZ86"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 21
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CENTRAL PATTANA PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0481037289` · **Ticker:** `CPNTB 0 02/22/27 24-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **21** กอง
 

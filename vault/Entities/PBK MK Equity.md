@@ -7,6 +7,9 @@ figi: "BBG000BB2BD1"
 share_class_figi: "BBG001S5PNJ7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "มาเลเซีย"
+market_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 PBK MK Equity
 
 **ประเภท:** หุ้น · **ISIN:** `MYL1295OO004` · **Ticker:** `PBK (MK)`
+
+**ตลาดซื้อขาย:** มาเลเซีย
 
 ถือโดยตรง **4** กอง
 

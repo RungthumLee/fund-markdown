@@ -7,6 +7,9 @@ figi: "BBG000BG9N74"
 share_class_figi: "BBG001S77T37"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหราชอาณาจักร"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 5
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 BATS LN Equity
 
 **ประเภท:** หุ้น · **ISIN:** `GB0002875804` · **Ticker:** `BATS (LN)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สหราชอาณาจักร จาก ISIN
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

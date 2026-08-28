@@ -7,6 +7,9 @@ figi: "BBG000BDJWQ9"
 share_class_figi: "BBG001S6NXS5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อินโดนีเซีย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 UNTR IJ Equity
 
 **ประเภท:** หุ้น · **ISIN:** `ID1000058407` · **Ticker:** `UNTR (IJ)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** อินโดนีเซีย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

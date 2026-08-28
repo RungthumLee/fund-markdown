@@ -6,6 +6,8 @@ ticker: "WHAUTB 0 05/08/29 26-1"
 figi: "BBG0225MW6G3"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 24
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 WHA UTILITIES AND POWER PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH7846039587` · **Ticker:** `WHAUTB 0 05/08/29 26-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **24** กอง
 

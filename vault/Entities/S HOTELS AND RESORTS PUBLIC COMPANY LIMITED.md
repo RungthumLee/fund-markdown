@@ -7,6 +7,9 @@ figi: "BBG00P4YM803"
 share_class_figi: "BBG00P4YM821"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 21
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 S HOTELS AND RESORTS PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH9460010001` · **Ticker:** `SHR (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **21** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00HZ1W3Z1"
 share_class_figi: "BBG00HZ1W407"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ BUALUANG OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `TH8427010005` · **Ticker:** `BWORK (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

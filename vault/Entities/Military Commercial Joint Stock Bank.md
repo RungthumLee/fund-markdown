@@ -7,6 +7,9 @@ figi: "BBG000NYQDX6"
 share_class_figi: "BBG001T5D660"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 15
 indirect_fund_count: 3
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Military Commercial Joint Stock Bank
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000MBB5` · **Ticker:** `MBB (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **15** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

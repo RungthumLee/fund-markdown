@@ -6,6 +6,8 @@ ticker: "APTB 0 01/23/29 26-1"
 figi: "BBG01ZTSWYS8"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 AP (THAILAND) PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0308A39189` · **Ticker:** `APTB 0 01/23/29 26-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **10** กอง
 

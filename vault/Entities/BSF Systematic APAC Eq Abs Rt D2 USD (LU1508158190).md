@@ -7,6 +7,8 @@ figi: "BBG00F5CRY73"
 share_class_figi: "BBG00F5NV256"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BSF Systematic APAC Eq Abs Rt D2 USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1508158190` · **Ticker:** `BSAD2US (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **7** กอง
 

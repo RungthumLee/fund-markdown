@@ -6,6 +6,8 @@ ticker: "THAIGB 3.3 06/17/38"
 figi: "BBG00M90JQD9"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ MINISTRY OF FINANCE
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH062303I602` · **Ticker:** `THAIGB 3.3 06/17/38 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

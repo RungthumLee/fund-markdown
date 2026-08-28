@@ -7,6 +7,9 @@ figi: "BBG000BGW354"
 share_class_figi: "BBG001S7XYN5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 HONG KONG EXCHANGES & CLEARING LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `HK0388045442` · **Ticker:** `388 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **3** กอง
 

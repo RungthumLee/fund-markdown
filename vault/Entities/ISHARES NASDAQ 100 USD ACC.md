@@ -7,6 +7,9 @@ figi: "BBG000Q36BQ5"
 share_class_figi: "BBG001T6CZY4"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 6
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 # 📦 ISHARES NASDAQ 100 USD ACC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B53SZB19` · **Ticker:** `CSNDX (SW)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

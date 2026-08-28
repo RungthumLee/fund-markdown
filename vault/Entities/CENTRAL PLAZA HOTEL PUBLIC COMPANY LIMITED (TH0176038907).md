@@ -6,6 +6,8 @@ ticker: "CENTTB 1.88 09/26/28 25-2"
 figi: "BBG01XLFP4D9"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0176038907` · **Ticker:** `CENTTB 1.88 09/26/28 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

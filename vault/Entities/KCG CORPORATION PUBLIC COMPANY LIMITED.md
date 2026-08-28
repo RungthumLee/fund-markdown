@@ -7,6 +7,9 @@ figi: "BBG01GVY45Z0"
 share_class_figi: "BBG01GVY3TF1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 19
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 KCG CORPORATION PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `THB479010001` · **Ticker:** `KCG (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **19** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00X94LLL6"
 share_class_figi: "BBG00X94LLM5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Hang Seng TECH ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000651213` · **Ticker:** `3067 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **5** กอง
 

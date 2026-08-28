@@ -6,6 +6,8 @@ ticker: "JPM 0 03/05/29 EMTN"
 figi: "BBG020JBYM60"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 JP Morgan Chase Bank, N.A.
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS1449375549` · **Ticker:** `JPM 0 03/05/29 EMTN (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

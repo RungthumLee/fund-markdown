@@ -6,6 +6,8 @@ ticker: "GULFDV 3.03 04/01/27 24-1"
 figi: "BBG01M7T3V07"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 GULF DEVELOPMENT PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH7152037407` · **Ticker:** `GULFDV 3.03 04/01/27 24-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **14** กอง
 

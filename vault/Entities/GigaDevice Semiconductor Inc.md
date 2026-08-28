@@ -7,6 +7,9 @@ figi: "BBG006G2PR61"
 share_class_figi: "BBG006G2PR52"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 GigaDevice Semiconductor Inc
 
 **ประเภท:** หุ้น · **ISIN:** `CNE1000030S9` · **Ticker:** `603986 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **3** กอง
 

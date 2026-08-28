@@ -7,6 +7,9 @@ figi: "BBG00KLHL9W6"
 share_class_figi: "BBG00KLHLBL3"
 figi_type: "ADR"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 9
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 ASE TECHNOLOGY HOLDING
 
 **ประเภท:** หุ้น · **ISIN:** `US00215W1009` · **Ticker:** `ASX (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **9** กอง
 

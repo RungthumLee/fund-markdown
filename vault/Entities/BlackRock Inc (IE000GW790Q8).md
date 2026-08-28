@@ -7,6 +7,9 @@ figi: "BBG01W249VK7"
 share_class_figi: "BBG01W247S26"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE000GW790Q8` · **Ticker:** `CLORUSD (EO)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

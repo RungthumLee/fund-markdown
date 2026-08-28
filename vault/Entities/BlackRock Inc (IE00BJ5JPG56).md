@@ -7,6 +7,9 @@ figi: "BBG00PK2FRH3"
 share_class_figi: "BBG00PH85075"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BJ5JPG56` · **Ticker:** `ICGA (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

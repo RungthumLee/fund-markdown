@@ -7,6 +7,9 @@ figi: "BBG000BCSNK7"
 share_class_figi: "BBG001S7DHZ1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฟิลิปปินส์"
+market_country: "ฟิลิปปินส์"
+country: "ฟิลิปปินส์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 BDO UNIBANK INC
 
 **ประเภท:** หุ้น · **ISIN:** `PHY077751022` · **Ticker:** `BDO (PM)`
+
+**ตลาดซื้อขาย:** ฟิลิปปินส์
 
 ถือโดยตรง **2** กอง
 

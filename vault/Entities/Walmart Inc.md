@@ -7,6 +7,9 @@ figi: "BBG000BWXBC2"
 share_class_figi: "BBG001S5XH92"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 3
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Walmart Inc.
 
 **ประเภท:** หุ้น · **ISIN:** `US9311421039` · **Ticker:** `WMT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

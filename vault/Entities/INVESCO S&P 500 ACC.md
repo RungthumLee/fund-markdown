@@ -7,6 +7,9 @@ figi: "BBG000QYRHW4"
 share_class_figi: "BBG001T8QMX5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 15
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 INVESCO S&P 500 ACC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B3YCGJ38` · **Ticker:** `SPXS (EO)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **15** กอง
 

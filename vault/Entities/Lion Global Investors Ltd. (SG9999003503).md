@@ -7,6 +7,9 @@ figi: "BBG000QN6D50"
 share_class_figi: "BBG001SSDG14"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Lion Global Investors Ltd.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG9999003503` · **Ticker:** `LCVIETU (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **4** กอง
 

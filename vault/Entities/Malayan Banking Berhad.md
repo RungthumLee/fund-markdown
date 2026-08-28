@@ -6,6 +6,8 @@ ticker: "MAYMK 0 10/20/26 Cp"
 figi: "BBG021MX9D82"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Malayan Banking Berhad
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `MYBRD2600415` · **Ticker:** `MAYMK 0 10/20/26 Cp (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

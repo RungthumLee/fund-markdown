@@ -7,6 +7,9 @@ figi: "BBG000BQMMY9"
 share_class_figi: "BBG001SBGVC3"
 figi_type: "REIT"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ARA Asset Management Limited
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG1O33912138` · **Ticker:** `FRIVF (US)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หน่วยลงทุน** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

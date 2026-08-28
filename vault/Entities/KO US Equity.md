@@ -7,6 +7,9 @@ figi: "BBG000BMX289"
 share_class_figi: "BBG001S5SMQ8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 9
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 KO US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US1912161007` · **Ticker:** `KO (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **9** กอง
 

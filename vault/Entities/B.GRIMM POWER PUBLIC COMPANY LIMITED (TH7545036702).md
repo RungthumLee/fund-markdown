@@ -6,6 +6,8 @@ ticker: "BGRIMT 1.95 07/06/26 21-1"
 figi: "BBG011PPM7R4"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 B.GRIMM POWER PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH7545036702` · **Ticker:** `BGRIMT 1.95 07/06/26 21-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **11** กอง
 

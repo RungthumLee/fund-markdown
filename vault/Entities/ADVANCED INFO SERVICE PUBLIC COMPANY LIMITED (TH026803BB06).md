@@ -6,6 +6,8 @@ ticker: "ADVANC 2.92 11/13/31 24-1"
 figi: "BBG01QSP2333"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH026803BB06` · **Ticker:** `ADVANC 2.92 11/13/31 24-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **8** กอง
 

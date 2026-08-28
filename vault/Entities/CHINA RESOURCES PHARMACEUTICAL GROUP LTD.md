@@ -7,6 +7,8 @@ figi: "BBG00DZWSDQ5"
 share_class_figi: "BBG005HGTSN6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 CHINA RESOURCES PHARMACEUTICAL GROUP LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `HK0000311099` · **Ticker:** `3320 (HK)`
+
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **2** กอง
 

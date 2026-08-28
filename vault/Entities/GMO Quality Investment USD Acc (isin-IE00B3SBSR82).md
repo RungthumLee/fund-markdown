@@ -7,6 +7,9 @@ figi: "BBG00194LVS7"
 share_class_figi: "BBG001TG1GX7"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 GMO Quality Investment USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B3SBSR82` · **Ticker:** `GMOQIDQ (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

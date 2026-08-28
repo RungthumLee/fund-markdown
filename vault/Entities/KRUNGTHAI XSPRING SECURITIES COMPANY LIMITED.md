@@ -3,6 +3,8 @@ title: "KRUNGTHAI XSPRING SECURITIES COMPANY LIMITED"
 entity_id: "isin:TH1050077185"
 isin: "TH1050077185"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 KRUNGTHAI XSPRING SECURITIES COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH1050077185`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

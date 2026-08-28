@@ -7,6 +7,9 @@ figi: "BBG000W0TGT5"
 share_class_figi: "BBG001SK26G9"
 figi_type: "Unit"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 SAMUI AIRPORT PROPERTY FUND (LEASEHOLD)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH0929010005` · **Ticker:** `SAMZF (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

@@ -6,6 +6,8 @@ ticker: "TCAPTB 2.63 04/22/31 26-1"
 figi: "BBG021TZG179"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 THANACHART CAPITAL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH008303B406` · **Ticker:** `TCAPTB 2.63 04/22/31 26-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG0042V8NN6"
 share_class_figi: "BBG0042V8NS1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Nam Long Investment Corp
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000NLG1` · **Ticker:** `NLG (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **7** กอง
 

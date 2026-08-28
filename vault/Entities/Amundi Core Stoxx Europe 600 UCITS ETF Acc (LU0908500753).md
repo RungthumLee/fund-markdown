@@ -7,6 +7,8 @@ figi: "BBG01LF0H1N9"
 share_class_figi: "BBG01LF0GZX4"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Amundi Core Stoxx Europe 600 UCITS ETF Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0908500753` · **Ticker:** `LYP6 (GR)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **8** กอง
 

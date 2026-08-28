@@ -6,6 +6,8 @@ ticker: "JPM 0 05/21/29 ."
 figi: "BBG0228ZTRQ8"
 figi_type: "EURO NON-DOLLAR"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 J.P.Morgan Strutured Product B.V.
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS1449317186` · **Ticker:** `JPM 0 05/21/29 . (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

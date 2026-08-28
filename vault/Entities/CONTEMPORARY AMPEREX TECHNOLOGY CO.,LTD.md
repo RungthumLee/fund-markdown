@@ -7,6 +7,9 @@ figi: "BBG01V4D4C15"
 share_class_figi: "BBG01TYB8S49"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 CONTEMPORARY AMPEREX TECHNOLOGY CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100006WS8` · **Ticker:** `C7A0 (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **5** กอง
 

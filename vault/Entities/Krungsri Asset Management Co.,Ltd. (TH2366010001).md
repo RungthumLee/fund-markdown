@@ -7,6 +7,8 @@ figi: "BBG000JQSCN9"
 share_class_figi: "BBG001T3QVT1"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Krungsri Asset Management Co.,Ltd.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH2366010001` · **Ticker:** `AYFES50 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

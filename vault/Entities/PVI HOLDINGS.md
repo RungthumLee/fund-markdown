@@ -7,6 +7,9 @@ figi: "BBG000RVYNF7"
 share_class_figi: "BBG001SVCF56"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 PVI HOLDINGS
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000PVI1` · **Ticker:** `PVI (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **2** กอง
 

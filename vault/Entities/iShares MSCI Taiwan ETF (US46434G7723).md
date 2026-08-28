@@ -7,6 +7,9 @@ figi: "BBG000CJLQ12"
 share_class_figi: "BBG001SFGL81"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 35
 indirect_fund_count: 0
 alias_count: 10
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares MSCI Taiwan ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46434G7723` · **Ticker:** `EWT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **35** กอง
 

@@ -6,6 +6,8 @@ ticker: "SHNHAN 1.732 11/13/30 3"
 figi: "BBG01YBX6YF2"
 figi_type: "SAMURAI"
 kind: "bond"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Shinhan Bank Co Ltd
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `JP541034CRB7` · **Ticker:** `SHNHAN 1.732 11/13/30 3 (NOT LISTED)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **2** กอง
 

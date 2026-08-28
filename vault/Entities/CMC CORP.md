@@ -7,6 +7,9 @@ figi: "BBG000Q6C4P8"
 share_class_figi: "BBG001T6MBB1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 CMC CORP
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000CMG2` · **Ticker:** `CMG (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **2** กอง
 

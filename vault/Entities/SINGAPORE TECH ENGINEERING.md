@@ -7,6 +7,9 @@ figi: "BBG000BX7RG0"
 share_class_figi: "BBG001SBFS13"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สิงคโปร์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 SINGAPORE TECH ENGINEERING
 
 **ประเภท:** หุ้น · **ISIN:** `SG1F60858221` · **Ticker:** `STE (SP)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

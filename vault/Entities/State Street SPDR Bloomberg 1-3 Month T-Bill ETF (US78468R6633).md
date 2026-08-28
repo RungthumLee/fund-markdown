@@ -7,6 +7,9 @@ figi: "BBG000RFQSH8"
 share_class_figi: "BBG001STKCW9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Street SPDR Bloomberg 1-3 Month T-Bill ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US78468R6633` · **Ticker:** `BIL (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

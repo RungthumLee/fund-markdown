@@ -7,6 +7,9 @@ figi: "BBG00DYNJGH9"
 share_class_figi: "BBG00DYNJH69"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 6
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 HWM US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US4432011082` · **Ticker:** `HWM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

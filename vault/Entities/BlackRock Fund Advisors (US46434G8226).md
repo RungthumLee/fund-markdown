@@ -7,6 +7,9 @@ figi: "BBG000BK38F5"
 share_class_figi: "BBG001S8SYN9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Fund Advisors
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46434G8226` · **Ticker:** `EWJ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

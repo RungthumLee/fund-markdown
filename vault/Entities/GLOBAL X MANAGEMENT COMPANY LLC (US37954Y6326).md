@@ -7,6 +7,9 @@ figi: "BBG00KX8KG94"
 share_class_figi: "BBG00KX8KH01"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 GLOBAL X MANAGEMENT COMPANY LLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US37954Y6326` · **Ticker:** `AIQ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

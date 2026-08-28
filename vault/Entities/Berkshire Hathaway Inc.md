@@ -6,6 +6,8 @@ ticker: "BRK 0.44 09/13/29"
 figi: "BBG00Q57D6X7"
 figi_type: "GLOBAL"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Berkshire Hathaway Inc
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS2049404366` · **Ticker:** `BRK 0.44 09/13/29 (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

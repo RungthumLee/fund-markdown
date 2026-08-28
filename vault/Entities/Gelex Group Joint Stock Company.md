@@ -7,6 +7,9 @@ figi: "BBG00B8G4S87"
 share_class_figi: "BBG00B8G4S96"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Gelex Group Joint Stock Company
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000GEX5` · **Ticker:** `GEX (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00TX08KS6"
 share_class_figi: "BBG00TX02WZ8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 FDLITY US EQU RES EN UCI-USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BKSBGS44` · **Ticker:** `FUSR (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

@@ -6,6 +6,8 @@ ticker: "BKCAM 0 09/24/27 25-2"
 figi: "BBG01XK83TS9"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 BANGKOK COMMERCIAL ASSET MANAGEMENT PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH6159037980` · **Ticker:** `BKCAM 0 09/24/27 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **6** กอง
 

@@ -6,6 +6,8 @@ ticker: "STANLN 0 10/07/30 EMTN"
 figi: "BBG01XMW5M89"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Standard Chartered Bank
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS3199889638` · **Ticker:** `STANLN 0 10/07/30 EMTN (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

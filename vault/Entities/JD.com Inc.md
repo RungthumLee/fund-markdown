@@ -7,6 +7,9 @@ figi: "BBG00VJFK433"
 share_class_figi: "BBG006GX5509"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 JD.com Inc
 
 **ประเภท:** หุ้น · **ISIN:** `KYG8208B1014` · **Ticker:** `013C (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **4** กอง
 

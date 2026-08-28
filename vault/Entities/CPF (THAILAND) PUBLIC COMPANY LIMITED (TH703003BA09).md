@@ -6,6 +6,8 @@ ticker: "CPFTH 2.54 10/22/31 25-2"
 figi: "BBG01Y36W626"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CPF (THAILAND) PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH703003BA09` · **Ticker:** `CPFTH 2.54 10/22/31 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **8** กอง
 

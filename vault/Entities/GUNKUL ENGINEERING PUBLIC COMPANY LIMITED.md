@@ -7,6 +7,9 @@ figi: "BBG000P668Z6"
 share_class_figi: "BBG001T5JJH4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 114
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 GUNKUL ENGINEERING PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH1041010Z03` · **Ticker:** `GUNKUL (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **114** กอง
 

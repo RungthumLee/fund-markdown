@@ -7,6 +7,9 @@ figi: "BBG01JPQKRK8"
 share_class_figi: "BBG01JPQ19D7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JP Morgan Asset Management Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE0003UVYC20` · **Ticker:** `JGPI (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

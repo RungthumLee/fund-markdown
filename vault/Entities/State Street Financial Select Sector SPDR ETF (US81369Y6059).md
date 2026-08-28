@@ -7,6 +7,9 @@ figi: "BBG000BJ29X7"
 share_class_figi: "BBG001S7T223"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Street Financial Select Sector SPDR ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US81369Y6059` · **Ticker:** `XLF (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

@@ -6,6 +6,8 @@ ticker: "KOREA 0.475 09/14/26 1"
 figi: "BBG01J61W8B3"
 figi_type: "SAMURAI"
 kind: "govbond"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ Korea International Bond
 
 **ประเภท:** พันธบัตร · **ISIN:** `JP541000AP93` · **Ticker:** `KOREA 0.475 09/14/26 1 (NOT LISTED)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **2** กอง
 

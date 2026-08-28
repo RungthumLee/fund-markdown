@@ -7,6 +7,9 @@ figi: "BBG000BNFLM9"
 share_class_figi: "BBG001S5SW40"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 9
 indirect_fund_count: 30
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Lam Research Corp
 
 **ประเภท:** หุ้น · **ISIN:** `US5128073062` · **Ticker:** `LRCX (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **9** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **30** กอง
 

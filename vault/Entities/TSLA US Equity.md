@@ -7,6 +7,9 @@ figi: "BBG000N9MNX3"
 share_class_figi: "BBG001SQKGD7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 18
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 TSLA US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US88160R1014` · **Ticker:** `TSLA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **18** กอง
 

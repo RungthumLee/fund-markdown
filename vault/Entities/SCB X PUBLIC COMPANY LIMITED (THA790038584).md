@@ -6,6 +6,8 @@ ticker: "SCBPCL 0 05/30/28 25-2"
 figi: "BBG01VBFPSZ7"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 37
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 SCB X PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `THA790038584` · **Ticker:** `SCBPCL 0 05/30/28 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **37** กอง
 

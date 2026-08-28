@@ -7,6 +7,9 @@ figi: "BBG01B8VGJT7"
 share_class_figi: "BBG01B9C7KJ6"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Bangkok capital asset management
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH9398010008` · **Ticker:** `BCAMFIX (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **14** กอง
 

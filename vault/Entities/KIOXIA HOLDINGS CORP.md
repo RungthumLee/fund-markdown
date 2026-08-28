@@ -7,6 +7,9 @@ figi: "BBG00Q52G5J3"
 share_class_figi: "BBG00Q52G5K1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ญี่ปุ่น"
+market_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 KIOXIA HOLDINGS CORP
 
 **ประเภท:** หุ้น · **ISIN:** `JP3236330001` · **Ticker:** `285A (JP)`
+
+**ตลาดซื้อขาย:** ญี่ปุ่น
 
 ถือโดยตรง **3** กอง
 

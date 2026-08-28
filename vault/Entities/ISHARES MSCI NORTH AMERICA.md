@@ -7,6 +7,9 @@ figi: "BBG000C352G2"
 share_class_figi: "BBG001SMQD47"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ISHARES MSCI NORTH AMERICA
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B14X4M10` · **Ticker:** `IQQN (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

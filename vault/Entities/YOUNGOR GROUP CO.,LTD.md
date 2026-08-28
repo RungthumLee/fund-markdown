@@ -7,6 +7,8 @@ figi: "BBG000C3CDX1"
 share_class_figi: "BBG001SBWTV9"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 YOUNGOR GROUP CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE000000XR2` · **Ticker:** `600177 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

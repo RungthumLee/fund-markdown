@@ -6,6 +6,8 @@ ticker: "CRCTB 0 05/11/29 26-1"
 figi: "BBG0227LN3S7"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CENTRAL RETAIL CORPORATION PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH9597039584` · **Ticker:** `CRCTB 0 05/11/29 26-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **10** กอง
 

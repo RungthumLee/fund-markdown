@@ -7,6 +7,9 @@ figi: "BBG00XD2XB89"
 share_class_figi: "BBG00XD1FF37"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "เนเธอร์แลนด์"
+country: "เนเธอร์แลนด์"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Amundi Luxembourg SA
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1407887089` · **Ticker:** `U13CXUSD (EO)`
+
+**ตลาดซื้อขาย:** เนเธอร์แลนด์ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **6** กอง
 

@@ -6,6 +6,8 @@ ticker: "MASPSP 0 07/16/26 84"
 figi: "BBG021T4KV86"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 4
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ Monetary Authority of Singapore
 
 **ประเภท:** พันธบัตร · **ISIN:** `SGXZ10216018` · **Ticker:** `MASPSP 0 07/16/26 84 (NOT LISTED)`
+
+**จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **9** กอง
 

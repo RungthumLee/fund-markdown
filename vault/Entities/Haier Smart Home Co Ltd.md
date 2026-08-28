@@ -7,6 +7,9 @@ figi: "BBG00YLQDPT3"
 share_class_figi: "BBG00Y6QRDN8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Haier Smart Home Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `CNE1000048K8` · **Ticker:** `690E (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **5** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000PNJ9F5"
 share_class_figi: "BBG001SLJR19"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Fund Advisors
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642867802` · **Ticker:** `EZA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

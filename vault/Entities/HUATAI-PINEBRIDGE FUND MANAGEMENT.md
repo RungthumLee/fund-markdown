@@ -7,6 +7,8 @@ figi: "BBG002VJYM30"
 share_class_figi: "BBG002VJYM94"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 HUATAI-PINEBRIDGE FUND MANAGEMENT
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `CNE100001DN0` · **Ticker:** `510300 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

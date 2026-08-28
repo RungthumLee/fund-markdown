@@ -7,6 +7,9 @@ figi: "BBG003MMK4F3"
 share_class_figi: "BBG003MMK4G2"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JPM Global Dividend C acc USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0329202922` · **Ticker:** `JPGDCUA (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

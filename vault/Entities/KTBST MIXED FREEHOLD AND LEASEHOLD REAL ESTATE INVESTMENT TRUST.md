@@ -7,6 +7,9 @@ figi: "BBG00ZNW0P28"
 share_class_figi: "BBG00ZNW0P37"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ KTBST MIXED FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `THA567010006` · **Ticker:** `KTBSTMR (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

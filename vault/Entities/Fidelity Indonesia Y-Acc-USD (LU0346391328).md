@@ -7,6 +7,9 @@ figi: "BBG000R8V597"
 share_class_figi: "BBG001T23QF4"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Fidelity Indonesia Y-Acc-USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0346391328` · **Ticker:** `FFINDOY (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

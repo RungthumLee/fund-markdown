@@ -7,6 +7,8 @@ figi: "BBG01H3S2D69"
 share_class_figi: "BBG01H3S2D78"
 figi_type: "Receipt"
 kind: "other"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-other, multi-alias]
 # • KRUNG THAI BANK PUBLIC COMPANY LIMITED
 
 **ประเภท:** อื่น ๆ · **ISIN:** `TH0150121000` · **Ticker:** `NVDA80 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

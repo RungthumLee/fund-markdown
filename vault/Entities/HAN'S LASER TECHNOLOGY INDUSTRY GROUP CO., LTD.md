@@ -7,6 +7,8 @@ figi: "BBG000KQKDW3"
 share_class_figi: "BBG001SJPZK8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 HAN'S LASER TECHNOLOGY INDUSTRY GROUP CO., LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE000001JQ1` · **Ticker:** `002008 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

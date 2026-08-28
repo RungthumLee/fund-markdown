@@ -7,6 +7,9 @@ figi: "BBG01FND0CC1"
 share_class_figi: "BBG01FND0CH6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 7
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 LIN US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `IE000S9YS762` · **Ticker:** `LIN (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **7** กอง
 

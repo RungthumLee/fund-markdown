@@ -3,6 +3,8 @@ title: "BLOAKAG LN Equity"
 entity_id: "isin:GB00BLNPLT49"
 isin: "GB00BLNPLT49"
 kind: "fund"
+domicile_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BLOAKAG LN Equity
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `GB00BLNPLT49`
+
+**จดทะเบียน:** สหราชอาณาจักร จาก ISIN
 
 ถือโดยตรง **2** กอง
 

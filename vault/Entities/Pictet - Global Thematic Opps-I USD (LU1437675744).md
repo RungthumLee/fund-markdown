@@ -7,6 +7,9 @@ figi: "BBG00DWV3YX3"
 share_class_figi: "BBG00DX9WK50"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Pictet - Global Thematic Opps-I USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1437675744` · **Ticker:** `PGTOIAU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

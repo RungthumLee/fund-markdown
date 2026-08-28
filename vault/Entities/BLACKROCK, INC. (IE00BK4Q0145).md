@@ -7,6 +7,9 @@ figi: "BBG00PT1C8N4"
 share_class_figi: "BBG00PT2Y1K6"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BLACKROCK, INC.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BK4Q0145` · **Ticker:** `BRTOXUA (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

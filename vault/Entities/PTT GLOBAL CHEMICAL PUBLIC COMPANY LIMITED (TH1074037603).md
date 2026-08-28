@@ -6,6 +6,8 @@ ticker: "PTTGC 3.21 06/15/27 22-2"
 figi: "BBG0185PK3B9"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 PTT GLOBAL CHEMICAL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH1074037603` · **Ticker:** `PTTGC 3.21 06/15/27 22-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

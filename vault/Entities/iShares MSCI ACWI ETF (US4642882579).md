@@ -7,6 +7,9 @@ figi: "BBG000TH6VB3"
 share_class_figi: "BBG001S56QV7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 64
 indirect_fund_count: 0
 alias_count: 19
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares MSCI ACWI ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642882579` · **Ticker:** `ACWI (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **64** กอง
 

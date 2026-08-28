@@ -7,6 +7,9 @@ figi: "BBG000GQPB11"
 share_class_figi: "BBG001SM32G3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 7
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 MELI US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US58733R1023` · **Ticker:** `MELI (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **7** กอง
 

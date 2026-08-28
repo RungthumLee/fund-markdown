@@ -7,6 +7,9 @@ figi: "BBG000D0WFF9"
 share_class_figi: "BBG001SM9FD1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BLACKROCK, INC.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B1FZS798` · **Ticker:** `IUSM (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **5** กอง
 

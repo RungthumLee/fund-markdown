@@ -7,6 +7,9 @@ figi: "BBG000BFJ5W6"
 share_class_figi: "BBG001S76H70"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 China Jushi Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `CNE000000YM1` · **Ticker:** `600176 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **2** กอง
 

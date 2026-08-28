@@ -6,6 +6,8 @@ ticker: "CPFTB V4.5 PERP 22-1"
 figi: "BBG015RKK5Z1"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Charoen Pokphand Foods Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0101A30013` · **Ticker:** `CPFTB V4.5 PERP 22-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

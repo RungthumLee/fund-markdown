@@ -7,6 +7,9 @@ figi: "BBG00XMLD0S1"
 share_class_figi: "BBG001T0LDY6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 H World Group Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `KYG465871120` · **Ticker:** `CL4 (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **3** กอง
 

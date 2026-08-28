@@ -7,6 +7,9 @@ figi: "BBG000NTFYM5"
 share_class_figi: "BBG001SKXPR1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ISHARES 1-3 YEAR TREASURY BO
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642874576` · **Ticker:** `SHY (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **11** กอง
 

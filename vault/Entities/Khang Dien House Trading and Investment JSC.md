@@ -7,6 +7,9 @@ figi: "BBG000Q7Z3F4"
 share_class_figi: "BBG001T6NN88"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Khang Dien House Trading and Investment JSC
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000KDH2` · **Ticker:** `KDH (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **4** กอง
 

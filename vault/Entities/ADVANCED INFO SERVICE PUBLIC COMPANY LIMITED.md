@@ -7,6 +7,9 @@ figi: "BBG000BL8SN5"
 share_class_figi: "BBG001S7HF54"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 448
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 ADVANCED INFO SERVICE PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH0268010Z03` · **Ticker:** `ADVANC (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **448** กอง
 

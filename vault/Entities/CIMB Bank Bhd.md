@@ -6,6 +6,8 @@ ticker: "CIMBMK 0 09/28/26 CP"
 figi: "BBG0210YRV66"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 5
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CIMB Bank Bhd
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `MYBRE2600314` · **Ticker:** `CIMBMK 0 09/28/26 CP (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

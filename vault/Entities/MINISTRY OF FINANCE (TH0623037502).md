@@ -6,6 +6,8 @@ ticker: "THAISB 3 05/08/27 17-2"
 figi: "BBG00GPW32V4"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ MINISTRY OF FINANCE
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH0623037502` · **Ticker:** `THAISB 3 05/08/27 17-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

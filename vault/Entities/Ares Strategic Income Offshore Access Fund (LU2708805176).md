@@ -3,6 +3,8 @@ title: "Ares Strategic Income Offshore Access Fund"
 entity_id: "isin:LU2708805176"
 isin: "LU2708805176"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Ares Strategic Income Offshore Access Fund
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2708805176`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

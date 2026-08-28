@@ -7,6 +7,9 @@ figi: "BBG01PSX0MQ3"
 share_class_figi: "BBG01PNK2PQ7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Midea Group Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100006M58` · **Ticker:** `1520 (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **7** กอง
 

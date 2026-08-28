@@ -7,6 +7,9 @@ figi: "BBG00NBPB0Y1"
 share_class_figi: "BBG00NBP9QG7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VANGUARD GROUP IRELAND LTD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BGYWSV06` · **Ticker:** `VSCA (SW)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

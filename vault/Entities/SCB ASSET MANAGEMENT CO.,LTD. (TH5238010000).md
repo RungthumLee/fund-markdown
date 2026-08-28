@@ -7,6 +7,9 @@ figi: "BBG0065S67Y0"
 share_class_figi: "BBG0065S67Z9"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 SCB ASSET MANAGEMENT CO.,LTD.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH5238010000` · **Ticker:** `SCBEUEQ (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

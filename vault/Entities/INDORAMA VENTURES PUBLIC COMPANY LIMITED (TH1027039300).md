@@ -6,6 +6,8 @@ ticker: "IVLTB 3.48 03/14/29 24-1"
 figi: "BBG01LYQJ8L6"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 INDORAMA VENTURES PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH1027039300` · **Ticker:** `IVLTB 3.48 03/14/29 24-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **12** กอง
 

@@ -7,6 +7,8 @@ figi: "BBG000BG4QM5"
 share_class_figi: "BBG001S7MYP5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 2
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 LENOVO GROUP LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `HK0992009065` · **Ticker:** `992 (HK)`
+
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

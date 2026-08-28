@@ -7,6 +7,8 @@ figi: "BBG0170LPVB8"
 share_class_figi: "BBG0170LPVC7"
 figi_type: "Receipt"
 kind: "other"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-other, multi-alias]
 # • KRUNG THAI BANK PUBLIC COMPANY LIMITED
 
 **ประเภท:** อื่น ๆ · **ISIN:** `TH0150120101` · **Ticker:** `TENCEN80 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG018LQQ1Z1"
 share_class_figi: "BBG018C70X27"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "เนเธอร์แลนด์"
+country: "เนเธอร์แลนด์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Digital Entertainment and Education UCITS ETF USD (Acc)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00023EZQ82` · **Ticker:** `CBUN (GR)`
+
+**ตลาดซื้อขาย:** เนเธอร์แลนด์ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

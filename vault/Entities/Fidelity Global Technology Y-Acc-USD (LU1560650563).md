@@ -7,6 +7,9 @@ figi: "BBG00G22PLB1"
 share_class_figi: "BBG00G2C1815"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Fidelity Global Technology Y-Acc-USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1560650563` · **Ticker:** `FFGTYAU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **7** กอง
 

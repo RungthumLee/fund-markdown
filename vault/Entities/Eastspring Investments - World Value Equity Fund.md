@@ -7,6 +7,9 @@ figi: "BBG01P84D8S4"
 share_class_figi: "BBG01P8549D5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Eastspring Investments - World Value Equity Fund
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2882331957` · **Ticker:** `EAIWVEE (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

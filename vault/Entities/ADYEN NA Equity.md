@@ -7,6 +7,9 @@ figi: "BBG00L088N79"
 share_class_figi: "BBG00389H4K6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เนเธอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 ADYEN NA Equity
 
 **ประเภท:** หุ้น · **ISIN:** `NL0012969182` · **Ticker:** `ADYEN (NA)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** เนเธอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

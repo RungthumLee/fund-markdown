@@ -6,6 +6,8 @@ ticker: "BAACTB 1.5 09/17/26 21-4"
 figi: "BBG012LWBPR3"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0651036905` · **Ticker:** `BAACTB 1.5 09/17/26 21-4 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

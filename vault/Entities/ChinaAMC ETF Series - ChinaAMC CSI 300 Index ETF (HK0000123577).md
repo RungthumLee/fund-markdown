@@ -7,6 +7,9 @@ figi: "BBG0036B09Y5"
 share_class_figi: "BBG006MKNN83"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 10
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000123577` · **Ticker:** `83188 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **9** กอง
 

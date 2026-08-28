@@ -7,6 +7,9 @@ figi: "BBG000C1K7N0"
 share_class_figi: "BBG001SCZVC0"
 figi_type: "ADR"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 7
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 HSBC Holdings PLC
 
 **ประเภท:** หุ้น · **ISIN:** `US4042804066` · **Ticker:** `HSBC (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **7** กอง
 

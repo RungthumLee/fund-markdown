@@ -3,6 +3,8 @@ title: "เปิดกรุงศรี The One Mild"
 entity_id: "isin:THB199010000"
 isin: "THB199010000"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 เปิดกรุงศรี The One Mild
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `THB199010000`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

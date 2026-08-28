@@ -7,6 +7,9 @@ figi: "BBG003QTS1B6"
 share_class_figi: "BBG003QTS1C5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 AB SICAV I - Low Volatility Equity Portfolio I Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0861579349` · **Ticker:** `ABELVID (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **4** กอง
 

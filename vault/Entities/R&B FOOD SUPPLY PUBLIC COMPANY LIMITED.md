@@ -7,6 +7,9 @@ figi: "BBG00P4YL6X2"
 share_class_figi: "BBG00P4YL6Y1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 31
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 R&B FOOD SUPPLY PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH9451010002` · **Ticker:** `RBF (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **31** กอง
 

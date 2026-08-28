@@ -7,6 +7,9 @@ figi: "BBG000K4ND22"
 share_class_figi: "BBG001S67ZC5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 8
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Chevron Corp
 
 **ประเภท:** หุ้น · **ISIN:** `US1667641005` · **Ticker:** `CVX (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **8** กอง
 

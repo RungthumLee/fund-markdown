@@ -7,6 +7,9 @@ figi: "BBG000BD8PN9"
 share_class_figi: "BBG001S5P6Q6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 BANK OF NEW YORK MELLON CORP
 
 **ประเภท:** หุ้น · **ISIN:** `US0640581007` · **Ticker:** `BNY (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

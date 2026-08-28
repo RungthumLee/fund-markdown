@@ -7,6 +7,9 @@ figi: "BBG0024LG845"
 share_class_figi: "BBG0024LG8W4"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 SS SPDR S&P AEROSPACE DEF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US78464A6313` · **Ticker:** `XAR (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

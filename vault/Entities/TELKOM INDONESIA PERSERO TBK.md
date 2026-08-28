@@ -7,6 +7,9 @@ figi: "BBG000BSZXP7"
 share_class_figi: "BBG001S70GF9"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อินโดนีเซีย"
+market_country: "อินโดนีเซีย"
+country: "อินโดนีเซีย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 TELKOM INDONESIA PERSERO TBK
 
 **ประเภท:** หุ้น · **ISIN:** `ID1000129000` · **Ticker:** `TLKM (IJ)`
+
+**ตลาดซื้อขาย:** อินโดนีเซีย
 
 ถือโดยตรง **3** กอง
 

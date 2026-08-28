@@ -7,6 +7,9 @@ figi: "BBG00L5F9F38"
 share_class_figi: "BBG00L5F9FV7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Stree Bank and Turst
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US81369Y8527` · **Ticker:** `XLC (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

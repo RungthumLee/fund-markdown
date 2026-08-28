@@ -6,6 +6,8 @@ ticker: "BTSTB 3.78 12/26/29 17-1"
 figi: "BBG00JF8HVZ9"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 BTS GROUP HOLDINGS PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0221039C06` · **Ticker:** `BTSTB 3.78 12/26/29 17-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

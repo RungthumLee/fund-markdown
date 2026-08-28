@@ -7,6 +7,9 @@ figi: "BBG000QJPZH6"
 share_class_figi: "BBG001SS80F0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 First Trust Natural Gas ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US33733E8075` · **Ticker:** `FCG (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

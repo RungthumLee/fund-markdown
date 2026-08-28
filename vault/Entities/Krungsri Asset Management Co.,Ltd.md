@@ -3,6 +3,8 @@ title: "Krungsri Asset Management Co.,Ltd."
 entity_id: "isin:THB266010008"
 isin: "THB266010008"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Krungsri Asset Management Co.,Ltd.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `THB266010008`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

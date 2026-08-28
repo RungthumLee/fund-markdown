@@ -7,6 +7,9 @@ figi: "BBG011RVGZP6"
 share_class_figi: "BBG011RVH0K7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 GLOBAL X MANAGEMENT CO LLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US37960A7357` · **Ticker:** `BKCH (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

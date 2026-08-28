@@ -7,6 +7,9 @@ figi: "BBG000BDMXJ1"
 share_class_figi: "BBG001S6PJP7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อินโดนีเซีย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 3
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 ASII IJ Equity
 
 **ประเภท:** หุ้น · **ISIN:** `ID1000122807` · **Ticker:** `ASII (IJ)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** อินโดนีเซีย จาก ISIN
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

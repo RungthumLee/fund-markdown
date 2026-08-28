@@ -7,6 +7,9 @@ figi: "BBG003T4VFC2"
 share_class_figi: "BBG003T4VFD1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 11
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Spotify Technology SA
 
 **ประเภท:** หุ้น · **ISIN:** `LU1778762911` · **Ticker:** `SPOT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **11** กอง
 

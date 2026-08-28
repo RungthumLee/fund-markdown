@@ -6,6 +6,8 @@ ticker: "SCCTB 0 11/25/27 24-3"
 figi: "BBG01R0GW7S2"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 46
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 THE SIAM CEMENT PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0003037B84` · **Ticker:** `SCCTB 0 11/25/27 24-3 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **46** กอง
 

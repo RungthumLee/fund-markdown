@@ -7,6 +7,9 @@ figi: "BBG000BRW5T9"
 share_class_figi: "BBG001SF1XW4"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Janus Henderson Glb Life Scn I2 USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE0002141913` · **Ticker:** `JANGLII (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

@@ -6,6 +6,8 @@ ticker: "EBIUH F 01/22/30"
 figi: "BBG01RN5Q8W1"
 figi_type: "EURO-DOLLAR"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Emirates NBD Bank PJSC
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS2976518972` · **Ticker:** `EBIUH F 01/22/30 (EURONEXT-DUBLIN)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

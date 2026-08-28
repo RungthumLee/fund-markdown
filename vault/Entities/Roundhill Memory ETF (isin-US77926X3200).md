@@ -7,6 +7,9 @@ figi: "BBG021DJBSP8"
 share_class_figi: "BBG021DJBTT2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 18
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Roundhill Memory ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US77926X3200` · **Ticker:** `DRAM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **18** กอง
 

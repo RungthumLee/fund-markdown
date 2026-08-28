@@ -6,6 +6,8 @@ figi: "BBG011WXRVW5"
 share_class_figi: "BBG011WXRVY3"
 figi_type: "ETP"
 kind: "fund"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Premia China STAR 50 ETF
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `3151 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **3** กอง
 

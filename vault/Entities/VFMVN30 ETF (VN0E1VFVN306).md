@@ -7,6 +7,9 @@ figi: "BBG006Y04469"
 share_class_figi: "BBG006Y04487"
 figi_type: "ETP"
 kind: "other"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-other, multi-alias]
 # • VFMVN30 ETF
 
 **ประเภท:** อื่น ๆ · **ISIN:** `VN0E1VFVN306` · **Ticker:** `E1VFVN30 (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **อื่น ๆ** แต่ Bloomberg ระบุว่าเป็น **ETP**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

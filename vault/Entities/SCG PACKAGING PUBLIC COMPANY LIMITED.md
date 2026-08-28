@@ -7,6 +7,9 @@ figi: "BBG00R45HT11"
 share_class_figi: "BBG001SNVHB2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 257
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 SCG PACKAGING PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH0098010Y05` · **Ticker:** `SCGP (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **257** กอง
 

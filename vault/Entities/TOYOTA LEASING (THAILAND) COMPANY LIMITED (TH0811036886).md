@@ -6,6 +6,8 @@ ticker: "TOYOTA 0 08/21/26 24-3"
 figi: "BBG01MZR4YP6"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 16
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 TOYOTA LEASING (THAILAND) COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0811036886` · **Ticker:** `TOYOTA 0 08/21/26 24-3 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **16** กอง
 

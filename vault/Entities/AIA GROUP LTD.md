@@ -7,6 +7,9 @@ figi: "BBG0016XR1Q8"
 share_class_figi: "BBG001T6WWK4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 3
 indirect_fund_count: 18
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 AIA GROUP LTD
 
 **ประเภท:** หุ้น · **ISIN:** `HK0000069689` · **Ticker:** `1299 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **18** กอง
 

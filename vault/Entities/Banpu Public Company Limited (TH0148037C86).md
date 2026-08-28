@@ -6,6 +6,8 @@ ticker: "BANPU 0 12/24/27 24-2"
 figi: "BBG01RJ4MPF4"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 17
 indirect_fund_count: 0
 alias_count: 3
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Banpu Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0148037C86` · **Ticker:** `BANPU 0 12/24/27 24-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **17** กอง
 

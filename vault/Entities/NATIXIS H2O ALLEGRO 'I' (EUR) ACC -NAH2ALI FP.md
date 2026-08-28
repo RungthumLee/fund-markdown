@@ -7,6 +7,8 @@ figi: "BBG001LPWPK5"
 share_class_figi: "BBG001V0X844"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ฝรั่งเศส"
+country: "ฝรั่งเศส"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 NATIXIS H2O ALLEGRO 'I' (EUR) ACC -NAH2ALI FP
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `FR0011006188` · **Ticker:** `NAH2ALI (FP)`
+
+**จดทะเบียน:** ฝรั่งเศส จาก ISIN
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000QF0RF1"
 share_class_figi: "BBG001SS36Q0"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ Quality Houses Business Complex Leasehold Real Estate Investment Trust
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `THC607010004` · **Ticker:** `QHBREIT (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

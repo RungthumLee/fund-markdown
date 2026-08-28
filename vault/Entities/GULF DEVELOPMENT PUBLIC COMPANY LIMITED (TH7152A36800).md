@@ -6,6 +6,8 @@ ticker: "GULFDV 3.5 08/18/26 2203"
 figi: "BBG0198XV8H8"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 17
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 GULF DEVELOPMENT PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH7152A36800` · **Ticker:** `GULFDV 3.5 08/18/26 2203 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **17** กอง
 

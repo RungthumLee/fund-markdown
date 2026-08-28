@@ -7,6 +7,9 @@ figi: "BBG01G0D17W2"
 share_class_figi: "BBG01G0CY204"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Defense ETF A USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE000YYE6WK5` · **Ticker:** `DFEN (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

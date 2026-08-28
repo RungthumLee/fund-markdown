@@ -7,6 +7,9 @@ figi: "BBG000J7HY82"
 share_class_figi: "BBG001T3JNC5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 199
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 TISCO FINANCIAL GROUP PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH0999010Z03` · **Ticker:** `TISCO (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **199** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00LBL15P4"
 share_class_figi: "BBG00LBXPGP8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 T ROWE PRICE LUXEMBOURG MANAGEMENT
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1845137733` · **Ticker:** `TRPGABQ (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **5** กอง
 

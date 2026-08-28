@@ -6,6 +6,8 @@ ticker: "CAGA 0 10/26/26 ICP"
 figi: "BBG021M5RHL9"
 figi_type: "DOMESTIC"
 kind: "other"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • CAGAMAS BERHAD
 
 **ประเภท:** อื่น ๆ · **ISIN:** `MYBSE2600544` · **Ticker:** `CAGA 0 10/26/26 ICP (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

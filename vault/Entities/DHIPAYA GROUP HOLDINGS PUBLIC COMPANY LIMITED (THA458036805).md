@@ -6,6 +6,8 @@ ticker: "TIPHTB 3.44 08/16/26 23-1"
 figi: "BBG01HX4D305"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 DHIPAYA GROUP HOLDINGS PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `THA458036805` · **Ticker:** `TIPHTB 3.44 08/16/26 23-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG001S2L4R1"
 share_class_figi: "BBG001V3B4V1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Zhongji Innolight Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100001CY9` · **Ticker:** `300308 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **6** กอง
 

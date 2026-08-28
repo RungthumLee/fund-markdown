@@ -7,6 +7,9 @@ figi: "BBG000BCTLF6"
 share_class_figi: "BBG001S5P0Y0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Bank of America Corp
 
 **ประเภท:** หุ้น · **ISIN:** `US0605051046` · **Ticker:** `BAC (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง
 

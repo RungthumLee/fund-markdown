@@ -7,6 +7,9 @@ figi: "BBG000QFV9X7"
 share_class_figi: "BBG001SS4B97"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 PetroVietnam Drilling and Well Services JSC
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000PVD2` · **Ticker:** `PVD (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **4** กอง
 

@@ -7,6 +7,8 @@ figi: "BBG009Q0HTY2"
 share_class_figi: "BBG008QQ4396"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 314
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 COM7 PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH6678010005` · **Ticker:** `COM7 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **314** กอง
 

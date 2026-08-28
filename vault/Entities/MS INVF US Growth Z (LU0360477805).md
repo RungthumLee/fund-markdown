@@ -7,6 +7,9 @@ figi: "BBG000R9MDW2"
 share_class_figi: "BBG001T2BTY8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 MS INVF US Growth Z
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0360477805` · **Ticker:** `MSUEGZU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

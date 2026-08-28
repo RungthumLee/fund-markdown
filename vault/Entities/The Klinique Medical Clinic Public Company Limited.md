@@ -7,6 +7,9 @@ figi: "BBG00GKS0C94"
 share_class_figi: "BBG00GKS0CB1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 The Klinique Medical Clinic Public Company Limited
 
 **ประเภท:** หุ้น · **ISIN:** `THB058010000` · **Ticker:** `KLINIQ (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **11** กอง
 

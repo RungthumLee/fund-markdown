@@ -3,6 +3,8 @@ title: "BANPU PUBLIC COMPANY LIMITED."
 entity_id: "isin:TH0148A76785"
 isin: "TH0148A76785"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 BANPU PUBLIC COMPANY LIMITED.
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0148A76785`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

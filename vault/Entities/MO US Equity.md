@@ -7,6 +7,9 @@ figi: "BBG000BP6LJ8"
 share_class_figi: "BBG001S5T8T5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 4
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 MO US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US02209S1033` · **Ticker:** `MO (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

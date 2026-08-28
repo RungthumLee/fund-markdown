@@ -7,6 +7,9 @@ figi: "BBG004DW5NB8"
 share_class_figi: "BBG004DW5NC7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "แคนาดา"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Shopify Inc
 
 **ประเภท:** หุ้น · **ISIN:** `CA82509L1076` · **Ticker:** `SHOP (CN)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** แคนาดา จาก ISIN
 
 ถือโดยตรง **3** กอง
 

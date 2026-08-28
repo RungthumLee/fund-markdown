@@ -6,6 +6,8 @@ ticker: "FABUH 0.1475 11/17/26 EMTN"
 figi: "BBG013BN7HX8"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 First Abu Dhabi Bank PJSC
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `CH1145096181` · **Ticker:** `FABUH 0.1475 11/17/26 EMTN (SIX)`
+
+**จดทะเบียน:** สวิตเซอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

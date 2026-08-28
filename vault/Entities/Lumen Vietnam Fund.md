@@ -7,6 +7,9 @@ figi: "BBG00KN0Q1F2"
 share_class_figi: "BBG00KNQXCV5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลิกเตนสไตน์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 9
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Lumen Vietnam Fund
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LI0408681091` · **Ticker:** `LUMENUS (LE)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลิกเตนสไตน์ จาก ISIN
 
 ถือโดยตรง **9** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG01J1LP430"
 share_class_figi: "BBG01J1LP500"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JP Morgan Asset Management Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46654Q7401` · **Ticker:** `JGLO (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

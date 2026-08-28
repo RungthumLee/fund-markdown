@@ -7,6 +7,9 @@ figi: "BBG000FKJRC5"
 share_class_figi: "BBG001S8L5H6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 ESTEE LAUDER COMPANIES INC.
 
 **ประเภท:** หุ้น · **ISIN:** `US5184391044` · **Ticker:** `EL (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

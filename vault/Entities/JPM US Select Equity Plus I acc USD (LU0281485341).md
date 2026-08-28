@@ -7,6 +7,9 @@ figi: "BBG001778069"
 share_class_figi: "BBG001TCQQT2"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JPM US Select Equity Plus I acc USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0281485341` · **Ticker:** `JPUSIAU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **10** กอง
 

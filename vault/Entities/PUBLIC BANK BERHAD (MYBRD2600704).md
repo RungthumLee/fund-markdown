@@ -6,6 +6,9 @@ ticker: "PBKMK 0 11/25/26 CP"
 figi: "BBG023800W01"
 figi_type: "DOMESTIC"
 kind: "other"
+domicile_country: "มาเลเซีย"
+market_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -15,6 +18,8 @@ tags: [entity, entity-other, multi-alias]
 # • PUBLIC BANK BERHAD
 
 **ประเภท:** อื่น ๆ · **ISIN:** `MYBRD2600704` · **Ticker:** `PBKMK 0 11/25/26 CP (NOT LISTED)`
+
+**ตลาดซื้อขาย:** มาเลเซีย
 
 ถือโดยตรง **3** กอง
 

@@ -3,6 +3,8 @@ title: "AP (THAILAND) PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0308B76981"
 isin: "TH0308B76981"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 AP (THAILAND) PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0308B76981`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

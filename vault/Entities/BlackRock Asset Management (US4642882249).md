@@ -7,6 +7,9 @@ figi: "BBG000BBM0N2"
 share_class_figi: "BBG001S7XDQ8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Asset Management
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642882249` · **Ticker:** `ICLN (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **7** กอง
 

@@ -6,6 +6,8 @@ ticker: "BNP 0 03/20/29 EMtN"
 figi: "BBG020ZB8SX8"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "ฝรั่งเศส"
+country: "ฝรั่งเศส"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 BNP PARIBAS
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `FR00140176Y9` · **Ticker:** `BNP 0 03/20/29 EMtN (NOT LISTED)`
+
+**จดทะเบียน:** ฝรั่งเศส จาก ISIN
 
 ถือโดยตรง **2** กอง
 

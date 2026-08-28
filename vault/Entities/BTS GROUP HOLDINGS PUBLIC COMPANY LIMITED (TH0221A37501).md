@@ -6,6 +6,8 @@ ticker: "BTSTB 3.85 05/29/27 22-2"
 figi: "BBG01BTQ1MJ5"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 BTS GROUP HOLDINGS PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0221A37501` · **Ticker:** `BTSTB 3.85 05/29/27 22-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

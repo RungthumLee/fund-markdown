@@ -7,6 +7,9 @@ figi: "BBG006FCJD95"
 share_class_figi: "BBG006FCJDB2"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Jupiter Merian Glb Eq Abs Rt I USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BLP5S684` · **Ticker:** `OMEIUSA (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **5** กอง
 

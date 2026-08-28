@@ -6,6 +6,8 @@ ticker: "BAC 0.4225 11/23/29 EMTN"
 figi: "BBG013FSFZ37"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Bank of America Corp
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `CH1142754329` · **Ticker:** `BAC 0.4225 11/23/29 EMTN (SIX)`
+
+**จดทะเบียน:** สวิตเซอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

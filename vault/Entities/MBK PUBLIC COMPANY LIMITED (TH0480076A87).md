@@ -3,6 +3,8 @@ title: "MBK PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0480076A87"
 isin: "TH0480076A87"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 MBK PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0480076A87`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

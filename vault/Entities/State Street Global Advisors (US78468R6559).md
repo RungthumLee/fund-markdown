@@ -7,6 +7,9 @@ figi: "BBG00M9BL8C3"
 share_class_figi: "BBG00M9BL931"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Street Global Advisors
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US78468R6559` · **Ticker:** `CNRG (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00DX2BCQ3"
 share_class_figi: "BBG00DY3MYG1"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "สหราชอาณาจักร"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Baillie Gifford & Co Ltd/United Kingdom
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `GB00BD5Z0Z54` · **Ticker:** `BGGGBNA (LN)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สหราชอาณาจักร จาก ISIN
 
 ถือโดยตรง **2** กอง
 

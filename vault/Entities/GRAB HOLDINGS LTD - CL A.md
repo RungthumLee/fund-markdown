@@ -7,6 +7,9 @@ figi: "BBG011768M53"
 share_class_figi: "BBG011768M71"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 GRAB HOLDINGS LTD - CL A
 
 **ประเภท:** หุ้น · **ISIN:** `KYG4124C1096` · **Ticker:** `GRAB (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

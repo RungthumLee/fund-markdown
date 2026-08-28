@@ -6,6 +6,8 @@ ticker: "THAIGB 1.25 03/12/28 ILB"
 figi: "BBG0046TBLK0"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 60
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ MINISTRY OF FINANCE
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH0623A38308` · **Ticker:** `THAIGB 1.25 03/12/28 ILB (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **60** กอง
 

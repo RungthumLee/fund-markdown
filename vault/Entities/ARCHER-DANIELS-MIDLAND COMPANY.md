@@ -7,6 +7,9 @@ figi: "BBG000BB6WG8"
 share_class_figi: "BBG001S5ND74"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 ARCHER-DANIELS-MIDLAND COMPANY
 
 **ประเภท:** หุ้น · **ISIN:** `US0394831020` · **Ticker:** `ADM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

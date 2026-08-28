@@ -7,6 +7,9 @@ figi: "BBG00HVT62W8"
 share_class_figi: "BBG00HVT62X7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 LION GLOBAL INVESTORS Ltd.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG1DJ3000008` · **Ticker:** `SREITS (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **4** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG0036JD867"
 share_class_figi: "BBG0036JD876"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 43
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 JMT NETWORK SERVICES PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH3925010Z05` · **Ticker:** `JMT (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **43** กอง
 

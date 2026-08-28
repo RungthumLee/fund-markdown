@@ -7,6 +7,9 @@ figi: "BBG000CD0060"
 share_class_figi: "BBG001SLTTR6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 13
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Vietnam Technological & Comm
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000TCB8` · **Ticker:** `TCB (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **13** กอง
 

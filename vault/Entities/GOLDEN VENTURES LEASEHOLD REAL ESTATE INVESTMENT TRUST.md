@@ -7,6 +7,9 @@ figi: "BBG00CG5GVK6"
 share_class_figi: "BBG00CG5GVJ8"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 21
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `TH7139010006` · **Ticker:** `GVREIT (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **21** กอง
 

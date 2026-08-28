@@ -7,6 +7,9 @@ figi: "BBG000Q0CS41"
 share_class_figi: "BBG001T66WN0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Schwab U.S. Large-Cap Growth ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US8085243009` · **Ticker:** `SCHG (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

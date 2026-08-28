@@ -6,6 +6,8 @@ ticker: "BANPTB 4.17 04/21/27 17-1"
 figi: "BBG00GBDPCD5"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 13
 indirect_fund_count: 0
 alias_count: 3
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Banpu Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0148037409` · **Ticker:** `BANPTB 4.17 04/21/27 17-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **13** กอง
 

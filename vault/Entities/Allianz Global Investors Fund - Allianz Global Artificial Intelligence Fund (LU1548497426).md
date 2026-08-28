@@ -7,6 +7,9 @@ figi: "BBG00GBDLKJ5"
 share_class_figi: "BBG00GBF3RF9"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 5
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 # 📦 Allianz Global Investors Fund - Allianz Global Artificial Intelligence Fund
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1548497426` · **Ticker:** `ALGAATU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

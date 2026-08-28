@@ -6,6 +6,8 @@ ticker: "TUTB 2.2 09/12/32 25-1"
 figi: "BBG01X7M5Q07"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 13
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 THAI UNION GROUP PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH045003C900` · **Ticker:** `TUTB 2.2 09/12/32 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **13** กอง
 

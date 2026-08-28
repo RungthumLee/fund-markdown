@@ -6,6 +6,8 @@ ticker: "PBKMK 0 08/17/26 Cp"
 figi: "BBG021TLWCQ7"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Public Bank Bhd
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `MYBRD2600456` · **Ticker:** `PBKMK 0 08/17/26 Cp (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

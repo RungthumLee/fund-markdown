@@ -7,6 +7,9 @@ figi: "BBG000PYGRT9"
 share_class_figi: "BBG001T64BB1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X MSCI China Consumer Discretionary ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US37950E4089` · **Ticker:** `CHIQ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

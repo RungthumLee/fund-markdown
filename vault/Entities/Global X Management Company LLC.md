@@ -7,6 +7,9 @@ figi: "BBG00G5CR8N0"
 share_class_figi: "BBG00G5CR9C0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X Management Company LLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US37954Y6730` · **Ticker:** `PAVE (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

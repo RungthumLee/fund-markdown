@@ -7,6 +7,9 @@ figi: "BBG000CH5208"
 share_class_figi: "BBG001S6WCJ1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 21
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 UNITEDHEALTH GROUP, INC.
 
 **ประเภท:** หุ้น · **ISIN:** `US91324P1021` · **Ticker:** `UNH (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **21** กอง
 

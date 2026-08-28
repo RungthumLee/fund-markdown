@@ -6,6 +6,8 @@ ticker: "CPFTB 2.02 01/23/30 26-1"
 figi: "BBG01ZT6SCL6"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 17
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Charoen Pokphand Foods Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0101A3A106` · **Ticker:** `CPFTB 2.02 01/23/30 26-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **17** กอง
 

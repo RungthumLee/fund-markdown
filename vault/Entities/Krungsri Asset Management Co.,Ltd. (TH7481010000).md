@@ -7,6 +7,9 @@ figi: "BBG00F37BDR7"
 share_class_figi: "BBG00F471MK4"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Krungsri Asset Management Co.,Ltd.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH7481010000` · **Ticker:** `KFAFIXI (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

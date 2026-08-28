@@ -7,6 +7,9 @@ figi: "BBG00Y2PPB14"
 share_class_figi: "BBG0113JGQG9"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 4
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Seagate Technology Holdings PLC
 
 **ประเภท:** หุ้น · **ISIN:** `IE00BKVD2N49` · **Ticker:** `STXN (MM)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

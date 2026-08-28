@@ -7,6 +7,9 @@ figi: "BBG000BCCRV3"
 share_class_figi: "BBG001S69GV4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เยอรมนี"
+market_country: "เยอรมนี"
+country: "เยอรมนี"
 fund_count: 4
 indirect_fund_count: 18
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Siemens AG
 
 **ประเภท:** หุ้น · **ISIN:** `DE0007236101` · **Ticker:** `SIE (GR)`
+
+**ตลาดซื้อขาย:** เยอรมนี
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **18** กอง
 

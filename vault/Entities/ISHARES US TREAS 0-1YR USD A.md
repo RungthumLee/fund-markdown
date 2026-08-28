@@ -7,6 +7,9 @@ figi: "BBG00NBPLL47"
 share_class_figi: "BBG00NBPHQ32"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ISHARES US TREAS 0-1YR USD A
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BGSF1X88` · **Ticker:** `IB01 (SW)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **5** กอง
 

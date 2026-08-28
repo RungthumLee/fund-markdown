@@ -7,6 +7,9 @@ figi: "BBG000C5Z1S3"
 share_class_figi: "BBG001S6P675"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 18
 indirect_fund_count: 68
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Micron Technology Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US5951121038` · **Ticker:** `MU (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **18** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **68** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BN2DC2"
 share_class_figi: "BBG001SDLP09"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 SALESFORCE INC
 
 **ประเภท:** หุ้น · **ISIN:** `US79466L3024` · **Ticker:** `CRM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

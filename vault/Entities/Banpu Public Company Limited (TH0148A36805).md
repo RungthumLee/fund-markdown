@@ -6,6 +6,8 @@ ticker: "BANPTB 3.1 08/10/26 24-1"
 figi: "BBG01MT46M78"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Banpu Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0148A36805` · **Ticker:** `BANPTB 3.1 08/10/26 24-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

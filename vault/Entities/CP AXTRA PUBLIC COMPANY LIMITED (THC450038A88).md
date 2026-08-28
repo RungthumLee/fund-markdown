@@ -6,6 +6,8 @@ ticker: "CPAXTP 0 10/20/28 25-2"
 figi: "BBG01Y1RB9V7"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 40
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CP AXTRA PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `THC450038A88` · **Ticker:** `CPAXTP 0 10/20/28 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **40** กอง
 

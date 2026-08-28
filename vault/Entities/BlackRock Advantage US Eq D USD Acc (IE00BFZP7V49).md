@@ -7,6 +7,9 @@ figi: "BBG00L1C41W3"
 share_class_figi: "BBG00L1LP917"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Advantage US Eq D USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BFZP7V49` · **Ticker:** `BRAUDUA (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **10** กอง
 

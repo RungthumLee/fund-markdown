@@ -6,6 +6,8 @@ ticker: "HSBC V4.5 06/07/29"
 figi: "BBG01GVDHN29"
 figi_type: "EURO NON-DOLLAR"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 HSBC Holdings PLC
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS2630484744` · **Ticker:** `HSBC V4.5 06/07/29 (LONDON)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

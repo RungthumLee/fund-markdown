@@ -6,6 +6,8 @@ ticker: "AMMMK 0 12/04/26 CP"
 figi: "BBG01YV3CN63"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 AmBank M Bhd
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `MYBRE2501348` · **Ticker:** `AMMMK 0 12/04/26 CP (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

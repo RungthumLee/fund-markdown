@@ -7,6 +7,9 @@ figi: "BBG000BQ8KV2"
 share_class_figi: "BBG001S5TRV0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 NUCOR CORPORATION
 
 **ประเภท:** หุ้น · **ISIN:** `US6703461052` · **Ticker:** `NUE (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

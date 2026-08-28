@@ -7,6 +7,8 @@ figi: "BBG00LSKRWZ0"
 share_class_figi: "BBG00LSLK2M5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BGF FinTech D2
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1861217161` · **Ticker:** `BGFFTD2 (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

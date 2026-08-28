@@ -7,6 +7,9 @@ figi: "BBG000H13601"
 share_class_figi: "BBG001SHHYT5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Expanded Tech Sector ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642875490` · **Ticker:** `IGM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

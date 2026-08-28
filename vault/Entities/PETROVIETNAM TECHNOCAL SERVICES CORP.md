@@ -7,6 +7,9 @@ figi: "BBG000TFTNF6"
 share_class_figi: "BBG001T01Y72"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 PETROVIETNAM TECHNOCAL SERVICES CORP
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000PVS0` · **Ticker:** `PVS (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **3** กอง
 

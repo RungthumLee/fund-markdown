@@ -7,6 +7,9 @@ figi: "BBG00XV39Q63"
 share_class_figi: "BBG00XVBWCF0"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 abrdn-Global Dynamic Div Z Grs MIncAUSD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2237444604` · **Ticker:** `ABGDDZG (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

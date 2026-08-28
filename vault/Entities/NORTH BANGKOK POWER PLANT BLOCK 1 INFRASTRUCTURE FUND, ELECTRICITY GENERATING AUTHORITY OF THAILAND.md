@@ -7,6 +7,9 @@ figi: "BBG009DTSBN2"
 share_class_figi: "BBG009DTSBM3"
 figi_type: "Unit"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 NORTH BANGKOK POWER PLANT BLOCK 1 INFRASTRUCTURE FUND, ELECTRICITY GENERATING AUTHORITY OF THAILAND
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH6585010007` · **Ticker:** `EGATIF (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **6** กอง
 

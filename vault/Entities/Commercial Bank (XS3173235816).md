@@ -3,6 +3,8 @@ title: "Commercial Bank"
 entity_id: "isin:XS3173235816"
 isin: "XS3173235816"
 kind: "other"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -12,6 +14,8 @@ tags: [entity, entity-other, multi-alias]
 # • Commercial Bank
 
 **ประเภท:** อื่น ๆ · **ISIN:** `XS3173235816`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG016C7S899"
 share_class_figi: "BBG0166VCJ69"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อินโดนีเซีย"
+market_country: "อินโดนีเซีย"
+country: "อินโดนีเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 GOTO GOJEK TOKOPEDIA TBK PT
 
 **ประเภท:** หุ้น · **ISIN:** `ID1000166903` · **Ticker:** `GOTO (IJ)`
+
+**ตลาดซื้อขาย:** อินโดนีเซีย
 
 ถือโดยตรง **2** กอง
 

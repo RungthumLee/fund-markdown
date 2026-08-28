@@ -7,6 +7,8 @@ figi: "BBG00B3XCS22"
 share_class_figi: "BBG00B3XCS13"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 1475 JP Equity
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `JP3048120004` · **Ticker:** `1475 (JP)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **10** กอง
 

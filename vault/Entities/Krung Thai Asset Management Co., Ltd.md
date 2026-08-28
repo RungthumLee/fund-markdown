@@ -7,6 +7,9 @@ figi: "BBG01BX59WJ6"
 share_class_figi: "BBG01BY86W93"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 16
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Krung Thai Asset Management Co., Ltd.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH7323B10008` · **Ticker:** `KTSFIPP (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **16** กอง
 

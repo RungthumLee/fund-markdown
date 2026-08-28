@@ -7,6 +7,8 @@ figi: "BBG000BQDB37"
 share_class_figi: "BBG001SBFVK5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+country: "ไอร์แลนด์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Janus Henderson Glb Rl EstEqInc I1qUSD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE0033534888` · **Ticker:** `JANREI1 (ID)`
+
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

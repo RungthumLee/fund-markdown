@@ -6,6 +6,8 @@ ticker: "AMMMK 0 06/22/27 CP"
 figi: "BBG0230ZCCW8"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 AmBank M Bhd
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `MYBRE2600686` · **Ticker:** `AMMMK 0 06/22/27 CP (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

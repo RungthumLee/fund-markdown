@@ -7,6 +7,9 @@ figi: "BBG01SN3NWY2"
 share_class_figi: "BBG01SN3NXT6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Street Bridgewater All Weather ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US78470P6300` · **Ticker:** `ALLW (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

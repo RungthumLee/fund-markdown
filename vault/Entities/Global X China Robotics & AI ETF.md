@@ -6,6 +6,8 @@ figi: "BBG00WGGT6X5"
 share_class_figi: "BBG00WGGT6Y4"
 figi_type: "ETP"
 kind: "fund"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X China Robotics & AI ETF
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `2807 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **2** กอง
 

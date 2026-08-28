@@ -7,6 +7,9 @@ figi: "BBG00NTLJZ76"
 share_class_figi: "BBG00NVC8CN8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 DWS Invest ESG Climate Opps USD TFC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1885667664` · **Ticker:** `DWSCTFU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

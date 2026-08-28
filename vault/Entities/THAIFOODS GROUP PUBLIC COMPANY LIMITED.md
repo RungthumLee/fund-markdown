@@ -7,6 +7,9 @@ figi: "BBG0079S7C27"
 share_class_figi: "BBG0079S7C09"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 91
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 THAIFOODS GROUP PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH6717010008` · **Ticker:** `TFG (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **91** กอง
 

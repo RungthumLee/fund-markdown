@@ -7,6 +7,9 @@ figi: "BBG000MB9TV3"
 share_class_figi: "BBG001SKBMQ3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Gemadept Corporation
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000GMD0` · **Ticker:** `GMD (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **12** กอง
 

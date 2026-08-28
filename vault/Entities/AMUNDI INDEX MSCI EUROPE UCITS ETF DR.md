@@ -6,6 +6,8 @@ figi: "BBG00Z1WK3K9"
 share_class_figi: "BBG00F33RM35"
 figi_type: "ETP"
 kind: "equity"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 AMUNDI INDEX MSCI EUROPE UCITS ETF DR
 
 **ประเภท:** หุ้น · **Ticker:** `CEU2 (LN)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หุ้น** แต่ Bloomberg ระบุว่าเป็น **ETP**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

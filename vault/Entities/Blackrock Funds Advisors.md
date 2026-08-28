@@ -7,6 +7,9 @@ figi: "BBG000Q8RVM1"
 share_class_figi: "BBG001SMDNB1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Blackrock Funds Advisors.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642871846` · **Ticker:** `FXI (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

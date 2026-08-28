@@ -7,6 +7,9 @@ figi: "BBG011VK65W4"
 share_class_figi: "BBG011VK6607"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X Asia Semiconductor ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000756236` · **Ticker:** `3119 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **4** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000Q0HQ40"
 share_class_figi: "BBG001T66ZC5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 NAURA TECHNOLOGY GROUP CO-A
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100000ML7` · **Ticker:** `002371 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BDW8C2"
 share_class_figi: "BBG001S8H7R6"
 figi_type: "Stapled Security"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 21
 indirect_fund_count: 0
 alias_count: 9
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 CapitaLand Ascott Trust
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SGXC16332337` · **Ticker:** `CLAS (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **21** กอง
 

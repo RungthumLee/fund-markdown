@@ -7,6 +7,9 @@ figi: "BBG000DPPFX2"
 share_class_figi: "BBG001SGGK90"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 17
 indirect_fund_count: 0
 alias_count: 10
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Hang Seng China Enterprises Index ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK2828013055` · **Ticker:** `2828 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **17** กอง
 

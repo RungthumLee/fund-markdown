@@ -7,6 +7,9 @@ figi: "BBG01JZHLW89"
 share_class_figi: "BBG01H9WR0D7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 SCG DECOR PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `THB722010006` · **Ticker:** `SCGD (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

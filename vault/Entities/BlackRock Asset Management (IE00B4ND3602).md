@@ -7,6 +7,9 @@ figi: "BBG002R2LB30"
 share_class_figi: "BBG001V10RY3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Asset Management
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B4ND3602` · **Ticker:** `IGLNEUR (X2)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **14** กอง
 

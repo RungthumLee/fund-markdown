@@ -7,6 +7,9 @@ figi: "BBG000BWNFZ9"
 share_class_figi: "BBG001S5XD28"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 WESTERN DIGITAL CORP - WDCUS
 
 **ประเภท:** หุ้น · **ISIN:** `US9581021055` · **Ticker:** `WDC (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

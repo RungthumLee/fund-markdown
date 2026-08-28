@@ -7,6 +7,9 @@ figi: "BBG0027F1TD5"
 share_class_figi: "BBG0027F1V40"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 INVESCO KBW BANK ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46138E6288` · **Ticker:** `KBWB (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

@@ -6,6 +6,8 @@ figi: "BBG013K7M6Y9"
 share_class_figi: "BBG013KKTZZ8"
 figi_type: "Open-End Fund"
 kind: "fund"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Man Funds VI plc
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `MAIGOIU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง
 

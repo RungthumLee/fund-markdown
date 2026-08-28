@@ -7,6 +7,9 @@ figi: "BBG00D2WVZX0"
 share_class_figi: "BBG00D32WXP8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 NOMURA IRELAND FUNDS PLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B3SHFF36` · **Ticker:** `NOINEIU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

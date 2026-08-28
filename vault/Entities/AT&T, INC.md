@@ -7,6 +7,9 @@ figi: "BBG000BSJK37"
 share_class_figi: "BBG001S5VWH2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 6
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 AT&T, INC.
 
 **ประเภท:** หุ้น · **ISIN:** `US00206R1023` · **Ticker:** `T (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

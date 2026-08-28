@@ -7,6 +7,8 @@ figi: "BBG000BJWDG4"
 share_class_figi: "BBG001S8RRR1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Core Nikkei 225 ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `JP3027710007` · **Ticker:** `48311019 (JP)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **10** กอง
 

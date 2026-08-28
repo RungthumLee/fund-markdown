@@ -7,6 +7,9 @@ figi: "BBG00LYB35P9"
 share_class_figi: "BBG00LYB2G94"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JP Morgan Asset Management Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BF4G7076` · **Ticker:** `JREUEUR (XS)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **11** กอง
 

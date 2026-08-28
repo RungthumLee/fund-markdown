@@ -7,6 +7,8 @@ figi: "BBG00MSDMCC8"
 share_class_figi: "BBG00MSDMCD7"
 figi_type: "Receipt"
 kind: "other"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-other, multi-alias]
 # • BUALUANG SECURITIES PUBLIC COMPANY LIMITED
 
 **ประเภท:** อื่น ๆ · **ISIN:** `TH0809120007` · **Ticker:** `E1VFVN30 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

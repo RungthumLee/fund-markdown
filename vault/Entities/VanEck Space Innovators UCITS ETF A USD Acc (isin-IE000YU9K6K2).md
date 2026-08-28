@@ -7,6 +7,9 @@ figi: "BBG018KLW5X9"
 share_class_figi: "BBG018KHVNC3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Space Innovators UCITS ETF A USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE000YU9K6K2` · **Ticker:** `JEDI (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

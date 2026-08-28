@@ -7,6 +7,9 @@ figi: "BBG01X6Z5CK8"
 share_class_figi: "BBG01X6Z1NC7"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ Centurion Accommodation REIT
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `SGXC43938841` · **Ticker:** `CAREIT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **12** กอง
 

@@ -6,6 +6,8 @@ ticker: "JGB 0.005 03/20/27 151"
 figi: "BBG016QDBP64"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ Japan Government Five Year Bond
 
 **ประเภท:** พันธบัตร · **ISIN:** `JP1051511N46` · **Ticker:** `JGB 0.005 03/20/27 151 (TOKYO)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **3** กอง
 

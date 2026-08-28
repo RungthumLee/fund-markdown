@@ -7,6 +7,9 @@ figi: "BBG0077Q7LF9"
 share_class_figi: "BBG0077Q7LG8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ARK Next Generation Internet ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US00214Q4010` · **Ticker:** `ARKW (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง
 

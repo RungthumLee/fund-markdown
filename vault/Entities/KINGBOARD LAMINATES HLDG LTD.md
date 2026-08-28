@@ -7,6 +7,9 @@ figi: "BBG000QG0SC0"
 share_class_figi: "BBG001SPPGX2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 KINGBOARD LAMINATES HLDG LTD
 
 **ประเภท:** หุ้น · **ISIN:** `KYG5257K1076` · **Ticker:** `KLN (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **7** กอง
 

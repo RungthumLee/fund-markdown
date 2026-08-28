@@ -7,6 +7,9 @@ figi: "BBG000JS7982"
 share_class_figi: "BBG001SJ9R06"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Schroder International Selection Fund Emerging Asia A Accumulation USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0181495838` · **Ticker:** `SCHEAAA (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

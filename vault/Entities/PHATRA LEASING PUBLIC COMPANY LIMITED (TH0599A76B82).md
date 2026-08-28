@@ -3,6 +3,8 @@ title: "PHATRA LEASING PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0599A76B82"
 isin: "TH0599A76B82"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 PHATRA LEASING PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0599A76B82`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

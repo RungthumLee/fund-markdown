@@ -7,6 +7,9 @@ figi: "BBG000BND699"
 share_class_figi: "BBG001SF62F6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เนเธอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 4
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 NXP SEMICONDUCTORS NV
 
 **ประเภท:** หุ้น · **ISIN:** `NL0009538784` · **Ticker:** `NXPI (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** เนเธอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

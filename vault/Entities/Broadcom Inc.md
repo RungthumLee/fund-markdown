@@ -7,6 +7,9 @@ figi: "BBG00KHY5S69"
 share_class_figi: "BBG00KHY5SY8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 13
 indirect_fund_count: 145
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Broadcom Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US11135F1012` · **Ticker:** `AVGO (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **13** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **145** กอง
 

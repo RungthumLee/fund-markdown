@@ -7,6 +7,9 @@ figi: "BBG000BJ7007"
 share_class_figi: "BBG001S7TCZ5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 9
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Street Technology Select Sector SPDR ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US81369Y8030` · **Ticker:** `XLK (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

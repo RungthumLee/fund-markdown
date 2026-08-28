@@ -6,6 +6,8 @@ ticker: "SPALI 0 08/06/27 25-2"
 figi: "BBG01WL4HYS3"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Supalai Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0371037886` · **Ticker:** `SPALI 0 08/06/27 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **12** กอง
 

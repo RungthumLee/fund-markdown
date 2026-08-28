@@ -7,6 +7,9 @@ figi: "BBG002DMN3L7"
 share_class_figi: "BBG002DMN4B6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares MSCI India ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46429B5984` · **Ticker:** `INDA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

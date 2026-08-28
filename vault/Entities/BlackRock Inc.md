@@ -7,6 +7,9 @@ figi: "BBG000BYMP93"
 share_class_figi: "BBG001ST7MZ9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B3VWN393` · **Ticker:** `SXRL (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **14** กอง
 

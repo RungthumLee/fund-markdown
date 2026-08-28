@@ -7,6 +7,9 @@ figi: "BBG000F7Y7M0"
 share_class_figi: "BBG001T2GWH5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 PIMCO GIS GlInGd Crdt Instl USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE0034085260` · **Ticker:** `PIMGIAD (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

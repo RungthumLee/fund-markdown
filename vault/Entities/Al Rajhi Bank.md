@@ -6,6 +6,8 @@ ticker: "RJHIAB 0 08/27/26 Cd"
 figi: "BBG01WYK5XZ0"
 figi_type: "EURO-DOLLAR"
 kind: "other"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • Al Rajhi Bank
 
 **ประเภท:** อื่น ๆ · **ISIN:** `XS3172182068` · **Ticker:** `RJHIAB 0 08/27/26 Cd (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

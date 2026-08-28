@@ -7,6 +7,9 @@ figi: "BBG01Q0BJK56"
 share_class_figi: "BBG01Q0B4SB8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JPM Nasdaq Equity Premium Income Active UCITS ETF USD Dist
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE000U9J8HX9` · **Ticker:** `JEPQ (SW)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG003RRLDP5"
 share_class_figi: "BBG003RRLDQ4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 LPB VN Equity
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000LPB7` · **Ticker:** `LPB (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **5** กอง
 

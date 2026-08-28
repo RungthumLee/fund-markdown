@@ -6,6 +6,8 @@ ticker: "JTDB 0 08/10/26 1361"
 figi: "BBG01ZZK2VX1"
 figi_type: "DOMESTIC"
 kind: "bill"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 JAPAN GOVERNMENT
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `JP1743611S26` · **Ticker:** `JTDB 0 08/10/26 1361 (NOT LISTED)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **2** กอง
 

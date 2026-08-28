@@ -7,6 +7,8 @@ figi: "BBG0080S0CG6"
 share_class_figi: "BBG0080S0CH5"
 figi_type: "Unit"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 26
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 3BB INTERNET INFRASTRUCTURE FUND
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH6247010007` · **Ticker:** `3BBIF (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **26** กอง
 

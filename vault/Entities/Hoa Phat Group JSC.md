@@ -7,6 +7,9 @@ figi: "BBG000TX8GM7"
 share_class_figi: "BBG001T0PHH2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 13
 indirect_fund_count: 3
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Hoa Phat Group JSC
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000HPG4` · **Ticker:** `HPG (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **13** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

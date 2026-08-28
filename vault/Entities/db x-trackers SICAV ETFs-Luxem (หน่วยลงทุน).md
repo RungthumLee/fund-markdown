@@ -6,6 +6,8 @@ figi: "BBG000RC82F4"
 share_class_figi: "BBG001ST2X53"
 figi_type: "ETP"
 kind: "fund"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 db x-trackers SICAV ETFs/Luxem
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `XFVT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **2** กอง
 

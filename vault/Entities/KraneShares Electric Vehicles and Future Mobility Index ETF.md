@@ -7,6 +7,9 @@ figi: "BBG00JRVTQX5"
 share_class_figi: "BBG00JRVTRM5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 KraneShares Electric Vehicles and Future Mobility Index ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US5007678270` · **Ticker:** `KARS (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

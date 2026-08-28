@@ -7,6 +7,9 @@ figi: "BBG021TL8589"
 share_class_figi: "BBG020NKFML9"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 VICTORY GIANT TECHNOLOGY
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100007JY1` · **Ticker:** `U4I (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **6** กอง
 

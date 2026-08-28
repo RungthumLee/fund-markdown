@@ -7,6 +7,9 @@ figi: "BBG01QSN4LX3"
 share_class_figi: "BBG01PPP65F6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อินโดนีเซีย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 2
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 AADI IJ Equity
 
 **ประเภท:** หุ้น · **ISIN:** `ID1000207509` · **Ticker:** `AADI (IJ)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** อินโดนีเซีย จาก ISIN
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

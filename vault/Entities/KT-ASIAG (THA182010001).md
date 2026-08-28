@@ -3,6 +3,8 @@ title: "KT-ASIAG"
 entity_id: "isin:THA182010001"
 isin: "THA182010001"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 KT-ASIAG
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `THA182010001`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

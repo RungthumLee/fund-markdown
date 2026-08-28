@@ -6,6 +6,8 @@ ticker: "LHTB 3.63 10/09/26 23-2"
 figi: "BBG01JNF3VJ6"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 22
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 LAND AND HOUSES PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0143036A07` · **Ticker:** `LHTB 3.63 10/09/26 23-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **22** กอง
 

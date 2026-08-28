@@ -7,6 +7,9 @@ figi: "BBG000SZKQK9"
 share_class_figi: "BBG001T5HRZ8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Polar Capital Global Tech I Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B42NVC37` · **Ticker:** `POLGTIU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

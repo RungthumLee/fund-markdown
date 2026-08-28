@@ -7,6 +7,9 @@ figi: "BBG008FL3LN4"
 share_class_figi: "BBG008D8G6Z1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BQT3WG13` · **Ticker:** `36BZ (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **9** กอง
 

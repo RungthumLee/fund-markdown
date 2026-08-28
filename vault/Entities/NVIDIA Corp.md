@@ -7,6 +7,9 @@ figi: "BBG000BBJQV0"
 share_class_figi: "BBG001S5TZJ6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 19
 indirect_fund_count: 201
 alias_count: 9
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 NVIDIA Corp
 
 **ประเภท:** หุ้น · **ISIN:** `US67066G1040` · **Ticker:** `NVDA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **19** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **201** กอง
 

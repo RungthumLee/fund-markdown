@@ -7,6 +7,8 @@ figi: "BBG000P9FRH8"
 share_class_figi: "BBG001SL72W3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Asia Trust - iShares FTSE A50 China Index ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK2823028546` · **Ticker:** `2823 (HK)`
+
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **3** กอง
 

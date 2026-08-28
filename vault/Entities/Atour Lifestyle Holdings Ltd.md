@@ -7,6 +7,9 @@ figi: "BBG011C6KJG8"
 share_class_figi: "BBG011C6KK93"
 figi_type: "ADR"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Atour Lifestyle Holdings Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `US04965M1062` · **Ticker:** `ATAT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

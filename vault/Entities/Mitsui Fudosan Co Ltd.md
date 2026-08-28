@@ -7,6 +7,9 @@ figi: "BBG000BGXQ34"
 share_class_figi: "BBG001S6BML9"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ญี่ปุ่น"
+market_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 1
 indirect_fund_count: 5
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Mitsui Fudosan Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `JP3893200000` · **Ticker:** `8801 (JP)`
+
+**ตลาดซื้อขาย:** ญี่ปุ่น
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000VZH749"
 share_class_figi: "BBG001T5L082"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JFVNOPP HK_JPMFund
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000055811` · **Ticker:** `JFVNOPP (HK)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **2** กอง
 

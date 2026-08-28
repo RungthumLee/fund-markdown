@@ -6,6 +6,8 @@ ticker: "BJCTB 2.41 07/09/31 25-1"
 figi: "BBG01VZF4DJ5"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 43
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 BERLI JUCKER PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH000203B703` · **Ticker:** `BJCTB 2.41 07/09/31 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **43** กอง
 

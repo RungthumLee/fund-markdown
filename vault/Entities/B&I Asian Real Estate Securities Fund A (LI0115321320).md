@@ -7,6 +7,9 @@ figi: "BBG001732028"
 share_class_figi: "BBG001TCPZ95"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลิกเตนสไตน์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 B&I Asian Real Estate Securities Fund A
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LI0115321320` · **Ticker:** `BIARESA (LE)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลิกเตนสไตน์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

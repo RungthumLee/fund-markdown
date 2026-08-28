@@ -7,6 +7,9 @@ figi: "BBG000JNRV73"
 share_class_figi: "BBG001SJ8480"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "เยอรมนี"
+market_country: "เยอรมนี"
+country: "เยอรมนี"
 fund_count: 17
 indirect_fund_count: 0
 alias_count: 9
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares STOXX Europe 600 UCITS ETF (DE) EUR (Dist)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `DE0002635307` · **Ticker:** `SXXPIEX (GR)`
+
+**ตลาดซื้อขาย:** เยอรมนี
 
 ถือโดยตรง **17** กอง
 

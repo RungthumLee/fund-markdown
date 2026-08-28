@@ -7,6 +7,9 @@ figi: "BBG000KCT1S6"
 share_class_figi: "BBG001T8HW63"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JP Morgan Asset Management Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0247995813` · **Ticker:** `JPMESAI (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **8** กอง
 

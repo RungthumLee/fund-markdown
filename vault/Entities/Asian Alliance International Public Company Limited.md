@@ -7,6 +7,9 @@ figi: "BBG017186K30"
 share_class_figi: "BBG003TCGYP6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Asian Alliance International Public Company Limited
 
 **ประเภท:** หุ้น · **ISIN:** `THA984010001` · **Ticker:** `AAI (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

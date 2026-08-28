@@ -7,6 +7,9 @@ figi: "BBG00V57V2K9"
 share_class_figi: "BBG00V314SG2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 First Trust Nasdaq Cybersecurity UCITS ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BF16M727` · **Ticker:** `CIBR1USD (XS)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **5** กอง
 

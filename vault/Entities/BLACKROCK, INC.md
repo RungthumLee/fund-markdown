@@ -7,6 +7,9 @@ figi: "BBG00JC3KRN1"
 share_class_figi: "BBG00J5HKP70"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BLACKROCK, INC.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BZ043R46` · **Ticker:** `AGGUUSD (X2)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **9** กอง
 

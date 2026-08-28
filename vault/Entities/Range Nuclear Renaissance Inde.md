@@ -7,6 +7,9 @@ figi: "BBG01KN5YW63"
 share_class_figi: "BBG01KN5YX16"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Range Nuclear Renaissance Inde
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US3015054758` · **Ticker:** `NUKZ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

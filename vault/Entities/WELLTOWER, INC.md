@@ -7,6 +7,9 @@ figi: "BBG000BKY1G5"
 share_class_figi: "BBG001S5RTQ4"
 figi_type: "REIT"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 14
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 # 📦 WELLTOWER, INC.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US95040Q1040` · **Ticker:** `WELL (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หน่วยลงทุน** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

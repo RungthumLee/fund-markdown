@@ -6,6 +6,8 @@ ticker: "CPNRET 0 03/24/28 25-1"
 figi: "BBG01T1PKN69"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CPN RETAIL GROWTH LEASEHOLD REIT
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH8707038387` · **Ticker:** `CPNRET 0 03/24/28 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **8** กอง
 

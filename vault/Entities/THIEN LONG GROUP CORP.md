@@ -7,6 +7,9 @@ figi: "BBG000QBPM64"
 share_class_figi: "BBG001T6SHT3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 THIEN LONG GROUP CORP
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000TLG8` · **Ticker:** `TLG (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00M1C4XG9"
 share_class_figi: "BBG00D0FQPG6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 CHINA TOWER CORP. LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100006V65` · **Ticker:** `CHWRF (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG001NNL793"
 share_class_figi: "BBG001V16343"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 15
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Stree Bank and Turst
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B4613386` · **Ticker:** `SYBM (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **15** กอง
 

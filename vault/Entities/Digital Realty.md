@@ -7,6 +7,9 @@ figi: "BBG013PM4537"
 share_class_figi: "BBG013PM4573"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 12
 indirect_fund_count: 8
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, held-indirectly, multi-alias]
 # 🏗️ Digital Realty
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `SGXC50067435` · **Ticker:** `DCREIT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **12** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **8** กอง
 

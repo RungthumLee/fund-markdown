@@ -7,6 +7,8 @@ figi: "BBG00L1DTLB3"
 share_class_figi: "BBG00L1LJFC8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 UBS(Lux) Invm CHN A Opp USD IA2 Acc USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1675058645` · **Ticker:** `UBCIA2A (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

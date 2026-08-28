@@ -7,6 +7,8 @@ figi: "BBG00DYQ3MJ4"
 share_class_figi: "BBG00DYQ3MK2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 CONTEMPORARY AMPEREX TECHNOLOGY CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100003662` · **Ticker:** `300750 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

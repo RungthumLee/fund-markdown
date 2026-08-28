@@ -7,6 +7,9 @@ figi: "BBG000C1L679"
 share_class_figi: "BBG001SDJVG2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ISHARES SELECT DIVIDEND ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642871689` · **Ticker:** `DVY (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

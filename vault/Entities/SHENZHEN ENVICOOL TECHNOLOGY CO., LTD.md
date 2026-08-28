@@ -7,6 +7,8 @@ figi: "BBG007FC3XL2"
 share_class_figi: "BBG007FC3XM1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 SHENZHEN ENVICOOL TECHNOLOGY CO., LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100002CC3` · **Ticker:** `002837 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

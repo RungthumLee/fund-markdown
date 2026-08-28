@@ -7,6 +7,9 @@ figi: "BBG020ZHBNC5"
 share_class_figi: "BBG020ZHBNT7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สวิตเซอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 ROP SW Equity
 
 **ประเภท:** หุ้น · **ISIN:** `CH1499059983` · **Ticker:** `ROP (SW)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สวิตเซอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

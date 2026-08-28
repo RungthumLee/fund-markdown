@@ -7,6 +7,9 @@ figi: "BBG000BVZ4F5"
 share_class_figi: "BBG001SFB7R6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 37
 indirect_fund_count: 0
 alias_count: 15
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Core S&P 500 ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642872000` · **Ticker:** `IVV (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **37** กอง
 

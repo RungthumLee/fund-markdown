@@ -7,6 +7,9 @@ figi: "BBG00GM96YW4"
 share_class_figi: "BBG00GM96YX3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 TRIPLE I LOGISTICS PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH8127010008` · **Ticker:** `III (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

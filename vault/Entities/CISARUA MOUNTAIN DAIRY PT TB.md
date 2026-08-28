@@ -7,6 +7,9 @@ figi: "BBG013G5Z068"
 share_class_figi: "BBG013G5Z086"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อินโดนีเซีย"
+market_country: "อินโดนีเซีย"
+country: "อินโดนีเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 CISARUA MOUNTAIN DAIRY PT TB
 
 **ประเภท:** หุ้น · **ISIN:** `ID1000164700` · **Ticker:** `CMRY (IJ)`
+
+**ตลาดซื้อขาย:** อินโดนีเซีย
 
 ถือโดยตรง **2** กอง
 

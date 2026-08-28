@@ -7,6 +7,9 @@ figi: "BBG000Q89NG6"
 share_class_figi: "BBG001SMD2X3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Vanguard Real Estate Index Fund ETF Shares
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US9229085538` · **Ticker:** `VNQ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

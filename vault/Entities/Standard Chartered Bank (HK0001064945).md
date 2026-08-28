@@ -6,6 +6,8 @@ ticker: "STANLN 3.5 10/14/27 EMTN"
 figi: "BBG01Q5N9S40"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Standard Chartered Bank
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `HK0001064945` · **Ticker:** `STANLN 3.5 10/14/27 EMTN (LONDON)`
+
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -6,6 +6,8 @@ ticker: "CPALTB 2.34 02/23/30 25-2"
 figi: "BBG01VVFR2Z0"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 29
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CP ALL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0737A3A207` · **Ticker:** `CPALTB 2.34 02/23/30 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **29** กอง
 

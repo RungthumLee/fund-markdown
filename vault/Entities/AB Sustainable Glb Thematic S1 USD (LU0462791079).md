@@ -7,6 +7,8 @@ figi: "BBG000SJ6QW8"
 share_class_figi: "BBG001T5ZZ26"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 AB Sustainable Glb Thematic S1 USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0462791079` · **Ticker:** `ALGTS1U (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BR8S07"
 share_class_figi: "BBG001SBM3X5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 BYD Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100000296` · **Ticker:** `BY6 (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **4** กอง
 

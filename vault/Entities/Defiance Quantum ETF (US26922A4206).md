@@ -7,6 +7,9 @@ figi: "BBG00LWJ39P6"
 share_class_figi: "BBG00LWJ3BF2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Defiance Quantum ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US26922A4206` · **Ticker:** `QTUM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง
 

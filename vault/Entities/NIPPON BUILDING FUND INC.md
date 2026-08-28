@@ -7,6 +7,9 @@ figi: "BBG000HG80M2"
 share_class_figi: "BBG001S641M2"
 figi_type: "REIT"
 kind: "fund"
+domicile_country: "ญี่ปุ่น"
+market_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 1
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 # 📦 NIPPON BUILDING FUND INC.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `JP3027670003` · **Ticker:** `8951 (JP)`
+
+**ตลาดซื้อขาย:** ญี่ปุ่น
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หน่วยลงทุน** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

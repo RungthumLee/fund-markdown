@@ -7,6 +7,9 @@ figi: "BBG0077VNXV6"
 share_class_figi: "BBG0077VNXW5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 2
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 PAYPAL HOLDING PLC
 
 **ประเภท:** หุ้น · **ISIN:** `US70450Y1038` · **Ticker:** `PYPL (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

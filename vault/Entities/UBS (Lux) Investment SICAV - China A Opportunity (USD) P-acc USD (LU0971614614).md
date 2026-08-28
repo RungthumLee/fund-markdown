@@ -7,6 +7,8 @@ figi: "BBG0080GLZG8"
 share_class_figi: "BBG0080GLZH7"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 UBS (Lux) Investment SICAV - China A Opportunity (USD) P-acc USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0971614614` · **Ticker:** `UBCAPA2 (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00M4FHD24"
 share_class_figi: "BBG00LLV9WX5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 22
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Meituan Class B
 
 **ประเภท:** หุ้น · **ISIN:** `KYG596691041` · **Ticker:** `MPNGF (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **22** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000F1ZSQ2"
 share_class_figi: "BBG001SKNNS6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 MA US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US57636Q1040` · **Ticker:** `MA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000RJ11F8"
 share_class_figi: "BBG001STPLG2"
 figi_type: "Unit"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Capitaland India Trust operates as a property trust
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG1V35936920` · **Ticker:** `CLINT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **6** กอง
 

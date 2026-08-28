@@ -6,6 +6,8 @@ ticker: "WHARTB 3.42 01/29/27 24-1"
 figi: "BBG01L87PR92"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 WHA PREMIUM GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH8497A37103` · **Ticker:** `WHARTB 3.42 01/29/27 24-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **6** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG012F447W4"
 share_class_figi: "BBG012G5W9R1"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 United CIO Growth T USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SGXZ33899576` · **Ticker:** `UNEGSTU (SP)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

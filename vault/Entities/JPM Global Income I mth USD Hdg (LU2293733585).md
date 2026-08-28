@@ -7,6 +7,9 @@ figi: "BBG00Z8XC9V4"
 share_class_figi: "BBG00Z92SQ55"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JPM Global Income I mth USD Hdg
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2293733585` · **Ticker:** `JPMUHID (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

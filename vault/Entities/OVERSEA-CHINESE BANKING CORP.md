@@ -7,6 +7,9 @@ figi: "BBG000BFDN17"
 share_class_figi: "BBG001S6NQB8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 5
 indirect_fund_count: 6
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 OVERSEA-CHINESE BANKING CORP
 
 **ประเภท:** หุ้น · **ISIN:** `SG1S04926220` · **Ticker:** `OCBC (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

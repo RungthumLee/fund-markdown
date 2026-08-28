@@ -3,6 +3,8 @@ title: "MITR PHOL SUGAR CORPORATION COMPANY LIMITED"
 entity_id: "isin:TH0969C76889"
 isin: "TH0969C76889"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 MITR PHOL SUGAR CORPORATION COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0969C76889`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

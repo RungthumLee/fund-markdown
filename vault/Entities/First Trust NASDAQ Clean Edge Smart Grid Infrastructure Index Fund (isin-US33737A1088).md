@@ -7,6 +7,9 @@ figi: "BBG000PW59Q8"
 share_class_figi: "BBG001T61KB4"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 13
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US33737A1088` · **Ticker:** `GRID (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **14** กอง
 

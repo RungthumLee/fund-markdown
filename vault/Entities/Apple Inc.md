@@ -7,6 +7,9 @@ figi: "BBG000B9XRY4"
 share_class_figi: "BBG001S5N8V8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 19
 indirect_fund_count: 152
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Apple Inc.
 
 **ประเภท:** หุ้น · **ISIN:** `US0378331005` · **Ticker:** `AAPL (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **19** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **152** กอง
 

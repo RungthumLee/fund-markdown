@@ -7,6 +7,9 @@ figi: "BBG000BBPFB9"
 share_class_figi: "BBG001S5NMM7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 18
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 APPLIED MATERIALS, INC.
 
 **ประเภท:** หุ้น · **ISIN:** `US0382221051` · **Ticker:** `AMAT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **18** กอง
 

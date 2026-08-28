@@ -7,6 +7,9 @@ figi: "BBG000NCTHL5"
 share_class_figi: "BBG001SKQLN2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "เยอรมนี"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BLACKROCK ASEET MANAGEMENT (DEUTSCHLAND) AG
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `DE000A0H08S0` · **Ticker:** `SXTPEX (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** เยอรมนี จาก ISIN
 
 ถือโดยตรง **2** กอง
 

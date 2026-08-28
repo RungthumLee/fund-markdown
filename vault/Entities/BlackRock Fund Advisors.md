@@ -7,6 +7,9 @@ figi: "BBG000JP3063"
 share_class_figi: "BBG001SJ8F58"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 24
 indirect_fund_count: 0
 alias_count: 11
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Fund Advisors
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642875235` · **Ticker:** `SOXX (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **24** กอง
 

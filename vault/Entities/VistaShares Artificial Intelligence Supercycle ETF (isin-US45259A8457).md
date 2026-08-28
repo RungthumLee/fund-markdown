@@ -7,6 +7,9 @@ figi: "BBG01R2TJN20"
 share_class_figi: "BBG01R2TJP25"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VistaShares Artificial Intelligence Supercycle ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US45259A8457` · **Ticker:** `AIS (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

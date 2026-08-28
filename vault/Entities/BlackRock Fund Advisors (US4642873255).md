@@ -7,6 +7,9 @@ figi: "BBG000L77VV0"
 share_class_figi: "BBG001SJX8Q3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Fund Advisors
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642873255` · **Ticker:** `IXJ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง
 

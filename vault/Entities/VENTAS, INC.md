@@ -7,6 +7,9 @@ figi: "BBG000FRVHB9"
 share_class_figi: "BBG001S9T7M6"
 figi_type: "REIT"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 3
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 VENTAS, INC.
 
 **ประเภท:** หุ้น · **ISIN:** `US92276F1003` · **Ticker:** `VTR (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หุ้น** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

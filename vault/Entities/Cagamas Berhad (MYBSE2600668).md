@@ -6,6 +6,8 @@ ticker: "CAGA 0 05/07/27 ICP"
 figi: "BBG021ZSNTR7"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Cagamas Berhad
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `MYBSE2600668` · **Ticker:** `CAGA 0 05/07/27 ICP (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

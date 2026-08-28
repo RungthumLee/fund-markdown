@@ -7,6 +7,9 @@ figi: "BBG00K4PN401"
 share_class_figi: "BBG00K5VPKT8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Wellington Asia Tech USD S Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1751457539` · **Ticker:** `WEATSUA (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **5** กอง
 

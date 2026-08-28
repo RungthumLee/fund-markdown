@@ -6,6 +6,8 @@ ticker: "SITB 0 11/10/26 182"
 figi: "BBG021ZRNRH4"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ Singapore Treasury Bill
 
 **ประเภท:** พันธบัตร · **ISIN:** `SGXZ76155910` · **Ticker:** `SITB 0 11/10/26 182 (NOT LISTED)`
+
+**จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

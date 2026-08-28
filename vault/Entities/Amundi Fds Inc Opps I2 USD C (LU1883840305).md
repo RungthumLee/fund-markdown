@@ -7,6 +7,8 @@ figi: "BBG00NWNDT96"
 share_class_figi: "BBG00NX9VVJ0"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Amundi Fds Inc Opps I2 USD C
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1883840305` · **Ticker:** `APIOI2U (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **9** กอง
 

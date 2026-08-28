@@ -7,6 +7,8 @@ figi: "BBG00KVGJBK8"
 share_class_figi: "BBG00KVGJBL7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 126
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 PRARAM 9 HOSPITAL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH8794010000` · **Ticker:** `PR9 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **126** กอง
 

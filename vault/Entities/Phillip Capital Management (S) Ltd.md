@@ -7,6 +7,8 @@ figi: "BBG01LVBPH35"
 share_class_figi: "BBG01LVBPH44"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Phillip Capital Management (S) Ltd
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SGXC55887332` · **Ticker:** `MCNA50 (SP)`
+
+**จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

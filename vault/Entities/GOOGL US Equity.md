@@ -7,6 +7,9 @@ figi: "BBG009S39JX6"
 share_class_figi: "BBG009S39JY5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 GOOGL US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US02079K3059` · **Ticker:** `GOOGL (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **12** กอง
 

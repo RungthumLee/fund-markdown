@@ -3,6 +3,8 @@ title: "LAND AND HOUSES BANK PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH3554077281"
 isin: "TH3554077281"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 LAND AND HOUSES BANK PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH3554077281`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

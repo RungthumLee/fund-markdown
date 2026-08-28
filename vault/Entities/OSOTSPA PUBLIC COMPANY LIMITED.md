@@ -7,6 +7,9 @@ figi: "BBG00KP1K1Z2"
 share_class_figi: "BBG00KP1K208"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 236
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 OSOTSPA PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH8752010000` · **Ticker:** `OSP (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **236** กอง
 

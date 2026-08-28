@@ -7,6 +7,9 @@ figi: "BBG000D7H3V0"
 share_class_figi: "BBG001SMGGG8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 SAIGON THUONG TIN COMMERCIAL
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000STB4` · **Ticker:** `STB (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **8** กอง
 

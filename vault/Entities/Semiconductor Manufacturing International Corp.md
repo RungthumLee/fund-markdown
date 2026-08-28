@@ -7,6 +7,9 @@ figi: "BBG000MJRLK5"
 share_class_figi: "BBG001SJYB03"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 7
 indirect_fund_count: 1
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Semiconductor Manufacturing International Corp
 
 **ประเภท:** หุ้น · **ISIN:** `KYG8020E1199` · **Ticker:** `MKN2 (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **7** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

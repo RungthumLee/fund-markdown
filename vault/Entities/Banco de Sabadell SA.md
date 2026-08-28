@@ -7,6 +7,9 @@ figi: "BBG000V9NNW4"
 share_class_figi: "BBG001T1WYB1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 5
 indirect_fund_count: 3
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Banco de Sabadell SA
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000SAB4` · **Ticker:** `SAB (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

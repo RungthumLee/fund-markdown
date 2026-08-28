@@ -7,6 +7,9 @@ figi: "BBG00NKWWLT3"
 share_class_figi: "BBG00NL42ZV3"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 KRUNG THAI STRAT ACT GBLKTT
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH8986010008` · **Ticker:** `KTSAGAA (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

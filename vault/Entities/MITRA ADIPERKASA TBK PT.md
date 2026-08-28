@@ -7,6 +7,9 @@ figi: "BBG000MKPK08"
 share_class_figi: "BBG001SHFKY1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อินโดนีเซีย"
+market_country: "อินโดนีเซีย"
+country: "อินโดนีเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 MITRA ADIPERKASA TBK PT
 
 **ประเภท:** หุ้น · **ISIN:** `ID1000099807` · **Ticker:** `MAPI (IJ)`
+
+**ตลาดซื้อขาย:** อินโดนีเซีย
 
 ถือโดยตรง **2** กอง
 

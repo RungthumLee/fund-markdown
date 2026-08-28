@@ -6,6 +6,8 @@ ticker: "EIBKOR 0.835 11/26/27 19"
 figi: "BBG01QSM4TP7"
 figi_type: "SAMURAI"
 kind: "govbond"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ Export-Import Bank of Korea
 
 **ประเภท:** พันธบัตร · **ISIN:** `JP541005AQB3` · **Ticker:** `EIBKOR 0.835 11/26/27 19 (NOT LISTED)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **2** กอง
 

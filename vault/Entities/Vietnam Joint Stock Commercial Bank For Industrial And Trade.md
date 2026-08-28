@@ -7,6 +7,9 @@ figi: "BBG000CYF1S2"
 share_class_figi: "BBG001T0JRT4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Vietnam Joint Stock Commercial Bank For Industrial And Trade
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000CTG7` · **Ticker:** `CTG (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **11** กอง
 

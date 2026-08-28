@@ -7,6 +7,8 @@ figi: "BBG000QKN215"
 share_class_figi: "BBG001SVBVD3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 CHINA CONSTRUCTION BANK.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100000742` · **Ticker:** `601939 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

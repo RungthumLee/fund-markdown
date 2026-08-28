@@ -7,6 +7,9 @@ figi: "BBG000CGFWK1"
 share_class_figi: "BBG001SFC802"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ISHARES US FINANCIALS ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642877884` · **Ticker:** `IYF (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

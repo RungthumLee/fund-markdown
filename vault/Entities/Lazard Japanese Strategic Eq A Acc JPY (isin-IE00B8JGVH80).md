@@ -7,6 +7,9 @@ figi: "BBG004FL8XG0"
 share_class_figi: "BBG004FL8XH9"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Lazard Japanese Strategic Eq A Acc JPY
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B8JGVH80` · **Ticker:** `LJSEYIA (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

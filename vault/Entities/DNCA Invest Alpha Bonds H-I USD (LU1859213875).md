@@ -7,6 +7,9 @@ figi: "BBG00M18SNS1"
 share_class_figi: "BBG00M1CCV92"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 DNCA Invest Alpha Bonds H-I USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1859213875` · **Ticker:** `DNCAHIU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **5** กอง
 

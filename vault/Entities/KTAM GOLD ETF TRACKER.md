@@ -7,6 +7,9 @@ figi: "BBG001YR36T2"
 share_class_figi: "BBG001YR36V9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 KTAM GOLD ETF TRACKER
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `THSPDR070012` · **Ticker:** `GLD (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

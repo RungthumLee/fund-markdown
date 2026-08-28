@@ -7,6 +7,9 @@ figi: "BBG00NBPBQM7"
 share_class_figi: "BBG00NBPBFS5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VANGU USDTRBD USDA
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BGYWFS63` · **Ticker:** `VUTA (SW)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

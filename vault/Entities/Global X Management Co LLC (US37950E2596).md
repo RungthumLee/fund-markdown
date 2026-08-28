@@ -7,6 +7,9 @@ figi: "BBG001K93GS6"
 share_class_figi: "BBG001V0LJT6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X Management Co LLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US37950E2596` · **Ticker:** `ARGT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

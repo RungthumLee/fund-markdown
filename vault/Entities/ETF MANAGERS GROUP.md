@@ -7,6 +7,9 @@ figi: "BBG01L6Y2339"
 share_class_figi: "BBG01L6Y23Y5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ETF MANAGERS GROUP
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US0321086565` · **Ticker:** `IPAY (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

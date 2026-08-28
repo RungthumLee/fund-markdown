@@ -7,6 +7,8 @@ figi: "BBG000N78C94"
 share_class_figi: "BBG001T4RPD8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+country: "ไอร์แลนด์"
 fund_count: 3
 indirect_fund_count: 3
 alias_count: 3
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 # 📦 INVESCO PHYSICAL GOLD ETC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B579F325` · **Ticker:** `SGLD1 (EO)`
+
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

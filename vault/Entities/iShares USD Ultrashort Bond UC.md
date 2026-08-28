@@ -7,6 +7,9 @@ figi: "BBG00LBYX4Y4"
 share_class_figi: "BBG00L4M8VZ5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares USD Ultrashort Bond UC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BGCSB447` · **Ticker:** `ERNAUSD (XS)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

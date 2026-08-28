@@ -7,6 +7,9 @@ figi: "BBG000BV7ZQ5"
 share_class_figi: "BBG002D68GN8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Van Eck Global
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US92189F6768` · **Ticker:** `SMH (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **11** กอง
 

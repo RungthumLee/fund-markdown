@@ -7,6 +7,9 @@ figi: "BBG01NT1XWM3"
 share_class_figi: "BBG01NT1TG89"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BLACKROCK ASSET MANAGEMENT IRELAND LTD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE000OVF8Q66` · **Ticker:** `EGEE (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

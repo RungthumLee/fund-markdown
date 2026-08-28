@@ -6,6 +6,8 @@ ticker: "CIMBMK 0 07/16/26 Cp"
 figi: "BBG021K4M4K9"
 figi_type: "DOMESTIC"
 kind: "other"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • CIMB BANK BERHAD
 
 **ประเภท:** อื่น ๆ · **ISIN:** `MYBRC2600383` · **Ticker:** `CIMBMK 0 07/16/26 Cp (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

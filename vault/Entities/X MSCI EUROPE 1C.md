@@ -7,6 +7,9 @@ figi: "BBG000QQJZV1"
 share_class_figi: "BBG001SKYP54"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 X MSCI EUROPE 1C
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0274209237` · **Ticker:** `XMEU (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **7** กอง
 

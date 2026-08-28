@@ -7,6 +7,9 @@ figi: "BBG00KJR2MY7"
 share_class_figi: "BBG00KJR2NN7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco Global Asset Management Limited
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46137V3574` · **Ticker:** `RSP (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

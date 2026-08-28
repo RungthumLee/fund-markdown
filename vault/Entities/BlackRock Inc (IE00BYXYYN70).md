@@ -7,6 +7,9 @@ figi: "BBG00GFT3322"
 share_class_figi: "BBG00GF9PKY9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BYXYYN70` · **Ticker:** `IMBAUSD (EO)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **8** กอง
 

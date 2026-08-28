@@ -7,6 +7,8 @@ figi: "BBG01Q5PVDZ9"
 share_class_figi: "BBG001SHD7F3"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VAYUPAK FUND 1 CLASS A
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH0759010000` · **Ticker:** `VAYU1 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

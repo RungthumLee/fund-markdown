@@ -6,6 +6,8 @@ ticker: "EBIUH 2.1 09/27/28 EMTN"
 figi: "BBG012LKGG03"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Emirates NBD Bank PJSC
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS2389383766` · **Ticker:** `EBIUH 2.1 09/27/28 EMTN (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

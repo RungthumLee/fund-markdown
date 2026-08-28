@@ -7,6 +7,9 @@ figi: "BBG009DTBKT4"
 share_class_figi: "BBG009DTBKS5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 T. Rowe Price Glb Tech Eq Q
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1244140163` · **Ticker:** `TRGBTEQ (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00KG2D1W1"
 share_class_figi: "BBG00KGBXYX6"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco Cnttl Eur Sm Cp Eq Z EUR Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1775962050` · **Ticker:** `IVSCCEA (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

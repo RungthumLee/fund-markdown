@@ -7,6 +7,9 @@ figi: "BBG000PB38X0"
 share_class_figi: "BBG001SC08P5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares U.S. Aerospace & Defense ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642887602` · **Ticker:** `ITA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BJSBJ0"
 share_class_figi: "BBG001S5RB29"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 10
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 NEE US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US65339F1012` · **Ticker:** `NEE (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **10** กอง
 

@@ -3,6 +3,8 @@ title: "RATCH GROUP PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH063703A401"
 isin: "TH063703A401"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 RATCH GROUP PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH063703A401`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

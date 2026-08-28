@@ -3,6 +3,8 @@ title: "Krungsir Asset Management Co., Ltd."
 entity_id: "isin:TH7481A10006"
 isin: "TH7481A10006"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Krungsir Asset Management Co., Ltd.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH7481A10006`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

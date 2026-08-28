@@ -7,6 +7,9 @@ figi: "BBG000DVBDD1"
 share_class_figi: "BBG001SPNK29"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 China Merchants Bank Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `CNE1000002M1` · **Ticker:** `M4B (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **3** กอง
 

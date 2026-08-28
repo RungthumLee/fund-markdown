@@ -7,6 +7,9 @@ figi: "BBG000C1HT47"
 share_class_figi: "BBG001S7Q066"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เนเธอร์แลนด์"
+market_country: "เนเธอร์แลนด์"
+country: "เนเธอร์แลนด์"
 fund_count: 4
 indirect_fund_count: 76
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 ASML HOLDING NV
 
 **ประเภท:** หุ้น · **ISIN:** `NL0010273215` · **Ticker:** `ASML (NA)`
+
+**ตลาดซื้อขาย:** เนเธอร์แลนด์
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **76** กอง
 

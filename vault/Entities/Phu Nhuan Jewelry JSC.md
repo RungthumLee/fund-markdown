@@ -7,6 +7,9 @@ figi: "BBG000BX73Y3"
 share_class_figi: "BBG001SSZ3C7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Phu Nhuan Jewelry JSC
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000PNJ6` · **Ticker:** `PNJ (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **8** กอง
 

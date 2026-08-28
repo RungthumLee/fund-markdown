@@ -7,6 +7,9 @@ figi: "BBG000R7C4S2"
 share_class_figi: "BBG001SKYNY7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 db x-trackers SICAV ETFs/Luxem
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0292109187` · **Ticker:** `XMTW (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

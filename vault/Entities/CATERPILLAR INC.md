@@ -7,6 +7,9 @@ figi: "BBG000BF0K17"
 share_class_figi: "BBG001S5PJ06"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 4
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 CATERPILLAR INC
 
 **ประเภท:** หุ้น · **ISIN:** `US1491231015` · **Ticker:** `CAT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

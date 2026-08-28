@@ -3,6 +3,8 @@ title: "LALIN PROPERTY PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0693A76780"
 isin: "TH0693A76780"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 LALIN PROPERTY PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0693A76780`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

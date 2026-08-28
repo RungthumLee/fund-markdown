@@ -3,6 +3,8 @@ title: "KT-Ashares"
 entity_id: "isin:TH9894010007"
 isin: "TH9894010007"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 KT-Ashares
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH9894010007`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

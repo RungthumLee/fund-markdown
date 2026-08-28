@@ -7,6 +7,8 @@ figi: "BBG01K53J467"
 share_class_figi: "BBG01K53J4B1"
 figi_type: "Receipt"
 kind: "other"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-other, multi-alias]
 # • BUALUANG SECURITIES PUBLIC COMPANY LIMITED
 
 **ประเภท:** อื่น ๆ · **ISIN:** `TH0809120601` · **Ticker:** `ASML01 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00M8CX9N5"
 share_class_figi: "BBG00M8CXBV1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Video Gaming and eSports ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US92189F1140` · **Ticker:** `ESPO (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

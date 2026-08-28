@@ -6,6 +6,8 @@ ticker: "BNP 0 04/10/29 EMTn"
 figi: "BBG021F1TVX0"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "ฝรั่งเศส"
+country: "ฝรั่งเศส"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 BNP PARIBAS
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `FR0014017S27` · **Ticker:** `BNP 0 04/10/29 EMTn (NOT LISTED)`
+
+**จดทะเบียน:** ฝรั่งเศส จาก ISIN
 
 ถือโดยตรง **2** กอง
 

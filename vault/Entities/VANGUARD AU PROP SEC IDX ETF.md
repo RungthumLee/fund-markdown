@@ -7,6 +7,9 @@ figi: "BBG0017794Z8"
 share_class_figi: "BBG001TCQRH3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ออสเตรเลีย"
+market_country: "ออสเตรเลีย"
+country: "ออสเตรเลีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VANGUARD AU PROP SEC IDX ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `AU000000VAP7` · **Ticker:** `VAP (AU)`
+
+**ตลาดซื้อขาย:** ออสเตรเลีย
 
 ถือโดยตรง **2** กอง
 

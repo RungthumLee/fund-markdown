@@ -7,6 +7,9 @@ figi: "BBG009K1H2V8"
 share_class_figi: "BBG009K1H2W7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 First Trust Portfolios
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US33734X8469` · **Ticker:** `CIBR (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **9** กอง
 

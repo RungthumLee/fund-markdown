@@ -7,6 +7,9 @@ figi: "BBG00KG2CZH4"
 share_class_figi: "BBG00KG5YY40"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco Asian Equity C USD AD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1775950394` · **Ticker:** `IVASCAD (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

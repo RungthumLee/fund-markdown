@@ -6,6 +6,8 @@ ticker: "NCBKSG 0 10/15/26 CD"
 figi: "BBG01XX677C0"
 figi_type: "EURO-DOLLAR"
 kind: "other"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • Saudi Arabia Sovereign & Saudi National Bank
 
 **ประเภท:** อื่น ๆ · **ISIN:** `XS3214038591` · **Ticker:** `NCBKSG 0 10/15/26 CD (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

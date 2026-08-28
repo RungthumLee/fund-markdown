@@ -7,6 +7,9 @@ figi: "BBG000DB6G26"
 share_class_figi: "BBG001SC7CN1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 HENGAN INTERNATIONAL GROUP CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `KYG4402L1510` · **Ticker:** `HGNC (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,8 @@ figi: "BBG002NBH943"
 share_class_figi: "BBG002NBH952"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 WUXI LEAD INTELLIGENT EQUIPMENT CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100001ZF9` · **Ticker:** `300450 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BFDGY6"
 share_class_figi: "BBG001S6NK30"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 5
 indirect_fund_count: 4
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 DBS Group Holdings Ltd.
 
 **ประเภท:** หุ้น · **ISIN:** `SG1L01001701` · **Ticker:** `DBS (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

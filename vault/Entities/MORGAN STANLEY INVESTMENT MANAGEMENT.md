@@ -7,6 +7,9 @@ figi: "BBG000BLZRJ2"
 share_class_figi: "BBG001S9V5Z3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 6
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 MORGAN STANLEY INVESTMENT MANAGEMENT
 
 **ประเภท:** หุ้น · **ISIN:** `US6174464486` · **Ticker:** `MS (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

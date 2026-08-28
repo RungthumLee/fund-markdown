@@ -7,6 +7,9 @@ figi: "BBG00286S4N9"
 share_class_figi: "BBG00286S4P7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 1
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 PHILLIPS 66
 
 **ประเภท:** หุ้น · **ISIN:** `US7185461040` · **Ticker:** `PSX (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

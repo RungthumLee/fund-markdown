@@ -7,6 +7,9 @@ figi: "BBG000BZWNT2"
 share_class_figi: "BBG001S6T9W7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 4
 indirect_fund_count: 16
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 CHINA MOBILE LTD
 
 **ประเภท:** หุ้น · **ISIN:** `HK0941009539` · **Ticker:** `941 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **16** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BBQCY0"
 share_class_figi: "BBG001S5NN36"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 12
 indirect_fund_count: 73
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 ADVANCED MICRO DEVICES
 
 **ประเภท:** หุ้น · **ISIN:** `US0079031078` · **Ticker:** `AMD (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **12** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **73** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG004D125L7"
 share_class_figi: "BBG004D125Q2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 30
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 MC GROUP PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH4625010004` · **Ticker:** `MC (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **30** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BWWJW4"
 share_class_figi: "BBG001SSWGD0"
 figi_type: "ETP"
 kind: "reit"
+domicile_country: "ญี่ปุ่น"
+market_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ NEXT FUNDS REIT INDEX ETF
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `JP3047010008` · **Ticker:** `1343 (JP)`
+
+**ตลาดซื้อขาย:** ญี่ปุ่น
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **กองทรัสต์/REIT** แต่ Bloomberg ระบุว่าเป็น **ETP**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

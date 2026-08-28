@@ -7,6 +7,9 @@ figi: "BBG000JQHX82"
 share_class_figi: "BBG001SJ8Y48"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Wellington Global Hlthcr Eq USD S Ac
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B0590K11` · **Ticker:** `WGHCEPA (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

@@ -31,7 +31,7 @@ updated: 2026-08-28
 ## คิวงาน
 
 - [x] **A1** ประเทศจากหลักทรัพย์ (ISIN/exchange) → rollup ขึ้นกอง → ดัชนี by-country ✅ Round 1
-- [ ] **B1** หลักทรัพย์เป็น knowledge node (ประเทศ · exchange · ticker · การถือครองรวมของกองไทย)
+- [x] **B1** หลักทรัพย์เป็น knowledge node — เพิ่ม **ประเทศ** (ticker/exchange/ownership มีอยู่แล้ว) ✅ Round 2
 - [ ] **A2** อุตสาหกรรม/sector จริง (Yahoo ต่อ ticker) → rollup ขึ้นกอง
 - [ ] **A3** ช่องว่างอื่น: currency exposure · duration/credit ตราสารหนี้ · market-cap (large/mid/small)
 
@@ -65,3 +65,8 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
 - **R1 · A1 ประเทศจากหลักทรัพย์** — V ผ่าน (broken=0 · orphan=0 · ISIN/symbol→ประเทศถูกทุกตัวที่สุ่ม) ·
   ตัดสินใจ DEC-L01 (โหวต 3/3 dual field) · 1750/2121 กองมีประเทศ พร้อม covered% เปิดเผยส่วนที่ทะลุไม่ได้ ·
   ไฟล์: `geography.py`(ใหม่) · `gen_vault.py` (§7 + frontmatter + by-country index + home) · `STATUS.md` · `tasks.md`
+- **R2 · B1 ประเทศในโน้ตหลักทรัพย์** — V ผ่าน (broken=0 · Tencent: ตลาด ฮ่องกง/จดทะเบียน เคย์แมน ✓ · NVIDIA สหรัฐ ✓) ·
+  เพิ่ม `domicile_country`/`market_country`/`country` (domicile=ISIN, market=Bloomberg alias/symbol) ·
+  ครอบคลุม 764/2960 equity (เฉพาะที่มี ISIN/Bloomberg code — ไม่เดา) · ไม่ต้องโหวต (ใช้ DEC-L01) ·
+  ไฟล์: `geography.py` (+Bloomberg map) · `gen_entity_notes.py` · `STATUS.md`
+  _ค้าง: หุ้น look-through ต่างประเทศที่ไม่มี ISIN (~2,200) ยังไม่มีประเทศ — เสริมได้ด้วยการ join symbol จาก lookthrough ภายหลัง_

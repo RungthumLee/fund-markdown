@@ -7,6 +7,9 @@ figi: "BBG00MCN93N6"
 share_class_figi: "BBG00MCN93P4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 NORTH EAST RUBBER PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH8798010006` · **Ticker:** `NER (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **8** กอง
 

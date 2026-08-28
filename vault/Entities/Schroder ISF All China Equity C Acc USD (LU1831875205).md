@@ -7,6 +7,9 @@ figi: "BBG00L2S6ZN0"
 share_class_figi: "BBG00L3DR9K0"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Schroder ISF All China Equity C Acc USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1831875205` · **Ticker:** `SCHACEC (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **5** กอง
 

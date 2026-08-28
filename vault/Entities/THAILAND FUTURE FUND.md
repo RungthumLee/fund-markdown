@@ -7,6 +7,9 @@ figi: "BBG00LWPX8N3"
 share_class_figi: "BBG00LWPX8P1"
 figi_type: "Unit"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 39
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 THAILAND FUTURE FUND
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH7642010006` · **Ticker:** `TFFIF (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **39** กอง
 

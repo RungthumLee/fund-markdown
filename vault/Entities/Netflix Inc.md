@@ -7,6 +7,9 @@ figi: "BBG000CL9VN6"
 share_class_figi: "BBG001SF6L46"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 5
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Netflix Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US64110L1061` · **Ticker:** `NFLX (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

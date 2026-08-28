@@ -7,6 +7,9 @@ figi: "BBG000BNBDC2"
 share_class_figi: "BBG001S5STL8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 13
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Eli Lilly & Co
 
 **ประเภท:** หุ้น · **ISIN:** `US5324571083` · **Ticker:** `LLY (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **13** กอง
 

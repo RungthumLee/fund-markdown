@@ -7,6 +7,9 @@ figi: "BBG0025Y4RY4"
 share_class_figi: "BBG0025Y4RZ3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 14
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 AbbVie Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US00287Y1091` · **Ticker:** `ABBV (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **14** กอง
 

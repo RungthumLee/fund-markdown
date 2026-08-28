@@ -7,6 +7,9 @@ figi: "BBG00R9Q1RH4"
 share_class_figi: "BBG00RC91899"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Global Uncons Eq D USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BK70NJ20` · **Ticker:** `BLGUEDU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **6** กอง
 

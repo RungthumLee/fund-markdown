@@ -7,6 +7,9 @@ figi: "BBG002GKR6T9"
 share_class_figi: "BBG002GKR7K6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares MSCI Global Gold Miners ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46434G8556` · **Ticker:** `RING (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **10** กอง
 

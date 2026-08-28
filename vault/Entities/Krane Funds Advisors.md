@@ -7,6 +7,9 @@ figi: "BBG00XTHHZ66"
 share_class_figi: "BBG00XTHJ016"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Krane Funds Advisors
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US5007676944` · **Ticker:** `KSTR (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **9** กอง
 

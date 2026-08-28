@@ -7,6 +7,9 @@ figi: "BBG003LQD846"
 share_class_figi: "BBG003LQD855"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 52
 indirect_fund_count: 0
 alias_count: 14
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 PIMCO GIS Income Institutional USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B87KCF77` · **Ticker:** `PIMINIA (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **52** กอง
 

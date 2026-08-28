@@ -3,6 +3,8 @@ title: "Charoen Pokphand Foods Public Company Limited"
 entity_id: "isin:TH0101B76B82"
 isin: "TH0101B76B82"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 Charoen Pokphand Foods Public Company Limited
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0101B76B82`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **8** กอง
 

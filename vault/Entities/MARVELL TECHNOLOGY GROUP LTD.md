@@ -7,6 +7,9 @@ figi: "BBG00ZXBJ153"
 share_class_figi: "BBG00ZXBJ162"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 7
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 MARVELL TECHNOLOGY GROUP LTD
 
 **ประเภท:** หุ้น · **ISIN:** `US5738741041` · **Ticker:** `MRVL (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **7** กอง
 

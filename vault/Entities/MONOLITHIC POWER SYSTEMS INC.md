@@ -7,6 +7,9 @@ figi: "BBG000C30L48"
 share_class_figi: "BBG001SDRGP6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 2
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 MONOLITHIC POWER SYSTEMS INC
 
 **ประเภท:** หุ้น · **ISIN:** `US6098391054` · **Ticker:** `MPWR (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

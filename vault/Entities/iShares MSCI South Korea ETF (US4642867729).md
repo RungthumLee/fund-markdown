@@ -7,6 +7,9 @@ figi: "BBG000CDKWX8"
 share_class_figi: "BBG001SF9FC7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 31
 indirect_fund_count: 0
 alias_count: 13
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares MSCI South Korea ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642867729` · **Ticker:** `EWY (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **31** กอง
 

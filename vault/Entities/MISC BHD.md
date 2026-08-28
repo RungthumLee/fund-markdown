@@ -7,6 +7,9 @@ figi: "BBG000BF5LB9"
 share_class_figi: "BBG001S6LZB0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "มาเลเซีย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 MISC BHD
 
 **ประเภท:** หุ้น · **ISIN:** `MYL3816OO005` · **Ticker:** `MISC (MK)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

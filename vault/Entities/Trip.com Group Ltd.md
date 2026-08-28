@@ -7,6 +7,9 @@ figi: "BBG00T25Z1Y4"
 share_class_figi: "BBG001SGK1B4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 4
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Trip.com Group Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `KYG9066F1019` · **Ticker:** `CLVB (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

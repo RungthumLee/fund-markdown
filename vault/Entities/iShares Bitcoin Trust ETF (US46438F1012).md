@@ -7,6 +7,9 @@ figi: "BBG01KYQ6PV3"
 share_class_figi: "BBG01KYQ6QS5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Bitcoin Trust ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46438F1012` · **Ticker:** `IBIT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

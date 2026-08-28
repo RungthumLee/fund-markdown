@@ -7,6 +7,9 @@ figi: "BBG000CW7W89"
 share_class_figi: "BBG001SHX6Z1"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Pictet Asset management Europe SA
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0128497707` · **Ticker:** `PIPUSDI (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **7** กอง
 

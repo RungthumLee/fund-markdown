@@ -6,6 +6,8 @@ ticker: "AIA 3.58 06/11/35 EMTN"
 figi: "BBG01VCNJPT9"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 AIA Group Ltd
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS3087685544` · **Ticker:** `AIA 3.58 06/11/35 EMTN (HONG KONG)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

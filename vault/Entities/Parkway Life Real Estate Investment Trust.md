@@ -7,6 +7,9 @@ figi: "BBG000RQQXQ3"
 share_class_figi: "BBG001SP14B9"
 figi_type: "REIT"
 kind: "equity"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 10
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Parkway Life Real Estate Investment Trust
 
 **ประเภท:** หุ้น · **ISIN:** `SG1V52937132` · **Ticker:** `PREIT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หุ้น** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

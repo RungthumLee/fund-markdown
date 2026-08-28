@@ -6,6 +6,8 @@ ticker: "THAIGB 2.7 06/17/40"
 figi: "BBG01QRLN3V9"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 61
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ MINISTRY OF FINANCE
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH0623B3K608` · **Ticker:** `THAIGB 2.7 06/17/40 (THAILAND)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **61** กอง
 

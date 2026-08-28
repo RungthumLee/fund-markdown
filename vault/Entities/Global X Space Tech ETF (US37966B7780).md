@@ -7,6 +7,9 @@ figi: "BBG021HP7003"
 share_class_figi: "BBG021HP70Z5"
 figi_type: "ETP"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Global X Space Tech ETF
 
 **ประเภท:** หุ้น · **ISIN:** `US37966B7780` · **Ticker:** `ORBX (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หุ้น** แต่ Bloomberg ระบุว่าเป็น **ETP**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

@@ -7,6 +7,9 @@ figi: "BBG004YJ4XB3"
 share_class_figi: "BBG004YJ4X50"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 P.C.S. MACHINE GROUP HOLDING PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH5306010Z06` · **Ticker:** `PCSGH (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

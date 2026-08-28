@@ -7,6 +7,9 @@ figi: "BBG000P8NWN3"
 share_class_figi: "BBG001SQWTN5"
 figi_type: "Stapled Security"
 kind: "reit"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ CDL HOSPITALITY TRUSTS
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `SG1T66931158` · **Ticker:** `CDREIT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **5** กอง
 

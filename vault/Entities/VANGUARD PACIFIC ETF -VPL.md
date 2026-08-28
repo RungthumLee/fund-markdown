@@ -7,6 +7,9 @@ figi: "BBG000HTCFY3"
 share_class_figi: "BBG001SHTV36"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VANGUARD PACIFIC ETF -VPL
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US9220428661` · **Ticker:** `VPL (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

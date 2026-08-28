@@ -7,6 +7,8 @@ figi: "BBG01G17RC82"
 share_class_figi: "BBG01G15Z760"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 AM MSCI EM MARKETS II-ETF A
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2573967036` · **Ticker:** `LEMA1USD (EO)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

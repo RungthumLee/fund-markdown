@@ -7,6 +7,9 @@ figi: "BBG018FR3T53"
 share_class_figi: "BBG018R0ZJS1"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 FIDELITY-STRU CR INC-IACC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2495143146` · **Ticker:** `FIDNBIA (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

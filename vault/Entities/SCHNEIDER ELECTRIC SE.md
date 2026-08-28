@@ -7,6 +7,9 @@ figi: "BBG000BBWCH2"
 share_class_figi: "BBG001S67MN2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฝรั่งเศส"
+market_country: "ฝรั่งเศส"
+country: "ฝรั่งเศส"
 fund_count: 7
 indirect_fund_count: 13
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 SCHNEIDER ELECTRIC SE
 
 **ประเภท:** หุ้น · **ISIN:** `FR0000121972` · **Ticker:** `SU (FP)`
+
+**ตลาดซื้อขาย:** ฝรั่งเศส
 
 ถือโดยตรง **7** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **13** กอง
 

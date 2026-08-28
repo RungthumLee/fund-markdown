@@ -7,6 +7,9 @@ figi: "BBG000DB4238"
 share_class_figi: "BBG001T0WZP5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 11
 indirect_fund_count: 2
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Vietnam Prosperity JSC Bank
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000VPB6` · **Ticker:** `VPB (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **11** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

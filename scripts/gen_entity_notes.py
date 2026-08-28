@@ -23,6 +23,7 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import geography  # noqa: E402
 from gen_vault import safe_name as gen_vault_safe_name, table  # noqa: E402
 from normalize_entities import KIND_LABEL  # noqa: E402
 
@@ -91,6 +92,17 @@ def render(entity: dict, funds: dict, note_names: dict[str, str],
     if entity.get("figi_type"):
         a(f'figi_type: "{entity["figi_type"]}"')
     a(f'kind: "{kind}"')
+    # country (DEC-L01 at the security level): domicile from the ISIN prefix,
+    # market from a Bloomberg ticker alias or the symbol; `country` prefers market
+    _domicile = geography.country_of_isin(entity.get("isin"))
+    _market = (geography.market_from_aliases(entity.get("aliases"))
+               or geography.market_of_symbol(entity.get("ticker")))
+    if _domicile:
+        a(f'domicile_country: "{_domicile}"')
+    if _market:
+        a(f'market_country: "{_market}"')
+    if _market or _domicile:
+        a(f'country: "{_market or _domicile}"')
     indirect = (reach or {}).get("indirect") or {}
     a(f"fund_count: {entity['fund_count']}")
     a(f"indirect_fund_count: {len(indirect)}")
@@ -120,6 +132,16 @@ def render(entity: dict, funds: dict, note_names: dict[str, str],
         bits.append(f"**Ticker:** `{ticker}`")
     a(" · ".join(bits))
     a("")
+    # country line: market is where it trades, domicile is where it is registered
+    if _market or _domicile:
+        geo = []
+        if _market:
+            geo.append(f"**ตลาดซื้อขาย:** {_market}")
+        if _domicile and _domicile != _market:
+            src = "จาก ISIN" if entity.get("isin") else ""
+            geo.append(f"**จดทะเบียน:** {_domicile} {src}".strip())
+        a(" · ".join(geo))
+        a("")
 
     figi_type = entity.get("figi_type")
     if figi_type:

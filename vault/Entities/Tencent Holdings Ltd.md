@@ -7,6 +7,9 @@ figi: "BBG000PXBXK2"
 share_class_figi: "BBG001S8C4T6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 16
 indirect_fund_count: 77
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Tencent Holdings Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `KYG875721634` · **Ticker:** `NNND (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **16** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **77** กอง
 

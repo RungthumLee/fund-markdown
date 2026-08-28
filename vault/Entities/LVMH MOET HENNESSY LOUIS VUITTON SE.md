@@ -7,6 +7,9 @@ figi: "BBG000BC7Q05"
 share_class_figi: "BBG001S641T5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฝรั่งเศส"
+market_country: "ฝรั่งเศส"
+country: "ฝรั่งเศส"
 fund_count: 4
 indirect_fund_count: 3
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 LVMH MOET HENNESSY LOUIS VUITTON SE
 
 **ประเภท:** หุ้น · **ISIN:** `FR0000121014` · **Ticker:** `MC (FP)`
+
+**ตลาดซื้อขาย:** ฝรั่งเศส
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

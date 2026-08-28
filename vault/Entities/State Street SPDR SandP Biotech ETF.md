@@ -7,6 +7,9 @@ figi: "BBG000MQQ963"
 share_class_figi: "BBG001SQDKG3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Street SPDR SandP Biotech ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US78464A8707` · **Ticker:** `XBI (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **11** กอง
 

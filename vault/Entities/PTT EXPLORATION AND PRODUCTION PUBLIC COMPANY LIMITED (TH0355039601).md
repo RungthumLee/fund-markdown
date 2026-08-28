@@ -6,6 +6,8 @@ ticker: "PTTEPT 4.82 06/06/29 14-1"
 figi: "BBG006LJBKC1"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 PTT EXPLORATION AND PRODUCTION PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0355039601` · **Ticker:** `PTTEPT 4.82 06/06/29 14-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -6,6 +6,8 @@ ticker: "HSBC 0.808 06/25/27 4"
 figi: "BBG01NC90WM0"
 figi_type: "SAMURAI"
 kind: "bond"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 HONGKONG & SHANGHAI BK
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `JP534411AQ66` · **Ticker:** `HSBC 0.808 06/25/27 4 (NOT LISTED)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **2** กอง
 

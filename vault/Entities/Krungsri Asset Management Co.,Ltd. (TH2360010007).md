@@ -7,6 +7,9 @@ figi: "BBG000KJ3WV7"
 share_class_figi: "BBG001SJMGZ7"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Krungsri Asset Management Co.,Ltd.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH2360010007` · **Ticker:** `AJFSTDY (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

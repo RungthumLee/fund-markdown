@@ -7,6 +7,9 @@ figi: "BBG01BXX6TS5"
 share_class_figi: "BBG01BVRKXK3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 MTAV NA Equity
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE000RN58M26` · **Ticker:** `MTAVUSD (EO)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000M1R011"
 share_class_figi: "BBG001T4JFC0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 2
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 ServiceNow Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US81762P1021` · **Ticker:** `NOW (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

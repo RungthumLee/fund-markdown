@@ -7,6 +7,9 @@ figi: "BBG000BF6N60"
 share_class_figi: "BBG001S8WL61"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 7
 indirect_fund_count: 1
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 VIETNAM DAIRY PRODUCTS JSC
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000VNM8` · **Ticker:** `VNM (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **7** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

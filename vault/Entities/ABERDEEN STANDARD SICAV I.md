@@ -7,6 +7,8 @@ figi: "BBG001NM1GD2"
 share_class_figi: "BBG001V14VJ7"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ABERDEEN STANDARD SICAV I
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0566481197` · **Ticker:** `ABEEMI2 (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -3,6 +3,8 @@ title: "KIATNAKIN PHATRA BANK PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0121077109"
 isin: "TH0121077109"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 KIATNAKIN PHATRA BANK PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0121077109`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

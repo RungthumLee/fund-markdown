@@ -7,6 +7,9 @@ figi: "BBG00PC1H1T6"
 share_class_figi: "BBG00PC1H2K3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Genomics Immunology and Healthcare ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46435U1925` · **Ticker:** `IDNA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00N9ZSMF7"
 share_class_figi: "BBG00N8SF8V1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1900068328` · **Ticker:** `AEJ (EO)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00JQBN3F7"
 share_class_figi: "BBG00JQBN3W8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 X USD HIGH YIELD BOND
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BDR5HM97` · **Ticker:** `XUHY (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

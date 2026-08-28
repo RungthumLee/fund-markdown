@@ -7,6 +7,9 @@ figi: "BBG000BC24D5"
 share_class_figi: "BBG001S6JLG9"
 figi_type: "REIT"
 kind: "fund"
+domicile_country: "ออสเตรเลีย"
+market_country: "ออสเตรเลีย"
+country: "ออสเตรเลีย"
 fund_count: 1
 indirect_fund_count: 1
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 # 📦 Stockland Corp Ltd
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `AU000000SGP0` · **Ticker:** `SGP (AU)`
+
+**ตลาดซื้อขาย:** ออสเตรเลีย
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หน่วยลงทุน** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

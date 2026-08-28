@@ -7,6 +7,9 @@ figi: "BBG000C1W6R5"
 share_class_figi: "BBG001S99R26"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สเปน"
+market_country: "สเปน"
+country: "สเปน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 INDUSTRIA DE DISENO TEXTIL SA
 
 **ประเภท:** หุ้น · **ISIN:** `ES0148396007` · **Ticker:** `ITX (SM)`
+
+**ตลาดซื้อขาย:** สเปน
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BN4DR4"
 share_class_figi: "BBG001SDM548"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 SSI SECURITIES CORP
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000SSI1` · **Ticker:** `SSI (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **6** กอง
 

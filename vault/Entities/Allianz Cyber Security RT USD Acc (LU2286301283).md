@@ -7,6 +7,9 @@ figi: "BBG00Z1C4ZF6"
 share_class_figi: "BBG00Z1JBDL5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Allianz Cyber Security RT USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2286301283` · **Ticker:** `ALACSRT (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

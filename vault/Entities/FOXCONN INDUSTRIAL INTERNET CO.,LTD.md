@@ -7,6 +7,8 @@ figi: "BBG00K1WK910"
 share_class_figi: "BBG00K1WK947"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 FOXCONN INDUSTRIAL INTERNET CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE1000031P3` · **Ticker:** `601138 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

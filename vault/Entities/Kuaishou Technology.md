@@ -7,6 +7,9 @@ figi: "BBG00Z1SK9J7"
 share_class_figi: "BBG00YYT9BF4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Kuaishou Technology
 
 **ประเภท:** หุ้น · **ISIN:** `KYG532631028` · **Ticker:** `5Y0 (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **4** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG0018WGW19"
 share_class_figi: "BBG001TFMGG5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ออสเตรเลีย"
+market_country: "ออสเตรเลีย"
+country: "ออสเตรเลีย"
 fund_count: 1
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 NEXTDC LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `AU000000NXT8` · **Ticker:** `NXT (AU)`
+
+**ตลาดซื้อขาย:** ออสเตรเลีย
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BDTBL9"
 share_class_figi: "BBG001S72SM3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 15
 indirect_fund_count: 0
 alias_count: 12
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Street SPDR S&P 500 ETF Trust
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US78462F1030` · **Ticker:** `SPY (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **15** กอง
 

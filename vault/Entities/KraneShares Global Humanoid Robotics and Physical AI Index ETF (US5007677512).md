@@ -7,6 +7,9 @@ figi: "BBG01TVRMX13"
 share_class_figi: "BBG01TVRMY20"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 KraneShares Global Humanoid Robotics and Physical AI Index ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US5007677512` · **Ticker:** `KOID (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

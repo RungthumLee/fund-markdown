@@ -7,6 +7,9 @@ figi: "BBG00NTXX6G8"
 share_class_figi: "BBG00NW3VFP2"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Wellington Management Co LLP
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BH3VJF63` · **Ticker:** `WEEASUA (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

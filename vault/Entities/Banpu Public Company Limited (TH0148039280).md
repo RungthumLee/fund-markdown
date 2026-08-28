@@ -6,6 +6,8 @@ ticker: "BANPTB 0 02/16/29 26-1"
 figi: "BBG020D78320"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 33
 indirect_fund_count: 0
 alias_count: 3
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Banpu Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0148039280` · **Ticker:** `BANPTB 0 02/16/29 26-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **33** กอง
 

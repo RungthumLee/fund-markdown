@@ -7,6 +7,9 @@ figi: "BBG008NYXHB6"
 share_class_figi: "BBG008NYXHC5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 DWS Invest Global Infras IDH (P)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1217772315` · **Ticker:** `DWGIDHP (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

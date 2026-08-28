@@ -7,6 +7,9 @@ figi: "BBG006JRRGD7"
 share_class_figi: "BBG006JRRGF5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 XTRACKERS IE PLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BLNMYC90` · **Ticker:** `XDEW (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

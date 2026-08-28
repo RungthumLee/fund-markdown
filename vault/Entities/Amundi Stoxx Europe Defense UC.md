@@ -7,6 +7,9 @@ figi: "BBG01TRKNJL1"
 share_class_figi: "BBG01TRKLML6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Amundi Stoxx Europe Defense UC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU3038520774` · **Ticker:** `DEFSEUR (EO)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **4** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00RKP04P6"
 share_class_figi: "BBG00RLT96X4"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BGF China Bond Fund D2 USD Hedged - BGCBDUH LX
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2112292250` · **Ticker:** `BGCBDUH (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

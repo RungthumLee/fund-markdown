@@ -7,6 +7,9 @@ figi: "BBG000NWYK65"
 share_class_figi: "BBG001T5CFW2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Vectors
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US92189F8178` · **Ticker:** `VNM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

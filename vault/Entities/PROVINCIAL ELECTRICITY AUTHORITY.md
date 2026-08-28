@@ -6,6 +6,8 @@ ticker: "PROELE 2.87 05/30/28 23-3"
 figi: "BBG01GVY5NV4"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 PROVINCIAL ELECTRICITY AUTHORITY
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0649038500` · **Ticker:** `PROELE 2.87 05/30/28 23-3 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

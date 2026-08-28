@@ -7,6 +7,9 @@ figi: "BBG000BJ3PD2"
 share_class_figi: "BBG001S5QZ45"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 6
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 ETN US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `IE00B8KQN827` · **Ticker:** `ETN (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

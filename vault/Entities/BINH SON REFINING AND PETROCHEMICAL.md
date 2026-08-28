@@ -7,6 +7,9 @@ figi: "BBG004LNL806"
 share_class_figi: "BBG004LNL815"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 BINH SON REFINING AND PETROCHEMICAL
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000BSR8` · **Ticker:** `BSR (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **3** กอง
 

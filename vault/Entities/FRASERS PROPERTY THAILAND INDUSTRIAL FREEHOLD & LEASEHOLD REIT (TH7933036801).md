@@ -6,6 +6,8 @@ ticker: "FTREIT 3.14 08/08/26 19-1"
 figi: "BBG00PX2Y489"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH7933036801` · **Ticker:** `FTREIT 3.14 08/08/26 19-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

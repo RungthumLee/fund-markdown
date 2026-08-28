@@ -6,6 +6,8 @@ ticker: "C 0.25 08/30/29 EMTN"
 figi: "BBG012528LF3"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Citigroup Inc
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `CH1129053802` · **Ticker:** `C 0.25 08/30/29 EMTN (SIX)`
+
+**จดทะเบียน:** สวิตเซอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

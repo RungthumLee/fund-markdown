@@ -6,6 +6,8 @@ ticker: "SMTBTH 0 03/10/28 26-1"
 figi: "BBG020ZBDM01"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 SUMITOMO MITSUI TRUST BANK (THAI) PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `THD705038384` · **Ticker:** `SMTBTH 0 03/10/28 26-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **6** กอง
 

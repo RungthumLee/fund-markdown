@@ -7,6 +7,9 @@ figi: "BBG001S0BW76"
 share_class_figi: "BBG001V2ZBY8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Wellington Glbl Quality Gr USD S Ac
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0629158030` · **Ticker:** `WELGDGA (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **12** กอง
 

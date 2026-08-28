@@ -3,6 +3,8 @@ title: "Oaktree Strategic Credit iCapital Access Fund SPC"
 entity_id: "isin:KYG6690J1783"
 isin: "KYG6690J1783"
 kind: "fund"
+domicile_country: "หมู่เกาะเคย์แมน"
+country: "หมู่เกาะเคย์แมน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Oaktree Strategic Credit iCapital Access Fund SPC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `KYG6690J1783`
+
+**จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

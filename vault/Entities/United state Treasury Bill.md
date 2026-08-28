@@ -6,6 +6,8 @@ ticker: "B 0 11/27/26"
 figi: "BBG01YKHNFB3"
 figi_type: "US GOVERNMENT"
 kind: "bill"
+domicile_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 5
@@ -15,6 +17,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 United state Treasury Bill
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `US912797SU23` · **Ticker:** `B 0 11/27/26 (PFTS)`
+
+**จดทะเบียน:** สหรัฐฯ จาก ISIN
 
 ถือโดยตรง **14** กอง
 

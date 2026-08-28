@@ -7,6 +7,9 @@ figi: "BBG020KYWQG0"
 share_class_figi: "BBG01ZBD6BV5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 KNOWLEDGE ATLAS TECHNOLOGY
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100007DH9` · **Ticker:** `KATJF (US)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **4** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000QVNG01"
 share_class_figi: "BBG001SLN5S3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 LQDE LN Equity
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE0032895942` · **Ticker:** `LQDE (SW)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **6** กอง
 

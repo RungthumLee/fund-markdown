@@ -7,6 +7,8 @@ figi: "BBG00MTL9P44"
 share_class_figi: "BBG00MP10HC0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 WUXI APPTEC CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100003F19` · **Ticker:** `2359EUR (XS)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

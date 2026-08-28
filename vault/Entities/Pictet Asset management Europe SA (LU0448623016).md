@@ -7,6 +7,9 @@ figi: "BBG000PWMVM4"
 share_class_figi: "BBG001T62526"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Pictet Asset management Europe SA
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0448623016` · **Ticker:** `PLHIYUI (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **4** กอง
 

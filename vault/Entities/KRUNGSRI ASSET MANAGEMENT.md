@@ -3,6 +3,8 @@ title: "KRUNGSRI ASSET MANAGEMENT"
 entity_id: "isin:TH7230A10007"
 isin: "TH7230A10007"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 KRUNGSRI ASSET MANAGEMENT
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH7230A10007`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

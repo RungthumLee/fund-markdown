@@ -7,6 +7,9 @@ figi: "BBG000BBBLC0"
 share_class_figi: "BBG001S5V1L5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "มาเลเซีย"
+market_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 TENAGA NASIONAL BHD
 
 **ประเภท:** หุ้น · **ISIN:** `MYL5347OO009` · **Ticker:** `TNB (MK)`
+
+**ตลาดซื้อขาย:** มาเลเซีย
 
 ถือโดยตรง **3** กอง
 

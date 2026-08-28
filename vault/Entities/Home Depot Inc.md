@@ -7,6 +7,9 @@ figi: "BBG000BKZB36"
 share_class_figi: "BBG001S5RTW7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Home Depot Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US4370761029` · **Ticker:** `HD (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG016K3TJT2"
 share_class_figi: "BBG016K3TJV9"
 figi_type: "Receipt"
 kind: "other"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-other, multi-alias]
 # • BUALUANG SECURITIES PUBLIC COMPANY LIMITED
 
 **ประเภท:** อื่น ๆ · **ISIN:** `TH0809120106` · **Ticker:** `FUEVFVND (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

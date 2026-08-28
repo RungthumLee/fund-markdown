@@ -7,6 +7,8 @@ figi: "BBG005MRF0V3"
 share_class_figi: "BBG001T1LQT1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 HUISHANG BANK CORPORATION LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100001QP7` · **Ticker:** `HB8 (GR)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

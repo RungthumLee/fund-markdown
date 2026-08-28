@@ -7,6 +7,9 @@ figi: "BBG000L74NQ7"
 share_class_figi: "BBG001S7RSN5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Global Energy ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642873412` · **Ticker:** `IXC (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

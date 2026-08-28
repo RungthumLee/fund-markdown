@@ -7,6 +7,9 @@ figi: "BBG00YD15T54"
 share_class_figi: "BBG00YD15T63"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 LION GLOBAL INVESTORS LIMITED
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SGXC56627679` · **Ticker:** `HST (SP)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

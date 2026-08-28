@@ -6,6 +6,8 @@ figi: "BBG02309V514"
 share_class_figi: "BBG02309V550"
 figi_type: "Common Stock"
 kind: "equity"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Dien May Xanh Investment JSC
 
 **ประเภท:** หุ้น · **Ticker:** `DMX (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **3** กอง
 

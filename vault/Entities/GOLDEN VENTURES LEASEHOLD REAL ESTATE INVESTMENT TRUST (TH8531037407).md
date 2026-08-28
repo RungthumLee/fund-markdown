@@ -6,6 +6,8 @@ ticker: "GVREIT 3.63 04/30/27 18-1"
 figi: "BBG00KT8JPV6"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH8531037407` · **Ticker:** `GVREIT 3.63 04/30/27 18-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

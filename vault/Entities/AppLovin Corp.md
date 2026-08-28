@@ -7,6 +7,9 @@ figi: "BBG006HFPX77"
 share_class_figi: "BBG006HFPX86"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 AppLovin Corp
 
 **ประเภท:** หุ้น · **ISIN:** `US03831W1080` · **Ticker:** `APP (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **7** กอง
 

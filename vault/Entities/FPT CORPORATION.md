@@ -7,6 +7,9 @@ figi: "BBG000PMZJZ5"
 share_class_figi: "BBG001SR5S37"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 11
 indirect_fund_count: 1
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 FPT CORPORATION
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000FPT1` · **Ticker:** `FPT (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **11** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

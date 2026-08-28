@@ -6,6 +6,8 @@ ticker: "RAIFFS 0.85 05/14/29"
 figi: "BBG01TRFVHP3"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 RAIFFEISEN SCHWEIZ
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `CH1428648278` · **Ticker:** `RAIFFS 0.85 05/14/29 (SIX)`
+
+**จดทะเบียน:** สวิตเซอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

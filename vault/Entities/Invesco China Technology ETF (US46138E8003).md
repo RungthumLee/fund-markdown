@@ -7,6 +7,9 @@ figi: "BBG00KXH51H5"
 share_class_figi: "BBG00KXH5265"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 21
 indirect_fund_count: 0
 alias_count: 13
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco China Technology ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46138E8003` · **Ticker:** `CQQQ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **21** กอง
 

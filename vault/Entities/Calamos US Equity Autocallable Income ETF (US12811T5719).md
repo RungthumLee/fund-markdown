@@ -7,6 +7,9 @@ figi: "BBG01VPYP2K4"
 share_class_figi: "BBG01VPYP3N9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Calamos US Equity Autocallable Income ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US12811T5719` · **Ticker:** `CAIE (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

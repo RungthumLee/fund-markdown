@@ -7,6 +7,9 @@ figi: "BBG00NKQC2T0"
 share_class_figi: "BBG00NHX4J57"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco CoinShares Global Blockchain UCITS ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BGBN6P67` · **Ticker:** `BCHNGBX (XS)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

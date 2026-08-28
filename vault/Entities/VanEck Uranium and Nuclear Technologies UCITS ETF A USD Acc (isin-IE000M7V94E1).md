@@ -7,6 +7,9 @@ figi: "BBG01DR6QTR6"
 share_class_figi: "BBG01DR6D5B9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Uranium and Nuclear Technologies UCITS ETF A USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE000M7V94E1` · **Ticker:** `NUKL (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

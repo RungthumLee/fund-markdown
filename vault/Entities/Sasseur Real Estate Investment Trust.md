@@ -7,6 +7,9 @@ figi: "BBG00K8HW5J2"
 share_class_figi: "BBG00K8HW5K0"
 figi_type: "REIT"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Sasseur Real Estate Investment Trust
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG1ED2000000` · **Ticker:** `SASSR (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หน่วยลงทุน** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

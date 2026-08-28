@@ -7,6 +7,8 @@ figi: "BBG005NBRJ98"
 share_class_figi: "BBG005NBRJM3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 UBS ASSET MANAGEMENT
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0969639128` · **Ticker:** `SS1EUA (SW)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **4** กอง
 

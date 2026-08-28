@@ -7,6 +7,9 @@ figi: "BBG00DSB6FH8"
 share_class_figi: "BBG00DSB6FJ6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 GLOBAL X MANAGEMENT CO LLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US37954Y7803` · **Ticker:** `SNSR (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

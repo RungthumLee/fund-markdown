@@ -7,6 +7,8 @@ figi: "BBG00HLH6XW7"
 share_class_figi: "BBG00HLHRDN8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 UBS Lux Equity Sicav/Luxembour
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1676119669` · **Ticker:** `UBCIA1A (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

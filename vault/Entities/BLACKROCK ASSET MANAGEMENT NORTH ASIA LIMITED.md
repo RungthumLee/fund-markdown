@@ -7,6 +7,9 @@ figi: "BBG000BL3596"
 share_class_figi: "BBG001S92BD6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BLACKROCK ASSET MANAGEMENT NORTH ASIA LIMITED
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK2801040828` · **Ticker:** `2801 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **6** กอง
 

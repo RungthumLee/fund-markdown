@@ -7,6 +7,9 @@ figi: "BBG0016XRHG4"
 share_class_figi: "BBG001S9MDQ6"
 figi_type: "REIT"
 kind: "equity"
+domicile_country: "สิงคโปร์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 13
 indirect_fund_count: 0
 alias_count: 9
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Mapletree Industrial Trust
 
 **ประเภท:** หุ้น · **ISIN:** `SG2C32962814` · **Ticker:** `MINT (SP)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หุ้น** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

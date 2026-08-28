@@ -7,6 +7,9 @@ figi: "BBG000QN0RR1"
 share_class_figi: "BBG001SSD812"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Investment Management (UK) Limited
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642886612` · **Ticker:** `IEI (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **12** กอง
 

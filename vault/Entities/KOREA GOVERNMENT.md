@@ -6,6 +6,8 @@ ticker: "KOREAP 0 12/10/29 P291"
 figi: "BBG00004F0X7"
 figi_type: "DOMESTIC"
 kind: "bill"
+domicile_country: "เกาหลีใต้"
+country: "เกาหลีใต้"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -15,6 +17,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 KOREA GOVERNMENT
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `KRC035FP29C6` · **Ticker:** `KOREAP 0 12/10/29 P291 (KOREA)`
+
+**จดทะเบียน:** เกาหลีใต้ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

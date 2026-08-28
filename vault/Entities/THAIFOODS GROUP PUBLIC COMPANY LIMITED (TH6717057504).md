@@ -6,6 +6,8 @@ ticker: "TFG-W4"
 figi: "BBG01LTLS129"
 figi_type: "Equity WRT"
 kind: "other"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • THAIFOODS GROUP PUBLIC COMPANY LIMITED
 
 **ประเภท:** อื่น ๆ · **ISIN:** `TH6717057504` · **Ticker:** `TFG-W4 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

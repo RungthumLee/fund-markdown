@@ -6,6 +6,8 @@ ticker: "RJHIAB 0 03/01/27 CD"
 figi: "BBG020M8K271"
 figi_type: "EURO-DOLLAR"
 kind: "other"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • Alrajhi Banking and Investment Corporation
 
 **ประเภท:** อื่น ๆ · **ISIN:** `XS3308604308` · **Ticker:** `RJHIAB 0 03/01/27 CD (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

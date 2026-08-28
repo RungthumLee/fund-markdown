@@ -7,6 +7,9 @@ figi: "BBG000FJ5657"
 share_class_figi: "BBG001SNL4S4"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ออสเตรเลีย"
+market_country: "ออสเตรเลีย"
+country: "ออสเตรเลีย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ CHARTER HALL GROUP
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `AU000000CHC0` · **Ticker:** `CHC (AU)`
+
+**ตลาดซื้อขาย:** ออสเตรเลีย
 
 ถือโดยตรง **3** กอง
 

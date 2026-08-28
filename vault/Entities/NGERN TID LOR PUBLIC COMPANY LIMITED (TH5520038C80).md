@@ -6,6 +6,8 @@ ticker: "TIDLOR 0 12/01/28 25-2"
 figi: "BBG01YVR2329"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 31
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 NGERN TID LOR PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH5520038C80` · **Ticker:** `TIDLOR 0 12/01/28 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **31** กอง
 

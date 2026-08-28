@@ -7,6 +7,9 @@ figi: "BBG007X18998"
 share_class_figi: "BBG007X184T7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "เยอรมนี"
+country: "เยอรมนี"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Asset Management
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BQN1K901` · **Ticker:** `CEMS (GR)`
+
+**ตลาดซื้อขาย:** เยอรมนี · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

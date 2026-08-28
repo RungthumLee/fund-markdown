@@ -7,6 +7,9 @@ figi: "BBG000C0YGH4"
 share_class_figi: "BBG001SCNW31"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหราชอาณาจักร"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 36
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 AstraZeneca PLC
 
 **ประเภท:** หุ้น · **ISIN:** `GB0009895292` · **Ticker:** `AZN (LN)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สหราชอาณาจักร จาก ISIN
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **36** กอง
 

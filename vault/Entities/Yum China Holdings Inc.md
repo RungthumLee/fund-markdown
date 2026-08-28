@@ -7,6 +7,9 @@ figi: "BBG00B8N0HG1"
 share_class_figi: "BBG00B8N0HH0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Yum China Holdings Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US98850P1093` · **Ticker:** `YUMC (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

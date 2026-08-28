@@ -6,6 +6,8 @@ ticker: "THAIGB 1.585 12/17/35"
 figi: "BBG00WHL3BX0"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 54
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ MINISTRY OF FINANCE
 
 **ประเภท:** พันธบัตร · **ISIN:** `TH062303FC01` · **Ticker:** `THAIGB 1.585 12/17/35 (LUXEMBOURG)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **54** กอง
 

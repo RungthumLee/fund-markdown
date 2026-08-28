@@ -6,6 +6,8 @@ ticker: "KCARTB 4.23 11/09/26 23-1"
 figi: "BBG01K2R0MF7"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 KRUNGTHAI CAR RENT AND LEASE PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0869036B06` · **Ticker:** `KCARTB 4.23 11/09/26 23-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

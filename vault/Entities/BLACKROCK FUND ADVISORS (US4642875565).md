@@ -7,6 +7,9 @@ figi: "BBG000FS8GY0"
 share_class_figi: "BBG001SGYSW7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BLACKROCK FUND ADVISORS
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642875565` · **Ticker:** `IBB (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

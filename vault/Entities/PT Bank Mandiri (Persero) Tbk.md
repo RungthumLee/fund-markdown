@@ -7,6 +7,9 @@ figi: "BBG000CGNY64"
 share_class_figi: "BBG001SC6F91"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อินโดนีเซีย"
+market_country: "อินโดนีเซีย"
+country: "อินโดนีเซีย"
 fund_count: 2
 indirect_fund_count: 3
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 PT Bank Mandiri (Persero) Tbk
 
 **ประเภท:** หุ้น · **ISIN:** `ID1000095003` · **Ticker:** `BMRI (IJ)`
+
+**ตลาดซื้อขาย:** อินโดนีเซีย
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

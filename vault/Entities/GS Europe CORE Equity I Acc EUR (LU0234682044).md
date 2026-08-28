@@ -7,6 +7,9 @@ figi: "BBG000GG52Y9"
 share_class_figi: "BBG001SQ80K8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 GS Europe CORE Equity I Acc EUR
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0234682044` · **Ticker:** `GSECEIA (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

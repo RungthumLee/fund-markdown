@@ -7,6 +7,8 @@ figi: "BBG000DY97J5"
 share_class_figi: "BBG001T235D2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Asia Trust - iShares Core MSCI AC Asia ex Japan Index ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000051877` · **Ticker:** `3010 (HK)`
+
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **5** กอง
 

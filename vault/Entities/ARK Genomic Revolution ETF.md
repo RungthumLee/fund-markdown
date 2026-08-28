@@ -7,6 +7,9 @@ figi: "BBG007FJPCB0"
 share_class_figi: "BBG007FJPCC9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ARK Genomic Revolution ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US00214Q3020` · **Ticker:** `ARKG (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

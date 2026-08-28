@@ -7,6 +7,9 @@ figi: "BBG023CY9MM1"
 share_class_figi: "BBG023CY9NL0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 1
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 XOM US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US30233Q1085` · **Ticker:** `XOM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

@@ -6,6 +6,8 @@ ticker: "HYUCAP 4.72 04/02/27 EMTN"
 figi: "BBG01M42C329"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Hyundai Capital Services Inc
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS2794598495` · **Ticker:** `HYUCAP 4.72 04/02/27 EMTN (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

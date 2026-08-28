@@ -7,6 +7,9 @@ figi: "BBG00BNB1NX7"
 share_class_figi: "BBG00BNB1NZ5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JPMorgan Funds - Income Fund C (acc) USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1041600427` · **Ticker:** `JPMINCC (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

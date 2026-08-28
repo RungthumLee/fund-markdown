@@ -7,6 +7,9 @@ figi: "BBG01V30CDN9"
 share_class_figi: "BBG01V30CCX0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Quantum Computing UCITS ETF A USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE0007Y8Y157` · **Ticker:** `QUTM (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

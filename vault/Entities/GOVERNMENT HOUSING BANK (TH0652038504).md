@@ -6,6 +6,8 @@ ticker: "GHBTB 1.89 05/27/28 25-1"
 figi: "BBG01V86XYM3"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 GOVERNMENT HOUSING BANK
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0652038504` · **Ticker:** `GHBTB 1.89 05/27/28 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

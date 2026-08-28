@@ -7,6 +7,9 @@ figi: "BBG009LV6D30"
 share_class_figi: "BBG009LV6D49"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Baillie Gifford WW EM LdgComs B USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BW0DJL69` · **Ticker:** `BGWEBUA (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

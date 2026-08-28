@@ -7,6 +7,9 @@ figi: "BBG0073F9RT7"
 share_class_figi: "BBG0073F9RS8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 4
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Lumentum Holdings Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US55024U1097` · **Ticker:** `LITE (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

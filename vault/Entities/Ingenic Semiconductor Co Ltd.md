@@ -7,6 +7,9 @@ figi: "BBG00191J816"
 share_class_figi: "BBG001TFZFF4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Ingenic Semiconductor Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100001377` · **Ticker:** `300223 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **3** กอง
 

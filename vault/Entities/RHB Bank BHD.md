@@ -6,6 +6,8 @@ ticker: "RHBCMK 0 11/10/26 CP"
 figi: "BBG01YC6H2G7"
 figi_type: "DOMESTIC"
 kind: "other"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • RHB Bank BHD
 
 **ประเภท:** อื่น ๆ · **ISIN:** `MYBRE2501215` · **Ticker:** `RHBCMK 0 11/10/26 CP (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

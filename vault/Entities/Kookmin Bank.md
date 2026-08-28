@@ -6,6 +6,8 @@ ticker: "CITNAT 0 01/21/27 CD"
 figi: "BBG01ZK87GP1"
 figi_type: "EURO-DOLLAR"
 kind: "other"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • Kookmin Bank
 
 **ประเภท:** อื่น ๆ · **ISIN:** `XS3276954362` · **Ticker:** `CITNAT 0 01/21/27 CD (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

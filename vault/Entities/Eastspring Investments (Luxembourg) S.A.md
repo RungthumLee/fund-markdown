@@ -7,6 +7,9 @@ figi: "BBG00SXJKPL9"
 share_class_figi: "BBG00SXJPPH9"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Eastspring Investments (Luxembourg) S.A
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2127497613` · **Ticker:** `EAGGECU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

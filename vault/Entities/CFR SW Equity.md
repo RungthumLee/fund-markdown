@@ -7,6 +7,9 @@ figi: "BBG000BSJVR7"
 share_class_figi: "BBG001S9HD19"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สวิตเซอร์แลนด์"
+market_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 CFR SW Equity
 
 **ประเภท:** หุ้น · **ISIN:** `CH0210483332` · **Ticker:** `CFR (SW)`
+
+**ตลาดซื้อขาย:** สวิตเซอร์แลนด์
 
 ถือโดยตรง **3** กอง
 

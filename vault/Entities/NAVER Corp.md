@@ -6,6 +6,8 @@ ticker: "NHNCOR 1.142 04/30/27 1"
 figi: "BBG01JVLX4Q3"
 figi_type: "SAMURAI"
 kind: "bond"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 1
 indirect_fund_count: 2
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, held-indirectly, multi-alias]
 # 📄 NAVER Corp
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `JP541039APB4` · **Ticker:** `NHNCOR 1.142 04/30/27 1 (NOT LISTED)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

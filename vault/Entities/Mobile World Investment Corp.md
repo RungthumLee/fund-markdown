@@ -7,6 +7,9 @@ figi: "BBG006S6NN24"
 share_class_figi: "BBG006S6NN33"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 16
 indirect_fund_count: 4
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Mobile World Investment Corp
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000MWG0` · **Ticker:** `MWG (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **16** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

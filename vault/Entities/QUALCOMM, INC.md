@@ -7,6 +7,9 @@ figi: "BBG000CGC1X8"
 share_class_figi: "BBG001S6VS70"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 QUALCOMM, INC.
 
 **ประเภท:** หุ้น · **ISIN:** `US7475251036` · **Ticker:** `QCOM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

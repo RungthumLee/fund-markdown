@@ -7,6 +7,9 @@ figi: "BBG000HT3Z79"
 share_class_figi: "BBG001SHTTV0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Vanguard Morningstar Small-Cap ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US9229087518` · **Ticker:** `VB (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

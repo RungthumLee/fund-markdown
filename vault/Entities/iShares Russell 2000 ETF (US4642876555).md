@@ -7,6 +7,9 @@ figi: "BBG000CGC9C4"
 share_class_figi: "BBG001SFC7Y7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 15
 indirect_fund_count: 0
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Russell 2000 ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642876555` · **Ticker:** `IWM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **15** กอง
 

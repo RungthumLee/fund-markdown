@@ -7,6 +7,9 @@ figi: "BBG000BQBKR3"
 share_class_figi: "BBG001S5TSK0"
 figi_type: "ADR"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Novo Nordisk A/S
 
 **ประเภท:** หุ้น · **ISIN:** `US6701002056` · **Ticker:** `NVO (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

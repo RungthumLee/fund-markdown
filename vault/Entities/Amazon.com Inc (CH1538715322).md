@@ -6,6 +6,8 @@ ticker: "AMZN 0.835 05/28/29"
 figi: "BBG02284BDF9"
 figi_type: "EURO NON-DOLLAR"
 kind: "bond"
+domicile_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Amazon.com Inc
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `CH1538715322` · **Ticker:** `AMZN 0.835 05/28/29 (SIX)`
+
+**จดทะเบียน:** สวิตเซอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

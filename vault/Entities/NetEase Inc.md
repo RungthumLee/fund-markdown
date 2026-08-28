@@ -7,6 +7,9 @@ figi: "BBG00V75RJT0"
 share_class_figi: "BBG001SFKKH8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 NetEase Inc
 
 **ประเภท:** หุ้น · **ISIN:** `KYG6427A1022` · **Ticker:** `4Y01 (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **8** กอง
 

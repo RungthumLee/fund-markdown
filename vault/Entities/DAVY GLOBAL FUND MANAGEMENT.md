@@ -7,6 +7,9 @@ figi: "BBG012JJT9L8"
 share_class_figi: "BBG012NL88J6"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 DAVY GLOBAL FUND MANAGEMENT
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE000IAENA89` · **Ticker:** `DAAGEPU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

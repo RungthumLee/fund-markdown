@@ -7,6 +7,9 @@ figi: "BBG019SW6Z77"
 share_class_figi: "BBG019SW6WD7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 184
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 i-Tail Corporation Public Company Limited
 
 **ประเภท:** หุ้น · **ISIN:** `THB056010002` · **Ticker:** `ITC (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **184** กอง
 

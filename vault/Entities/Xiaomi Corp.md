@@ -7,6 +7,9 @@ figi: "BBG00L8NB957"
 share_class_figi: "BBG00KVR9RT1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Xiaomi Corp
 
 **ประเภท:** หุ้น · **ISIN:** `KYG9830T1067` · **Ticker:** `3CP (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **6** กอง
 

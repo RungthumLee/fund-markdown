@@ -7,6 +7,9 @@ figi: "BBG0038P1FJ4"
 share_class_figi: "BBG0038P1FK2"
 figi_type: "Stapled Security"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Far East Hospitality Trust
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG2F08984575` · **Ticker:** `FEHT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **8** กอง
 

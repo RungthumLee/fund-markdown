@@ -7,6 +7,9 @@ figi: "BBG00FGPS7N2"
 share_class_figi: "BBG00FGYRKP3"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BNY Mellon Global Funds plc/ir
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BD5CV864` · **Ticker:** `BNYGSWU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

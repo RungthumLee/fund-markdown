@@ -7,6 +7,9 @@ figi: "BBG0015VYNT4"
 share_class_figi: "BBG001TC6MC1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Vanguard ETF/USA
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US9229083632` · **Ticker:** `VOO (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

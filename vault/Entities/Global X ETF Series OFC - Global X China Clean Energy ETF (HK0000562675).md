@@ -7,6 +7,9 @@ figi: "BBG00RCCDJW9"
 share_class_figi: "BBG00RCCDJX8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X ETF Series OFC - Global X China Clean Energy ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000562675` · **Ticker:** `2809 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **2** กอง
 

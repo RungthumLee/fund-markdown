@@ -7,6 +7,9 @@ figi: "BBG00RYHPJX0"
 share_class_figi: "BBG00RYHPK03"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Yuanjie Semiconductor Technolo
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100005VF9` · **Ticker:** `688498 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **6** กอง
 

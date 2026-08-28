@@ -7,6 +7,9 @@ figi: "BBG000D02J82"
 share_class_figi: "BBG001SGYST1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Oil Services ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US92189H6071` · **Ticker:** `OIH (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

@@ -6,6 +6,8 @@ ticker: "EGAT 1.4 09/15/30 25-1"
 figi: "BBG01X9RRPX6"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 ELECTRICITY GENERATING AUTHORITY OF THAILAND
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0648A3A908` · **Ticker:** `EGAT 1.4 09/15/30 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

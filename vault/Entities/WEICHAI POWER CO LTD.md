@@ -7,6 +7,9 @@ figi: "BBG000MCX7Q8"
 share_class_figi: "BBG001SJXR72"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 WEICHAI POWER CO LTD
 
 **ประเภท:** หุ้น · **ISIN:** `CNE1000004L9` · **Ticker:** `WI4 (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **3** กอง
 

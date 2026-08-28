@@ -7,6 +7,8 @@ figi: "BBG000BDW8M1"
 share_class_figi: "BBG001S6HTT0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 GUANGDONG INVESTMENT LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `HK0270001396` · **Ticker:** `270 (HK)`
+
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **2** กอง
 

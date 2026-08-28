@@ -7,6 +7,8 @@ figi: "BBG003T1WHJ6"
 share_class_figi: "BBG003T1WHK4"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 SCB ASSET MANAGEMENT CO.,LTD.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH4102010006` · **Ticker:** `SCSP500 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

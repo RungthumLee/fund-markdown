@@ -7,6 +7,9 @@ figi: "BBG012VCQ1M8"
 share_class_figi: "BBG012VCQ2K8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Simplify Asset Management
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US82889N7729` · **Ticker:** `PINK (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

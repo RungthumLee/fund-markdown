@@ -7,6 +7,9 @@ figi: "BBG000GYW9Q4"
 share_class_figi: "BBG001SP23T1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Asia Commercial Bank
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000ACB8` · **Ticker:** `ACB (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **11** กอง
 

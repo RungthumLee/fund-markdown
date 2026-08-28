@@ -7,6 +7,9 @@ figi: "BBG000BF4GM9"
 share_class_figi: "BBG001S6LW72"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "มาเลเซีย"
+market_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 4
 indirect_fund_count: 1
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 MAY MK Equity
 
 **ประเภท:** หุ้น · **ISIN:** `MYL1155OO000` · **Ticker:** `MAY (MK)`
+
+**ตลาดซื้อขาย:** มาเลเซีย
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

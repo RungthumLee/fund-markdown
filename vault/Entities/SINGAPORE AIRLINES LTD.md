@@ -7,6 +7,9 @@ figi: "BBG000BFDQY4"
 share_class_figi: "BBG001S6NRQ0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สิงคโปร์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 SINGAPORE AIRLINES LTD
 
 **ประเภท:** หุ้น · **ISIN:** `SG1V61937297` · **Ticker:** `SIA (SP)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

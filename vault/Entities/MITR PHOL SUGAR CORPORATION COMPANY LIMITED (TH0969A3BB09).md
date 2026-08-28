@@ -6,6 +6,8 @@ ticker: "MITPTB 4.72 11/03/31 23-1"
 figi: "BBG01K0XT8Z4"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 MITR PHOL SUGAR CORPORATION COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0969A3BB09` · **Ticker:** `MITPTB 4.72 11/03/31 23-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000BLLM26"
 share_class_figi: "BBG001S6HL80"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 6
 indirect_fund_count: 6
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 ASMPT LTD
 
 **ประเภท:** หุ้น · **ISIN:** `KYG0535Q1331` · **Ticker:** `AY7A (GR)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **6** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **6** กอง
 

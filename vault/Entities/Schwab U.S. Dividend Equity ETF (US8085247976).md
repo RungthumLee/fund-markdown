@@ -7,6 +7,9 @@ figi: "BBG0025RWKW5"
 share_class_figi: "BBG0025RWLM4"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Schwab U.S. Dividend Equity ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US8085247976` · **Ticker:** `SCHD (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG0018MS795"
 share_class_figi: "BBG001TFBGQ6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Giant Network Group Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100000YJ6` · **Ticker:** `002532 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **3** กอง
 

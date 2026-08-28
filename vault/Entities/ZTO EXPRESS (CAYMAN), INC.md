@@ -7,6 +7,9 @@ figi: "BBG00XP6L967"
 share_class_figi: "BBG00F0R66Q8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 ZTO EXPRESS (CAYMAN), INC.
 
 **ประเภท:** หุ้น · **ISIN:** `KYG9897K1058` · **Ticker:** `ZTOB (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

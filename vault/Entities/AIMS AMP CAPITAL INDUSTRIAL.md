@@ -7,6 +7,9 @@ figi: "BBG000Q4F185"
 share_class_figi: "BBG001SRQSJ7"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ AIMS AMP CAPITAL INDUSTRIAL
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `SG2D63974620` · **Ticker:** `AAREIT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **8** กอง
 

@@ -3,6 +3,8 @@ title: "SANSIRI PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0577A76884"
 isin: "TH0577A76884"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 SANSIRI PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0577A76884`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

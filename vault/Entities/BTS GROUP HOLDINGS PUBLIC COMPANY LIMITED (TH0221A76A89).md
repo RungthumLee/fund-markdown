@@ -3,6 +3,8 @@ title: "BTS GROUP HOLDINGS PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0221A76A89"
 isin: "TH0221A76A89"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 BTS GROUP HOLDINGS PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0221A76A89`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

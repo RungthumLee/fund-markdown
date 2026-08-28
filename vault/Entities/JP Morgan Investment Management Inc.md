@@ -7,6 +7,9 @@ figi: "BBG000DMBXR2"
 share_class_figi: "BBG001S8CRC3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 10
 indirect_fund_count: 0
 alias_count: 9
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 JP Morgan Investment Management Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US46625H1005` · **Ticker:** `JPM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **10** กอง
 

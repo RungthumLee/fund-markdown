@@ -7,6 +7,9 @@ figi: "BBG00WGGVMB1"
 share_class_figi: "BBG00WGGVMC0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X ETF Series OFC - Global X China Semiconductor ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000637832` · **Ticker:** `3191 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **7** กอง
 

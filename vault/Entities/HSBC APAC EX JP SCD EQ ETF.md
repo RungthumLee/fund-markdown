@@ -7,6 +7,9 @@ figi: "BBG00WW58WG6"
 share_class_figi: "BBG00WR24PX9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 HSBC APAC EX JP SCD EQ ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BKY58G26` · **Ticker:** `HSXDUSD (XS)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

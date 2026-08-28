@@ -7,6 +7,9 @@ figi: "BBG000BH5DV1"
 share_class_figi: "BBG001S6TWR2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Intuit Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US4612021034` · **Ticker:** `INTU (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

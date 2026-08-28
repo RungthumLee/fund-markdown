@@ -6,6 +6,8 @@ ticker: "JTDB 0 08/20/26 1326"
 figi: "BBG01WMKGN29"
 figi_type: "DOMESTIC"
 kind: "govbond"
+domicile_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-govbond, multi-alias]
 # 🏛️ Government of Japan.
 
 **ประเภท:** พันธบัตร · **ISIN:** `JP1743261R87` · **Ticker:** `JTDB 0 08/20/26 1326 (NOT LISTED)`
+
+**จดทะเบียน:** ญี่ปุ่น จาก ISIN
 
 ถือโดยตรง **2** กอง
 

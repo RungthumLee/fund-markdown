@@ -7,6 +7,9 @@ figi: "BBG000V0C135"
 share_class_figi: "BBG001T0V2N1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 PHUOC HOA RUBBER JSC
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000PHR1` · **Ticker:** `PHR (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **3** กอง
 

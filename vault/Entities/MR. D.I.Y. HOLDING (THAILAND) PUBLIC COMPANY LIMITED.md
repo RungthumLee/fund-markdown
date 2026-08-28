@@ -7,6 +7,9 @@ figi: "BBG01PNKN3W6"
 share_class_figi: "BBG01PNKN3L8"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 61
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 MR. D.I.Y. HOLDING (THAILAND) PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `THD365010004` · **Ticker:** `MRDIYT (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **61** กอง
 

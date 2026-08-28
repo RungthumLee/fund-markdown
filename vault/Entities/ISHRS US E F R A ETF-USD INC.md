@@ -7,6 +7,9 @@ figi: "BBG00NNWBVZ4"
 share_class_figi: "BBG00NNWBWQ2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ISHRS US E F R A ETF-USD INC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US09290C1036` · **Ticker:** `DYNF (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

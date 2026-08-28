@@ -7,6 +7,9 @@ figi: "BBG000JZDDS8"
 share_class_figi: "BBG001SPMY48"
 figi_type: "REIT"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 9
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ESR Real Estate Investment Trust
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SGXC55341835` · **Ticker:** `EREIT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หน่วยลงทุน** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

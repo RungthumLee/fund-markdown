@@ -7,6 +7,9 @@ figi: "BBG000BFN695"
 share_class_figi: "BBG001S6T1S9"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "อิตาลี"
+market_country: "อิตาลี"
+country: "อิตาลี"
 fund_count: 2
 indirect_fund_count: 5
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 UniCredit SpA
 
 **ประเภท:** หุ้น · **ISIN:** `IT0005239360` · **Ticker:** `CRIN (GR)`
+
+**ตลาดซื้อขาย:** อิตาลี
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

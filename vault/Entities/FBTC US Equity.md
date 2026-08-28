@@ -7,6 +7,9 @@ figi: "BBG01KY66PW6"
 share_class_figi: "BBG01KY66QQ1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 FBTC US Equity
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US3159481098` · **Ticker:** `FBTC (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG008HD2TZ1"
 share_class_figi: "BBG008HD2V04"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 GS Japan Equity Ptnrs I Acc JPY (Snap)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1217871059` · **Ticker:** `GSJEPIJ (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

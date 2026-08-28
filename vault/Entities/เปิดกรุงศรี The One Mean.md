@@ -3,6 +3,8 @@ title: "เปิดกรุงศรี The One Mean"
 entity_id: "isin:THB200010007"
 isin: "THB200010007"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 เปิดกรุงศรี The One Mean
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `THB200010007`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

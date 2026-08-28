@@ -7,6 +7,9 @@ figi: "BBG00LBLDDR2"
 share_class_figi: "BBG00LBLDFH8"
 figi_type: "ADR"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 PINDUODUO, INC.
 
 **ประเภท:** หุ้น · **ISIN:** `US7223041028` · **Ticker:** `PDD (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

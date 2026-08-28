@@ -7,6 +7,9 @@ figi: "BBG005D5G3T7"
 share_class_figi: "BBG005D5G3V4"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JPM US Growth I acc USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0248059726` · **Ticker:** `JPUSGIU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **14** กอง
 

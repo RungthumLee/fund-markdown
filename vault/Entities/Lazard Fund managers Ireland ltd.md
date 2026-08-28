@@ -7,6 +7,9 @@ figi: "BBG00LK67GN9"
 share_class_figi: "BBG00LK80X82"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Lazard Fund managers Ireland ltd
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BD904R66` · **Ticker:** `LZEMPAU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

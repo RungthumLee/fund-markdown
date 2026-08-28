@@ -7,6 +7,9 @@ figi: "BBG00PBWWV16"
 share_class_figi: "BBG00PDMGT73"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Kasikorn Asset Management Co.,Ltd
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH9123010000` · **Ticker:** `KPSCGEQ (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

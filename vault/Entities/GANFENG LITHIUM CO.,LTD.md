@@ -7,6 +7,8 @@ figi: "BBG000QRQ2D4"
 share_class_figi: "BBG001T8JDQ1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 3
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 GANFENG LITHIUM CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE100000SF6` · **Ticker:** `002460 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

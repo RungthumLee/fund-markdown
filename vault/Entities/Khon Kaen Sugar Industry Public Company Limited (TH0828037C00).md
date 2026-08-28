@@ -6,6 +6,8 @@ ticker: "KSLTB 3.74 12/07/27 17-3"
 figi: "BBG00JG1M2K7"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Khon Kaen Sugar Industry Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0828037C00` · **Ticker:** `KSLTB 3.74 12/07/27 17-3 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

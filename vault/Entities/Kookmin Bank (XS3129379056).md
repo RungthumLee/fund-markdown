@@ -6,6 +6,8 @@ ticker: "CITNAT 0 07/24/26 GMTN"
 figi: "BBG01W44TRQ6"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Kookmin Bank
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `XS3129379056` · **Ticker:** `CITNAT 0 07/24/26 GMTN (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

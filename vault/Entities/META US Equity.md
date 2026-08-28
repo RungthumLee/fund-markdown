@@ -7,6 +7,9 @@ figi: "BBG000MM2P62"
 share_class_figi: "BBG001SQCQC5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 15
 indirect_fund_count: 104
 alias_count: 7
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 META US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US30303M1027` · **Ticker:** `META (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **15** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **104** กอง
 

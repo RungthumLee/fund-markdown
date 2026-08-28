@@ -3,6 +3,8 @@ title: "CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0176039681"
 isin: "TH0176039681"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 18
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 CENTRAL PLAZA HOTEL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0176039681`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **18** กอง
 

@@ -7,6 +7,8 @@ figi: "BBG013KKTKX3"
 share_class_figi: "BBG013KKT4H7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+country: "ไอร์แลนด์"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE0003Z9E2Y3` · **Ticker:** `4COP (GR)`
+
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

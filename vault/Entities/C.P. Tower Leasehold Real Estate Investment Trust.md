@@ -7,6 +7,9 @@ figi: "BBG005LZLRN9"
 share_class_figi: "BBG005LZLRL1"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ C.P. Tower Leasehold Real Estate Investment Trust
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `THC575010002` · **Ticker:** `CPTREIT (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

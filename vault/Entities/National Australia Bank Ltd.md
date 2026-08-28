@@ -6,6 +6,8 @@ ticker: "NAB 0.065 01/29/29 EMTN"
 figi: "BBG00RDG9WY3"
 figi_type: "EURO MTN"
 kind: "bond"
+domicile_country: "สวิตเซอร์แลนด์"
+country: "สวิตเซอร์แลนด์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 National Australia Bank Ltd
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `CH0517825326` · **Ticker:** `NAB 0.065 01/29/29 EMTN (SIX)`
+
+**จดทะเบียน:** สวิตเซอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

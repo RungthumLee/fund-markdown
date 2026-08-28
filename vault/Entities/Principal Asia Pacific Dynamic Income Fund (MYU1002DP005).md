@@ -7,6 +7,9 @@ figi: "BBG00B0H67M1"
 share_class_figi: "BBG00B0H67N0"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "มาเลเซีย"
+market_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Principal Asia Pacific Dynamic Income Fund
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `MYU1002DP005` · **Ticker:** `CPASUSD (MK)`
+
+**ตลาดซื้อขาย:** มาเลเซีย
 
 ถือโดยตรง **2** กอง
 

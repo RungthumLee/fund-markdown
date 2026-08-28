@@ -6,6 +6,8 @@ ticker: "MEAZTB 1.94 03/30/27 22-1"
 figi: "BBG016FVJC94"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 METROPOLITAN ELECTRICITY AUTHORITY
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0647037306` · **Ticker:** `MEAZTB 1.94 03/30/27 22-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

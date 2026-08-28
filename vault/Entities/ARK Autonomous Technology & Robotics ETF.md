@@ -7,6 +7,9 @@ figi: "BBG0077Q7038"
 share_class_figi: "BBG0077Q7047"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 ARK Autonomous Technology & Robotics ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US00214Q2030` · **Ticker:** `ARKQ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

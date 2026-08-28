@@ -7,6 +7,9 @@ figi: "BBG00D6RNBZ7"
 share_class_figi: "BBG00D6RN6L3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 AFTER YOU PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH7650010005` · **Ticker:** `AU (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **11** กอง
 

@@ -6,6 +6,8 @@ figi: "BBG00D9ZS3D3"
 share_class_figi: "BBG00DF16G37"
 figi_type: "Open-End Fund"
 kind: "fund"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 NOMURA FUNDS IRELAND PUBLIC LIMITED COMPANY - JAPAN STRATEGIC VALUE FUND R USD ACC
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `NOMJSRU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **7** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG01Q0BTZT6"
 share_class_figi: "BBG01Q0BM3Y8"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JPM Nasdaq Equity Premium Income Active UCITS ETF USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE000N6I8IU2` · **Ticker:** `JEQA (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

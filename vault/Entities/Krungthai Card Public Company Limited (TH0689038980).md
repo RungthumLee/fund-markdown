@@ -6,6 +6,8 @@ ticker: "KTCTB 0 09/15/28 25-1"
 figi: "BBG01XB38516"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 26
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Krungthai Card Public Company Limited
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH0689038980` · **Ticker:** `KTCTB 0 09/15/28 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **26** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00XYHY0K2"
 share_class_figi: "BBG00XYHY0L1"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Cipher Mining Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US17253J1060` · **Ticker:** `CIFR (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

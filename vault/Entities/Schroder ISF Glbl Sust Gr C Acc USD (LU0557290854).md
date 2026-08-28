@@ -7,6 +7,9 @@ figi: "BBG0018SDH32"
 share_class_figi: "BBG001TFLQW6"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Schroder ISF Glbl Sust Gr C Acc USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0557290854` · **Ticker:** `SGDWDCA (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

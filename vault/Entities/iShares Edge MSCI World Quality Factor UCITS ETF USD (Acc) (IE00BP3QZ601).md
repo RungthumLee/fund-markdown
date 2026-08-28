@@ -7,6 +7,9 @@ figi: "BBG0078PQL23"
 share_class_figi: "BBG0078NQ9H9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BP3QZ601` · **Ticker:** `IS3Q (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **5** กอง
 

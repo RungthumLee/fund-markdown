@@ -7,6 +7,9 @@ figi: "BBG005MQ8329"
 share_class_figi: "BBG005MQ8310"
 figi_type: "Unit"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 67
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE FUND
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH5097010000` · **Ticker:** `DIF (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **67** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG004C6GY20"
 share_class_figi: "BBG004C6GY48"
 figi_type: "Unit"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 16
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BTS RAIL MASS TRANSIT GROWTH INFRASTRUCTURE FUND
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH4447010000` · **Ticker:** `BTSGIF (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **16** กอง
 

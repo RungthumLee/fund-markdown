@@ -7,6 +7,9 @@ figi: "BBG007NCSNX5"
 share_class_figi: "BBG007HW5W27"
 figi_type: "REIT"
 kind: "equity"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 22
 indirect_fund_count: 1
 alias_count: 11
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Keppel DC REIT
 
 **ประเภท:** หุ้น · **ISIN:** `SG1AF6000009` · **Ticker:** `KDCREIT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หุ้น** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

@@ -7,6 +7,8 @@ figi: "BBG00HP9TW49"
 share_class_figi: "BBG00HP9TW58"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 14
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BCAP SET 100 ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH8092010009` · **Ticker:** `BSET100 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **14** กอง
 

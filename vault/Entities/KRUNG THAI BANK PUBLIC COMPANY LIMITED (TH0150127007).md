@@ -7,6 +7,8 @@ figi: "BBG020WCZ8C6"
 share_class_figi: "BBG020WCZ8D5"
 figi_type: "Receipt"
 kind: "other"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-other, multi-alias]
 # • KRUNG THAI BANK PUBLIC COMPANY LIMITED
 
 **ประเภท:** อื่น ๆ · **ISIN:** `TH0150127007` · **Ticker:** `MICRON80 (TB)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

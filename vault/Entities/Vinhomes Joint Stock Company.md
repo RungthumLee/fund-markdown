@@ -7,6 +7,9 @@ figi: "BBG00KMYS8P1"
 share_class_figi: "BBG00KMYS8T7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 9
 indirect_fund_count: 4
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Vinhomes Joint Stock Company
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000VHM0` · **Ticker:** `VHM (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **9** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **4** กอง
 

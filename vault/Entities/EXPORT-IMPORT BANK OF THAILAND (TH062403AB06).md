@@ -6,6 +6,8 @@ ticker: "EXIMTH 1.81 11/14/30 25-2"
 figi: "BBG01YGT31R8"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 EXPORT-IMPORT BANK OF THAILAND
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH062403AB06` · **Ticker:** `EXIMTH 1.81 11/14/30 25-2 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

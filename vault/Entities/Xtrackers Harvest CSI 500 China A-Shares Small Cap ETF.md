@@ -6,6 +6,8 @@ figi: "BBG006H1P0Q9"
 share_class_figi: "BBG006H1P0P0"
 figi_type: "ETP"
 kind: "fund"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `ASHS (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

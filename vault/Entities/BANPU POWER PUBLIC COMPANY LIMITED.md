@@ -3,6 +3,8 @@ title: "BANPU POWER PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH7462010003"
 isin: "TH7462010003"
 kind: "equity"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 BANPU POWER PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH7462010003`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

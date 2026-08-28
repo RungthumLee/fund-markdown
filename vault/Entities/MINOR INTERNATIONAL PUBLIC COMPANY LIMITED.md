@@ -7,6 +7,9 @@ figi: "BBG000BBVKZ5"
 share_class_figi: "BBG001S64124"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 382
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 MINOR INTERNATIONAL PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH0128B10Z09` · **Ticker:** `MINT (TB)`
+
+**ตลาดซื้อขาย:** สิงคโปร์ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **382** กอง
 

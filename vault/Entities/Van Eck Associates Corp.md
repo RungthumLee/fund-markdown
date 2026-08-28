@@ -7,6 +7,9 @@ figi: "BBG000PLNQN7"
 share_class_figi: "BBG001SR42Z0"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Van Eck Associates Corp
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US92189F1066` · **Ticker:** `GDX (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

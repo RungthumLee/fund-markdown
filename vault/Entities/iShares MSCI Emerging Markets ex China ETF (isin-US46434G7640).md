@@ -7,6 +7,9 @@ figi: "BBG00H5VLMJ6"
 share_class_figi: "BBG00H5VLN77"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 10
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares MSCI Emerging Markets ex China ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46434G7640` · **Ticker:** `EMXC (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง
 

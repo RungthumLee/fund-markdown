@@ -7,6 +7,9 @@ figi: "BBG002XRNH24"
 share_class_figi: "BBG002XRNHT5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Morningstar Wide Moat ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US92189F6438` · **Ticker:** `MOAT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

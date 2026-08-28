@@ -7,6 +7,9 @@ figi: "BBG00BMGSPG2"
 share_class_figi: "BBG00BMGSPF3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 DEO CA TRAFIC INFRASTRUCTURE
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000HHV0` · **Ticker:** `HHV (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **2** กอง
 

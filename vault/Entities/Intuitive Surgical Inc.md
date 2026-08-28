@@ -7,6 +7,9 @@ figi: "BBG000BJPDZ1"
 share_class_figi: "BBG001S7XR78"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 10
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Intuitive Surgical Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US46120E6023` · **Ticker:** `ISRG (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **10** กอง
 

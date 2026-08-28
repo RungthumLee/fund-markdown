@@ -7,6 +7,9 @@ figi: "BBG00LN4CVW2"
 share_class_figi: "BBG00LN4CWM1"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JP Morgan Investment Management Inc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46641Q2259` · **Ticker:** `BBCA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

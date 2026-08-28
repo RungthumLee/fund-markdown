@@ -3,6 +3,8 @@ title: "SCB ASSET MANAGEMENT CO.,LTD."
 entity_id: "isin:THA606010009"
 isin: "THA606010009"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 SCB ASSET MANAGEMENT CO.,LTD.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `THA606010009`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **6** กอง
 

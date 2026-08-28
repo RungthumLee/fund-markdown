@@ -7,6 +7,9 @@ figi: "BBG000H4HGB6"
 share_class_figi: "BBG001SJZWR7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 PING AN INSURANCE(GROUP) COMPANY OF CHINA, LTD .
 
 **ประเภท:** หุ้น · **ISIN:** `CNE1000003X6` · **Ticker:** `PIAIF (US)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **6** กอง
 

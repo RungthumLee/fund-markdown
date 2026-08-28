@@ -7,6 +7,9 @@ figi: "BBG006G2JVL2"
 share_class_figi: "BBG006G2JWB1"
 figi_type: "ADR"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 ALIBABA GROUP HOLDING-SP ADR
 
 **ประเภท:** หุ้น · **ISIN:** `US01609W1027` · **Ticker:** `BABA (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง
 

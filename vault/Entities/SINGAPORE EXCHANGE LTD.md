@@ -7,6 +7,9 @@ figi: "BBG000CQLPB7"
 share_class_figi: "BBG001SFDM82"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สิงคโปร์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 1
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 SINGAPORE EXCHANGE LTD
 
 **ประเภท:** หุ้น · **ISIN:** `SG1J26887955` · **Ticker:** `SGX (SP)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** สิงคโปร์ จาก ISIN
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

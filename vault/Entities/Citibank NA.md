@@ -2,6 +2,8 @@
 title: "Citibank NA."
 entity_id: "deposit:CITIBANK"
 kind: "deposit"
+market_country: "เนเธอร์แลนด์"
+country: "เนเธอร์แลนด์"
 fund_count: 11
 indirect_fund_count: 0
 alias_count: 2
@@ -11,6 +13,8 @@ tags: [entity, entity-deposit, multi-alias]
 # 🏦 Citibank NA.
 
 **ประเภท:** เงินฝาก
+
+**ตลาดซื้อขาย:** เนเธอร์แลนด์
 
 ถือโดยตรง **11** กอง
 

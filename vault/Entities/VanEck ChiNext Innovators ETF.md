@@ -6,6 +6,8 @@ figi: "BBG006W461W8"
 share_class_figi: "BBG006W461V9"
 figi_type: "ETP"
 kind: "fund"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck ChiNext Innovators ETF
 
 **ประเภท:** หน่วยลงทุน · **Ticker:** `CNXT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

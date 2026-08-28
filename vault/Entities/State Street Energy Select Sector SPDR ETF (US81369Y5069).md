@@ -7,6 +7,9 @@ figi: "BBG000BJ20S2"
 share_class_figi: "BBG001S7T1S7"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 9
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 State Street Energy Select Sector SPDR ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US81369Y5069` · **Ticker:** `XLE (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **7** กอง
 

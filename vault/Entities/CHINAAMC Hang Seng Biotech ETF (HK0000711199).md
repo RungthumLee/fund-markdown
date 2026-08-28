@@ -7,6 +7,9 @@ figi: "BBG00ZHT85X4"
 share_class_figi: "BBG00ZHT85Y3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 CHINAAMC Hang Seng Biotech ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000711199` · **Ticker:** `3069 (HK)`
+
+**ตลาดซื้อขาย:** ฮ่องกง
 
 ถือโดยตรง **6** กอง
 

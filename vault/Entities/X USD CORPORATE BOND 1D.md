@@ -7,6 +7,9 @@ figi: "BBG00B01Q9Q6"
 share_class_figi: "BBG00B01Q9R5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 X USD CORPORATE BOND 1D
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BZ036H21` · **Ticker:** `XDGU (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

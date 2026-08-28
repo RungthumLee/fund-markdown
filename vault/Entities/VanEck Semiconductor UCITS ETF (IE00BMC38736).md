@@ -7,6 +7,9 @@ figi: "BBG00YCY4RY6"
 share_class_figi: "BBG00YCY2LW3"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VanEck Semiconductor UCITS ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BMC38736` · **Ticker:** `VVSM (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **5** กอง
 

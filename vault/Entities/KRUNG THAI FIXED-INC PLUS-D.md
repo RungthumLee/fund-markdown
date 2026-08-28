@@ -7,6 +7,9 @@ figi: "BBG000DT5DY0"
 share_class_figi: "BBG001SGJWC7"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 19
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 KRUNG THAI FIXED-INC PLUS-D
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `TH1187010000` · **Ticker:** `KRUKTDF (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **19** กอง
 

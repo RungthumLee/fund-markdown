@@ -3,6 +3,8 @@ title: "PTG ENERGY PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH4547038687"
 isin: "TH4547038687"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 PTG ENERGY PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH4547038687`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **4** กอง
 

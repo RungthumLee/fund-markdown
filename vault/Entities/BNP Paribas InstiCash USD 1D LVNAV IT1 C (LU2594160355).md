@@ -7,6 +7,8 @@ figi: "BBG01JF9P977"
 share_class_figi: "BBG01JFJZNR1"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BNP Paribas InstiCash USD 1D LVNAV IT1 C
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2594160355` · **Ticker:** `BNIIT1C (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **3** กอง
 

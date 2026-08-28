@@ -7,6 +7,9 @@ figi: "BBG0042586P8"
 share_class_figi: "BBG0042586Q7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 41
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 PTG ENERGY PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH4547010009` · **Ticker:** `PTG (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **41** กอง
 

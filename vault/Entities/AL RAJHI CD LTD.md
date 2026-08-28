@@ -6,6 +6,8 @@ ticker: "RJHIAB 0 08/06/26 CD"
 figi: "BBG01WJ5KF00"
 figi_type: "EURO-DOLLAR"
 kind: "other"
+domicile_country: "ระหว่างประเทศ"
+country: "ระหว่างประเทศ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 3
@@ -15,6 +17,8 @@ tags: [entity, entity-other, multi-alias]
 # • AL RAJHI CD LTD
 
 **ประเภท:** อื่น ๆ · **ISIN:** `XS3148147385` · **Ticker:** `RJHIAB 0 08/06/26 CD (NOT LISTED)`
+
+**จดทะเบียน:** ระหว่างประเทศ จาก ISIN
 
 ถือโดยตรง **4** กอง
 

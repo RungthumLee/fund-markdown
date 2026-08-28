@@ -6,6 +6,8 @@ ticker: "THAITB 0 10/21/26 182"
 figi: "BBG01ZRLLD21"
 figi_type: "DOMESTIC"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 MINISTRY OF FINANCE
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0623A76A83` · **Ticker:** `THAITB 0 10/21/26 182 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **7** กอง
 

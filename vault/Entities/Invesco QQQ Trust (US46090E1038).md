@@ -7,6 +7,9 @@ figi: "BBG000BSWKH7"
 share_class_figi: "BBG001S9GN63"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 15
 indirect_fund_count: 0
 alias_count: 11
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco QQQ Trust
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46090E1038` · **Ticker:** `QQQ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **15** กอง
 

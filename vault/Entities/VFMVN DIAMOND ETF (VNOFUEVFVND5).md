@@ -3,6 +3,9 @@ title: "VFMVN DIAMOND ETF"
 entity_id: "isin:VNOFUEVFVND5"
 isin: "VNOFUEVFVND5"
 kind: "fund"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 4
@@ -12,6 +15,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 VFMVN DIAMOND ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `VNOFUEVFVND5`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **4** กอง
 

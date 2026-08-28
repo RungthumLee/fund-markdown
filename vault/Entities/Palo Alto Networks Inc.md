@@ -7,6 +7,9 @@ figi: "BBG0014GJCT9"
 share_class_figi: "BBG001T9NWN5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 9
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Palo Alto Networks Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US6974351057` · **Ticker:** `PANW (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **9** กอง
 

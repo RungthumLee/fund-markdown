@@ -7,6 +7,9 @@ figi: "BBG01QFW6Y30"
 share_class_figi: "BBG01P7Y2552"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 234
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 STECON GROUP PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `THC381010006` · **Ticker:** `STECON (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **234** กอง
 

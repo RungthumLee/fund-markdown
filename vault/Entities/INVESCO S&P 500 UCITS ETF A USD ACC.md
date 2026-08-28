@@ -6,6 +6,8 @@ figi: "BBG000QXQZL9"
 share_class_figi: "BBG001T8QMX5"
 figi_type: "ETP"
 kind: "equity"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 INVESCO S&P 500 UCITS ETF A USD ACC
 
 **ประเภท:** หุ้น · **Ticker:** `SPXS (LN)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หุ้น** แต่ Bloomberg ระบุว่าเป็น **ETP**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

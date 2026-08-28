@@ -7,6 +7,8 @@ figi: "BBG000R7HVC4"
 share_class_figi: "BBG001SRC1W6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 WEICHAI POWER CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE1000000D4` · **Ticker:** `000338 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

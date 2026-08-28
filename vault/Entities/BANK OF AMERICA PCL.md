@@ -7,6 +7,9 @@ figi: "BBG01VTVJ9C7"
 share_class_figi: "BBG01VTVJ9F4"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 9
 indirect_fund_count: 14
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, held-indirectly, multi-alias]
 # 🏗️ BANK OF AMERICA PCL.
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `SGXC92727947` · **Ticker:** `NTTDCR (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **9** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **14** กอง
 

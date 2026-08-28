@@ -7,6 +7,9 @@ figi: "BBG00N2PX1M8"
 share_class_figi: "BBG00N2PX228"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Xtrackers Artificial Intelligence & Big Data UCITS ETF 1C
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BGV5VN51` · **Ticker:** `XAIX (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

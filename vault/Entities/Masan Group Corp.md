@@ -7,6 +7,9 @@ figi: "BBG000PSPMR5"
 share_class_figi: "BBG001T5YQX3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 13
 indirect_fund_count: 1
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Masan Group Corp
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000MSN4` · **Ticker:** `MSN (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **13** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

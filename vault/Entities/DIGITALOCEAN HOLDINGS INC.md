@@ -7,6 +7,9 @@ figi: "BBG00ZGF6SS3"
 share_class_figi: "BBG00ZGF6TM7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 DIGITALOCEAN HOLDINGS INC
 
 **ประเภท:** หุ้น · **ISIN:** `US25402D1028` · **Ticker:** `DOCN (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

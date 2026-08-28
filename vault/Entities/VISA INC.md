@@ -7,6 +7,9 @@ figi: "BBG000PSKYX7"
 share_class_figi: "BBG001SRCFY3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 7
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 VISA INC
 
 **ประเภท:** หุ้น · **ISIN:** `US92826C8394` · **Ticker:** `V (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **7** กอง
 

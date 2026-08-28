@@ -7,6 +7,9 @@ figi: "BBG016VBYBR5"
 share_class_figi: "BBG016VBYCL9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 FMET US Equity
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US3160921884` · **Ticker:** `FMET (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง
 

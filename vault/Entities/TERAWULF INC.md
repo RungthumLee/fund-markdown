@@ -7,6 +7,9 @@ figi: "BBG0122MC900"
 share_class_figi: "BBG0122MC919"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 TERAWULF INC
 
 **ประเภท:** หุ้น · **ISIN:** `US88080T1043` · **Ticker:** `WULF (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG0081VR6S9"
 share_class_figi: "BBG0081VR6T8"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Nomura Fds Global Dynamic Bond I USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BTL1GH31` · **Ticker:** `NGDYGIU (ID)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **2** กอง
 

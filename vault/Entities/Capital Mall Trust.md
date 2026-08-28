@@ -7,6 +7,9 @@ figi: "BBG000HR2RM5"
 share_class_figi: "BBG001SFLVP4"
 figi_type: "REIT"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 23
 indirect_fund_count: 1
 alias_count: 12
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 # 📦 Capital Mall Trust
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG1M51904654` · **Ticker:** `CICT (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 > [!WARNING] บลจ. ยื่นสินทรัพย์นี้เป็น **หน่วยลงทุน** แต่ Bloomberg ระบุว่าเป็น **REIT**
 > ข้อมูล ก.ล.ต. ใช้รหัสที่ บลจ. เป็นผู้กรอก ซึ่งแต่ละรายไม่ตรงกัน — หน้านี้ยังจัดกลุ่มตามรหัสที่ยื่น

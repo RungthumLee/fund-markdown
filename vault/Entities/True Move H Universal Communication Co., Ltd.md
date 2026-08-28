@@ -6,6 +6,8 @@ ticker: "TUCCTB 3.13 07/05/26 19-1"
 figi: "BBG00PF24Z65"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 True Move H Universal Communication Co., Ltd.
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH6693A36705` · **Ticker:** `TUCCTB 3.13 07/05/26 19-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **5** กอง
 

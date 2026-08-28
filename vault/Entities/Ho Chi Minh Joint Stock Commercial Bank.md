@@ -7,6 +7,9 @@ figi: "BBG00DWYMWB4"
 share_class_figi: "BBG00DWYMWC3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 12
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Ho Chi Minh Joint Stock Commercial Bank
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000HDB1` · **Ticker:** `HDB (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **12** กอง
 

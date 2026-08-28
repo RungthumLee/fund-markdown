@@ -7,6 +7,8 @@ figi: "BBG0078PQNB9"
 share_class_figi: "BBG0078NTR77"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+country: "ไอร์แลนด์"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares Edge MSCI World Value Factor UCITS ETF USD (Acc)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BP3QZB59` · **Ticker:** `IS3S (GR)`
+
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **3** กอง
 

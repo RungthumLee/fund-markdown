@@ -7,6 +7,9 @@ figi: "BBG000BCJG31"
 share_class_figi: "BBG001S60869"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "แคนาดา"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Royal Bank of Canada
 
 **ประเภท:** หุ้น · **ISIN:** `CA7800871021` · **Ticker:** `RY (CN)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** แคนาดา จาก ISIN
 
 ถือโดยตรง **2** กอง
 

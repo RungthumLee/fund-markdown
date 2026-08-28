@@ -3,6 +3,8 @@ title: "ASIA SERMKIJ LEASING PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH0816B76C87"
 isin: "TH0816B76C87"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 ASIA SERMKIJ LEASING PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH0816B76C87`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

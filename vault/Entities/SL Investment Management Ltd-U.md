@@ -3,6 +3,8 @@ title: "SL Investment Management Ltd/U"
 entity_id: "isin:GB00BNDV0114"
 isin: "GB00BNDV0114"
 kind: "fund"
+domicile_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 6
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 SL Investment Management Ltd/U
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `GB00BNDV0114`
+
+**จดทะเบียน:** สหราชอาณาจักร จาก ISIN
 
 ถือโดยตรง **2** กอง
 

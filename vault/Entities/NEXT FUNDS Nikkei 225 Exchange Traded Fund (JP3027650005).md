@@ -7,6 +7,9 @@ figi: "BBG000JMVNZ7"
 share_class_figi: "BBG001SCLKS2"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ญี่ปุ่น"
+market_country: "ญี่ปุ่น"
+country: "ญี่ปุ่น"
 fund_count: 17
 indirect_fund_count: 0
 alias_count: 12
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 NEXT FUNDS Nikkei 225 Exchange Traded Fund
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `JP3027650005` · **Ticker:** `1321 (JP)`
+
+**ตลาดซื้อขาย:** ญี่ปุ่น
 
 ถือโดยตรง **17** กอง
 

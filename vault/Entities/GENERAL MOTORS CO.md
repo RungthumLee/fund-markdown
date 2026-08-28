@@ -7,6 +7,9 @@ figi: "BBG000NDYB67"
 share_class_figi: "BBG001SM1DK6"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 1
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 GENERAL MOTORS CO.
 
 **ประเภท:** หุ้น · **ISIN:** `US37045V1008` · **Ticker:** `GM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

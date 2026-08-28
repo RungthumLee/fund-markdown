@@ -7,6 +7,8 @@ figi: "BBG00NWV6142"
 share_class_figi: "BBG00NXBHXJ7"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+country: "ลักเซมเบิร์ก"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Amundi Luxembourg SA
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1883855915` · **Ticker:** `APUFJ2U (LX)`
+
+**จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **4** กอง
 

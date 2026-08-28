@@ -7,6 +7,8 @@ figi: "BBG000DYKF22"
 share_class_figi: "BBG001SJWFK4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 HENAN SHUANGHUI INVESTMENT & DEVELOPMENT CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE000000XM3` · **Ticker:** `000895 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

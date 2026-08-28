@@ -7,6 +7,9 @@ figi: "BBG004XB9HY6"
 share_class_figi: "BBG004XB9HZ5"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Krane Funds Advisors LLC
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US5007673065` · **Ticker:** `KWEB (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

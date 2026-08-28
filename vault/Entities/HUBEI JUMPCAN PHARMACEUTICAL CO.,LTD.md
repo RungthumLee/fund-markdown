@@ -7,6 +7,8 @@ figi: "BBG000D9Y515"
 share_class_figi: "BBG001SG7H15"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 HUBEI JUMPCAN PHARMACEUTICAL CO.,LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `CNE0000018X6` · **Ticker:** `600566 (CH)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

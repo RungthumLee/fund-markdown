@@ -7,6 +7,8 @@ figi: "BBG000V8P6X0"
 share_class_figi: "BBG001STFV35"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+country: "ไอร์แลนด์"
 fund_count: 18
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Asset Management
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00B2NPKV68` · **Ticker:** `IUS7 (GR)`
+
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **18** กอง
 

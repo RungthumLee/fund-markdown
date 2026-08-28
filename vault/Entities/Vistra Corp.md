@@ -7,6 +7,9 @@ figi: "BBG00DXDL6Q1"
 share_class_figi: "BBG00DXDL6R0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 1
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Vistra Corp
 
 **ประเภท:** หุ้น · **ISIN:** `US92840M1027` · **Ticker:** `VST (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

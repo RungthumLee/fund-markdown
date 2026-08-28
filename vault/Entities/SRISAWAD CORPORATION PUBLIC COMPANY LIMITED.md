@@ -7,6 +7,9 @@ figi: "BBG0053YM988"
 share_class_figi: "BBG0053YM979"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 151
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias, widely-held]
 # 🏢 SRISAWAD CORPORATION PUBLIC COMPANY LIMITED
 
 **ประเภท:** หุ้น · **ISIN:** `TH5456010Y00` · **Ticker:** `SAWAD (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **151** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00K68N0Y8"
 share_class_figi: "BBG00K6DY9H5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 SCHRODER INVESTMENT MANAGEMENT (EUROPE) S.A.
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1751207694` · **Ticker:** `SCGCRIC (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **4** กอง
 

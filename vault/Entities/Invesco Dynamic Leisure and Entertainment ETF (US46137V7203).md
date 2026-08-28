@@ -7,6 +7,9 @@ figi: "BBG000DTM8B7"
 share_class_figi: "BBG001SN68L9"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco Dynamic Leisure and Entertainment ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46137V7203` · **Ticker:** `PEJ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

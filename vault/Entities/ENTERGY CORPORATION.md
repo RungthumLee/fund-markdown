@@ -7,6 +7,9 @@ figi: "BBG000C1FQS9"
 share_class_figi: "BBG001S67KF5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 ENTERGY CORPORATION
 
 **ประเภท:** หุ้น · **ISIN:** `US29364G1031` · **Ticker:** `ETR (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000CRF6Q8"
 share_class_figi: "BBG001SCPX28"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 72
 indirect_fund_count: 0
 alias_count: 29
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 SPDR Gold Shares
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US78463V1070` · **Ticker:** `GLD (US)`
+
+**ตลาดซื้อขาย:** ฮ่องกง · **จดทะเบียน:** สหรัฐฯ จาก ISIN
 
 ถือโดยตรง **72** กอง
 

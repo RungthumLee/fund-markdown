@@ -7,6 +7,9 @@ figi: "BBG000CZ8PQ6"
 share_class_figi: "BBG001S77MK3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "แคนาดา"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 5
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 AEM CN Equity
 
 **ประเภท:** หุ้น · **ISIN:** `CA0084741085` · **Ticker:** `AEM (CN)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** แคนาดา จาก ISIN
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

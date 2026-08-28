@@ -7,6 +7,9 @@ figi: "BBG000BXB1P2"
 share_class_figi: "BBG001SBG1B0"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "สิงคโปร์"
+market_country: "สิงคโปร์"
+country: "สิงคโปร์"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 abrdn Pacific Eq SGD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `SG9999000459` · **Ticker:** `ABPACII (SP)`
+
+**ตลาดซื้อขาย:** สิงคโปร์
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG000HDZ566"
 share_class_figi: "BBG001SHNZ06"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "เยอรมนี"
+market_country: "เยอรมนี"
+country: "เยอรมนี"
 fund_count: 8
 indirect_fund_count: 0
 alias_count: 8
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares STOXX Europe 600 Banks UCITS ETF (DE)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `DE000A0F5UJ7` · **Ticker:** `SX7PEX (GR)`
+
+**ตลาดซื้อขาย:** เยอรมนี
 
 ถือโดยตรง **8** กอง
 

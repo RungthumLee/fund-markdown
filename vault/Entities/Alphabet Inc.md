@@ -7,6 +7,9 @@ figi: "BBG009S3NB30"
 share_class_figi: "BBG009S3NB21"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Alphabet Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US02079K1079` · **Ticker:** `GOOG (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **9** กอง
 

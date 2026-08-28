@@ -7,6 +7,9 @@ figi: "BBG000BC16D1"
 share_class_figi: "BBG001S63ND5"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฝรั่งเศส"
+market_country: "ฝรั่งเศส"
+country: "ฝรั่งเศส"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 ESSILORLUXOTTICA SA
 
 **ประเภท:** หุ้น · **ISIN:** `FR0000121667` · **Ticker:** `EL (FP)`
+
+**ตลาดซื้อขาย:** ฝรั่งเศส
 
 ถือโดยตรง **2** กอง
 

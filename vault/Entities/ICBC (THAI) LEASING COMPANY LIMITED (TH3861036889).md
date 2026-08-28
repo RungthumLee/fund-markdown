@@ -6,6 +6,8 @@ ticker: "ICBCAS 0 08/27/26 25-1"
 figi: "BBG01SLHQ7F6"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 9
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 ICBC (THAI) LEASING COMPANY LIMITED
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `TH3861036889` · **Ticker:** `ICBCAS 0 08/27/26 25-1 (NOT LISTED)`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **9** กอง
 

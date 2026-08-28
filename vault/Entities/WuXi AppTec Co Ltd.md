@@ -7,6 +7,9 @@ figi: "BBG00H5L2QC7"
 share_class_figi: "BBG00H5L2QG3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+market_country: "จีน"
+country: "จีน"
 fund_count: 3
 indirect_fund_count: 1
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 WuXi AppTec Co Ltd
 
 **ประเภท:** หุ้น · **ISIN:** `CNE1000031K4` · **Ticker:** `603259 (CH)`
+
+**ตลาดซื้อขาย:** จีน
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 

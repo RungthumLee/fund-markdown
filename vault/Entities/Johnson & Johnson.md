@@ -7,6 +7,9 @@ figi: "BBG000BMHYD1"
 share_class_figi: "BBG001S5SHQ9"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 8
 indirect_fund_count: 40
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Johnson & Johnson
 
 **ประเภท:** หุ้น · **ISIN:** `US4781601046` · **Ticker:** `JNJ (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **8** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **40** กอง
 

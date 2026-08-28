@@ -7,6 +7,9 @@ figi: "BBG000BBV9N3"
 share_class_figi: "BBG001S60QR6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 BlackRock Investment Management (UK) Limited
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642872422` · **Ticker:** `LQD (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **4** กอง
 

@@ -6,6 +6,8 @@ ticker: "CAGA 0 10/27/26 CP"
 figi: "BBG021V819P5"
 figi_type: "DOMESTIC"
 kind: "bond"
+domicile_country: "มาเลเซีย"
+country: "มาเลเซีย"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 2
@@ -15,6 +17,8 @@ tags: [entity, entity-bond, multi-alias]
 # 📄 Cagamas Berhad
 
 **ประเภท:** หุ้นกู้ · **ISIN:** `MYBRD2600449` · **Ticker:** `CAGA 0 10/27/26 CP (NOT LISTED)`
+
+**จดทะเบียน:** มาเลเซีย จาก ISIN
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,8 @@ figi: "BBG006BKKH90"
 share_class_figi: "BBG004MMZ492"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+country: "หมู่เกาะเคย์แมน"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 WH GROUP LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `KYG960071028` · **Ticker:** `0WH (GR)`
+
+**จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **2** กอง
 

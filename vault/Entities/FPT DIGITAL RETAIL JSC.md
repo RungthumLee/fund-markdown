@@ -7,6 +7,9 @@ figi: "BBG00FF5Y0Y3"
 share_class_figi: "BBG00FF5Y0Z2"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 FPT DIGITAL RETAIL JSC
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000FRT7` · **Ticker:** `FRT (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **5** กอง
 

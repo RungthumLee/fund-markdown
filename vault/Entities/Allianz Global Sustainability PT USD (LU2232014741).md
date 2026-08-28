@@ -7,6 +7,9 @@ figi: "BBG00XRFNM82"
 share_class_figi: "BBG00XRT9RB3"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Allianz Global Sustainability PT USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU2232014741` · **Ticker:** `ALAGSPU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

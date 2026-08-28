@@ -7,6 +7,9 @@ figi: "BBG000D9KWL9"
 share_class_figi: "BBG001S7S2B4"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 M&T BANK CORPORATION
 
 **ประเภท:** หุ้น · **ISIN:** `US55261F1049` · **Ticker:** `MTB (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **3** กอง
 

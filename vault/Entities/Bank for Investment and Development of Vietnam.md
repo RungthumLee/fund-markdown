@@ -7,6 +7,9 @@ figi: "BBG000FRTCC2"
 share_class_figi: "BBG001SMLF38"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Bank for Investment and Development of Vietnam
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000BID9` · **Ticker:** `BID (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **6** กอง
 

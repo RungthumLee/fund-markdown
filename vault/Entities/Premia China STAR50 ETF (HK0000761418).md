@@ -3,6 +3,8 @@ title: "Premia China STAR50 ETF"
 entity_id: "isin:HK0000761418"
 isin: "HK0000761418"
 kind: "fund"
+domicile_country: "ฮ่องกง"
+country: "ฮ่องกง"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Premia China STAR50 ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `HK0000761418`
+
+**จดทะเบียน:** ฮ่องกง จาก ISIN
 
 ถือโดยตรง **2** กอง
 

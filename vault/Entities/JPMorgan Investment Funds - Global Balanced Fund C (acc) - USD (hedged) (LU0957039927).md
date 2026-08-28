@@ -7,6 +7,9 @@ figi: "BBG005NL7CM8"
 share_class_figi: "BBG005NL7CN7"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 JPMorgan Investment Funds - Global Balanced Fund C (acc) - USD (hedged)
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU0957039927` · **Ticker:** `JFMUCHU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **2** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG001BBXM50"
 share_class_figi: "BBG001TKNP55"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "เวียดนาม"
+country: "เวียดนาม"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 Digiword Corporation
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000DGW9` · **Ticker:** `DGW (VN)`
+
+**ตลาดซื้อขาย:** เวียดนาม
 
 ถือโดยตรง **5** กอง
 

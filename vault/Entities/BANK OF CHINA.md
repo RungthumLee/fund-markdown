@@ -7,6 +7,8 @@ figi: "BBG000PZ3K33"
 share_class_figi: "BBG001SHWTL7"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "จีน"
+country: "จีน"
 fund_count: 3
 indirect_fund_count: 0
 alias_count: 4
@@ -16,6 +18,8 @@ tags: [entity, entity-equity, multi-alias]
 # 🏢 BANK OF CHINA
 
 **ประเภท:** หุ้น · **ISIN:** `CNE1000001Z5` · **Ticker:** `W8V (GR)`
+
+**จดทะเบียน:** จีน จาก ISIN
 
 ถือโดยตรง **3** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00XS6PB10"
 share_class_figi: "BBG00XS6PBW6"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 21
 indirect_fund_count: 0
 alias_count: 14
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Invesco NASDAQ 100 ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US46138G6492` · **Ticker:** `QQQM (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **21** กอง
 

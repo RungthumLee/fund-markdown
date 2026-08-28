@@ -7,6 +7,9 @@ figi: "BBG000BF74Y0"
 share_class_figi: "BBG001T9BM41"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 Global X Lithium & Battery Tec
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US37954Y8553` · **Ticker:** `LIT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **5** กอง
 

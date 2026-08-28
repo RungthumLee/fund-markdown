@@ -7,6 +7,9 @@ figi: "BBG0081GRX49"
 share_class_figi: "BBG0081GRX58"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ลักเซมเบิร์ก"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 4
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 STATE STREET GLOBAL ADVISORS
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `LU1159225991` · **Ticker:** `SGEEIAU (LX)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ลักเซมเบิร์ก จาก ISIN
 
 ถือโดยตรง **4** กอง
 

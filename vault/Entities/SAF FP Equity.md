@@ -7,6 +7,9 @@ figi: "BBG000BP01S8"
 share_class_figi: "BBG001SCDDY0"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "ฝรั่งเศส"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 12
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 SAF FP Equity
 
 **ประเภท:** หุ้น · **ISIN:** `FR0000073272` · **Ticker:** `SAF (FP)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ฝรั่งเศส จาก ISIN
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **12** กอง
 

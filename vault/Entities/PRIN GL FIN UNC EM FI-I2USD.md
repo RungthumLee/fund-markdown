@@ -7,6 +7,8 @@ figi: "BBG00GP102G2"
 share_class_figi: "BBG00GP22NM5"
 figi_type: "Open-End Fund"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+country: "ไอร์แลนด์"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 3
@@ -16,6 +18,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 PRIN GL FIN UNC EM FI-I2USD
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BYP54N83` · **Ticker:** `PGFUEI2 (ID)`
+
+**จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **6** กอง
 

@@ -3,6 +3,8 @@ title: "CPF (THAILAND) PUBLIC COMPANY LIMITED"
 entity_id: "isin:TH7030B77289"
 isin: "TH7030B77289"
 kind: "bill"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 6
 indirect_fund_count: 0
 alias_count: 2
@@ -12,6 +14,8 @@ tags: [entity, entity-bill, multi-alias]
 # 🧾 CPF (THAILAND) PUBLIC COMPANY LIMITED
 
 **ประเภท:** ตั๋วเงิน · **ISIN:** `TH7030B77289`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **6** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG00L1689W5"
 share_class_figi: "BBG00KXMJH02"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "ไอร์แลนด์"
+market_country: "สหราชอาณาจักร"
+country: "สหราชอาณาจักร"
 fund_count: 5
 indirect_fund_count: 0
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 iShares MSCI India UCITS ETF USD Acc
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `IE00BZCQB185` · **Ticker:** `QDV5 (GR)`
+
+**ตลาดซื้อขาย:** สหราชอาณาจักร · **จดทะเบียน:** ไอร์แลนด์ จาก ISIN
 
 ถือโดยตรง **5** กอง
 

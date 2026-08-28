@@ -7,6 +7,9 @@ figi: "BBG000BPH459"
 share_class_figi: "BBG001S5TD05"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 19
 indirect_fund_count: 193
 alias_count: 6
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 MICROSOFT CORP
 
 **ประเภท:** หุ้น · **ISIN:** `US5949181045` · **Ticker:** `MSFT (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **19** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **193** กอง
 

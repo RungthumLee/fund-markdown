@@ -7,6 +7,9 @@ figi: "BBG002PGY0J4"
 share_class_figi: "BBG002PGVJD2"
 figi_type: "REIT"
 kind: "reit"
+domicile_country: "ไทย"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 57
 indirect_fund_count: 0
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-reit, multi-alias]
 # 🏗️ Axtra Future City Freehold and Leasehold Real Estate Investment Trust
 
 **ประเภท:** กองทรัสต์/REIT · **ISIN:** `THC611010008` · **Ticker:** `AXTRART (TB)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **57** กอง
 

@@ -7,6 +7,9 @@ figi: "BBG002NF5FT6"
 share_class_figi: "BBG002NF5FV3"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "เวียดนาม"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 3
 indirect_fund_count: 3
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 Powell Industries Inc
 
 **ประเภท:** หุ้น · **ISIN:** `VN000000POW7` · **Ticker:** `POW (VN)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** เวียดนาม จาก ISIN
 
 ถือโดยตรง **3** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

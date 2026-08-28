@@ -7,6 +7,9 @@ figi: "BBG000P9YC26"
 share_class_figi: "BBG001SQZT52"
 figi_type: "ETP"
 kind: "fund"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 5
 alias_count: 5
@@ -16,6 +19,8 @@ tags: [entity, entity-fund, held-indirectly, multi-alias]
 # 📦 iShares U.S. Medical Devices ETF
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `US4642888105` · **Ticker:** `IHI (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **5** กอง
 

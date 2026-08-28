@@ -3,6 +3,8 @@ title: "เปิดกรุงศรี The One Max"
 entity_id: "isin:THB201010006"
 isin: "THB201010006"
 kind: "fund"
+domicile_country: "ไทย"
+country: "ไทย"
 fund_count: 2
 indirect_fund_count: 0
 alias_count: 3
@@ -12,6 +14,8 @@ tags: [entity, entity-fund, multi-alias]
 # 📦 เปิดกรุงศรี The One Max
 
 **ประเภท:** หน่วยลงทุน · **ISIN:** `THB201010006`
+
+**จดทะเบียน:** ไทย จาก ISIN
 
 ถือโดยตรง **2** กอง
 

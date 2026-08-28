@@ -7,6 +7,9 @@ figi: "BBG000BZ9223"
 share_class_figi: "BBG001S5ZB93"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 1
 indirect_fund_count: 3
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 EOG US Equity
 
 **ประเภท:** หุ้น · **ISIN:** `US26875P1012` · **Ticker:** `EOG (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **1** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **3** กอง
 

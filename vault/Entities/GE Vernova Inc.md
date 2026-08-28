@@ -7,6 +7,9 @@ figi: "BBG013G17W31"
 share_class_figi: "BBG013G17W77"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "สหรัฐฯ"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 6
 indirect_fund_count: 2
 alias_count: 4
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 GE Vernova Inc
 
 **ประเภท:** หุ้น · **ISIN:** `US36828A1016` · **Ticker:** `GEV (US)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ
 
 ถือโดยตรง **6** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **2** กอง
 

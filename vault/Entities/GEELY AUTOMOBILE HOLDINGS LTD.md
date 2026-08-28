@@ -7,6 +7,9 @@ figi: "BBG000BP6L53"
 share_class_figi: "BBG001SD4Y36"
 figi_type: "Common Stock"
 kind: "equity"
+domicile_country: "หมู่เกาะเคย์แมน"
+market_country: "สหรัฐฯ"
+country: "สหรัฐฯ"
 fund_count: 2
 indirect_fund_count: 1
 alias_count: 2
@@ -16,6 +19,8 @@ tags: [entity, entity-equity, held-indirectly, multi-alias]
 # 🏢 GEELY AUTOMOBILE HOLDINGS LTD.
 
 **ประเภท:** หุ้น · **ISIN:** `KYG3777B1032` · **Ticker:** `GRU (GR)`
+
+**ตลาดซื้อขาย:** สหรัฐฯ · **จดทะเบียน:** หมู่เกาะเคย์แมน จาก ISIN
 
 ถือโดยตรง **2** กอง · ถือทางอ้อมผ่านกองทุนหลักอีก **1** กอง
 
