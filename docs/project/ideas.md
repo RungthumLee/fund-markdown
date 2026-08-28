@@ -1,93 +1,184 @@
 ---
 title: Ideas — Skills & Factor Analysis
-tags: [project, ideas, backlog]
+tags: [project, ideas, backlog, design]
 updated: 2026-08-28
 ---
 
 # 💡 Ideas — Skills ที่ใช้กับ Data + Factor Analysis
 
-บันทึกไอเดียเพื่อพิจารณา ยังไม่ลงมือ · ที่เกี่ยวข้อง: [[STATUS|STATUS]] · [[roadmap|Roadmap]] · [[tasks|Tasks]]
+เอกสารออกแบบ (ยังไม่ลงมือทั้งหมด) · ที่เกี่ยวข้อง: [[STATUS|STATUS]] · [[roadmap|Roadmap]] · [[tasks|Tasks]] · [[decisions|Decisions]]
+
+> เอกสารนี้มี 3 ส่วน: **(0) กรอบ "ข้อมูลอ้างอิง" — เส้นที่ห้ามข้าม** (คุมทุกอย่าง) ·
+> **(1) Skills** · **(2) Factor Analysis** — ทุกส่วนต้องอยู่ใต้ส่วน (0)
+
+---
+
+## 0. กรอบ "ข้อมูลอ้างอิง" — เส้นที่ห้ามข้าม (governing rules)
+
+คลังนี้คือ **ข้อมูลอ้างอิงเพื่อการศึกษา ไม่ใช่คำแนะนำการลงทุน** ทุก skill/feature
+ต้องผ่านกฎนี้ก่อนเสมอ — ตระกูลเดียวกับบทเรียน [[issues|ISS-009 / ISS-014]]
+("ตัวเลขที่ดูน่าเชื่อ อันตรายกว่าไม่มีตัวเลข")
+
+### เส้นแบ่งหลัก: **มองอดีต (ได้) vs มองอนาคต (ไม่ได้)**
+
+| ✅ อยู่ในกรอบ (descriptive) | ❌ ข้ามเส้น (predictive / advice) |
+|---|---|
+| อดีต/ปัจจุบัน ที่วัดได้ ("อดีตสัมพันธ์กัน −0.82") | พยากรณ์อนาคต ("จะลง 2.5–4%") |
+| exposure จากข้อมูลจริง ("ถือทอง 100%") | ความน่าจะเป็นของคำพยากรณ์ ("confidence 0.88") |
+| ป้ายเชิงคุณภาพจากข้อมูล ("ไวระดับสูง") | คะแนน/ตัวเลขที่แต่งขึ้นให้ดูแม่น |
+| แสดงค่าให้ผู้ใช้ตัดสินเอง | ชี้นำซื้อ/ขาย/ถือ/กระจายเสี่ยง |
+| สองด้านสมมาตร (bull + bear) | เลือกข้างว่าจะไปทางไหน |
+| "correlation = เคลื่อนไหวพร้อมกัน" | "correlation = สาเหตุ" (≠ causation) |
+
+### กฎ 7 ข้อ (ผ่านทุกข้อก่อนปล่อย feature)
+1. **ทุกตัวเลขมีที่มา** — dataset/field หรือเลขหน้า PDF หรือ series id
+2. **ระบุช่วงเวลาที่วัดเสมอ** (สถิติ/correlation) — ไม่มี window = ห้ามแสดง
+3. **ไม่พยากรณ์** ราคา/ผลตอบแทน/ทิศทางอนาคต
+4. **ไม่ให้ confidence/probability กับสิ่งที่เป็นอนาคต** (ยกเว้นมาจาก backtest จริง)
+5. **ไม่ชี้นำการกระทำ** (ซื้อ/ขาย/ถือ/สับเปลี่ยน/กระจายเสี่ยง)
+6. **สองด้านเสมอ** — factor/ปัจจัยแสดงทั้งโอกาสและความเสี่ยง ไม่เลือกข้าง
+7. **ไม่มีข้อมูล = บอกว่าไม่มี** ไม่เดา ไม่เติมให้ครบ
+
+### ป้ายบังคับ
+- ข้อมูลที่เป็นภาพอดีต: `"อดีต ณ <ช่วง> · ไม่ใช่พยากรณ์"`
+- ข้อมูลสด (ดึงตอนถาม): `"ณ <เวลา> · ยังไม่ยืนยัน · ไม่บอกอนาคต"`
+- ทุก factor/สถิติ: `"correlation ไม่นิ่ง · อดีตไม่รับประกันอนาคต"`
 
 ---
 
 ## 1. Skills — ให้ AI ทำงานกับคลังนี้
 
-Skill = ชุดคำสั่งสำเร็จรูปให้ AI (เช่น Claude Code) อ่าน/สังเคราะห์ข้อมูลในคลัง
+Skill = ชุดคำสั่งสำเร็จรูปให้ AI (เช่น Claude Code) อ่าน/สังเคราะห์ข้อมูล
 รูปแบบไฟล์: `SKILL.md` (frontmatter `name` + `description` + วิธีใช้ data)
 
-> คลังนี้มี 3 ชั้นข้อมูลให้ skill ใช้: **โน้ต markdown** (`vault/`) · **tag/Dataview** (faceted) ·
-> **JSON ดิบ** (`data/processed/*.json` — funds, entities, lookthrough, master, security_meta)
+> ข้อมูล 3 ชั้นให้ skill ใช้: **โน้ต markdown** (`vault/`) · **tag/Dataview** (faceted) ·
+> **JSON ดิบ** (`data/processed/*.json`: funds · entities · lookthrough · master · security_meta)
 
-| Skill | ทำอะไร | ใช้ข้อมูล | หมายเหตุ |
+| Skill | ทำอะไร | ใช้ข้อมูล | ระดับ |
 |---|---|---|---|
-| **fund-explainer** | อธิบายกอง 1 ตัวเป็นภาษานักลงทุน (แบบที่ทำกับ A-RING) | โน้ตกอง + โน้ตกองหลัก | deterministic (อ่าน+สังเคราะห์) |
-| **fund-finder** | โจทย์ภาษาคน → filter tag/Dataview → กองที่ตรง พร้อมเหตุผล | faceted tags | "พักเงินสั้น เสี่ยงต่ำ" → `#use/park-cash` |
-| **fund-compare** | เทียบ 2–3 กองข้าง ๆ กัน (ค่าธรรมเนียมรวม 2 ชั้น · ประเทศ · sector · look-through overlap) | funds.json + lookthrough | |
-| **portfolio-overlap** | ผู้ใช้ถือหลายกอง → คำนวณความซ้ำซ้อนจริง (กองหลักเดียวกัน / หุ้นเดียวกันผ่าน look-through) + เตือนกระจุกตัว/ค่าธรรมเนียมซ้อน | lookthrough.json + master_links | ตอบโจทย์ "ถือหลายกองแต่ซ้ำกัน" |
-| **fee-audit** | แยกต้นทุนรวม (TER ไทย + OCF กองหลัก) + หากองถูกกว่าในกลุ่ม AIMC เดียวกัน | fees.py + peer_group | |
-| **holding-explorer** | หุ้น/สินทรัพย์ 1 ตัว → กองไทยทุกกองที่ถือ (ตรง+ทางอ้อม) + สัดส่วนรวม | entities.json + lookthrough | ใช้ B1/B2 ที่ทำไว้ |
-| **factor-exposure** | ปัจจัยบวก/ลบที่กระทบกอง (ดูข้อ 2) | holdings + sector + country + factor-map | ต้องมี factor-map ก่อน |
-| **data-refresh** | รัน pipeline (`daily.py` / `fetch_sectors.py`) แล้วสรุปสิ่งที่เปลี่ยน | scripts + changelog | operational |
+| **fund-explainer** | อธิบายกอง 1 ตัวเป็นภาษานักลงทุน (แบบ A-RING) | โน้ตกอง + กองหลัก | 🟢 ทำได้เลย |
+| **fund-finder** | โจทย์ภาษาคน → filter tag → กองที่ตรง + เหตุผล | faceted tags | 🟢 ทำได้เลย |
+| **fund-compare** | เทียบ 2–3 กอง (ค่าธรรมเนียม 2 ชั้น · ประเทศ · sector · overlap) | funds + lookthrough | 🟢 |
+| **portfolio-overlap** | ถือหลายกอง → ความซ้ำซ้อนจริง (กองหลัก/หุ้นเดียวกัน) + เตือนกระจุก/ค่าธรรมเนียมซ้อน | lookthrough + master_links | 🟢 unique |
+| **fee-audit** | ต้นทุนรวม (TER ไทย + OCF กองหลัก) + หากองถูกกว่าในกลุ่ม AIMC | fees.py + peer_group | 🟢 |
+| **holding-explorer** | หุ้น 1 ตัว → กองไทยทุกกองที่ถือ (ตรง+ทางอ้อม) + สัดส่วนรวม | entities + lookthrough | 🟢 (ใช้ B1/B2) |
+| **factor-exposure** | ปัจจัยบวก/ลบที่กระทบกอง (ดูส่วน 2) | holdings + sector + country + factor-map | 🟡 ต้องมี factor-map |
+| **factor-live** | สถานะ factor ปัจจุบัน (ราคาทอง/ดอกเบี้ยวันนี้) ประกอบ factor-exposure | FRED/Yahoo (ดึงสด) | 🟠 optional, มี guardrail |
+| **data-refresh** | รัน pipeline แล้วสรุปสิ่งที่เปลี่ยน | scripts + changelog | 🟢 operational |
 
-**หลักการร่วมของทุก skill:**
-- ตอบจาก **data ในคลังเท่านั้น** อ้างอิงที่มาทุกตัวเลข (dataset/field หรือเลขหน้า) — เหมือนกติกา loop
-- **ข้อมูลอ้างอิง ไม่ใช่คำแนะนำ** — ห้ามทำนาย/ชี้นำซื้อขาย
-- ถ้าข้อมูลไม่มี ให้บอกว่าไม่มี ไม่เดา (ISS-009)
+**หลักการทุก skill:** อยู่ใต้กรอบส่วน 0 · ตอบจาก data ในคลัง · อ้างอิงที่มา · ไม่ทำนาย/ไม่ชี้นำ
 
-**ลำดับแนะนำ:** เริ่ม **fund-explainer** + **fund-finder** (ใช้ของที่มีครบแล้ว) → **portfolio-overlap** (unique, ใช้ look-through) → **factor-exposure** (หลังทำ factor-map)
+**ลำดับแนะนำ:** fund-explainer + fund-finder → portfolio-overlap → factor-exposure (หลัง factor-map + R-05)
 
 ---
 
-## 2. Factor Analysis — ปัจจัยบวก/ลบที่กระทบกอง (micro + macro)
+## 2. Factor Analysis — ปัจจัยที่กระทบกอง (micro + macro)
 
-**ไอเดียตั้งต้น (จากผู้ใช้):** เพราะเรารู้ **holdings + look-through** แล้ว จึงเสนอปัจจัยที่กระทบกองได้
-ทั้งระดับ micro (บริษัท/หมวด) และ macro (ประเทศ/ค่าเงิน/ดอกเบี้ย) — แต่ **ไม่รู้จะหา data จากไหน**
+**ที่มาไอเดีย:** เพราะรู้ **holdings + look-through** จึงเสนอปัจจัยที่กระทบกองได้
+คำถามหลักที่ต้องตอบ: (ก) หาจากไหน (ข) ใช้ factor อะไร (ค) ละเอียดแค่ไหน
+(ง) กระทบมากน้อยแค่ไหน (จ) มี "โอกาส" ด้วยไหม
 
-### แยกให้ชัดว่า "ปัจจัย" มี 2 ชนิด — คนละแหล่งข้อมูล
-
-**(ก) Structural exposure — "กองนี้ไวต่ออะไร" (ทำได้เลย ไม่ต้องมี feed)**
-เรามี sector/country/holdings อยู่แล้ว → map เข้ากับ **ตัวขับเคลื่อนมาตรฐานของแต่ละหมวด** ได้
-โดยสร้าง **factor-map** (ตารางความรู้ static เขียนครั้งเดียว): `sector/theme/asset → ปัจจัยบวก/ลบที่รู้กันทั่วไป`
-
-ตัวอย่างจากที่รู้กัน (ไม่ต้อง fetch อะไร):
-| หมวด/ธีม | ปัจจัยบวก | ปัจจัยลบ |
+### 2.1 factor หามาจากไหน — 2 แหล่ง คนละบทบาท
+| แหล่ง | ให้อะไร | fetch? |
 |---|---|---|
-| เหมืองทองคำ (A-RING) | ราคาทองขึ้น · ดอกเบี้ยแท้จริงติดลบ · USD อ่อน | ต้นทุนขุด/พลังงานสูง · ดอกเบี้ยจริงขึ้น · USD แข็ง |
-| ธนาคาร | ดอกเบี้ยขาขึ้น (NIM กว้าง) · เศรษฐกิจโต | NPL/หนี้เสีย · เศรษฐกิจถดถอย |
-| เทคโนโลยี/semiconductor | วัฏจักรชิปขาขึ้น · AI capex | ดอกเบี้ยสูง (กด valuation) · จีน-สหรัฐกีดกัน |
-| พลังงาน | ราคาน้ำมัน/ก๊าซขึ้น · OPEC ลดกำลังผลิต | เปลี่ยนผ่านพลังงานสะอาด · อุปสงค์ชะลอ |
+| **(ก) ข้อมูลเราเอง** | **exposure** — กองไวต่อ factor ไหน "แค่ไหน" (sector/country/holdings/cap/fx/beta/vol) | ❌ มีครบ |
+| **(ข) factor-map (static)** | **direction** — factor นั้นดันขึ้นหรือลง (ความรู้การเงินมาตรฐาน) | ❌ เขียนครั้งเดียว |
 
-→ กองแต่ละตัวจะได้ "ปัจจัยที่กระทบ" **จากหมวด/ประเทศที่ถือจริง** (deterministic, อ้างอิงได้)
-นี่คือเวอร์ชันที่ **ปลอดภัย + ทำได้เลย** — บอก "ไวต่ออะไร" ไม่ใช่ "จะขึ้นหรือลง"
+> จุดสำคัญ: tag ที่ทำแล้ว (`sector/*` · country · `cap/*` · `fx/*` · `conc/*` + beta/vol ใน factsheet)
+> **คือ factor exposure ~80% อยู่แล้ว** — เหลือแค่เขียน factor-map ทิศทาง
 
-**แหล่ง factor-map:** ความรู้การเงินมาตรฐาน (เขียนเป็นโน้ต reference คล้าย `Concepts/`)
-ไม่ต้องใช้ API/feed — เขียนครั้งเดียว ปรับปรุงเมื่อรู้เพิ่ม
+**factor-map มาจากไหน:** ความรู้การเงินมาตรฐาน (ไม่ใช่ feed) — เขียนเป็นโน้ต reference:
+sector sensitivity ที่รู้กันทั่วไป (Financials +ดอกเบี้ย · Utilities −ดอกเบี้ย · Energy/Materials +สินค้าโภคภัณฑ์ ·
+Gold −real yield/−USD) + style factor (Fama-French: size/value/momentum/quality/low-vol)
 
-**(ข) Live factor context — "ตอนนี้ปัจจัยเป็นยังไง" (ต้องมี feed + ระวัง)**
-ค่าปัจจุบัน (ราคาทองวันนี้ · ทิศทางดอกเบี้ย · ข่าว) = ต้องดึงจากภายนอก:
-- ราคาสินค้าโภคภัณฑ์/ดัชนี/ค่าเงิน → Yahoo/FRED (ฟรี, มี API)
-- ข่าว/มุมมอง → web search ตอน query (LLM skill)
+### 2.2 ใช้ factor อะไร — taxonomy
+- **Macro:** ดอกเบี้ย(จริง/นาม) · เงินเฟ้อ · USD/ค่าเงิน · วัฏจักรเศรษฐกิจ · credit spread · ราคาสินค้าโภคภัณฑ์
+- **Style (Fama-French):** ขนาด(size=`cap/*`) · value/growth · momentum · quality · low-vol
+- **Sector/theme:** วัฏจักรชิป · AI capex · เปลี่ยนผ่านพลังงาน · วัฏจักรอสังหา
+- **โครงสร้างกอง:** hedge ค่าเงิน(`fx/*`) · กระจุกตัว(`conc/*`) · ค่าธรรมเนียม(TER = drag คงที่)
 
-> [!CAUTION] เส้นที่ **ไม่ควรข้าม**
-> - live context เป็นข้อมูล**อ่อนไหวตามเวลา** — ห้ามเก็บลงโน้ตแบบถาวร (จะเก่าทันที)
-> - อย่าให้กลายเป็น**คำทำนาย/ชี้นำ** — ผิดหลักคลัง (ISS-014 เตือนเรื่องตัวเลขจากผลค้นที่ดูน่าเชื่อ)
-> - ถ้าทำ ให้แยกเป็น skill ที่ดึงสด ๆ ตอนถาม + ติดป้าย "ยังไม่ยืนยัน / ณ เวลานี้"
+### 2.3 ความละเอียด — 3 ระดับ (แนะนำ L2)
+- **L1 (หยาบ):** asset class → factor กว้าง · ทุกกอง
+- **L2 (กลาง) ⭐:** sector + country → factor เฉพาะ · คุ้มสุด (เฉพาะพอ ใช้ข้อมูลที่มี ไม่ overfit)
+- **L3 (ละเอียด):** holding รายตัว → factor เฉพาะบริษัท/สินค้า (A-RING → "ราคาทอง") · ใช้กับกอง single-theme
 
-### ข้อเสนอเชิงปฏิบัติ (ผมเสริม)
-1. **ทำ (ก) ก่อน** — สร้าง `vault/Concepts/factor-map.md` (หรือ `data/factor_map.json`)
-   map `sector/*` + `geo/*` + `theme/*` → ปัจจัยบวก/ลบ → เจน section "⚖️ ปัจจัยที่กระทบ" ในโน้ตกอง
-   จาก sector/country ที่กองถือจริง · **deterministic ไม่ต้อง feed**
-2. **(ข) เป็น optional เฟสหลัง** — skill `factor-live` ที่ดึงราคาทอง/ดอกเบี้ยจาก FRED/Yahoo ตอนถาม
-   ประกอบกับ (ก) แต่ **ไม่เขียนกลับลงคลัง**
-3. แหล่งฟรีที่ใช้ได้จริง: **FRED** (ดอกเบี้ย/เงินเฟ้อ/ราคาสินค้าโภคภัณฑ์ — มี API ฟรี) · **Yahoo** (ราคาสินทรัพย์ — มีอยู่แล้วใน pipeline)
+### 2.4 กระทบมากน้อยแค่ไหน — magnitude (จุดที่ต้องซื่อสัตย์สุด)
+**magnitude = น้ำหนัก(ข้อมูล) × ความไว(map/beta)** — ห้ามพยากรณ์ผลตอบแทน
+- **น้ำหนัก = ข้อมูลจริง** (A-RING = 100% เหมืองทอง → น้ำหนัก factor ทอง ≈ 100%)
+- **ความไว** = beta ที่รายงาน + ป้ายคุณภาพ (แรง/กลาง/อ่อน) จาก map · **vol = สัญญาณรวม**
+- 🚫 ห้ามใส่ตัวเลขทำนายว่าจะขึ้น/ลงกี่ % (fake precision)
+- พูดได้แค่: *"100% อยู่ในหมวดที่ไวต่อราคาทอง ระดับแรง (beta 0.99, vol 50%)"*
 
-**สรุปคำตอบเรื่อง "หา data จากไหน":**
-ส่วนที่เป็น **"ไวต่อปัจจัยอะไร" ไม่ต้องหา data จากที่ไหนเลย** — เรารู้ holdings/sector/country แล้ว
-เหลือแค่เขียน **factor-map (ความรู้ static)** ครั้งเดียว · ส่วน **ค่าปัจจุบัน**ค่อยดึงสดจาก FRED/Yahoo ตอนถาม (optional)
+### 2.5 โอกาส (opportunity) — factor เป็นสองด้านเสมอ
+- ทุก factor มี **bull case (โอกาส) + bear case (ความเสี่ยง)** → นำเสนอสมมาตร ไม่ใช่ "ความเสี่ยง" อย่างเดียว
+- โอกาสเชิงโครงสร้างที่พูดได้ (ไม่ใช่ทำนาย): กองกระจุก/ผันผวนสูง = upside แรง/downside แรง ·
+  กอง hedge = ตัดทั้งโอกาส/ความเสี่ยงค่าเงิน · ค่าธรรมเนียมสูง = factor ลบคงที่
+- 🚫 ห้ามใส่ "ความน่าจะเป็น" ว่า factor จะไปทางไหน (ต้อง forecast)
+
+### 2.6 Correlation — ใช้ได้ (descriptive) แต่มี guardrail
+- **realized/historical correlation = ข้อเท็จจริงอดีต** → อยู่ในกรอบ เหมือน beta/vol/ผลตอบแทนอดีต
+- **เวอร์ชันวัดจริงของ factor exposure:** correlation ของ NAV กอง กับ series ของ factor (ราคาทอง/ดอกเบี้ย)
+  → ดีกว่า map เชิงคุณภาพ เพราะมาจากข้อมูล
+- **guardrail (บังคับ):**
+  1. ระบุ **window + จำนวน observation** เสมอ (ไม่มี = ห้ามแสดง)
+  2. เตือน **correlation ไม่นิ่ง · มักพุ่งเข้า 1 ตอนวิกฤต**
+  3. **correlation ≠ causation**
+  4. ห้ามใช้พยากรณ์/แนะนำกระจายเสี่ยง
+- **ตัวบล็อกจริง = ข้อมูล ไม่ใช่หลักการ:** NAV เก็บแค่ **120 วัน** ([[decisions|DEC-002]]) → correlation สั้น/noisy
+  → ต้องทำ **R-05 (surface NAV time-series) ก่อน** ถึงจะเชื่อถือได้
+
+### 2.7 รูปแบบผลลัพธ์ (output format)
+**✅ เวอร์ชันในกรอบ (descriptive):**
+```json
+{
+  "asset": "Gold",
+  "as_of": "2026-08-28",
+  "factors": [{
+    "factor_name": "US 10Y Real Yield",
+    "category": "Macro",
+    "relationship": "inverse",
+    "realized_correlation": -0.82,
+    "correlation_window": "120d (2026-05-01..08-28)",
+    "observations": 82,
+    "exposure_weight_pct": 100,
+    "impact_magnitude": "High",
+    "bull_case": "real yield ลง → ปัจจัยหนุน",
+    "bear_case": "real yield ขึ้น → ปัจจัยกด",
+    "source": "NAV series × FRED:DFII10",
+    "caveat": "อดีต ไม่ใช่พยากรณ์ · correlation ไม่นิ่ง"
+  }]
+}
+```
+
+**❌ field ที่ห้ามใช้ (ข้ามเส้น):**
+| field | ทำไมห้าม |
+|---|---|
+| `estimated_asset_change_pct` | พยากรณ์ราคาอนาคต |
+| `confidence_score` | ความมั่นใจต่อคำพยากรณ์ = ตัวเลขปลอม (เว้นแต่มาจาก backtest จริง) |
+| `time_horizon` (แบบ forward) | ระบุกรอบเวลาพยากรณ์ = มองอนาคต |
+| `target_price` / `signal` / `rating` | ชี้นำการกระทำ |
+
+**สิ่งที่ต่างจากตัวอย่างพยากรณ์ทั่วไป:** ตัด `estimated_change` + `confidence` ·
+เพิ่ม window/observations/source/caveat + `bull_case`/`bear_case` (สองด้าน)
+
+### 2.8 ถ้าจะทำเวอร์ชันพยากรณ์จริง (นอกกรอบ — ต้องเลือกอย่างตั้งใจ)
+ถ้าต้องการ `estimated_change` / `confidence` จริง = **ออกจาก "ข้อมูลอ้างอิง" ไปเป็น "เครื่องมือพยากรณ์"**:
+- `confidence` ซื่อสัตย์ได้ต้องมาจาก **backtest** (เก็บ error โมเดลย้อนหลัง) — เราไม่มีข้อมูลยาวพอ
+- ต้องมีโมเดลชัด (regression NAV~factor) + สมมติฐาน + คำเตือน "อาจผิด"
+- ต้องเปลี่ยน disclaimer จาก "ไม่ใช่คำแนะนำ" เป็น "ประมาณการเชิงสถิติ มีโอกาสพลาด"
+- → ทำเป็น **skill แยกที่ติดป้ายชัด** ไม่ปนกับ reference layer
 
 ---
 
-## 3. ไอเดียเสริมอื่น ๆ (backlog)
-- `by-category` index ของกองหลัก (Morningstar category) — ให้ vertical กองหลัก browse ได้
-- master holdings แสดง sector ต่อหุ้น (จาก `security_meta`)
-- semantic validator เพิ่ม check ชั้นใหม่ (country/sector coverage, cap สอดคล้อง policy)
+## 3. ลำดับพึ่งพา (dependencies)
+```
+R-05 (surface NAV 120 วัน)  ──►  correlation (fund↔fund, fund↔factor)
+factor-map (static, เขียนครั้งเดียว)  ──►  factor-exposure skill (L2)
+FRED/Yahoo (ดึงสด, optional)  ──►  factor-live skill (มี guardrail)
+```
+**ประตูสำคัญ = R-05** (ปูทางทั้ง correlation และ factor-measured)
+
+## 4. Backlog เสริม
+- `by-category` index ของกองหลัก (Morningstar category)
+- semantic validator เพิ่ม check: country/sector coverage · cap สอดคล้อง policy
+- FRED integration (ฟรี, API) สำหรับ factor series: real yield (DFII10) · USD (DTWEXBGS) · ราคาทอง/น้ำมัน
