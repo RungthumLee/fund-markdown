@@ -30,7 +30,7 @@ master_fund: "Schroder Asian Income SGD X Dis"
 master_isin: "SG9999009757"
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, sector/financials, sector/technology, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-AINCOME

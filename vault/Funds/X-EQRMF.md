@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 96.9
 peer_group: "Equity General"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # X-EQRMF

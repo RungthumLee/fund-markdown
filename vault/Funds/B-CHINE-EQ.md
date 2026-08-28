@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "จีน"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 8.1
 peer_group: "Greater China Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/consumer, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # B-CHINE-EQ

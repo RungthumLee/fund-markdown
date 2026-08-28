@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 97.6
 peer_group: "Equity General"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # B-EQUITY

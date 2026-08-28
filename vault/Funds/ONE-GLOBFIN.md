@@ -25,7 +25,7 @@ holdings_count: 11
 top10_pct_nav: 110.99
 master_fund: "BlackRock Global Funds - World Financials Fund"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/financials, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ONE-GLOBFIN

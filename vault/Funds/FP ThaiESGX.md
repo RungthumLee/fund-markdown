@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.0
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # FP ThaiESGX

@@ -21,7 +21,7 @@ nav: 8.7147
 nav_date: "2026-08-25"
 fund_size: 216121771.55
 master_fund: "Invesco Semiconductors ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/technology, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # M-SEMI

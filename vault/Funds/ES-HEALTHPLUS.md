@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.8
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ศตนนท์ ทัน"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/energy, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-HEALTHPLUS

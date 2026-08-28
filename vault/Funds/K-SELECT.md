@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 95.6
 peer_group: "Equity General"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "น.ส. กอบพร กุลสุรกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/energy, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # K-SELECT

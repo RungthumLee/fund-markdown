@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 116.9
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "น.ส. ภัทรลภา รัตนดิลก ณ ภูเก็ต"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # ASP-MAG7-AI

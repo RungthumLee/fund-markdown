@@ -26,7 +26,7 @@ top10_pct_nav: 64.64
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.0
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # KKP EQ THAI ESG

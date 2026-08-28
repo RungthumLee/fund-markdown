@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 103.2
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/ultra-concentrated, struct/direct, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/financials, conc/ultra-concentrated, struct/direct, style/passive, use/accumulate]
 ---
 
 # K-BANKING

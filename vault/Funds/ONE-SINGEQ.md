@@ -21,7 +21,7 @@ nav: 10.2295
 nav_date: "2026-08-24"
 fund_size: 63328600.68
 master_fund: "Fullerton Singapore Value-Up D SGD Dist"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # ONE-SINGEQ

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 95.7
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล", "น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # K-VALUE

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 96.4
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. นันทรา ลายจุด", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/consumer, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-SMCAPRMF

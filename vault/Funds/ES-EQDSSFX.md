@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.0
 peer_group: "Equity General"
 fund_managers: ["นาย สมิทธ์ ศักดิ์กำจร", "น.ส. นันทรา ลายจุด"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, conc/focused, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # ES-EQDSSFX

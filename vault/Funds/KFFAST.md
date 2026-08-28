@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 65.9
 peer_group: "Miscellaneous"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย เอกชัย บุญยะพงศ์ไชย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/fully-hedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/energy, conc/focused, fx/fully-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KFFAST

@@ -27,7 +27,7 @@ master_fund: "BlackRock Private Credit Fund iCapital Offshore Access Fund, L.P."
 master_isin: "KYG1227L1352"
 peer_group: "Miscellaneous"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, sector/technology, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KFPCD-UI

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.2
 peer_group: "SET 50 Index Fund"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, conc/focused, fx/unhedged, struct/direct, style/passive, use/accumulate]
 ---
 
 # KFS50-THAIESGX

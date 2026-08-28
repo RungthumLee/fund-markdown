@@ -45,6 +45,19 @@ _แปลระดับ 1–8 เป็นคำที่เข้าใจง
 - #risk/low · **39**
 - #risk/very-low · **32**
 
+## กลุ่มอุตสาหกรรม · `sector`
+
+_กลุ่มหลักในพอร์ต (จากการจัดสรร sector ใน factsheet)_
+
+- #sector/financials · **155**
+- #sector/technology · **135**
+- #sector/energy · **90**
+- #sector/industrials · **20**
+- #sector/consumer · **18**
+- #sector/healthcare · **16**
+- #sector/real-estate · **12**
+- #sector/utilities · **5**
+
 ## อายุเฉลี่ยตราสารหนี้ · `duration`
 
 _สั้น <1.5ปี / กลาง 1.5–5 / ยาว >5 (จาก duration)_

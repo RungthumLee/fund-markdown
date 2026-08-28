@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 9.6
 peer_group: "ASEAN Equity"
 fund_managers: ["นาย สุธี เลิศสาครศิริ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # K-AEC

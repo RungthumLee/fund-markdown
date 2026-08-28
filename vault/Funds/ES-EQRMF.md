@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.0
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย สมิทธ์ ศักดิ์กำจร", "น.ส. นันทรา ลายจุด"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/energy, conc/focused, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-EQRMF

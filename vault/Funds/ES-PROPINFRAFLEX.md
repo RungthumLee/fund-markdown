@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 96.6
 peer_group: "Fund of Property fund - Thai"
 fund_managers: ["น.ส. ดาราวรรณ ประกายทิพย์", "น.ส. กมลวรรณ ชัยรักษ์วัฒนา"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, sector/real-estate, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-PROPINFRAFLEX

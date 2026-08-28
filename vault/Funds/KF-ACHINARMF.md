@@ -27,7 +27,7 @@ master_fund: "UBS (Lux) Investment SICAV - China A Opportunity (USD) P-acc USD"
 master_isin: "LU0971614614"
 peer_group: "China Equity - A Shares"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KF-ACHINARMF

@@ -26,7 +26,7 @@ top10_pct_nav: 104.7
 master_fund: "Janus Henderson Horizon - Global Property Equities Fund"
 peer_group: "Fund of Property fund - Foreign"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/real-estate, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-GPROP

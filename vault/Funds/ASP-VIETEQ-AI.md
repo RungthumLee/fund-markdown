@@ -27,7 +27,7 @@ market_countries: ["เวียดนาม"]
 country_top: "เวียดนาม"
 country_coverage_pct: 89.1
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย พีรพัฒน์ จิรารยะพงศ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # ASP-VIETEQ-AI

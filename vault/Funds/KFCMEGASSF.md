@@ -29,7 +29,7 @@ country_coverage_pct: 97.6
 master_fund: "กองทุนเปิดกรุงศรีไชน่าเมกะเทรนด์"
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, fx/discretionary, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KFCMEGASSF

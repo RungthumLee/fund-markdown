@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.3
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, duration/short, credit/investment-grade, conc/focused, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, duration/short, credit/investment-grade, sector/financials, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KF-DB70

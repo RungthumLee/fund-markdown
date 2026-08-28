@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.4
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "นาย ยศวสุสุธารัตนชัยพร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/consumer, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # TISESG

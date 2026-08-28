@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.5
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. เพชรรัตน์ โพธิ์วัฒนะเสถียร", "น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, tax/thai-esg, compliance/sri-fund, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/energy, conc/focused, struct/direct, style/passive, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # K-TNZ

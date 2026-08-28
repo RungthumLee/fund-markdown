@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.9
 peer_group: "SET 50 Index Fund"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/energy, conc/focused, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # ES-SET50DV2

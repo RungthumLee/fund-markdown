@@ -26,7 +26,7 @@ top10_pct_nav: 50.18
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.1
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, conc/concentrated, struct/direct, use/accumulate]
 ---
 
 # KKP SMART MV-L FUND

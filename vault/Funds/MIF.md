@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 95.1
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย รุ่งโรจน์ นิลนพคุณ", "นาย อรวิทย์ บุญชม"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, struct/direct, style/active, compliance/sharia, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, sector/technology, sector/energy, conc/concentrated, struct/direct, style/active, compliance/sharia, use/accumulate]
 ---
 
 # MIF

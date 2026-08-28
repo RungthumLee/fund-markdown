@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 71.3
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "น.ส. จารุภัทร์ ศรีจำเริญ"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, sector/healthcare, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-HOSPITAL

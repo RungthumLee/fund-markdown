@@ -26,7 +26,7 @@ top10_pct_nav: 63.24
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.5
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/energy, conc/focused, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # KKP SET50 ESG FUND

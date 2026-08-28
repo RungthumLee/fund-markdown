@@ -26,7 +26,7 @@ top10_pct_nav: 104.56
 master_fund: "Threadneedle (Lux) - Global Technology"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/technology, fx/partially-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-GTECHRMF

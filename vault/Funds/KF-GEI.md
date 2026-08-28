@@ -26,7 +26,7 @@ master_fund: "Invesco Funds, SICAV - Invesco Global Equity Income Fund"
 master_isin: "LU0607513404"
 peer_group: "Global Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-GEI

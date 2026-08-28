@@ -30,7 +30,7 @@ master_fund: "iShares Core S&P 500 ETF"
 master_isin: "US4642872000"
 peer_group: "US Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/technology, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KFUSINDFX

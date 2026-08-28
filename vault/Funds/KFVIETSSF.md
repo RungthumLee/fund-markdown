@@ -29,7 +29,7 @@ country_coverage_pct: 98.5
 master_fund: "กองทุนเปิดกรุงศรีเวียดนามอิควิตี้"
 peer_group: "Vietnam Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, fx/discretionary, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, sector/financials, fx/discretionary, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KFVIETSSF

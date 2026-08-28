@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.2
 peer_group: "Equity General"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # FP THEQ

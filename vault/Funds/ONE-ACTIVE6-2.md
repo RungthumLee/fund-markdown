@@ -24,7 +24,7 @@ fund_size: 5268601.2
 holdings_count: 4
 top10_pct_nav: 25.84
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, sector/financials, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # ONE-ACTIVE6/2

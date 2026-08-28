@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.4
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พักตร์พริ้ง พู่ไพจิตรกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, conc/concentrated, struct/direct, use/accumulate]
 ---
 
 # K-MV

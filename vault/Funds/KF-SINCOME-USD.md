@@ -26,7 +26,7 @@ master_fund: "PIMCO GIS Income Institutional USD Acc"
 master_isin: "IE00B87KCF77"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย พงศ์สัณห์ อนุรัตน์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, duration/long, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, duration/long, sector/financials, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-SINCOME-USD

@@ -29,7 +29,7 @@ country_coverage_pct: 34.3
 master_fund: "JPMorgan Pacific Tech (acc) - USD"
 peer_group: "Technology Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/technology, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-ATECH

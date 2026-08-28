@@ -26,7 +26,7 @@ top10_pct_nav: 104.47
 master_fund: "iShares MSCI India UCITS ETF, USD (Acc)"
 peer_group: "India Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # K-INDX

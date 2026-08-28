@@ -30,7 +30,7 @@ master_fund: "T. Rowe Price Glb Tech Eq Q"
 master_isin: "LU1244140163"
 peer_group: "Technology Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/technology, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFGTECH

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.5
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. กอบพร กุลสุรกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # K-20SELECT

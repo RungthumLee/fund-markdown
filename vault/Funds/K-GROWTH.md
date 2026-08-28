@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.7
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พักตร์พริ้ง พู่ไพจิตรกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # K-GROWTH

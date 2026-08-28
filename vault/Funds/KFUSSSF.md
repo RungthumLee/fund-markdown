@@ -30,7 +30,7 @@ master_fund: "GQG Partners US Equity I USD Acc"
 master_isin: "IE00BN4GYG85"
 peer_group: "US Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, fx/partially-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # KFUSSSF

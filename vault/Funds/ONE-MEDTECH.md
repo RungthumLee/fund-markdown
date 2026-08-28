@@ -29,7 +29,7 @@ country_coverage_pct: 73.0
 master_fund: "iShares U.S. Medical Devices ETF"
 master_isin: "US4642888105"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/healthcare, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ONE-MEDTECH

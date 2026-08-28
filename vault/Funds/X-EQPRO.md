@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.1
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, sector/financials, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # X-EQPRO

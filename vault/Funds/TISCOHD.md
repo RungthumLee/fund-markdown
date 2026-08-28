@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.8
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย นิพจน์ไกรลาศโอฬาร", "น.ส. ศรสวรรค์เติมวุฒิกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # TISCOHD

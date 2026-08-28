@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.2
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์", "น.ส. นินัทธ์ วงศ์เสงี่ยม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # K-VALUERMF

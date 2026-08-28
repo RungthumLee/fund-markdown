@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 97.4
 fund_managers: ["นาย ศรุต สุทธิสำแดง"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # HIDIVEQ

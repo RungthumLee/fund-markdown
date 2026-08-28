@@ -26,7 +26,7 @@ top10_pct_nav: 102.17
 master_fund: "JPMorgan Funds - Global Healthcare Fund"
 peer_group: "Health Care"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/healthcare, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-GHEALTH

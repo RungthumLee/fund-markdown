@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 84.6
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, conc/focused, struct/direct, style/enhanced-index, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, sector/financials, conc/focused, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # ONE-FLEX

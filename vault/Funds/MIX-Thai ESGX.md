@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 96.6
 fund_managers: ["นาง อนุททยา สิทธิศุข", "นาย พิพัฒน์ นรานันทน์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, sector/financials, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # MIX-Thai ESGX

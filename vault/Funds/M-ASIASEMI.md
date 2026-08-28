@@ -21,7 +21,7 @@ nav: 9.4427
 nav_date: "2026-08-26"
 fund_size: 41913211.96
 master_fund: "Global X Asia Semiconductor ETF"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t5, sector/technology, fx/discretionary, struct/feeder, style/passive, use/accumulate]
 ---
 
 # M-ASIASEMI

@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 97.0
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, sector/energy, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-POWER

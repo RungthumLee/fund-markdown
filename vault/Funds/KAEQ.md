@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 93.7
 peer_group: "Equity General"
 fund_managers: ["น.ส. ภารดี มุณีสิทธิ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/energy, conc/concentrated, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # KAEQ

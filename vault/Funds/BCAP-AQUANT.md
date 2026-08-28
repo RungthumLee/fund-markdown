@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สิงคโปร์", "อินโดน�
 country_top: "ไทย"
 country_coverage_pct: 97.3
 peer_group: "ASEAN Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/real-estate, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-AQUANT

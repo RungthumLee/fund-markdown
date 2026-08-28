@@ -30,7 +30,7 @@ master_fund: "RBC Fds (Lux) Em Mkts ex-China Eq B $Acc"
 master_isin: "LU2200108640"
 peer_group: "Emerging Market"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-EMXCN

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 94.7
 peer_group: "Equity General"
 fund_managers: ["น.ส. ชุลีกร เตรียมพาณิชย์กุล"]
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t2, sector/technology, conc/concentrated, fx/discretionary, struct/direct, style/passive, use/accumulate]
 ---
 
 # K-ICT

@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 96.0
 peer_group: "Equity Small - Mid Cap"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/energy, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-SM-RMF

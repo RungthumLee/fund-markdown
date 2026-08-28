@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.7
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "น.ส. นันทรา ลายจุด"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/total-market, struct/direct, style/passive, tax/thai-esg, compliance/sri-fund, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, conc/total-market, struct/direct, style/passive, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # ES-SETESG

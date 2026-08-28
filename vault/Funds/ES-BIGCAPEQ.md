@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.7
 peer_group: "Equity General"
 fund_managers: ["นาย ศตนนท์ ทัน"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/energy, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-BIGCAPEQ

@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.4
 fund_managers: ["นาย ชัยพฤกษ์ กุลกาญจนาธร", "นาย บัญชา จึงวัฒนกิจ"]
-tags: [fund, sec-data, asset/equity, risk/high, conc/focused, struct/direct, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, sector/energy, conc/focused, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # TDEX

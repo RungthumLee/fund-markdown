@@ -30,7 +30,7 @@ master_fund: "MS INVF Global Brands Z"
 master_isin: "LU0360482987"
 peer_group: "Global Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFGBRAND

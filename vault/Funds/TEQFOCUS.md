@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.2
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. มัลลิกานิยมในธรรม", "นาย ณพัฒน์ศรีวรพงษ์พันธ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/energy, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # TEQFOCUS

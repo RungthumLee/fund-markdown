@@ -26,7 +26,7 @@ top10_pct_nav: 42.53
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.9
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, sector/energy, conc/concentrated, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP DIVIDEND FUND

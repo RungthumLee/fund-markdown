@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ญี่ปุ่น", "จีน"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 93.1
 fund_managers: ["นาย กมลยศ สุขุมสุวรรณ", "นาย ศิรภูมิ ศิริรังษี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-AIEQ

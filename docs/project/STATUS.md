@@ -32,7 +32,8 @@ updated: 2026-08-28
 
 - [x] **A1** ประเทศจากหลักทรัพย์ (ISIN/exchange) → rollup ขึ้นกอง → ดัชนี by-country ✅ Round 1
 - [x] **B1** หลักทรัพย์เป็น knowledge node — เพิ่ม **ประเทศ** (ticker/exchange/ownership มีอยู่แล้ว) ✅ Round 2
-- [~] **A2** อุตสาหกรรม/sector — Yahoo per-holding **บล็อก (429)**; ทำ deterministic แทน (facet จาก factsheet sector) → Round 4
+- [x] **A2** sector facet + by-sector index จาก **factsheet allocation** (deterministic) ✅ Round 4
+  · _Yahoo per-holding version รอ network (429 ในนี้) — ให้ผู้ใช้รันบนเครื่องตัวเอง_
 - [~] **A3** ช่องว่างอื่น: **duration/credit ทำแล้ว** (Round 3) · currency=ยังไม่ parse · market-cap=ต้องแหล่งนอก
 
 ---
@@ -74,3 +75,22 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
   parse duration ข้อความไทย "3 ปี 6 เดือน"→3.5 ปี · credit จาก factsheet (IG 147 · รัฐ 42 · HY 13) · duration (สั้น 118/กลาง 75/ยาว 30) ·
   ไม่ต้องโหวต · ไฟล์: `tagging.py` · `gen_vault.py` (facet label) · `STATUS.md`
   _ค้าง A3: currency (ต้อง parse factsheet เพิ่ม) · market-cap large/mid/small (ต้องแหล่งนอก เช่น Yahoo ซึ่งตอน 429)_
+- **R4 · A2 sector facet (จาก factsheet)** — V ผ่าน (broken=0 · by-sector: การเงิน 155/เทค 129/พลังงาน 87 · 1AMSET50→financials) ·
+  map ชื่อ sector ไทย(SET)+อังกฤษ(GICS) → canonical 10 กลุ่ม · tag `sector/*` 435 กอง + ดัชนี by-sector ·
+  ไม่ต้องโหวต (map ตรงไปตรงมา) · ไฟล์: `tagging.py` · `gen_vault.py` (facet + index + home) · `STATUS.md`
+
+---
+
+## 🛑 STOP — สรุปสถานะลูป (R1–R4)
+
+ทำเสร็จแบบ deterministic ครบทุกส่วนที่ทำได้ในสภาพแวดล้อมนี้:
+- ✅ **A1** ประเทศตลาดต่อกอง (จากหลักทรัพย์ + look-through) + by-country
+- ✅ **B1** ประเทศบนโน้ตหลักทรัพย์ (market/domicile)
+- ✅ **A3** bond duration/credit facets
+- ✅ **A2** sector facet + by-sector (จาก factsheet)
+
+**ต้องให้คน/สภาพแวดล้อมตัดสิน (หยุดตามเกณฑ์ S):**
+- **A2 Yahoo per-holding sector** — Yahoo คืน **429** ในนี้ · ต้องรัน fetch บนเครื่องผู้ใช้ (pipeline `fetch_masters` มีอยู่แล้ว)
+- **A3 currency exposure** — ต้องขยาย `factsheet_sections.py` ให้ parse ตารางสกุลเงิน (งาน parsing ก้อนใหม่)
+- **A3 market-cap (large/mid/small)** — ต้องแหล่งข้อมูลภายนอก (Yahoo, 429)
+- **B1 coverage** — หุ้น look-through ต่างประเทศ ~2,200 ตัวที่ไม่มี ISIN ยังไม่มีประเทศ

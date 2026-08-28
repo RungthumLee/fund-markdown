@@ -27,7 +27,7 @@ market_countries: ["เวียดนาม"]
 country_top: "เวียดนาม"
 country_coverage_pct: 97.0
 peer_group: "Vietnam Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # B-VIETNAM

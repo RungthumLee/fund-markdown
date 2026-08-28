@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.4
 peer_group: "SET 50 Index Fund"
 fund_managers: ["น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/energy, conc/focused, struct/direct, style/passive, use/accumulate]
 ---
 
 # K-SET50

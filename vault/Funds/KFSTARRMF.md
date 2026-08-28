@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 82.1
 peer_group: "Equity General"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย เอกชัย บุญยะพงศ์ไชย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/energy, conc/focused, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFSTARRMF

@@ -834,6 +834,7 @@ FACET_LABEL = {
     "asset": ("สินทรัพย์", "ประเภทสินทรัพย์หลักที่กองลงทุน"),
     "use": ("การใช้งาน", "กองนี้เหมาะกับโจทย์แบบไหน"),
     "risk": ("ความเสี่ยง (ภาษาคน)", "แปลระดับ 1–8 เป็นคำที่เข้าใจง่าย"),
+    "sector": ("กลุ่มอุตสาหกรรม", "กลุ่มหลักในพอร์ต (จากการจัดสรร sector ใน factsheet)"),
     "duration": ("อายุเฉลี่ยตราสารหนี้", "สั้น <1.5ปี / กลาง 1.5–5 / ยาว >5 (จาก duration)"),
     "credit": ("คุณภาพเครดิต", "investment-grade / high-yield / พันธบัตรรัฐ (จาก factsheet)"),
     "style": ("กลยุทธ์บริหาร", "active / passive / ปันผล ฯลฯ"),
@@ -1225,6 +1226,25 @@ def main() -> None:
             "> กองที่ทะลุถึงหลักทรัพย์ไม่ได้ (เช่น ทองคำ/สินค้าโภคภัณฑ์) จะไม่อยู่ในหน้านี้",
             g_country, "country"), encoding="utf-8")
 
+    # by sector (dominant industry group, from factsheet allocation)
+    _SECTOR_TH = {"financials": "การเงิน/ธนาคาร", "technology": "เทคโนโลยี",
+                  "communication": "สื่อสาร", "energy": "พลังงาน",
+                  "utilities": "สาธารณูปโภค", "real-estate": "อสังหา/REIT",
+                  "healthcare": "การแพทย์/สุขภาพ", "industrials": "อุตสาหกรรม",
+                  "materials": "วัสดุ/ปิโตรเคมี", "consumer": "สินค้า/บริการผู้บริโภค"}
+    g_sector = defaultdict(list)
+    for f in scoped:
+        st = [t for t in tagging.investor_tags(f) if t.startswith("sector/")]
+        if st:
+            g_sector[st[0].split("/", 1)[1]].append(f)
+    if g_sector:
+        (idx / "by-sector.md").write_text(render_index(
+            "🏭 กองทุนแยกตามกลุ่มอุตสาหกรรม (กลุ่มหลัก)",
+            "จัดกลุ่มตาม**กลุ่มอุตสาหกรรมที่มีน้ำหนักมากสุด** อ่านจากการจัดสรร sector "
+            "ใน factsheet (ไม่ใช่การเดาจากชื่อกอง) — ครอบคลุมเฉพาะกองที่ factsheet รายงาน sector",
+            g_sector, "sector",
+            {k: _SECTOR_TH.get(k, k) for k in g_sector}), encoding="utf-8")
+
     # by AMC index
     o = ["---", "title: บลจ. ทั้งหมด", "tags: [index, amc]", "---", "",
          "# 🏢 บริษัทจัดการกองทุน (บลจ.)", "", "[[00-home|🏠 Home]]", "",
@@ -1270,6 +1290,7 @@ def main() -> None:
          "| [[screener]] | 🔎 คัดกรอง/เรียงกองด้วย Dataview (interactive) |",
          "| [[tags]] | 🏷️ แท็ก faceted + คำถามยอดฮิต (พักเงิน/จีน AI/ปันผล) |",
          "| [[by-country]] | 🌏 แยกตามประเทศตลาดหลักในพอร์ต (จากหลักทรัพย์จริง) |",
+         "| [[by-sector]] | 🏭 แยกตามกลุ่มอุตสาหกรรมหลัก (จาก factsheet) |",
          "| [[../Factsheets/00-factsheets-index\\|Factsheets]] | ข้อความจาก PDF |",
          "", "## 📚 แนวคิดพื้นฐาน", "",
          "- [[ค่าธรรมเนียมกองทุนรวม]]",

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 94.1
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["น.ส. นินัทธ์ วงศ์เสงี่ยม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/real-estate, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # K-MS

@@ -25,7 +25,7 @@ holdings_count: 9
 top10_pct_nav: 101.98
 master_fund: "Eleva UCITS Fund - Eleva European Selection Fund"
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย สิทธิ์ จ่างตระกูล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/partially-hedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, fx/partially-hedged, struct/feeder, use/accumulate]
 ---
 
 # ONE-EUROEQ

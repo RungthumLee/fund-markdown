@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "เนเธอร์แลนด์"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 92.7
 fund_managers: ["นาย คมสัน ผลานุสนธิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ASP-DIGIBLOCRMF

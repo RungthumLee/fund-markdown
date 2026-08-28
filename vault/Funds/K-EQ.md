@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.3
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. นฤมล ว่องวุฒิพรชัย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # K-EQ

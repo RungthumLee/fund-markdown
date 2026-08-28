@@ -27,7 +27,7 @@ market_countries: ["สิงคโปร์", "ไทย", "มาเลเซ�
 country_top: "สิงคโปร์"
 country_coverage_pct: 93.8
 peer_group: "ASEAN Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/financials, conc/concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # B-ASEANRMF

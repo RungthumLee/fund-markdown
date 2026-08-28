@@ -30,7 +30,7 @@ master_fund: "UBS Lux Infras Eq Fd I A1 acc"
 master_isin: "LU1692112649"
 peer_group: "Global Equity - Infrastructure"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/utilities, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFINFRARMF

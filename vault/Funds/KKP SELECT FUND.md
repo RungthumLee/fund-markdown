@@ -26,7 +26,7 @@ top10_pct_nav: 60.98
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.2
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KKP SELECT FUND

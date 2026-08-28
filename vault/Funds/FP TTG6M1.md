@@ -27,7 +27,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.2
 peer_group: "Miscellaneous"
 fund_managers: ["นาย โฮ หยัม หยึง", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/focused, struct/direct, compliance/trigger-fund, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, sector/financials, conc/focused, struct/direct, compliance/trigger-fund, use/accumulate]
 ---
 
 # FP TTG6M1

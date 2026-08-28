@@ -28,7 +28,7 @@ country_top: "ฮ่องกง"
 country_coverage_pct: 22.8
 peer_group: "Greater China Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/consumer, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # KFCHINA-T10PLUS

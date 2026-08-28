@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ไทย"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 90.6
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย ประวีร์ อัจจิมากุล"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, sector/energy, conc/focused, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # M-FLEX

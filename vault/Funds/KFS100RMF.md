@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.2
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/energy, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # KFS100RMF

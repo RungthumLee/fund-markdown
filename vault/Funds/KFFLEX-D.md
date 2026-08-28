@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 91.3
 peer_group: "Aggressive Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. สาวิณี สุขศรีวงศ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, credit/investment-grade, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t3, credit/investment-grade, sector/energy, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KFFLEX-D

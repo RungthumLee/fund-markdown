@@ -26,7 +26,7 @@ top10_pct_nav: 75.22
 market_countries: ["สหรัฐฯ", "ฝรั่งเศส", "สวิตเซอร์แลนด์"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 94.4
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, conc/concentrated, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # ASP-TOPBRAND

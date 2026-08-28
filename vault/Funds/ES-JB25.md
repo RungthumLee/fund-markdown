@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.7
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, conc/concentrated, struct/direct, style/passive, use/accumulate]
 ---
 
 # ES-JB25

@@ -27,7 +27,7 @@ market_countries: ["อินโดนีเซีย", "สิงคโปร�
 country_top: "อินโดนีเซีย"
 country_coverage_pct: 93.6
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # ONE-STOXXASEANETF

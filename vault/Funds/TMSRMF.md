@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 94.2
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["นาย ณัฐภณอัศวเหม", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/consumer, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TMSRMF

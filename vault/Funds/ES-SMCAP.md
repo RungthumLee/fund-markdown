@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 96.1
 peer_group: "Equity Small - Mid Cap"
 fund_managers: ["น.ส. นันทรา ลายจุด", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/consumer, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-SMCAP

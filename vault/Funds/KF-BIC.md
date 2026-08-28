@@ -27,7 +27,7 @@ master_fund: "Schroder International Selection Fund BIC (Brazil India China) A A
 master_isin: "LU0232931963"
 peer_group: "Emerging Market"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "น.ส. วรดา ตันติสุนทร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/financials, fx/partially-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KF-BIC

@@ -26,7 +26,7 @@ top10_pct_nav: 108.18
 master_fund: "Schroder International Selection Fund SICAV - Global Emerging Market Opportunities"
 peer_group: "Emerging Market"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, sector/technology, fx/fully-hedged, struct/feeder, style/active, style/dividend, use/income]
 ---
 
 # K-GEMO

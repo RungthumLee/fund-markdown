@@ -29,7 +29,7 @@ country_coverage_pct: 99.7
 master_fund: "กองทุนเปิด ทิสโก้ สแตรทิจิก ฟันด์"
 peer_group: "Equity General"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, struct/feeder, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/energy, struct/feeder, tax/rmf, use/tax-saving]
 ---
 
 # TSFRMF

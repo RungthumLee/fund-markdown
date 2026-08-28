@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.9
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ณพัฒน์ศรีวรพงษ์พันธ์", "น.ส. มัลลิกานิยมในธรรม"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/energy, conc/concentrated, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # TISCOEQF

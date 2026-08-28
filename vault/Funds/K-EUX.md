@@ -29,7 +29,7 @@ country_coverage_pct: 37.0
 master_fund: "iShares Core EURO STOXX 50 UCITS ETF (DE)"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/financials, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # K-EUX

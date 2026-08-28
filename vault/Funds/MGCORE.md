@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สหรัฐฯ"]
 country_top: "ไทย"
 country_coverage_pct: 99.7
 fund_managers: ["นาย ประวีร์ อัจจิมากุล", "นาย ธนัย ลิขิตชัยกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/technology, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # MGCORE

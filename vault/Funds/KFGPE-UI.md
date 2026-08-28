@@ -27,7 +27,7 @@ master_fund: "Schroders Capital Semi-Liquid Global Private Equity"
 master_isin: "LU2005485581"
 peer_group: "Miscellaneous"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/alternative, risk/very-high, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, risk/very-high, sector/technology, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KFGPE-UI

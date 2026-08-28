@@ -30,7 +30,7 @@ master_fund: "PIMCO GIS Divers Inc Instl USD Inc"
 master_isin: "IE00B138GV00"
 peer_group: "Global Bond Fully F/X Hedge"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, duration/long, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, duration/long, sector/financials, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFDIVERSE

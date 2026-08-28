@@ -29,7 +29,7 @@ country_coverage_pct: 17.9
 master_fund: "Invesco Cnttl Eur Sm Cp Eq Z EUR Acc"
 peer_group: "European Equity"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-EUSMALL

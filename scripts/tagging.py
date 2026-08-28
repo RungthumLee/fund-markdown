@@ -217,6 +217,49 @@ def _bond_tags(f: dict) -> list[str]:
     return out
 
 
+# Factsheet sector name (Thai SET group or English GICS) -> canonical sector.
+# This is NOT a fund-name keyword guess (the reason theme/geo were dropped): it
+# reads the factsheet's actual sector allocation, so it is real reported data.
+_SECTOR_MAP = [
+    (r"ธนาคาร|เงินทุน|หลักทรัพย์|ประกัน|financ|\bbank|insurance", "financials"),
+    (r"เทคโนโลยี|สารสนเทศ|อิเล็กทรอนิก|อิเลคโทรนิค|information tech|technology|"
+     r"semiconductor|\btech\b|software", "technology"),
+    (r"สื่อสาร|โทรคมนาคม|communication|telecom", "communication"),
+    # energy before utilities: SET groups them as "พลังงานและสาธารณูปโภค", which
+    # is dominated by energy names (PTT, GULF); standalone utilities falls through
+    (r"พลังงาน|energy|น้ำมัน|ปิโตรเลียม|oil|gas", "energy"),
+    (r"สาธารณูปโภค|utilit", "utilities"),
+    (r"อสังหา|real ?estate|property|กองทรัสต์|reit", "real-estate"),
+    (r"การแพทย์|สุขภาพ|health|pharma|biotech|medical", "healthcare"),
+    (r"ขนส่ง|โลจิสติกส์|industr|อุตสาหกรรม|เครื่องจักร|transport", "industrials"),
+    (r"วัสดุ|material|ปิโตรเคมี|เคมี|chemical|เหล็ก|steel|mining|เหมือง", "materials"),
+    (r"พาณิชย์|consumer|อาหาร|เครื่องดื่ม|ค้าปลีก|retail|ท่องเที่ยว|สันทนาการ|"
+     r"tourism|media|บันเทิง", "consumer"),
+]
+
+
+def _sector_tags(f: dict) -> list[str]:
+    """Canonical sector(s) from the factsheet's own allocation - the dominant
+    sector, plus any other carrying >= 25% of the equity sleeve."""
+    sectors = (f.get("factsheet_sections") or {}).get("sectors") or []
+    if not sectors:
+        return []
+    ranked = sorted(
+        ((s.get("name") or "", s.get("percent") or 0) for s in sectors),
+        key=lambda kv: -kv[1])
+    out: list[str] = []
+    for i, (name, pct) in enumerate(ranked):
+        if i > 0 and pct < 25:
+            break
+        for pat, canon in _SECTOR_MAP:
+            if re.search(pat, name, re.I):
+                tag = f"sector/{canon}"
+                if tag not in out:
+                    out.append(tag)
+                break
+    return out[:2]
+
+
 def _liquidity_tags(f: dict) -> list[str]:
     days = set()
     for d in f.get("dealing_periods") or []:
@@ -256,6 +299,7 @@ def investor_tags(f: dict) -> list[str]:
             tags.append(f"risk/{word}")
     tags += _liquidity_tags(f)
     tags += _bond_tags(f)
+    tags += _sector_tags(f)
     tags += _concentration_tags(f)
     tags += _fx_tags(f, text)
     tags += _struct_tags(f)

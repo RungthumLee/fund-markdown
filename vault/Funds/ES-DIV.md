@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.1
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, conc/focused, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-DIV

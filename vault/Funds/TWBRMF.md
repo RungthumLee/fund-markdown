@@ -27,7 +27,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.8
 peer_group: "Equity Large Cap"
 fund_managers: ["น.ส. ศรสวรรค์เติมวุฒิกุล", "นาย นิพจน์ไกรลาศโอฬาร"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/consumer, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # TWBRMF
