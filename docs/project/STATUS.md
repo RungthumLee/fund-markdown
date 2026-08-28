@@ -35,7 +35,7 @@ updated: 2026-08-28
 - [x] **P1 · Factor foundation** ✅ — `factor_map.json` (static) + `factors.py` + section "⚖️ ปัจจัยที่กระทบ" ในโน้ตกอง (สองด้าน, ไม่ทำนาย)
 - [x] **P2 · Skills** ✅ — `.claude/skills/*` : fund-explainer · fund-finder · portfolio-overlap · fee-audit · holding-explorer
 - [x] **P3 · R-05 NAV time-series** ✅ — surface NAV 120 วัน ในโน้ตกอง (ประตูสู่ correlation)
-- [ ] **P4 · (ถ้ามีเวลา)** by-category index กองหลัก · semantic check ใหม่ (country/sector coverage)
+- [x] **P4** ✅ เสริมสรุปภาษาคนให้มี **ประเทศ + กลุ่มอุตสาหกรรม** (A-RING: เน้นกลุ่มวัสดุ/โลหะ · แคนาดา)
 
 ## คิวงาน
 
@@ -71,6 +71,8 @@ _บันทึกผลโหวต 3 agent ต่อทางแยกที�
 ## บันทึกรอบ (Round log)
 
 _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · ไฟล์ที่แตะ_
+
+- **P4 · สรุปภาษาคน + ประเทศ/กลุ่ม** — V ผ่าน (broken=0) · plain_summary เพิ่ม 'เน้นกลุ่ม<sector>' + 'ลงทุนต่างประเทศ (<ประเทศ>)' · ไฟล์: `tagging.py` `gen_vault.py`
 
 - **P3 · R-05 NAV time-series** — V ผ่าน (broken=0 · A-RING: ret +22% / vol 51.8% คำนวณเอง ตรง factsheet · sparkline) · `nav_history.py` อ่าน raw/nav.jsonl → series ~80 วันทำการ + สถิติ window (descriptive, caveat อดีต) · section 8 · wired ใน run_all/daily · **ประตูสู่ correlation พร้อมแล้ว** · ไฟล์: `nav_history.py` `gen_vault.py` `run_all.py` `daily.py`
 

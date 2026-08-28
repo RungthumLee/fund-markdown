@@ -374,7 +374,16 @@ _FX_PHRASE = {"fx/fully-hedged": "ป้องกันความเสี่�
               "fx/unhedged": "ไม่ป้องกันความเสี่ยงค่าเงิน"}
 
 
-def plain_summary(f: dict, ter: float | None = None) -> str:
+_SECTOR_SUMMARY_TH = {
+    "financials": "การเงิน/ธนาคาร", "technology": "เทคโนโลยี", "communication": "สื่อสาร",
+    "energy": "พลังงาน", "utilities": "สาธารณูปโภค", "real-estate": "อสังหา/REIT",
+    "healthcare": "การแพทย์/สุขภาพ", "industrials": "อุตสาหกรรม", "materials": "วัสดุ/โลหะ",
+    "consumer": "สินค้า/บริการผู้บริโภค",
+}
+
+
+def plain_summary(f: dict, ter: float | None = None,
+                  market_country: str | None = None) -> str:
     """One-paragraph, investor-language description built from the fund's own
     facts. Deterministic - no claim the data does not support, no prediction."""
     tags = investor_tags(f)
@@ -401,13 +410,21 @@ def plain_summary(f: dict, ter: float | None = None) -> str:
     if liq:
         parts.append(f"ขายคืนแล้วได้เงินภายใน {liq.split('/')[1].upper().replace('T','T+')}")
 
-    # domestic vs foreign from the flag, plus hedging when foreign
+    # dominant sector (from factsheet/Yahoo), stated in plain Thai
+    sect = next((_SECTOR_SUMMARY_TH[t.split("/", 1)[1]] for t in tags
+                 if t.startswith("sector/") and t.split("/", 1)[1] in _SECTOR_SUMMARY_TH),
+                None)
+    if sect:
+        parts.append(f"เน้นกลุ่ม{sect}")
+
+    # domestic vs foreign from the flag, plus the dominant market and hedging
     flag = f.get("invest_country_flag")
     if flag == "3":
         parts.append("ลงทุนในประเทศ ไม่มีความเสี่ยงค่าเงิน")
     elif flag in ("1", "2", "4"):
         fx = next((_FX_PHRASE[t] for t in tags if t in _FX_PHRASE), None)
-        parts.append("ลงทุนต่างประเทศ" + (f" · {fx}" if fx else ""))
+        where = f"ลงทุนต่างประเทศ ({market_country})" if market_country else "ลงทุนต่างประเทศ"
+        parts.append(where + (f" · {fx}" if fx else ""))
 
     if "struct/feeder" in tset:
         parts.append("ลงทุนผ่านกองทุนหลัก (feeder)")

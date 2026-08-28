@@ -280,8 +280,9 @@ def render_fund(f: dict, has_factsheet: bool) -> str:
     a("")
 
     # plain-language summary: the regulatory facts turned into a sentence
+    _mc = _mix["rows"][0][0] if _mix["rows"] else None
     a("> [!tip] อ่านง่าย ๆ")
-    a(f"> {tagging.plain_summary(f, _ter)}")
+    a(f"> {tagging.plain_summary(f, _ter, _mc)}")
     a("")
 
     # ---- 1. general
