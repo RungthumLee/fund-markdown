@@ -27,7 +27,7 @@ master_fund: "JPM US Aggregate Bond C acc USD"
 master_isin: "LU0217389567"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/long, credit/investment-grade, fx/fully-hedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # TUSBOND

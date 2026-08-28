@@ -26,7 +26,7 @@ top10_pct_nav: 28.15
 market_countries: ["ไทย", "ระหว่างประเทศ", "สวีเดน"]
 country_top: "ไทย"
 country_coverage_pct: 93.0
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/short, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KTPLUS

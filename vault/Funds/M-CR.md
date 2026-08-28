@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.6
 fund_managers: ["นาย กมลสิฐิ์ ขวัญใจธัญญา", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/mixed, risk/low, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/low, liquidity/t5, duration/short, credit/government, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # M-CR

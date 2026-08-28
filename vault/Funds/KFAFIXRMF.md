@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 92.3
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. พรทิพา หนึ่งนํ้าใจ", "นาย เอกพจน์ ภู่วิบูลย์พาณิชย์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFAFIXRMF

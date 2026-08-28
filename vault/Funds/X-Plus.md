@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 95.9
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t1, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t1, duration/short, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # X-Plus

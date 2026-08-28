@@ -27,7 +27,7 @@ market_countries: ["ไทย", "ระหว่างประเทศ", "ม�
 country_top: "ไทย"
 country_coverage_pct: 102.3
 peer_group: "Short Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # B-ST

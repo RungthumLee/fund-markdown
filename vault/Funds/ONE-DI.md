@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 101.9
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/enhanced-index, style/dividend, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/discretionary, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # ONE-DI

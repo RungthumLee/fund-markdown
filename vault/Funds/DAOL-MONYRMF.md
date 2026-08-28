@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 108.6
 fund_managers: ["นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569", "นาย ด ารงฤทธิ์ ส าเร็จวิทย์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, fx/discretionary, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, credit/government, fx/discretionary, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # DAOL-MONYRMF

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.9
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, duration/long, credit/investment-grade, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-DIV70THAIESGX

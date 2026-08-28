@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.4
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/long, credit/investment-grade, struct/direct, style/active, use/accumulate]
 ---
 
 # TSIThaiESG

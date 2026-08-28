@@ -26,7 +26,7 @@ top10_pct_nav: 56.02
 market_countries: ["ไทย", "มาเลเซีย", "เกาหลีใต้"]
 country_top: "ไทย"
 country_coverage_pct: 93.9
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, duration/medium, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # SCBDLITE

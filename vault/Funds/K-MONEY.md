@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 73.0
 peer_group: "Money Market General"
 fund_managers: ["น.ส. อัมไพวรรณ เมลืองนนท์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, duration/short, credit/government, fx/fully-hedged, struct/direct, style/active, use/park-cash]
 ---
 
 # K-MONEY

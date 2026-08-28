@@ -26,7 +26,7 @@ top10_pct_nav: 100.03
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.6
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, duration/short, fx/discretionary, struct/direct, style/active, use/park-cash]
 ---
 
 # ABCC

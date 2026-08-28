@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 99.1
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/short, credit/government, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ONE-FFI

@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 92.3
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/short, credit/government, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # M-BOND

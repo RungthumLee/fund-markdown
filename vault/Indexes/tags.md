@@ -45,6 +45,22 @@ _แปลระดับ 1–8 เป็นคำที่เข้าใจง
 - #risk/low · **39**
 - #risk/very-low · **32**
 
+## อายุเฉลี่ยตราสารหนี้ · `duration`
+
+_สั้น <1.5ปี / กลาง 1.5–5 / ยาว >5 (จาก duration)_
+
+- #duration/short · **118**
+- #duration/medium · **75**
+- #duration/long · **30**
+
+## คุณภาพเครดิต · `credit`
+
+_investment-grade / high-yield / พันธบัตรรัฐ (จาก factsheet)_
+
+- #credit/investment-grade · **147**
+- #credit/government · **42**
+- #credit/high-yield · **13**
+
 ## กลยุทธ์บริหาร · `style`
 
 _active / passive / ปันผล ฯลฯ_

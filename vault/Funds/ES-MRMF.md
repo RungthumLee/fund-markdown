@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.7
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธารดร เขียวมีส่วน", "นาง สุวัลลี ศิริสมบัติยืนยง"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, duration/short, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # ES-MRMF

@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ฮ่องกง"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 8.4
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, credit/investment-grade, conc/concentrated, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GMA PLUS

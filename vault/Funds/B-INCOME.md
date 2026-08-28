@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สหรัฐฯ", "สิงคโปร์"
 country_top: "ไทย"
 country_coverage_pct: 92.8
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, credit/investment-grade, conc/total-market, fx/partially-hedged, struct/direct, use/accumulate]
 ---
 
 # B-INCOME

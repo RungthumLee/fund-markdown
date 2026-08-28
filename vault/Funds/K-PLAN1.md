@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 80.8
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย สารัช อรุณากูร"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/fully-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-PLAN1

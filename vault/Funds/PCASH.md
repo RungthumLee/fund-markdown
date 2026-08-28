@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 96.0
 peer_group: "Money Market Government"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, duration/short, struct/direct, style/active, use/park-cash]
 ---
 
 # PCASH

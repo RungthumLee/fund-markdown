@@ -26,7 +26,7 @@ top10_pct_nav: 42.57
 market_countries: ["ไทย", "ระหว่างประเทศ"]
 country_top: "ไทย"
 country_coverage_pct: 98.3
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, fx/fully-hedged, struct/direct, style/active, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # KTFIXPLUS

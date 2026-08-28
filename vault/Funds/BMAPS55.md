@@ -24,7 +24,7 @@ fund_size: 319244204.42
 holdings_count: 10
 top10_pct_nav: 97.74
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, credit/investment-grade, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BMAPS55

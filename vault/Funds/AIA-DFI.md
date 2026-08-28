@@ -26,7 +26,7 @@ top10_pct_nav: 104.53
 master_fund: "AIA Diversified Fixed Income Z USD"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/long, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # AIA-DFI

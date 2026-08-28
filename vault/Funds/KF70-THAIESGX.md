@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 95.6
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, duration/long, credit/investment-grade, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KF70-THAIESGX

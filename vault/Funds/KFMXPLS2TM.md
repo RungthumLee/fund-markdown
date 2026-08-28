@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 95.9
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/total-market, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, credit/investment-grade, conc/total-market, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KFMXPLS2TM

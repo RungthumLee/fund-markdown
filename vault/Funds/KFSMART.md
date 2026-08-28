@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 88.3
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย ธีรภาพ จิรศักยกุล", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/short, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KFSMART

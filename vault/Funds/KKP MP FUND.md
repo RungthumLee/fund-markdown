@@ -26,7 +26,7 @@ top10_pct_nav: 67.62
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 97.7
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, credit/government, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # KKP MP FUND

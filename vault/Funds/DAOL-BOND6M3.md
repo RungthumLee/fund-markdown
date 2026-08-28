@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.5
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, fx/discretionary, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, credit/investment-grade, fx/discretionary, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
 
 # DAOL-BOND6M3

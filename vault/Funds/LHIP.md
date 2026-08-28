@@ -26,7 +26,7 @@ top10_pct_nav: 59.06
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 91.7
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/focused, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, duration/medium, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHIP

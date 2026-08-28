@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.5
 peer_group: "Moderate Allocation"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, duration/short, credit/investment-grade, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-MULTIINCOME

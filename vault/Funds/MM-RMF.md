@@ -27,7 +27,7 @@ market_countries: ["ไทย", "ระหว่างประเทศ", "ม�
 country_top: "ไทย"
 country_coverage_pct: 102.1
 peer_group: "Money Market General"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/fully-hedged, struct/direct, tax/rmf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, duration/short, credit/investment-grade, fx/fully-hedged, struct/direct, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # MM-RMF

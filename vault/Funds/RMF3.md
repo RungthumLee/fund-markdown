@@ -26,7 +26,7 @@ top10_pct_nav: 71.99
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 96.3
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/medium, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # RMF3

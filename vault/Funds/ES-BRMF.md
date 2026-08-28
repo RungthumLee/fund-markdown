@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 100.1
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. วิภาสิริ เกษมศุข"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-BRMF

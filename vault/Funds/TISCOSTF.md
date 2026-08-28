@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.3
 peer_group: "Money Market Government"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, duration/short, credit/investment-grade, struct/direct, style/enhanced-index, use/park-cash]
 ---
 
 # TISCOSTF

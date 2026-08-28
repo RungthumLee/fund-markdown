@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.6
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธีรภาพ จิรศักยกุล", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, duration/short, credit/investment-grade, struct/direct, style/active, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # KFCASH

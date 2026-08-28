@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 63.9
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตร อัศวมงคลกุล"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/short, credit/investment-grade, fx/fully-hedged, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-SFPLUS

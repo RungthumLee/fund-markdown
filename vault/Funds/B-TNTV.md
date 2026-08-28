@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 93.4
 peer_group: "Short Term Government Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/short, credit/investment-grade, struct/direct, style/active, use/accumulate]
 ---
 
 # B-TNTV

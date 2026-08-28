@@ -157,6 +157,66 @@ def _struct_tags(f: dict) -> list[str]:
     return ["struct/direct"]
 
 
+def _duration_years(text) -> float | None:
+    """Parse a Thai duration like '3 ปี 6 เดือน' or '9 เดือน' into years.
+
+    fs_statistics stores duration as free text, not a number, so it has to be
+    read out: sum the ปี (years) and เดือน (months) parts. Also accepts a bare
+    numeric string as years.
+    """
+    if isinstance(text, (int, float)):
+        return float(text) or None
+    s = str(text or "")
+    yrs = re.search(r"(\d+(?:\.\d+)?)\s*ปี", s)
+    mos = re.search(r"(\d+(?:\.\d+)?)\s*เดือน", s)
+    total = (float(yrs.group(1)) if yrs else 0) + (float(mos.group(1)) / 12 if mos else 0)
+    if not total:
+        try:
+            total = float(s)
+        except ValueError:
+            return None
+    return total or None
+
+
+def _bond_tags(f: dict) -> list[str]:
+    """Duration band and credit quality for a bond/mixed fund, from real data.
+
+    duration comes from fs_statistics (years); credit from the factsheet's rating
+    breakdown. Both are stated only when the fund actually reports them.
+    """
+    out: list[str] = []
+    if (f.get("policy") or "") not in ("ตราสารหนี้", "ผสม"):
+        return out
+
+    durs = [_duration_years(s.get("duration")) for s in f.get("statistics") or []]
+    durs = [v for v in durs if v]
+    if durs:
+        d = max(durs)
+        out.append("duration/short" if d < 1.5
+                   else "duration/medium" if d <= 5 else "duration/long")
+
+    ratings = (f.get("factsheet_sections") or {}).get("credit_ratings") or []
+    if ratings:
+        # a band counts as sub-investment-grade if it names BB/B/C/unrated and
+        # carries a meaningful weight; a government band is its own signal
+        hy = gov = 0.0
+        for r in ratings:
+            name = str(r.get("name") or "").upper()
+            pct = r.get("percent") or 0
+            if re.search(r"\bBB|\bB[/ ]|\bC[C/ ]|UNRATED|NON.?INVESTMENT|ต่ำกว่า|ไม่จัดอันดับ",
+                         name):
+                hy += pct
+            if "GOV" in name or "รัฐบาล" in name:
+                gov += pct
+        if hy >= 10:
+            out.append("credit/high-yield")
+        elif gov >= 50:
+            out.append("credit/government")
+        else:
+            out.append("credit/investment-grade")
+    return out
+
+
 def _liquidity_tags(f: dict) -> list[str]:
     days = set()
     for d in f.get("dealing_periods") or []:
@@ -195,6 +255,7 @@ def investor_tags(f: dict) -> list[str]:
         if word:
             tags.append(f"risk/{word}")
     tags += _liquidity_tags(f)
+    tags += _bond_tags(f)
     tags += _concentration_tags(f)
     tags += _fx_tags(f, text)
     tags += _struct_tags(f)

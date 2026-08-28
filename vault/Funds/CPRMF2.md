@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 97.6
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, duration/medium, conc/focused, struct/direct, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # CPRMF2

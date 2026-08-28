@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 94.7
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, duration/short, credit/investment-grade, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # MMM-PLUS

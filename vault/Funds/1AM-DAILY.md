@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.9
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/enhanced-index, tax/ssf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, duration/short, credit/investment-grade, fx/discretionary, struct/direct, style/enhanced-index, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # 1AM-DAILY

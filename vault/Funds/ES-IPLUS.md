@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.7
 peer_group: "Short Term General Bond"
 fund_managers: ["นาง รัชนิภา พรรคพานิช", "นาย ธารดร เขียวมีส่วน"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/short, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-IPLUS

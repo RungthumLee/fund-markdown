@@ -26,7 +26,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 90.6
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, duration/short, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # UMIX-DIV-M

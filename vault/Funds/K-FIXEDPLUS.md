@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 76.1
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตร อัศวมงคลกุล"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/fully-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # K-FIXEDPLUS

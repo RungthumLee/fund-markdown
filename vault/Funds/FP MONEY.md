@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 130.7
 peer_group: "Money Market Government"
 fund_managers: ["นาง สาวชนัยกานต์ สวัสดิฤกษ์", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, duration/short, credit/government, fx/discretionary, struct/direct, style/active, use/park-cash]
 ---
 
 # FP MONEY

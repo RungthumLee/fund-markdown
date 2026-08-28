@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.6
 peer_group: "Mid Term Government Bond"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. วิภาสิริ เกษมศุข"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/medium, credit/investment-grade, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-FIXEDRMF

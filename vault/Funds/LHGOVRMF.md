@@ -26,7 +26,7 @@ top10_pct_nav: 72.36
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.6
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/medium, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # LHGOVRMF

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.0
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย สารัช อรุณากูร", "นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/unhedged, struct/direct, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/long, credit/government, fx/unhedged, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # ABFTH

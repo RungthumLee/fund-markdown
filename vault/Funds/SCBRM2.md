@@ -26,7 +26,7 @@ top10_pct_nav: 50.21
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 96.9
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # SCBRM2

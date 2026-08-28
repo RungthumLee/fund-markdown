@@ -26,7 +26,7 @@ top10_pct_nav: 49.04
 market_countries: ["ไทย", "มาเลเซีย", "เกาหลีใต้"]
 country_top: "ไทย"
 country_coverage_pct: 63.6
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t3, fx/fully-hedged, struct/direct, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t3, duration/medium, fx/fully-hedged, struct/direct, tax/ssf, use/tax-saving]
 ---
 
 # SCBDBOND

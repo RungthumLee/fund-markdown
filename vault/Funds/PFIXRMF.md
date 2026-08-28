@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 94.9
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย พุทธินันท์ วชิราคม  ตั้งแต่ 04 ก.ย. 2566", "นาย สุชาติ เจริญวุฒิคุณ  ตั้งแต่ 24 ส.ค. 2566"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/long, credit/government, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PFIXRMF

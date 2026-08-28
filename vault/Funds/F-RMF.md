@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.2
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/short, credit/investment-grade, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # F-RMF

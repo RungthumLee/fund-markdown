@@ -26,7 +26,7 @@ top10_pct_nav: 73.77
 market_countries: ["สหรัฐฯ", "ไทย", "ญี่ปุ่น"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 78.9
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, duration/short, conc/total-market, fx/partially-hedged, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # PRINCIPAL MABALANCED

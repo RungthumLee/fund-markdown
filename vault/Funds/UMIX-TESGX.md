@@ -26,7 +26,7 @@ top10_pct_nav: 62.87
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.7
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, duration/medium, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # UMIX-TESGX

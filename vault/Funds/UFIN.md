@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สหรัฐฯ"]
 country_top: "ไทย"
 country_coverage_pct: 65.7
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, duration/medium, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # UFIN

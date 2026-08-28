@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.4
 peer_group: "Short Term Government Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t2, struct/direct, style/enhanced-index, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t2, duration/short, credit/investment-grade, struct/direct, style/enhanced-index, use/park-cash]
 ---
 
 # TBOND1Y

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 100.9
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย ธีระศันส์ ทุติยะโพธิ", "นาง สุวัลลี ศิริสมบัติยืนยง"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ES-SPlus

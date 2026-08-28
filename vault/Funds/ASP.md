@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 101.2
 fund_managers: ["นาย ปิยะณัฐ คุ้มเมธา", "นาย สุชน รัตนหิรัgภรณ์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/short, credit/government, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP

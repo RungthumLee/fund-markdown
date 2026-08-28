@@ -26,7 +26,7 @@ top10_pct_nav: 42.83
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 89.7
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/short, credit/government, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP PLUS FUND

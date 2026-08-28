@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.3
 peer_group: "Moderate Allocation"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย สมิทธ์ ศักดิ์กำจร"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, duration/short, credit/investment-grade, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-STSD

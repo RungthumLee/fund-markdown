@@ -27,7 +27,7 @@ market_countries: ["ไทย", "ระหว่างประเทศ", "ม�
 country_top: "ไทย"
 country_coverage_pct: 98.9
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/medium, credit/government, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BFIXED

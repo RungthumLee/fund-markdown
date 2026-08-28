@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.7
 peer_group: "Long Term General Bond"
 fund_managers: ["น.ส. ณัฐยา เตรียมวิทยา", "น.ส. รัมภารัจน์ ยุธานหัส"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/long, credit/investment-grade, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # KFGBTHAIESG

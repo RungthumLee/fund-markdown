@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 96.5
 peer_group: "Mid Term Government Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, duration/medium, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # GBRMF

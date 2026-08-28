@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.5
 peer_group: "Mid Term Government Bond"
 fund_managers: ["น.ส. พรทิพา หนึ่งนํ้าใจ", "น.ส. รัมภารัจน์ ยุธานหัส"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFGOVRMF

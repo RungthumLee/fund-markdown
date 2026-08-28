@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สหรัฐฯ"]
 country_top: "ไทย"
 country_coverage_pct: 94.1
 fund_managers: ["น.ส. ทิพย์วดี อภิชัยสิริ", "นาย ปิยะณั คุ้มเมธา"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, duration/short, conc/concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-MIX ThaiESGX

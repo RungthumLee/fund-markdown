@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สหรัฐฯ"]
 country_top: "ไทย"
 country_coverage_pct: 40.9
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, credit/investment-grade, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GTAC

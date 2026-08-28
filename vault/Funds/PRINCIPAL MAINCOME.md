@@ -26,7 +26,7 @@ top10_pct_nav: 67.06
 market_countries: ["ไทย", "สหรัฐฯ", "ญี่ปุ่น"]
 country_top: "ไทย"
 country_coverage_pct: 54.8
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, duration/short, conc/total-market, fx/partially-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # PRINCIPAL MAINCOME

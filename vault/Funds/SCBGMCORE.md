@@ -23,7 +23,7 @@ nav_date: "2026-08-24"
 fund_size: 25285026390.77
 holdings_count: 85
 top10_pct_nav: 76.21
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, credit/investment-grade, conc/focused, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBGMCORE

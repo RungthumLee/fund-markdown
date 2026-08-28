@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.6
 peer_group: "Long Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม", "นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/medium, credit/government, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # K-GBRMF

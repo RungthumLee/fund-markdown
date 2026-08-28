@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 87.3
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, struct/direct, use/accumulate]
 ---
 
 # TFIF

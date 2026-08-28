@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.8
 peer_group: "Short Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, credit/government, struct/direct, style/enhanced-index, use/accumulate, audience/restricted]
 ---
 
 # KASF

@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 100.0
 fund_managers: ["นาย พิพัฒน์ นรานันทน์", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/short, credit/high-yield, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
 
 # MFAI-Roll6M3

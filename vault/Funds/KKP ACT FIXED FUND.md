@@ -26,7 +26,7 @@ top10_pct_nav: 38.73
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 85.9
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP ACT FIXED FUND

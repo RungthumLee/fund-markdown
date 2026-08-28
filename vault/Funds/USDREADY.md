@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 103.92
 master_fund: "Amundi Fds Cash USD I2 USD C"
 master_isin: "LU0568621022"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, credit/investment-grade, fx/discretionary, struct/feeder, style/active, use/accumulate]
 ---
 
 # USDREADY

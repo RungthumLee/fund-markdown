@@ -26,7 +26,7 @@ top10_pct_nav: 30.9
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 100.4
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/medium, credit/investment-grade, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # KKP INRMF FUND

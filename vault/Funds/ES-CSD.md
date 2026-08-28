@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.2
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "นาย วีรชัย จันเป็ง"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, credit/investment-grade, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-CSD

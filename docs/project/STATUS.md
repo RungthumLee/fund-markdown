@@ -32,8 +32,8 @@ updated: 2026-08-28
 
 - [x] **A1** ประเทศจากหลักทรัพย์ (ISIN/exchange) → rollup ขึ้นกอง → ดัชนี by-country ✅ Round 1
 - [x] **B1** หลักทรัพย์เป็น knowledge node — เพิ่ม **ประเทศ** (ticker/exchange/ownership มีอยู่แล้ว) ✅ Round 2
-- [ ] **A2** อุตสาหกรรม/sector จริง (Yahoo ต่อ ticker) → rollup ขึ้นกอง
-- [ ] **A3** ช่องว่างอื่น: currency exposure · duration/credit ตราสารหนี้ · market-cap (large/mid/small)
+- [~] **A2** อุตสาหกรรม/sector — Yahoo per-holding **บล็อก (429)**; ทำ deterministic แทน (facet จาก factsheet sector) → Round 4
+- [~] **A3** ช่องว่างอื่น: **duration/credit ทำแล้ว** (Round 3) · currency=ยังไม่ parse · market-cap=ต้องแหล่งนอก
 
 ---
 
@@ -70,3 +70,7 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
   ครอบคลุม 764/2960 equity (เฉพาะที่มี ISIN/Bloomberg code — ไม่เดา) · ไม่ต้องโหวต (ใช้ DEC-L01) ·
   ไฟล์: `geography.py` (+Bloomberg map) · `gen_entity_notes.py` · `STATUS.md`
   _ค้าง: หุ้น look-through ต่างประเทศที่ไม่มี ISIN (~2,200) ยังไม่มีประเทศ — เสริมได้ด้วยการ join symbol จาก lookthrough ภายหลัง_
+- **R3 · A3 bond facets (duration/credit)** — V ผ่าน (broken=0 · K-FIXED → duration/medium + credit/investment-grade) ·
+  parse duration ข้อความไทย "3 ปี 6 เดือน"→3.5 ปี · credit จาก factsheet (IG 147 · รัฐ 42 · HY 13) · duration (สั้น 118/กลาง 75/ยาว 30) ·
+  ไม่ต้องโหวต · ไฟล์: `tagging.py` · `gen_vault.py` (facet label) · `STATUS.md`
+  _ค้าง A3: currency (ต้อง parse factsheet เพิ่ม) · market-cap large/mid/small (ต้องแหล่งนอก เช่น Yahoo ซึ่งตอน 429)_

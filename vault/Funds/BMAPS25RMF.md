@@ -24,7 +24,7 @@ fund_size: 109171838.29
 holdings_count: 10
 top10_pct_nav: 95.17
 peer_group: "Conservative Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, credit/investment-grade, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # BMAPS25RMF

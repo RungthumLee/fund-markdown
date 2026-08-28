@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 70.5
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย ภราดร เอี่ยวปรีดา", "นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # K-FIXEDPRO

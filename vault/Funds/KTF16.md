@@ -24,7 +24,7 @@ top10_pct_nav: 96.3
 market_countries: ["ไทย", "สหรัฐฯ"]
 country_top: "ไทย"
 country_coverage_pct: 49.0
-tags: [fund, sec-data, asset/fixed-income, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, credit/investment-grade, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # KTF16

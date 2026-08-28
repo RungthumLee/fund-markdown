@@ -26,7 +26,7 @@ top10_pct_nav: 62.72
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 86.7
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, duration/short, conc/concentrated, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # LHFLRMF

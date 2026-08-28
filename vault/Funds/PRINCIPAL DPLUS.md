@@ -26,7 +26,7 @@ top10_pct_nav: 59.27
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 93.2
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # PRINCIPAL DPLUS

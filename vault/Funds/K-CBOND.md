@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.0
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. จริยา พิมลไพบูลย์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-CBOND

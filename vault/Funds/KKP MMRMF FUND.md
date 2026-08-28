@@ -26,7 +26,7 @@ top10_pct_nav: 72.74
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 101.5
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, duration/short, credit/government, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # KKP MMRMF FUND

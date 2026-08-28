@@ -23,7 +23,7 @@ fund_size: 3446050347.02
 holdings_count: 28
 top10_pct_nav: 69.26
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, credit/investment-grade, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GMA UH

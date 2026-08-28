@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 92.9
 peer_group: "Long Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม", "นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # K-FIRMF

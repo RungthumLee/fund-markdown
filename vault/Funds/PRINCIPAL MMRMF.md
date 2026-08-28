@@ -26,7 +26,7 @@ top10_pct_nav: 81.75
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 100.1
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t2, fx/fully-hedged, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t2, duration/short, fx/fully-hedged, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # PRINCIPAL MMRMF

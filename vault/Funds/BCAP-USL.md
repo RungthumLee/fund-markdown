@@ -26,7 +26,7 @@ top10_pct_nav: 98.89
 master_fund: "Pictet-Short-Term Money Market USD J"
 master_isin: "LU0474963658"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, duration/short, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # BCAP-USL

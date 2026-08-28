@@ -26,7 +26,7 @@ top10_pct_nav: 63.31
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 74.2
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, duration/short, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHSELECT

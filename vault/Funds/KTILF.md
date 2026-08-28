@@ -26,7 +26,7 @@ top10_pct_nav: 104.64
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.6
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, fx/discretionary, struct/direct, style/enhanced-index, style/dividend, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, duration/medium, fx/discretionary, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # KTILF

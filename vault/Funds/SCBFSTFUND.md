@@ -26,7 +26,7 @@ top10_pct_nav: 82.7
 market_countries: ["ญี่ปุ่น", "สหรัฐฯ", "ระหว่างประเทศ"]
 country_top: "ญี่ปุ่น"
 country_coverage_pct: 96.6
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t3, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t3, duration/short, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBFSTFUND

@@ -26,7 +26,7 @@ top10_pct_nav: 71.22
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 104.6
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/short, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ABSI-RMF

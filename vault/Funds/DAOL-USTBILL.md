@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 71.6
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, fx/partially-hedged, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, credit/government, fx/partially-hedged, struct/direct, use/accumulate]
 ---
 
 # DAOL-USTBILL

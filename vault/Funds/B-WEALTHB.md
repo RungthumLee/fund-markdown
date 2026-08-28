@@ -21,7 +21,7 @@ nav: 9.9777
 nav_date: "2026-08-24"
 fund_size: 4932800380.82
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, fx/discretionary, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t6, credit/investment-grade, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # B-WEALTHB

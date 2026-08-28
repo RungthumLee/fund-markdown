@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 97.6
 peer_group: "Aggressive Allocation"
 fund_managers: ["น.ส. พัชราภา มหัทธนกุล", "น.ส. วิภาสิริ เกษมศุข"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, credit/investment-grade, conc/focused, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-MIXEDRMF

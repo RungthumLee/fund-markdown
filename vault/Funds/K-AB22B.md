@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 44.1
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย ธีรุตร อัศวมงคลกุล"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/short, credit/investment-grade, fx/discretionary, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # K-AB22B

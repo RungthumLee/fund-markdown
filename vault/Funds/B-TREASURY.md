@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 94.7
 fund_managers: ["นาง สาวปริยนุช", "นาง สาวอรุณี", "นาง สาวศิรารัตน์", "นาย ปัญญพัฒน์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/very-low, liquidity/t1, duration/short, struct/direct, style/active, use/park-cash]
 ---
 
 # B-TREASURY

@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 95.4
 peer_group: "Money Market General"
 fund_managers: ["นาง รัชนิภา พรรคพานิช", "นาย ธารดร เขียวมีส่วน"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, duration/short, credit/investment-grade, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # ES-MMRMF

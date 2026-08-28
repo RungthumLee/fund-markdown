@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 95.2
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. ณัฐยา เตรียมวิทยา", "นาย เอกพจน์ ภู่วิบูลย์พาณิชย์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFMTFIRMF

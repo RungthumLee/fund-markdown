@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 100.5
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, duration/short, credit/high-yield, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-SDAILY

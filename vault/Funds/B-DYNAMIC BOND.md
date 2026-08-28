@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 7.2
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/fully-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # B-DYNAMIC BOND

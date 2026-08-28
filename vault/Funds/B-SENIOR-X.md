@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สหรัฐฯ", "สิงคโปร์"
 country_top: "ไทย"
 country_coverage_pct: 92.1
 peer_group: "Conservative Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/total-market, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, credit/investment-grade, conc/total-market, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # B-SENIOR-X

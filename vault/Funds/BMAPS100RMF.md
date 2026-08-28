@@ -24,7 +24,7 @@ fund_size: 130244620.69
 holdings_count: 9
 top10_pct_nav: 94.95
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, credit/investment-grade, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # BMAPS100RMF

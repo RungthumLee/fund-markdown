@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 93.6
 peer_group: "Short Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, credit/investment-grade, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # K-SFRMF

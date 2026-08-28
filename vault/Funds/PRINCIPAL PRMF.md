@@ -26,7 +26,7 @@ top10_pct_nav: 100.01
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 92.1
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/short, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL PRMF

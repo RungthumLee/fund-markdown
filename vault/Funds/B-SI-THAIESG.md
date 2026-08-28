@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.1
 peer_group: "Long Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, duration/long, struct/direct, style/active, use/accumulate]
 ---
 
 # B-SI-THAIESG

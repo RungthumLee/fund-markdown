@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 75.7
 fund_managers: ["นาง สาว นฤมล มีมาก", "นาย เมธวัฒน์ ว่องกิจ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
 
 # X-FIXED6M1R

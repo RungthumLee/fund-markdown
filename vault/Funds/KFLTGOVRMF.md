@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.2
 peer_group: "Long Term General Bond"
 fund_managers: ["นาย ธีรภาพ จิรศักยกุล", "น.ส. รัมภารัจน์ ยุธานหัส"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/long, credit/investment-grade, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFLTGOVRMF

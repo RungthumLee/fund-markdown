@@ -26,7 +26,7 @@ top10_pct_nav: 36.26
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 83.4
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/medium, credit/high-yield, fx/fully-hedged, struct/direct, style/active, use/accumulate, audience/restricted]
 ---
 
 # PRINCIPAL FI

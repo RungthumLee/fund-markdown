@@ -26,7 +26,7 @@ top10_pct_nav: 74.57
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 94.4
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBSFF

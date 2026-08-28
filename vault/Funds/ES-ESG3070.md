@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.2
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. นันทรา ลายจุด"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, duration/long, credit/government, conc/total-market, struct/direct, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
 # ES-ESG3070

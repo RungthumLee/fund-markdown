@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 74.2
 fund_managers: ["นาย ชาญวุฒิ รุงแสงมนูญ", "นาย รุงโรจน นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t5, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t5, duration/medium, credit/investment-grade, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # SMART-PLUS

@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 97.2
 fund_managers: ["นาย ธนกร ทองมาก", "นาย วงศกร เหมพันธ์"]
-tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, struct/direct, style/active, compliance/trigger-fund, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, credit/investment-grade, conc/concentrated, struct/direct, style/active, compliance/trigger-fund, use/accumulate]
 ---
 
 # DAOL-THAITRIG6M

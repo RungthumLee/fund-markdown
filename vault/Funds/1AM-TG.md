@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.1
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, struct/direct, style/enhanced-index, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, duration/short, credit/government, struct/direct, style/enhanced-index, use/accumulate]
 ---
 
 # 1AM-TG

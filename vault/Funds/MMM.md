@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 82.5
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t5, duration/short, credit/government, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # MMM

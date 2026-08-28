@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ", "ไทย", "ญี่ปุ่น"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 82.6
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, duration/short, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # ASP-AAA

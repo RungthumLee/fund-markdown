@@ -25,7 +25,7 @@ top10_pct_nav: 82.27
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 102.8
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, duration/short, fx/discretionary, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # LHMMRMF

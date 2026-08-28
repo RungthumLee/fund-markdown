@@ -27,7 +27,7 @@ master_fund: "BGF Asian High Yield Bond D2"
 master_isin: "LU1564328224"
 peer_group: "High yield bond"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/high, liquidity/t4, duration/medium, credit/high-yield, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KFAHYBON

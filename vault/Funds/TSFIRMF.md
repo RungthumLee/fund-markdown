@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 95.3
 peer_group: "Mid Term Government Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # TSFIRMF

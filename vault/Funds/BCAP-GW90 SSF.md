@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สหรัฐฯ"]
 country_top: "ไทย"
 country_coverage_pct: 26.7
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t4, credit/investment-grade, conc/concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GW90 SSF

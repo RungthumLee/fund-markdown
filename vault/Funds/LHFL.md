@@ -26,7 +26,7 @@ top10_pct_nav: 60.47
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 85.9
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, conc/concentrated, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t2, duration/short, conc/concentrated, struct/direct, style/active, use/accumulate]
 ---
 
 # LHFL

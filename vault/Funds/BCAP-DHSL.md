@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 28.6
 peer_group: "Short Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t7, fx/fully-hedged, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t7, duration/short, credit/investment-grade, fx/fully-hedged, struct/direct, use/accumulate]
 ---
 
 # BCAP-DHSL

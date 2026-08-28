@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 95.7
 peer_group: "Short Term Government Bond"
 fund_managers: ["น.ส. อัมไพวรรณ เมลืองนนท์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, struct/direct, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, duration/short, credit/government, struct/direct, style/active, use/park-cash]
 ---
 
 # K-TREASURY

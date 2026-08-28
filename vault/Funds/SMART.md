@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 90.1
 fund_managers: ["นาย รุ่งโรจน์ นิลนพคุณ"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, struct/direct, style/enhanced-index, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/medium, credit/investment-grade, struct/direct, style/enhanced-index, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SMART

@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 96.2
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/total-market, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, credit/investment-grade, conc/total-market, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # BFLRMF

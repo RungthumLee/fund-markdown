@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 20.9
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, duration/medium, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # UPINCM-M

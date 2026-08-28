@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 63.7
 peer_group: "Short Term General Bond"
 fund_managers: ["นาย สารัช อรุณากูร"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, credit/government, fx/fully-hedged, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # K-SF

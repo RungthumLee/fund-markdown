@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 88.5
 peer_group: "Money Market Government"
 fund_managers: ["นาย ธีรุตม์ ทวิชศรี"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, struct/direct, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/very-low, liquidity/t1, duration/short, credit/government, struct/direct, style/active, use/park-cash]
 ---
 
 # K-CASH

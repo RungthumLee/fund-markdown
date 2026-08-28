@@ -27,7 +27,7 @@ market_countries: ["เกิร์นซีย์"]
 country_top: "เกิร์นซีย์"
 country_coverage_pct: 13.7
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, credit/investment-grade, conc/concentrated, fx/fully-hedged, struct/direct, use/accumulate, audience/restricted]
 ---
 
 # BCAP-MNH UI

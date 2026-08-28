@@ -27,7 +27,7 @@ market_countries: ["เยอรมนี"]
 country_top: "เยอรมนี"
 country_coverage_pct: 55.1
 fund_managers: ["นาย สร สุรสิทธิ์", "นาย ด ารงฤทธิ์ ส าเร็จวิทย์"]
-tags: [fund, sec-data, asset/mixed, risk/high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, credit/investment-grade, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # DAOL-EUROPE

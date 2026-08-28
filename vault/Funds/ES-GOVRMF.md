@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.0
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. วิภาสิริ เกษมศุข"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/medium, credit/government, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-GOVRMF

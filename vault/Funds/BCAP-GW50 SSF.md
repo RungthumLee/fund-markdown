@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สหรัฐฯ"]
 country_top: "ไทย"
 country_coverage_pct: 40.0
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, credit/investment-grade, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GW50 SSF

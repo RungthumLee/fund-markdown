@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สิงคโปร์", "สหรัฐฯ"
 country_top: "ไทย"
 country_coverage_pct: 94.4
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาย ธนกร ทองมาก"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/very-high, credit/investment-grade, conc/concentrated, fx/partially-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # DAOL-XPROP

@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.7
 fund_managers: ["นาย พิพัฒน์ นรานันทน์", "นาย นรินทร์ จันทร์เนตร"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t5, struct/direct, style/buy-hold, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t5, duration/short, credit/government, struct/direct, style/buy-hold, use/accumulate]
 ---
 
 # MGOV-Roll6M

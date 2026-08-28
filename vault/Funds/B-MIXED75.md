@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.5
 peer_group: "Aggressive Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, credit/investment-grade, conc/focused, struct/direct, style/active, use/accumulate]
 ---
 
 # B-MIXED75

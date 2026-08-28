@@ -26,7 +26,7 @@ top10_pct_nav: 51.14
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.6
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t1, duration/medium, struct/direct, style/active, use/accumulate]
 ---
 
 # KTFIX-1Y3Y

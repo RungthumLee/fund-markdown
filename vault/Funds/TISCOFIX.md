@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 100.1
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย นราธรจารุกุลวนิช", "นาย พีรภัทร์แสงทองฉาย"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/discretionary, struct/direct, style/enhanced-index, tax/ssf, use/tax-saving]
 ---
 
 # TISCOFIX

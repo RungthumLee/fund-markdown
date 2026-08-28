@@ -26,7 +26,7 @@ top10_pct_nav: 100.03
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.9
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, fx/discretionary, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/long, fx/discretionary, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
 # KTESGSI

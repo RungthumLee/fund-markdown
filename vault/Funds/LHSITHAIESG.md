@@ -25,7 +25,7 @@ top10_pct_nav: 100.16
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 90.1
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, duration/long, fx/discretionary, struct/direct, style/active, use/accumulate]
 ---
 
 # LHSITHAIESG

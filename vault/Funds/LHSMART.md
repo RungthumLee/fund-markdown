@@ -26,7 +26,7 @@ top10_pct_nav: 57.95
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 93.6
-tags: [fund, sec-data, asset/mixed, liquidity/t4, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, liquidity/t4, duration/short, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # LHSMART

@@ -26,7 +26,7 @@ top10_pct_nav: 89.66
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.8
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/long, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # SCBTB

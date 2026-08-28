@@ -24,7 +24,7 @@ fund_size: 170098884.49
 holdings_count: 11
 top10_pct_nav: 95.03
 peer_group: "Moderate Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, credit/investment-grade, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # BMAPS55RMF

@@ -26,7 +26,7 @@ top10_pct_nav: 74.08
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 69.5
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, conc/focused, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, duration/short, conc/focused, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # PRINCIPAL TEQAF70

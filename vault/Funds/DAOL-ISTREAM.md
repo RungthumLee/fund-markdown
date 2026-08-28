@@ -25,7 +25,7 @@ top10_pct_nav: 92.24
 market_countries: ["ไทย", "สหรัฐฯ"]
 country_top: "ไทย"
 country_coverage_pct: 78.7
-tags: [fund, sec-data, asset/mixed, risk/moderate, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, credit/investment-grade, conc/concentrated, fx/partially-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # DAOL-ISTREAM
