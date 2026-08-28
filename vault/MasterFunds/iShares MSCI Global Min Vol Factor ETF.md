@@ -82,18 +82,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Johnson & Johnson | `JNJ` | 1.56% |
-| 2 | Cisco Systems Inc | `CSCO` | 1.46% |
-| 3 | Motorola Solutions Inc | `MSI` | 1.22% |
-| 4 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 1.21% |
-| 5 | Microsoft Corp | `MSFT` | 1.21% |
-| 6 | Duke Energy Corp | `DUK` | 1.20% |
-| 7 | Cencora Inc | `COR` | 1.13% |
-| 8 | Berkshire Hathaway Inc Class B | `BRK-B` | 1.08% |
-| 9 | Southern Co | `SO` | 1.08% |
-| 10 | KDDI Corp | `9433.T` | 1.05% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 1.56% |
+| 2 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 1.46% |
+| 3 | [[../Entities/Motorola Solutions Inc\|Motorola Solutions Inc]] | `MSI` | สหรัฐฯ | 1.22% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 1.21% |
+| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 1.21% |
+| 6 | [[../Entities/Duke Energy Corp\|Duke Energy Corp]] | `DUK` | สหรัฐฯ | 1.20% |
+| 7 | Cencora Inc | `COR` | สหรัฐฯ | 1.13% |
+| 8 | [[../Entities/Berkshire Hathaway Inc Class B\|Berkshire Hathaway Inc Class B]] | `BRK-B` | - | 1.08% |
+| 9 | [[../Entities/Southern Co\|Southern Co]] | `SO` | สหรัฐฯ | 1.08% |
+| 10 | [[../Entities/KDDI Corp\|KDDI Corp]] | `9433.T` | ญี่ปุ่น | 1.05% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

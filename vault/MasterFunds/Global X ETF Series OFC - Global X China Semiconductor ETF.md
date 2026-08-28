@@ -57,18 +57,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Cambricon Technologies Corp Ltd Class A | `688256.SS` | 13.60% |
-| 2 | NAURA Technology Group Co Ltd Class A | `002371.SZ` | 13.48% |
-| 3 | Semiconductor Manufacturing International Corp Class A | `688981` | 12.08% |
-| 4 | GigaDevice Semiconductor Inc Class A | `603986.SS` | 10.48% |
-| 5 | Hygon Information Technology Co Ltd Class A | `688041.SS` | 9.07% |
-| 6 | Montage Technology Co Ltd Class A | `688008.SS` | 8.93% |
-| 7 | Advanced Micro-fabrication Equipment Inc Class A | `688012.SS` | 7.63% |
-| 8 | Hua Hong Grace Semiconductor Ltd Ordinary Shares - Class A | `688347` | 4.23% |
-| 9 | Hangzhou Chang Chuan Technology Co Ltd Class A | `300604.SZ` | 3.98% |
-| 10 | Piotech Inc Class A | `688072.SS` | 3.07% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | 13.60% |
+| 2 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | 13.48% |
+| 3 | [[../Entities/Semiconductor Manufacturing International Corp Class A\|Semiconductor Manufacturing International Corp Class A]] | `688981` | - | 12.08% |
+| 4 | GigaDevice Semiconductor Inc Class A | `603986.SS` | จีน | 10.48% |
+| 5 | [[../Entities/Hygon Information Technology Co Ltd Class A\|Hygon Information Technology Co Ltd Class A]] | `688041.SS` | จีน | 9.07% |
+| 6 | [[../Entities/Montage Technology Co Ltd Class A\|Montage Technology Co Ltd Class A]] | `688008.SS` | จีน | 8.93% |
+| 7 | [[../Entities/Advanced Micro-fabrication Equipment Inc Class A\|Advanced Micro-fabrication Equipment Inc Class A]] | `688012.SS` | จีน | 7.63% |
+| 8 | [[../Entities/Hua Hong Grace Semiconductor Ltd Ordinary Shares - Class A\|Hua Hong Grace Semiconductor Ltd Ordinary Shares - Class A]] | `688347` | - | 4.23% |
+| 9 | Hangzhou Chang Chuan Technology Co Ltd Class A | `300604.SZ` | จีน | 3.98% |
+| 10 | [[../Entities/Piotech Inc Class A\|Piotech Inc Class A]] | `688072.SS` | จีน | 3.07% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

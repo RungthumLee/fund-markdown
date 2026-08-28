@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Bel Fuse Inc Class B | `BELFB` | 7.71% |
-| 2 | Eaton Corp PLC | `ETN` | 5.87% |
-| 3 | Powell Industries Inc | `POWL` | 5.70% |
-| 4 | Quanta Services Inc | `PWR` | 5.50% |
-| 5 | NextEra Energy Inc | `NEE` | 5.40% |
-| 6 | Amphenol Corp Class A | `APH` | 4.73% |
-| 7 | Idacorp Inc | `IDA` | 4.57% |
-| 8 | American Electric Power Co Inc | `AEP` | 4.46% |
-| 9 | OGE Energy Corp | `OGE` | 4.45% |
-| 10 | Hubbell Inc | `HUBB` | 4.44% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Bel Fuse Inc Class B\|Bel Fuse Inc Class B]] | `BELFB` | สหรัฐฯ | 7.71% |
+| 2 | [[../Entities/ETN US Equity\|Eaton Corp PLC]] | `ETN` | สหรัฐฯ | 5.87% |
+| 3 | [[../Entities/Powell Industries Inc\|Powell Industries Inc]] | `POWL` | สหรัฐฯ | 5.70% |
+| 4 | [[../Entities/Quanta Services Inc\|Quanta Services Inc]] | `PWR` | สหรัฐฯ | 5.50% |
+| 5 | [[../Entities/NEE US Equity\|NextEra Energy Inc]] | `NEE` | สหรัฐฯ | 5.40% |
+| 6 | [[../Entities/Amphenol Corp Class A\|Amphenol Corp Class A]] | `APH` | สหรัฐฯ | 4.73% |
+| 7 | [[../Entities/Idacorp Inc\|Idacorp Inc]] | `IDA` | สหรัฐฯ | 4.57% |
+| 8 | [[../Entities/American Electric Power Co Inc\|American Electric Power Co Inc]] | `AEP` | สหรัฐฯ | 4.46% |
+| 9 | [[../Entities/OGE Energy Corp\|OGE Energy Corp]] | `OGE` | สหรัฐฯ | 4.45% |
+| 10 | [[../Entities/Hubbell Inc\|Hubbell Inc]] | `HUBB` | สหรัฐฯ | 4.44% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

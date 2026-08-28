@@ -79,18 +79,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Apple Inc | `AAPL` | 7.68% |
-| 2 | NVIDIA Corp | `NVDA` | 7.39% |
-| 3 | Micron Technology Inc | `MU` | 6.67% |
-| 4 | Alphabet Inc Class A | `GOOGL` | 5.44% |
-| 5 | Microsoft Corp | `MSFT` | 5.23% |
-| 6 | Broadcom Inc | `AVGO` | 4.93% |
-| 7 | JPMorgan Chase & Co | `JPM` | 4.74% |
-| 8 | Visa Inc Class A | `V` | 4.65% |
-| 9 | Mastercard Inc Class A | `MA` | 4.53% |
-| 10 | Bank of America Corp | `BAC` | 3.89% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 7.68% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.39% |
+| 3 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 6.67% |
+| 4 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.44% |
+| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.23% |
+| 6 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 4.93% |
+| 7 | [[../Entities/JPMORGAN CHASE & CO\|JPMorgan Chase & Co]] | `JPM` | สหรัฐฯ | 4.74% |
+| 8 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 4.65% |
+| 9 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 4.53% |
+| 10 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | 3.89% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

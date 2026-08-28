@@ -85,18 +85,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Tencent Holdings Ltd | `0700.HK` | 9.50% |
-| 2 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 7.30% |
-| 3 | China Construction Bank Corp Class H | `00939` | 4.79% |
-| 4 | AIA Group Ltd | `1299.HK` | 4.49% |
-| 5 | Kingboard Laminates Holdings Ltd | `1888.HK` | 4.37% |
-| 6 | Suzhou Recodeal Interconnect System Co Ltd Class A | `688800.SS` | 3.77% |
-| 7 | Hong Kong Exchanges and Clearing Ltd | `0388.HK` | 3.06% |
-| 8 | Ping An Insurance (Group) Co. of China Ltd Class H | `02318` | 2.47% |
-| 9 | Hua Hong Grace Semiconductor Ltd Shs Unitary 144A/Reg S | `1347.HK` | 2.42% |
-| 10 | Bank Of China Ltd Class H | `03988` | 2.16% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 9.50% |
+| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 7.30% |
+| 3 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 4.79% |
+| 4 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | 4.49% |
+| 5 | [[../Entities/Kingboard Laminates Holdings Ltd\|Kingboard Laminates Holdings Ltd]] | `1888.HK` | ฮ่องกง | 4.37% |
+| 6 | Suzhou Recodeal Interconnect System Co Ltd Class A | `688800.SS` | จีน | 3.77% |
+| 7 | [[../Entities/Hong Kong Exchanges and Clearing Ltd\|Hong Kong Exchanges and Clearing Ltd]] | `0388.HK` | ฮ่องกง | 3.06% |
+| 8 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | 2.47% |
+| 9 | [[../Entities/Hua Hong Grace Semiconductor Ltd Shs Unitary 144A-Reg S\|Hua Hong Grace Semiconductor Ltd Shs Unitary 144A/Reg S]] | `1347.HK` | ฮ่องกง | 2.42% |
+| 10 | [[../Entities/Bank Of China Ltd Class H\|Bank Of China Ltd Class H]] | `03988` | - | 2.16% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

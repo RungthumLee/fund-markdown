@@ -73,17 +73,17 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Wheaton Precious Metals Corp | `WPM.TO` | 22.37% |
-| 2 | Pan American Silver Corp | `PAAS.TO` | 12.54% |
-| 3 | Coeur Mining Inc | `CDE` | 10.58% |
-| 4 | Industrias Penoles SAB de CV | `PE&OLES.MX` | 5.20% |
-| 5 | Hecla Mining Co | `HL` | 4.63% |
-| 6 | Fresnillo PLC | `FRES.L` | 4.30% |
-| 7 | Compania De Minas Buenaventura SAA ADR | `BVN` | 4.18% |
-| 8 | OR Royalties Inc | `OR.TO` | 4.15% |
-| 9 | SSR Mining Inc | `SSRM.TO` | 3.85% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/WPM CN Equity\|Wheaton Precious Metals Corp]] | `WPM.TO` | แคนาดา | 22.37% |
+| 2 | [[../Entities/Pan American Silver Corp\|Pan American Silver Corp]] | `PAAS.TO` | แคนาดา | 12.54% |
+| 3 | [[../Entities/Coeur Mining Inc\|Coeur Mining Inc]] | `CDE` | สหรัฐฯ | 10.58% |
+| 4 | [[../Entities/Industrias Penoles SAB de CV\|Industrias Penoles SAB de CV]] | `PE&OLES.MX` | - | 5.20% |
+| 5 | [[../Entities/Hecla Mining Co\|Hecla Mining Co]] | `HL` | สหรัฐฯ | 4.63% |
+| 6 | [[../Entities/Fresnillo PLC\|Fresnillo PLC]] | `FRES.L` | สหราชอาณาจักร | 4.30% |
+| 7 | Compania De Minas Buenaventura SAA ADR | `BVN` | สหรัฐฯ | 4.18% |
+| 8 | OR Royalties Inc | `OR.TO` | แคนาดา | 4.15% |
+| 9 | SSR Mining Inc | `SSRM.TO` | แคนาดา | 3.85% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

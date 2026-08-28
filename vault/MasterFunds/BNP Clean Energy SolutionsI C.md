@@ -63,18 +63,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Array Technologies Inc Ordinary Shares | `ARRY` | 5.88% |
-| 2 | Siemens Energy AG Ordinary Shares | `ENR.DE` | 5.76% |
-| 3 | Legence Corp Ordinary Shares - Class A | `LGN` | 5.73% |
-| 4 | Sunrun Inc | `RUN` | 5.67% |
-| 5 | Nextpower Inc Class A | `NXT` | 5.53% |
-| 6 | Lumentum Holdings Inc | `LITE` | 5.34% |
-| 7 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 4.73% |
-| 8 | Cameco Corp | `CCO.TO` | 4.44% |
-| 9 | Vertiv Holdings Co Class A | `VRT` | 4.42% |
-| 10 | Samsung Electronics Co Ltd | `005930.KQ` | 4.33% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Array Technologies Inc Ordinary Shares\|Array Technologies Inc Ordinary Shares]] | `ARRY` | สหรัฐฯ | 5.88% |
+| 2 | [[../Entities/Siemens Energy AG Ordinary Shares\|Siemens Energy AG Ordinary Shares]] | `ENR.DE` | เยอรมนี | 5.76% |
+| 3 | [[../Entities/Legence Corp Ordinary Shares - Class A\|Legence Corp Ordinary Shares - Class A]] | `LGN` | สหรัฐฯ | 5.73% |
+| 4 | [[../Entities/Sunrun Inc\|Sunrun Inc]] | `RUN` | สหรัฐฯ | 5.67% |
+| 5 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | 5.53% |
+| 6 | [[../Entities/Lumentum Holdings Inc\|Lumentum Holdings Inc]] | `LITE` | สหรัฐฯ | 5.34% |
+| 7 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 4.73% |
+| 8 | [[../Entities/Cameco Corp\|Cameco Corp]] | `CCO.TO` | แคนาดา | 4.44% |
+| 9 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | 4.42% |
+| 10 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 4.33% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

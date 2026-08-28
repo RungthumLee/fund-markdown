@@ -73,18 +73,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | BHP Group Ltd | `BHP.AX` | 5.48% |
-| 2 | Teck Resources Ltd Class B (Sub Voting) | `TECK-B.TO` | 5.39% |
-| 3 | Hudbay Minerals Inc | `HBM.TO` | 5.26% |
-| 4 | Southern Copper Corp | `SCCO` | 5.08% |
-| 5 | First Quantum Minerals Ltd | `FM.TO` | 5.05% |
-| 6 | Glencore PLC | `GLEN.L` | 5.02% |
-| 7 | Antofagasta PLC | `ANTO.L` | 5.01% |
-| 8 | KGHM Polska Miedz SA | `KGH.WA` | 4.76% |
-| 9 | Freeport-McMoRan Inc | `FCX` | 4.76% |
-| 10 | Zijin Mining Group Co Ltd Class H | `02899` | 4.54% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/BHP Group Ltd\|BHP Group Ltd]] | `BHP.AX` | ออสเตรเลีย | 5.48% |
+| 2 | [[../Entities/Teck Resources Ltd Class B (Sub Voting)\|Teck Resources Ltd Class B (Sub Voting)]] | `TECK-B.TO` | แคนาดา | 5.39% |
+| 3 | [[../Entities/Hudbay Minerals Inc\|Hudbay Minerals Inc]] | `HBM.TO` | แคนาดา | 5.26% |
+| 4 | [[../Entities/Southern Copper Corp\|Southern Copper Corp]] | `SCCO` | สหรัฐฯ | 5.08% |
+| 5 | [[../Entities/First Quantum Minerals Ltd\|First Quantum Minerals Ltd]] | `FM.TO` | แคนาดา | 5.05% |
+| 6 | [[../Entities/Glencore PLC\|Glencore PLC]] | `GLEN.L` | สหราชอาณาจักร | 5.02% |
+| 7 | [[../Entities/Antofagasta PLC\|Antofagasta PLC]] | `ANTO.L` | สหราชอาณาจักร | 5.01% |
+| 8 | [[../Entities/KGHM Polska Miedz SA\|KGHM Polska Miedz SA]] | `KGH.WA` | - | 4.76% |
+| 9 | [[../Entities/Freeport-McMoRan Inc\|Freeport-McMoRan Inc]] | `FCX` | สหรัฐฯ | 4.76% |
+| 10 | [[../Entities/Zijin Mining Group Co Ltd Class H\|Zijin Mining Group Co Ltd Class H]] | `02899` | - | 4.54% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

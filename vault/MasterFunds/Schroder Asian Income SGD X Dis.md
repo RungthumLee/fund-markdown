@@ -73,14 +73,14 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | iShares JPMorgan EM Lcl Govt Bd ETF$Dist | `IEML.L` | 4.50% |
-| 2 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 2.21% |
-| 3 | MediaTek Inc | `2454.TW` | 2.16% |
-| 4 | China Construction Bank Corp Class H | `00939` | 1.84% |
-| 5 | Samsung Electronics Co Ltd | `005930.KQ` | 1.60% |
-| 6 | iShares Gold Producers ETF USD Acc | `IAUP.L` | 1.56% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | iShares JPMorgan EM Lcl Govt Bd ETF$Dist | `IEML.L` | สหราชอาณาจักร | 4.50% |
+| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 2.21% |
+| 3 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 2.16% |
+| 4 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 1.84% |
+| 5 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 1.60% |
+| 6 | iShares Gold Producers ETF USD Acc | `IAUP.L` | สหราชอาณาจักร | 1.56% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Amundi Physical Gold ETC C | `GOLD.AS` | 4.76% |
-| 2 | Alphabet Inc Class C | `GOOG` | 2.62% |
-| 3 | Shell PLC | `SHEL.L` | 2.31% |
-| 4 | Samsung Electronics Co Ltd Participating Preferred | `005935` | 2.02% |
-| 5 | Becton Dickinson & Co | `BDX` | 1.97% |
-| 6 | iShares Physical Gold ETC | `IGLN.L` | 1.83% |
-| 7 | Xtrackers Physical Gold ETC | `XGLD.L` | 1.83% |
-| 8 | Meta Platforms Inc Class A | `META` | 1.75% |
-| 9 | Elevance Health Inc | `ELV` | 1.56% |
-| 10 | Merck KGaA | `MRK.DE` | 1.45% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Amundi Physical Gold ETC C | `GOLD.AS` | เนเธอร์แลนด์ | 4.76% |
+| 2 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 2.62% |
+| 3 | [[../Entities/Shell PLC\|Shell PLC]] | `SHEL.L` | สหราชอาณาจักร | 2.31% |
+| 4 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 2.02% |
+| 5 | [[../Entities/Becton Dickinson & Co\|Becton Dickinson & Co]] | `BDX` | สหรัฐฯ | 1.97% |
+| 6 | [[../Entities/iShares Physical Gold ETC\|iShares Physical Gold ETC]] | `IGLN.L` | สหราชอาณาจักร | 1.83% |
+| 7 | Xtrackers Physical Gold ETC | `XGLD.L` | สหราชอาณาจักร | 1.83% |
+| 8 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 1.75% |
+| 9 | [[../Entities/Elevance Health Inc\|Elevance Health Inc]] | `ELV` | สหรัฐฯ | 1.56% |
+| 10 | Merck KGaA | `MRK.DE` | เยอรมนี | 1.45% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

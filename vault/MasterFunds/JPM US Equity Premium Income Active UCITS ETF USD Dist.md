@@ -71,17 +71,17 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 2.76% |
-| 2 | Microsoft Corp | `MSFT` | 2.61% |
-| 3 | Amazon.com Inc | `AMZN` | 2.60% |
-| 4 | Apple Inc | `AAPL` | 2.54% |
-| 5 | Alphabet Inc Class A | `GOOGL` | 2.21% |
-| 6 | Mastercard Inc Class A | `MA` | 1.90% |
-| 7 | Broadcom Inc | `AVGO` | 1.84% |
-| 8 | Johnson & Johnson | `JNJ` | 1.76% |
-| 9 | Ross Stores Inc | `ROST` | 1.71% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.76% |
+| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.61% |
+| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 2.60% |
+| 4 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 2.54% |
+| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 2.21% |
+| 6 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 1.90% |
+| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 1.84% |
+| 8 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 1.76% |
+| 9 | [[../Entities/ROSS STORES, INC\|Ross Stores Inc]] | `ROST` | สหรัฐฯ | 1.71% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

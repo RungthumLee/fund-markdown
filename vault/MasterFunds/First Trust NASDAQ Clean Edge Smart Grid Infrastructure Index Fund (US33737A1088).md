@@ -77,18 +77,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Schneider Electric SE | `SU.PA` | 9.11% |
-| 2 | Johnson Controls International PLC Registered Shares | `JCI` | 8.53% |
-| 3 | Eaton Corp PLC | `ETN` | 8.39% |
-| 4 | Quanta Services Inc | `PWR` | 8.03% |
-| 5 | ABB Ltd | `ABBN.SW` | 8.00% |
-| 6 | E.ON SE | `EOAN.DE` | 4.44% |
-| 7 | National Grid PLC | `NG.L` | 4.32% |
-| 8 | Prysmian SpA | `PRY.MI` | 3.50% |
-| 9 | nVent Electric PLC | `NVT` | 2.66% |
-| 10 | Hubbell Inc | `HUBB` | 2.56% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 9.11% |
+| 2 | [[../Entities/Johnson Controls International PLC Registered Shares\|Johnson Controls International PLC Registered Shares]] | `JCI` | สหรัฐฯ | 8.53% |
+| 3 | [[../Entities/ETN US Equity\|Eaton Corp PLC]] | `ETN` | สหรัฐฯ | 8.39% |
+| 4 | [[../Entities/Quanta Services Inc\|Quanta Services Inc]] | `PWR` | สหรัฐฯ | 8.03% |
+| 5 | [[../Entities/ABB Ltd\|ABB Ltd]] | `ABBN.SW` | สวิตเซอร์แลนด์ | 8.00% |
+| 6 | [[../Entities/E.ON SE\|E.ON SE]] | `EOAN.DE` | เยอรมนี | 4.44% |
+| 7 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 4.32% |
+| 8 | [[../Entities/Prysmian SpA\|Prysmian SpA]] | `PRY.MI` | อิตาลี | 3.50% |
+| 9 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | 2.66% |
+| 10 | [[../Entities/Hubbell Inc\|Hubbell Inc]] | `HUBB` | สหรัฐฯ | 2.56% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

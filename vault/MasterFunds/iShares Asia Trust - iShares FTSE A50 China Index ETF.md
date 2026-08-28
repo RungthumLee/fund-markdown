@@ -70,18 +70,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 8.42% |
-| 2 | Kweichow Moutai Co Ltd Class A | `600519.SS` | 8.17% |
-| 3 | Zhongji Innolight Co Ltd Class A | `300308.SZ` | 4.85% |
-| 4 | China Merchants Bank Co Ltd Class A | `600036.SS` | 3.95% |
-| 5 | China Yangtze Power Co Ltd Class A | `600900.SS` | 3.44% |
-| 6 | Cambricon Technologies Corp Ltd Class A | `688256.SS` | 3.36% |
-| 7 | Zijin Mining Group Co Ltd Class A | `601899.SS` | 3.28% |
-| 8 | Hygon Information Technology Co Ltd Class A | `688041.SS` | 3.11% |
-| 9 | Foxconn Industrial Internet Co Ltd Class A | `601138.SS` | 3.11% |
-| 10 | Agricultural Bank of China Ltd Class A | `601288.SS` | 2.96% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 8.42% |
+| 2 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | 8.17% |
+| 3 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | 4.85% |
+| 4 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | 3.95% |
+| 5 | [[../Entities/China Yangtze Power Co Ltd Class A\|China Yangtze Power Co Ltd Class A]] | `600900.SS` | จีน | 3.44% |
+| 6 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | 3.36% |
+| 7 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | 3.28% |
+| 8 | [[../Entities/Hygon Information Technology Co Ltd Class A\|Hygon Information Technology Co Ltd Class A]] | `688041.SS` | จีน | 3.11% |
+| 9 | [[../Entities/Foxconn Industrial Internet Co Ltd Class A\|Foxconn Industrial Internet Co Ltd Class A]] | `601138.SS` | จีน | 3.11% |
+| 10 | [[../Entities/Agricultural Bank of China Ltd Class A\|Agricultural Bank of China Ltd Class A]] | `601288.SS` | จีน | 2.96% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -63,18 +63,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Nippon Building Fund Inc | `8951.T` | 7.51% |
-| 2 | Japan Real Estate Investment Corp | `8952.T` | 5.91% |
-| 3 | Japan Metropolitan Fund Investment Corp | `8953.T` | 5.63% |
-| 4 | GLP J-REIT | `3281.T` | 4.67% |
-| 5 | Nomura Real Estate Master Fund Inc | `3462.T` | 4.50% |
-| 6 | Nippon Prologis REIT Inc | `3283.T` | 4.32% |
-| 7 | KDX Realty Investment Corp | `8972.T` | 4.18% |
-| 8 | Orix Jreit Inc | `8954.T` | 3.77% |
-| 9 | Daiwa House REIT Investment Corp | `8984.T` | 3.55% |
-| 10 | United Urban Investment Corp | `8960.T` | 3.28% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NIPPON BUILDING FUND INC\|Nippon Building Fund Inc]] | `8951.T` | ญี่ปุ่น | 7.51% |
+| 2 | [[../Entities/Japan Real Estate Investment Corp\|Japan Real Estate Investment Corp]] | `8952.T` | ญี่ปุ่น | 5.91% |
+| 3 | Japan Metropolitan Fund Investment Corp | `8953.T` | ญี่ปุ่น | 5.63% |
+| 4 | [[../Entities/3281 JP\|GLP J-REIT]] | `3281.T` | ญี่ปุ่น | 4.67% |
+| 5 | [[../Entities/NOMURA REAL ESTATE MASTER FUND\|Nomura Real Estate Master Fund Inc]] | `3462.T` | ญี่ปุ่น | 4.50% |
+| 6 | [[../Entities/NIPPON PROLOGIS REIT INC\|Nippon Prologis REIT Inc]] | `3283.T` | ญี่ปุ่น | 4.32% |
+| 7 | KDX Realty Investment Corp | `8972.T` | ญี่ปุ่น | 4.18% |
+| 8 | [[../Entities/ORIX JREIT INC\|Orix Jreit Inc]] | `8954.T` | ญี่ปุ่น | 3.77% |
+| 9 | Daiwa House REIT Investment Corp | `8984.T` | ญี่ปุ่น | 3.55% |
+| 10 | United Urban Investment Corp | `8960.T` | ญี่ปุ่น | 3.28% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

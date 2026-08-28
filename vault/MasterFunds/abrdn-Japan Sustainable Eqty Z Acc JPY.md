@@ -65,18 +65,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Mitsubishi UFJ Financial Group Inc | `8306.T` | 6.33% |
-| 2 | Tokyo Electron Ltd | `8035.T` | 5.54% |
-| 3 | Mizuho Financial Group Inc | `8411.T` | 4.51% |
-| 4 | Advantest Corp | `6857.T` | 3.70% |
-| 5 | Kioxia Holdings Corp Ordinary Shares | `285A.T` | 3.51% |
-| 6 | Sumitomo Electric Industries Ltd | `5802.T` | 2.99% |
-| 7 | ITOCHU Corp | `8001.T` | 2.96% |
-| 8 | Sony Group Corp | `6758.T` | 2.87% |
-| 9 | Recruit Holdings Co Ltd | `6098.T` | 2.81% |
-| 10 | Hitachi Ltd | `6501.T` | 2.73% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | 6.33% |
+| 2 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 5.54% |
+| 3 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | 4.51% |
+| 4 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | 3.70% |
+| 5 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | 3.51% |
+| 6 | [[../Entities/Sumitomo Electric Industries Ltd\|Sumitomo Electric Industries Ltd]] | `5802.T` | ญี่ปุ่น | 2.99% |
+| 7 | [[../Entities/ITOCHU Corp\|ITOCHU Corp]] | `8001.T` | ญี่ปุ่น | 2.96% |
+| 8 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | 2.87% |
+| 9 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | 2.81% |
+| 10 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | 2.73% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

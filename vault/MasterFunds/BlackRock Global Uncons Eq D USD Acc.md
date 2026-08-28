@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Microsoft Corp | `MSFT` | 8.61% |
-| 2 | Vertiv Holdings Co Class A | `VRT` | 7.24% |
-| 3 | Amazon.com Inc | `AMZN` | 7.12% |
-| 4 | ASML Holding NV | `ASML.AS` | 5.63% |
-| 5 | Alphabet Inc Class C | `GOOG` | 5.35% |
-| 6 | Howmet Aerospace Inc | `HWM` | 5.02% |
-| 7 | Broadcom Inc | `AVGO` | 5.00% |
-| 8 | Trane Technologies PLC Class A | `TT` | 4.92% |
-| 9 | Airbus SE | `AIR.PA` | 4.83% |
-| 10 | Cadence Design Systems Inc | `CDNS` | 4.69% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 8.61% |
+| 2 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | 7.24% |
+| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 7.12% |
+| 4 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 5.63% |
+| 5 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 5.35% |
+| 6 | [[../Entities/HWM US Equity\|Howmet Aerospace Inc]] | `HWM` | สหรัฐฯ | 5.02% |
+| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 5.00% |
+| 8 | [[../Entities/Trane Technologies PLC Class A\|Trane Technologies PLC Class A]] | `TT` | สหรัฐฯ | 4.92% |
+| 9 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | 4.83% |
+| 10 | [[../Entities/Cadence Design Systems Inc\|Cadence Design Systems Inc]] | `CDNS` | สหรัฐฯ | 4.69% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

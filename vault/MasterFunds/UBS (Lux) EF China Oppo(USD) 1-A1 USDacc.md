@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Tencent Holdings Ltd | `0700.HK` | 9.53% |
-| 2 | NetEase Inc ADR | `NTES` | 8.42% |
-| 3 | Alibaba Group Holding Ltd ADR | `BABA` | 6.99% |
-| 4 | Kweichow Moutai Co Ltd Class A | `600519.SS` | 5.55% |
-| 5 | Far East Horizon Ltd | `3360.HK` | 4.74% |
-| 6 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 4.64% |
-| 7 | AIA Group Ltd | `1299.HK` | 4.00% |
-| 8 | China Merchants Bank Co Ltd Class H | `03968` | 3.94% |
-| 9 | PDD Holdings Inc ADR | `PDD` | 2.71% |
-| 10 | Montage Technology Co Ltd Ordinary Shares - Class H | `06809` | 2.66% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 9.53% |
+| 2 | [[../Entities/NetEase Inc ADR\|NetEase Inc ADR]] | `NTES` | สหรัฐฯ | 8.42% |
+| 3 | [[../Entities/Alibaba Group Holding Ltd ADR\|Alibaba Group Holding Ltd ADR]] | `BABA` | สหรัฐฯ | 6.99% |
+| 4 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | 5.55% |
+| 5 | [[../Entities/Far East Horizon Ltd\|Far East Horizon Ltd]] | `3360.HK` | ฮ่องกง | 4.74% |
+| 6 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 4.64% |
+| 7 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | 4.00% |
+| 8 | [[../Entities/China Merchants Bank Co Ltd Class H\|China Merchants Bank Co Ltd Class H]] | `03968` | - | 3.94% |
+| 9 | [[../Entities/PDD Holdings Inc ADR\|PDD Holdings Inc ADR]] | `PDD` | สหรัฐฯ | 2.71% |
+| 10 | [[../Entities/Montage Technology Co Ltd Ordinary Shares - Class H\|Montage Technology Co Ltd Ordinary Shares - Class H]] | `06809` | - | 2.66% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Newmont Corp | `NEM` | 17.41% |
-| 2 | Agnico Eagle Mines Ltd | `AEM.TO` | 12.47% |
-| 3 | Barrick Mining Corp | `ABX.TO` | 9.77% |
-| 4 | Wheaton Precious Metals Corp | `WPM.TO` | 7.53% |
-| 5 | Anglogold Ashanti PLC | `AU` | 4.59% |
-| 6 | Kinross Gold Corp | `K.TO` | 4.48% |
-| 7 | Gold Fields Ltd | `GFI.JO` | 4.46% |
-| 8 | Pan American Silver Corp | `PAAS.TO` | 3.45% |
-| 9 | Coeur Mining Inc | `CDE` | 3.36% |
-| 10 | Alamos Gold Inc Class A | `AGI.TO` | 2.57% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NEM US Equity\|Newmont Corp]] | `NEM` | สหรัฐฯ | 17.41% |
+| 2 | [[../Entities/AEM CN Equity\|Agnico Eagle Mines Ltd]] | `AEM.TO` | แคนาดา | 12.47% |
+| 3 | [[../Entities/Barrick Mining Corp\|Barrick Mining Corp]] | `ABX.TO` | แคนาดา | 9.77% |
+| 4 | [[../Entities/WPM CN Equity\|Wheaton Precious Metals Corp]] | `WPM.TO` | แคนาดา | 7.53% |
+| 5 | [[../Entities/Anglogold Ashanti PLC\|Anglogold Ashanti PLC]] | `AU` | สหรัฐฯ | 4.59% |
+| 6 | Kinross Gold Corp | `K.TO` | แคนาดา | 4.48% |
+| 7 | Gold Fields Ltd | `GFI.JO` | - | 4.46% |
+| 8 | [[../Entities/Pan American Silver Corp\|Pan American Silver Corp]] | `PAAS.TO` | แคนาดา | 3.45% |
+| 9 | [[../Entities/Coeur Mining Inc\|Coeur Mining Inc]] | `CDE` | สหรัฐฯ | 3.36% |
+| 10 | [[../Entities/Alamos Gold Inc Class A\|Alamos Gold Inc Class A]] | `AGI.TO` | แคนาดา | 2.57% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

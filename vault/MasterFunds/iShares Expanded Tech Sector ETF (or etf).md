@@ -74,18 +74,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Microsoft Corp | `MSFT` | 9.94% |
-| 2 | Apple Inc | `AAPL` | 9.01% |
-| 3 | NVIDIA Corp | `NVDA` | 8.52% |
-| 4 | Broadcom Inc | `AVGO` | 8.35% |
-| 5 | Alphabet Inc Class A | `GOOGL` | 4.72% |
-| 6 | Meta Platforms Inc Class A | `META` | 4.39% |
-| 7 | Micron Technology Inc | `MU` | 4.15% |
-| 8 | Alphabet Inc Class C | `GOOG` | 3.81% |
-| 9 | Advanced Micro Devices Inc | `AMD` | 3.61% |
-| 10 | Cisco Systems Inc | `CSCO` | 2.13% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 9.94% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 9.01% |
+| 3 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.52% |
+| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 8.35% |
+| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.72% |
+| 6 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 4.39% |
+| 7 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 4.15% |
+| 8 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 3.81% |
+| 9 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 3.61% |
+| 10 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 2.13% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -64,18 +64,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Recruit Holdings Co Ltd | `6098.T` | 11.36% |
-| 2 | Tokyo Electron Ltd | `8035.T` | 10.79% |
-| 3 | Keyence Corp | `6861.T` | 10.28% |
-| 4 | Advantest Corp | `6857.T` | 10.23% |
-| 5 | Sony Group Corp | `6758.T` | 8.79% |
-| 6 | Murata Manufacturing Co Ltd | `6981.T` | 6.18% |
-| 7 | Nintendo Co Ltd | `7974.T` | 5.53% |
-| 8 | Mitsubishi Electric Corp | `6503.T` | 5.52% |
-| 9 | Panasonic Holdings Corp | `6752.T` | 4.87% |
-| 10 | Fanuc Corp | `6954.T` | 4.48% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | 11.36% |
+| 2 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 10.79% |
+| 3 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 10.28% |
+| 4 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | 10.23% |
+| 5 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | 8.79% |
+| 6 | [[../Entities/Murata Manufacturing Co Ltd\|Murata Manufacturing Co Ltd]] | `6981.T` | ญี่ปุ่น | 6.18% |
+| 7 | [[../Entities/Nintendo Co Ltd\|Nintendo Co Ltd]] | `7974.T` | ญี่ปุ่น | 5.53% |
+| 8 | [[../Entities/Mitsubishi Electric Corp\|Mitsubishi Electric Corp]] | `6503.T` | ญี่ปุ่น | 5.52% |
+| 9 | [[../Entities/Panasonic Holdings Corp\|Panasonic Holdings Corp]] | `6752.T` | ญี่ปุ่น | 4.87% |
+| 10 | [[../Entities/Fanuc Corp\|Fanuc Corp]] | `6954.T` | ญี่ปุ่น | 4.48% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

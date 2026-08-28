@@ -81,17 +81,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 10.18% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 9.84% |
-| 3 | SK hynix Inc | `000660.KQ` | 7.56% |
-| 4 | Tencent Holdings Ltd | `0700.HK` | 4.30% |
-| 5 | MediaTek Inc | `2454.TW` | 2.96% |
-| 6 | DBS Group Holdings Ltd | `D05.SI` | 2.89% |
-| 7 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 2.81% |
-| 8 | Shinhan Financial Group Co Ltd | `055550.KQ` | 2.69% |
-| 9 | Bajaj Finance Ltd | `500034` | 2.59% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 10.18% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 9.84% |
+| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 7.56% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 4.30% |
+| 5 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 2.96% |
+| 6 | [[../Entities/DBS Group Holdings Ltd\|DBS Group Holdings Ltd]] | `D05.SI` | สิงคโปร์ | 2.89% |
+| 7 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 2.81% |
+| 8 | [[../Entities/Shinhan Financial Group Co Ltd\|Shinhan Financial Group Co Ltd]] | `055550.KQ` | เกาหลีใต้ | 2.69% |
+| 9 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | 2.59% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

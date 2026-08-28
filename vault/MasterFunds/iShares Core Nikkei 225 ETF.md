@@ -74,18 +74,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Advantest Corp | `6857.T` | 12.16% |
-| 2 | Fast Retailing Co Ltd | `9983.T` | 9.76% |
-| 3 | Tokyo Electron Ltd | `8035.T` | 8.66% |
-| 4 | SoftBank Group Corp | `9984.T` | 6.56% |
-| 5 | TDK Corp | `6762.T` | 2.35% |
-| 6 | Recruit Holdings Co Ltd | `6098.T` | 1.96% |
-| 7 | Fanuc Corp | `6954.T` | 1.85% |
-| 8 | KDDI Corp | `9433.T` | 1.82% |
-| 9 | Ibiden Co Ltd | `4062.T` | 1.73% |
-| 10 | Kioxia Holdings Corp Ordinary Shares | `285A.T` | 1.69% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | 12.16% |
+| 2 | [[../Entities/Fast Retailing Co Ltd\|Fast Retailing Co Ltd]] | `9983.T` | ญี่ปุ่น | 9.76% |
+| 3 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 8.66% |
+| 4 | [[../Entities/SoftBank Group Corp\|SoftBank Group Corp]] | `9984.T` | ญี่ปุ่น | 6.56% |
+| 5 | [[../Entities/TDK Corp\|TDK Corp]] | `6762.T` | ญี่ปุ่น | 2.35% |
+| 6 | [[../Entities/Recruit Holdings Co Ltd\|Recruit Holdings Co Ltd]] | `6098.T` | ญี่ปุ่น | 1.96% |
+| 7 | [[../Entities/Fanuc Corp\|Fanuc Corp]] | `6954.T` | ญี่ปุ่น | 1.85% |
+| 8 | [[../Entities/KDDI Corp\|KDDI Corp]] | `9433.T` | ญี่ปุ่น | 1.82% |
+| 9 | [[../Entities/IBIDEN CO LTD\|Ibiden Co Ltd]] | `4062.T` | ญี่ปุ่น | 1.73% |
+| 10 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | 1.69% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

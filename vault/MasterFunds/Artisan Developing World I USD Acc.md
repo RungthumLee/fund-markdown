@@ -80,18 +80,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Micron Technology Inc | `MU` | 6.51% |
-| 2 | Sea Ltd ADR | `SE` | 6.14% |
-| 3 | MercadoLibre Inc | `MELI` | 5.87% |
-| 4 | Tencent Holdings Ltd | `0700.HK` | 5.23% |
-| 5 | MakeMyTrip Ltd | `MMYT` | 4.95% |
-| 6 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 4.83% |
-| 7 | CrowdStrike Holdings Inc Class A | `CRWD` | 4.80% |
-| 8 | Visa Inc Class A | `V` | 4.60% |
-| 9 | Adyen NV | `ADYEN.AS` | 3.92% |
-| 10 | Nu Holdings Ltd Ordinary Shares Class A | `NU` | 3.65% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 6.51% |
+| 2 | [[../Entities/Sea Ltd ADR\|Sea Ltd ADR]] | `SE` | สหรัฐฯ | 6.14% |
+| 3 | [[../Entities/MELI US Equity\|MercadoLibre Inc]] | `MELI` | สหรัฐฯ | 5.87% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 5.23% |
+| 5 | MakeMyTrip Ltd | `MMYT` | สหรัฐฯ | 4.95% |
+| 6 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 4.83% |
+| 7 | [[../Entities/CrowdStrike Holdings Inc Class A\|CrowdStrike Holdings Inc Class A]] | `CRWD` | สหรัฐฯ | 4.80% |
+| 8 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 4.60% |
+| 9 | [[../Entities/ADYEN NA Equity\|Adyen NV]] | `ADYEN.AS` | เนเธอร์แลนด์ | 3.92% |
+| 10 | [[../Entities/Nu Holdings Ltd Ordinary Shares Class A\|Nu Holdings Ltd Ordinary Shares Class A]] | `NU` | สหรัฐฯ | 3.65% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

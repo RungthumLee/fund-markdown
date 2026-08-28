@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | First Solar Inc | `FSLR` | 9.96% |
-| 2 | Nextpower Inc Class A | `NXT` | 9.31% |
-| 3 | Enlight Renewable Energy Ltd | `ENLT.TA` | 7.57% |
-| 4 | Enphase Energy Inc | `ENPH` | 6.51% |
-| 5 | Doral Group Renewable Eneryy Resources Ltd Ordinary Shares | `DORL.TA` | 4.65% |
-| 6 | SolarEdge Technologies Inc | `SEDG` | 4.32% |
-| 7 | HA Sustainable Infrastructure Capital Inc | `HASI` | 4.27% |
-| 8 | Sunrun Inc | `RUN` | 4.19% |
-| 9 | Clearway Energy Inc Class C | `CWEN` | 3.53% |
-| 10 | GCL Technology Holdings Ltd | `3800.HK` | 3.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/First Solar Inc\|First Solar Inc]] | `FSLR` | สหรัฐฯ | 9.96% |
+| 2 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | 9.31% |
+| 3 | Enlight Renewable Energy Ltd | `ENLT.TA` | - | 7.57% |
+| 4 | [[../Entities/Enphase Energy Inc\|Enphase Energy Inc]] | `ENPH` | สหรัฐฯ | 6.51% |
+| 5 | Doral Group Renewable Eneryy Resources Ltd Ordinary Shares | `DORL.TA` | - | 4.65% |
+| 6 | SolarEdge Technologies Inc | `SEDG` | สหรัฐฯ | 4.32% |
+| 7 | [[../Entities/HA Sustainable Infrastructure Capital Inc\|HA Sustainable Infrastructure Capital Inc]] | `HASI` | สหรัฐฯ | 4.27% |
+| 8 | [[../Entities/Sunrun Inc\|Sunrun Inc]] | `RUN` | สหรัฐฯ | 4.19% |
+| 9 | Clearway Energy Inc Class C | `CWEN` | สหรัฐฯ | 3.53% |
+| 10 | GCL Technology Holdings Ltd | `3800.HK` | ฮ่องกง | 3.41% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

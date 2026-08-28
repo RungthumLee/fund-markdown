@@ -78,17 +78,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NextEra Energy Inc | `NEE` | 5.08% |
-| 2 | National Grid PLC | `NG.L` | 5.03% |
-| 3 | Linde PLC | `LIN` | 4.90% |
-| 4 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 4.71% |
-| 5 | EDP Renovaveis SA | `EDPR.LS` | 4.13% |
-| 6 | First Solar Inc | `FSLR` | 3.82% |
-| 7 | Kingspan Group PLC | `KRX.IR` | 3.59% |
-| 8 | Nextpower Inc Class A | `NXT` | 3.56% |
-| 9 | Nexans | `NEX.PA` | 3.39% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NEE US Equity\|NextEra Energy Inc]] | `NEE` | สหรัฐฯ | 5.08% |
+| 2 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 5.03% |
+| 3 | [[../Entities/LIN US Equity\|Linde PLC]] | `LIN` | สหรัฐฯ | 4.90% |
+| 4 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 4.71% |
+| 5 | EDP Renovaveis SA | `EDPR.LS` | - | 4.13% |
+| 6 | [[../Entities/First Solar Inc\|First Solar Inc]] | `FSLR` | สหรัฐฯ | 3.82% |
+| 7 | Kingspan Group PLC | `KRX.IR` | - | 3.59% |
+| 8 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | 3.56% |
+| 9 | Nexans | `NEX.PA` | ฝรั่งเศส | 3.39% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

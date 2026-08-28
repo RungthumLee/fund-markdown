@@ -75,18 +75,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Welltower Inc | `WELL` | 8.47% |
-| 2 | Prologis Inc | `PLD` | 6.21% |
-| 3 | Digital Realty Trust Inc | `DLR` | 4.04% |
-| 4 | Simon Property Group Inc | `SPG` | 3.74% |
-| 5 | American Healthcare REIT Inc Ordinary Shares | `AHR` | 3.02% |
-| 6 | Goodman Group | `GMG.AX` | 3.00% |
-| 7 | First Industrial Realty Trust Inc | `FR` | 2.87% |
-| 8 | Iron Mountain Inc | `IRM` | 2.86% |
-| 9 | Americold Realty Trust Inc | `COLD` | 2.77% |
-| 10 | Agree Realty Corp | `ADC` | 2.63% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | 8.47% |
+| 2 | [[../Entities/PLD US Equity\|Prologis Inc]] | `PLD` | สหรัฐฯ | 6.21% |
+| 3 | [[../Entities/Digital Realty\|Digital Realty Trust Inc]] | `DLR` | สหรัฐฯ | 4.04% |
+| 4 | [[../Entities/SPG US Equity\|Simon Property Group Inc]] | `SPG` | สหรัฐฯ | 3.74% |
+| 5 | [[../Entities/American Healthcare REIT Inc Ordinary Shares\|American Healthcare REIT Inc Ordinary Shares]] | `AHR` | สหรัฐฯ | 3.02% |
+| 6 | [[../Entities/GOODMAN GROUP\|Goodman Group]] | `GMG.AX` | ออสเตรเลีย | 3.00% |
+| 7 | [[../Entities/First Industrial Realty Trust Inc\|First Industrial Realty Trust Inc]] | `FR` | สหรัฐฯ | 2.87% |
+| 8 | [[../Entities/Iron Mountain Inc\|Iron Mountain Inc]] | `IRM` | สหรัฐฯ | 2.86% |
+| 9 | [[../Entities/Americold Realty Trust Inc\|Americold Realty Trust Inc]] | `COLD` | สหรัฐฯ | 2.77% |
+| 10 | [[../Entities/Agree Realty Corp\|Agree Realty Corp]] | `ADC` | สหรัฐฯ | 2.63% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

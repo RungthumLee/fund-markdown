@@ -64,18 +64,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Compagnie Financiere Richemont SA Class A | `CFR.SW` | 8.28% |
-| 2 | Lvmh Moet Hennessy Louis Vuitton SE | `MC.PA` | 7.60% |
-| 3 | L'Oreal SA | `OR.PA` | 6.16% |
-| 4 | Ferrari NV | `RACE.MI` | 5.70% |
-| 5 | Interactive Brokers Group Inc Class A | `IBKR` | 4.83% |
-| 6 | ASML Holding NV | `ASML.AS` | 4.75% |
-| 7 | Visa Inc Class A | `V` | 4.08% |
-| 8 | Prada SpA | `1913.HK` | 3.89% |
-| 9 | Hermes International SA | `RMS.PA` | 3.78% |
-| 10 | American Express Co | `AXP` | 3.57% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Compagnie Financiere Richemont SA Class A\|Compagnie Financiere Richemont SA Class A]] | `CFR.SW` | สวิตเซอร์แลนด์ | 8.28% |
+| 2 | [[../Entities/LVMH MOET HENNESSY LOUIS VUITTON SE\|Lvmh Moet Hennessy Louis Vuitton SE]] | `MC.PA` | ฝรั่งเศส | 7.60% |
+| 3 | [[../Entities/L'Oreal SA\|L'Oreal SA]] | `OR.PA` | ฝรั่งเศส | 6.16% |
+| 4 | Ferrari NV | `RACE.MI` | อิตาลี | 5.70% |
+| 5 | Interactive Brokers Group Inc Class A | `IBKR` | สหรัฐฯ | 4.83% |
+| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 4.75% |
+| 7 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 4.08% |
+| 8 | Prada SpA | `1913.HK` | ฮ่องกง | 3.89% |
+| 9 | [[../Entities/RMS FP Equity\|Hermes International SA]] | `RMS.PA` | ฝรั่งเศส | 3.78% |
+| 10 | [[../Entities/American Express Co\|American Express Co]] | `AXP` | สหรัฐฯ | 3.57% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

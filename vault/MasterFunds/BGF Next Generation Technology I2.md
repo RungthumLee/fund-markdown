@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Lumentum Holdings Inc | `LITE` | 5.55% |
-| 2 | NVIDIA Corp | `NVDA` | 4.68% |
-| 3 | Tower Semiconductor Ltd | `TSEM.TA` | 4.54% |
-| 4 | SK Hynix Inc | `000660.KQ` | 4.19% |
-| 5 | Fabrinet | `FN` | 3.63% |
-| 6 | Asia Vital Components Co Ltd | `3017.TW` | 3.44% |
-| 7 | Monolithic Power Systems Inc | `MPWR` | 2.98% |
-| 8 | Elite Material Co Ltd | `2383.TW` | 2.88% |
-| 9 | KLA Corp | `KLAC` | 2.81% |
-| 10 | Gold Circuit Electronics Ltd | `2368.TW` | 2.67% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Lumentum Holdings Inc\|Lumentum Holdings Inc]] | `LITE` | สหรัฐฯ | 5.55% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.68% |
+| 3 | Tower Semiconductor Ltd | `TSEM.TA` | - | 4.54% |
+| 4 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 4.19% |
+| 5 | Fabrinet | `FN` | สหรัฐฯ | 3.63% |
+| 6 | Asia Vital Components Co Ltd | `3017.TW` | ไต้หวัน | 3.44% |
+| 7 | [[../Entities/MONOLITHIC POWER SYSTEMS INC\|Monolithic Power Systems Inc]] | `MPWR` | สหรัฐฯ | 2.98% |
+| 8 | [[../Entities/Elite Material Co Ltd\|Elite Material Co Ltd]] | `2383.TW` | ไต้หวัน | 2.88% |
+| 9 | [[../Entities/KLA Corp\|KLA Corp]] | `KLAC` | สหรัฐฯ | 2.81% |
+| 10 | Gold Circuit Electronics Ltd | `2368.TW` | ไต้หวัน | 2.67% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

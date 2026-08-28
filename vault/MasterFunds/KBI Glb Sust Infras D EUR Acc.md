@@ -62,18 +62,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NextEra Energy Inc | `NEE` | 5.56% |
-| 2 | Equinix Inc | `EQIX` | 4.19% |
-| 3 | National Grid PLC | `NG.L` | 3.98% |
-| 4 | Veolia Environnement SA | `VIE.PA` | 3.91% |
-| 5 | SBA Communications Corp Class A | `SBAC` | 3.45% |
-| 6 | SSE PLC | `SSE.L` | 3.37% |
-| 7 | Waste Management Inc | `WM` | 3.15% |
-| 8 | Bunge Global SA | `BG` | 2.97% |
-| 9 | Exelon Corp | `EXC` | 2.93% |
-| 10 | American Tower Corp | `AMT` | 2.91% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NEE US Equity\|NextEra Energy Inc]] | `NEE` | สหรัฐฯ | 5.56% |
+| 2 | [[../Entities/EQIX US Equity\|Equinix Inc]] | `EQIX` | สหรัฐฯ | 4.19% |
+| 3 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 3.98% |
+| 4 | [[../Entities/Veolia Environnement SA\|Veolia Environnement SA]] | `VIE.PA` | ฝรั่งเศส | 3.91% |
+| 5 | [[../Entities/SBA Communications Corp Class A\|SBA Communications Corp Class A]] | `SBAC` | สหรัฐฯ | 3.45% |
+| 6 | [[../Entities/SSE PLC\|SSE PLC]] | `SSE.L` | สหราชอาณาจักร | 3.37% |
+| 7 | [[../Entities/Waste Management Inc\|Waste Management Inc]] | `WM` | สหรัฐฯ | 3.15% |
+| 8 | [[../Entities/Bunge Global SA\|Bunge Global SA]] | `BG` | สหรัฐฯ | 2.97% |
+| 9 | [[../Entities/Exelon Corp\|Exelon Corp]] | `EXC` | สหรัฐฯ | 2.93% |
+| 10 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | 2.91% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

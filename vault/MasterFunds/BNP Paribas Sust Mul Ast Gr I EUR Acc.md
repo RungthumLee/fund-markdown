@@ -69,14 +69,14 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | BNP Paribas Easy Sust US ETF R EUR Cap | `AUSSR.PA` | 18.12% |
-| 2 | Amundi S&P 500 ClmtPrsAlgdETFAcc | `ZPA6.DE` | 7.04% |
-| 3 | BNP Paribas Easy ESG Enh Wld ETF R € Cap | `AWDSR.PA` | 6.70% |
-| 4 | BNPP EASY ESG Enh EUR Govt BdUCITSETFCap | `SEUGB.MI` | 6.27% |
-| 5 | JPM Glb EM Rsh Enh Idx EqSRIPAActETF$Acc | `JSEM.SW` | 4.53% |
-| 6 | BNPPEJPMScrnGrnScl&SstbyIG€BdUCITSETFCap | `ASRQ` | 3.62% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | BNP Paribas Easy Sust US ETF R EUR Cap | `AUSSR.PA` | ฝรั่งเศส | 18.12% |
+| 2 | Amundi S&P 500 ClmtPrsAlgdETFAcc | `ZPA6.DE` | เยอรมนี | 7.04% |
+| 3 | BNP Paribas Easy ESG Enh Wld ETF R € Cap | `AWDSR.PA` | ฝรั่งเศส | 6.70% |
+| 4 | BNPP EASY ESG Enh EUR Govt BdUCITSETFCap | `SEUGB.MI` | อิตาลี | 6.27% |
+| 5 | [[../Entities/JPM Glb EM Rsh Enh Idx EqSRIPAActETF$Acc\|JPM Glb EM Rsh Enh Idx EqSRIPAActETF$Acc]] | `JSEM.SW` | สวิตเซอร์แลนด์ | 4.53% |
+| 6 | BNPPEJPMScrnGrnScl&SstbyIG€BdUCITSETFCap | `ASRQ` | สหรัฐฯ | 3.62% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

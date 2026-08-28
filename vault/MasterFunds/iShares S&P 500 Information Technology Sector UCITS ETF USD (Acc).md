@@ -69,18 +69,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Apple Inc | `AAPL` | 19.20% |
-| 2 | NVIDIA Corp | `NVDA` | 18.10% |
-| 3 | Microsoft Corp | `MSFT` | 15.23% |
-| 4 | Broadcom Inc | `AVGO` | 8.13% |
-| 5 | Micron Technology Inc | `MU` | 4.09% |
-| 6 | Advanced Micro Devices Inc | `AMD` | 3.42% |
-| 7 | Cisco Systems Inc | `CSCO` | 2.02% |
-| 8 | Intel Corp | `INTC` | 1.88% |
-| 9 | Applied Materials Inc | `AMAT` | 1.77% |
-| 10 | Lam Research Corp | `LRCX` | 1.62% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 19.20% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 18.10% |
+| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 15.23% |
+| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 8.13% |
+| 5 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 4.09% |
+| 6 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 3.42% |
+| 7 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 2.02% |
+| 8 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | 1.88% |
+| 9 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 1.77% |
+| 10 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 1.62% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

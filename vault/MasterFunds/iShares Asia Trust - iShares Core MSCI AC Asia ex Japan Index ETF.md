@@ -78,18 +78,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 17.21% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 8.02% |
-| 3 | SK hynix Inc | `000660.KQ` | 6.19% |
-| 4 | Tencent Holdings Ltd | `0700.HK` | 3.47% |
-| 5 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 2.32% |
-| 6 | MediaTek Inc | `2454.TW` | 1.48% |
-| 7 | DBS Group Holdings Ltd | `D05.SI` | 1.11% |
-| 8 | Samsung Electronics Co Ltd Participating Preferred | `005935` | 1.00% |
-| 9 | AIA Group Ltd | `1299.HK` | 0.99% |
-| 10 | China Construction Bank Corp Class H | `00939` | 0.92% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 17.21% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 8.02% |
+| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 6.19% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 3.47% |
+| 5 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 2.32% |
+| 6 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 1.48% |
+| 7 | [[../Entities/DBS Group Holdings Ltd\|DBS Group Holdings Ltd]] | `D05.SI` | สิงคโปร์ | 1.11% |
+| 8 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 1.00% |
+| 9 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | 0.99% |
+| 10 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 0.92% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

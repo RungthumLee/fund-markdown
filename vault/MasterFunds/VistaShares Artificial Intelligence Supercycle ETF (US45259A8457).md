@@ -71,18 +71,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | SK hynix Inc | `000660.KQ` | 8.15% |
-| 2 | Micron Technology Inc | `MU` | 6.64% |
-| 3 | Advanced Micro Devices Inc | `AMD` | 5.33% |
-| 4 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 3.68% |
-| 5 | Silicon Motion Technology Corp ADR | `SIMO` | 3.65% |
-| 6 | Vertiv Holdings Co Class A | `VRT` | 3.40% |
-| 7 | Marvell Technology Inc | `MRVL` | 3.37% |
-| 8 | Intel Corp | `INTC` | 3.03% |
-| 9 | GE Vernova Inc | `GEV` | 2.99% |
-| 10 | NVIDIA Corp | `NVDA` | 2.97% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 8.15% |
+| 2 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 6.64% |
+| 3 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 5.33% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 3.68% |
+| 5 | [[../Entities/Silicon Motion Technology Corp ADR\|Silicon Motion Technology Corp ADR]] | `SIMO` | สหรัฐฯ | 3.65% |
+| 6 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | 3.40% |
+| 7 | [[../Entities/MARVELL TECHNOLOGY GROUP LTD\|Marvell Technology Inc]] | `MRVL` | สหรัฐฯ | 3.37% |
+| 8 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | 3.03% |
+| 9 | [[../Entities/GE Vernova Inc\|GE Vernova Inc]] | `GEV` | สหรัฐฯ | 2.99% |
+| 10 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.97% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

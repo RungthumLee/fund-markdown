@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Micron Technology Inc | `MU` | 12.53% |
-| 2 | Cisco Systems Inc | `CSCO` | 3.24% |
-| 3 | Verizon Communications Inc | `VZ` | 2.14% |
-| 4 | Toyota Motor Corp | `7203.T` | 1.74% |
-| 5 | AT&T Inc | `T` | 1.59% |
-| 6 | Comcast Corp Class A | `CMCSA` | 1.36% |
-| 7 | Qualcomm Inc | `QCOM` | 1.25% |
-| 8 | Hewlett Packard Enterprise Co | `HPE` | 1.23% |
-| 9 | General Motors Co | `GM` | 1.19% |
-| 10 | British American Tobacco PLC | `BATS.L` | 1.16% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 12.53% |
+| 2 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 3.24% |
+| 3 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | 2.14% |
+| 4 | [[../Entities/Toyota Motor Corp\|Toyota Motor Corp]] | `7203.T` | ญี่ปุ่น | 1.74% |
+| 5 | [[../Entities/AT&T, INC\|AT&T Inc]] | `T` | สหรัฐฯ | 1.59% |
+| 6 | Comcast Corp Class A | `CMCSA` | สหรัฐฯ | 1.36% |
+| 7 | [[../Entities/QUALCOMM, INC\|Qualcomm Inc]] | `QCOM` | สหรัฐฯ | 1.25% |
+| 8 | Hewlett Packard Enterprise Co | `HPE` | สหรัฐฯ | 1.23% |
+| 9 | [[../Entities/GENERAL MOTORS CO\|General Motors Co]] | `GM` | สหรัฐฯ | 1.19% |
+| 10 | [[../Entities/BATS LN Equity\|British American Tobacco PLC]] | `BATS.L` | สหราชอาณาจักร | 1.16% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

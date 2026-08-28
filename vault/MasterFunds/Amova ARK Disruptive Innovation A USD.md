@@ -80,18 +80,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Tesla Inc | `TSLA` | 8.95% |
-| 2 | Robinhood Markets Inc Class A | `HOOD` | 6.61% |
-| 3 | Advanced Micro Devices Inc | `AMD` | 5.57% |
-| 4 | Tempus AI Inc Class A common stock | `TEM` | 5.45% |
-| 5 | Shopify Inc Registered Shs -A- Subord Vtg | `SHOP` | 4.25% |
-| 6 | 10x Genomics Inc Ordinary Shares - Class A | `TXG` | 3.65% |
-| 7 | Roblox Corp Ordinary Shares - Class A | `RBLX` | 3.45% |
-| 8 | Coinbase Global Inc Ordinary Shares - Class A | `COIN` | 3.43% |
-| 9 | Beam Therapeutics Inc | `BEAM` | 3.36% |
-| 10 | Space Exploration Technologies Corp Class A | `SPCX` | 3.35% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 8.95% |
+| 2 | [[../Entities/Robinhood Markets Inc Class A\|Robinhood Markets Inc Class A]] | `HOOD` | สหรัฐฯ | 6.61% |
+| 3 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 5.57% |
+| 4 | [[../Entities/Tempus AI Inc Class A common stock\|Tempus AI Inc Class A common stock]] | `TEM` | สหรัฐฯ | 5.45% |
+| 5 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | 4.25% |
+| 6 | [[../Entities/10x Genomics Inc Ordinary Shares - Class A\|10x Genomics Inc Ordinary Shares - Class A]] | `TXG` | สหรัฐฯ | 3.65% |
+| 7 | [[../Entities/Roblox Corp Ordinary Shares - Class A\|Roblox Corp Ordinary Shares - Class A]] | `RBLX` | สหรัฐฯ | 3.45% |
+| 8 | [[../Entities/Coinbase Global Inc Ordinary Shares - Class A\|Coinbase Global Inc Ordinary Shares - Class A]] | `COIN` | สหรัฐฯ | 3.43% |
+| 9 | [[../Entities/Beam Therapeutics Inc\|Beam Therapeutics Inc]] | `BEAM` | สหรัฐฯ | 3.36% |
+| 10 | [[../Entities/Space Exploration Technologies Corp Class A\|Space Exploration Technologies Corp Class A]] | `SPCX` | สหรัฐฯ | 3.35% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

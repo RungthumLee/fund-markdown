@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 4.77% |
-| 2 | Apple Inc | `AAPL` | 4.61% |
-| 3 | Alphabet Inc Class A | `GOOGL` | 3.68% |
-| 4 | Microsoft Corp | `MSFT` | 2.87% |
-| 5 | Amazon.com Inc | `AMZN` | 1.86% |
-| 6 | Broadcom Inc | `AVGO` | 1.50% |
-| 7 | Costco Wholesale Corp | `COST` | 1.19% |
-| 8 | TJX Companies Inc | `TJX` | 1.18% |
-| 9 | Visa Inc Class A | `V` | 1.12% |
-| 10 | Johnson & Johnson | `JNJ` | 1.10% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.77% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 4.61% |
+| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 3.68% |
+| 4 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.87% |
+| 5 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 1.86% |
+| 6 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 1.50% |
+| 7 | [[../Entities/Costco Wholesale Corp\|Costco Wholesale Corp]] | `COST` | สหรัฐฯ | 1.19% |
+| 8 | [[../Entities/TJX Companies Inc\|TJX Companies Inc]] | `TJX` | สหรัฐฯ | 1.18% |
+| 9 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 1.12% |
+| 10 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 1.10% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

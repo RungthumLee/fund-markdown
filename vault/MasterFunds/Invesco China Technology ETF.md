@@ -77,18 +77,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Meituan Class B | `3690.HK` | 12.16% |
-| 2 | PDD Holdings Inc ADR | `PDD` | 11.12% |
-| 3 | Tencent Holdings Ltd | `0700.HK` | 10.58% |
-| 4 | Baidu Inc | `9888.HK` | 8.39% |
-| 5 | Kuaishou Technology Ordinary Shares - Class B | `1024.HK` | 4.91% |
-| 6 | Hua Hong Grace Semiconductor Ltd Shs Unitary 144A/Reg S | `1347.HK` | 3.31% |
-| 7 | Cambricon Technologies Corp Ltd Class A | `688256.SS` | 2.04% |
-| 8 | Hygon Information Technology Co Ltd Class A | `688041.SS` | 1.89% |
-| 9 | Horizon Robotics Class B | `9660.HK` | 1.72% |
-| 10 | SenseTime Group Inc Class B | `0020.HK` | 1.66% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | 12.16% |
+| 2 | [[../Entities/PDD Holdings Inc ADR\|PDD Holdings Inc ADR]] | `PDD` | สหรัฐฯ | 11.12% |
+| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 10.58% |
+| 4 | [[../Entities/Baidu Inc\|Baidu Inc]] | `9888.HK` | ฮ่องกง | 8.39% |
+| 5 | [[../Entities/Kuaishou Technology Ordinary Shares - Class B\|Kuaishou Technology Ordinary Shares - Class B]] | `1024.HK` | ฮ่องกง | 4.91% |
+| 6 | [[../Entities/Hua Hong Grace Semiconductor Ltd Shs Unitary 144A-Reg S\|Hua Hong Grace Semiconductor Ltd Shs Unitary 144A/Reg S]] | `1347.HK` | ฮ่องกง | 3.31% |
+| 7 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | 2.04% |
+| 8 | [[../Entities/Hygon Information Technology Co Ltd Class A\|Hygon Information Technology Co Ltd Class A]] | `688041.SS` | จีน | 1.89% |
+| 9 | [[../Entities/Horizon Robotics Class B\|Horizon Robotics Class B]] | `9660.HK` | ฮ่องกง | 1.72% |
+| 10 | [[../Entities/SenseTime Group Inc Class B\|SenseTime Group Inc Class B]] | `0020.HK` | ฮ่องกง | 1.66% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

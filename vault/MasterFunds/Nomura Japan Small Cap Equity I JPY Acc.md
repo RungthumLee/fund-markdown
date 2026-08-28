@@ -64,18 +64,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Sekisui Jushi Corp | `4212.T` | 2.25% |
-| 2 | Maruzen Co Ltd | `5982.T` | 1.82% |
-| 3 | Nakanishi Inc | `7716.T` | 1.69% |
-| 4 | Fuso Chemical Co Ltd | `4368.T` | 1.66% |
-| 5 | Broadleaf Co Ltd | `3673.T` | 1.65% |
-| 6 | Yamanashi Chuo Bank Ltd | `8360.T` | 1.62% |
-| 7 | Seiren Co Ltd | `3569.T` | 1.48% |
-| 8 | Nippon Kodoshi Corp | `3891.T` | 1.47% |
-| 9 | Ai Holdings Corp | `3076.T` | 1.42% |
-| 10 | Seria Co Ltd | `2782.T` | 1.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Sekisui Jushi Corp | `4212.T` | ญี่ปุ่น | 2.25% |
+| 2 | Maruzen Co Ltd | `5982.T` | ญี่ปุ่น | 1.82% |
+| 3 | Nakanishi Inc | `7716.T` | ญี่ปุ่น | 1.69% |
+| 4 | [[../Entities/Fuso Chemical Co Ltd\|Fuso Chemical Co Ltd]] | `4368.T` | ญี่ปุ่น | 1.66% |
+| 5 | Broadleaf Co Ltd | `3673.T` | ญี่ปุ่น | 1.65% |
+| 6 | Yamanashi Chuo Bank Ltd | `8360.T` | ญี่ปุ่น | 1.62% |
+| 7 | Seiren Co Ltd | `3569.T` | ญี่ปุ่น | 1.48% |
+| 8 | Nippon Kodoshi Corp | `3891.T` | ญี่ปุ่น | 1.47% |
+| 9 | Ai Holdings Corp | `3076.T` | ญี่ปุ่น | 1.42% |
+| 10 | Seria Co Ltd | `2782.T` | ญี่ปุ่น | 1.41% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

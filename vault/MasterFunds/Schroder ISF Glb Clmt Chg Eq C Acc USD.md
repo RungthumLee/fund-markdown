@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class A | `GOOGL` | 7.20% |
-| 2 | Microsoft Corp | `MSFT` | 4.33% |
-| 3 | Amazon.com Inc | `AMZN` | 3.70% |
-| 4 | Infineon Technologies AG | `IFX.DE` | 3.24% |
-| 5 | Vestas Wind Systems AS | `VWS.CO` | 2.90% |
-| 6 | Keyence Corp | `6861.T` | 2.67% |
-| 7 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 2.66% |
-| 8 | Iberdrola SA | `IBE.MC` | 2.62% |
-| 9 | NextEra Energy Inc | `NEE` | 2.60% |
-| 10 | Schneider Electric SE | `SU.PA` | 2.43% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 7.20% |
+| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.33% |
+| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.70% |
+| 4 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 3.24% |
+| 5 | [[../Entities/Vestas Wind Systems AS\|Vestas Wind Systems AS]] | `VWS.CO` | - | 2.90% |
+| 6 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 2.67% |
+| 7 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 2.66% |
+| 8 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | 2.62% |
+| 9 | [[../Entities/NEE US Equity\|NextEra Energy Inc]] | `NEE` | สหรัฐฯ | 2.60% |
+| 10 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 2.43% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

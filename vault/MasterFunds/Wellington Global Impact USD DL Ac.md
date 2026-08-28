@@ -64,18 +64,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Globe Life Inc | `GL` | 3.01% |
-| 2 | F5 Inc | `FFIV` | 2.69% |
-| 3 | Flex Ltd | `FLEX` | 2.60% |
-| 4 | Covista Inc | `CVSA` | 2.58% |
-| 5 | Laureate Education Inc Shs | `LAUR` | 2.56% |
-| 6 | Infineon Technologies AG | `IFX.DE` | 2.55% |
-| 7 | MediaTek Inc | `2454.TW` | 2.27% |
-| 8 | American Water Works Co Inc | `AWK` | 2.14% |
-| 9 | Hiscox Ltd | `HSX.L` | 2.10% |
-| 10 | Popular Inc | `BPOP` | 2.06% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Globe Life Inc | `GL` | สหรัฐฯ | 3.01% |
+| 2 | [[../Entities/F5 Inc\|F5 Inc]] | `FFIV` | สหรัฐฯ | 2.69% |
+| 3 | Flex Ltd | `FLEX` | สหรัฐฯ | 2.60% |
+| 4 | Covista Inc | `CVSA` | สหรัฐฯ | 2.58% |
+| 5 | Laureate Education Inc Shs | `LAUR` | สหรัฐฯ | 2.56% |
+| 6 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 2.55% |
+| 7 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 2.27% |
+| 8 | [[../Entities/American Water Works Co Inc\|American Water Works Co Inc]] | `AWK` | สหรัฐฯ | 2.14% |
+| 9 | [[../Entities/Hiscox Ltd\|Hiscox Ltd]] | `HSX.L` | สหราชอาณาจักร | 2.10% |
+| 10 | Popular Inc | `BPOP` | สหรัฐฯ | 2.06% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

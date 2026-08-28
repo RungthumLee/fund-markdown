@@ -76,18 +76,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Global Payments Inc | `GPN` | 4.55% |
-| 2 | Etoro Group Ltd Ordinary Shares - Class A | `ETOR` | 4.13% |
-| 3 | Capital One Financial Corp | `COF` | 4.04% |
-| 4 | Sezzle Inc | `SEZL` | 3.95% |
-| 5 | Nexi SpA | `NEXI.MI` | 3.73% |
-| 6 | Affirm Holdings Inc Ordinary Shares - Class A | `AFRM` | 3.72% |
-| 7 | LendingClub Corp | `HAPN` | 3.52% |
-| 8 | Block Inc Class A | `XYZ` | 3.22% |
-| 9 | MercadoLibre Inc | `MELI` | 3.11% |
-| 10 | Kaspi.kz JSC ADS | `KSPI` | 3.10% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Global Payments Inc\|Global Payments Inc]] | `GPN` | สหรัฐฯ | 4.55% |
+| 2 | [[../Entities/Etoro Group Ltd Ordinary Shares - Class A\|Etoro Group Ltd Ordinary Shares - Class A]] | `ETOR` | สหรัฐฯ | 4.13% |
+| 3 | [[../Entities/Capital One Financial Corp\|Capital One Financial Corp]] | `COF` | สหรัฐฯ | 4.04% |
+| 4 | [[../Entities/Sezzle Inc\|Sezzle Inc]] | `SEZL` | สหรัฐฯ | 3.95% |
+| 5 | [[../Entities/Nexi SpA\|Nexi SpA]] | `NEXI.MI` | อิตาลี | 3.73% |
+| 6 | [[../Entities/Affirm Holdings Inc Ordinary Shares - Class A\|Affirm Holdings Inc Ordinary Shares - Class A]] | `AFRM` | สหรัฐฯ | 3.72% |
+| 7 | [[../Entities/LendingClub Corp\|LendingClub Corp]] | `HAPN` | สหรัฐฯ | 3.52% |
+| 8 | [[../Entities/Block Inc Class A\|Block Inc Class A]] | `XYZ` | สหรัฐฯ | 3.22% |
+| 9 | [[../Entities/MELI US Equity\|MercadoLibre Inc]] | `MELI` | สหรัฐฯ | 3.11% |
+| 10 | [[../Entities/Kaspi.kz JSC ADS\|Kaspi.kz JSC ADS]] | `KSPI` | สหรัฐฯ | 3.10% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -64,18 +64,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | WuXi Biologics (Cayman) Inc | `2269.HK` | 11.33% |
-| 2 | CSPC Pharmaceutical Group Ltd | `1093.HK` | 7.76% |
-| 3 | JD Health International Inc | `6618.HK` | 7.38% |
-| 4 | Innovent Biologics Inc | `1801.HK` | 5.65% |
-| 5 | Sino Biopharmaceutical Ltd | `1177.HK` | 5.26% |
-| 6 | Alibaba Health Information Technology Ltd | `0241.HK` | 3.86% |
-| 7 | Genscript Biotech Corp Class H | `1548.HK` | 3.72% |
-| 8 | Wuxi AppTec Co Ltd | `02359` | 3.70% |
-| 9 | Shandong Weigao Group Medical Polymer Co Ltd Class H | `1066.HK` | 3.31% |
-| 10 | Zai Lab Ltd Ordinary Shares | `9688.HK` | 3.24% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/WuXi Biologics (Cayman) Inc\|WuXi Biologics (Cayman) Inc]] | `2269.HK` | ฮ่องกง | 11.33% |
+| 2 | CSPC Pharmaceutical Group Ltd | `1093.HK` | ฮ่องกง | 7.76% |
+| 3 | JD Health International Inc | `6618.HK` | ฮ่องกง | 7.38% |
+| 4 | Innovent Biologics Inc | `1801.HK` | ฮ่องกง | 5.65% |
+| 5 | Sino Biopharmaceutical Ltd | `1177.HK` | ฮ่องกง | 5.26% |
+| 6 | Alibaba Health Information Technology Ltd | `0241.HK` | ฮ่องกง | 3.86% |
+| 7 | Genscript Biotech Corp Class H | `1548.HK` | ฮ่องกง | 3.72% |
+| 8 | [[../Entities/WuXi AppTec Co Ltd\|Wuxi AppTec Co Ltd]] | `02359` | - | 3.70% |
+| 9 | Shandong Weigao Group Medical Polymer Co Ltd Class H | `1066.HK` | ฮ่องกง | 3.31% |
+| 10 | Zai Lab Ltd Ordinary Shares | `9688.HK` | ฮ่องกง | 3.24% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

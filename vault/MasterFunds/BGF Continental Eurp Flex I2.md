@@ -66,17 +66,17 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | ASML Holding NV | `ASML.AS` | 8.22% |
-| 2 | UniCredit SpA | `UCG.MI` | 4.93% |
-| 3 | Siemens Energy AG Ordinary Shares | `ENR.DE` | 4.44% |
-| 4 | Lloyds Banking Group PLC | `LLOY.L` | 4.30% |
-| 5 | AIB Group PLC | `A5G.IR` | 4.16% |
-| 6 | ASM International NV | `ASM.AS` | 3.65% |
-| 7 | ABN AMRO Bank NV | `ABN.AS` | 3.62% |
-| 8 | Engie SA | `ENGI.PA` | 3.55% |
-| 9 | BE Semiconductor Industries NV | `BESI.AS` | 3.33% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 8.22% |
+| 2 | [[../Entities/UniCredit SpA\|UniCredit SpA]] | `UCG.MI` | อิตาลี | 4.93% |
+| 3 | [[../Entities/Siemens Energy AG Ordinary Shares\|Siemens Energy AG Ordinary Shares]] | `ENR.DE` | เยอรมนี | 4.44% |
+| 4 | [[../Entities/Lloyds Banking Group PLC\|Lloyds Banking Group PLC]] | `LLOY.L` | สหราชอาณาจักร | 4.30% |
+| 5 | [[../Entities/AIB Group PLC\|AIB Group PLC]] | `A5G.IR` | - | 4.16% |
+| 6 | [[../Entities/ASM International NV\|ASM International NV]] | `ASM.AS` | เนเธอร์แลนด์ | 3.65% |
+| 7 | ABN AMRO Bank NV | `ABN.AS` | เนเธอร์แลนด์ | 3.62% |
+| 8 | [[../Entities/Engie SA\|Engie SA]] | `ENGI.PA` | ฝรั่งเศส | 3.55% |
+| 9 | BE Semiconductor Industries NV | `BESI.AS` | เนเธอร์แลนด์ | 3.33% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

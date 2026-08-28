@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | SLB Ltd | `SLB` | 19.78% |
-| 2 | Baker Hughes Co Class A | `BKR` | 12.67% |
-| 3 | TechnipFMC PLC | `FTI` | 7.16% |
-| 4 | Halliburton Co | `HAL` | 5.95% |
-| 5 | Tenaris SA ADR | `TS` | 5.18% |
-| 6 | Weatherford International PLC Ordinary Shares - New | `WFRD` | 4.37% |
-| 7 | Noble Corp PLC Class A | `NE` | 4.36% |
-| 8 | Transocean Ltd | `RIG` | 4.27% |
-| 9 | Oceaneering International Inc | `OII` | 3.78% |
-| 10 | NOV Inc | `NOV` | 3.70% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/SLB Ltd\|SLB Ltd]] | `SLB` | สหรัฐฯ | 19.78% |
+| 2 | [[../Entities/Baker Hughes Co Class A\|Baker Hughes Co Class A]] | `BKR` | สหรัฐฯ | 12.67% |
+| 3 | [[../Entities/TechnipFMC PLC\|TechnipFMC PLC]] | `FTI` | สหรัฐฯ | 7.16% |
+| 4 | Halliburton Co | `HAL` | สหรัฐฯ | 5.95% |
+| 5 | Tenaris SA ADR | `TS` | สหรัฐฯ | 5.18% |
+| 6 | Weatherford International PLC Ordinary Shares - New | `WFRD` | สหรัฐฯ | 4.37% |
+| 7 | Noble Corp PLC Class A | `NE` | สหรัฐฯ | 4.36% |
+| 8 | Transocean Ltd | `RIG` | สหรัฐฯ | 4.27% |
+| 9 | Oceaneering International Inc | `OII` | สหรัฐฯ | 3.78% |
+| 10 | NOV Inc | `NOV` | สหรัฐฯ | 3.70% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -75,18 +75,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Palo Alto Networks Inc | `PANW` | 10.09% |
-| 2 | BlackBerry Ltd | `BB.TO` | 8.50% |
-| 3 | CrowdStrike Holdings Inc Class A | `CRWD` | 8.07% |
-| 4 | Fortinet Inc | `FTNT` | 5.32% |
-| 5 | Cloudflare Inc | `NET` | 4.82% |
-| 6 | Rubrik Inc Class A Shares | `RBRK` | 4.73% |
-| 7 | Datadog Inc Class A | `DDOG` | 4.29% |
-| 8 | Cisco Systems Inc | `CSCO` | 4.24% |
-| 9 | Broadcom Inc | `AVGO` | 4.18% |
-| 10 | F5 Inc | `FFIV` | 4.12% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Palo Alto Networks Inc\|Palo Alto Networks Inc]] | `PANW` | สหรัฐฯ | 10.09% |
+| 2 | [[../Entities/BlackBerry Ltd\|BlackBerry Ltd]] | `BB.TO` | แคนาดา | 8.50% |
+| 3 | [[../Entities/CrowdStrike Holdings Inc Class A\|CrowdStrike Holdings Inc Class A]] | `CRWD` | สหรัฐฯ | 8.07% |
+| 4 | [[../Entities/Fortinet Inc\|Fortinet Inc]] | `FTNT` | สหรัฐฯ | 5.32% |
+| 5 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 4.82% |
+| 6 | [[../Entities/Rubrik Inc Class A Shares\|Rubrik Inc Class A Shares]] | `RBRK` | สหรัฐฯ | 4.73% |
+| 7 | [[../Entities/Datadog Inc Class A\|Datadog Inc Class A]] | `DDOG` | สหรัฐฯ | 4.29% |
+| 8 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 4.24% |
+| 9 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 4.18% |
+| 10 | [[../Entities/F5 Inc\|F5 Inc]] | `FFIV` | สหรัฐฯ | 4.12% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

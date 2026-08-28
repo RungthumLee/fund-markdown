@@ -72,17 +72,17 @@ ticker NASA (NYSE Arca)
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Rocket Lab Corp | `RKLB` | 10.32% |
-| 2 | EchoStar Corp Class A | `ECHO` | 6.88% |
-| 3 | Viasat Inc | `VSAT` | 6.48% |
-| 4 | AST SpaceMobile Inc Ordinary Shares - Class A | `ASTS` | 5.35% |
-| 5 | MDA Space Ltd | `MDA.TO` | 4.33% |
-| 6 | Filtronic PLC | `FTC.L` | 4.32% |
-| 7 | 5N Plus Inc | `VNP.TO` | 4.12% |
-| 8 | Firefly Aerospace Inc | `FLY` | 3.85% |
-| 9 | Intuitive Machines Inc Ordinary Shares - Class A | `LUNR` | 3.25% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Rocket Lab Corp\|Rocket Lab Corp]] | `RKLB` | สหรัฐฯ | 10.32% |
+| 2 | [[../Entities/EchoStar Corp Class A\|EchoStar Corp Class A]] | `ECHO` | สหรัฐฯ | 6.88% |
+| 3 | [[../Entities/Viasat Inc\|Viasat Inc]] | `VSAT` | สหรัฐฯ | 6.48% |
+| 4 | [[../Entities/AST SpaceMobile Inc Ordinary Shares - Class A\|AST SpaceMobile Inc Ordinary Shares - Class A]] | `ASTS` | สหรัฐฯ | 5.35% |
+| 5 | [[../Entities/MDA Space Ltd\|MDA Space Ltd]] | `MDA.TO` | แคนาดา | 4.33% |
+| 6 | Filtronic PLC | `FTC.L` | สหราชอาณาจักร | 4.32% |
+| 7 | 5N Plus Inc | `VNP.TO` | แคนาดา | 4.12% |
+| 8 | [[../Entities/Firefly Aerospace Inc\|Firefly Aerospace Inc]] | `FLY` | สหรัฐฯ | 3.85% |
+| 9 | [[../Entities/Intuitive Machines Inc Ordinary Shares - Class A\|Intuitive Machines Inc Ordinary Shares - Class A]] | `LUNR` | สหรัฐฯ | 3.25% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

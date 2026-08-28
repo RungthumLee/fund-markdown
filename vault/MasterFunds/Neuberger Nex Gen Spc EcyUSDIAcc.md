@@ -76,18 +76,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Rocket Lab Corp | `RKLB` | 6.22% |
-| 2 | Planet Labs PBC Class A | `PL` | 6.21% |
-| 3 | AST SpaceMobile Inc Ordinary Shares - Class A | `ASTS` | 4.47% |
-| 4 | SKY Perfect JSAT Corp | `9412.T` | 4.02% |
-| 5 | Hyundai Rotem Co | `064350.KQ` | 3.16% |
-| 6 | MDA Space Ltd | `MDA.TO` | 2.88% |
-| 7 | Mitsubishi Heavy Industries Ltd | `7011.T` | 2.75% |
-| 8 | Kratos Defense & Security Solutions Inc | `KTOS` | 2.56% |
-| 9 | Singapore Technologies Engineering Ltd | `S63.SI` | 2.45% |
-| 10 | EchoStar Corp Class A | `ECHO` | 2.31% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Rocket Lab Corp\|Rocket Lab Corp]] | `RKLB` | สหรัฐฯ | 6.22% |
+| 2 | [[../Entities/Planet Labs PBC Class A\|Planet Labs PBC Class A]] | `PL` | สหรัฐฯ | 6.21% |
+| 3 | [[../Entities/AST SpaceMobile Inc Ordinary Shares - Class A\|AST SpaceMobile Inc Ordinary Shares - Class A]] | `ASTS` | สหรัฐฯ | 4.47% |
+| 4 | SKY Perfect JSAT Corp | `9412.T` | ญี่ปุ่น | 4.02% |
+| 5 | Hyundai Rotem Co | `064350.KQ` | เกาหลีใต้ | 3.16% |
+| 6 | [[../Entities/MDA Space Ltd\|MDA Space Ltd]] | `MDA.TO` | แคนาดา | 2.88% |
+| 7 | [[../Entities/Mitsubishi Heavy Industries Ltd\|Mitsubishi Heavy Industries Ltd]] | `7011.T` | ญี่ปุ่น | 2.75% |
+| 8 | [[../Entities/Kratos Defense & Security Solutions Inc\|Kratos Defense & Security Solutions Inc]] | `KTOS` | สหรัฐฯ | 2.56% |
+| 9 | [[../Entities/Singapore Technologies Engineering Ltd\|Singapore Technologies Engineering Ltd]] | `S63.SI` | สิงคโปร์ | 2.45% |
+| 10 | [[../Entities/EchoStar Corp Class A\|EchoStar Corp Class A]] | `ECHO` | สหรัฐฯ | 2.31% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

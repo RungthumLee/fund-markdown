@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 9.76% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 8.63% |
-| 3 | MediaTek Inc | `2454.TW` | 1.97% |
-| 4 | Tencent Holdings Ltd | `0700.HK` | 1.85% |
-| 5 | Dialog Axiata PLC | `DIAL-N0000.CM` | 1.58% |
-| 6 | ASE Technology Holding Co Ltd | `3711.TW` | 1.33% |
-| 7 | Unimicron Technology Corp | `3037.TW` | 1.13% |
-| 8 | Elite Material Co Ltd | `2383.TW` | 1.09% |
-| 9 | Fujibo Holdings Inc | `3104.T` | 0.95% |
-| 10 | Zhen Ding Technology Holding Ltd | `4958.TW` | 0.91% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.76% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 8.63% |
+| 3 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 1.97% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 1.85% |
+| 5 | Dialog Axiata PLC | `DIAL-N0000.CM` | - | 1.58% |
+| 6 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | 1.33% |
+| 7 | [[../Entities/Unimicron Technology Corp\|Unimicron Technology Corp]] | `3037.TW` | ไต้หวัน | 1.13% |
+| 8 | [[../Entities/Elite Material Co Ltd\|Elite Material Co Ltd]] | `2383.TW` | ไต้หวัน | 1.09% |
+| 9 | [[../Entities/Fujibo Holdings Inc\|Fujibo Holdings Inc]] | `3104.T` | ญี่ปุ่น | 0.95% |
+| 10 | Zhen Ding Technology Holding Ltd | `4958.TW` | ไต้หวัน | 0.91% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

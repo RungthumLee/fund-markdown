@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 6.49% |
-| 2 | Amazon.com Inc | `AMZN` | 5.77% |
-| 3 | Alphabet Inc Class A | `GOOGL` | 5.44% |
-| 4 | Broadcom Inc | `AVGO` | 4.61% |
-| 5 | Microsoft Corp | `MSFT` | 4.48% |
-| 6 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 4.36% |
-| 7 | Meta Platforms Inc Class A | `META` | 2.87% |
-| 8 | ASML Holding NV | `ASML.AS` | 2.72% |
-| 9 | Eli Lilly and Co | `LLY` | 2.71% |
-| 10 | KLA Corp | `KLAC` | 2.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 6.49% |
+| 2 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 5.77% |
+| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.44% |
+| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 4.61% |
+| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.48% |
+| 6 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.36% |
+| 7 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 2.87% |
+| 8 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 2.72% |
+| 9 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 2.71% |
+| 10 | [[../Entities/KLA Corp\|KLA Corp]] | `KLAC` | สหรัฐฯ | 2.49% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

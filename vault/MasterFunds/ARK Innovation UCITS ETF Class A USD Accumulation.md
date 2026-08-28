@@ -57,18 +57,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Tesla Inc | `TSLA` | 9.14% |
-| 2 | CRISPR Therapeutics AG | `CRSP` | 5.11% |
-| 3 | Robinhood Markets Inc Class A | `HOOD` | 5.02% |
-| 4 | Advanced Micro Devices Inc | `AMD` | 4.89% |
-| 5 | Space Exploration Technologies Corp Class A | `SPCX` | 4.85% |
-| 6 | 10x Genomics Inc Ordinary Shares - Class A | `TXG` | 4.21% |
-| 7 | Tempus AI Inc Class A common stock | `TEM` | 4.21% |
-| 8 | Coinbase Global Inc Ordinary Shares - Class A | `COIN` | 3.91% |
-| 9 | Shopify Inc Registered Shs -A- Subord Vtg | `SHOP` | 3.77% |
-| 10 | Twist Bioscience Corp | `TWST` | 3.70% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 9.14% |
+| 2 | [[../Entities/CRISPR Therapeutics AG\|CRISPR Therapeutics AG]] | `CRSP` | สหรัฐฯ | 5.11% |
+| 3 | [[../Entities/Robinhood Markets Inc Class A\|Robinhood Markets Inc Class A]] | `HOOD` | สหรัฐฯ | 5.02% |
+| 4 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.89% |
+| 5 | [[../Entities/Space Exploration Technologies Corp Class A\|Space Exploration Technologies Corp Class A]] | `SPCX` | สหรัฐฯ | 4.85% |
+| 6 | [[../Entities/10x Genomics Inc Ordinary Shares - Class A\|10x Genomics Inc Ordinary Shares - Class A]] | `TXG` | สหรัฐฯ | 4.21% |
+| 7 | [[../Entities/Tempus AI Inc Class A common stock\|Tempus AI Inc Class A common stock]] | `TEM` | สหรัฐฯ | 4.21% |
+| 8 | [[../Entities/Coinbase Global Inc Ordinary Shares - Class A\|Coinbase Global Inc Ordinary Shares - Class A]] | `COIN` | สหรัฐฯ | 3.91% |
+| 9 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | 3.77% |
+| 10 | [[../Entities/Twist Bioscience Corp\|Twist Bioscience Corp]] | `TWST` | สหรัฐฯ | 3.70% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

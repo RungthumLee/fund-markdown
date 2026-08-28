@@ -66,18 +66,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | MediaTek Inc | `2454.TW` | 12.11% |
-| 2 | Wiwynn Corp Ordinary Shares | `6669.TW` | 7.04% |
-| 3 | Asustek Computer Inc | `2357.TW` | 6.94% |
-| 4 | Quanta Computer Inc | `2382.TW` | 5.26% |
-| 5 | Evergreen Marine Corp (Taiwan) Ltd | `2603.TW` | 4.86% |
-| 6 | Novatek Microelectronics Corp | `3034.TW` | 4.60% |
-| 7 | United Integrated Services Co Ltd | `2404.TW` | 4.39% |
-| 8 | Realtek Semiconductor Corp | `2379.TW` | 4.19% |
-| 9 | AData Technology Co Ltd | `3260.TWO` | 3.75% |
-| 10 | Largan Precision Co Ltd | `3008.TW` | 3.73% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 12.11% |
+| 2 | Wiwynn Corp Ordinary Shares | `6669.TW` | ไต้หวัน | 7.04% |
+| 3 | Asustek Computer Inc | `2357.TW` | ไต้หวัน | 6.94% |
+| 4 | Quanta Computer Inc | `2382.TW` | ไต้หวัน | 5.26% |
+| 5 | Evergreen Marine Corp (Taiwan) Ltd | `2603.TW` | ไต้หวัน | 4.86% |
+| 6 | Novatek Microelectronics Corp | `3034.TW` | ไต้หวัน | 4.60% |
+| 7 | United Integrated Services Co Ltd | `2404.TW` | ไต้หวัน | 4.39% |
+| 8 | [[../Entities/Realtek Semiconductor Corp\|Realtek Semiconductor Corp]] | `2379.TW` | ไต้หวัน | 4.19% |
+| 9 | AData Technology Co Ltd | `3260.TWO` | ไต้หวัน | 3.75% |
+| 10 | Largan Precision Co Ltd | `3008.TW` | ไต้หวัน | 3.73% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

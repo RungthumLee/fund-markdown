@@ -83,18 +83,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Samsung Electronics Co Ltd | `005930.KQ` | 12.04% |
-| 2 | SK hynix Inc | `000660.KQ` | 9.33% |
-| 3 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 7.79% |
-| 4 | MediaTek Inc | `2454.TW` | 4.89% |
-| 5 | LATAM Airlines Group SA | `LTM.SN` | 3.72% |
-| 6 | Bank Polska Kasa Opieki SA | `PEO.WA` | 3.33% |
-| 7 | Banco De Chile | `CHILE.SN` | 2.99% |
-| 8 | Vale SA | `VALE3.SA` | 2.87% |
-| 9 | Delta Electronics Inc | `2308.TW` | 2.77% |
-| 10 | Hon Hai Precision Industry Co Ltd | `2317.TW` | 2.67% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 12.04% |
+| 2 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 9.33% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 7.79% |
+| 4 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 4.89% |
+| 5 | LATAM Airlines Group SA | `LTM.SN` | - | 3.72% |
+| 6 | [[../Entities/Bank Polska Kasa Opieki SA\|Bank Polska Kasa Opieki SA]] | `PEO.WA` | - | 3.33% |
+| 7 | Banco De Chile | `CHILE.SN` | - | 2.99% |
+| 8 | [[../Entities/Vale SA\|Vale SA]] | `VALE3.SA` | - | 2.87% |
+| 9 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 2.77% |
+| 10 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | 2.67% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

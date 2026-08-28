@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Abbott Laboratories | `ABT` | 4.66% |
-| 2 | Amgen Inc | `AMGN` | 4.41% |
-| 3 | Merck & Co Inc | `MRK` | 4.35% |
-| 4 | Coca-Cola Co | `KO` | 4.32% |
-| 5 | UnitedHealth Group Inc | `UNH` | 4.30% |
-| 6 | The Home Depot Inc | `HD` | 4.10% |
-| 7 | Procter & Gamble Co | `PG` | 3.95% |
-| 8 | Chevron Corp | `CVX` | 3.90% |
-| 9 | Verizon Communications Inc | `VZ` | 3.80% |
-| 10 | PepsiCo Inc | `PEP` | 3.78% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Abbott Laboratories\|Abbott Laboratories]] | `ABT` | สหรัฐฯ | 4.66% |
+| 2 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | 4.41% |
+| 3 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 4.35% |
+| 4 | [[../Entities/KO US Equity\|Coca-Cola Co]] | `KO` | สหรัฐฯ | 4.32% |
+| 5 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 4.30% |
+| 6 | [[../Entities/The Home Depot Inc\|The Home Depot Inc]] | `HD` | สหรัฐฯ | 4.10% |
+| 7 | [[../Entities/Procter & Gamble Co\|Procter & Gamble Co]] | `PG` | สหรัฐฯ | 3.95% |
+| 8 | [[../Entities/Chevron Corp\|Chevron Corp]] | `CVX` | สหรัฐฯ | 3.90% |
+| 9 | [[../Entities/Verizon Communications Inc\|Verizon Communications Inc]] | `VZ` | สหรัฐฯ | 3.80% |
+| 10 | [[../Entities/PepsiCo Inc\|PepsiCo Inc]] | `PEP` | สหรัฐฯ | 3.78% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

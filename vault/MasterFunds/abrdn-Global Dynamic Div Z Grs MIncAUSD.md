@@ -85,17 +85,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 3.79% |
-| 2 | Samsung Electronics Co Ltd Participating Preferred | `005935` | 3.79% |
-| 3 | Alphabet Inc Class C | `GOOG` | 3.35% |
-| 4 | Broadcom Inc | `AVGO` | 3.24% |
-| 5 | Apple Inc | `AAPL` | 2.85% |
-| 6 | Microsoft Corp | `MSFT` | 2.55% |
-| 7 | NVIDIA Corp | `NVDA` | 2.40% |
-| 8 | ASML Holding NV | `ASML.AS` | 1.89% |
-| 9 | ING Groep NV | `INGA.AS` | 1.74% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 3.79% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 3.79% |
+| 3 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 3.35% |
+| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 3.24% |
+| 5 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 2.85% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.55% |
+| 7 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.40% |
+| 8 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 1.89% |
+| 9 | [[../Entities/ING Groep NV\|ING Groep NV]] | `INGA.AS` | เนเธอร์แลนด์ | 1.74% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

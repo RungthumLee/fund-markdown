@@ -77,17 +77,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H | `03750` | 2.63% |
-| 2 | Siemens AG | `SIE.DE` | 2.54% |
-| 3 | The Timken Co | `TKR` | 2.53% |
-| 4 | Corning Inc | `GLW` | 2.52% |
-| 5 | Aptiv PLC | `APTV` | 2.50% |
-| 6 | UL Solutions Inc Class A common stock | `ULS` | 2.48% |
-| 7 | Companhia De Saneamento Basico Do Estado De Sao Paulo | `SBSP3.SA` | 2.46% |
-| 8 | Deere & Co | `DE` | 2.45% |
-| 9 | Parker Hannifin Corp | `PH` | 2.44% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H\|Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H]] | `03750` | - | 2.63% |
+| 2 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | 2.54% |
+| 3 | The Timken Co | `TKR` | สหรัฐฯ | 2.53% |
+| 4 | [[../Entities/Corning Inc\|Corning Inc]] | `GLW` | สหรัฐฯ | 2.52% |
+| 5 | Aptiv PLC | `APTV` | สหรัฐฯ | 2.50% |
+| 6 | UL Solutions Inc Class A common stock | `ULS` | สหรัฐฯ | 2.48% |
+| 7 | Companhia De Saneamento Basico Do Estado De Sao Paulo | `SBSP3.SA` | - | 2.46% |
+| 8 | [[../Entities/Deere & Co\|Deere & Co]] | `DE` | สหรัฐฯ | 2.45% |
+| 9 | Parker Hannifin Corp | `PH` | สหรัฐฯ | 2.44% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

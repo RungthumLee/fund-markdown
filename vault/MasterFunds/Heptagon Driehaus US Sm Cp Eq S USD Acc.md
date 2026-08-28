@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Vicor Corp | `VICR` | 2.04% |
-| 2 | Guardant Health Inc | `GH` | 2.00% |
-| 3 | Silicon Motion Technology Corp ADR | `SIMO` | 2.00% |
-| 4 | Apogee Therapeutics Inc | `APGE` | 1.82% |
-| 5 | Praxis Precision Medicines Inc Ordinary Shares | `PRAX` | 1.76% |
-| 6 | Definium Therapeutics Inc Ordinary Shares | `DFTX` | 1.75% |
-| 7 | Planet Labs PBC Class A | `PL` | 1.74% |
-| 8 | Spyre Therapeutics Inc | `SYRE` | 1.71% |
-| 9 | Curtiss-Wright Corp | `CW` | 1.49% |
-| 10 | Ultra Clean Holdings Inc | `UCTT` | 1.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Vicor Corp | `VICR` | สหรัฐฯ | 2.04% |
+| 2 | [[../Entities/Guardant Health Inc\|Guardant Health Inc]] | `GH` | สหรัฐฯ | 2.00% |
+| 3 | [[../Entities/Silicon Motion Technology Corp ADR\|Silicon Motion Technology Corp ADR]] | `SIMO` | สหรัฐฯ | 2.00% |
+| 4 | Apogee Therapeutics Inc | `APGE` | สหรัฐฯ | 1.82% |
+| 5 | [[../Entities/Praxis Precision Medicines Inc Ordinary Shares\|Praxis Precision Medicines Inc Ordinary Shares]] | `PRAX` | สหรัฐฯ | 1.76% |
+| 6 | Definium Therapeutics Inc Ordinary Shares | `DFTX` | สหรัฐฯ | 1.75% |
+| 7 | [[../Entities/Planet Labs PBC Class A\|Planet Labs PBC Class A]] | `PL` | สหรัฐฯ | 1.74% |
+| 8 | Spyre Therapeutics Inc | `SYRE` | สหรัฐฯ | 1.71% |
+| 9 | [[../Entities/Curtiss-Wright Corp\|Curtiss-Wright Corp]] | `CW` | สหรัฐฯ | 1.49% |
+| 10 | Ultra Clean Holdings Inc | `UCTT` | สหรัฐฯ | 1.49% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

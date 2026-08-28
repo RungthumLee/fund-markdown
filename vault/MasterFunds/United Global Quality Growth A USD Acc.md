@@ -63,18 +63,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 6.36% |
-| 2 | Apple Inc | `AAPL` | 5.38% |
-| 3 | Amphenol Corp Class A | `APH` | 3.48% |
-| 4 | NVIDIA Corp | `NVDA` | 3.39% |
-| 5 | Visa Inc Class A | `V` | 3.32% |
-| 6 | Microsoft Corp | `MSFT` | 3.25% |
-| 7 | S&P Global Inc | `SPGI` | 3.20% |
-| 8 | ASML Holding NV | `ASML.AS` | 2.95% |
-| 9 | AMETEK Inc | `AME` | 2.77% |
-| 10 | Aon PLC Class A | `AON` | 2.58% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 6.36% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 5.38% |
+| 3 | [[../Entities/Amphenol Corp Class A\|Amphenol Corp Class A]] | `APH` | สหรัฐฯ | 3.48% |
+| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 3.39% |
+| 5 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 3.32% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.25% |
+| 7 | [[../Entities/SPGI US Equity\|S&P Global Inc]] | `SPGI` | สหรัฐฯ | 3.20% |
+| 8 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 2.95% |
+| 9 | [[../Entities/AMETEK Inc\|AMETEK Inc]] | `AME` | สหรัฐฯ | 2.77% |
+| 10 | [[../Entities/Aon PLC Class A\|Aon PLC Class A]] | `AON` | สหรัฐฯ | 2.58% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

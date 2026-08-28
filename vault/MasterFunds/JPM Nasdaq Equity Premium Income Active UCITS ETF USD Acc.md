@@ -69,17 +69,17 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 7.86% |
-| 2 | Apple Inc | `AAPL` | 6.85% |
-| 3 | Micron Technology Inc | `MU` | 6.57% |
-| 4 | Alphabet Inc Class C | `GOOG` | 5.94% |
-| 5 | Microsoft Corp | `MSFT` | 4.58% |
-| 6 | Advanced Micro Devices Inc | `AMD` | 4.54% |
-| 7 | Amazon.com Inc | `AMZN` | 4.32% |
-| 8 | Lam Research Corp | `LRCX` | 3.40% |
-| 9 | Tesla Inc | `TSLA` | 2.81% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.86% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 6.85% |
+| 3 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 6.57% |
+| 4 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 5.94% |
+| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.58% |
+| 6 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.54% |
+| 7 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.32% |
+| 8 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 3.40% |
+| 9 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 2.81% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

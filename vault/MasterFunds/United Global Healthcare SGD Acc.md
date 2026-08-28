@@ -57,18 +57,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Eli Lilly and Co | `LLY` | 9.83% |
-| 2 | AstraZeneca PLC | `AZN.L` | 5.48% |
-| 3 | Merck & Co Inc | `MRK` | 5.15% |
-| 4 | UnitedHealth Group Inc | `UNH` | 3.53% |
-| 5 | Edwards Lifesciences Corp | `EW` | 3.14% |
-| 6 | Johnson & Johnson | `JNJ` | 3.10% |
-| 7 | GSK PLC | `GSK.L` | 3.01% |
-| 8 | Danaher Corp | `DHR` | 2.73% |
-| 9 | Abbott Laboratories | `ABT` | 2.68% |
-| 10 | Intuitive Surgical Inc | `ISRG` | 2.55% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 9.83% |
+| 2 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 5.48% |
+| 3 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 5.15% |
+| 4 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 3.53% |
+| 5 | [[../Entities/Edwards Lifesciences Corp\|Edwards Lifesciences Corp]] | `EW` | สหรัฐฯ | 3.14% |
+| 6 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 3.10% |
+| 7 | [[../Entities/GSK PLC\|GSK PLC]] | `GSK.L` | สหราชอาณาจักร | 3.01% |
+| 8 | [[../Entities/Danaher Corp\|Danaher Corp]] | `DHR` | สหรัฐฯ | 2.73% |
+| 9 | [[../Entities/Abbott Laboratories\|Abbott Laboratories]] | `ABT` | สหรัฐฯ | 2.68% |
+| 10 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | 2.55% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

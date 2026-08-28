@@ -78,18 +78,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | HDFC Bank Ltd | `HDFCBANK.NS` | 6.38% |
-| 2 | Reliance Industries Ltd | `RELIANCE.NS` | 5.96% |
-| 3 | ICICI Bank Ltd | `ICICIBANK.NS` | 5.65% |
-| 4 | Bharti Airtel Ltd | `BHARTIARTL.NS` | 4.05% |
-| 5 | Infosys Ltd | `INFY.NS` | 2.58% |
-| 6 | Mahindra & Mahindra Ltd | `M&M.NS` | 2.21% |
-| 7 | Bajaj Finance Ltd | `500034` | 2.14% |
-| 8 | Axis Bank Ltd | `AXISBANK.BO` | 2.07% |
-| 9 | Larsen & Toubro Ltd | `LT.NS` | 1.99% |
-| 10 | Kotak Mahindra Bank Ltd | `KOTAKBANK.NS` | 1.61% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 6.38% |
+| 2 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 5.96% |
+| 3 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 5.65% |
+| 4 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 4.05% |
+| 5 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | 2.58% |
+| 6 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | 2.21% |
+| 7 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | 2.14% |
+| 8 | [[../Entities/Axis Bank Ltd\|Axis Bank Ltd]] | `AXISBANK.BO` | อินเดีย | 2.07% |
+| 9 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | 1.99% |
+| 10 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | 1.61% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

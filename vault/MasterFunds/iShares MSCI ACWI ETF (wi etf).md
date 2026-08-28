@@ -81,18 +81,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 4.55% |
-| 2 | Apple Inc | `AAPL` | 4.46% |
-| 3 | Microsoft Corp | `MSFT` | 3.22% |
-| 4 | Amazon.com Inc | `AMZN` | 2.58% |
-| 5 | Alphabet Inc Class A | `GOOGL` | 2.04% |
-| 6 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 1.81% |
-| 7 | Broadcom Inc | `AVGO` | 1.72% |
-| 8 | Alphabet Inc Class C | `GOOG` | 1.62% |
-| 9 | Meta Platforms Inc Class A | `META` | 1.20% |
-| 10 | JPMorgan Chase & Co | `JPM` | 0.93% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.55% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 4.46% |
+| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.22% |
+| 4 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 2.58% |
+| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 2.04% |
+| 6 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 1.81% |
+| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 1.72% |
+| 8 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 1.62% |
+| 9 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 1.20% |
+| 10 | [[../Entities/JPMORGAN CHASE & CO\|JPMorgan Chase & Co]] | `JPM` | สหรัฐฯ | 0.93% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

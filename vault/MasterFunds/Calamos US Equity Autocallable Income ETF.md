@@ -64,9 +64,9 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Calamos Tax-Aware Collateral ETF | `CBOX` | 76.62% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Calamos Tax-Aware Collateral ETF\|Calamos Tax-Aware Collateral ETF]] | `CBOX` | สหรัฐฯ | 76.62% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

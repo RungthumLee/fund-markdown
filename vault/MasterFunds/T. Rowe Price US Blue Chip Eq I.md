@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 9.41% |
-| 2 | Alphabet Inc Class C | `GOOG` | 7.60% |
-| 3 | Advanced Micro Devices Inc | `AMD` | 6.90% |
-| 4 | Broadcom Inc | `AVGO` | 6.05% |
-| 5 | Meta Platforms Inc Class A | `META` | 5.49% |
-| 6 | Microsoft Corp | `MSFT` | 4.45% |
-| 7 | Carvana Co Class A | `CVNA` | 3.72% |
-| 8 | Amazon.com Inc | `AMZN` | 3.68% |
-| 9 | Eli Lilly and Co | `LLY` | 3.57% |
-| 10 | Micron Technology Inc | `MU` | 3.00% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 9.41% |
+| 2 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 7.60% |
+| 3 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 6.90% |
+| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 6.05% |
+| 5 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 5.49% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.45% |
+| 7 | [[../Entities/Carvana Co Class A\|Carvana Co Class A]] | `CVNA` | สหรัฐฯ | 3.72% |
+| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.68% |
+| 9 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 3.57% |
+| 10 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 3.00% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class C | `GOOG` | 4.96% |
-| 2 | NVIDIA Corp | `NVDA` | 4.69% |
-| 3 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 3.47% |
-| 4 | SK Hynix Inc | `000660.KQ` | 2.86% |
-| 5 | Apple Inc | `AAPL` | 2.65% |
-| 6 | Microsoft Corp | `MSFT` | 2.46% |
-| 7 | Broadcom Inc | `AVGO` | 2.43% |
-| 8 | Amazon.com Inc | `AMZN` | 2.28% |
-| 9 | Eli Lilly and Co | `LLY` | 2.21% |
-| 10 | Welltower Inc | `WELL` | 2.14% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 4.96% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.69% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 3.47% |
+| 4 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 2.86% |
+| 5 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 2.65% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.46% |
+| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 2.43% |
+| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 2.28% |
+| 9 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 2.21% |
+| 10 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | 2.14% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

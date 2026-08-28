@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | GE Aerospace | `GE` | 22.06% |
-| 2 | RTX Corp | `RTX` | 17.02% |
-| 3 | Boeing Co | `BA` | 9.00% |
-| 4 | Howmet Aerospace Inc | `HWM` | 4.78% |
-| 5 | General Dynamics Corp | `GD` | 4.75% |
-| 6 | Lockheed Martin Corp | `LMT` | 4.69% |
-| 7 | TransDigm Group Inc | `TDG` | 4.37% |
-| 8 | Northrop Grumman Corp | `NOC` | 4.23% |
-| 9 | L3Harris Technologies Inc | `LHX` | 3.67% |
-| 10 | Axon Enterprise Inc | `AXON` | 3.02% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/GE Aerospace\|GE Aerospace]] | `GE` | สหรัฐฯ | 22.06% |
+| 2 | [[../Entities/RTX Corp\|RTX Corp]] | `RTX` | สหรัฐฯ | 17.02% |
+| 3 | Boeing Co | `BA` | สหรัฐฯ | 9.00% |
+| 4 | [[../Entities/HWM US Equity\|Howmet Aerospace Inc]] | `HWM` | สหรัฐฯ | 4.78% |
+| 5 | [[../Entities/General Dynamics Corp\|General Dynamics Corp]] | `GD` | สหรัฐฯ | 4.75% |
+| 6 | [[../Entities/Lockheed Martin Corp\|Lockheed Martin Corp]] | `LMT` | สหรัฐฯ | 4.69% |
+| 7 | TransDigm Group Inc | `TDG` | สหรัฐฯ | 4.37% |
+| 8 | [[../Entities/Northrop Grumman Corp\|Northrop Grumman Corp]] | `NOC` | สหรัฐฯ | 4.23% |
+| 9 | [[../Entities/L3Harris Technologies Inc\|L3Harris Technologies Inc]] | `LHX` | สหรัฐฯ | 3.67% |
+| 10 | [[../Entities/Axon Enterprise Inc\|Axon Enterprise Inc]] | `AXON` | สหรัฐฯ | 3.02% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

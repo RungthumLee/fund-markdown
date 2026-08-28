@@ -73,18 +73,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Block Inc Class A | `XYZ` | 10.68% |
-| 2 | Coinbase Global Inc Ordinary Shares - Class A | `COIN` | 9.15% |
-| 3 | BitMine Immersion Technologies Inc | `BMNR` | 7.47% |
-| 4 | Circle Internet Group Inc Ordinary Shares - Class A | `CRCL` | 5.70% |
-| 5 | IREN Ltd | `IREN` | 5.60% |
-| 6 | Cipher Digital Inc | `CIFR` | 5.22% |
-| 7 | Hut 8 Corp | `HUT` | 4.96% |
-| 8 | Riot Platforms Inc | `RIOT` | 4.95% |
-| 9 | Cleanspark Inc | `CLSK` | 4.73% |
-| 10 | MARA Holdings Inc | `MARA` | 4.54% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Block Inc Class A\|Block Inc Class A]] | `XYZ` | สหรัฐฯ | 10.68% |
+| 2 | [[../Entities/Coinbase Global Inc Ordinary Shares - Class A\|Coinbase Global Inc Ordinary Shares - Class A]] | `COIN` | สหรัฐฯ | 9.15% |
+| 3 | [[../Entities/BitMine Immersion Technologies Inc\|BitMine Immersion Technologies Inc]] | `BMNR` | สหรัฐฯ | 7.47% |
+| 4 | [[../Entities/Circle Internet Group Inc Ordinary Shares - Class A\|Circle Internet Group Inc Ordinary Shares - Class A]] | `CRCL` | สหรัฐฯ | 5.70% |
+| 5 | [[../Entities/IREN Ltd\|IREN Ltd]] | `IREN` | สหรัฐฯ | 5.60% |
+| 6 | [[../Entities/Cipher Digital Inc\|Cipher Digital Inc]] | `CIFR` | สหรัฐฯ | 5.22% |
+| 7 | [[../Entities/Hut 8 Corp\|Hut 8 Corp]] | `HUT` | สหรัฐฯ | 4.96% |
+| 8 | [[../Entities/Riot Platforms Inc\|Riot Platforms Inc]] | `RIOT` | สหรัฐฯ | 4.95% |
+| 9 | [[../Entities/Cleanspark Inc\|Cleanspark Inc]] | `CLSK` | สหรัฐฯ | 4.73% |
+| 10 | [[../Entities/MARA Holdings Inc\|MARA Holdings Inc]] | `MARA` | สหรัฐฯ | 4.54% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

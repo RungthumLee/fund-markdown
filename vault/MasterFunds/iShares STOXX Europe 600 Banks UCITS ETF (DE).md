@@ -70,18 +70,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | HSBC Holdings PLC | `HSBA.L` | 14.90% |
-| 2 | Banco Santander SA | `SAN.MC` | 8.52% |
-| 3 | Banco Bilbao Vizcaya Argentaria SA | `BBVA.MC` | 6.42% |
-| 4 | UniCredit SpA | `UCG.MI` | 5.79% |
-| 5 | BNP Paribas Act. Cat.A | `BNP.PA` | 5.36% |
-| 6 | Intesa Sanpaolo | `ISP.MI` | 4.73% |
-| 7 | ING Groep NV | `INGA.AS` | 4.18% |
-| 8 | Barclays PLC | `BARC.L` | 3.81% |
-| 9 | Lloyds Banking Group PLC | `LLOY.L` | 3.67% |
-| 10 | NatWest Group PLC | `NWG.L` | 3.17% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/HSBC Holdings PLC\|HSBC Holdings PLC]] | `HSBA.L` | สหราชอาณาจักร | 14.90% |
+| 2 | [[../Entities/Banco Santander SA\|Banco Santander SA]] | `SAN.MC` | - | 8.52% |
+| 3 | [[../Entities/Banco Bilbao Vizcaya Argentaria SA\|Banco Bilbao Vizcaya Argentaria SA]] | `BBVA.MC` | - | 6.42% |
+| 4 | [[../Entities/UniCredit SpA\|UniCredit SpA]] | `UCG.MI` | อิตาลี | 5.79% |
+| 5 | BNP Paribas Act. Cat.A | `BNP.PA` | ฝรั่งเศส | 5.36% |
+| 6 | [[../Entities/Intesa Sanpaolo\|Intesa Sanpaolo]] | `ISP.MI` | อิตาลี | 4.73% |
+| 7 | [[../Entities/ING Groep NV\|ING Groep NV]] | `INGA.AS` | เนเธอร์แลนด์ | 4.18% |
+| 8 | Barclays PLC | `BARC.L` | สหราชอาณาจักร | 3.81% |
+| 9 | [[../Entities/Lloyds Banking Group PLC\|Lloyds Banking Group PLC]] | `LLOY.L` | สหราชอาณาจักร | 3.67% |
+| 10 | [[../Entities/NatWest Group PLC\|NatWest Group PLC]] | `NWG.L` | สหราชอาณาจักร | 3.17% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Microsoft Corp | `MSFT` | 5.24% |
-| 2 | Coca-Cola Co | `KO` | 5.18% |
-| 3 | Alphabet Inc Class A | `GOOGL` | 5.08% |
-| 4 | Netflix Inc | `NFLX` | 4.68% |
-| 5 | Visa Inc Class A | `V` | 4.58% |
-| 6 | L'Oreal SA | `OR.PA` | 4.34% |
-| 7 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 4.13% |
-| 8 | Aon PLC Class A | `AON` | 4.05% |
-| 9 | Intercontinental Exchange Inc | `ICE` | 4.02% |
-| 10 | RELX PLC | `REL.L` | 3.46% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.24% |
+| 2 | [[../Entities/KO US Equity\|Coca-Cola Co]] | `KO` | สหรัฐฯ | 5.18% |
+| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.08% |
+| 4 | [[../Entities/Netflix Inc\|Netflix Inc]] | `NFLX` | สหรัฐฯ | 4.68% |
+| 5 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 4.58% |
+| 6 | [[../Entities/L'Oreal SA\|L'Oreal SA]] | `OR.PA` | ฝรั่งเศส | 4.34% |
+| 7 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.13% |
+| 8 | [[../Entities/Aon PLC Class A\|Aon PLC Class A]] | `AON` | สหรัฐฯ | 4.05% |
+| 9 | [[../Entities/Intercontinental Exchange Inc\|Intercontinental Exchange Inc]] | `ICE` | สหรัฐฯ | 4.02% |
+| 10 | [[../Entities/RELX PLC\|RELX PLC]] | `REL.L` | สหราชอาณาจักร | 3.46% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

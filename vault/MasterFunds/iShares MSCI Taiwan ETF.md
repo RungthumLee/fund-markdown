@@ -79,18 +79,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 22.47% |
-| 2 | MediaTek Inc | `2454.TW` | 5.91% |
-| 3 | Delta Electronics Inc | `2308.TW` | 3.85% |
-| 4 | Hon Hai Precision Industry Co Ltd | `2317.TW` | 3.66% |
-| 5 | ASE Technology Holding Co Ltd | `3711.TW` | 2.69% |
-| 6 | Elite Material Co Ltd | `2383.TW` | 2.23% |
-| 7 | United Microelectronics Corp | `2303.TW` | 1.96% |
-| 8 | Unimicron Technology Corp | `3037.TW` | 1.87% |
-| 9 | Accton Technology Corp | `2345.TW` | 1.83% |
-| 10 | Fubon Financial Holdings Co Ltd | `2881.TW` | 1.64% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 22.47% |
+| 2 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 5.91% |
+| 3 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 3.85% |
+| 4 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | 3.66% |
+| 5 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | 2.69% |
+| 6 | [[../Entities/Elite Material Co Ltd\|Elite Material Co Ltd]] | `2383.TW` | ไต้หวัน | 2.23% |
+| 7 | [[../Entities/United Microelectronics Corp\|United Microelectronics Corp]] | `2303.TW` | ไต้หวัน | 1.96% |
+| 8 | [[../Entities/Unimicron Technology Corp\|Unimicron Technology Corp]] | `3037.TW` | ไต้หวัน | 1.87% |
+| 9 | [[../Entities/Accton Technology Corp\|Accton Technology Corp]] | `2345.TW` | ไต้หวัน | 1.83% |
+| 10 | Fubon Financial Holdings Co Ltd | `2881.TW` | ไต้หวัน | 1.64% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

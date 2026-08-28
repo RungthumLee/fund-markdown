@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 10.80% |
-| 2 | Alphabet Inc Class A | `GOOGL` | 7.73% |
-| 3 | Apple Inc | `AAPL` | 6.86% |
-| 4 | JPMorgan Chase & Co | `JPM` | 6.24% |
-| 5 | Invesco EQQQ NASDAQ-100 ETF | `EQQQ.SW` | 6.21% |
-| 6 | Amazon.com Inc | `AMZN` | 5.42% |
-| 7 | Microsoft Corp | `MSFT` | 5.41% |
-| 8 | GE Aerospace | `GE` | 4.83% |
-| 9 | Cboe Global Markets Inc | `CBOE` | 4.78% |
-| 10 | Eli Lilly and Co | `LLY` | 4.31% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 10.80% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 7.73% |
+| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 6.86% |
+| 4 | [[../Entities/JPMORGAN CHASE & CO\|JPMorgan Chase & Co]] | `JPM` | สหรัฐฯ | 6.24% |
+| 5 | [[../Entities/Invesco EQQQ NASDAQ-100 ETF\|Invesco EQQQ NASDAQ-100 ETF]] | `EQQQ.SW` | สวิตเซอร์แลนด์ | 6.21% |
+| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 5.42% |
+| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.41% |
+| 8 | [[../Entities/GE Aerospace\|GE Aerospace]] | `GE` | สหรัฐฯ | 4.83% |
+| 9 | [[../Entities/Cboe Global Markets Inc\|Cboe Global Markets Inc]] | `CBOE` | สหรัฐฯ | 4.78% |
+| 10 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 4.31% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

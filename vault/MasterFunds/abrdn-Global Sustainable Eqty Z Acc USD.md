@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class A | `GOOGL` | 6.23% |
-| 2 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 5.52% |
-| 3 | NVIDIA Corp | `NVDA` | 5.38% |
-| 4 | ASML Holding NV | `ASML.AS` | 4.48% |
-| 5 | Microsoft Corp | `MSFT` | 4.19% |
-| 6 | Mastercard Inc Class A | `MA` | 3.41% |
-| 7 | Eli Lilly and Co | `LLY` | 3.31% |
-| 8 | American Express Co | `AXP` | 2.67% |
-| 9 | Keyence Corp | `6861.T` | 2.64% |
-| 10 | TJX Companies Inc | `TJX` | 2.55% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 6.23% |
+| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 5.52% |
+| 3 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.38% |
+| 4 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 4.48% |
+| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.19% |
+| 6 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 3.41% |
+| 7 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 3.31% |
+| 8 | [[../Entities/American Express Co\|American Express Co]] | `AXP` | สหรัฐฯ | 2.67% |
+| 9 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 2.64% |
+| 10 | [[../Entities/TJX Companies Inc\|TJX Companies Inc]] | `TJX` | สหรัฐฯ | 2.55% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

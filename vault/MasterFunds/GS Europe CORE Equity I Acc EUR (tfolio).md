@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | ASML Holding NV | `ASML.AS` | 5.69% |
-| 2 | Siemens AG | `SIE.DE` | 2.60% |
-| 3 | Nestle SA | `NESN.SW` | 2.50% |
-| 4 | ABB Ltd | `ABBN.SW` | 2.28% |
-| 5 | Compagnie Financiere Richemont SA Class A | `CFR.SW` | 1.86% |
-| 6 | Safran SA | `SAF.PA` | 1.84% |
-| 7 | AstraZeneca PLC | `AZN.L` | 1.61% |
-| 8 | Sanofi SA | `SAN.PA` | 1.53% |
-| 9 | NatWest Group PLC | `NWG.L` | 1.50% |
-| 10 | Deutsche Bank AG | `DBK.DE` | 1.45% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 5.69% |
+| 2 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | 2.60% |
+| 3 | [[../Entities/Nestle SA\|Nestle SA]] | `NESN.SW` | สวิตเซอร์แลนด์ | 2.50% |
+| 4 | [[../Entities/ABB Ltd\|ABB Ltd]] | `ABBN.SW` | สวิตเซอร์แลนด์ | 2.28% |
+| 5 | [[../Entities/Compagnie Financiere Richemont SA Class A\|Compagnie Financiere Richemont SA Class A]] | `CFR.SW` | สวิตเซอร์แลนด์ | 1.86% |
+| 6 | [[../Entities/SAF FP Equity\|Safran SA]] | `SAF.PA` | ฝรั่งเศส | 1.84% |
+| 7 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 1.61% |
+| 8 | [[../Entities/Sanofi SA\|Sanofi SA]] | `SAN.PA` | ฝรั่งเศส | 1.53% |
+| 9 | [[../Entities/NatWest Group PLC\|NatWest Group PLC]] | `NWG.L` | สหราชอาณาจักร | 1.50% |
+| 10 | [[../Entities/Deutsche Bank AG\|Deutsche Bank AG]] | `DBK.DE` | เยอรมนี | 1.45% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -69,18 +69,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | ASML Holding NV | `ASML.AS` | 30.08% |
-| 2 | SAP SE | `SAP.DE` | 17.31% |
-| 3 | Infineon Technologies AG | `IFX.DE` | 11.92% |
-| 4 | Nokia Oyj | `NOKIA.HE` | 5.92% |
-| 5 | ASM International NV | `ASM.AS` | 5.56% |
-| 6 | Nebius Group NV Shs Class-A- | `NBIS` | 4.95% |
-| 7 | STMicroelectronics NV | `STMPA.PA` | 4.27% |
-| 8 | Telefonaktiebolaget L M Ericsson Class B | `ERIC-B.ST` | 3.34% |
-| 9 | Hexagon AB Class B | `HEXA-B.ST` | 2.62% |
-| 10 | Capgemini SE | `CAP.PA` | 2.32% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 30.08% |
+| 2 | [[../Entities/SAP SE\|SAP SE]] | `SAP.DE` | เยอรมนี | 17.31% |
+| 3 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 11.92% |
+| 4 | Nokia Oyj | `NOKIA.HE` | - | 5.92% |
+| 5 | [[../Entities/ASM International NV\|ASM International NV]] | `ASM.AS` | เนเธอร์แลนด์ | 5.56% |
+| 6 | Nebius Group NV Shs Class-A- | `NBIS` | สหรัฐฯ | 4.95% |
+| 7 | STMicroelectronics NV | `STMPA.PA` | ฝรั่งเศส | 4.27% |
+| 8 | Telefonaktiebolaget L M Ericsson Class B | `ERIC-B.ST` | - | 3.34% |
+| 9 | [[../Entities/Hexagon AB Class B\|Hexagon AB Class B]] | `HEXA-B.ST` | - | 2.62% |
+| 10 | Capgemini SE | `CAP.PA` | ฝรั่งเศส | 2.32% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

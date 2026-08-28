@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 9.42% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 7.16% |
-| 3 | Tencent Holdings Ltd | `0700.HK` | 4.17% |
-| 4 | SK Hynix Inc | `000660.KQ` | 4.16% |
-| 5 | Accton Technology Corp | `2345.TW` | 2.84% |
-| 6 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 2.84% |
-| 7 | Elite Material Co Ltd | `2383.TW` | 2.71% |
-| 8 | Samsung Electronics Co Ltd Participating Preferred | `005935` | 2.63% |
-| 9 | China Jushi Co Ltd Class A | `600176.SS` | 2.47% |
-| 10 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 2.29% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.42% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 7.16% |
+| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 4.17% |
+| 4 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 4.16% |
+| 5 | [[../Entities/Accton Technology Corp\|Accton Technology Corp]] | `2345.TW` | ไต้หวัน | 2.84% |
+| 6 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 2.84% |
+| 7 | [[../Entities/Elite Material Co Ltd\|Elite Material Co Ltd]] | `2383.TW` | ไต้หวัน | 2.71% |
+| 8 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 2.63% |
+| 9 | [[../Entities/China Jushi Co Ltd Class A\|China Jushi Co Ltd Class A]] | `600176.SS` | จีน | 2.47% |
+| 10 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 2.29% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

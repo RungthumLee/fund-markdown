@@ -74,18 +74,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | JPMorgan Chase & Co | `JPM` | 11.71% |
-| 2 | Berkshire Hathaway Inc Class B | `BRK-B` | 11.65% |
-| 3 | Visa Inc Class A | `V` | 7.55% |
-| 4 | Mastercard Inc Class A | `MA` | 5.75% |
-| 5 | Bank of America Corp | `BAC` | 5.03% |
-| 6 | The Goldman Sachs Group Inc | `GS` | 3.73% |
-| 7 | Wells Fargo & Co | `WFC` | 3.29% |
-| 8 | Morgan Stanley | `MS` | 3.13% |
-| 9 | Citigroup Inc | `C` | 2.81% |
-| 10 | American Express Co | `AXP` | 2.22% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/JPMORGAN CHASE & CO\|JPMorgan Chase & Co]] | `JPM` | สหรัฐฯ | 11.71% |
+| 2 | [[../Entities/Berkshire Hathaway Inc Class B\|Berkshire Hathaway Inc Class B]] | `BRK-B` | - | 11.65% |
+| 3 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 7.55% |
+| 4 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 5.75% |
+| 5 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | 5.03% |
+| 6 | [[../Entities/The Goldman Sachs Group Inc\|The Goldman Sachs Group Inc]] | `GS` | สหรัฐฯ | 3.73% |
+| 7 | [[../Entities/Wells Fargo & Co\|Wells Fargo & Co]] | `WFC` | สหรัฐฯ | 3.29% |
+| 8 | [[../Entities/MORGAN STANLEY INVESTMENT MANAGEMENT\|Morgan Stanley]] | `MS` | สหรัฐฯ | 3.13% |
+| 9 | [[../Entities/CITIGROUP INC\|Citigroup Inc]] | `C` | สหรัฐฯ | 2.81% |
+| 10 | [[../Entities/American Express Co\|American Express Co]] | `AXP` | สหรัฐฯ | 2.22% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

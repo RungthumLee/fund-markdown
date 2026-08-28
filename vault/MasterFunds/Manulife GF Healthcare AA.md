@@ -74,18 +74,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Eli Lilly and Co | `LLY` | 10.05% |
-| 2 | Johnson & Johnson | `JNJ` | 6.98% |
-| 3 | AstraZeneca PLC | `AZN.L` | 6.04% |
-| 4 | AbbVie Inc | `ABBV` | 5.61% |
-| 5 | Amgen Inc | `AMGN` | 5.00% |
-| 6 | Medtronic PLC | `MDT` | 3.65% |
-| 7 | Roche Holding AG Ordinary Shares new | `ROP.SW` | 3.51% |
-| 8 | BrightSpring Health Services Inc | `BTSG` | 3.20% |
-| 9 | Chugai Pharmaceutical Co Ltd | `4519.T` | 2.89% |
-| 10 | Vertex Pharmaceuticals Inc | `VRTX` | 2.83% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 10.05% |
+| 2 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 6.98% |
+| 3 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 6.04% |
+| 4 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | 5.61% |
+| 5 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | 5.00% |
+| 6 | [[../Entities/Medtronic PLC\|Medtronic PLC]] | `MDT` | สหรัฐฯ | 3.65% |
+| 7 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 3.51% |
+| 8 | [[../Entities/BrightSpring Health Services Inc\|BrightSpring Health Services Inc]] | `BTSG` | สหรัฐฯ | 3.20% |
+| 9 | [[../Entities/Chugai Pharmaceutical Co Ltd\|Chugai Pharmaceutical Co Ltd]] | `4519.T` | ญี่ปุ่น | 2.89% |
+| 10 | [[../Entities/Vertex Pharmaceuticals Inc\|Vertex Pharmaceuticals Inc]] | `VRTX` | สหรัฐฯ | 2.83% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

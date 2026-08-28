@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Amazon.com Inc | `AMZN` | 6.17% |
-| 2 | UnitedHealth Group Inc | `UNH` | 5.69% |
-| 3 | Vinci SA | `DG.PA` | 5.49% |
-| 4 | London Stock Exchange Group PLC | `LSEG.L` | 5.25% |
-| 5 | Canadian Pacific Kansas City Ltd | `CP.TO` | 4.97% |
-| 6 | Airbus SE | `AIR.PA` | 4.74% |
-| 7 | Microsoft Corp | `MSFT` | 4.57% |
-| 8 | Safran SA | `SAF.PA` | 4.56% |
-| 9 | Mastercard Inc Class A | `MA` | 4.18% |
-| 10 | Thermo Fisher Scientific Inc | `TMO` | 4.14% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 6.17% |
+| 2 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 5.69% |
+| 3 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | 5.49% |
+| 4 | [[../Entities/London Stock Exchange Group PLC\|London Stock Exchange Group PLC]] | `LSEG.L` | สหราชอาณาจักร | 5.25% |
+| 5 | [[../Entities/Canadian Pacific Kansas City Ltd\|Canadian Pacific Kansas City Ltd]] | `CP.TO` | แคนาดา | 4.97% |
+| 6 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | 4.74% |
+| 7 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.57% |
+| 8 | [[../Entities/SAF FP Equity\|Safran SA]] | `SAF.PA` | ฝรั่งเศส | 4.56% |
+| 9 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 4.18% |
+| 10 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | 4.14% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

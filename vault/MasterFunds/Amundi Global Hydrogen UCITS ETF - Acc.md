@@ -65,16 +65,16 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Iberdrola SA | `IBE.MC` | 6.73% |
-| 2 | Linde PLC | `LIN` | 6.05% |
-| 3 | IHI Corp | `7013.T` | 5.51% |
-| 4 | Weichai Power Co Ltd Class A | `000338.SZ` | 5.02% |
-| 5 | Bloom Energy Corp Class A | `BE` | 4.68% |
-| 6 | Endesa SA | `ELE.MC` | 3.72% |
-| 7 | Toyota Motor Corp | `7203.T` | 3.32% |
-| 8 | Enel SpA | `ENEL.MI` | 3.26% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | 6.73% |
+| 2 | [[../Entities/LIN US Equity\|Linde PLC]] | `LIN` | สหรัฐฯ | 6.05% |
+| 3 | [[../Entities/iShares U.S. Medical Devices ETF (US4642888105)\|IHI Corp]] | `7013.T` | ญี่ปุ่น | 5.51% |
+| 4 | Weichai Power Co Ltd Class A | `000338.SZ` | จีน | 5.02% |
+| 5 | Bloom Energy Corp Class A | `BE` | สหรัฐฯ | 4.68% |
+| 6 | [[../Entities/Endesa SA\|Endesa SA]] | `ELE.MC` | - | 3.72% |
+| 7 | [[../Entities/Toyota Motor Corp\|Toyota Motor Corp]] | `7203.T` | ญี่ปุ่น | 3.32% |
+| 8 | [[../Entities/Enel SpA\|Enel SpA]] | `ENEL.MI` | อิตาลี | 3.26% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

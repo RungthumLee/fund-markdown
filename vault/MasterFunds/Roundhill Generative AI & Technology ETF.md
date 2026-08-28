@@ -73,18 +73,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 6.43% |
-| 2 | Alphabet Inc Class A | `GOOGL` | 5.92% |
-| 3 | Broadcom Inc | `AVGO` | 4.31% |
-| 4 | SK hynix Inc | `000660.KQ` | 4.18% |
-| 5 | Advanced Micro Devices Inc | `AMD` | 3.39% |
-| 6 | Samsung Electronics Co Ltd | `005930.KQ` | 3.31% |
-| 7 | Micron Technology Inc | `MU` | 3.22% |
-| 8 | Nebius Group NV Shs Class-A- | `NBIS` | 2.92% |
-| 9 | Amazon.com Inc | `AMZN` | 2.81% |
-| 10 | Microsoft Corp | `MSFT` | 2.78% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 6.43% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.92% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 4.31% |
+| 4 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 4.18% |
+| 5 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 3.39% |
+| 6 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 3.31% |
+| 7 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 3.22% |
+| 8 | Nebius Group NV Shs Class-A- | `NBIS` | สหรัฐฯ | 2.92% |
+| 9 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 2.81% |
+| 10 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.78% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

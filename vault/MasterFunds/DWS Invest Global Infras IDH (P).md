@@ -61,18 +61,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Williams Companies Inc | `WMB` | 6.28% |
-| 2 | TC Energy Corp | `TRP.TO` | 5.72% |
-| 3 | Enbridge Inc | `ENB.TO` | 5.58% |
-| 4 | Vinci SA | `DG.PA` | 5.32% |
-| 5 | National Grid PLC | `NG.L` | 4.94% |
-| 6 | Targa Resources Corp | `TRGP` | 4.67% |
-| 7 | American Tower Corp | `AMT` | 4.64% |
-| 8 | Sempra | `SRE` | 4.57% |
-| 9 | PG&E Corp | `PCG` | 3.63% |
-| 10 | Consolidated Edison Inc | `ED` | 3.49% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | 6.28% |
+| 2 | [[../Entities/TC Energy Corp\|TC Energy Corp]] | `TRP.TO` | แคนาดา | 5.72% |
+| 3 | [[../Entities/Enbridge Inc\|Enbridge Inc]] | `ENB.TO` | แคนาดา | 5.58% |
+| 4 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | 5.32% |
+| 5 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 4.94% |
+| 6 | [[../Entities/TARGA RESOURCES CORP\|Targa Resources Corp]] | `TRGP` | สหรัฐฯ | 4.67% |
+| 7 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | 4.64% |
+| 8 | [[../Entities/Sempra\|Sempra]] | `SRE` | สหรัฐฯ | 4.57% |
+| 9 | [[../Entities/PG&E Corp\|PG&E Corp]] | `PCG` | สหรัฐฯ | 3.63% |
+| 10 | [[../Entities/Consolidated Edison Inc\|Consolidated Edison Inc]] | `ED` | สหรัฐฯ | 3.49% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

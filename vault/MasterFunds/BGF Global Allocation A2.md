@@ -88,14 +88,14 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class C | `GOOG` | 2.79% |
-| 2 | NVIDIA Corp | `NVDA` | 2.64% |
-| 3 | Apple Inc | `AAPL` | 2.10% |
-| 4 | Amazon.com Inc | `AMZN` | 1.72% |
-| 5 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 1.66% |
-| 6 | Broadcom Inc | `AVGO` | 1.47% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 2.79% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.64% |
+| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 2.10% |
+| 4 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 1.72% |
+| 5 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 1.66% |
+| 6 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 1.47% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -59,18 +59,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | China Yangtze Power Co Ltd Class A | `600900.SS` | 13.21% |
-| 2 | Sungrow Power Supply Co Ltd Class A | `300274.SZ` | 9.86% |
-| 3 | NARI Technology Co Ltd Class A | `600406.SS` | 7.94% |
-| 4 | Ningbo Deye Technology Corp Class A | `605117.SS` | 5.14% |
-| 5 | China XD Electric Co Ltd Class A | `601179.SS` | 4.29% |
-| 6 | TCL Zhonghuan Renewable Energy Technology Co Ltd Class A | `002129.SZ` | 4.24% |
-| 7 | LONGi Green Energy Technology Co Ltd Class A | `601012.SS` | 4.17% |
-| 8 | China Three Gorges Renewables (Group) Co Ltd Class A | `600905.SS` | 4.12% |
-| 9 | Goldwind Science & Technology Co Ltd Ordinary Shares - Class A | `002202.SZ` | 3.63% |
-| 10 | Zhejiang Jingsheng Mechanical and Electrical Co Ltd Class A | `300316.SZ` | 3.54% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/China Yangtze Power Co Ltd Class A\|China Yangtze Power Co Ltd Class A]] | `600900.SS` | จีน | 13.21% |
+| 2 | Sungrow Power Supply Co Ltd Class A | `300274.SZ` | จีน | 9.86% |
+| 3 | NARI Technology Co Ltd Class A | `600406.SS` | จีน | 7.94% |
+| 4 | Ningbo Deye Technology Corp Class A | `605117.SS` | จีน | 5.14% |
+| 5 | China XD Electric Co Ltd Class A | `601179.SS` | จีน | 4.29% |
+| 6 | TCL Zhonghuan Renewable Energy Technology Co Ltd Class A | `002129.SZ` | จีน | 4.24% |
+| 7 | [[../Entities/LONGi Green Energy Technology Co Ltd Class A\|LONGi Green Energy Technology Co Ltd Class A]] | `601012.SS` | จีน | 4.17% |
+| 8 | China Three Gorges Renewables (Group) Co Ltd Class A | `600905.SS` | จีน | 4.12% |
+| 9 | Goldwind Science & Technology Co Ltd Ordinary Shares - Class A | `002202.SZ` | จีน | 3.63% |
+| 10 | Zhejiang Jingsheng Mechanical and Electrical Co Ltd Class A | `300316.SZ` | จีน | 3.54% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -74,18 +74,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Meituan Class B | `3690.HK` | 9.50% |
-| 2 | PDD Holdings Inc ADR | `PDD` | 8.39% |
-| 3 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 8.09% |
-| 4 | BYD Co Ltd Class H | `01211` | 7.18% |
-| 5 | JD.com Inc Ordinary Shares - Class A | `9618.HK` | 6.80% |
-| 6 | Trip.com Group Ltd | `9961.HK` | 4.32% |
-| 7 | Geely Automobile Holdings Ltd | `0175.HK` | 3.63% |
-| 8 | Yum China Holdings Inc | `YUMC` | 3.43% |
-| 9 | ANTA Sports Products Ltd | `2020.HK` | 2.73% |
-| 10 | NIO Inc Class A | `9866.HK` | 2.32% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | 9.50% |
+| 2 | [[../Entities/PDD Holdings Inc ADR\|PDD Holdings Inc ADR]] | `PDD` | สหรัฐฯ | 8.39% |
+| 3 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 8.09% |
+| 4 | [[../Entities/BYD Co Ltd Class H\|BYD Co Ltd Class H]] | `01211` | - | 7.18% |
+| 5 | [[../Entities/JD.com Inc Ordinary Shares - Class A\|JD.com Inc Ordinary Shares - Class A]] | `9618.HK` | ฮ่องกง | 6.80% |
+| 6 | [[../Entities/Trip.com Group Ltd\|Trip.com Group Ltd]] | `9961.HK` | ฮ่องกง | 4.32% |
+| 7 | [[../Entities/GEELY AUTOMOBILE HOLDINGS LTD\|Geely Automobile Holdings Ltd]] | `0175.HK` | ฮ่องกง | 3.63% |
+| 8 | [[../Entities/Yum China Holdings Inc\|Yum China Holdings Inc]] | `YUMC` | สหรัฐฯ | 3.43% |
+| 9 | [[../Entities/ANTA Sports Products Ltd\|ANTA Sports Products Ltd]] | `2020.HK` | ฮ่องกง | 2.73% |
+| 10 | [[../Entities/NIO Inc Class A\|NIO Inc Class A]] | `9866.HK` | ฮ่องกง | 2.32% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

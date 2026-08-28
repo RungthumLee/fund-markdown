@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | HDFC Bank Ltd | `HDFCBANK.NS` | 8.92% |
-| 2 | Kotak Mahindra Bank Ltd | `KOTAKBANK.NS` | 8.45% |
-| 3 | ICICI Bank Ltd | `ICICIBANK.NS` | 6.92% |
-| 4 | Bosch Ltd | `500530` | 4.47% |
-| 5 | Bharti Airtel Ltd | `BHARTIARTL.NS` | 4.34% |
-| 6 | ICICI Lombard General Insurance Co Ltd | `ICICIGI.BO` | 4.23% |
-| 7 | KEI Industries Ltd | `517569` | 3.65% |
-| 8 | Niva Bupa Health Insurance Co Ltd | `NIVABUPA.NS` | 3.12% |
-| 9 | Oberoi Realty Ltd | `OBEROIRLTY.BO` | 3.05% |
-| 10 | Computer Age Management Services Ltd Ordinary Shares | `CAMS.BO` | 2.98% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 8.92% |
+| 2 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | 8.45% |
+| 3 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 6.92% |
+| 4 | [[../Entities/Bosch Ltd\|Bosch Ltd]] | `500530` | - | 4.47% |
+| 5 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 4.34% |
+| 6 | [[../Entities/ICICI Lombard General Insurance Co Ltd\|ICICI Lombard General Insurance Co Ltd]] | `ICICIGI.BO` | อินเดีย | 4.23% |
+| 7 | [[../Entities/KEI Industries Ltd\|KEI Industries Ltd]] | `517569` | - | 3.65% |
+| 8 | [[../Entities/Niva Bupa Health Insurance Co Ltd\|Niva Bupa Health Insurance Co Ltd]] | `NIVABUPA.NS` | อินเดีย | 3.12% |
+| 9 | [[../Entities/Oberoi Realty Ltd\|Oberoi Realty Ltd]] | `OBEROIRLTY.BO` | อินเดีย | 3.05% |
+| 10 | [[../Entities/Computer Age Management Services Ltd Ordinary Shares\|Computer Age Management Services Ltd Ordinary Shares]] | `CAMS.BO` | อินเดีย | 2.98% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

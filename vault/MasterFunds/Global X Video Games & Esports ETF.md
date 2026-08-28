@@ -74,18 +74,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Electronic Arts Inc | `EA` | 7.25% |
-| 2 | Take-Two Interactive Software Inc | `TTWO` | 7.17% |
-| 3 | NetEase Inc ADR | `NTES` | 6.82% |
-| 4 | Capcom Co Ltd | `9697.T` | 5.70% |
-| 5 | Krafton Inc | `259960.KQ` | 5.51% |
-| 6 | Unity Software Inc Ordinary Shares | `U` | 5.49% |
-| 7 | International Games System Co Ltd | `3293.TWO` | 5.33% |
-| 8 | Nintendo Co Ltd | `7974.T` | 5.13% |
-| 9 | Konami Group Corp | `9766.T` | 5.05% |
-| 10 | Square Enix Holdings Co Ltd | `9684.T` | 4.97% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Electronic Arts Inc\|Electronic Arts Inc]] | `EA` | สหรัฐฯ | 7.25% |
+| 2 | [[../Entities/Take-Two Interactive Software Inc\|Take-Two Interactive Software Inc]] | `TTWO` | สหรัฐฯ | 7.17% |
+| 3 | [[../Entities/NetEase Inc ADR\|NetEase Inc ADR]] | `NTES` | สหรัฐฯ | 6.82% |
+| 4 | [[../Entities/Capcom Co Ltd\|Capcom Co Ltd]] | `9697.T` | ญี่ปุ่น | 5.70% |
+| 5 | Krafton Inc | `259960.KQ` | เกาหลีใต้ | 5.51% |
+| 6 | [[../Entities/Unity Software Inc Ordinary Shares\|Unity Software Inc Ordinary Shares]] | `U` | สหรัฐฯ | 5.49% |
+| 7 | International Games System Co Ltd | `3293.TWO` | ไต้หวัน | 5.33% |
+| 8 | [[../Entities/Nintendo Co Ltd\|Nintendo Co Ltd]] | `7974.T` | ญี่ปุ่น | 5.13% |
+| 9 | Konami Group Corp | `9766.T` | ญี่ปุ่น | 5.05% |
+| 10 | Square Enix Holdings Co Ltd | `9684.T` | ญี่ปุ่น | 4.97% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

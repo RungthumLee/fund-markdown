@@ -82,17 +82,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Tesla Inc | `TSLA` | 9.39% |
-| 2 | Cloudflare Inc | `NET` | 8.98% |
-| 3 | Royalty Pharma PLC Class A | `RPRX` | 6.53% |
-| 4 | QXO Inc | `QXO` | 6.02% |
-| 5 | AppLovin Corp Ordinary Shares - Class A | `APP` | 5.18% |
-| 6 | Roivant Sciences Ltd Ordinary Shares | `ROIV` | 4.62% |
-| 7 | Roblox Corp Ordinary Shares - Class A | `RBLX` | 4.55% |
-| 8 | Affirm Holdings Inc Ordinary Shares - Class A | `AFRM` | 4.53% |
-| 9 | Shopify Inc Registered Shs -A- Subord Vtg | `SHOP` | 4.51% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 9.39% |
+| 2 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 8.98% |
+| 3 | [[../Entities/Royalty Pharma PLC Class A\|Royalty Pharma PLC Class A]] | `RPRX` | สหรัฐฯ | 6.53% |
+| 4 | [[../Entities/QXO Inc\|QXO Inc]] | `QXO` | สหรัฐฯ | 6.02% |
+| 5 | [[../Entities/AppLovin Corp Ordinary Shares - Class A\|AppLovin Corp Ordinary Shares - Class A]] | `APP` | สหรัฐฯ | 5.18% |
+| 6 | [[../Entities/Roivant Sciences Ltd Ordinary Shares\|Roivant Sciences Ltd Ordinary Shares]] | `ROIV` | สหรัฐฯ | 4.62% |
+| 7 | [[../Entities/Roblox Corp Ordinary Shares - Class A\|Roblox Corp Ordinary Shares - Class A]] | `RBLX` | สหรัฐฯ | 4.55% |
+| 8 | [[../Entities/Affirm Holdings Inc Ordinary Shares - Class A\|Affirm Holdings Inc Ordinary Shares - Class A]] | `AFRM` | สหรัฐฯ | 4.53% |
+| 9 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | 4.51% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

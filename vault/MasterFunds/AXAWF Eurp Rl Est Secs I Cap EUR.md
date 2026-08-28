@@ -59,18 +59,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Unibail-Rodamco-Westfield Act. SIIC ET STES FONC.EUROP. | `URW.PA` | 9.68% |
-| 2 | Segro PLC | `SGRO.L` | 6.83% |
-| 3 | PSP Swiss Property AG | `PSPN.SW` | 6.37% |
-| 4 | Merlin Properties SOCIMI SA | `MRL.MC` | 4.41% |
-| 5 | Aedifica SA | `AED.BR` | 4.08% |
-| 6 | Tritax Big Box Ord | `BBOX.L` | 3.82% |
-| 7 | TAG Immobilien AG | `TEG.DE` | 3.64% |
-| 8 | LEG Immobilien SE | `LEG.DE` | 3.56% |
-| 9 | Vonovia SE | `VNA.DE` | 3.54% |
-| 10 | Mercialys SA | `MERY.PA` | 3.34% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Unibail-Rodamco-Westfield Act. SIIC ET STES FONC.EUROP. | `URW.PA` | ฝรั่งเศส | 9.68% |
+| 2 | Segro PLC | `SGRO.L` | สหราชอาณาจักร | 6.83% |
+| 3 | PSP Swiss Property AG | `PSPN.SW` | สวิตเซอร์แลนด์ | 6.37% |
+| 4 | [[../Entities/Merlin Properties SOCIMI SA\|Merlin Properties SOCIMI SA]] | `MRL.MC` | - | 4.41% |
+| 5 | Aedifica SA | `AED.BR` | - | 4.08% |
+| 6 | Tritax Big Box Ord | `BBOX.L` | สหราชอาณาจักร | 3.82% |
+| 7 | TAG Immobilien AG | `TEG.DE` | เยอรมนี | 3.64% |
+| 8 | LEG Immobilien SE | `LEG.DE` | เยอรมนี | 3.56% |
+| 9 | Vonovia SE | `VNA.DE` | เยอรมนี | 3.54% |
+| 10 | Mercialys SA | `MERY.PA` | ฝรั่งเศส | 3.34% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

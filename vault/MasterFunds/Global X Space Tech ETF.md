@@ -62,18 +62,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Space Exploration Technologies Corp Class A | `SPCX` | 17.08% |
-| 2 | AST SpaceMobile Inc Ordinary Shares - Class A | `ASTS` | 9.97% |
-| 3 | Rocket Lab Corp | `RKLB` | 9.28% |
-| 4 | Viasat Inc | `VSAT` | 6.75% |
-| 5 | Iridium Communications Inc | `IRDM` | 5.91% |
-| 6 | Globalstar Inc | `GSAT` | 5.65% |
-| 7 | SES SA DR | `SESGL` | 4.67% |
-| 8 | MDA Space Ltd | `MDA.TO` | 4.62% |
-| 9 | Firefly Aerospace Inc | `FLY` | 4.33% |
-| 10 | Planet Labs PBC Class A | `PL` | 4.11% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Space Exploration Technologies Corp Class A\|Space Exploration Technologies Corp Class A]] | `SPCX` | สหรัฐฯ | 17.08% |
+| 2 | [[../Entities/AST SpaceMobile Inc Ordinary Shares - Class A\|AST SpaceMobile Inc Ordinary Shares - Class A]] | `ASTS` | สหรัฐฯ | 9.97% |
+| 3 | [[../Entities/Rocket Lab Corp\|Rocket Lab Corp]] | `RKLB` | สหรัฐฯ | 9.28% |
+| 4 | [[../Entities/Viasat Inc\|Viasat Inc]] | `VSAT` | สหรัฐฯ | 6.75% |
+| 5 | [[../Entities/Iridium Communications Inc\|Iridium Communications Inc]] | `IRDM` | สหรัฐฯ | 5.91% |
+| 6 | [[../Entities/Globalstar Inc\|Globalstar Inc]] | `GSAT` | สหรัฐฯ | 5.65% |
+| 7 | [[../Entities/SES SA DR\|SES SA DR]] | `SESGL` | สหรัฐฯ | 4.67% |
+| 8 | [[../Entities/MDA Space Ltd\|MDA Space Ltd]] | `MDA.TO` | แคนาดา | 4.62% |
+| 9 | [[../Entities/Firefly Aerospace Inc\|Firefly Aerospace Inc]] | `FLY` | สหรัฐฯ | 4.33% |
+| 10 | [[../Entities/Planet Labs PBC Class A\|Planet Labs PBC Class A]] | `PL` | สหรัฐฯ | 4.11% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

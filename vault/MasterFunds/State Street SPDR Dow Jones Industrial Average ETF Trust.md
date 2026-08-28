@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | The Goldman Sachs Group Inc | `GS` | 11.52% |
-| 2 | Caterpillar Inc | `CAT` | 9.22% |
-| 3 | Microsoft Corp | `MSFT` | 5.26% |
-| 4 | UnitedHealth Group Inc | `UNH` | 4.69% |
-| 5 | Amgen Inc | `AMGN` | 4.36% |
-| 6 | The Travelers Companies Inc | `TRV` | 4.24% |
-| 7 | Visa Inc Class A | `V` | 4.14% |
-| 8 | Alphabet Inc Class A | `GOOGL` | 4.03% |
-| 9 | JPMorgan Chase & Co | `JPM` | 3.98% |
-| 10 | Sherwin-Williams Co | `SHW` | 3.86% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/The Goldman Sachs Group Inc\|The Goldman Sachs Group Inc]] | `GS` | สหรัฐฯ | 11.52% |
+| 2 | [[../Entities/CATERPILLAR INC\|Caterpillar Inc]] | `CAT` | สหรัฐฯ | 9.22% |
+| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.26% |
+| 4 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 4.69% |
+| 5 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | 4.36% |
+| 6 | The Travelers Companies Inc | `TRV` | สหรัฐฯ | 4.24% |
+| 7 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 4.14% |
+| 8 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.03% |
+| 9 | [[../Entities/JPMORGAN CHASE & CO\|JPMorgan Chase & Co]] | `JPM` | สหรัฐฯ | 3.98% |
+| 10 | Sherwin-Williams Co | `SHW` | สหรัฐฯ | 3.86% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

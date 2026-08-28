@@ -76,18 +76,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | ASML Holding NV | `ASML.AS` | 4.14% |
-| 2 | HSBC Holdings PLC | `HSBA.L` | 2.36% |
-| 3 | Roche Holding AG Ordinary Shares new | `ROP.SW` | 1.99% |
-| 4 | Novartis AG Registered Shares | `NOVN.SW` | 1.93% |
-| 5 | AstraZeneca PLC | `AZN.L` | 1.70% |
-| 6 | Nestle SA | `NESN.SW` | 1.67% |
-| 7 | Shell PLC | `SHEL.L` | 1.66% |
-| 8 | Siemens AG | `SIE.DE` | 1.54% |
-| 9 | Banco Santander SA | `SAN.MC` | 1.35% |
-| 10 | TotalEnergies SE | `TTE.PA` | 1.29% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 4.14% |
+| 2 | [[../Entities/HSBC Holdings PLC\|HSBC Holdings PLC]] | `HSBA.L` | สหราชอาณาจักร | 2.36% |
+| 3 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 1.99% |
+| 4 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | 1.93% |
+| 5 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 1.70% |
+| 6 | [[../Entities/Nestle SA\|Nestle SA]] | `NESN.SW` | สวิตเซอร์แลนด์ | 1.67% |
+| 7 | [[../Entities/Shell PLC\|Shell PLC]] | `SHEL.L` | สหราชอาณาจักร | 1.66% |
+| 8 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | 1.54% |
+| 9 | [[../Entities/Banco Santander SA\|Banco Santander SA]] | `SAN.MC` | - | 1.35% |
+| 10 | [[../Entities/TotalEnergies SE\|TotalEnergies SE]] | `TTE.PA` | ฝรั่งเศส | 1.29% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

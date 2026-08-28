@@ -76,11 +76,11 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Euro Schatz Future June 26 | `FGBSM26` | 7.04% |
-| 2 | Long-Term Euro BTP Future June 26 | `FBTPM26` | 6.10% |
-| 3 | Euro OAT Future June 26 | `FOATM26` | 5.20% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Euro Schatz Future June 26\|Euro Schatz Future June 26]] | `FGBSM26` | - | 7.04% |
+| 2 | [[../Entities/Long-Term Euro BTP Future June 26\|Long-Term Euro BTP Future June 26]] | `FBTPM26` | - | 6.10% |
+| 3 | [[../Entities/Euro OAT Future June 26\|Euro OAT Future June 26]] | `FOATM26` | - | 5.20% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

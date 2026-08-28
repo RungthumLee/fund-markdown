@@ -66,10 +66,10 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Kraneshares Sust Ultra Shrt Dur Idx ETF | `KCSH` | 54.54% |
-| 2 | State Street Instl US Govt MMkt Premier | `GVMXX` | 4.08% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Kraneshares Sust Ultra Shrt Dur Idx ETF | `KCSH` | สหรัฐฯ | 54.54% |
+| 2 | State Street Instl US Govt MMkt Premier | `GVMXX` | สหรัฐฯ | 4.08% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Kubota Corp | `6326.T` | 6.11% |
-| 2 | Japan Post Holdings Co Ltd | `6178.T` | 5.34% |
-| 3 | Nissan Motor Co Ltd | `7201.T` | 4.61% |
-| 4 | Honda Motor Co Ltd | `7267.T` | 4.55% |
-| 5 | SUMCO Corp | `3436.T` | 4.29% |
-| 6 | Mitsubishi Motors Corp | `7211.T` | 3.56% |
-| 7 | JGC Holdings Corp | `1963.T` | 3.21% |
-| 8 | Shin-Etsu Chemical Co Ltd | `4063.T` | 3.13% |
-| 9 | Ono Pharmaceutical Co Ltd | `4528.T` | 2.86% |
-| 10 | Asahi Kasei Corp | `3407.T` | 2.72% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Kubota Corp\|Kubota Corp]] | `6326.T` | ญี่ปุ่น | 6.11% |
+| 2 | Japan Post Holdings Co Ltd | `6178.T` | ญี่ปุ่น | 5.34% |
+| 3 | Nissan Motor Co Ltd | `7201.T` | ญี่ปุ่น | 4.61% |
+| 4 | [[../Entities/Honda Motor Co Ltd\|Honda Motor Co Ltd]] | `7267.T` | ญี่ปุ่น | 4.55% |
+| 5 | [[../Entities/SUMCO Corp\|SUMCO Corp]] | `3436.T` | ญี่ปุ่น | 4.29% |
+| 6 | Mitsubishi Motors Corp | `7211.T` | ญี่ปุ่น | 3.56% |
+| 7 | JGC Holdings Corp | `1963.T` | ญี่ปุ่น | 3.21% |
+| 8 | [[../Entities/Shin-Etsu Chemical Co Ltd\|Shin-Etsu Chemical Co Ltd]] | `4063.T` | ญี่ปุ่น | 3.13% |
+| 9 | Ono Pharmaceutical Co Ltd | `4528.T` | ญี่ปุ่น | 2.86% |
+| 10 | Asahi Kasei Corp | `3407.T` | ญี่ปุ่น | 2.72% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -59,18 +59,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Barrick Mining Corp | `ABX.TO` | 5.39% |
-| 2 | G Mining Ventures Corp | `GMIN.TO` | 5.04% |
-| 3 | Alamos Gold Inc Class A | `AGI.TO` | 4.52% |
-| 4 | Equinox Gold Corp Ordinary Shares Class A | `EQX.TO` | 4.18% |
-| 5 | Newmont Corp | `NEM` | 3.75% |
-| 6 | Anglogold Ashanti PLC | `AU` | 2.86% |
-| 7 | Agnico Eagle Mines Ltd | `AEM.TO` | 2.36% |
-| 8 | Greatland Resources Ltd | `GGP.AX` | 2.19% |
-| 9 | Perseus Mining Ltd | `PRU.AX` | 2.11% |
-| 10 | Torex Gold Resources Inc | `TXG.TO` | 2.10% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Barrick Mining Corp\|Barrick Mining Corp]] | `ABX.TO` | แคนาดา | 5.39% |
+| 2 | G Mining Ventures Corp | `GMIN.TO` | แคนาดา | 5.04% |
+| 3 | [[../Entities/Alamos Gold Inc Class A\|Alamos Gold Inc Class A]] | `AGI.TO` | แคนาดา | 4.52% |
+| 4 | [[../Entities/Equinox Gold Corp Ordinary Shares Class A\|Equinox Gold Corp Ordinary Shares Class A]] | `EQX.TO` | แคนาดา | 4.18% |
+| 5 | [[../Entities/NEM US Equity\|Newmont Corp]] | `NEM` | สหรัฐฯ | 3.75% |
+| 6 | [[../Entities/Anglogold Ashanti PLC\|Anglogold Ashanti PLC]] | `AU` | สหรัฐฯ | 2.86% |
+| 7 | [[../Entities/AEM CN Equity\|Agnico Eagle Mines Ltd]] | `AEM.TO` | แคนาดา | 2.36% |
+| 8 | Greatland Resources Ltd | `GGP.AX` | ออสเตรเลีย | 2.19% |
+| 9 | Perseus Mining Ltd | `PRU.AX` | ออสเตรเลีย | 2.11% |
+| 10 | Torex Gold Resources Inc | `TXG.TO` | แคนาดา | 2.10% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

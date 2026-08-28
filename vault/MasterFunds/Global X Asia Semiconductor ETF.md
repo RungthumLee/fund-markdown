@@ -59,18 +59,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 17.03% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 14.37% |
-| 3 | SK hynix Inc | `000660.KQ` | 13.94% |
-| 4 | MediaTek Inc | `2454.TW` | 5.80% |
-| 5 | Tokyo Electron Ltd | `8035.T` | 5.47% |
-| 6 | Advantest Corp | `6857.T` | 5.29% |
-| 7 | Sony Group Corp | `6758.T` | 5.00% |
-| 8 | Kioxia Holdings Corp Ordinary Shares | `285A.T` | 3.67% |
-| 9 | Mitsubishi Electric Corp | `6503.T` | 2.38% |
-| 10 | Hoya Corp | `7741.T` | 1.82% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 17.03% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 14.37% |
+| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 13.94% |
+| 4 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 5.80% |
+| 5 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 5.47% |
+| 6 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | 5.29% |
+| 7 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | 5.00% |
+| 8 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | 3.67% |
+| 9 | [[../Entities/Mitsubishi Electric Corp\|Mitsubishi Electric Corp]] | `6503.T` | ญี่ปุ่น | 2.38% |
+| 10 | [[../Entities/Hoya Corp\|Hoya Corp]] | `7741.T` | ญี่ปุ่น | 1.82% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

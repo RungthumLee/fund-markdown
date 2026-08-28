@@ -88,9 +88,9 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Euro Bobl Future Sept 26 | `FGBMU26` | 2.30% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Euro Bobl Future Sept 26\|Euro Bobl Future Sept 26]] | `FGBMU26` | - | 2.30% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

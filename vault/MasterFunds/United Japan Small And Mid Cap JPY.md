@@ -66,18 +66,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | MEC Co Ltd | `4971.T` | 1.90% |
-| 2 | Fujibo Holdings Inc | `3104.T` | 1.71% |
-| 3 | Dai-Dan Co Ltd | `1980.T` | 1.63% |
-| 4 | Taiyo Holdings Co Ltd | `4626.T` | 1.62% |
-| 5 | Daifuku Co Ltd | `6383.T` | 1.58% |
-| 6 | LINTEC Corp | `7966.T` | 1.56% |
-| 7 | FUJI Seal International Inc | `7864.T` | 1.54% |
-| 8 | Nippon Ceramic Co Ltd | `6929.T` | 1.51% |
-| 9 | Treasure Factory Co Ltd | `3093.T` | 1.49% |
-| 10 | Open Up Group Inc | `2154.T` | 1.48% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/MEC Co Ltd\|MEC Co Ltd]] | `4971.T` | ญี่ปุ่น | 1.90% |
+| 2 | [[../Entities/Fujibo Holdings Inc\|Fujibo Holdings Inc]] | `3104.T` | ญี่ปุ่น | 1.71% |
+| 3 | [[../Entities/Dai-Dan Co Ltd\|Dai-Dan Co Ltd]] | `1980.T` | ญี่ปุ่น | 1.63% |
+| 4 | [[../Entities/Taiyo Holdings Co Ltd\|Taiyo Holdings Co Ltd]] | `4626.T` | ญี่ปุ่น | 1.62% |
+| 5 | [[../Entities/Daifuku Co Ltd\|Daifuku Co Ltd]] | `6383.T` | ญี่ปุ่น | 1.58% |
+| 6 | [[../Entities/LINTEC Corp\|LINTEC Corp]] | `7966.T` | ญี่ปุ่น | 1.56% |
+| 7 | [[../Entities/FUJI Seal International Inc\|FUJI Seal International Inc]] | `7864.T` | ญี่ปุ่น | 1.54% |
+| 8 | [[../Entities/Nippon Ceramic Co Ltd\|Nippon Ceramic Co Ltd]] | `6929.T` | ญี่ปุ่น | 1.51% |
+| 9 | [[../Entities/Treasure Factory Co Ltd\|Treasure Factory Co Ltd]] | `3093.T` | ญี่ปุ่น | 1.49% |
+| 10 | [[../Entities/Open Up Group Inc\|Open Up Group Inc]] | `2154.T` | ญี่ปุ่น | 1.48% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

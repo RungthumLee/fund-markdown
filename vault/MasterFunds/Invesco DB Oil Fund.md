@@ -67,10 +67,10 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Invesco Shrt-Trm Inv Gov&Agcy Instl | `AGPXX` | 40.91% |
-| 2 | Invesco Short Term Treasury ETF | `TBLL` | 11.18% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Invesco Shrt-Trm Inv Gov&Agcy Instl\|Invesco Shrt-Trm Inv Gov&Agcy Instl]] | `AGPXX` | สหรัฐฯ | 40.91% |
+| 2 | [[../Entities/Invesco Short Term Treasury ETF\|Invesco Short Term Treasury ETF]] | `TBLL` | สหรัฐฯ | 11.18% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

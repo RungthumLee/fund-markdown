@@ -77,18 +77,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Infineon Technologies AG | `IFX.DE` | 4.49% |
-| 2 | Marvell Technology Inc | `MRVL` | 4.02% |
-| 3 | Zhongji Innolight Co Ltd Class A | `300308.SZ` | 3.62% |
-| 4 | ARM Holdings PLC ADR | `ARM` | 3.60% |
-| 5 | Renesas Electronics Corp | `6723.T` | 3.36% |
-| 6 | Quanta Services Inc | `PWR` | 3.30% |
-| 7 | Delta Electronics Inc | `2308.TW` | 3.15% |
-| 8 | nVent Electric PLC | `NVT` | 3.10% |
-| 9 | Vertiv Holdings Co Class A | `VRT` | 2.90% |
-| 10 | SSE PLC | `SSE.L` | 2.79% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 4.49% |
+| 2 | [[../Entities/MARVELL TECHNOLOGY GROUP LTD\|Marvell Technology Inc]] | `MRVL` | สหรัฐฯ | 4.02% |
+| 3 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | 3.62% |
+| 4 | ARM Holdings PLC ADR | `ARM` | สหรัฐฯ | 3.60% |
+| 5 | Renesas Electronics Corp | `6723.T` | ญี่ปุ่น | 3.36% |
+| 6 | [[../Entities/Quanta Services Inc\|Quanta Services Inc]] | `PWR` | สหรัฐฯ | 3.30% |
+| 7 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 3.15% |
+| 8 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | 3.10% |
+| 9 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | 2.90% |
+| 10 | [[../Entities/SSE PLC\|SSE PLC]] | `SSE.L` | สหราชอาณาจักร | 2.79% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

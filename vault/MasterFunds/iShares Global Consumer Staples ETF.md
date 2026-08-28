@@ -73,18 +73,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Walmart Inc | `WMT` | 8.24% |
-| 2 | Costco Wholesale Corp | `COST` | 7.14% |
-| 3 | Procter & Gamble Co | `PG` | 5.69% |
-| 4 | Coca-Cola Co | `KO` | 4.65% |
-| 5 | Philip Morris International Inc | `PM` | 4.63% |
-| 6 | Nestle SA | `NESN.SW` | 4.45% |
-| 7 | PepsiCo Inc | `PEP` | 4.29% |
-| 8 | Unilever PLC | `ULVR.L` | 3.63% |
-| 9 | British American Tobacco PLC | `BATS.L` | 3.17% |
-| 10 | Altria Group Inc | `MO` | 2.98% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Walmart Inc\|Walmart Inc]] | `WMT` | สหรัฐฯ | 8.24% |
+| 2 | [[../Entities/Costco Wholesale Corp\|Costco Wholesale Corp]] | `COST` | สหรัฐฯ | 7.14% |
+| 3 | [[../Entities/Procter & Gamble Co\|Procter & Gamble Co]] | `PG` | สหรัฐฯ | 5.69% |
+| 4 | [[../Entities/KO US Equity\|Coca-Cola Co]] | `KO` | สหรัฐฯ | 4.65% |
+| 5 | [[../Entities/PM US Equity\|Philip Morris International Inc]] | `PM` | สหรัฐฯ | 4.63% |
+| 6 | [[../Entities/Nestle SA\|Nestle SA]] | `NESN.SW` | สวิตเซอร์แลนด์ | 4.45% |
+| 7 | [[../Entities/PepsiCo Inc\|PepsiCo Inc]] | `PEP` | สหรัฐฯ | 4.29% |
+| 8 | [[../Entities/Unilever PLC\|Unilever PLC]] | `ULVR.L` | สหราชอาณาจักร | 3.63% |
+| 9 | [[../Entities/BATS LN Equity\|British American Tobacco PLC]] | `BATS.L` | สหราชอาณาจักร | 3.17% |
+| 10 | [[../Entities/MO US Equity\|Altria Group Inc]] | `MO` | สหรัฐฯ | 2.98% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

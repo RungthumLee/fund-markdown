@@ -75,18 +75,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | BYD Co Ltd Class H | `01211` | 9.25% |
-| 2 | NIO Inc Class A | `9866.HK` | 6.07% |
-| 3 | Li Auto Inc Ordinary Shares - Class A | `2015.HK` | 5.81% |
-| 4 | XPeng Inc Class A | `9868.HK` | 5.66% |
-| 5 | China Yangtze Power Co Ltd Class A | `600900.SS` | 5.50% |
-| 6 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 5.11% |
-| 7 | Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H | `03750` | 4.58% |
-| 8 | CGN Power Co Ltd Shs -H- Unitary 144A/Reg S | `1816.HK` | 4.31% |
-| 9 | GDS Holdings Ltd Class A | `9698.HK` | 3.85% |
-| 10 | Zhejiang Leapmotor Technology Co Ltd Class H | `9863.HK` | 3.38% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/BYD Co Ltd Class H\|BYD Co Ltd Class H]] | `01211` | - | 9.25% |
+| 2 | [[../Entities/NIO Inc Class A\|NIO Inc Class A]] | `9866.HK` | ฮ่องกง | 6.07% |
+| 3 | Li Auto Inc Ordinary Shares - Class A | `2015.HK` | ฮ่องกง | 5.81% |
+| 4 | XPeng Inc Class A | `9868.HK` | ฮ่องกง | 5.66% |
+| 5 | [[../Entities/China Yangtze Power Co Ltd Class A\|China Yangtze Power Co Ltd Class A]] | `600900.SS` | จีน | 5.50% |
+| 6 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 5.11% |
+| 7 | [[../Entities/Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H\|Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H]] | `03750` | - | 4.58% |
+| 8 | CGN Power Co Ltd Shs -H- Unitary 144A/Reg S | `1816.HK` | ฮ่องกง | 4.31% |
+| 9 | GDS Holdings Ltd Class A | `9698.HK` | ฮ่องกง | 3.85% |
+| 10 | Zhejiang Leapmotor Technology Co Ltd Class H | `9863.HK` | ฮ่องกง | 3.38% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -71,18 +71,18 @@ ticker 200A (Tokyo)
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Kioxia Holdings Corp Ordinary Shares | `285A.T` | 25.15% |
-| 2 | Tokyo Electron Ltd | `8035.T` | 14.95% |
-| 3 | Advantest Corp | `6857.T` | 11.82% |
-| 4 | Renesas Electronics Corp | `6723.T` | 7.05% |
-| 5 | Disco Corp | `6146.T` | 6.63% |
-| 6 | Shin-Etsu Chemical Co Ltd | `4063.T` | 4.03% |
-| 7 | Lasertec Corp | `6920.T` | 3.74% |
-| 8 | JX Advanced Metals Corp | `5016.T` | 3.66% |
-| 9 | Hoya Corp | `7741.T` | 3.10% |
-| 10 | Sony Group Corp | `6758.T` | 2.87% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Kioxia Holdings Corp Ordinary Shares\|Kioxia Holdings Corp Ordinary Shares]] | `285A.T` | ญี่ปุ่น | 25.15% |
+| 2 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 14.95% |
+| 3 | [[../Entities/Advantest Corp\|Advantest Corp]] | `6857.T` | ญี่ปุ่น | 11.82% |
+| 4 | Renesas Electronics Corp | `6723.T` | ญี่ปุ่น | 7.05% |
+| 5 | [[../Entities/Disco Corp\|Disco Corp]] | `6146.T` | ญี่ปุ่น | 6.63% |
+| 6 | [[../Entities/Shin-Etsu Chemical Co Ltd\|Shin-Etsu Chemical Co Ltd]] | `4063.T` | ญี่ปุ่น | 4.03% |
+| 7 | Lasertec Corp | `6920.T` | ญี่ปุ่น | 3.74% |
+| 8 | JX Advanced Metals Corp | `5016.T` | ญี่ปุ่น | 3.66% |
+| 9 | [[../Entities/Hoya Corp\|Hoya Corp]] | `7741.T` | ญี่ปุ่น | 3.10% |
+| 10 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | 2.87% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -81,18 +81,18 @@ ticker NUKZ (NYSE Arca) เปิดปี 2024 โดย Exchange Traded Concep
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Cameco Corp | `CCO.TO` | 7.86% |
-| 2 | GE Vernova Inc | `GEV` | 3.85% |
-| 3 | Endesa SA | `ELE.MC` | 3.76% |
-| 4 | Rolls-Royce Holdings PLC | `RR.L` | 3.73% |
-| 5 | CEZ AS | `CEZ.PR` | 3.58% |
-| 6 | Dominion Energy Inc | `D` | 3.40% |
-| 7 | Samsung C&T Corp | `028260.KQ` | 3.34% |
-| 8 | Talen Energy Corp Ordinary Shares New | `TLN` | 3.18% |
-| 9 | PG&E Corp | `PCG` | 2.97% |
-| 10 | Duke Energy Corp | `DUK` | 2.94% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Cameco Corp\|Cameco Corp]] | `CCO.TO` | แคนาดา | 7.86% |
+| 2 | [[../Entities/GE Vernova Inc\|GE Vernova Inc]] | `GEV` | สหรัฐฯ | 3.85% |
+| 3 | [[../Entities/Endesa SA\|Endesa SA]] | `ELE.MC` | - | 3.76% |
+| 4 | [[../Entities/Rolls-Royce Holdings PLC\|Rolls-Royce Holdings PLC]] | `RR.L` | สหราชอาณาจักร | 3.73% |
+| 5 | [[../Entities/CEZ AS\|CEZ AS]] | `CEZ.PR` | - | 3.58% |
+| 6 | [[../Entities/Dominion Energy Inc\|Dominion Energy Inc]] | `D` | สหรัฐฯ | 3.40% |
+| 7 | [[../Entities/Samsung C&T Corp\|Samsung C&T Corp]] | `028260.KQ` | เกาหลีใต้ | 3.34% |
+| 8 | Talen Energy Corp Ordinary Shares New | `TLN` | สหรัฐฯ | 3.18% |
+| 9 | [[../Entities/PG&E Corp\|PG&E Corp]] | `PCG` | สหรัฐฯ | 2.97% |
+| 10 | [[../Entities/Duke Energy Corp\|Duke Energy Corp]] | `DUK` | สหรัฐฯ | 2.94% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

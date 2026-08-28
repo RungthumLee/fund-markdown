@@ -66,18 +66,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Samsung Electronics Co Ltd | `005930.KQ` | 28.45% |
-| 2 | SK hynix Inc | `000660.KQ` | 15.09% |
-| 3 | SK Square | `402340.KQ` | 4.45% |
-| 4 | Samsung Electronics Co Ltd Participating Preferred | `005935` | 3.55% |
-| 5 | Samsung Electro-Mechanics Co Ltd | `009150.KQ` | 2.97% |
-| 6 | KB Financial Group Inc | `105560.KQ` | 2.77% |
-| 7 | Hyundai Motor Co | `005380.KQ` | 2.40% |
-| 8 | Shinhan Financial Group Co Ltd | `055550.KQ` | 1.94% |
-| 9 | Hana Financial Group Inc | `086790.KQ` | 1.58% |
-| 10 | Kia Corp | `000270.KQ` | 1.43% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 28.45% |
+| 2 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 15.09% |
+| 3 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | 4.45% |
+| 4 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 3.55% |
+| 5 | [[../Entities/Samsung Electro-Mechanics Co Ltd\|Samsung Electro-Mechanics Co Ltd]] | `009150.KQ` | เกาหลีใต้ | 2.97% |
+| 6 | [[../Entities/KB Financial Group Inc\|KB Financial Group Inc]] | `105560.KQ` | เกาหลีใต้ | 2.77% |
+| 7 | [[../Entities/Hyundai Motor Co\|Hyundai Motor Co]] | `005380.KQ` | เกาหลีใต้ | 2.40% |
+| 8 | [[../Entities/Shinhan Financial Group Co Ltd\|Shinhan Financial Group Co Ltd]] | `055550.KQ` | เกาหลีใต้ | 1.94% |
+| 9 | [[../Entities/Hana Financial Group Inc\|Hana Financial Group Inc]] | `086790.KQ` | เกาหลีใต้ | 1.58% |
+| 10 | [[../Entities/Kia Corp\|Kia Corp]] | `000270.KQ` | เกาหลีใต้ | 1.43% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

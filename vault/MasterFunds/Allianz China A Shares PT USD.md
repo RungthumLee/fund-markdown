@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Zhongji Innolight Co Ltd Class A | `300308.SZ` | 5.55% |
-| 2 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 5.07% |
-| 3 | Suzhou Dongshan Precision Manufacturing Co Ltd Class A | `002384.SZ` | 3.68% |
-| 4 | Shengyi Technology Co Ltd Class A | `600183.SS` | 3.61% |
-| 5 | Advanced Micro-fabrication Equipment Inc Class A | `688012.SS` | 3.56% |
-| 6 | NAURA Technology Group Co Ltd Class A | `002371.SZ` | 3.36% |
-| 7 | Montage Technology Co Ltd Class A | `688008.SS` | 3.29% |
-| 8 | Zijin Mining Group Co Ltd Class A | `601899.SS` | 3.16% |
-| 9 | CITIC Securities Co Ltd Class A | `600030.SS` | 3.15% |
-| 10 | Wus Printed Circuit (Kunshan) Co Ltd Class A | `002463.SZ` | 2.83% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Zhongji Innolight Co Ltd Class A\|Zhongji Innolight Co Ltd Class A]] | `300308.SZ` | จีน | 5.55% |
+| 2 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 5.07% |
+| 3 | [[../Entities/Suzhou Dongshan Precision Manufacturing Co Ltd Class A\|Suzhou Dongshan Precision Manufacturing Co Ltd Class A]] | `002384.SZ` | จีน | 3.68% |
+| 4 | [[../Entities/Shengyi Technology Co Ltd Class A\|Shengyi Technology Co Ltd Class A]] | `600183.SS` | จีน | 3.61% |
+| 5 | [[../Entities/Advanced Micro-fabrication Equipment Inc Class A\|Advanced Micro-fabrication Equipment Inc Class A]] | `688012.SS` | จีน | 3.56% |
+| 6 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | 3.36% |
+| 7 | [[../Entities/Montage Technology Co Ltd Class A\|Montage Technology Co Ltd Class A]] | `688008.SS` | จีน | 3.29% |
+| 8 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | 3.16% |
+| 9 | [[../Entities/CITIC Securities Co Ltd Class A\|CITIC Securities Co Ltd Class A]] | `600030.SS` | จีน | 3.15% |
+| 10 | [[../Entities/Wus Printed Circuit (Kunshan) Co Ltd Class A\|Wus Printed Circuit (Kunshan) Co Ltd Class A]] | `002463.SZ` | จีน | 2.83% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

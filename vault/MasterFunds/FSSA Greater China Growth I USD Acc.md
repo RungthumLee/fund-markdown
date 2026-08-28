@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 9.78% |
-| 2 | MediaTek Inc | `2454.TW` | 6.89% |
-| 3 | Tencent Holdings Ltd | `0700.HK` | 5.93% |
-| 4 | Silergy Corp | `6415.TW` | 4.68% |
-| 5 | Realtek Semiconductor Corp | `2379.TW` | 4.12% |
-| 6 | Delta Electronics Inc | `2308.TW` | 3.85% |
-| 7 | H World Group Ltd Ordinary Shares | `1179.HK` | 3.61% |
-| 8 | Tripod Technology Corp | `3044.TW` | 3.27% |
-| 9 | PDD Holdings Inc ADR | `PDD` | 3.23% |
-| 10 | AIA Group Ltd | `1299.HK` | 3.13% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.78% |
+| 2 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 6.89% |
+| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 5.93% |
+| 4 | [[../Entities/Silergy Corp\|Silergy Corp]] | `6415.TW` | ไต้หวัน | 4.68% |
+| 5 | [[../Entities/Realtek Semiconductor Corp\|Realtek Semiconductor Corp]] | `2379.TW` | ไต้หวัน | 4.12% |
+| 6 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 3.85% |
+| 7 | [[../Entities/H World Group Ltd Ordinary Shares\|H World Group Ltd Ordinary Shares]] | `1179.HK` | ฮ่องกง | 3.61% |
+| 8 | [[../Entities/Tripod Technology Corp\|Tripod Technology Corp]] | `3044.TW` | ไต้หวัน | 3.27% |
+| 9 | [[../Entities/PDD Holdings Inc ADR\|PDD Holdings Inc ADR]] | `PDD` | สหรัฐฯ | 3.23% |
+| 10 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | 3.13% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

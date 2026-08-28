@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 6.44% |
-| 2 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 6.41% |
-| 3 | Viking Holdings Ltd | `VIK` | 4.06% |
-| 4 | Alignment Healthcare Inc | `ALHC` | 3.84% |
-| 5 | 3i Group Ord | `III.L` | 3.75% |
-| 6 | Microsoft Corp | `MSFT` | 3.62% |
-| 7 | Rosebank Industries PLC Ordinary Shares | `ROSE.L` | 3.61% |
-| 8 | APi Group Corp | `APG` | 3.57% |
-| 9 | London Stock Exchange Group PLC | `LSEG.L` | 3.45% |
-| 10 | XPO Inc | `XPO` | 3.45% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 6.44% |
+| 2 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 6.41% |
+| 3 | [[../Entities/Viking Holdings Ltd\|Viking Holdings Ltd]] | `VIK` | สหรัฐฯ | 4.06% |
+| 4 | [[../Entities/Alignment Healthcare Inc\|Alignment Healthcare Inc]] | `ALHC` | สหรัฐฯ | 3.84% |
+| 5 | [[../Entities/3i Group Ord\|3i Group Ord]] | `III.L` | สหราชอาณาจักร | 3.75% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.62% |
+| 7 | [[../Entities/Rosebank Industries PLC Ordinary Shares\|Rosebank Industries PLC Ordinary Shares]] | `ROSE.L` | สหราชอาณาจักร | 3.61% |
+| 8 | [[../Entities/APi Group Corp\|APi Group Corp]] | `APG` | สหรัฐฯ | 3.57% |
+| 9 | [[../Entities/London Stock Exchange Group PLC\|London Stock Exchange Group PLC]] | `LSEG.L` | สหราชอาณาจักร | 3.45% |
+| 10 | [[../Entities/XPO Inc\|XPO Inc]] | `XPO` | สหรัฐฯ | 3.45% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

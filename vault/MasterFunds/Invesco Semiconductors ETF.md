@@ -70,18 +70,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Applied Materials Inc | `AMAT` | 6.63% |
-| 2 | Advanced Micro Devices Inc | `AMD` | 5.62% |
-| 3 | NVIDIA Corp | `NVDA` | 5.55% |
-| 4 | Micron Technology Inc | `MU` | 5.46% |
-| 5 | KLA Corp | `KLAC` | 5.40% |
-| 6 | Lam Research Corp | `LRCX` | 5.40% |
-| 7 | Analog Devices Inc | `ADI` | 5.20% |
-| 8 | Intel Corp | `INTC` | 4.34% |
-| 9 | Ichor Holdings Ltd | `ICHR` | 3.35% |
-| 10 | Cohu Inc | `COHU` | 3.12% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 6.63% |
+| 2 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 5.62% |
+| 3 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.55% |
+| 4 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 5.46% |
+| 5 | [[../Entities/KLA Corp\|KLA Corp]] | `KLAC` | สหรัฐฯ | 5.40% |
+| 6 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 5.40% |
+| 7 | Analog Devices Inc | `ADI` | สหรัฐฯ | 5.20% |
+| 8 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | 4.34% |
+| 9 | Ichor Holdings Ltd | `ICHR` | สหรัฐฯ | 3.35% |
+| 10 | Cohu Inc | `COHU` | สหรัฐฯ | 3.12% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

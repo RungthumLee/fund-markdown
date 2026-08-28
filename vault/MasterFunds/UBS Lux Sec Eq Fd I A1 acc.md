@@ -77,18 +77,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Palo Alto Networks Inc | `PANW` | 3.82% |
-| 2 | CrowdStrike Holdings Inc Class A | `CRWD` | 3.53% |
-| 3 | Cloudflare Inc | `NET` | 3.35% |
-| 4 | Diploma PLC | `DPLM.L` | 3.33% |
-| 5 | Halma PLC | `HLMA.L` | 3.06% |
-| 6 | Fortinet Inc | `FTNT` | 2.82% |
-| 7 | Thermo Fisher Scientific Inc | `TMO` | 2.65% |
-| 8 | Clean Harbors Inc | `CLH` | 2.65% |
-| 9 | West Pharmaceutical Services Inc | `WST` | 2.63% |
-| 10 | IDEXX Laboratories Inc | `IDXX` | 2.61% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Palo Alto Networks Inc\|Palo Alto Networks Inc]] | `PANW` | สหรัฐฯ | 3.82% |
+| 2 | [[../Entities/CrowdStrike Holdings Inc Class A\|CrowdStrike Holdings Inc Class A]] | `CRWD` | สหรัฐฯ | 3.53% |
+| 3 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 3.35% |
+| 4 | [[../Entities/Diploma PLC\|Diploma PLC]] | `DPLM.L` | สหราชอาณาจักร | 3.33% |
+| 5 | [[../Entities/Halma PLC\|Halma PLC]] | `HLMA.L` | สหราชอาณาจักร | 3.06% |
+| 6 | [[../Entities/Fortinet Inc\|Fortinet Inc]] | `FTNT` | สหรัฐฯ | 2.82% |
+| 7 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | 2.65% |
+| 8 | [[../Entities/Clean Harbors Inc\|Clean Harbors Inc]] | `CLH` | สหรัฐฯ | 2.65% |
+| 9 | West Pharmaceutical Services Inc | `WST` | สหรัฐฯ | 2.63% |
+| 10 | [[../Entities/IDEXX Laboratories Inc\|IDEXX Laboratories Inc]] | `IDXX` | สหรัฐฯ | 2.61% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

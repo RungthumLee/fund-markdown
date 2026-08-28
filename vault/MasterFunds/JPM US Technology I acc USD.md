@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class C | `GOOG` | 4.50% |
-| 2 | Palo Alto Networks Inc | `PANW` | 4.09% |
-| 3 | Broadcom Inc | `AVGO` | 4.08% |
-| 4 | Take-Two Interactive Software Inc | `TTWO` | 3.96% |
-| 5 | NVIDIA Corp | `NVDA` | 3.77% |
-| 6 | Microsoft Corp | `MSFT` | 3.20% |
-| 7 | Snowflake Inc Ordinary Shares | `SNOW` | 3.19% |
-| 8 | CrowdStrike Holdings Inc Class A | `CRWD` | 3.09% |
-| 9 | Intel Corp | `INTC` | 2.90% |
-| 10 | Cloudflare Inc | `NET` | 2.86% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 4.50% |
+| 2 | [[../Entities/Palo Alto Networks Inc\|Palo Alto Networks Inc]] | `PANW` | สหรัฐฯ | 4.09% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 4.08% |
+| 4 | [[../Entities/Take-Two Interactive Software Inc\|Take-Two Interactive Software Inc]] | `TTWO` | สหรัฐฯ | 3.96% |
+| 5 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 3.77% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.20% |
+| 7 | [[../Entities/Snowflake Inc Ordinary Shares\|Snowflake Inc Ordinary Shares]] | `SNOW` | สหรัฐฯ | 3.19% |
+| 8 | [[../Entities/CrowdStrike Holdings Inc Class A\|CrowdStrike Holdings Inc Class A]] | `CRWD` | สหรัฐฯ | 3.09% |
+| 9 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | 2.90% |
+| 10 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 2.86% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

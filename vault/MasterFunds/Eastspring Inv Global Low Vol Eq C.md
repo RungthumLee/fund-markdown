@@ -76,18 +76,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | United Microelectronics Corp | `2303.TW` | 2.95% |
-| 2 | Johnson & Johnson | `JNJ` | 2.69% |
-| 3 | Merck & Co Inc | `MRK` | 2.47% |
-| 4 | RTX Corp | `RTX` | 2.44% |
-| 5 | Gen Digital Inc | `GEN` | 2.01% |
-| 6 | Alphabet Inc Class A | `GOOGL` | 1.97% |
-| 7 | Welltower Inc | `WELL` | 1.94% |
-| 8 | AbbVie Inc | `ABBV` | 1.94% |
-| 9 | Exxon Mobil Corp | `XOM` | 1.82% |
-| 10 | Marketech International Corp | `6196.TW` | 1.80% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/United Microelectronics Corp\|United Microelectronics Corp]] | `2303.TW` | ไต้หวัน | 2.95% |
+| 2 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 2.69% |
+| 3 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 2.47% |
+| 4 | [[../Entities/RTX Corp\|RTX Corp]] | `RTX` | สหรัฐฯ | 2.44% |
+| 5 | Gen Digital Inc | `GEN` | สหรัฐฯ | 2.01% |
+| 6 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 1.97% |
+| 7 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | 1.94% |
+| 8 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | 1.94% |
+| 9 | [[../Entities/ExxonMobil Holdings Corp\|Exxon Mobil Corp]] | `XOM` | สหรัฐฯ | 1.82% |
+| 10 | [[../Entities/Marketech International Corp\|Marketech International Corp]] | `6196.TW` | ไต้หวัน | 1.80% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

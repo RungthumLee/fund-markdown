@@ -80,18 +80,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 9.89% |
-| 2 | SK Hynix Inc | `000660.KQ` | 9.22% |
-| 3 | Tokyo Electron Ltd | `8035.T` | 5.05% |
-| 4 | NAURA Technology Group Co Ltd Class A | `002371.SZ` | 4.01% |
-| 5 | Delta Electronics Inc | `2308.TW` | 3.71% |
-| 6 | Samsung Electro-Mechanics Co Ltd | `009150.KQ` | 3.34% |
-| 7 | ALS Ltd | `ALQ.AX` | 3.24% |
-| 8 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 3.22% |
-| 9 | Hoya Corp | `7741.T` | 3.13% |
-| 10 | Keyence Corp | `6861.T` | 2.90% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.89% |
+| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 9.22% |
+| 3 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 5.05% |
+| 4 | [[../Entities/NAURA Technology Group Co Ltd Class A\|NAURA Technology Group Co Ltd Class A]] | `002371.SZ` | จีน | 4.01% |
+| 5 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 3.71% |
+| 6 | [[../Entities/Samsung Electro-Mechanics Co Ltd\|Samsung Electro-Mechanics Co Ltd]] | `009150.KQ` | เกาหลีใต้ | 3.34% |
+| 7 | [[../Entities/ALS Ltd\|ALS Ltd]] | `ALQ.AX` | ออสเตรเลีย | 3.24% |
+| 8 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 3.22% |
+| 9 | [[../Entities/Hoya Corp\|Hoya Corp]] | `7741.T` | ญี่ปุ่น | 3.13% |
+| 10 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 2.90% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

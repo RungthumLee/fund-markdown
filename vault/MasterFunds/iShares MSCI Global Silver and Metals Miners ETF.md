@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Hecla Mining Co | `HL` | 13.07% |
-| 2 | Industrias Penoles SAB de CV | `PE&OLES.MX` | 11.89% |
-| 3 | First Majestic Silver Corp | `AG.TO` | 9.64% |
-| 4 | Fresnillo PLC | `FRES.L` | 8.56% |
-| 5 | Aya Gold & Silver Inc | `AYA.TO` | 5.27% |
-| 6 | Discovery Mining Ltd | `DSV.TO` | 5.24% |
-| 7 | Newmont Corp | `NEM` | 4.66% |
-| 8 | Agnico Eagle Mines Ltd | `AEM.TO` | 4.45% |
-| 9 | Wheaton Precious Metals Corp | `WPM.TO` | 4.29% |
-| 10 | Endeavour Silver Corp | `EXK` | 3.91% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Hecla Mining Co\|Hecla Mining Co]] | `HL` | สหรัฐฯ | 13.07% |
+| 2 | [[../Entities/Industrias Penoles SAB de CV\|Industrias Penoles SAB de CV]] | `PE&OLES.MX` | - | 11.89% |
+| 3 | [[../Entities/First Majestic Silver Corp\|First Majestic Silver Corp]] | `AG.TO` | แคนาดา | 9.64% |
+| 4 | [[../Entities/Fresnillo PLC\|Fresnillo PLC]] | `FRES.L` | สหราชอาณาจักร | 8.56% |
+| 5 | [[../Entities/Aya Gold & Silver Inc\|Aya Gold & Silver Inc]] | `AYA.TO` | แคนาดา | 5.27% |
+| 6 | [[../Entities/Discovery Mining Ltd\|Discovery Mining Ltd]] | `DSV.TO` | แคนาดา | 5.24% |
+| 7 | [[../Entities/NEM US Equity\|Newmont Corp]] | `NEM` | สหรัฐฯ | 4.66% |
+| 8 | [[../Entities/AEM CN Equity\|Agnico Eagle Mines Ltd]] | `AEM.TO` | แคนาดา | 4.45% |
+| 9 | [[../Entities/WPM CN Equity\|Wheaton Precious Metals Corp]] | `WPM.TO` | แคนาดา | 4.29% |
+| 10 | [[../Entities/Endeavour Silver Corp\|Endeavour Silver Corp]] | `EXK` | สหรัฐฯ | 3.91% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

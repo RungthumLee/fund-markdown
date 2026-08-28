@@ -76,18 +76,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Eli Lilly and Co | `LLY` | 9.69% |
-| 2 | Johnson & Johnson | `JNJ` | 6.77% |
-| 3 | UnitedHealth Group Inc | `UNH` | 4.21% |
-| 4 | AstraZeneca PLC | `AZN.L` | 4.19% |
-| 5 | AbbVie Inc | `ABBV` | 3.94% |
-| 6 | Revolution Medicines Inc Ordinary Shares | `RVMD` | 3.14% |
-| 7 | Novartis AG ADR | `NVS` | 2.68% |
-| 8 | argenx SE ADR | `ARGX` | 2.61% |
-| 9 | Praxis Precision Medicines Inc Ordinary Shares | `PRAX` | 2.43% |
-| 10 | Thermo Fisher Scientific Inc | `TMO` | 2.42% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 9.69% |
+| 2 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 6.77% |
+| 3 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 4.21% |
+| 4 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 4.19% |
+| 5 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | 3.94% |
+| 6 | [[../Entities/Revolution Medicines Inc Ordinary Shares\|Revolution Medicines Inc Ordinary Shares]] | `RVMD` | สหรัฐฯ | 3.14% |
+| 7 | [[../Entities/Novartis AG ADR\|Novartis AG ADR]] | `NVS` | สหรัฐฯ | 2.68% |
+| 8 | [[../Entities/argenx SE ADR\|argenx SE ADR]] | `ARGX` | สหรัฐฯ | 2.61% |
+| 9 | [[../Entities/Praxis Precision Medicines Inc Ordinary Shares\|Praxis Precision Medicines Inc Ordinary Shares]] | `PRAX` | สหรัฐฯ | 2.43% |
+| 10 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | 2.42% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

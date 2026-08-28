@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 8.12% |
-| 2 | Alphabet Inc Class A | `GOOGL` | 6.23% |
-| 3 | Samsung Electronics Co Ltd | `005930.KQ` | 4.38% |
-| 4 | Galderma Group AG Registered Shares | `GALD.SW` | 4.24% |
-| 5 | Amazon.com Inc | `AMZN` | 4.03% |
-| 6 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 3.85% |
-| 7 | Industria De Diseno Textil SA Share From Split | `ITX.MC` | 3.51% |
-| 8 | Microsoft Corp | `MSFT` | 3.15% |
-| 9 | Mastercard Inc Class A | `MA` | 2.61% |
-| 10 | Apple Inc | `AAPL` | 2.55% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.12% |
+| 2 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 6.23% |
+| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 4.38% |
+| 4 | [[../Entities/Galderma Group AG Registered Shares\|Galderma Group AG Registered Shares]] | `GALD.SW` | สวิตเซอร์แลนด์ | 4.24% |
+| 5 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.03% |
+| 6 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 3.85% |
+| 7 | [[../Entities/Industria De Diseno Textil SA Share From Split\|Industria De Diseno Textil SA Share From Split]] | `ITX.MC` | - | 3.51% |
+| 8 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.15% |
+| 9 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 2.61% |
+| 10 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 2.55% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

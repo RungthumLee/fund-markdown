@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Microsoft Corp | `MSFT` | 5.82% |
-| 2 | Apple Inc | `AAPL` | 5.40% |
-| 3 | NVIDIA Corp | `NVDA` | 4.76% |
-| 4 | Visa Inc Class A | `V` | 3.50% |
-| 5 | Meta Platforms Inc Class A | `META` | 3.24% |
-| 6 | ASML Holding NV | `ASML.AS` | 2.96% |
-| 7 | Eli Lilly and Co | `LLY` | 2.50% |
-| 8 | TJX Companies Inc | `TJX` | 2.26% |
-| 9 | Mastercard Inc Class A | `MA` | 2.05% |
-| 10 | Lam Research Corp | `LRCX` | 1.90% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.82% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 5.40% |
+| 3 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.76% |
+| 4 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 3.50% |
+| 5 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 3.24% |
+| 6 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 2.96% |
+| 7 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 2.50% |
+| 8 | [[../Entities/TJX Companies Inc\|TJX Companies Inc]] | `TJX` | สหรัฐฯ | 2.26% |
+| 9 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 2.05% |
+| 10 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 1.90% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

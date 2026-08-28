@@ -82,18 +82,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Micron Technology Inc | `MU` | 9.51% |
-| 2 | NVIDIA Corp | `NVDA` | 8.41% |
-| 3 | Broadcom Inc | `AVGO` | 6.91% |
-| 4 | Alphabet Inc Class A | `GOOGL` | 4.71% |
-| 5 | Johnson & Johnson | `JNJ` | 4.58% |
-| 6 | Advanced Micro Devices Inc | `AMD` | 4.00% |
-| 7 | Alphabet Inc Class C | `GOOG` | 3.78% |
-| 8 | Lam Research Corp | `LRCX` | 3.41% |
-| 9 | ExxonMobil Holdings Corp | `XOM` | 3.11% |
-| 10 | Caterpillar Inc | `CAT` | 2.53% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 9.51% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.41% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 6.91% |
+| 4 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.71% |
+| 5 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 4.58% |
+| 6 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.00% |
+| 7 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 3.78% |
+| 8 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 3.41% |
+| 9 | [[../Entities/ExxonMobil Holdings Corp\|ExxonMobil Holdings Corp]] | `XOM` | สหรัฐฯ | 3.11% |
+| 10 | [[../Entities/CATERPILLAR INC\|Caterpillar Inc]] | `CAT` | สหรัฐฯ | 2.53% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

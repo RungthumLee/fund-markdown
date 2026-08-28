@@ -75,18 +75,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Expedia Group Inc | `EXPE` | 6.10% |
-| 2 | Viking Holdings Ltd | `VIK` | 5.48% |
-| 3 | Airbnb Inc Ordinary Shares - Class A | `ABNB` | 5.27% |
-| 4 | Sysco Corp | `SYY` | 5.22% |
-| 5 | Starbucks Corp | `SBUX` | 4.78% |
-| 6 | Marriott International Inc Class A | `MAR` | 4.60% |
-| 7 | Hilton Worldwide Holdings Inc | `HLT` | 4.56% |
-| 8 | Las Vegas Sands Corp | `LVS` | 4.53% |
-| 9 | Tripadvisor Inc | `TRIP` | 3.55% |
-| 10 | Lindblad Expeditions Holdings Inc | `LIND` | 3.48% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Expedia Group Inc\|Expedia Group Inc]] | `EXPE` | สหรัฐฯ | 6.10% |
+| 2 | [[../Entities/Viking Holdings Ltd\|Viking Holdings Ltd]] | `VIK` | สหรัฐฯ | 5.48% |
+| 3 | [[../Entities/Airbnb Inc Ordinary Shares - Class A\|Airbnb Inc Ordinary Shares - Class A]] | `ABNB` | สหรัฐฯ | 5.27% |
+| 4 | Sysco Corp | `SYY` | สหรัฐฯ | 5.22% |
+| 5 | Starbucks Corp | `SBUX` | สหรัฐฯ | 4.78% |
+| 6 | [[../Entities/Marriott International Inc Class A\|Marriott International Inc Class A]] | `MAR` | สหรัฐฯ | 4.60% |
+| 7 | [[../Entities/Hilton Worldwide Holdings Inc\|Hilton Worldwide Holdings Inc]] | `HLT` | สหรัฐฯ | 4.56% |
+| 8 | Las Vegas Sands Corp | `LVS` | สหรัฐฯ | 4.53% |
+| 9 | Tripadvisor Inc | `TRIP` | สหรัฐฯ | 3.55% |
+| 10 | Lindblad Expeditions Holdings Inc | `LIND` | สหรัฐฯ | 3.48% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -68,18 +68,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Viasat Inc | `VSAT` | 9.72% |
-| 2 | AST SpaceMobile Inc Ordinary Shares - Class A | `ASTS` | 7.00% |
-| 3 | Globalstar Inc | `GSAT` | 6.72% |
-| 4 | EchoStar Corp Class A | `ECHO` | 6.62% |
-| 5 | Rocket Lab Corp | `RKLB` | 6.41% |
-| 6 | Iridium Communications Inc | `IRDM` | 6.05% |
-| 7 | Melrose Industries PLC | `MRO.L` | 5.93% |
-| 8 | MDA Space Ltd | `MDA.TO` | 5.71% |
-| 9 | Planet Labs PBC Class A | `PL` | 5.61% |
-| 10 | WNC Corp | `6285.TW` | 4.70% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Viasat Inc\|Viasat Inc]] | `VSAT` | สหรัฐฯ | 9.72% |
+| 2 | [[../Entities/AST SpaceMobile Inc Ordinary Shares - Class A\|AST SpaceMobile Inc Ordinary Shares - Class A]] | `ASTS` | สหรัฐฯ | 7.00% |
+| 3 | [[../Entities/Globalstar Inc\|Globalstar Inc]] | `GSAT` | สหรัฐฯ | 6.72% |
+| 4 | [[../Entities/EchoStar Corp Class A\|EchoStar Corp Class A]] | `ECHO` | สหรัฐฯ | 6.62% |
+| 5 | [[../Entities/Rocket Lab Corp\|Rocket Lab Corp]] | `RKLB` | สหรัฐฯ | 6.41% |
+| 6 | [[../Entities/Iridium Communications Inc\|Iridium Communications Inc]] | `IRDM` | สหรัฐฯ | 6.05% |
+| 7 | Melrose Industries PLC | `MRO.L` | สหราชอาณาจักร | 5.93% |
+| 8 | [[../Entities/MDA Space Ltd\|MDA Space Ltd]] | `MDA.TO` | แคนาดา | 5.71% |
+| 9 | [[../Entities/Planet Labs PBC Class A\|Planet Labs PBC Class A]] | `PL` | สหรัฐฯ | 5.61% |
+| 10 | WNC Corp | `6285.TW` | ไต้หวัน | 4.70% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

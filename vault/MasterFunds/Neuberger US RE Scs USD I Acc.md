@@ -74,18 +74,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Welltower Inc | `WELL` | 9.55% |
-| 2 | Equinix Inc | `EQIX` | 9.23% |
-| 3 | Prologis Inc | `PLD` | 8.49% |
-| 4 | American Tower Corp | `AMT` | 6.30% |
-| 5 | Digital Realty Trust Inc | `DLR` | 5.67% |
-| 6 | Ventas Inc | `VTR` | 4.14% |
-| 7 | AvalonBay Communities Inc | `AVB` | 3.98% |
-| 8 | Simon Property Group Inc | `SPG` | 3.94% |
-| 9 | Iron Mountain Inc | `IRM` | 3.54% |
-| 10 | SBA Communications Corp Class A | `SBAC` | 3.31% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | 9.55% |
+| 2 | [[../Entities/EQIX US Equity\|Equinix Inc]] | `EQIX` | สหรัฐฯ | 9.23% |
+| 3 | [[../Entities/PLD US Equity\|Prologis Inc]] | `PLD` | สหรัฐฯ | 8.49% |
+| 4 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | 6.30% |
+| 5 | [[../Entities/Digital Realty\|Digital Realty Trust Inc]] | `DLR` | สหรัฐฯ | 5.67% |
+| 6 | [[../Entities/VENTAS, INC\|Ventas Inc]] | `VTR` | สหรัฐฯ | 4.14% |
+| 7 | AvalonBay Communities Inc | `AVB` | สหรัฐฯ | 3.98% |
+| 8 | [[../Entities/SPG US Equity\|Simon Property Group Inc]] | `SPG` | สหรัฐฯ | 3.94% |
+| 9 | [[../Entities/Iron Mountain Inc\|Iron Mountain Inc]] | `IRM` | สหรัฐฯ | 3.54% |
+| 10 | [[../Entities/SBA Communications Corp Class A\|SBA Communications Corp Class A]] | `SBAC` | สหรัฐฯ | 3.31% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

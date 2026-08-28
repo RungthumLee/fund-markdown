@@ -74,18 +74,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Snowflake Inc Ordinary Shares | `SNOW` | 7.04% |
-| 2 | Datadog Inc Class A | `DDOG` | 6.64% |
-| 3 | Cloudflare Inc | `NET` | 4.47% |
-| 4 | Twilio Inc Class A | `TWLO` | 4.36% |
-| 5 | Workday Inc Class A | `WDAY` | 4.28% |
-| 6 | Paycom Software Inc | `PAYC` | 4.24% |
-| 7 | ServiceNow Inc | `NOW` | 4.12% |
-| 8 | DigitalOcean Holdings Inc | `DOCN` | 3.99% |
-| 9 | Zscaler Inc | `ZS` | 3.78% |
-| 10 | Dropbox Inc Class A | `DBX` | 3.66% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Snowflake Inc Ordinary Shares\|Snowflake Inc Ordinary Shares]] | `SNOW` | สหรัฐฯ | 7.04% |
+| 2 | [[../Entities/Datadog Inc Class A\|Datadog Inc Class A]] | `DDOG` | สหรัฐฯ | 6.64% |
+| 3 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 4.47% |
+| 4 | [[../Entities/Twilio Inc Class A\|Twilio Inc Class A]] | `TWLO` | สหรัฐฯ | 4.36% |
+| 5 | Workday Inc Class A | `WDAY` | สหรัฐฯ | 4.28% |
+| 6 | Paycom Software Inc | `PAYC` | สหรัฐฯ | 4.24% |
+| 7 | [[../Entities/ServiceNow Inc\|ServiceNow Inc]] | `NOW` | สหรัฐฯ | 4.12% |
+| 8 | [[../Entities/DIGITALOCEAN HOLDINGS INC\|DigitalOcean Holdings Inc]] | `DOCN` | สหรัฐฯ | 3.99% |
+| 9 | [[../Entities/Zscaler Inc\|Zscaler Inc]] | `ZS` | สหรัฐฯ | 3.78% |
+| 10 | Dropbox Inc Class A | `DBX` | สหรัฐฯ | 3.66% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

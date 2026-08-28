@@ -61,18 +61,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 11.14% |
-| 2 | ASML Holding NV ADR | `ASML` | 9.82% |
-| 3 | Applied Materials Inc | `AMAT` | 6.74% |
-| 4 | Lam Research Corp | `LRCX` | 5.96% |
-| 5 | KLA Corp | `KLAC` | 4.85% |
-| 6 | Corning Inc | `GLW` | 4.28% |
-| 7 | Lumentum Holdings Inc | `LITE` | 3.79% |
-| 8 | Ciena Corp | `CIEN` | 3.34% |
-| 9 | Coherent Corp | `COHR` | 3.26% |
-| 10 | Credo Technology Group Holding Ltd | `CRDO` | 3.11% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 11.14% |
+| 2 | [[../Entities/ASML Holding NV ADR\|ASML Holding NV ADR]] | `ASML` | สหรัฐฯ | 9.82% |
+| 3 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 6.74% |
+| 4 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 5.96% |
+| 5 | [[../Entities/KLA Corp\|KLA Corp]] | `KLAC` | สหรัฐฯ | 4.85% |
+| 6 | [[../Entities/Corning Inc\|Corning Inc]] | `GLW` | สหรัฐฯ | 4.28% |
+| 7 | [[../Entities/Lumentum Holdings Inc\|Lumentum Holdings Inc]] | `LITE` | สหรัฐฯ | 3.79% |
+| 8 | [[../Entities/Ciena Corp\|Ciena Corp]] | `CIEN` | สหรัฐฯ | 3.34% |
+| 9 | [[../Entities/Coherent Corp\|Coherent Corp]] | `COHR` | สหรัฐฯ | 3.26% |
+| 10 | [[../Entities/Credo Technology Group Holding Ltd\|Credo Technology Group Holding Ltd]] | `CRDO` | สหรัฐฯ | 3.11% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -50,18 +50,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Palo Alto Networks Inc | `PANW` | 9.15% |
-| 2 | Fortinet Inc | `FTNT` | 9.12% |
-| 3 | CrowdStrike Holdings Inc Class A | `CRWD` | 8.11% |
-| 4 | Cisco Systems Inc | `CSCO` | 7.48% |
-| 5 | Broadcom Inc | `AVGO` | 6.77% |
-| 6 | Cloudflare Inc | `NET` | 4.48% |
-| 7 | Okta Inc Class A | `OKTA` | 4.08% |
-| 8 | F5 Inc | `FFIV` | 3.68% |
-| 9 | Zscaler Inc | `ZS` | 3.64% |
-| 10 | Akamai Technologies Inc | `AKAM` | 2.99% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Palo Alto Networks Inc\|Palo Alto Networks Inc]] | `PANW` | สหรัฐฯ | 9.15% |
+| 2 | [[../Entities/Fortinet Inc\|Fortinet Inc]] | `FTNT` | สหรัฐฯ | 9.12% |
+| 3 | [[../Entities/CrowdStrike Holdings Inc Class A\|CrowdStrike Holdings Inc Class A]] | `CRWD` | สหรัฐฯ | 8.11% |
+| 4 | [[../Entities/CISCO SYSTEMS, INC\|Cisco Systems Inc]] | `CSCO` | สหรัฐฯ | 7.48% |
+| 5 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 6.77% |
+| 6 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 4.48% |
+| 7 | [[../Entities/Okta Inc Class A\|Okta Inc Class A]] | `OKTA` | สหรัฐฯ | 4.08% |
+| 8 | [[../Entities/F5 Inc\|F5 Inc]] | `FFIV` | สหรัฐฯ | 3.68% |
+| 9 | [[../Entities/Zscaler Inc\|Zscaler Inc]] | `ZS` | สหรัฐฯ | 3.64% |
+| 10 | [[../Entities/Akamai Technologies Inc\|Akamai Technologies Inc]] | `AKAM` | สหรัฐฯ | 2.99% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

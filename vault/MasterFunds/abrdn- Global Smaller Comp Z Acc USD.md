@@ -83,17 +83,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Wintrust Financial Corp | `WTFC` | 4.76% |
-| 2 | Lattice Semiconductor Corp | `LSCC` | 3.77% |
-| 3 | Encompass Health Corp | `EHC` | 3.74% |
-| 4 | Gaztransport et technigaz SA | `GTT.PA` | 3.67% |
-| 5 | Casey's General Stores Inc | `CASY` | 3.57% |
-| 6 | SharkNinja Inc | `SN` | 3.48% |
-| 7 | ALS Ltd | `ALQ.AX` | 2.76% |
-| 8 | Ligand Pharmaceuticals Inc | `LGND` | 2.68% |
-| 9 | Advanced Drainage Systems Inc | `WMS` | 2.66% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Wintrust Financial Corp\|Wintrust Financial Corp]] | `WTFC` | สหรัฐฯ | 4.76% |
+| 2 | Lattice Semiconductor Corp | `LSCC` | สหรัฐฯ | 3.77% |
+| 3 | Encompass Health Corp | `EHC` | สหรัฐฯ | 3.74% |
+| 4 | [[../Entities/Gaztransport et technigaz SA\|Gaztransport et technigaz SA]] | `GTT.PA` | ฝรั่งเศส | 3.67% |
+| 5 | [[../Entities/Casey's General Stores Inc\|Casey's General Stores Inc]] | `CASY` | สหรัฐฯ | 3.57% |
+| 6 | SharkNinja Inc | `SN` | สหรัฐฯ | 3.48% |
+| 7 | [[../Entities/ALS Ltd\|ALS Ltd]] | `ALQ.AX` | ออสเตรเลีย | 2.76% |
+| 8 | [[../Entities/Ligand Pharmaceuticals Inc\|Ligand Pharmaceuticals Inc]] | `LGND` | สหรัฐฯ | 2.68% |
+| 9 | Advanced Drainage Systems Inc | `WMS` | สหรัฐฯ | 2.66% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

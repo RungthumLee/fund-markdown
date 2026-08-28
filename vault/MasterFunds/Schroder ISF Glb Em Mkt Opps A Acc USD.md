@@ -79,17 +79,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 9.84% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 9.37% |
-| 3 | SK Hynix Inc | `000660.KQ` | 9.30% |
-| 4 | Tencent Holdings Ltd | `0700.HK` | 4.47% |
-| 5 | Hon Hai Precision Industry Co Ltd | `2317.TW` | 2.69% |
-| 6 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 2.10% |
-| 7 | Montage Technology Co Ltd Class A | `688008.SS` | 1.97% |
-| 8 | Unimicron Technology Corp | `3037.TW` | 1.91% |
-| 9 | ASE Technology Holding Co Ltd | `3711.TW` | 1.85% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.84% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 9.37% |
+| 3 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 9.30% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 4.47% |
+| 5 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | 2.69% |
+| 6 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 2.10% |
+| 7 | [[../Entities/Montage Technology Co Ltd Class A\|Montage Technology Co Ltd Class A]] | `688008.SS` | จีน | 1.97% |
+| 8 | [[../Entities/Unimicron Technology Corp\|Unimicron Technology Corp]] | `3037.TW` | ไต้หวัน | 1.91% |
+| 9 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | 1.85% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

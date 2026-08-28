@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | ExxonMobil Holdings Corp | `XOM` | 20.58% |
-| 2 | Chevron Corp | `CVX` | 15.26% |
-| 3 | ConocoPhillips | `COP` | 6.08% |
-| 4 | Marathon Petroleum Corp | `MPC` | 4.93% |
-| 5 | Phillips 66 | `PSX` | 4.91% |
-| 6 | Valero Energy Corp | `VLO` | 4.74% |
-| 7 | EOG Resources Inc | `EOG` | 4.55% |
-| 8 | SLB Ltd | `SLB` | 4.32% |
-| 9 | Kinder Morgan Inc Class P | `KMI` | 3.91% |
-| 10 | Williams Companies Inc | `WMB` | 3.86% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/ExxonMobil Holdings Corp\|ExxonMobil Holdings Corp]] | `XOM` | สหรัฐฯ | 20.58% |
+| 2 | [[../Entities/Chevron Corp\|Chevron Corp]] | `CVX` | สหรัฐฯ | 15.26% |
+| 3 | [[../Entities/COP US Equity\|ConocoPhillips]] | `COP` | สหรัฐฯ | 6.08% |
+| 4 | [[../Entities/MARATHON PETROLEUM CORP\|Marathon Petroleum Corp]] | `MPC` | สหรัฐฯ | 4.93% |
+| 5 | [[../Entities/PHILLIPS 66\|Phillips 66]] | `PSX` | สหรัฐฯ | 4.91% |
+| 6 | [[../Entities/Valero Energy Corp\|Valero Energy Corp]] | `VLO` | สหรัฐฯ | 4.74% |
+| 7 | [[../Entities/EOG US Equity\|EOG Resources Inc]] | `EOG` | สหรัฐฯ | 4.55% |
+| 8 | [[../Entities/SLB Ltd\|SLB Ltd]] | `SLB` | สหรัฐฯ | 4.32% |
+| 9 | Kinder Morgan Inc Class P | `KMI` | สหรัฐฯ | 3.91% |
+| 10 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | 3.86% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -82,18 +82,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | AT&S Austria Technologie & Systemtechnik AG | `ATS.VI` | 5.04% |
-| 2 | Moneta Money Bank AS | `MONET.PR` | 2.97% |
-| 3 | First American Treasury Obligs X | `FXFXX` | 2.70% |
-| 4 | Mineros SA | `MINEROS.CL` | 1.98% |
-| 5 | Komercni Banka AS | `KOMB.PR` | 1.85% |
-| 6 | CEZ AS | `CEZ.PR` | 1.70% |
-| 7 | Grupo de Inversiones Suramericana SA | `GRUPOSURA.CL` | 1.68% |
-| 8 | KGHM Polska Miedz SA | `KGH.WA` | 1.53% |
-| 9 | Raiffeisen Bank International AG | `RBI.VI` | 1.48% |
-| 10 | Orlen SA | `PKN.WA` | 1.33% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | AT&S Austria Technologie & Systemtechnik AG | `ATS.VI` | - | 5.04% |
+| 2 | Moneta Money Bank AS | `MONET.PR` | - | 2.97% |
+| 3 | First American Treasury Obligs X | `FXFXX` | สหรัฐฯ | 2.70% |
+| 4 | Mineros SA | `MINEROS.CL` | - | 1.98% |
+| 5 | Komercni Banka AS | `KOMB.PR` | - | 1.85% |
+| 6 | [[../Entities/CEZ AS\|CEZ AS]] | `CEZ.PR` | - | 1.70% |
+| 7 | Grupo de Inversiones Suramericana SA | `GRUPOSURA.CL` | - | 1.68% |
+| 8 | [[../Entities/KGHM Polska Miedz SA\|KGHM Polska Miedz SA]] | `KGH.WA` | - | 1.53% |
+| 9 | Raiffeisen Bank International AG | `RBI.VI` | - | 1.48% |
+| 10 | [[../Entities/Orlen SA\|Orlen SA]] | `PKN.WA` | - | 1.33% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

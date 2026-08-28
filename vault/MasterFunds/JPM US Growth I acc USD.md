@@ -82,17 +82,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class C | `GOOG` | 9.99% |
-| 2 | NVIDIA Corp | `NVDA` | 9.52% |
-| 3 | Apple Inc | `AAPL` | 6.58% |
-| 4 | Broadcom Inc | `AVGO` | 6.38% |
-| 5 | Advanced Micro Devices Inc | `AMD` | 3.99% |
-| 6 | Micron Technology Inc | `MU` | 3.34% |
-| 7 | Eli Lilly and Co | `LLY` | 2.40% |
-| 8 | The Goldman Sachs Group Inc | `GS` | 2.16% |
-| 9 | Microsoft Corp | `MSFT` | 2.15% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 9.99% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 9.52% |
+| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 6.58% |
+| 4 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 6.38% |
+| 5 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 3.99% |
+| 6 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 3.34% |
+| 7 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 2.40% |
+| 8 | [[../Entities/The Goldman Sachs Group Inc\|The Goldman Sachs Group Inc]] | `GS` | สหรัฐฯ | 2.16% |
+| 9 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.15% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

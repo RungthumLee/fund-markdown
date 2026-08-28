@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Amazon.com Inc | `AMZN` | 8.34% |
-| 2 | NVIDIA Corp | `NVDA` | 7.25% |
-| 3 | Meta Platforms Inc Class A | `META` | 5.61% |
-| 4 | Cloudflare Inc | `NET` | 4.53% |
-| 5 | DoorDash Inc Ordinary Shares - Class A | `DASH` | 4.31% |
-| 6 | Shopify Inc Registered Shs -A- Subord Vtg | `SHOP` | 4.28% |
-| 7 | Alphabet Inc Class A | `GOOGL` | 4.23% |
-| 8 | Broadcom Inc | `AVGO` | 2.82% |
-| 9 | Snowflake Inc Ordinary Shares | `SNOW` | 2.69% |
-| 10 | Ensign Group Inc | `ENSG` | 2.56% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 8.34% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.25% |
+| 3 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 5.61% |
+| 4 | [[../Entities/Cloudflare Inc\|Cloudflare Inc]] | `NET` | สหรัฐฯ | 4.53% |
+| 5 | [[../Entities/DoorDash Inc Ordinary Shares - Class A\|DoorDash Inc Ordinary Shares - Class A]] | `DASH` | สหรัฐฯ | 4.31% |
+| 6 | [[../Entities/Shopify Inc Registered Shs -A- Subord Vtg\|Shopify Inc Registered Shs -A- Subord Vtg]] | `SHOP` | สหรัฐฯ | 4.28% |
+| 7 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.23% |
+| 8 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 2.82% |
+| 9 | [[../Entities/Snowflake Inc Ordinary Shares\|Snowflake Inc Ordinary Shares]] | `SNOW` | สหรัฐฯ | 2.69% |
+| 10 | Ensign Group Inc | `ENSG` | สหรัฐฯ | 2.56% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

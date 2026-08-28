@@ -87,13 +87,13 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Xtrackers IE Physical Gold ETC | `XGDU.L` | 5.63% |
-| 2 | iShares Core € Corp Bond ETF EUR Dist | `IEAC.L` | 1.87% |
-| 3 | Xtrackers EUR Corporate Bd ETF 1C | `D5BG.DE` | 1.32% |
-| 4 | AXA SA | `CS.PA` | 1.17% |
-| 5 | Amazon.com Inc | `AMZN` | 1.14% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Xtrackers IE Physical Gold ETC\|Xtrackers IE Physical Gold ETC]] | `XGDU.L` | สหราชอาณาจักร | 5.63% |
+| 2 | [[../Entities/iShares Core € Corp Bond ETF EUR Dist\|iShares Core € Corp Bond ETF EUR Dist]] | `IEAC.L` | สหราชอาณาจักร | 1.87% |
+| 3 | [[../Entities/Xtrackers EUR Corporate Bd ETF 1C\|Xtrackers EUR Corporate Bd ETF 1C]] | `D5BG.DE` | เยอรมนี | 1.32% |
+| 4 | [[../Entities/AGSDFUS LX\|AXA SA]] | `CS.PA` | ฝรั่งเศส | 1.17% |
+| 5 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 1.14% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

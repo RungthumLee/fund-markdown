@@ -79,18 +79,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | ASML Holding NV | `ASML.AS` | 8.62% |
-| 2 | Siemens AG | `SIE.DE` | 4.67% |
-| 3 | Banco Santander SA | `SAN.MC` | 4.07% |
-| 4 | TotalEnergies SE | `TTE.PA` | 3.91% |
-| 5 | Schneider Electric SE | `SU.PA` | 3.76% |
-| 6 | Allianz SE | `ALV.DE` | 3.70% |
-| 7 | SAP SE | `SAP.DE` | 3.59% |
-| 8 | Banco Bilbao Vizcaya Argentaria SA | `BBVA.MC` | 3.07% |
-| 9 | Iberdrola SA | `IBE.MC` | 2.92% |
-| 10 | Safran SA | `SAF.PA` | 2.81% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 8.62% |
+| 2 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | 4.67% |
+| 3 | [[../Entities/Banco Santander SA\|Banco Santander SA]] | `SAN.MC` | - | 4.07% |
+| 4 | [[../Entities/TotalEnergies SE\|TotalEnergies SE]] | `TTE.PA` | ฝรั่งเศส | 3.91% |
+| 5 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 3.76% |
+| 6 | [[../Entities/Allianz Global Investors Fund - Allianz Global Artificial Intelligence Fund (LU1548497426)\|Allianz SE]] | `ALV.DE` | เยอรมนี | 3.70% |
+| 7 | [[../Entities/SAP SE\|SAP SE]] | `SAP.DE` | เยอรมนี | 3.59% |
+| 8 | [[../Entities/Banco Bilbao Vizcaya Argentaria SA\|Banco Bilbao Vizcaya Argentaria SA]] | `BBVA.MC` | - | 3.07% |
+| 9 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | 2.92% |
+| 10 | [[../Entities/SAF FP Equity\|Safran SA]] | `SAF.PA` | ฝรั่งเศส | 2.81% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Apple Inc | `AAPL` | 6.15% |
-| 2 | NVIDIA Corp | `NVDA` | 5.20% |
-| 3 | Broadcom Inc | `AVGO` | 3.31% |
-| 4 | Microsoft Corp | `MSFT` | 2.96% |
-| 5 | Tesla Inc | `TSLA` | 1.88% |
-| 6 | Amazon.com Inc | `AMZN` | 1.85% |
-| 7 | Alphabet Inc Class A | `GOOGL` | 1.81% |
-| 8 | TDK Corp | `6762.T` | 1.69% |
-| 9 | Meta Platforms Inc Class A | `META` | 1.57% |
-| 10 | Alphabet Inc Class C | `GOOG` | 1.54% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 6.15% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.20% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 3.31% |
+| 4 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 2.96% |
+| 5 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 1.88% |
+| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 1.85% |
+| 7 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 1.81% |
+| 8 | [[../Entities/TDK Corp\|TDK Corp]] | `6762.T` | ญี่ปุ่น | 1.69% |
+| 9 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 1.57% |
+| 10 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 1.54% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

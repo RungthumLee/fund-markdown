@@ -85,17 +85,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 9.51% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 8.61% |
-| 3 | HDFC Bank Ltd ADR | `HDB` | 3.41% |
-| 4 | Samsung Electro-Mechanics Co Ltd | `009150.KQ` | 3.10% |
-| 5 | Hon Hai Precision Industry Co Ltd | `2317.TW` | 3.06% |
-| 6 | MediaTek Inc | `2454.TW` | 3.05% |
-| 7 | Kasikornbank Public Co Ltd | `KBANK-F` | 3.05% |
-| 8 | Petroleo Brasileiro SA Petrobras ADR | `PBR.A` | 3.04% |
-| 9 | Yageo Corp | `2327.TW` | 2.95% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.51% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 8.61% |
+| 3 | [[../Entities/HDFC Bank Ltd ADR\|HDFC Bank Ltd ADR]] | `HDB` | สหรัฐฯ | 3.41% |
+| 4 | [[../Entities/Samsung Electro-Mechanics Co Ltd\|Samsung Electro-Mechanics Co Ltd]] | `009150.KQ` | เกาหลีใต้ | 3.10% |
+| 5 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | 3.06% |
+| 6 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 3.05% |
+| 7 | [[../Entities/Kasikornbank Public Company Limited\|Kasikornbank Public Co Ltd]] | `KBANK-F` | - | 3.05% |
+| 8 | Petroleo Brasileiro SA Petrobras ADR | `PBR.A` | - | 3.04% |
+| 9 | [[../Entities/Yageo Corp\|Yageo Corp]] | `2327.TW` | ไต้หวัน | 2.95% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

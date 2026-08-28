@@ -84,11 +84,11 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Samsung Electronics Co Ltd | `005930.KQ` | 2.19% |
-| 2 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 2.17% |
-| 3 | BHP Group Ltd | `BHP.AX` | 2.15% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 2.19% |
+| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 2.17% |
+| 3 | [[../Entities/BHP Group Ltd\|BHP Group Ltd]] | `BHP.AX` | ออสเตรเลีย | 2.15% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

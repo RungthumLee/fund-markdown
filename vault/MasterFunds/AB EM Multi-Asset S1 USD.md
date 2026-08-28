@@ -84,14 +84,14 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 11.01% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 6.87% |
-| 3 | SK Hynix Inc | `000660.KQ` | 4.87% |
-| 4 | Delta Electronics Inc | `2308.TW` | 1.69% |
-| 5 | ICICI Bank Ltd | `ICICIBANK.NS` | 1.52% |
-| 6 | Fomento Economico Mexicano SAB de CV Units Cons. Of 1 Shs-B- And 4 Shs-D- | `FEMSAUBD.MX` | 1.47% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 11.01% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 6.87% |
+| 3 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 4.87% |
+| 4 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 1.69% |
+| 5 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 1.52% |
+| 6 | [[../Entities/Fomento Economico Mexicano SAB de CV Units Cons. Of 1 Shs-B- And 4 Shs-D-\|Fomento Economico Mexicano SAB de CV Units Cons. Of 1 Shs-B- And 4 Shs-D-]] | `FEMSAUBD.MX` | - | 1.47% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

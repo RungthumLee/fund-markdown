@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 10.04% |
-| 2 | Apple Inc | `AAPL` | 5.72% |
-| 3 | Microsoft Corp | `MSFT` | 5.34% |
-| 4 | ASML Holding NV | `ASML.AS` | 5.24% |
-| 5 | Alphabet Inc Class A | `GOOGL` | 4.91% |
-| 6 | Texas Instruments Inc | `TXN` | 3.94% |
-| 7 | Amazon.com Inc | `AMZN` | 3.82% |
-| 8 | ASMPT Ltd | `0522.HK` | 2.14% |
-| 9 | Oracle Corp | `ORCL` | 2.07% |
-| 10 | Microchip Technology Inc | `MCHP` | 1.89% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 10.04% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 5.72% |
+| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.34% |
+| 4 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 5.24% |
+| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 4.91% |
+| 6 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | 3.94% |
+| 7 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.82% |
+| 8 | [[../Entities/ASMPT LTD\|ASMPT Ltd]] | `0522.HK` | ฮ่องกง | 2.14% |
+| 9 | [[../Entities/ORACLE CORP\|Oracle Corp]] | `ORCL` | สหรัฐฯ | 2.07% |
+| 10 | [[../Entities/Microchip Technology Inc\|Microchip Technology Inc]] | `MCHP` | สหรัฐฯ | 1.89% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

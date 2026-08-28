@@ -63,18 +63,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class A | `GOOGL` | 8.67% |
-| 2 | NVIDIA Corp | `NVDA` | 7.87% |
-| 3 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 6.52% |
-| 4 | Microsoft Corp | `MSFT` | 5.42% |
-| 5 | ASML Holding NV | `ASML.AS` | 5.32% |
-| 6 | Amazon.com Inc | `AMZN` | 4.86% |
-| 7 | Mastercard Inc Class A | `MA` | 4.04% |
-| 8 | Broadcom Inc | `AVGO` | 3.18% |
-| 9 | Airbnb Inc Ordinary Shares - Class A | `ABNB` | 2.85% |
-| 10 | Eli Lilly and Co | `LLY` | 2.81% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 8.67% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.87% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 6.52% |
+| 4 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.42% |
+| 5 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 5.32% |
+| 6 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.86% |
+| 7 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 4.04% |
+| 8 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 3.18% |
+| 9 | [[../Entities/Airbnb Inc Ordinary Shares - Class A\|Airbnb Inc Ordinary Shares - Class A]] | `ABNB` | สหรัฐฯ | 2.85% |
+| 10 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 2.81% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

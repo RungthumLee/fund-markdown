@@ -64,18 +64,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Mitsubishi UFJ Financial Group Inc | `8306.T` | 4.27% |
-| 2 | Toyota Motor Corp | `7203.T` | 3.90% |
-| 3 | Sumitomo Mitsui Financial Group Inc | `8316.T` | 3.76% |
-| 4 | Panasonic Holdings Corp | `6752.T` | 2.87% |
-| 5 | MISUMI Group Inc | `9962.T` | 2.78% |
-| 6 | Sony Group Corp | `6758.T` | 2.64% |
-| 7 | FUJIFILM Holdings Corp | `4901.T` | 2.53% |
-| 8 | Japan Post Bank Co Ltd | `7182.T` | 2.49% |
-| 9 | Daikin Industries Ltd | `6367.T` | 2.46% |
-| 10 | Murata Manufacturing Co Ltd | `6981.T` | 2.40% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | 4.27% |
+| 2 | [[../Entities/Toyota Motor Corp\|Toyota Motor Corp]] | `7203.T` | ญี่ปุ่น | 3.90% |
+| 3 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | 3.76% |
+| 4 | [[../Entities/Panasonic Holdings Corp\|Panasonic Holdings Corp]] | `6752.T` | ญี่ปุ่น | 2.87% |
+| 5 | MISUMI Group Inc | `9962.T` | ญี่ปุ่น | 2.78% |
+| 6 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | 2.64% |
+| 7 | FUJIFILM Holdings Corp | `4901.T` | ญี่ปุ่น | 2.53% |
+| 8 | [[../Entities/Japan Post Bank Co Ltd\|Japan Post Bank Co Ltd]] | `7182.T` | ญี่ปุ่น | 2.49% |
+| 9 | Daikin Industries Ltd | `6367.T` | ญี่ปุ่น | 2.46% |
+| 10 | [[../Entities/Murata Manufacturing Co Ltd\|Murata Manufacturing Co Ltd]] | `6981.T` | ญี่ปุ่น | 2.40% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

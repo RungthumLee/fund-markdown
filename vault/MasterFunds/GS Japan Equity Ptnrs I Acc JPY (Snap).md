@@ -64,18 +64,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Mitsubishi UFJ Financial Group Inc | `8306.T` | 5.58% |
-| 2 | Daifuku Co Ltd | `6383.T` | 5.36% |
-| 3 | Keyence Corp | `6861.T` | 5.28% |
-| 4 | Ibiden Co Ltd | `4062.T` | 4.94% |
-| 5 | Mizuho Financial Group Inc | `8411.T` | 4.78% |
-| 6 | ASICS Corp | `7936.T` | 4.69% |
-| 7 | Sony Group Corp | `6758.T` | 4.49% |
-| 8 | Terumo Corp | `4543.T` | 4.47% |
-| 9 | Ryohin Keikaku Co Ltd | `7453.T` | 4.42% |
-| 10 | Sumitomo Electric Industries Ltd | `5802.T` | 4.21% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | 5.58% |
+| 2 | [[../Entities/Daifuku Co Ltd\|Daifuku Co Ltd]] | `6383.T` | ญี่ปุ่น | 5.36% |
+| 3 | [[../Entities/Keyence Corp\|Keyence Corp]] | `6861.T` | ญี่ปุ่น | 5.28% |
+| 4 | [[../Entities/IBIDEN CO LTD\|Ibiden Co Ltd]] | `4062.T` | ญี่ปุ่น | 4.94% |
+| 5 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | 4.78% |
+| 6 | [[../Entities/ASICS Corp\|ASICS Corp]] | `7936.T` | ญี่ปุ่น | 4.69% |
+| 7 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | 4.49% |
+| 8 | [[../Entities/Terumo Corp\|Terumo Corp]] | `4543.T` | ญี่ปุ่น | 4.47% |
+| 9 | [[../Entities/Ryohin Keikaku Co Ltd\|Ryohin Keikaku Co Ltd]] | `7453.T` | ญี่ปุ่น | 4.42% |
+| 10 | [[../Entities/Sumitomo Electric Industries Ltd\|Sumitomo Electric Industries Ltd]] | `5802.T` | ญี่ปุ่น | 4.21% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

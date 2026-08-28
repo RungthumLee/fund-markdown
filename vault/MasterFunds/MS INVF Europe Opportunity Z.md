@@ -65,17 +65,17 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Moncler SpA | `MONC.MI` | 9.07% |
-| 2 | Hermes International SA | `RMS.PA` | 8.27% |
-| 3 | Spotify Technology SA | `SPOT` | 7.89% |
-| 4 | ASML Holding NV | `ASML.AS` | 7.29% |
-| 5 | DSV AS | `DSV.CO` | 6.66% |
-| 6 | Liberty Media Corp Registered Shs Series -C- Formula One | `FWONK` | 4.94% |
-| 7 | L'Oreal SA | `OR.PA` | 4.82% |
-| 8 | Schneider Electric SE | `SU.PA` | 4.59% |
-| 9 | On Holding AG | `ONON` | 3.84% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Moncler SpA\|Moncler SpA]] | `MONC.MI` | อิตาลี | 9.07% |
+| 2 | [[../Entities/RMS FP Equity\|Hermes International SA]] | `RMS.PA` | ฝรั่งเศส | 8.27% |
+| 3 | [[../Entities/Spotify Technology SA\|Spotify Technology SA]] | `SPOT` | สหรัฐฯ | 7.89% |
+| 4 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 7.29% |
+| 5 | DSV AS | `DSV.CO` | - | 6.66% |
+| 6 | Liberty Media Corp Registered Shs Series -C- Formula One | `FWONK` | สหรัฐฯ | 4.94% |
+| 7 | [[../Entities/L'Oreal SA\|L'Oreal SA]] | `OR.PA` | ฝรั่งเศส | 4.82% |
+| 8 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 4.59% |
+| 9 | On Holding AG | `ONON` | สหรัฐฯ | 3.84% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

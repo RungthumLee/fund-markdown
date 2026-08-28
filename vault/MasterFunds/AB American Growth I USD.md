@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 9.39% |
-| 2 | Alphabet Inc Class C | `GOOG` | 9.04% |
-| 3 | Broadcom Inc | `AVGO` | 5.31% |
-| 4 | Meta Platforms Inc Class A | `META` | 4.33% |
-| 5 | Microsoft Corp | `MSFT` | 4.18% |
-| 6 | Apple Inc | `AAPL` | 4.01% |
-| 7 | Visa Inc Class A | `V` | 3.88% |
-| 8 | Eli Lilly and Co | `LLY` | 3.26% |
-| 9 | Amazon.com Inc | `AMZN` | 2.89% |
-| 10 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 2.71% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 9.39% |
+| 2 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 9.04% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 5.31% |
+| 4 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 4.33% |
+| 5 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 4.18% |
+| 6 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 4.01% |
+| 7 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 3.88% |
+| 8 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 3.26% |
+| 9 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 2.89% |
+| 10 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 2.71% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

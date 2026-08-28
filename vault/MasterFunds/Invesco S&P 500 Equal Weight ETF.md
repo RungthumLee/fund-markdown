@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | PayPal Holdings Inc | `PYPL` | 0.27% |
-| 2 | Bio-Techne Corp | `TECH` | 0.26% |
-| 3 | Zebra Technologies Corp Ordinary Shares - Class A | `ZBRA` | 0.26% |
-| 4 | Global Payments Inc | `GPN` | 0.26% |
-| 5 | Expedia Group Inc | `EXPE` | 0.26% |
-| 6 | DoorDash Inc Ordinary Shares - Class A | `DASH` | 0.25% |
-| 7 | IQVIA Holdings Inc | `IQV` | 0.25% |
-| 8 | Baxter International Inc | `BAX` | 0.25% |
-| 9 | International Paper Co | `IP` | 0.25% |
-| 10 | Willis Towers Watson PLC | `WTW` | 0.24% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/PAYPAL HOLDING PLC\|PayPal Holdings Inc]] | `PYPL` | สหรัฐฯ | 0.27% |
+| 2 | [[../Entities/Bio-Techne Corp\|Bio-Techne Corp]] | `TECH` | สหรัฐฯ | 0.26% |
+| 3 | Zebra Technologies Corp Ordinary Shares - Class A | `ZBRA` | สหรัฐฯ | 0.26% |
+| 4 | [[../Entities/Global Payments Inc\|Global Payments Inc]] | `GPN` | สหรัฐฯ | 0.26% |
+| 5 | [[../Entities/Expedia Group Inc\|Expedia Group Inc]] | `EXPE` | สหรัฐฯ | 0.26% |
+| 6 | [[../Entities/DoorDash Inc Ordinary Shares - Class A\|DoorDash Inc Ordinary Shares - Class A]] | `DASH` | สหรัฐฯ | 0.25% |
+| 7 | [[../Entities/IQVIA HOLDINGS, INC\|IQVIA Holdings Inc]] | `IQV` | สหรัฐฯ | 0.25% |
+| 8 | Baxter International Inc | `BAX` | สหรัฐฯ | 0.25% |
+| 9 | International Paper Co | `IP` | สหรัฐฯ | 0.25% |
+| 10 | Willis Towers Watson PLC | `WTW` | สหรัฐฯ | 0.24% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

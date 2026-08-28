@@ -65,18 +65,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Sumitomo Mitsui Financial Group Inc | `8316.T` | 7.47% |
-| 2 | Mitsubishi UFJ Financial Group Inc | `8306.T` | 6.49% |
-| 3 | Mizuho Financial Group Inc | `8411.T` | 6.23% |
-| 4 | ITOCHU Corp | `8001.T` | 6.13% |
-| 5 | ORIX Corp | `8591.T` | 5.12% |
-| 6 | Penta-Ocean Construction Co Ltd | `1893.T` | 4.86% |
-| 7 | Obayashi Corp | `1802.T` | 4.55% |
-| 8 | OMRON Corp | `6645.T` | 3.78% |
-| 9 | Kajima Corp | `1812.T` | 3.59% |
-| 10 | Nippon Steel Corp | `5401.T` | 3.43% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | 7.47% |
+| 2 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | 6.49% |
+| 3 | [[../Entities/Mizuho Financial Group Inc\|Mizuho Financial Group Inc]] | `8411.T` | ญี่ปุ่น | 6.23% |
+| 4 | [[../Entities/ITOCHU Corp\|ITOCHU Corp]] | `8001.T` | ญี่ปุ่น | 6.13% |
+| 5 | ORIX Corp | `8591.T` | ญี่ปุ่น | 5.12% |
+| 6 | Penta-Ocean Construction Co Ltd | `1893.T` | ญี่ปุ่น | 4.86% |
+| 7 | Obayashi Corp | `1802.T` | ญี่ปุ่น | 4.55% |
+| 8 | OMRON Corp | `6645.T` | ญี่ปุ่น | 3.78% |
+| 9 | Kajima Corp | `1812.T` | ญี่ปุ่น | 3.59% |
+| 10 | Nippon Steel Corp | `5401.T` | ญี่ปุ่น | 3.43% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

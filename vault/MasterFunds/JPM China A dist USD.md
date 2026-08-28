@@ -64,18 +64,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Tencent Holdings Ltd | `0700.HK` | 9.83% |
-| 2 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 9.24% |
-| 3 | NetEase Inc Ordinary Shares | `9999.HK` | 4.15% |
-| 4 | Ping An Insurance (Group) Co. of China Ltd Class H | `02318` | 3.56% |
-| 5 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 3.47% |
-| 6 | China Merchants Bank Co Ltd Class H | `03968` | 3.38% |
-| 7 | Meituan Class B | `3690.HK` | 2.26% |
-| 8 | Fuyao Glass Industry Group Co Ltd Shs -H- Unitary 144A/Reg S | `03606` | 2.06% |
-| 9 | China Pacific Insurance (Group) Co Ltd Class H | `02601` | 1.85% |
-| 10 | China Citic Bank Corp Ltd Class H | `00998` | 1.78% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 9.83% |
+| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 9.24% |
+| 3 | [[../Entities/NetEase Inc Ordinary Shares\|NetEase Inc Ordinary Shares]] | `9999.HK` | ฮ่องกง | 4.15% |
+| 4 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | 3.56% |
+| 5 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 3.47% |
+| 6 | [[../Entities/China Merchants Bank Co Ltd Class H\|China Merchants Bank Co Ltd Class H]] | `03968` | - | 3.38% |
+| 7 | [[../Entities/Meituan Class B\|Meituan Class B]] | `3690.HK` | ฮ่องกง | 2.26% |
+| 8 | [[../Entities/Fuyao Glass Industry Group Co Ltd Shs -H- Unitary 144A-Reg S\|Fuyao Glass Industry Group Co Ltd Shs -H- Unitary 144A/Reg S]] | `03606` | - | 2.06% |
+| 9 | [[../Entities/China Pacific Insurance (Group) Co Ltd Class H\|China Pacific Insurance (Group) Co Ltd Class H]] | `02601` | - | 1.85% |
+| 10 | [[../Entities/China Citic Bank Corp Ltd Class H\|China Citic Bank Corp Ltd Class H]] | `00998` | - | 1.78% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

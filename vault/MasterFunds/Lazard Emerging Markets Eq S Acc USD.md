@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 5.72% |
-| 2 | SK Hynix Inc | `000660.KQ` | 4.87% |
-| 3 | MediaTek Inc | `2454.TW` | 2.29% |
-| 4 | China Construction Bank Corp Class H | `00939` | 2.28% |
-| 5 | Wiwynn Corp Ordinary Shares | `6669.TW` | 2.20% |
-| 6 | Shinhan Financial Group Co Ltd | `055550.KQ` | 1.97% |
-| 7 | Lenovo Group Ltd | `0992.HK` | 1.94% |
-| 8 | Vibra Energia SA | `VBBR3.SA` | 1.86% |
-| 9 | KB Financial Group Inc | `105560.KQ` | 1.86% |
-| 10 | ASE Technology Holding Co Ltd | `3711.TW` | 1.83% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 5.72% |
+| 2 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 4.87% |
+| 3 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 2.29% |
+| 4 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 2.28% |
+| 5 | Wiwynn Corp Ordinary Shares | `6669.TW` | ไต้หวัน | 2.20% |
+| 6 | [[../Entities/Shinhan Financial Group Co Ltd\|Shinhan Financial Group Co Ltd]] | `055550.KQ` | เกาหลีใต้ | 1.97% |
+| 7 | [[../Entities/LENOVO GROUP LTD\|Lenovo Group Ltd]] | `0992.HK` | ฮ่องกง | 1.94% |
+| 8 | Vibra Energia SA | `VBBR3.SA` | - | 1.86% |
+| 9 | [[../Entities/KB Financial Group Inc\|KB Financial Group Inc]] | `105560.KQ` | เกาหลีใต้ | 1.86% |
+| 10 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | 1.83% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

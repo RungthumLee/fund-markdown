@@ -66,18 +66,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | ASML Holding NV | `ASML.AS` | 6.46% |
-| 2 | Siemens AG | `SIE.DE` | 5.94% |
-| 3 | Banco Santander SA | `SAN.MC` | 4.36% |
-| 4 | Schneider Electric SE | `SU.PA` | 4.02% |
-| 5 | Industria De Diseno Textil SA Share From Split | `ITX.MC` | 3.92% |
-| 6 | TotalEnergies SE | `TTE.PA` | 3.78% |
-| 7 | Deutsche Telekom AG | `DTE.DE` | 3.76% |
-| 8 | Iberdrola SA | `IBE.MC` | 3.69% |
-| 9 | UniCredit SpA | `UCG.MI` | 3.67% |
-| 10 | Banco Bilbao Vizcaya Argentaria SA | `BBVA.MC` | 3.20% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 6.46% |
+| 2 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | 5.94% |
+| 3 | [[../Entities/Banco Santander SA\|Banco Santander SA]] | `SAN.MC` | - | 4.36% |
+| 4 | [[../Entities/SCHNEIDER ELECTRIC SE\|Schneider Electric SE]] | `SU.PA` | ฝรั่งเศส | 4.02% |
+| 5 | [[../Entities/Industria De Diseno Textil SA Share From Split\|Industria De Diseno Textil SA Share From Split]] | `ITX.MC` | - | 3.92% |
+| 6 | [[../Entities/TotalEnergies SE\|TotalEnergies SE]] | `TTE.PA` | ฝรั่งเศส | 3.78% |
+| 7 | [[../Entities/Deutsche Telekom AG\|Deutsche Telekom AG]] | `DTE.DE` | เยอรมนี | 3.76% |
+| 8 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | 3.69% |
+| 9 | [[../Entities/UniCredit SpA\|UniCredit SpA]] | `UCG.MI` | อิตาลี | 3.67% |
+| 10 | [[../Entities/Banco Bilbao Vizcaya Argentaria SA\|Banco Bilbao Vizcaya Argentaria SA]] | `BBVA.MC` | - | 3.20% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

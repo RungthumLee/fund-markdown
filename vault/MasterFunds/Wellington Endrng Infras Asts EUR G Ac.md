@@ -85,18 +85,18 @@ tags: [master-fund, external-data, web-search]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Targa Resources Corp | `TRGP` | 4.62% |
-| 2 | Dominion Energy Inc | `D` | 4.14% |
-| 3 | Williams Companies Inc | `WMB` | 4.00% |
-| 4 | American Water Works Co Inc | `AWK` | 3.68% |
-| 5 | Sempra | `SRE` | 3.54% |
-| 6 | Singapore Telecommunications Ltd | `Z74.SI` | 3.46% |
-| 7 | Engie SA | `ENGI.PA` | 3.38% |
-| 8 | E.ON SE | `EOAN.DE` | 3.37% |
-| 9 | Canadian National Railway Co | `CNR.TO` | 3.37% |
-| 10 | Berkshire Hathaway Inc Class B | `BRK-B` | 3.31% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/TARGA RESOURCES CORP\|Targa Resources Corp]] | `TRGP` | สหรัฐฯ | 4.62% |
+| 2 | [[../Entities/Dominion Energy Inc\|Dominion Energy Inc]] | `D` | สหรัฐฯ | 4.14% |
+| 3 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | 4.00% |
+| 4 | [[../Entities/American Water Works Co Inc\|American Water Works Co Inc]] | `AWK` | สหรัฐฯ | 3.68% |
+| 5 | [[../Entities/Sempra\|Sempra]] | `SRE` | สหรัฐฯ | 3.54% |
+| 6 | [[../Entities/Singapore Telecommunications\|Singapore Telecommunications Ltd]] | `Z74.SI` | สิงคโปร์ | 3.46% |
+| 7 | [[../Entities/Engie SA\|Engie SA]] | `ENGI.PA` | ฝรั่งเศส | 3.38% |
+| 8 | [[../Entities/E.ON SE\|E.ON SE]] | `EOAN.DE` | เยอรมนี | 3.37% |
+| 9 | [[../Entities/Canadian National Railway Co\|Canadian National Railway Co]] | `CNR.TO` | แคนาดา | 3.37% |
+| 10 | [[../Entities/Berkshire Hathaway Inc Class B\|Berkshire Hathaway Inc Class B]] | `BRK-B` | - | 3.31% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

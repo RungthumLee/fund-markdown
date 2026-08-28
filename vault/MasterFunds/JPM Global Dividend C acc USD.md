@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Microsoft Corp | `MSFT` | 6.60% |
-| 2 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 5.72% |
-| 3 | Mastercard Inc Class A | `MA` | 2.57% |
-| 4 | NextEra Energy Inc | `NEE` | 2.48% |
-| 5 | NVIDIA Corp | `NVDA` | 2.44% |
-| 6 | Johnson & Johnson | `JNJ` | 2.03% |
-| 7 | Yum Brands Inc | `YUM` | 2.02% |
-| 8 | Alphabet Inc Class C | `GOOG` | 2.00% |
-| 9 | ASML Holding NV | `ASML.AS` | 1.92% |
-| 10 | Bank of America Corp | `BAC` | 1.85% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 6.60% |
+| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 5.72% |
+| 3 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 2.57% |
+| 4 | [[../Entities/NEE US Equity\|NextEra Energy Inc]] | `NEE` | สหรัฐฯ | 2.48% |
+| 5 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 2.44% |
+| 6 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 2.03% |
+| 7 | [[../Entities/Yum Brands Inc\|Yum Brands Inc]] | `YUM` | สหรัฐฯ | 2.02% |
+| 8 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 2.00% |
+| 9 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 1.92% |
+| 10 | [[../Entities/BANK OF AMERICA PCL\|Bank of America Corp]] | `BAC` | สหรัฐฯ | 1.85% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

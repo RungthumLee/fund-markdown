@@ -65,18 +65,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Roche Holding AG | `ROP.SW` | 3.84% |
-| 2 | UBS Group AG Registered Shares | `UBSG.SW` | 3.64% |
-| 3 | Siemens AG | `SIE.DE` | 3.63% |
-| 4 | ING Groep NV | `INGA.AS` | 3.39% |
-| 5 | Compagnie de Saint-Gobain SA | `SGO.PA` | 3.23% |
-| 6 | Novartis AG Registered Shares | `NOVN.SW` | 3.22% |
-| 7 | Rexel SA | `RXL.PA` | 3.13% |
-| 8 | Koninklijke Philips NV | `PHIA.AS` | 3.10% |
-| 9 | Standard Chartered PLC | `STAN.L` | 3.06% |
-| 10 | Prudential PLC | `PRU.L` | 2.92% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG]] | `ROP.SW` | สวิตเซอร์แลนด์ | 3.84% |
+| 2 | UBS Group AG Registered Shares | `UBSG.SW` | สวิตเซอร์แลนด์ | 3.64% |
+| 3 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | 3.63% |
+| 4 | [[../Entities/ING Groep NV\|ING Groep NV]] | `INGA.AS` | เนเธอร์แลนด์ | 3.39% |
+| 5 | Compagnie de Saint-Gobain SA | `SGO.PA` | ฝรั่งเศส | 3.23% |
+| 6 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | 3.22% |
+| 7 | Rexel SA | `RXL.PA` | ฝรั่งเศส | 3.13% |
+| 8 | [[../Entities/Koninklijke Philips NV\|Koninklijke Philips NV]] | `PHIA.AS` | เนเธอร์แลนด์ | 3.10% |
+| 9 | [[../Entities/Standard Chartered PLC\|Standard Chartered PLC]] | `STAN.L` | สหราชอาณาจักร | 3.06% |
+| 10 | [[../Entities/Prudential PLC\|Prudential PLC]] | `PRU.L` | สหราชอาณาจักร | 2.92% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

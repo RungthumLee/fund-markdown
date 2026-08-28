@@ -73,18 +73,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | American Tower Corp | `AMT` | 8.21% |
-| 2 | National Grid PLC | `NG.L` | 8.02% |
-| 3 | Vinci SA | `DG.PA` | 7.92% |
-| 4 | Snam SpA | `SRG.MI` | 5.45% |
-| 5 | Crown Castle Inc | `CCI` | 4.75% |
-| 6 | Terna SpA | `TRN.MI` | 4.65% |
-| 7 | Canadian National Railway Co | `CNR.TO` | 4.62% |
-| 8 | Ferrovial NV | `FER.AS` | 4.39% |
-| 9 | Exelon Corp | `EXC` | 4.39% |
-| 10 | Consolidated Edison Inc | `ED` | 4.28% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/AMT US Equity\|American Tower Corp]] | `AMT` | สหรัฐฯ | 8.21% |
+| 2 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 8.02% |
+| 3 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | 7.92% |
+| 4 | [[../Entities/Snam SpA\|Snam SpA]] | `SRG.MI` | อิตาลี | 5.45% |
+| 5 | [[../Entities/Crown Castle Inc\|Crown Castle Inc]] | `CCI` | สหรัฐฯ | 4.75% |
+| 6 | [[../Entities/Terna SpA\|Terna SpA]] | `TRN.MI` | อิตาลี | 4.65% |
+| 7 | [[../Entities/Canadian National Railway Co\|Canadian National Railway Co]] | `CNR.TO` | แคนาดา | 4.62% |
+| 8 | [[../Entities/Ferrovial NV\|Ferrovial NV]] | `FER.AS` | เนเธอร์แลนด์ | 4.39% |
+| 9 | [[../Entities/Exelon Corp\|Exelon Corp]] | `EXC` | สหรัฐฯ | 4.39% |
+| 10 | [[../Entities/Consolidated Edison Inc\|Consolidated Edison Inc]] | `ED` | สหรัฐฯ | 4.28% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

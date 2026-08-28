@@ -20,6 +20,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fees  # noqa: E402
+import geography  # noqa: E402
 from sec_client import ROOT, get_logger  # noqa: E402
 
 LOG = get_logger("gen_master_notes")
@@ -110,8 +111,10 @@ def _ocf_num(ocf) -> float | None:
     return float(m.group(1)) if m else None
 
 
-def render(rec: dict, entry: dict, ter_by_pid: dict[str, float] | None = None) -> str:
+def render(rec: dict, entry: dict, ter_by_pid: dict[str, float] | None = None,
+           sym_to_note: dict[str, str] | None = None) -> str:
     ter_by_pid = ter_by_pid or {}
+    sym_to_note = sym_to_note or {}
     y = rec.get("yahoo") or {}
     ft = rec.get("ft") or {}
     name = y.get("longName") or ft.get("name") or rec["display_name"]
@@ -274,8 +277,17 @@ def render(rec: dict, entry: dict, ter_by_pid: dict[str, float] | None = None) -
         a("")
         a("นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง")
         a("")
-        o.extend(table(["#", "หลักทรัพย์", "Ticker", "สัดส่วน"],
-                       [[i, h["name"], f"`{h['symbol']}`", pct(h["percent"])]
+
+        def holding_cell(h: dict) -> str:
+            # plain pipe; table()'s cell() escapes it once (double-escaping was
+            # ISS-024 and Obsidian then fails to resolve the link)
+            note = sym_to_note.get(h.get("symbol"))
+            return f"[[../Entities/{note}|{h['name']}]]" if note else h["name"]
+
+        o.extend(table(["#", "หลักทรัพย์", "Ticker", "ตลาด", "สัดส่วน"],
+                       [[i, holding_cell(h), f"`{h['symbol']}`",
+                         geography.market_of_symbol(h.get("symbol")) or "-",
+                         pct(h["percent"])]
                         for i, h in enumerate(y["top_holdings"], 1)]))
 
     if y.get("longBusinessSummary"):
@@ -353,6 +365,22 @@ def main() -> None:
     # the retail TER of each Thai fund, for the fee-stacking column
     funds = json.loads((PROC / "funds.json").read_text(encoding="utf-8"))
     ter_by_pid = {pid: fees.retail_ter(f) for pid, f in funds.items()}
+
+    # symbol -> entity note, so a master's top holding links to the shared entity
+    # note (which lists every Thai fund reaching it). symbol->entity comes from
+    # look-through; entity->note from entity_links.json.
+    sym_to_note: dict[str, str] = {}
+    try:
+        links = json.loads((PROC / "entity_links.json").read_text(encoding="utf-8"))
+        lt = json.loads((PROC / "lookthrough.json").read_text(encoding="utf-8"))
+        for f in (lt.get("funds") or {}).values():
+            for ex in f.get("exposures") or []:
+                sym, eid = ex.get("symbol"), ex.get("entity")
+                if sym and eid in links and sym not in sym_to_note:
+                    sym_to_note[sym] = links[eid]
+    except (FileNotFoundError, json.JSONDecodeError, OSError):
+        pass
+
     OUT.mkdir(parents=True, exist_ok=True)
     IDX.mkdir(parents=True, exist_ok=True)
     # the generator owns this folder outright: stale notes from an earlier run
@@ -390,7 +418,7 @@ def main() -> None:
         used[note] = key
 
         (OUT / f"{note}.md").write_text(
-            render(rec, entry, ter_by_pid), encoding="utf-8")
+            render(rec, entry, ter_by_pid, sym_to_note), encoding="utf-8")
         written += 1
         if rec.get("has_data"):
             with_data += 1

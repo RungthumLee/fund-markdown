@@ -68,18 +68,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Leader Harmonious Drive Systems Co Ltd Class A | `688017.SS` | 7.82% |
-| 2 | NVIDIA Corp | `NVDA` | 5.52% |
-| 3 | Ningbo PIA Automation Holding Corp Class A | `688306.SS` | 5.28% |
-| 4 | Ecovacs Robotics Co Ltd Class A | `603486.SS` | 5.18% |
-| 5 | EFORT Intelligent Robot Co Ltd Class A | `688165.SS` | 5.13% |
-| 6 | Zhejiang He Chuan Technology Corp Ltd Class A | `688320.SS` | 4.96% |
-| 7 | Teradyne Inc | `TER` | 4.93% |
-| 8 | Estun Automation Co Ltd Class A | `002747.SZ` | 4.61% |
-| 9 | Tesla Inc | `TSLA` | 4.55% |
-| 10 | Yijiahe Technology Co Ltd Class A | `603666.SS` | 4.45% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Leader Harmonious Drive Systems Co Ltd Class A | `688017.SS` | จีน | 7.82% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.52% |
+| 3 | Ningbo PIA Automation Holding Corp Class A | `688306.SS` | จีน | 5.28% |
+| 4 | Ecovacs Robotics Co Ltd Class A | `603486.SS` | จีน | 5.18% |
+| 5 | EFORT Intelligent Robot Co Ltd Class A | `688165.SS` | จีน | 5.13% |
+| 6 | Zhejiang He Chuan Technology Corp Ltd Class A | `688320.SS` | จีน | 4.96% |
+| 7 | [[../Entities/Teradyne Inc\|Teradyne Inc]] | `TER` | สหรัฐฯ | 4.93% |
+| 8 | Estun Automation Co Ltd Class A | `002747.SZ` | จีน | 4.61% |
+| 9 | [[../Entities/TSLA US Equity\|Tesla Inc]] | `TSLA` | สหรัฐฯ | 4.55% |
+| 10 | Yijiahe Technology Co Ltd Class A | `603666.SS` | จีน | 4.45% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

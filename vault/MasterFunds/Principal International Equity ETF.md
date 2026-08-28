@@ -76,18 +76,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 5.89% |
-| 2 | ASML Holding NV | `ASML.AS` | 5.70% |
-| 3 | Sompo Holdings Inc | `8630.T` | 4.41% |
-| 4 | Teck Resources Ltd Class B (Sub Voting) | `TECK-B.TO` | 4.33% |
-| 5 | Samsung Electronics Co Ltd | `005930.KQ` | 4.09% |
-| 6 | Tencent Holdings Ltd | `0700.HK` | 4.02% |
-| 7 | Suncor Energy Inc | `SU.TO` | 3.98% |
-| 8 | Spotify Technology SA | `SPOT` | 3.98% |
-| 9 | Haleon PLC | `HLN.L` | 3.89% |
-| 10 | AIB Group PLC | `A5G.IR` | 3.84% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 5.89% |
+| 2 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 5.70% |
+| 3 | [[../Entities/Sompo Holdings Inc\|Sompo Holdings Inc]] | `8630.T` | ญี่ปุ่น | 4.41% |
+| 4 | [[../Entities/Teck Resources Ltd Class B (Sub Voting)\|Teck Resources Ltd Class B (Sub Voting)]] | `TECK-B.TO` | แคนาดา | 4.33% |
+| 5 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 4.09% |
+| 6 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 4.02% |
+| 7 | Suncor Energy Inc | `SU.TO` | แคนาดา | 3.98% |
+| 8 | [[../Entities/Spotify Technology SA\|Spotify Technology SA]] | `SPOT` | สหรัฐฯ | 3.98% |
+| 9 | [[../Entities/Haleon PLC\|Haleon PLC]] | `HLN.L` | สหราชอาณาจักร | 3.89% |
+| 10 | [[../Entities/AIB Group PLC\|AIB Group PLC]] | `A5G.IR` | - | 3.84% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

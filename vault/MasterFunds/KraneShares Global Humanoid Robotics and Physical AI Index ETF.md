@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Hexagon AB Class B | `HEXA-B.ST` | 2.59% |
-| 2 | Horizon Robotics Class B | `9660.HK` | 2.45% |
-| 3 | Magna International Inc | `MG.TO` | 2.34% |
-| 4 | Monolithic Power Systems Inc | `MPWR` | 2.33% |
-| 5 | Sensata Technologies Holding PLC | `ST` | 2.27% |
-| 6 | TE Connectivity PLC Registered Shares | `TEL` | 2.26% |
-| 7 | Teradyne Inc | `TER` | 2.25% |
-| 8 | Symbotic Inc Ordinary Shares - Class A | `SYM` | 2.22% |
-| 9 | Teledyne Technologies Inc | `TDY` | 2.21% |
-| 10 | Amphenol Corp Class A | `APH` | 2.19% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Hexagon AB Class B\|Hexagon AB Class B]] | `HEXA-B.ST` | - | 2.59% |
+| 2 | [[../Entities/Horizon Robotics Class B\|Horizon Robotics Class B]] | `9660.HK` | ฮ่องกง | 2.45% |
+| 3 | Magna International Inc | `MG.TO` | แคนาดา | 2.34% |
+| 4 | [[../Entities/MONOLITHIC POWER SYSTEMS INC\|Monolithic Power Systems Inc]] | `MPWR` | สหรัฐฯ | 2.33% |
+| 5 | Sensata Technologies Holding PLC | `ST` | สหรัฐฯ | 2.27% |
+| 6 | TE Connectivity PLC Registered Shares | `TEL` | สหรัฐฯ | 2.26% |
+| 7 | [[../Entities/Teradyne Inc\|Teradyne Inc]] | `TER` | สหรัฐฯ | 2.25% |
+| 8 | Symbotic Inc Ordinary Shares - Class A | `SYM` | สหรัฐฯ | 2.22% |
+| 9 | Teledyne Technologies Inc | `TDY` | สหรัฐฯ | 2.21% |
+| 10 | [[../Entities/Amphenol Corp Class A\|Amphenol Corp Class A]] | `APH` | สหรัฐฯ | 2.19% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -73,18 +73,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Dell Technologies Inc Ordinary Shares - Class C | `DELL` | 5.54% |
-| 2 | Micron Technology Inc | `MU` | 4.91% |
-| 3 | Vertiv Holdings Co Class A | `VRT` | 4.05% |
-| 4 | Quanta Services Inc | `PWR` | 3.91% |
-| 5 | Seagate Technology Holdings PLC | `STX` | 3.88% |
-| 6 | Ciena Corp | `CIEN` | 3.86% |
-| 7 | Western Digital Corp | `WDC` | 3.76% |
-| 8 | nVent Electric PLC | `NVT` | 3.41% |
-| 9 | GE Vernova Inc | `GEV` | 3.29% |
-| 10 | SanDisk Corp Ordinary Shares | `SNDK` | 2.90% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Dell Technologies Inc Ordinary Shares - Class C | `DELL` | สหรัฐฯ | 5.54% |
+| 2 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 4.91% |
+| 3 | [[../Entities/Vertiv Holdings Co Class A\|Vertiv Holdings Co Class A]] | `VRT` | สหรัฐฯ | 4.05% |
+| 4 | [[../Entities/Quanta Services Inc\|Quanta Services Inc]] | `PWR` | สหรัฐฯ | 3.91% |
+| 5 | [[../Entities/Seagate Technology Holdings PLC\|Seagate Technology Holdings PLC]] | `STX` | สหรัฐฯ | 3.88% |
+| 6 | [[../Entities/Ciena Corp\|Ciena Corp]] | `CIEN` | สหรัฐฯ | 3.86% |
+| 7 | Western Digital Corp | `WDC` | สหรัฐฯ | 3.76% |
+| 8 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | 3.41% |
+| 9 | [[../Entities/GE Vernova Inc\|GE Vernova Inc]] | `GEV` | สหรัฐฯ | 3.29% |
+| 10 | [[../Entities/SanDisk Corp Ordinary Shares\|SanDisk Corp Ordinary Shares]] | `SNDK` | สหรัฐฯ | 2.90% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -77,18 +77,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Entergy Corp | `ETR` | 5.08% |
-| 2 | Engie SA | `ENGI.PA` | 4.89% |
-| 3 | TC Energy Corp | `TRP.TO` | 4.83% |
-| 4 | Pembina Pipeline Corp | `PPL.TO` | 4.71% |
-| 5 | Aena SME SA | `AENA.MC` | 4.62% |
-| 6 | APA Group | `APA.AX` | 4.57% |
-| 7 | Williams Companies Inc | `WMB` | 4.51% |
-| 8 | Canadian National Railway Co | `CNR.TO` | 4.41% |
-| 9 | Vinci SA | `DG.PA` | 4.12% |
-| 10 | Enel SpA | `ENEL.MI` | 3.98% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Entergy Corp\|Entergy Corp]] | `ETR` | สหรัฐฯ | 5.08% |
+| 2 | [[../Entities/Engie SA\|Engie SA]] | `ENGI.PA` | ฝรั่งเศส | 4.89% |
+| 3 | [[../Entities/TC Energy Corp\|TC Energy Corp]] | `TRP.TO` | แคนาดา | 4.83% |
+| 4 | [[../Entities/Pembina Pipeline Corp\|Pembina Pipeline Corp]] | `PPL.TO` | แคนาดา | 4.71% |
+| 5 | [[../Entities/Aena SME SA\|Aena SME SA]] | `AENA.MC` | - | 4.62% |
+| 6 | [[../Entities/APA Group\|APA Group]] | `APA.AX` | ออสเตรเลีย | 4.57% |
+| 7 | [[../Entities/Williams Companies Inc\|Williams Companies Inc]] | `WMB` | สหรัฐฯ | 4.51% |
+| 8 | [[../Entities/Canadian National Railway Co\|Canadian National Railway Co]] | `CNR.TO` | แคนาดา | 4.41% |
+| 9 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | 4.12% |
+| 10 | [[../Entities/Enel SpA\|Enel SpA]] | `ENEL.MI` | อิตาลี | 3.98% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -62,18 +62,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Microsoft Corp | `MSFT` | 5.89% |
-| 2 | Lam Research Corp | `LRCX` | 5.62% |
-| 3 | Alphabet Inc Class A | `GOOGL` | 5.25% |
-| 4 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 4.70% |
-| 5 | Apple Inc | `AAPL` | 4.41% |
-| 6 | Johnson & Johnson | `JNJ` | 4.31% |
-| 7 | Meta Platforms Inc Class A | `META` | 3.95% |
-| 8 | Amazon.com Inc | `AMZN` | 3.42% |
-| 9 | Thermo Fisher Scientific Inc | `TMO` | 3.34% |
-| 10 | Texas Instruments Inc | `TXN` | 3.27% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.89% |
+| 2 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 5.62% |
+| 3 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.25% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.70% |
+| 5 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 4.41% |
+| 6 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 4.31% |
+| 7 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 3.95% |
+| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.42% |
+| 9 | [[../Entities/Thermo Fisher Scientific Inc\|Thermo Fisher Scientific Inc]] | `TMO` | สหรัฐฯ | 3.34% |
+| 10 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | 3.27% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

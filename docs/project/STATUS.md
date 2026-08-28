@@ -66,6 +66,9 @@ _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · �
 - **B2-R1 · Fee stacking ในโน้ตกองหลัก** — V ผ่าน (broken=0 · LHHEALTH 2.16%+1.14%=≈3.30% · KT-US 1.54%+0.92%=≈2.46% ·
   กองที่ไม่มี TER → "-" ไม่ปลอม) · เพิ่มคอลัมน์ TER ไทย + รวม 2 ชั้น (TER ไทย + OCF กองหลัก) ในตารางกองไทยที่ feed ·
   ไม่ต้องโหวต · ไฟล์: `gen_master_notes.py` (import fees + ter_by_pid + fee_cells)
+- **B2-R2 · ลิงก์ holdings กองหลัก → โน้ต entity** — V ผ่าน (broken=0 · NVIDIA→[[NVIDIA Corp]] · +คอลัมน์ตลาด) ·
+  symbol→entity (look-through) → entity_links → note · กองหลักกลายเป็น hub ในกราฟ (คลิกหุ้น → เห็นกองไทยที่ถือทั้งหมด) ·
+  ระวัง ISS-024 (pipe ธรรมดา ให้ cell() escape) · ไฟล์: `gen_master_notes.py` (+geography, sym_to_note)
 
 - **R1 · A1 ประเทศจากหลักทรัพย์** — V ผ่าน (broken=0 · orphan=0 · ISIN/symbol→ประเทศถูกทุกตัวที่สุ่ม) ·
   ตัดสินใจ DEC-L01 (โหวต 3/3 dual field) · 1750/2121 กองมีประเทศ พร้อม covered% เปิดเผยส่วนที่ทะลุไม่ได้ ·

@@ -78,18 +78,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class A | `GOOGL` | 7.12% |
-| 2 | Apple Inc | `AAPL` | 6.20% |
-| 3 | Amazon.com Inc | `AMZN` | 4.27% |
-| 4 | NVIDIA Corp | `NVDA` | 3.95% |
-| 5 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 3.71% |
-| 6 | 3M Co | `MMM` | 3.65% |
-| 7 | Morgan Stanley | `MS` | 3.39% |
-| 8 | ASM International NV | `ASM.AS` | 3.38% |
-| 9 | Samsung Electronics Co Ltd | `005930.KQ` | 2.74% |
-| 10 | Oversea-Chinese Banking Corp Ltd | `O39.SI` | 2.70% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 7.12% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 6.20% |
+| 3 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.27% |
+| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 3.95% |
+| 5 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 3.71% |
+| 6 | 3M Co | `MMM` | สหรัฐฯ | 3.65% |
+| 7 | [[../Entities/MORGAN STANLEY INVESTMENT MANAGEMENT\|Morgan Stanley]] | `MS` | สหรัฐฯ | 3.39% |
+| 8 | [[../Entities/ASM International NV\|ASM International NV]] | `ASM.AS` | เนเธอร์แลนด์ | 3.38% |
+| 9 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 2.74% |
+| 10 | [[../Entities/OVERSEA-CHINESE BANKING CORP\|Oversea-Chinese Banking Corp Ltd]] | `O39.SI` | สิงคโปร์ | 2.70% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

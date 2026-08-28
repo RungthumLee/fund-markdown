@@ -68,18 +68,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Revolution Medicines Inc Ordinary Shares | `RVMD` | 6.14% |
-| 2 | Cogent Biosciences Inc | `COGT` | 5.31% |
-| 3 | Eli Lilly and Co | `LLY` | 5.22% |
-| 4 | Roche Holding AG ADR | `RHHBY` | 4.65% |
-| 5 | Novartis AG Registered Shares | `NOVN.SW` | 4.16% |
-| 6 | Bristol-Myers Squibb Co | `BMY` | 3.73% |
-| 7 | AbbVie Inc | `ABBV` | 3.72% |
-| 8 | Merck & Co Inc | `MRK` | 3.65% |
-| 9 | Johnson & Johnson | `JNJ` | 3.13% |
-| 10 | Immunome Inc Ordinary Shares | `IMNM` | 2.85% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Revolution Medicines Inc Ordinary Shares\|Revolution Medicines Inc Ordinary Shares]] | `RVMD` | สหรัฐฯ | 6.14% |
+| 2 | Cogent Biosciences Inc | `COGT` | สหรัฐฯ | 5.31% |
+| 3 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 5.22% |
+| 4 | Roche Holding AG ADR | `RHHBY` | สหรัฐฯ | 4.65% |
+| 5 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | 4.16% |
+| 6 | [[../Entities/Bristol-Myers Squibb Co\|Bristol-Myers Squibb Co]] | `BMY` | สหรัฐฯ | 3.73% |
+| 7 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | 3.72% |
+| 8 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 3.65% |
+| 9 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 3.13% |
+| 10 | Immunome Inc Ordinary Shares | `IMNM` | สหรัฐฯ | 2.85% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

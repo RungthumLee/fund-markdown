@@ -71,18 +71,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | ExxonMobil Holdings Corp | `XOM` | 17.75% |
-| 2 | Chevron Corp | `CVX` | 10.15% |
-| 3 | Shell PLC | `SHEL.L` | 7.02% |
-| 4 | TotalEnergies SE | `TTE.PA` | 5.07% |
-| 5 | ConocoPhillips | `COP` | 4.04% |
-| 6 | Enbridge Inc | `ENB.TO` | 3.27% |
-| 7 | BP PLC | `BP.L` | 3.22% |
-| 8 | Canadian Natural Resources Ltd | `CNQ.TO` | 2.73% |
-| 9 | Valero Energy Corp | `VLO` | 2.56% |
-| 10 | Marathon Petroleum Corp | `MPC` | 2.55% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/ExxonMobil Holdings Corp\|ExxonMobil Holdings Corp]] | `XOM` | สหรัฐฯ | 17.75% |
+| 2 | [[../Entities/Chevron Corp\|Chevron Corp]] | `CVX` | สหรัฐฯ | 10.15% |
+| 3 | [[../Entities/Shell PLC\|Shell PLC]] | `SHEL.L` | สหราชอาณาจักร | 7.02% |
+| 4 | [[../Entities/TotalEnergies SE\|TotalEnergies SE]] | `TTE.PA` | ฝรั่งเศส | 5.07% |
+| 5 | [[../Entities/COP US Equity\|ConocoPhillips]] | `COP` | สหรัฐฯ | 4.04% |
+| 6 | [[../Entities/Enbridge Inc\|Enbridge Inc]] | `ENB.TO` | แคนาดา | 3.27% |
+| 7 | BP PLC | `BP.L` | สหราชอาณาจักร | 3.22% |
+| 8 | [[../Entities/CNQ CN Equity\|Canadian Natural Resources Ltd]] | `CNQ.TO` | แคนาดา | 2.73% |
+| 9 | [[../Entities/Valero Energy Corp\|Valero Energy Corp]] | `VLO` | สหรัฐฯ | 2.56% |
+| 10 | [[../Entities/MARATHON PETROLEUM CORP\|Marathon Petroleum Corp]] | `MPC` | สหรัฐฯ | 2.55% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

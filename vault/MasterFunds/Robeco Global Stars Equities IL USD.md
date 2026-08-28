@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class A | `GOOGL` | 5.93% |
-| 2 | NVIDIA Corp | `NVDA` | 5.53% |
-| 3 | Apple Inc | `AAPL` | 4.11% |
-| 4 | Microsoft Corp | `MSFT` | 3.76% |
-| 5 | Amazon.com Inc | `AMZN` | 3.46% |
-| 6 | Applied Materials Inc | `AMAT` | 3.44% |
-| 7 | Broadcom Inc | `AVGO` | 3.13% |
-| 8 | Micron Technology Inc | `MU` | 2.96% |
-| 9 | Eli Lilly and Co | `LLY` | 2.83% |
-| 10 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 2.47% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 5.93% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 5.53% |
+| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 4.11% |
+| 4 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.76% |
+| 5 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.46% |
+| 6 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 3.44% |
+| 7 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 3.13% |
+| 8 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 2.96% |
+| 9 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 2.83% |
+| 10 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 2.47% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

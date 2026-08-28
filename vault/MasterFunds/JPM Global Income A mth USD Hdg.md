@@ -89,16 +89,16 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | JPM Nasdaq Eq Prm Inc Act ETF USD Dist | `JEPQ.L` | 6.36% |
-| 2 | Microsoft Corp | `MSFT` | 1.14% |
-| 3 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 1.04% |
-| 4 | NVIDIA Corp | `NVDA` | 0.74% |
-| 5 | ASML Holding NV | `ASML.AS` | 0.65% |
-| 6 | Alphabet Inc Class A | `GOOGL` | 0.50% |
-| 7 | Mastercard Inc Class A | `MA` | 0.47% |
-| 8 | Volvo AB Class B | `VOLV-B.ST` | 0.40% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/JPM Nasdaq Eq Prm Inc Act ETF USD Dist\|JPM Nasdaq Eq Prm Inc Act ETF USD Dist]] | `JEPQ.L` | สหราชอาณาจักร | 6.36% |
+| 2 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 1.14% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 1.04% |
+| 4 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 0.74% |
+| 5 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 0.65% |
+| 6 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 0.50% |
+| 7 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 0.47% |
+| 8 | [[../Entities/Volvo AB Class B\|Volvo AB Class B]] | `VOLV-B.ST` | - | 0.40% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

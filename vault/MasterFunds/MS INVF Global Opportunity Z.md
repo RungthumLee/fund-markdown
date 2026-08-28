@@ -80,18 +80,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 8.11% |
-| 2 | Meta Platforms Inc Class A | `META` | 6.63% |
-| 3 | ASML Holding NV | `ASML.AS` | 5.67% |
-| 4 | Uber Technologies Inc | `UBER` | 5.65% |
-| 5 | Spotify Technology SA | `SPOT` | 5.61% |
-| 6 | MercadoLibre Inc | `MELI` | 4.23% |
-| 7 | DoorDash Inc Ordinary Shares - Class A | `DASH` | 3.75% |
-| 8 | DSV AS | `DSV.CO` | 3.47% |
-| 9 | SK Hynix Inc | `000660.KQ` | 3.45% |
-| 10 | Moncler SpA | `MONC.MI` | 2.89% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 8.11% |
+| 2 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 6.63% |
+| 3 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 5.67% |
+| 4 | [[../Entities/Uber Technologies Inc\|Uber Technologies Inc]] | `UBER` | สหรัฐฯ | 5.65% |
+| 5 | [[../Entities/Spotify Technology SA\|Spotify Technology SA]] | `SPOT` | สหรัฐฯ | 5.61% |
+| 6 | [[../Entities/MELI US Equity\|MercadoLibre Inc]] | `MELI` | สหรัฐฯ | 4.23% |
+| 7 | [[../Entities/DoorDash Inc Ordinary Shares - Class A\|DoorDash Inc Ordinary Shares - Class A]] | `DASH` | สหรัฐฯ | 3.75% |
+| 8 | DSV AS | `DSV.CO` | - | 3.47% |
+| 9 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 3.45% |
+| 10 | [[../Entities/Moncler SpA\|Moncler SpA]] | `MONC.MI` | อิตาลี | 2.89% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

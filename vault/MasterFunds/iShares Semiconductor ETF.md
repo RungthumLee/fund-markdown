@@ -70,18 +70,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 8.69% |
-| 2 | Advanced Micro Devices Inc | `AMD` | 8.43% |
-| 3 | Broadcom Inc | `AVGO` | 7.96% |
-| 4 | Micron Technology Inc | `MU` | 7.74% |
-| 5 | Intel Corp | `INTC` | 5.20% |
-| 6 | Applied Materials Inc | `AMAT` | 5.15% |
-| 7 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 4.59% |
-| 8 | KLA Corp | `KLAC` | 4.35% |
-| 9 | Lam Research Corp | `LRCX` | 4.21% |
-| 10 | Marvell Technology Inc | `MRVL` | 4.18% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.69% |
+| 2 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 8.43% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 7.96% |
+| 4 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 7.74% |
+| 5 | [[../Entities/INTEL CORPORATION\|Intel Corp]] | `INTC` | สหรัฐฯ | 5.20% |
+| 6 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 5.15% |
+| 7 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 4.59% |
+| 8 | [[../Entities/KLA Corp\|KLA Corp]] | `KLAC` | สหรัฐฯ | 4.35% |
+| 9 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 4.21% |
+| 10 | [[../Entities/MARVELL TECHNOLOGY GROUP LTD\|Marvell Technology Inc]] | `MRVL` | สหรัฐฯ | 4.18% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

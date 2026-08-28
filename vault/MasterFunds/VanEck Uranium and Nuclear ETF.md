@@ -75,18 +75,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Constellation Energy Corp | `CEG` | 9.13% |
-| 2 | Cameco Corp | `CCO.TO` | 7.80% |
-| 3 | Public Service Enterprise Group Inc | `PEG` | 7.25% |
-| 4 | BWX Technologies Inc | `BWXT` | 6.17% |
-| 5 | Fortum Oyj | `FORTUM.HE` | 5.91% |
-| 6 | Centrus Energy Corp Class A | `LEU` | 5.69% |
-| 7 | NexGen Energy Ltd | `NXE.TO` | 5.28% |
-| 8 | Uranium Energy Corp | `UEC` | 4.88% |
-| 9 | Denison Mines Corp | `DML.TO` | 4.87% |
-| 10 | Paladin Energy Ltd | `PDN.AX` | 4.59% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/CEG US Equity\|Constellation Energy Corp]] | `CEG` | สหรัฐฯ | 9.13% |
+| 2 | [[../Entities/Cameco Corp\|Cameco Corp]] | `CCO.TO` | แคนาดา | 7.80% |
+| 3 | Public Service Enterprise Group Inc | `PEG` | สหรัฐฯ | 7.25% |
+| 4 | [[../Entities/BWX Technologies Inc\|BWX Technologies Inc]] | `BWXT` | สหรัฐฯ | 6.17% |
+| 5 | Fortum Oyj | `FORTUM.HE` | - | 5.91% |
+| 6 | Centrus Energy Corp Class A | `LEU` | สหรัฐฯ | 5.69% |
+| 7 | [[../Entities/NexGen Energy Ltd\|NexGen Energy Ltd]] | `NXE.TO` | แคนาดา | 5.28% |
+| 8 | Uranium Energy Corp | `UEC` | สหรัฐฯ | 4.88% |
+| 9 | Denison Mines Corp | `DML.TO` | แคนาดา | 4.87% |
+| 10 | Paladin Energy Ltd | `PDN.AX` | ออสเตรเลีย | 4.59% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

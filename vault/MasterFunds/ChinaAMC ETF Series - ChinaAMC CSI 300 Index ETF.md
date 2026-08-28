@@ -69,17 +69,17 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Kweichow Moutai Co Ltd Class A | `600519.SS` | 5.28% |
-| 2 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 3.06% |
-| 3 | Ping An Insurance (Group) Co. of China Ltd Class A | `601318.SS` | 2.51% |
-| 4 | China Merchants Bank Co Ltd Class A | `600036.SS` | 2.31% |
-| 5 | Wuliangye Yibin Co Ltd Class A | `000858.SZ` | 1.84% |
-| 6 | LONGi Green Energy Technology Co Ltd Class A | `601012.SS` | 1.32% |
-| 7 | Midea Group Co Ltd Class A | `000333.SZ` | 1.23% |
-| 8 | BYD Co Ltd Class A | `002594.SZ` | 1.19% |
-| 9 | Industrial Bank Co Ltd Class A | `601166.SS` | 1.16% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | 5.28% |
+| 2 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 3.06% |
+| 3 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class A\|Ping An Insurance (Group) Co. of China Ltd Class A]] | `601318.SS` | จีน | 2.51% |
+| 4 | [[../Entities/China Merchants Bank Co Ltd Class A\|China Merchants Bank Co Ltd Class A]] | `600036.SS` | จีน | 2.31% |
+| 5 | [[../Entities/Wuliangye Yibin Co Ltd Class A\|Wuliangye Yibin Co Ltd Class A]] | `000858.SZ` | จีน | 1.84% |
+| 6 | [[../Entities/LONGi Green Energy Technology Co Ltd Class A\|LONGi Green Energy Technology Co Ltd Class A]] | `601012.SS` | จีน | 1.32% |
+| 7 | [[../Entities/Midea Group Co Ltd Class A\|Midea Group Co Ltd Class A]] | `000333.SZ` | จีน | 1.23% |
+| 8 | [[../Entities/BYD Co Ltd Class A\|BYD Co Ltd Class A]] | `002594.SZ` | จีน | 1.19% |
+| 9 | [[../Entities/Industrial Bank Co Ltd Class A\|Industrial Bank Co Ltd Class A]] | `601166.SS` | จีน | 1.16% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -84,18 +84,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class A | `GOOGL` | 8.13% |
-| 2 | NVIDIA Corp | `NVDA` | 7.32% |
-| 3 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 7.19% |
-| 4 | ASML Holding NV | `ASML.AS` | 5.92% |
-| 5 | Advanced Micro Devices Inc | `AMD` | 4.23% |
-| 6 | Microsoft Corp | `MSFT` | 3.83% |
-| 7 | Mastercard Inc Class A | `MA` | 3.38% |
-| 8 | Amazon.com Inc | `AMZN` | 3.35% |
-| 9 | Eli Lilly and Co | `LLY` | 2.99% |
-| 10 | Micron Technology Inc | `MU` | 2.92% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 8.13% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.32% |
+| 3 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 7.19% |
+| 4 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 5.92% |
+| 5 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.23% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.83% |
+| 7 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 3.38% |
+| 8 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.35% |
+| 9 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 2.99% |
+| 10 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 2.92% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

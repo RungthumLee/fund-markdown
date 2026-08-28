@@ -87,10 +87,10 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | iShares $ High Yld Corp Bd ETF USD Dist | `IHYU.L` | 1.59% |
-| 2 | iShares MSCI EM ETF USD Dist | `IEEM.SW` | 1.33% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/iShares $ High Yld Corp Bd ETF USD Dist\|iShares $ High Yld Corp Bd ETF USD Dist]] | `IHYU.L` | สหราชอาณาจักร | 1.59% |
+| 2 | [[../Entities/iShares MSCI EM ETF USD Dist\|iShares MSCI EM ETF USD Dist]] | `IEEM.SW` | สวิตเซอร์แลนด์ | 1.33% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

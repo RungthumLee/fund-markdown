@@ -59,18 +59,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Welltower Inc | `WELL` | 8.99% |
-| 2 | Prologis Inc | `PLD` | 8.65% |
-| 3 | Equinix Inc | `EQIX` | 3.89% |
-| 4 | Simon Property Group Inc | `SPG` | 2.81% |
-| 5 | Public Storage | `PSA` | 2.59% |
-| 6 | Digital Realty Trust Inc | `DLR` | 2.44% |
-| 7 | Independence Realty Trust Inc | `IRT` | 2.37% |
-| 8 | VICI Properties Inc Ordinary Shares | `VICI` | 2.32% |
-| 9 | Iron Mountain Inc | `IRM` | 2.27% |
-| 10 | American Healthcare REIT Inc Ordinary Shares | `AHR` | 2.18% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | 8.99% |
+| 2 | [[../Entities/PLD US Equity\|Prologis Inc]] | `PLD` | สหรัฐฯ | 8.65% |
+| 3 | [[../Entities/EQIX US Equity\|Equinix Inc]] | `EQIX` | สหรัฐฯ | 3.89% |
+| 4 | [[../Entities/SPG US Equity\|Simon Property Group Inc]] | `SPG` | สหรัฐฯ | 2.81% |
+| 5 | [[../Entities/PSA US Equity\|Public Storage]] | `PSA` | สหรัฐฯ | 2.59% |
+| 6 | [[../Entities/Digital Realty\|Digital Realty Trust Inc]] | `DLR` | สหรัฐฯ | 2.44% |
+| 7 | Independence Realty Trust Inc | `IRT` | สหรัฐฯ | 2.37% |
+| 8 | [[../Entities/VICI Properties Inc Ordinary Shares\|VICI Properties Inc Ordinary Shares]] | `VICI` | สหรัฐฯ | 2.32% |
+| 9 | [[../Entities/Iron Mountain Inc\|Iron Mountain Inc]] | `IRM` | สหรัฐฯ | 2.27% |
+| 10 | [[../Entities/American Healthcare REIT Inc Ordinary Shares\|American Healthcare REIT Inc Ordinary Shares]] | `AHR` | สหรัฐฯ | 2.18% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

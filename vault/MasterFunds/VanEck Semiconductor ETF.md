@@ -70,18 +70,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 20.83% |
-| 2 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 9.57% |
-| 3 | Broadcom Inc | `AVGO` | 6.60% |
-| 4 | Advanced Micro Devices Inc | `AMD` | 5.74% |
-| 5 | Micron Technology Inc | `MU` | 5.25% |
-| 6 | ASML Holding NV ADR | `ASML` | 5.10% |
-| 7 | Applied Materials Inc | `AMAT` | 4.86% |
-| 8 | Texas Instruments Inc | `TXN` | 4.76% |
-| 9 | Analog Devices Inc | `ADI` | 4.50% |
-| 10 | Lam Research Corp | `LRCX` | 4.45% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 20.83% |
+| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 9.57% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 6.60% |
+| 4 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 5.74% |
+| 5 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 5.25% |
+| 6 | [[../Entities/ASML Holding NV ADR\|ASML Holding NV ADR]] | `ASML` | สหรัฐฯ | 5.10% |
+| 7 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 4.86% |
+| 8 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | 4.76% |
+| 9 | Analog Devices Inc | `ADI` | สหรัฐฯ | 4.50% |
+| 10 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 4.45% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

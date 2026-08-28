@@ -79,18 +79,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Porch Group Inc Ordinary Shares - Class A | `PRCH` | 8.87% |
-| 2 | Victory Capital Holdings Inc Class A | `VCTR` | 7.20% |
-| 3 | Marex Group Ltd | `MRX` | 6.21% |
-| 4 | Zeta Global Holdings Corp Class A | `ZETA` | 4.46% |
-| 5 | FTAI Aviation Ltd | `FTAI` | 4.39% |
-| 6 | Silicon Motion Technology Corp ADR | `SIMO` | 4.22% |
-| 7 | Genius Sports Ltd | `GENI` | 4.07% |
-| 8 | Axon Enterprise Inc | `AXON` | 3.84% |
-| 9 | Carpenter Technology Corp | `CRS` | 3.19% |
-| 10 | Indie Semiconductor Inc Ordinary Shares - Class A | `INDI` | 3.05% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Porch Group Inc Ordinary Shares - Class A | `PRCH` | สหรัฐฯ | 8.87% |
+| 2 | Victory Capital Holdings Inc Class A | `VCTR` | สหรัฐฯ | 7.20% |
+| 3 | Marex Group Ltd | `MRX` | สหรัฐฯ | 6.21% |
+| 4 | Zeta Global Holdings Corp Class A | `ZETA` | สหรัฐฯ | 4.46% |
+| 5 | FTAI Aviation Ltd | `FTAI` | สหรัฐฯ | 4.39% |
+| 6 | [[../Entities/Silicon Motion Technology Corp ADR\|Silicon Motion Technology Corp ADR]] | `SIMO` | สหรัฐฯ | 4.22% |
+| 7 | Genius Sports Ltd | `GENI` | สหรัฐฯ | 4.07% |
+| 8 | [[../Entities/Axon Enterprise Inc\|Axon Enterprise Inc]] | `AXON` | สหรัฐฯ | 3.84% |
+| 9 | [[../Entities/Carpenter Technology Corp\|Carpenter Technology Corp]] | `CRS` | สหรัฐฯ | 3.19% |
+| 10 | Indie Semiconductor Inc Ordinary Shares - Class A | `INDI` | สหรัฐฯ | 3.05% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

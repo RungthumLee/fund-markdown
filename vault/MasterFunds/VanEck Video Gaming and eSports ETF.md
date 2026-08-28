@@ -82,18 +82,18 @@ tags: [master-fund, external-data, etf, web-search]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NetEase Inc ADR | `NTES` | 7.58% |
-| 2 | Tencent Holdings Ltd | `0700.HK` | 7.22% |
-| 3 | Nintendo Co Ltd | `7974.T` | 6.79% |
-| 4 | Take-Two Interactive Software Inc | `TTWO` | 6.36% |
-| 5 | Electronic Arts Inc | `EA` | 6.04% |
-| 6 | Roblox Corp Ordinary Shares - Class A | `RBLX` | 5.82% |
-| 7 | Capcom Co Ltd | `9697.T` | 5.52% |
-| 8 | Aristocrat Leisure Ltd | `ALL.AX` | 5.47% |
-| 9 | BANDAI NAMCO Holdings Inc | `7832.T` | 5.16% |
-| 10 | Unity Software Inc Ordinary Shares | `U` | 5.07% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NetEase Inc ADR\|NetEase Inc ADR]] | `NTES` | สหรัฐฯ | 7.58% |
+| 2 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 7.22% |
+| 3 | [[../Entities/Nintendo Co Ltd\|Nintendo Co Ltd]] | `7974.T` | ญี่ปุ่น | 6.79% |
+| 4 | [[../Entities/Take-Two Interactive Software Inc\|Take-Two Interactive Software Inc]] | `TTWO` | สหรัฐฯ | 6.36% |
+| 5 | [[../Entities/Electronic Arts Inc\|Electronic Arts Inc]] | `EA` | สหรัฐฯ | 6.04% |
+| 6 | [[../Entities/Roblox Corp Ordinary Shares - Class A\|Roblox Corp Ordinary Shares - Class A]] | `RBLX` | สหรัฐฯ | 5.82% |
+| 7 | [[../Entities/Capcom Co Ltd\|Capcom Co Ltd]] | `9697.T` | ญี่ปุ่น | 5.52% |
+| 8 | [[../Entities/Aristocrat Leisure Ltd\|Aristocrat Leisure Ltd]] | `ALL.AX` | ออสเตรเลีย | 5.47% |
+| 9 | [[../Entities/BANDAI NAMCO Holdings Inc\|BANDAI NAMCO Holdings Inc]] | `7832.T` | ญี่ปุ่น | 5.16% |
+| 10 | [[../Entities/Unity Software Inc Ordinary Shares\|Unity Software Inc Ordinary Shares]] | `U` | สหรัฐฯ | 5.07% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

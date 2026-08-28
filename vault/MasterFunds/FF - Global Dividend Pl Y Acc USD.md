@@ -85,17 +85,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 5.06% |
-| 2 | Roche Holding AG Ordinary Shares new | `ROP.SW` | 3.87% |
-| 3 | Samsung Electronics Co Ltd | `005930.KQ` | 3.67% |
-| 4 | Deutsche Boerse AG | `DB1.DE` | 3.44% |
-| 5 | Novartis AG Registered Shares | `NOVN.SW` | 3.36% |
-| 6 | Iberdrola SA | `IBE.MC` | 2.81% |
-| 7 | Reckitt Benckiser Group PLC | `RKT.L` | 2.77% |
-| 8 | Compass Group PLC | `CPG.L` | 2.70% |
-| 9 | Industria De Diseno Textil SA Share From Split | `ITX.MC` | 2.62% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 5.06% |
+| 2 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 3.87% |
+| 3 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 3.67% |
+| 4 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | 3.44% |
+| 5 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | 3.36% |
+| 6 | [[../Entities/IBE SM Equity\|Iberdrola SA]] | `IBE.MC` | - | 2.81% |
+| 7 | [[../Entities/Reckitt Benckiser Group PLC\|Reckitt Benckiser Group PLC]] | `RKT.L` | สหราชอาณาจักร | 2.77% |
+| 8 | [[../Entities/Compass Group PLC\|Compass Group PLC]] | `CPG.L` | สหราชอาณาจักร | 2.70% |
+| 9 | [[../Entities/Industria De Diseno Textil SA Share From Split\|Industria De Diseno Textil SA Share From Split]] | `ITX.MC` | - | 2.62% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

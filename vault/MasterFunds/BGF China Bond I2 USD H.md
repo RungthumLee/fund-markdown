@@ -81,9 +81,9 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | iShares USD Asia High Yield Bond ETF | `O9P.SI` | 0.85% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/iShares USD Asia High Yield Bond ETF\|iShares USD Asia High Yield Bond ETF]] | `O9P.SI` | สิงคโปร์ | 0.85% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

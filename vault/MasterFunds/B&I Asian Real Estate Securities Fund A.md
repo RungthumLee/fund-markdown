@@ -73,18 +73,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Mitsui Fudosan Co Ltd | `8801.T` | 8.30% |
-| 2 | Goodman Group | `GMG.AX` | 7.88% |
-| 3 | Mitsubishi Estate Co Ltd | `8802.T` | 6.87% |
-| 4 | Scentre Group | `SCG.AX` | 4.61% |
-| 5 | Japan Real Estate Investment Corp | `8952.T` | 4.31% |
-| 6 | Sun Hung Kai Properties Ltd | `0016.HK` | 4.20% |
-| 7 | Hongkong Land Holdings Ltd | `H78.SI` | 3.74% |
-| 8 | Stockland Corp Ltd | `SGP.AX` | 3.31% |
-| 9 | CapitaLand Integrated Commercial Trust | `C38U.SI` | 3.01% |
-| 10 | GLP J-REIT | `3281.T` | 2.86% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Mitsui Fudosan Co Ltd\|Mitsui Fudosan Co Ltd]] | `8801.T` | ญี่ปุ่น | 8.30% |
+| 2 | [[../Entities/GOODMAN GROUP\|Goodman Group]] | `GMG.AX` | ออสเตรเลีย | 7.88% |
+| 3 | Mitsubishi Estate Co Ltd | `8802.T` | ญี่ปุ่น | 6.87% |
+| 4 | [[../Entities/SCENTRE GROUP\|Scentre Group]] | `SCG.AX` | ออสเตรเลีย | 4.61% |
+| 5 | [[../Entities/Japan Real Estate Investment Corp\|Japan Real Estate Investment Corp]] | `8952.T` | ญี่ปุ่น | 4.31% |
+| 6 | Sun Hung Kai Properties Ltd | `0016.HK` | ฮ่องกง | 4.20% |
+| 7 | Hongkong Land Holdings Ltd | `H78.SI` | สิงคโปร์ | 3.74% |
+| 8 | [[../Entities/Stockland Corp Ltd\|Stockland Corp Ltd]] | `SGP.AX` | ออสเตรเลีย | 3.31% |
+| 9 | [[../Entities/Capital Mall Trust\|CapitaLand Integrated Commercial Trust]] | `C38U.SI` | สิงคโปร์ | 3.01% |
+| 10 | [[../Entities/3281 JP\|GLP J-REIT]] | `3281.T` | ญี่ปุ่น | 2.86% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

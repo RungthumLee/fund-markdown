@@ -61,18 +61,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | CSOP STAR 50 ETF | `3109` | 20.82% |
-| 2 | Cambricon Technologies Corp Ltd Class A | `688256.SS` | 6.67% |
-| 3 | Hygon Information Technology Co Ltd Class A | `688041.SS` | 6.27% |
-| 4 | Semiconductor Manufacturing International Corp Class A | `688981` | 6.14% |
-| 5 | Advanced Micro-fabrication Equipment Inc Class A | `688012.SS` | 6.00% |
-| 6 | Montage Technology Co Ltd Class A | `688008.SS` | 5.63% |
-| 7 | Piotech Inc Class A | `688072.SS` | 3.48% |
-| 8 | Yuanjie Semiconductor Technology Co Ltd Class A | `688498.SS` | 3.40% |
-| 9 | Hwatsing Technology Co Ltd Class A | `688120.SS` | 2.67% |
-| 10 | Hua Hong Grace Semiconductor Ltd Ordinary Shares - Class A | `688347` | 2.66% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/CSOP STAR 50 ETF\|CSOP STAR 50 ETF]] | `3109` | - | 20.82% |
+| 2 | [[../Entities/Cambricon Technologies Corp Ltd Class A\|Cambricon Technologies Corp Ltd Class A]] | `688256.SS` | จีน | 6.67% |
+| 3 | [[../Entities/Hygon Information Technology Co Ltd Class A\|Hygon Information Technology Co Ltd Class A]] | `688041.SS` | จีน | 6.27% |
+| 4 | [[../Entities/Semiconductor Manufacturing International Corp Class A\|Semiconductor Manufacturing International Corp Class A]] | `688981` | - | 6.14% |
+| 5 | [[../Entities/Advanced Micro-fabrication Equipment Inc Class A\|Advanced Micro-fabrication Equipment Inc Class A]] | `688012.SS` | จีน | 6.00% |
+| 6 | [[../Entities/Montage Technology Co Ltd Class A\|Montage Technology Co Ltd Class A]] | `688008.SS` | จีน | 5.63% |
+| 7 | [[../Entities/Piotech Inc Class A\|Piotech Inc Class A]] | `688072.SS` | จีน | 3.48% |
+| 8 | [[../Entities/Yuanjie Semiconductor Technology Co Ltd Class A\|Yuanjie Semiconductor Technology Co Ltd Class A]] | `688498.SS` | จีน | 3.40% |
+| 9 | [[../Entities/Hwatsing Technology Co Ltd Class A\|Hwatsing Technology Co Ltd Class A]] | `688120.SS` | จีน | 2.67% |
+| 10 | [[../Entities/Hua Hong Grace Semiconductor Ltd Ordinary Shares - Class A\|Hua Hong Grace Semiconductor Ltd Ordinary Shares - Class A]] | `688347` | - | 2.66% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

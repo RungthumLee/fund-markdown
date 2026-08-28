@@ -81,18 +81,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Alphabet Inc Class C | `GOOG` | 8.65% |
-| 2 | NVIDIA Corp | `NVDA` | 8.63% |
-| 3 | Apple Inc | `AAPL` | 7.92% |
-| 4 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 6.31% |
-| 5 | Amazon.com Inc | `AMZN` | 5.96% |
-| 6 | Broadcom Inc | `AVGO` | 4.59% |
-| 7 | Advanced Micro Devices Inc | `AMD` | 4.43% |
-| 8 | Eli Lilly and Co | `LLY` | 3.55% |
-| 9 | Mastercard Inc Class A | `MA` | 2.69% |
-| 10 | L'Oreal SA | `OR.PA` | 2.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 8.65% |
+| 2 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.63% |
+| 3 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 7.92% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 6.31% |
+| 5 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 5.96% |
+| 6 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 4.59% |
+| 7 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 4.43% |
+| 8 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 3.55% |
+| 9 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 2.69% |
+| 10 | [[../Entities/L'Oreal SA\|L'Oreal SA]] | `OR.PA` | ฝรั่งเศส | 2.41% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

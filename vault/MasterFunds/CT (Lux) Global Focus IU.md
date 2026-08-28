@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 8.05% |
-| 2 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 6.28% |
-| 3 | Applied Materials Inc | `AMAT` | 5.49% |
-| 4 | Mastercard Inc Class A | `MA` | 4.65% |
-| 5 | ASML Holding NV | `ASML.AS` | 4.62% |
-| 6 | Linde PLC | `LIN` | 4.06% |
-| 7 | Alphabet Inc Class A | `GOOGL` | 3.71% |
-| 8 | SK Hynix Inc | `000660.KQ` | 3.61% |
-| 9 | Amazon.com Inc | `AMZN` | 3.24% |
-| 10 | Safran SA | `SAF.PA` | 3.21% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 8.05% |
+| 2 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 6.28% |
+| 3 | [[../Entities/APPLIED MATERIALS, INC\|Applied Materials Inc]] | `AMAT` | สหรัฐฯ | 5.49% |
+| 4 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 4.65% |
+| 5 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 4.62% |
+| 6 | [[../Entities/LIN US Equity\|Linde PLC]] | `LIN` | สหรัฐฯ | 4.06% |
+| 7 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 3.71% |
+| 8 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 3.61% |
+| 9 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 3.24% |
+| 10 | [[../Entities/SAF FP Equity\|Safran SA]] | `SAF.PA` | ฝรั่งเศส | 3.21% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

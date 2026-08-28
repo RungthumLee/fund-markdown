@@ -80,18 +80,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Twist Bioscience Corp | `TWST` | 5.93% |
-| 2 | Astera Labs Inc | `ALAB` | 5.62% |
-| 3 | Xometry Inc Ordinary Shares - Class A | `XMTR` | 4.58% |
-| 4 | Axon Enterprise Inc | `AXON` | 4.46% |
-| 5 | Alnylam Pharmaceuticals Inc | `ALNY` | 4.41% |
-| 6 | Aspeed Technology Inc | `5274.TWO` | 3.26% |
-| 7 | Guardant Health Inc | `GH` | 2.91% |
-| 8 | JFrog Ltd Ordinary Shares | `FROG` | 2.80% |
-| 9 | Harmonic Drive Systems Inc | `6324.T` | 2.69% |
-| 10 | Revolution Medicines Inc Ordinary Shares | `RVMD` | 2.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Twist Bioscience Corp\|Twist Bioscience Corp]] | `TWST` | สหรัฐฯ | 5.93% |
+| 2 | [[../Entities/Astera Labs Inc\|Astera Labs Inc]] | `ALAB` | สหรัฐฯ | 5.62% |
+| 3 | [[../Entities/Xometry Inc Ordinary Shares - Class A\|Xometry Inc Ordinary Shares - Class A]] | `XMTR` | สหรัฐฯ | 4.58% |
+| 4 | [[../Entities/Axon Enterprise Inc\|Axon Enterprise Inc]] | `AXON` | สหรัฐฯ | 4.46% |
+| 5 | [[../Entities/Alnylam Pharmaceuticals Inc\|Alnylam Pharmaceuticals Inc]] | `ALNY` | สหรัฐฯ | 4.41% |
+| 6 | [[../Entities/Aspeed Technology Inc\|Aspeed Technology Inc]] | `5274.TWO` | ไต้หวัน | 3.26% |
+| 7 | [[../Entities/Guardant Health Inc\|Guardant Health Inc]] | `GH` | สหรัฐฯ | 2.91% |
+| 8 | [[../Entities/JFrog Ltd Ordinary Shares\|JFrog Ltd Ordinary Shares]] | `FROG` | สหรัฐฯ | 2.80% |
+| 9 | [[../Entities/Harmonic Drive Systems Inc\|Harmonic Drive Systems Inc]] | `6324.T` | ญี่ปุ่น | 2.69% |
+| 10 | [[../Entities/Revolution Medicines Inc Ordinary Shares\|Revolution Medicines Inc Ordinary Shares]] | `RVMD` | สหรัฐฯ | 2.41% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

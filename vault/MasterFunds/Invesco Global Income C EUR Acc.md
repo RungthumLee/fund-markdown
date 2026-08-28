@@ -71,14 +71,14 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Euro Bobl Future June 26 | `FGBMM26` | 2.79% |
-| 2 | Texas Instruments Inc | `TXN` | 2.40% |
-| 3 | 3i Group Ord | `III.L` | 2.18% |
-| 4 | AIA Group Ltd | `1299.HK` | 2.18% |
-| 5 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 1.99% |
-| 6 | Canadian Pacific Kansas City Ltd | `CP.TO` | 1.89% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Euro Bobl Future June 26\|Euro Bobl Future June 26]] | `FGBMM26` | - | 2.79% |
+| 2 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | 2.40% |
+| 3 | [[../Entities/3i Group Ord\|3i Group Ord]] | `III.L` | สหราชอาณาจักร | 2.18% |
+| 4 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | 2.18% |
+| 5 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 1.99% |
+| 6 | [[../Entities/Canadian Pacific Kansas City Ltd\|Canadian Pacific Kansas City Ltd]] | `CP.TO` | แคนาดา | 1.89% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

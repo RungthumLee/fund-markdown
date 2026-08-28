@@ -86,18 +86,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Godfrey Phillips India Ltd | `500163` | 6.51% |
-| 2 | State Bank of India | `SBIN.NS` | 5.75% |
-| 3 | Fortis Healthcare Ltd | `FORTIS.BO` | 5.16% |
-| 4 | Bharti Airtel Ltd | `BHARTIARTL.NS` | 4.83% |
-| 5 | HDFC Bank Ltd | `HDFCBANK.NS` | 3.63% |
-| 6 | Larsen & Toubro Ltd | `LT.NS` | 3.25% |
-| 7 | Bharat Petroleum Corp Ltd | `500547` | 3.21% |
-| 8 | InterGlobe Aviation Ltd | `INDIGO.NS` | 2.96% |
-| 9 | Hindustan Petroleum Corp Ltd | `HINDPETRO.NS` | 2.96% |
-| 10 | HCL Technologies Ltd | `HCLTECH.NS` | 2.84% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Godfrey Phillips India Ltd | `500163` | - | 6.51% |
+| 2 | [[../Entities/State Bank of India\|State Bank of India]] | `SBIN.NS` | อินเดีย | 5.75% |
+| 3 | [[../Entities/Fortis Healthcare Ltd\|Fortis Healthcare Ltd]] | `FORTIS.BO` | อินเดีย | 5.16% |
+| 4 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 4.83% |
+| 5 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 3.63% |
+| 6 | [[../Entities/Larsen & Toubro Ltd\|Larsen & Toubro Ltd]] | `LT.NS` | อินเดีย | 3.25% |
+| 7 | Bharat Petroleum Corp Ltd | `500547` | - | 3.21% |
+| 8 | InterGlobe Aviation Ltd | `INDIGO.NS` | อินเดีย | 2.96% |
+| 9 | Hindustan Petroleum Corp Ltd | `HINDPETRO.NS` | อินเดีย | 2.96% |
+| 10 | HCL Technologies Ltd | `HCLTECH.NS` | อินเดีย | 2.84% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

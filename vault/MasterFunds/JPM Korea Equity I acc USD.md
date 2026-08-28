@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | SK hynix Inc | `000660.KQ` | 11.75% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 10.91% |
-| 3 | SK Square | `402340.KQ` | 9.02% |
-| 4 | Samsung C&T Corp | `028260.KQ` | 4.79% |
-| 5 | Samsung Electro-Mechanics Co Ltd | `009150.KQ` | 4.72% |
-| 6 | SK Inc | `034730.KQ` | 3.50% |
-| 7 | Shinhan Financial Group Co Ltd | `055550.KQ` | 3.17% |
-| 8 | HD Hyundai Heavy Industries | `329180.KQ` | 2.81% |
-| 9 | KB Financial Group Inc | `105560.KQ` | 2.75% |
-| 10 | Samsung Life Insurance Co Ltd | `032830.KQ` | 2.36% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 11.75% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 10.91% |
+| 3 | [[../Entities/SK Square\|SK Square]] | `402340.KQ` | เกาหลีใต้ | 9.02% |
+| 4 | [[../Entities/Samsung C&T Corp\|Samsung C&T Corp]] | `028260.KQ` | เกาหลีใต้ | 4.79% |
+| 5 | [[../Entities/Samsung Electro-Mechanics Co Ltd\|Samsung Electro-Mechanics Co Ltd]] | `009150.KQ` | เกาหลีใต้ | 4.72% |
+| 6 | [[../Entities/SK Inc\|SK Inc]] | `034730.KQ` | เกาหลีใต้ | 3.50% |
+| 7 | [[../Entities/Shinhan Financial Group Co Ltd\|Shinhan Financial Group Co Ltd]] | `055550.KQ` | เกาหลีใต้ | 3.17% |
+| 8 | [[../Entities/HD Hyundai Heavy Industries\|HD Hyundai Heavy Industries]] | `329180.KQ` | เกาหลีใต้ | 2.81% |
+| 9 | [[../Entities/KB Financial Group Inc\|KB Financial Group Inc]] | `105560.KQ` | เกาหลีใต้ | 2.75% |
+| 10 | [[../Entities/Samsung Life Insurance Co Ltd\|Samsung Life Insurance Co Ltd]] | `032830.KQ` | เกาหลีใต้ | 2.36% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

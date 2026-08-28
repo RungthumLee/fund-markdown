@@ -57,18 +57,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Eli Lilly and Co | `LLY` | 9.79% |
-| 2 | AstraZeneca PLC | `AZN.L` | 7.37% |
-| 3 | AbbVie Inc | `ABBV` | 5.91% |
-| 4 | Vertex Pharmaceuticals Inc | `VRTX` | 5.13% |
-| 5 | Merck & Co Inc | `MRK` | 4.99% |
-| 6 | Gilead Sciences Inc | `GILD` | 4.65% |
-| 7 | Intuitive Surgical Inc | `ISRG` | 4.31% |
-| 8 | Jazz Pharmaceuticals PLC | `JAZZ` | 3.64% |
-| 9 | Neurocrine Biosciences Inc | `NBIX` | 3.45% |
-| 10 | argenx SE ADR | `ARGX` | 3.41% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 9.79% |
+| 2 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 7.37% |
+| 3 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | 5.91% |
+| 4 | [[../Entities/Vertex Pharmaceuticals Inc\|Vertex Pharmaceuticals Inc]] | `VRTX` | สหรัฐฯ | 5.13% |
+| 5 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 4.99% |
+| 6 | [[../Entities/Gilead Sciences Inc\|Gilead Sciences Inc]] | `GILD` | สหรัฐฯ | 4.65% |
+| 7 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | 4.31% |
+| 8 | Jazz Pharmaceuticals PLC | `JAZZ` | สหรัฐฯ | 3.64% |
+| 9 | Neurocrine Biosciences Inc | `NBIX` | สหรัฐฯ | 3.45% |
+| 10 | [[../Entities/argenx SE ADR\|argenx SE ADR]] | `ARGX` | สหรัฐฯ | 3.41% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

@@ -80,18 +80,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Illumina Inc | `ILMN` | 4.21% |
-| 2 | TechnipFMC PLC | `FTI` | 4.14% |
-| 3 | Everpure Inc Class A | `P` | 3.28% |
-| 4 | Curtiss-Wright Corp | `CW` | 3.21% |
-| 5 | Medpace Holdings Inc | `MEDP` | 3.13% |
-| 6 | nVent Electric PLC | `NVT` | 2.93% |
-| 7 | Manhattan Associates Inc | `MANH` | 2.79% |
-| 8 | Exelixis Inc | `EXEL` | 2.70% |
-| 9 | Carpenter Technology Corp | `CRS` | 2.69% |
-| 10 | United Therapeutics Corp | `UTHR` | 2.53% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Illumina Inc\|Illumina Inc]] | `ILMN` | สหรัฐฯ | 4.21% |
+| 2 | [[../Entities/TechnipFMC PLC\|TechnipFMC PLC]] | `FTI` | สหรัฐฯ | 4.14% |
+| 3 | Everpure Inc Class A | `P` | สหรัฐฯ | 3.28% |
+| 4 | [[../Entities/Curtiss-Wright Corp\|Curtiss-Wright Corp]] | `CW` | สหรัฐฯ | 3.21% |
+| 5 | Medpace Holdings Inc | `MEDP` | สหรัฐฯ | 3.13% |
+| 6 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | 2.93% |
+| 7 | Manhattan Associates Inc | `MANH` | สหรัฐฯ | 2.79% |
+| 8 | Exelixis Inc | `EXEL` | สหรัฐฯ | 2.70% |
+| 9 | [[../Entities/Carpenter Technology Corp\|Carpenter Technology Corp]] | `CRS` | สหรัฐฯ | 2.69% |
+| 10 | United Therapeutics Corp | `UTHR` | สหรัฐฯ | 2.53% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

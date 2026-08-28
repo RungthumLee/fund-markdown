@@ -83,18 +83,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Ligand Pharmaceuticals Inc | `LGND` | 2.87% |
-| 2 | Cohu Inc | `COHU` | 2.73% |
-| 3 | Wintrust Financial Corp | `WTFC` | 2.66% |
-| 4 | WSFS Financial Corp | `WSFS` | 2.57% |
-| 5 | Everus Construction Group Inc | `ECG` | 2.54% |
-| 6 | Seacoast Banking Corp of Florida | `SBCF` | 2.51% |
-| 7 | Casella Waste Systems Inc Class A | `CWST` | 2.45% |
-| 8 | OneSpaWorld Holdings Ltd | `OSW` | 2.43% |
-| 9 | Ameris Bancorp | `ABCB` | 2.42% |
-| 10 | Kiniksa Pharmaceuticals International PLC Class A | `KNSA` | 2.40% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Ligand Pharmaceuticals Inc\|Ligand Pharmaceuticals Inc]] | `LGND` | สหรัฐฯ | 2.87% |
+| 2 | Cohu Inc | `COHU` | สหรัฐฯ | 2.73% |
+| 3 | [[../Entities/Wintrust Financial Corp\|Wintrust Financial Corp]] | `WTFC` | สหรัฐฯ | 2.66% |
+| 4 | WSFS Financial Corp | `WSFS` | สหรัฐฯ | 2.57% |
+| 5 | Everus Construction Group Inc | `ECG` | สหรัฐฯ | 2.54% |
+| 6 | Seacoast Banking Corp of Florida | `SBCF` | สหรัฐฯ | 2.51% |
+| 7 | Casella Waste Systems Inc Class A | `CWST` | สหรัฐฯ | 2.45% |
+| 8 | OneSpaWorld Holdings Ltd | `OSW` | สหรัฐฯ | 2.43% |
+| 9 | Ameris Bancorp | `ABCB` | สหรัฐฯ | 2.42% |
+| 10 | Kiniksa Pharmaceuticals International PLC Class A | `KNSA` | สหรัฐฯ | 2.40% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

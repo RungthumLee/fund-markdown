@@ -84,17 +84,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | ICICI Bank Ltd | `ICICIBANK.NS` | 8.14% |
-| 2 | HDFC Bank Ltd | `HDFCBANK.NS` | 7.60% |
-| 3 | Bharti Airtel Ltd | `BHARTIARTL.NS` | 6.65% |
-| 4 | Mahindra & Mahindra Ltd | `M&M.NS` | 4.89% |
-| 5 | Bajaj Finance Ltd | `500034` | 3.91% |
-| 6 | Power Grid Corp Of India Ltd | `POWERGRID.BO` | 3.07% |
-| 7 | Aegis Logistics Ltd | `AEGISLOG.BO` | 2.95% |
-| 8 | Phoenix Mills Ltd | `PHOENIXLTD.BO` | 2.65% |
-| 9 | SBI Life Insurance Co Ltd | `SBILIFE.BO` | 2.62% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 8.14% |
+| 2 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 7.60% |
+| 3 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 6.65% |
+| 4 | [[../Entities/Mahindra & Mahindra Ltd\|Mahindra & Mahindra Ltd]] | `M&M.NS` | อินเดีย | 4.89% |
+| 5 | [[../Entities/Bajaj Finance Ltd\|Bajaj Finance Ltd]] | `500034` | - | 3.91% |
+| 6 | Power Grid Corp Of India Ltd | `POWERGRID.BO` | อินเดีย | 3.07% |
+| 7 | Aegis Logistics Ltd | `AEGISLOG.BO` | อินเดีย | 2.95% |
+| 8 | Phoenix Mills Ltd | `PHOENIXLTD.BO` | อินเดีย | 2.65% |
+| 9 | SBI Life Insurance Co Ltd | `SBILIFE.BO` | อินเดีย | 2.62% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

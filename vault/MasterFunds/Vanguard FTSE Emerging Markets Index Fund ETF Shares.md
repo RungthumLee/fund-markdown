@@ -84,18 +84,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 14.99% |
-| 2 | Tencent Holdings Ltd | `0700.HK` | 3.19% |
-| 3 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 2.33% |
-| 4 | MediaTek Inc | `2454.TW` | 1.31% |
-| 5 | China Construction Bank Corp Class H | `00939` | 0.86% |
-| 6 | Delta Electronics Inc | `2308.TW` | 0.79% |
-| 7 | Hon Hai Precision Industry Co Ltd | `2317.TW` | 0.78% |
-| 8 | Reliance Industries Ltd | `RELIANCE.NS` | 0.77% |
-| 9 | HDFC Bank Ltd | `HDFCBANK.NS` | 0.75% |
-| 10 | ICICI Bank Ltd | `ICICIBANK.NS` | 0.67% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 14.99% |
+| 2 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 3.19% |
+| 3 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 2.33% |
+| 4 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 1.31% |
+| 5 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 0.86% |
+| 6 | [[../Entities/Delta Electronics Inc\|Delta Electronics Inc]] | `2308.TW` | ไต้หวัน | 0.79% |
+| 7 | [[../Entities/Hon Hai Precision Industry Co Ltd\|Hon Hai Precision Industry Co Ltd]] | `2317.TW` | ไต้หวัน | 0.78% |
+| 8 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 0.77% |
+| 9 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 0.75% |
+| 10 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 0.67% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

@@ -65,18 +65,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Sumitomo Electric Industries Ltd | `5802.T` | 5.56% |
-| 2 | Maruwa Co Ltd | `5344.T` | 5.44% |
-| 3 | Mitsubishi UFJ Financial Group Inc | `8306.T` | 5.08% |
-| 4 | Tokyo Electron Ltd | `8035.T` | 5.08% |
-| 5 | Sumitomo Mitsui Financial Group Inc | `8316.T` | 4.20% |
-| 6 | Hitachi Ltd | `6501.T` | 4.15% |
-| 7 | Sony Group Corp | `6758.T` | 3.58% |
-| 8 | Mitsubishi Corp | `8058.T` | 3.45% |
-| 9 | Mitsubishi Heavy Industries Ltd | `7011.T` | 3.38% |
-| 10 | Kawasaki Heavy Industries Ltd | `7012.T` | 3.12% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Sumitomo Electric Industries Ltd\|Sumitomo Electric Industries Ltd]] | `5802.T` | ญี่ปุ่น | 5.56% |
+| 2 | Maruwa Co Ltd | `5344.T` | ญี่ปุ่น | 5.44% |
+| 3 | [[../Entities/Mitsubishi UFJ Financial Group\|Mitsubishi UFJ Financial Group Inc]] | `8306.T` | ญี่ปุ่น | 5.08% |
+| 4 | [[../Entities/Tokyo Electron Ltd\|Tokyo Electron Ltd]] | `8035.T` | ญี่ปุ่น | 5.08% |
+| 5 | [[../Entities/Sumitomo Mitsui Financial Group Inc\|Sumitomo Mitsui Financial Group Inc]] | `8316.T` | ญี่ปุ่น | 4.20% |
+| 6 | [[../Entities/Hitachi Ltd\|Hitachi Ltd]] | `6501.T` | ญี่ปุ่น | 4.15% |
+| 7 | [[../Entities/Sony Group Corp\|Sony Group Corp]] | `6758.T` | ญี่ปุ่น | 3.58% |
+| 8 | [[../Entities/Mitsubishi Corp\|Mitsubishi Corp]] | `8058.T` | ญี่ปุ่น | 3.45% |
+| 9 | [[../Entities/Mitsubishi Heavy Industries Ltd\|Mitsubishi Heavy Industries Ltd]] | `7011.T` | ญี่ปุ่น | 3.38% |
+| 10 | Kawasaki Heavy Industries Ltd | `7012.T` | ญี่ปุ่น | 3.12% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

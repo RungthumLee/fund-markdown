@@ -66,17 +66,17 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 12.66% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 6.33% |
-| 3 | Nanya Technology Corp | `2408.TW` | 5.69% |
-| 4 | Tencent Holdings Ltd | `0700.HK` | 4.81% |
-| 5 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 4.31% |
-| 6 | SK Hynix Inc | `000660.KQ` | 3.77% |
-| 7 | Nine Dragons Paper (Holdings) Ltd | `2689.HK` | 3.38% |
-| 8 | Zhongjin Gold Corp Ltd Class A | `600489.SS` | 2.71% |
-| 9 | National Aluminium Co Ltd | `NATIONALUM.BO` | 2.60% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 12.66% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 6.33% |
+| 3 | [[../Entities/Nanya Technology Corp\|Nanya Technology Corp]] | `2408.TW` | ไต้หวัน | 5.69% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 4.81% |
+| 5 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 4.31% |
+| 6 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 3.77% |
+| 7 | [[../Entities/Nine Dragons Paper (Holdings) Ltd\|Nine Dragons Paper (Holdings) Ltd]] | `2689.HK` | ฮ่องกง | 3.38% |
+| 8 | [[../Entities/Zhongjin Gold Corp Ltd Class A\|Zhongjin Gold Corp Ltd Class A]] | `600489.SS` | จีน | 2.71% |
+| 9 | National Aluminium Co Ltd | `NATIONALUM.BO` | อินเดีย | 2.60% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

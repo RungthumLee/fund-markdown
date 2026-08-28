@@ -82,18 +82,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | NVIDIA Corp | `NVDA` | 7.55% |
-| 2 | Apple Inc | `AAPL` | 7.04% |
-| 3 | Microsoft Corp | `MSFT` | 5.36% |
-| 4 | Amazon.com Inc | `AMZN` | 4.13% |
-| 5 | Alphabet Inc Class A | `GOOGL` | 3.24% |
-| 6 | Broadcom Inc | `AVGO` | 2.86% |
-| 7 | Alphabet Inc Class C | `GOOG` | 2.62% |
-| 8 | Meta Platforms Inc Class A | `META` | 1.90% |
-| 9 | JPMorgan Chase & Co | `JPM` | 1.46% |
-| 10 | Berkshire Hathaway Inc Class B | `BRK-B` | 1.46% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 7.55% |
+| 2 | [[../Entities/Apple Inc\|Apple Inc]] | `AAPL` | สหรัฐฯ | 7.04% |
+| 3 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 5.36% |
+| 4 | [[../Entities/AMAZON.COM INC\|Amazon.com Inc]] | `AMZN` | สหรัฐฯ | 4.13% |
+| 5 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 3.24% |
+| 6 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 2.86% |
+| 7 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 2.62% |
+| 8 | [[../Entities/META US Equity\|Meta Platforms Inc Class A]] | `META` | สหรัฐฯ | 1.90% |
+| 9 | [[../Entities/JPMORGAN CHASE & CO\|JPMorgan Chase & Co]] | `JPM` | สหรัฐฯ | 1.46% |
+| 10 | [[../Entities/Berkshire Hathaway Inc Class B\|Berkshire Hathaway Inc Class B]] | `BRK-B` | - | 1.46% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

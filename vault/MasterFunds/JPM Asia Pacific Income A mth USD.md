@@ -85,16 +85,16 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 8.50% |
-| 2 | Samsung Electronics Co Ltd Participating Preferred | `005935` | 3.33% |
-| 3 | Tencent Holdings Ltd | `0700.HK` | 2.24% |
-| 4 | SK hynix Inc | `000660.KQ` | 1.91% |
-| 5 | Hong Kong Exchanges and Clearing Ltd | `0388.HK` | 1.39% |
-| 6 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 1.26% |
-| 7 | Santos Ltd | `STO.AX` | 1.12% |
-| 8 | Zijin Mining Group Co Ltd Class A | `601899.SS` | 1.12% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 8.50% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electronics Co Ltd Participating Preferred]] | `005935` | - | 3.33% |
+| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 2.24% |
+| 4 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 1.91% |
+| 5 | [[../Entities/Hong Kong Exchanges and Clearing Ltd\|Hong Kong Exchanges and Clearing Ltd]] | `0388.HK` | ฮ่องกง | 1.39% |
+| 6 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 1.26% |
+| 7 | [[../Entities/Santos Ltd\|Santos Ltd]] | `STO.AX` | ออสเตรเลีย | 1.12% |
+| 8 | [[../Entities/Zijin Mining Group Co Ltd Class A\|Zijin Mining Group Co Ltd Class A]] | `601899.SS` | จีน | 1.12% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

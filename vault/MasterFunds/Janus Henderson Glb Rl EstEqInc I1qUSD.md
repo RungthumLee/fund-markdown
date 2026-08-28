@@ -76,18 +76,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Welltower Inc | `WELL` | 8.33% |
-| 2 | Prologis Inc | `PLD` | 8.23% |
-| 3 | Simon Property Group Inc | `SPG` | 7.43% |
-| 4 | Digital Realty Trust Inc | `DLR` | 5.60% |
-| 5 | Ventas Inc | `VTR` | 4.44% |
-| 6 | VICI Properties Inc Ordinary Shares | `VICI` | 3.98% |
-| 7 | Mid-America Apartment Communities Inc | `MAA` | 3.95% |
-| 8 | Goodman Group | `GMG.AX` | 3.85% |
-| 9 | Lamar Advertising Co Class A | `LAMR` | 3.77% |
-| 10 | Omega Healthcare Investors Inc | `OHI` | 3.36% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/WELLTOWER, INC\|Welltower Inc]] | `WELL` | สหรัฐฯ | 8.33% |
+| 2 | [[../Entities/PLD US Equity\|Prologis Inc]] | `PLD` | สหรัฐฯ | 8.23% |
+| 3 | [[../Entities/SPG US Equity\|Simon Property Group Inc]] | `SPG` | สหรัฐฯ | 7.43% |
+| 4 | [[../Entities/Digital Realty\|Digital Realty Trust Inc]] | `DLR` | สหรัฐฯ | 5.60% |
+| 5 | [[../Entities/VENTAS, INC\|Ventas Inc]] | `VTR` | สหรัฐฯ | 4.44% |
+| 6 | [[../Entities/VICI Properties Inc Ordinary Shares\|VICI Properties Inc Ordinary Shares]] | `VICI` | สหรัฐฯ | 3.98% |
+| 7 | Mid-America Apartment Communities Inc | `MAA` | สหรัฐฯ | 3.95% |
+| 8 | [[../Entities/GOODMAN GROUP\|Goodman Group]] | `GMG.AX` | ออสเตรเลีย | 3.85% |
+| 9 | Lamar Advertising Co Class A | `LAMR` | สหรัฐฯ | 3.77% |
+| 10 | Omega Healthcare Investors Inc | `OHI` | สหรัฐฯ | 3.36% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

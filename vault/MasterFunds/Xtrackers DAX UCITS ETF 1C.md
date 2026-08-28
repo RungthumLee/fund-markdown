@@ -78,18 +78,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Siemens AG | `SIE.DE` | 11.86% |
-| 2 | Allianz SE | `ALV.DE` | 9.41% |
-| 3 | SAP SE | `SAP.DE` | 9.12% |
-| 4 | Siemens Energy AG Ordinary Shares | `ENR.DE` | 6.86% |
-| 5 | Airbus SE | `AIR.PA` | 6.80% |
-| 6 | Deutsche Telekom AG | `DTE.DE` | 5.30% |
-| 7 | Infineon Technologies AG | `IFX.DE` | 4.60% |
-| 8 | Munchener Ruckversicherungs-Gesellschaft AG | `MUV2.DE` | 3.79% |
-| 9 | Deutsche Bank AG | `DBK.DE` | 3.48% |
-| 10 | Deutsche Post AG | `DHL.DE` | 3.12% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Siemens AG\|Siemens AG]] | `SIE.DE` | เยอรมนี | 11.86% |
+| 2 | [[../Entities/Allianz Global Investors Fund - Allianz Global Artificial Intelligence Fund (LU1548497426)\|Allianz SE]] | `ALV.DE` | เยอรมนี | 9.41% |
+| 3 | [[../Entities/SAP SE\|SAP SE]] | `SAP.DE` | เยอรมนี | 9.12% |
+| 4 | [[../Entities/Siemens Energy AG Ordinary Shares\|Siemens Energy AG Ordinary Shares]] | `ENR.DE` | เยอรมนี | 6.86% |
+| 5 | [[../Entities/Airbus SE\|Airbus SE]] | `AIR.PA` | ฝรั่งเศส | 6.80% |
+| 6 | [[../Entities/Deutsche Telekom AG\|Deutsche Telekom AG]] | `DTE.DE` | เยอรมนี | 5.30% |
+| 7 | [[../Entities/Infineon Technologies AG\|Infineon Technologies AG]] | `IFX.DE` | เยอรมนี | 4.60% |
+| 8 | Munchener Ruckversicherungs-Gesellschaft AG | `MUV2.DE` | เยอรมนี | 3.79% |
+| 9 | [[../Entities/Deutsche Bank AG\|Deutsche Bank AG]] | `DBK.DE` | เยอรมนี | 3.48% |
+| 10 | Deutsche Post AG | `DHL.DE` | เยอรมนี | 3.12% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

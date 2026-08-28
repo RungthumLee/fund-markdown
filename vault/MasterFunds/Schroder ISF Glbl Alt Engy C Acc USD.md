@@ -78,17 +78,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Vestas Wind Systems AS | `VWS.CO` | 5.70% |
-| 2 | EDP Renewables SA | `EDPR.LS` | 4.29% |
-| 3 | First Solar Inc | `FSLR` | 4.05% |
-| 4 | Nextpower Inc Class A | `NXT` | 3.62% |
-| 5 | Itron Inc | `ITRI` | 3.38% |
-| 6 | Redeia Corporacion SA | `RED.MC` | 3.37% |
-| 7 | Enphase Energy Inc | `ENPH` | 2.99% |
-| 8 | Elia Group SA/NV | `ELI.BR` | 2.82% |
-| 9 | Landis+Gyr Group AG | `LAND.SW` | 2.69% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Vestas Wind Systems AS\|Vestas Wind Systems AS]] | `VWS.CO` | - | 5.70% |
+| 2 | EDP Renewables SA | `EDPR.LS` | - | 4.29% |
+| 3 | [[../Entities/First Solar Inc\|First Solar Inc]] | `FSLR` | สหรัฐฯ | 4.05% |
+| 4 | [[../Entities/Nextpower Inc Class A\|Nextpower Inc Class A]] | `NXT` | สหรัฐฯ | 3.62% |
+| 5 | [[../Entities/Itron Inc\|Itron Inc]] | `ITRI` | สหรัฐฯ | 3.38% |
+| 6 | Redeia Corporacion SA | `RED.MC` | - | 3.37% |
+| 7 | [[../Entities/Enphase Energy Inc\|Enphase Energy Inc]] | `ENPH` | สหรัฐฯ | 2.99% |
+| 8 | Elia Group SA/NV | `ELI.BR` | - | 2.82% |
+| 9 | Landis+Gyr Group AG | `LAND.SW` | สวิตเซอร์แลนด์ | 2.69% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

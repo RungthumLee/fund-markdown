@@ -71,18 +71,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Unusual Machines Inc | `UMAC` | 12.58% |
-| 2 | Redwire Corp | `RDW` | 9.95% |
-| 3 | Ondas Inc | `ONDS` | 7.37% |
-| 4 | C3.ai Inc Ordinary Shares - Class A | `AI` | 5.92% |
-| 5 | Archer Aviation Inc Class A | `ACHR` | 4.82% |
-| 6 | Red Cat Holdings Inc | `RCAT` | 4.19% |
-| 7 | Intuitive Machines Inc Ordinary Shares - Class A | `LUNR` | 4.10% |
-| 8 | Rocket Lab Corp | `RKLB` | 4.09% |
-| 9 | AST SpaceMobile Inc Ordinary Shares - Class A | `ASTS` | 3.44% |
-| 10 | AeroVironment Inc | `AVAV` | 3.35% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | Unusual Machines Inc | `UMAC` | สหรัฐฯ | 12.58% |
+| 2 | Redwire Corp | `RDW` | สหรัฐฯ | 9.95% |
+| 3 | Ondas Inc | `ONDS` | สหรัฐฯ | 7.37% |
+| 4 | C3.ai Inc Ordinary Shares - Class A | `AI` | สหรัฐฯ | 5.92% |
+| 5 | Archer Aviation Inc Class A | `ACHR` | สหรัฐฯ | 4.82% |
+| 6 | Red Cat Holdings Inc | `RCAT` | สหรัฐฯ | 4.19% |
+| 7 | [[../Entities/Intuitive Machines Inc Ordinary Shares - Class A\|Intuitive Machines Inc Ordinary Shares - Class A]] | `LUNR` | สหรัฐฯ | 4.10% |
+| 8 | [[../Entities/Rocket Lab Corp\|Rocket Lab Corp]] | `RKLB` | สหรัฐฯ | 4.09% |
+| 9 | [[../Entities/AST SpaceMobile Inc Ordinary Shares - Class A\|AST SpaceMobile Inc Ordinary Shares - Class A]] | `ASTS` | สหรัฐฯ | 3.44% |
+| 10 | AeroVironment Inc | `AVAV` | สหรัฐฯ | 3.35% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

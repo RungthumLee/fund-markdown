@@ -71,18 +71,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | RTX Corp | `RTX` | 9.97% |
-| 2 | General Dynamics Corp | `GD` | 9.16% |
-| 3 | Lockheed Martin Corp | `LMT` | 8.95% |
-| 4 | Northrop Grumman Corp | `NOC` | 8.01% |
-| 5 | Palantir Technologies Inc Ordinary Shares - Class A | `PLTR` | 7.37% |
-| 6 | BAE Systems PLC | `BA.L` | 4.85% |
-| 7 | Rheinmetall AG | `RHM.DE` | 4.25% |
-| 8 | L3Harris Technologies Inc | `LHX` | 4.09% |
-| 9 | Leonardo SpA Az nom Post raggruppamento | `LDO.MI` | 3.86% |
-| 10 | Thales | `HO.PA` | 3.85% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/RTX Corp\|RTX Corp]] | `RTX` | สหรัฐฯ | 9.97% |
+| 2 | [[../Entities/General Dynamics Corp\|General Dynamics Corp]] | `GD` | สหรัฐฯ | 9.16% |
+| 3 | [[../Entities/Lockheed Martin Corp\|Lockheed Martin Corp]] | `LMT` | สหรัฐฯ | 8.95% |
+| 4 | [[../Entities/Northrop Grumman Corp\|Northrop Grumman Corp]] | `NOC` | สหรัฐฯ | 8.01% |
+| 5 | [[../Entities/Palantir Technologies Inc Ordinary Shares - Class A\|Palantir Technologies Inc Ordinary Shares - Class A]] | `PLTR` | สหรัฐฯ | 7.37% |
+| 6 | [[../Entities/BAE Systems PLC\|BAE Systems PLC]] | `BA.L` | สหราชอาณาจักร | 4.85% |
+| 7 | [[../Entities/Rheinmetall AG\|Rheinmetall AG]] | `RHM.DE` | เยอรมนี | 4.25% |
+| 8 | [[../Entities/L3Harris Technologies Inc\|L3Harris Technologies Inc]] | `LHX` | สหรัฐฯ | 4.09% |
+| 9 | [[../Entities/Leonardo SpA Az nom Post raggruppamento\|Leonardo SpA Az nom Post raggruppamento]] | `LDO.MI` | อิตาลี | 3.86% |
+| 10 | [[../Entities/Thales\|Thales]] | `HO.PA` | ฝรั่งเศส | 3.85% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

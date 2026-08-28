@@ -58,18 +58,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Johnson & Johnson | `JNJ` | 9.50% |
-| 2 | Eli Lilly and Co | `LLY` | 8.23% |
-| 3 | AstraZeneca PLC | `AZN.L` | 5.65% |
-| 4 | UnitedHealth Group Inc | `UNH` | 4.68% |
-| 5 | Roche Holding AG Ordinary Shares new | `ROP.SW` | 4.58% |
-| 6 | AbbVie Inc | `ABBV` | 4.51% |
-| 7 | Novartis AG Registered Shares | `NOVN.SW` | 4.43% |
-| 8 | Merck & Co Inc | `MRK` | 3.36% |
-| 9 | Gilead Sciences Inc | `GILD` | 3.34% |
-| 10 | Amgen Inc | `AMGN` | 2.79% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Johnson & Johnson\|Johnson & Johnson]] | `JNJ` | สหรัฐฯ | 9.50% |
+| 2 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 8.23% |
+| 3 | [[../Entities/AstraZeneca PLC\|AstraZeneca PLC]] | `AZN.L` | สหราชอาณาจักร | 5.65% |
+| 4 | [[../Entities/UNITEDHEALTH GROUP, INC\|UnitedHealth Group Inc]] | `UNH` | สหรัฐฯ | 4.68% |
+| 5 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 4.58% |
+| 6 | [[../Entities/AbbVie Inc\|AbbVie Inc]] | `ABBV` | สหรัฐฯ | 4.51% |
+| 7 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | 4.43% |
+| 8 | [[../Entities/Merck & Co Inc\|Merck & Co Inc]] | `MRK` | สหรัฐฯ | 3.36% |
+| 9 | [[../Entities/Gilead Sciences Inc\|Gilead Sciences Inc]] | `GILD` | สหรัฐฯ | 3.34% |
+| 10 | [[../Entities/Amgen Inc\|Amgen Inc]] | `AMGN` | สหรัฐฯ | 2.79% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

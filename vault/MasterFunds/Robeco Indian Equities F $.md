@@ -63,18 +63,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | HDFC Bank Ltd | `HDFCBANK.NS` | 9.82% |
-| 2 | Kotak Mahindra Bank Ltd | `KOTAKBANK.NS` | 3.98% |
-| 3 | ICICI Bank Ltd | `ICICIBANK.NS` | 3.71% |
-| 4 | Reliance Industries Ltd | `RELIANCE.NS` | 3.53% |
-| 5 | Bharti Airtel Ltd | `BHARTIARTL.NS` | 3.42% |
-| 6 | Infosys Ltd | `INFY.NS` | 3.02% |
-| 7 | Avenue Supermarts Ltd | `DMART.BO` | 2.89% |
-| 8 | Tata Steel Ltd | `TATASTEEL.NS` | 2.72% |
-| 9 | Hindustan Unilever Ltd | `500696` | 2.59% |
-| 10 | UltraTech Cement Ltd | `ULTRACEMCO.BO` | 2.53% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/HDFC Bank Ltd\|HDFC Bank Ltd]] | `HDFCBANK.NS` | อินเดีย | 9.82% |
+| 2 | [[../Entities/Kotak Mahindra Bank Ltd\|Kotak Mahindra Bank Ltd]] | `KOTAKBANK.NS` | อินเดีย | 3.98% |
+| 3 | [[../Entities/ICICI Bank Ltd\|ICICI Bank Ltd]] | `ICICIBANK.NS` | อินเดีย | 3.71% |
+| 4 | [[../Entities/Reliance Industries Ltd\|Reliance Industries Ltd]] | `RELIANCE.NS` | อินเดีย | 3.53% |
+| 5 | [[../Entities/Bharti Airtel Ltd\|Bharti Airtel Ltd]] | `BHARTIARTL.NS` | อินเดีย | 3.42% |
+| 6 | [[../Entities/Infosys Ltd\|Infosys Ltd]] | `INFY.NS` | อินเดีย | 3.02% |
+| 7 | [[../Entities/Avenue Supermarts Ltd\|Avenue Supermarts Ltd]] | `DMART.BO` | อินเดีย | 2.89% |
+| 8 | [[../Entities/Tata Steel Ltd\|Tata Steel Ltd]] | `TATASTEEL.NS` | อินเดีย | 2.72% |
+| 9 | [[../Entities/Hindustan Unilever Ltd\|Hindustan Unilever Ltd]] | `500696` | - | 2.59% |
+| 10 | [[../Entities/UltraTech Cement Ltd\|UltraTech Cement Ltd]] | `ULTRACEMCO.BO` | อินเดีย | 2.53% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

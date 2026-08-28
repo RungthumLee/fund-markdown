@@ -72,17 +72,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 9.97% |
-| 2 | Samsung Electronics Co Ltd | `005930.KQ` | 8.42% |
-| 3 | Tencent Holdings Ltd | `0700.HK` | 7.01% |
-| 4 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 4.40% |
-| 5 | SK Hynix Inc | `000660.KQ` | 4.22% |
-| 6 | ICICI Bank Ltd ADR | `IBN` | 3.35% |
-| 7 | Oversea-Chinese Banking Corp Ltd | `O39.SI` | 3.28% |
-| 8 | ASE Technology Holding Co Ltd | `3711.TW` | 3.09% |
-| 9 | Ping An Insurance (Group) Co. of China Ltd Class H | `02318` | 3.04% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 9.97% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 8.42% |
+| 3 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 7.01% |
+| 4 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 4.40% |
+| 5 | [[../Entities/SK Hynix Inc\|SK Hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 4.22% |
+| 6 | [[../Entities/ICICI Bank Ltd ADR\|ICICI Bank Ltd ADR]] | `IBN` | สหรัฐฯ | 3.35% |
+| 7 | [[../Entities/OVERSEA-CHINESE BANKING CORP\|Oversea-Chinese Banking Corp Ltd]] | `O39.SI` | สิงคโปร์ | 3.28% |
+| 8 | [[../Entities/ASE TECHNOLOGY HOLDING\|ASE Technology Holding Co Ltd]] | `3711.TW` | ไต้หวัน | 3.09% |
+| 9 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | 3.04% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

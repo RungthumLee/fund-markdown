@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Siemens Energy AG Ordinary Shares | `ENR.DE` | 4.34% |
-| 2 | Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H | `03750` | 3.46% |
-| 3 | Prysmian SpA | `PRY.MI` | 2.70% |
-| 4 | Air Liquide SA | `AI.PA` | 2.60% |
-| 5 | nVent Electric PLC | `NVT` | 2.57% |
-| 6 | Veolia Environnement SA | `VIE.PA` | 2.35% |
-| 7 | Darling Ingredients Inc | `DAR` | 2.34% |
-| 8 | Alk-Abello AS Class B | `ALK-B.CO` | 2.29% |
-| 9 | Republic Services Inc | `RSG` | 2.21% |
-| 10 | Vestas Wind Systems AS | `VWS.CO` | 2.18% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Siemens Energy AG Ordinary Shares\|Siemens Energy AG Ordinary Shares]] | `ENR.DE` | เยอรมนี | 4.34% |
+| 2 | [[../Entities/Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H\|Contemporary Amperex Technology Co Ltd Ordinary Shares - Class H]] | `03750` | - | 3.46% |
+| 3 | [[../Entities/Prysmian SpA\|Prysmian SpA]] | `PRY.MI` | อิตาลี | 2.70% |
+| 4 | [[../Entities/Air Liquide SA\|Air Liquide SA]] | `AI.PA` | ฝรั่งเศส | 2.60% |
+| 5 | [[../Entities/nVent Electric PLC\|nVent Electric PLC]] | `NVT` | สหรัฐฯ | 2.57% |
+| 6 | [[../Entities/Veolia Environnement SA\|Veolia Environnement SA]] | `VIE.PA` | ฝรั่งเศส | 2.35% |
+| 7 | [[../Entities/Darling Ingredients Inc\|Darling Ingredients Inc]] | `DAR` | สหรัฐฯ | 2.34% |
+| 8 | [[../Entities/Alk-Abello AS Class B\|Alk-Abello AS Class B]] | `ALK-B.CO` | - | 2.29% |
+| 9 | [[../Entities/Republic Services Inc\|Republic Services Inc]] | `RSG` | สหรัฐฯ | 2.21% |
+| 10 | [[../Entities/Vestas Wind Systems AS\|Vestas Wind Systems AS]] | `VWS.CO` | - | 2.18% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

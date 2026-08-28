@@ -78,18 +78,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Microsoft Corp | `MSFT` | 7.11% |
-| 2 | Alphabet Inc Class C | `GOOG` | 7.09% |
-| 3 | Mastercard Inc Class A | `MA` | 5.77% |
-| 4 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 5.73% |
-| 5 | Visa Inc Class A | `V` | 5.02% |
-| 6 | Safran SA | `SAF.PA` | 4.68% |
-| 7 | Deutsche Boerse AG | `DB1.DE` | 4.67% |
-| 8 | Experian PLC | `EXPN.L` | 4.13% |
-| 9 | Roche Holding AG Ordinary Shares new | `ROP.SW` | 3.82% |
-| 10 | ASML Holding NV ADR | `ASML` | 3.67% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 7.11% |
+| 2 | [[../Entities/Alphabet Inc Class C\|Alphabet Inc Class C]] | `GOOG` | สหรัฐฯ | 7.09% |
+| 3 | [[../Entities/Mastercard Inc Class A\|Mastercard Inc Class A]] | `MA` | สหรัฐฯ | 5.77% |
+| 4 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 5.73% |
+| 5 | [[../Entities/Visa Inc Class A\|Visa Inc Class A]] | `V` | สหรัฐฯ | 5.02% |
+| 6 | [[../Entities/SAF FP Equity\|Safran SA]] | `SAF.PA` | ฝรั่งเศส | 4.68% |
+| 7 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | 4.67% |
+| 8 | Experian PLC | `EXPN.L` | สหราชอาณาจักร | 4.13% |
+| 9 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 3.82% |
+| 10 | [[../Entities/ASML Holding NV ADR\|ASML Holding NV ADR]] | `ASML` | สหรัฐฯ | 3.67% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

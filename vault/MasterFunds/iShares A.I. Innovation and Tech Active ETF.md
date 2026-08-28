@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | SK hynix Inc | `000660.KQ` | 6.01% |
-| 2 | Micron Technology Inc | `MU` | 5.93% |
-| 3 | Broadcom Inc | `AVGO` | 5.23% |
-| 4 | Advanced Micro Devices Inc | `AMD` | 5.20% |
-| 5 | NVIDIA Corp | `NVDA` | 4.98% |
-| 6 | Taiwan Semiconductor Manufacturing Co Ltd ADR | `TSM` | 4.82% |
-| 7 | Lam Research Corp | `LRCX` | 4.40% |
-| 8 | Alphabet Inc Class A | `GOOGL` | 3.72% |
-| 9 | Western Digital Corp | `WDC` | 3.37% |
-| 10 | Tower Semiconductor Ltd | `TSEM.TA` | 3.13% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 6.01% |
+| 2 | [[../Entities/Micron Technology Inc\|Micron Technology Inc]] | `MU` | สหรัฐฯ | 5.93% |
+| 3 | [[../Entities/Broadcom Inc\|Broadcom Inc]] | `AVGO` | สหรัฐฯ | 5.23% |
+| 4 | [[../Entities/ADVANCED MICRO DEVICES\|Advanced Micro Devices Inc]] | `AMD` | สหรัฐฯ | 5.20% |
+| 5 | [[../Entities/NVIDIA Corp\|NVIDIA Corp]] | `NVDA` | สหรัฐฯ | 4.98% |
+| 6 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd ADR\|Taiwan Semiconductor Manufacturing Co Ltd ADR]] | `TSM` | สหรัฐฯ | 4.82% |
+| 7 | [[../Entities/Lam Research Corp\|Lam Research Corp]] | `LRCX` | สหรัฐฯ | 4.40% |
+| 8 | [[../Entities/Alphabet Inc Class A\|Alphabet Inc Class A]] | `GOOGL` | สหรัฐฯ | 3.72% |
+| 9 | Western Digital Corp | `WDC` | สหรัฐฯ | 3.37% |
+| 10 | Tower Semiconductor Ltd | `TSEM.TA` | - | 3.13% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

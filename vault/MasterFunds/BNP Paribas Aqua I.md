@@ -77,18 +77,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | American Water Works Co Inc | `AWK` | 5.07% |
-| 2 | Linde PLC | `LIN` | 4.55% |
-| 3 | Xylem Inc | `XYL` | 3.88% |
-| 4 | KLA Corp | `KLAC` | 3.82% |
-| 5 | Ecolab Inc | `ECL` | 3.51% |
-| 6 | Veolia Environnement SA | `VIE.PA` | 3.45% |
-| 7 | Novonesis (Novozymes) B Class B | `NSIS-B.CO` | 3.21% |
-| 8 | IDEX Corp | `IEX` | 3.16% |
-| 9 | Cintas Corp | `CTAS` | 3.04% |
-| 10 | Severn Trent PLC | `SVT.L` | 2.94% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/American Water Works Co Inc\|American Water Works Co Inc]] | `AWK` | สหรัฐฯ | 5.07% |
+| 2 | [[../Entities/LIN US Equity\|Linde PLC]] | `LIN` | สหรัฐฯ | 4.55% |
+| 3 | Xylem Inc | `XYL` | สหรัฐฯ | 3.88% |
+| 4 | [[../Entities/KLA Corp\|KLA Corp]] | `KLAC` | สหรัฐฯ | 3.82% |
+| 5 | [[../Entities/Ecolab Inc\|Ecolab Inc]] | `ECL` | สหรัฐฯ | 3.51% |
+| 6 | [[../Entities/Veolia Environnement SA\|Veolia Environnement SA]] | `VIE.PA` | ฝรั่งเศส | 3.45% |
+| 7 | Novonesis (Novozymes) B Class B | `NSIS-B.CO` | - | 3.21% |
+| 8 | IDEX Corp | `IEX` | สหรัฐฯ | 3.16% |
+| 9 | Cintas Corp | `CTAS` | สหรัฐฯ | 3.04% |
+| 10 | Severn Trent PLC | `SVT.L` | สหราชอาณาจักร | 2.94% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

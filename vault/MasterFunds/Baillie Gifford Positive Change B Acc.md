@@ -65,18 +65,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 8.43% |
-| 2 | ASML Holding NV | `ASML.AS` | 6.86% |
-| 3 | KLA Corp | `KLAC` | 4.53% |
-| 4 | Remitly Global Inc | `RELY` | 4.50% |
-| 5 | Deere & Co | `DE` | 4.38% |
-| 6 | Microsoft Corp | `MSFT` | 3.72% |
-| 7 | Illumina Inc | `ILMN` | 3.56% |
-| 8 | Ecolab Inc | `ECL` | 3.31% |
-| 9 | Sandoz Group AG Registered Shares | `SDZ.SW` | 3.05% |
-| 10 | New York Times Co Class A | `NYT` | 2.96% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 8.43% |
+| 2 | [[../Entities/ASML HOLDING NV\|ASML Holding NV]] | `ASML.AS` | เนเธอร์แลนด์ | 6.86% |
+| 3 | [[../Entities/KLA Corp\|KLA Corp]] | `KLAC` | สหรัฐฯ | 4.53% |
+| 4 | [[../Entities/Remitly Global Inc\|Remitly Global Inc]] | `RELY` | สหรัฐฯ | 4.50% |
+| 5 | [[../Entities/Deere & Co\|Deere & Co]] | `DE` | สหรัฐฯ | 4.38% |
+| 6 | [[../Entities/MICROSOFT CORP\|Microsoft Corp]] | `MSFT` | สหรัฐฯ | 3.72% |
+| 7 | [[../Entities/Illumina Inc\|Illumina Inc]] | `ILMN` | สหรัฐฯ | 3.56% |
+| 8 | [[../Entities/Ecolab Inc\|Ecolab Inc]] | `ECL` | สหรัฐฯ | 3.31% |
+| 9 | [[../Entities/Sandoz Group AG Registered Shares\|Sandoz Group AG Registered Shares]] | `SDZ.SW` | สวิตเซอร์แลนด์ | 3.05% |
+| 10 | [[../Entities/New York Times Co Class A\|New York Times Co Class A]] | `NYT` | สหรัฐฯ | 2.96% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

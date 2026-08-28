@@ -72,18 +72,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Abbott Laboratories | `ABT` | 18.59% |
-| 2 | Intuitive Surgical Inc | `ISRG` | 12.64% |
-| 3 | Stryker Corp | `SYK` | 11.35% |
-| 4 | Becton Dickinson & Co | `BDX` | 4.77% |
-| 5 | DexCom Inc | `DXCM` | 4.70% |
-| 6 | Medtronic PLC | `MDT` | 4.53% |
-| 7 | GE HealthCare Technologies Inc Common Stock | `GEHC` | 4.52% |
-| 8 | ResMed Inc | `RMD` | 4.47% |
-| 9 | IDEXX Laboratories Inc | `IDXX` | 4.28% |
-| 10 | Edwards Lifesciences Corp | `EW` | 4.26% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Abbott Laboratories\|Abbott Laboratories]] | `ABT` | สหรัฐฯ | 18.59% |
+| 2 | [[../Entities/Intuitive Surgical Inc\|Intuitive Surgical Inc]] | `ISRG` | สหรัฐฯ | 12.64% |
+| 3 | Stryker Corp | `SYK` | สหรัฐฯ | 11.35% |
+| 4 | [[../Entities/Becton Dickinson & Co\|Becton Dickinson & Co]] | `BDX` | สหรัฐฯ | 4.77% |
+| 5 | DexCom Inc | `DXCM` | สหรัฐฯ | 4.70% |
+| 6 | [[../Entities/Medtronic PLC\|Medtronic PLC]] | `MDT` | สหรัฐฯ | 4.53% |
+| 7 | GE HealthCare Technologies Inc Common Stock | `GEHC` | สหรัฐฯ | 4.52% |
+| 8 | ResMed Inc | `RMD` | สหรัฐฯ | 4.47% |
+| 9 | [[../Entities/IDEXX Laboratories Inc\|IDEXX Laboratories Inc]] | `IDXX` | สหรัฐฯ | 4.28% |
+| 10 | [[../Entities/Edwards Lifesciences Corp\|Edwards Lifesciences Corp]] | `EW` | สหรัฐฯ | 4.26% |
 
 ## คำอธิบายกองทุน (ต้นฉบับภาษาอังกฤษ)
 

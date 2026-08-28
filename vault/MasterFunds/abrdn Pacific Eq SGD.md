@@ -85,18 +85,18 @@ _ไม่มีข้อมูล_
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 13.86% |
-| 2 | Samsung Electncs Co | `005935` | 7.26% |
-| 3 | SK hynix Inc | `000660.KQ` | 6.61% |
-| 4 | Tencent Holdings Ltd | `0700.HK` | 5.83% |
-| 5 | Samsung Electronics Co Ltd | `005930.KQ` | 2.94% |
-| 6 | Chroma Ate Inc | `2360.TW` | 2.45% |
-| 7 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 2.38% |
-| 8 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 2.05% |
-| 9 | AIA Group Ltd | `1299.HK` | 2.03% |
-| 10 | MediaTek Inc | `2454.TW` | 2.01% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 13.86% |
+| 2 | [[../Entities/Samsung Electronics Co Ltd Participating Preferred\|Samsung Electncs Co]] | `005935` | - | 7.26% |
+| 3 | [[../Entities/SK Hynix Inc\|SK hynix Inc]] | `000660.KQ` | เกาหลีใต้ | 6.61% |
+| 4 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 5.83% |
+| 5 | [[../Entities/Samsung Electronics Co Ltd\|Samsung Electronics Co Ltd]] | `005930.KQ` | เกาหลีใต้ | 2.94% |
+| 6 | [[../Entities/Chroma Ate Inc\|Chroma Ate Inc]] | `2360.TW` | ไต้หวัน | 2.45% |
+| 7 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 2.38% |
+| 8 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 2.05% |
+| 9 | [[../Entities/AIA GROUP LTD\|AIA Group Ltd]] | `1299.HK` | ฮ่องกง | 2.03% |
+| 10 | [[../Entities/MediaTek Inc\|MediaTek Inc]] | `2454.TW` | ไต้หวัน | 2.01% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

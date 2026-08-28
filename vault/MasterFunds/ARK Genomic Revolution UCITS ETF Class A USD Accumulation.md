@@ -51,18 +51,18 @@ tags: [master-fund, external-data, etf]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Twist Bioscience Corp | `TWST` | 8.67% |
-| 2 | Tempus AI Inc Class A common stock | `TEM` | 6.74% |
-| 3 | 10x Genomics Inc Ordinary Shares - Class A | `TXG` | 6.20% |
-| 4 | CRISPR Therapeutics AG | `CRSP` | 5.96% |
-| 5 | Eli Lilly and Co | `LLY` | 5.23% |
-| 6 | Absci Corp | `ABSI` | 5.17% |
-| 7 | Illumina Inc | `ILMN` | 5.16% |
-| 8 | CareDx Inc | `CDNA` | 5.15% |
-| 9 | Personalis Inc | `PSNL` | 4.68% |
-| 10 | Natera Inc | `NTRA` | 4.44% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Twist Bioscience Corp\|Twist Bioscience Corp]] | `TWST` | สหรัฐฯ | 8.67% |
+| 2 | [[../Entities/Tempus AI Inc Class A common stock\|Tempus AI Inc Class A common stock]] | `TEM` | สหรัฐฯ | 6.74% |
+| 3 | [[../Entities/10x Genomics Inc Ordinary Shares - Class A\|10x Genomics Inc Ordinary Shares - Class A]] | `TXG` | สหรัฐฯ | 6.20% |
+| 4 | [[../Entities/CRISPR Therapeutics AG\|CRISPR Therapeutics AG]] | `CRSP` | สหรัฐฯ | 5.96% |
+| 5 | [[../Entities/Eli Lilly and Co\|Eli Lilly and Co]] | `LLY` | สหรัฐฯ | 5.23% |
+| 6 | Absci Corp | `ABSI` | สหรัฐฯ | 5.17% |
+| 7 | [[../Entities/Illumina Inc\|Illumina Inc]] | `ILMN` | สหรัฐฯ | 5.16% |
+| 8 | CareDx Inc | `CDNA` | สหรัฐฯ | 5.15% |
+| 9 | Personalis Inc | `PSNL` | สหรัฐฯ | 4.68% |
+| 10 | [[../Entities/Natera Inc\|Natera Inc]] | `NTRA` | สหรัฐฯ | 4.44% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

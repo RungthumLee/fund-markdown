@@ -83,17 +83,17 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Taiwan Semiconductor Manufacturing Co Ltd | `2330.TW` | 4.32% |
-| 2 | Roche Holding AG Ordinary Shares new | `ROP.SW` | 3.58% |
-| 3 | Vinci SA | `DG.PA` | 3.40% |
-| 4 | Unilever PLC | `ULVR.L` | 3.19% |
-| 5 | Texas Instruments Inc | `TXN` | 3.17% |
-| 6 | Deutsche Boerse AG | `DB1.DE` | 3.17% |
-| 7 | National Grid PLC | `NG.L` | 3.06% |
-| 8 | Novartis AG Registered Shares | `NOVN.SW` | 3.05% |
-| 9 | Legrand SA | `LR.PA` | 2.87% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Taiwan Semiconductor Manufacturing Co Ltd\|Taiwan Semiconductor Manufacturing Co Ltd]] | `2330.TW` | ไต้หวัน | 4.32% |
+| 2 | [[../Entities/Roche Holding AG Ordinary Shares new\|Roche Holding AG Ordinary Shares new]] | `ROP.SW` | สวิตเซอร์แลนด์ | 3.58% |
+| 3 | [[../Entities/Vinci SA\|Vinci SA]] | `DG.PA` | ฝรั่งเศส | 3.40% |
+| 4 | [[../Entities/Unilever PLC\|Unilever PLC]] | `ULVR.L` | สหราชอาณาจักร | 3.19% |
+| 5 | [[../Entities/Texas Instruments Inc\|Texas Instruments Inc]] | `TXN` | สหรัฐฯ | 3.17% |
+| 6 | [[../Entities/Deutsche Boerse AG\|Deutsche Boerse AG]] | `DB1.DE` | เยอรมนี | 3.17% |
+| 7 | [[../Entities/NG- LN Equity\|National Grid PLC]] | `NG.L` | สหราชอาณาจักร | 3.06% |
+| 8 | [[../Entities/Novartis AG Registered Shares\|Novartis AG Registered Shares]] | `NOVN.SW` | สวิตเซอร์แลนด์ | 3.05% |
+| 9 | [[../Entities/Legrand SA\|Legrand SA]] | `LR.PA` | ฝรั่งเศส | 2.87% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 

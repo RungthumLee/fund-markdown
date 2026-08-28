@@ -82,18 +82,18 @@ tags: [master-fund, external-data]
 
 นี่คือ **look-through** ที่แท้จริง — สิ่งที่เงินของผู้ลงทุนไทยไปลงทุนจริง
 
-| # | หลักทรัพย์ | Ticker | สัดส่วน |
-|---|---|---|---|
-| 1 | Tencent Holdings Ltd | `0700.HK` | 8.71% |
-| 2 | Alibaba Group Holding Ltd Ordinary Shares | `9988.HK` | 6.29% |
-| 3 | Contemporary Amperex Technology Co Ltd Class A | `300750.SZ` | 4.32% |
-| 4 | China Construction Bank Corp Class H | `00939` | 3.65% |
-| 5 | NetEase Inc Ordinary Shares | `9999.HK` | 3.24% |
-| 6 | Zijin Mining Group Co Ltd Class H | `02899` | 3.01% |
-| 7 | Ping An Insurance (Group) Co. of China Ltd Class H | `02318` | 2.75% |
-| 8 | Industrial And Commercial Bank Of China Ltd Class H | `01398` | 2.53% |
-| 9 | Kweichow Moutai Co Ltd Class A | `600519.SS` | 2.43% |
-| 10 | China Merchants Bank Co Ltd Class H | `03968` | 2.09% |
+| # | หลักทรัพย์ | Ticker | ตลาด | สัดส่วน |
+|---|---|---|---|---|
+| 1 | [[../Entities/Tencent Holdings Ltd\|Tencent Holdings Ltd]] | `0700.HK` | ฮ่องกง | 8.71% |
+| 2 | [[../Entities/Alibaba Group Holding Ltd Ordinary Shares\|Alibaba Group Holding Ltd Ordinary Shares]] | `9988.HK` | ฮ่องกง | 6.29% |
+| 3 | [[../Entities/Contemporary Amperex Technology Co Ltd Class A\|Contemporary Amperex Technology Co Ltd Class A]] | `300750.SZ` | จีน | 4.32% |
+| 4 | [[../Entities/China Construction Bank Corp Class H\|China Construction Bank Corp Class H]] | `00939` | - | 3.65% |
+| 5 | [[../Entities/NetEase Inc Ordinary Shares\|NetEase Inc Ordinary Shares]] | `9999.HK` | ฮ่องกง | 3.24% |
+| 6 | [[../Entities/Zijin Mining Group Co Ltd Class H\|Zijin Mining Group Co Ltd Class H]] | `02899` | - | 3.01% |
+| 7 | [[../Entities/Ping An Insurance (Group) Co. of China Ltd Class H\|Ping An Insurance (Group) Co. of China Ltd Class H]] | `02318` | - | 2.75% |
+| 8 | [[../Entities/Industrial And Commercial Bank Of China Ltd Class H\|Industrial And Commercial Bank Of China Ltd Class H]] | `01398` | - | 2.53% |
+| 9 | [[../Entities/Kweichow Moutai Co Ltd Class A\|Kweichow Moutai Co Ltd Class A]] | `600519.SS` | จีน | 2.43% |
+| 10 | [[../Entities/China Merchants Bank Co Ltd Class H\|China Merchants Bank Co Ltd Class H]] | `03968` | - | 2.09% |
 
 ## กองทุนไทยที่ลงทุนในกองนี้
 
