@@ -184,6 +184,40 @@ FRED/Yahoo (ดึงสด, optional)  ──►  factor-live skill (มี gua
 ```
 **ประตูสำคัญ = R-05** (ปูทางทั้ง correlation และ factor-measured)
 
+## 5. ข้อมูลย้อนหลัง — คุณค่า + retention policy (ปรับ DEC-002)
+
+SEC ให้ย้อนหลัง**ถึงวันจัดตั้ง/IPO** → ข้อจำกัดคือ "เก็บแค่ไหนถึงคุ้ม" (storage/fetch) ไม่ใช่ "มีแค่ไหน"
+
+### 5.1 NAV ยาวขึ้น → correlation ดีขึ้นแค่ไหน (ตอบ: ชัดเจน)
+- **สถิติ:** SE(correlation) ≈ 1/√n · 78 วัน→SE~0.11 · 3 ปี(~750)→SE~0.036 · เกิน 5 ปีแทบไม่ลดต่อ
+- **ปลดล็อก (ยัง descriptive):** rolling correlation (นิ่ง/ดริฟต์ — *วัดได้* แทนแค่เตือน) · **crisis correlation ที่วัดได้** (คำเตือน "พุ่งเข้า 1" เป็นตัวเลข) · beta/TE/drawdown หลาย regime · **fund-to-fund correlation** (เสริม portfolio-overlap)
+- ยาวขึ้น = คำบรรยาย**แม่นขึ้น** ไม่ใช่กลายเป็นพยากรณ์
+
+### 5.2 Holding ย้อนหลัง → tag/factor ดีขึ้นแค่ไหน (ตอบ: ปานกลาง คนละจุด)
+- **tag ที่ทน** (persistent vs blip ไตรมาสเดียว) · **style drift** · turnover ระดับ holding · exposure over time
+- **ไม่ช่วย correlation โดยตรง** (correlation ใช้ NAV) — ช่วยชั้น tag/โครงสร้าง
+
+### 5.3 มีทั้งคู่ → ต่อยอด (descriptive ทั้งหมด)
+- **Return attribution (ย้อนหลัง)** — แยกผลอดีตว่ามาจาก factor ไหน (holding × factor move) · พูด "อะไรขับเคลื่อน*อดีต*" ไม่ใช่อนาคต
+- **Rolling factor exposure** · **consistency/drift score** (สัญญาณ QA) · **crisis correlation วัดได้**
+
+### 5.4 Retention policy ที่แนะนำ
+```
+NAV:      รายวัน 5 ปี  หรือ ตั้งแต่จัดตั้ง (min)  · core 2 ปีรายวันบังคับ · 2–5 ปีรายสัปดาห์ได้
+Holding:  รายไตรมาส 3 ปี หรือ ตั้งแต่จัดตั้ง (min)
+```
+- **เหตุผล:** 5 ปี = 1 วัฏจักรตลาด + มาตรฐาน 3/5Y · เกินนั้นเป็นกอง/ผู้จัดการ/regime คนละยุค คุณค่าต่ำ · ขั้นต่ำมีประโยชน์ = NAV 3 ปี / Holding 1–2 ปี
+- **ต้นทุนจริง = backfill ครั้งแรก** (~2.9M แถวสำหรับ NAV 5 ปี × 2,300 กอง · rate limit) · หลังจากนั้น append รายวันถูกมาก
+- **กฎปรับตามอายุ** `min(เพดาน, ตั้งแต่จัดตั้ง)` — A-RING (ตั้ง พ.ย. 2025) เก็บเท่าที่มี ไม่ฝืน
+- คงปรัชญาเดิม: "เก็บช่วงที่มีประโยชน์ + ระบุเพดานชัด" ไม่ใช่ "เก็บทุกอย่าง"
+
+### 5.5 ก่อนสเกลจริง — ต้องทดสอบก่อน
+ทดสอบ 1–2 กองว่า SEC API ให้ NAV/holding ย้อนหลังได้ไกลจริงแค่ไหน + rate limit จริง
+แล้วค่อยตั้ง `MAX_NAV_YEARS=5` / `MAX_HOLDING_QUARTERS=12` ใน `scripts/harvest.py`
+(ดูค่าคงที่ปัจจุบันที่จำกัด 120 วัน) — ดู [[decisions|DEC-002]]
+
+---
+
 ## 4. Backlog เสริม
 - `by-category` index ของกองหลัก (Morningstar category)
 - semantic validator เพิ่ม check: country/sector coverage · cap สอดคล้อง policy

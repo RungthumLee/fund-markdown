@@ -38,6 +38,41 @@ updated: 2026-08-28
 - [x] **P5 · Correlation (fund↔factor)** ✅ — factor series (Yahoo) + realized correlation + block ในโน้ต (descriptive+caveat)
 - [x] **P4** ✅ เสริมสรุปภาษาคนให้มี **ประเทศ + กลุ่มอุตสาหกรรม** (A-RING: เน้นกลุ่มวัสดุ/โลหะ · แคนาดา)
 
+## 🤝 Handoff — สำหรับ Session ถัดไป (2026-08-28)
+
+### สถานะปัจจุบัน (ทำเสร็จแล้ว)
+คลังกองทุนไทย 2,121 กอง · โน้ต markdown 8,079 · broken_links=0 · push GitHub ครบ
+- **ชั้นข้อมูล:** ประเทศ (look-through) · sector (factsheet+Yahoo) · cap · duration/credit · fx/conc — เป็น faceted tag
+- **ชั้นสังเคราะห์:** สรุปภาษาคน · ค่าธรรมเนียม 2 ชั้น (feeder) · **factor exposure (สองด้าน)** · **correlation วัดจริง** (A-RING↔ทอง +0.89) · NAV history ~120 วัน
+- **Skills 6 ตัว** ที่ `.claude/skills/` · **ออกแบบ+กรอบ** ที่ [[ideas]] (§0 = เส้นห้ามข้าม)
+
+### งานถัดไป (เรียงตามคุ้มค่า) — ดูรายละเอียด [[ideas#5]]
+1. **ทดสอบ SEC API reach** — 1–2 กอง ดูว่า NAV/holding ย้อนหลังได้ไกลแค่ไหน + rate limit (ประตูของทุกข้อล่าง)
+2. **Backfill NAV → 5 ปี** (`min(5y, ตั้งแต่จัดตั้ง)`) ใน `harvest.py` → ปลุก correlation ให้เชื่อถือได้ + rolling + crisis + fund-to-fund
+3. **Backfill holding → 3 ปี** (12 ไตรมาส) → tag ที่ทน + style drift + return attribution
+4. **ต่อยอด (descriptive):** rolling correlation · return attribution · consistency/drift score · factor-live skill (FRED ค่าปัจจุบัน + caveat)
+
+### วิธีทำงาน (สำคัญ)
+- **ทุกอย่างอยู่ใต้กรอบ [[ideas#0. กรอบ|§0]]:** descriptive · สองด้าน · ไม่ทำนาย · ไม่มี `estimated_change`/`confidence` · ทุกตัวเลขมีที่มา+ช่วงเวลา · ไม่มีข้อมูล=บอกไม่มี
+- **ตัดสินใจสำคัญจริง → โหวต 3 agent + บันทึก** (เรื่องเล็กตัดสินเอง) · ดู DEC-L01 เป็นตัวอย่าง
+- **ทุกรอบ:** V (broken_links=0 + fact-check) → R (บันทึก STATUS) → commit+push
+- **ข้อมูล fetch (nav_history/factor_series/correlations/security_meta) อยู่ใน `data/` (gitignore)** — commit เฉพาะโน้ตที่ regenerate · Yahoo ดึงได้บนเครื่องนี้ (yfinance ไม่ติด 429)
+
+### แผนที่ไฟล์ (ที่ทำรอบนี้)
+```
+scripts/geography.py      ประเทศจาก ISIN/symbol
+scripts/tagging.py        faceted tag + plain_summary (asset/risk/sector/cap/fx/duration/credit/use)
+scripts/securities.py     sector/cap จาก Yahoo (dormant ถ้าไม่ fetch)
+scripts/factors.py        factor exposure (อ่าน factor_map.json)  · factor_map.json (ความรู้ static)
+scripts/nav_history.py    NAV ~120 วัน + สถิติ (R-05)
+scripts/fetch_factor_series.py + correlations.py   correlation NAV↔factor
+scripts/fetch_sectors.py  ดึง sector/mcap ต่อหลักทรัพย์ (รันบนเครื่อง)
+gen_vault.py / gen_master_notes.py / gen_entity_notes.py  เจนโน้ต (เรียกทุกโมดูลข้างบน)
+```
+รัน pipeline: `python daily.py` (มี navhist/factorseries/correlations wired แล้ว)
+
+---
+
 ## คิวงาน
 
 - [x] **A1** ประเทศจากหลักทรัพย์ (ISIN/exchange) → rollup ขึ้นกอง → ดัชนี by-country ✅ Round 1
