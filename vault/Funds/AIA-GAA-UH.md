@@ -24,7 +24,7 @@ holdings_count: 11
 top10_pct_nav: 102.75
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/high, liquidity/t5, conc/ultra-concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-GAA-UH
@@ -44,7 +44,7 @@ _AIA Global Aggressive Allocation Fund - Unhedged_
 > - **NAV 11.5754 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
+> กองผสม · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.71%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -175,6 +175,7 @@ _AIA Global Aggressive Allocation Fund - Unhedged_
 |---|---|---|---|---|
 | ค่าธรรมเนียมรวมสูง (1.71%/ปี) | โครงสร้าง | - | ค่าธรรมเนียมยิ่งสูง ยิ่งกินผลตอบแทนทุกปีไม่ว่าตลาดขึ้นหรือลง | โครงสร้างกอง |
 | ความเสี่ยงเฉพาะตัว (single-name/theme) | โครงสร้าง | ถูกทาง→ upside แรงกว่ากองกระจาย | ผิดทาง→ downside แรงกว่ากองกระจาย | โครงสร้างกอง |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

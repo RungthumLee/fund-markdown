@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 95.2
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย ธีรุตร อัศวมงคลกุล"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # K-SFIXED
@@ -48,7 +48,7 @@ _K Strategic Fixed Income Fund_
 > - **NAV 8.739 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.55%/ปี
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

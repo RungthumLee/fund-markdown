@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.2
 peer_group: "Mid Term General Bond"
 fund_managers: ["นาย วิศิษฐ์ ชื่นรัตนกุล", "น.ส. วิภาสิริ เกษมศุข"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # ES-TSARN
@@ -48,7 +48,7 @@ _Eastspring Thanasarn Fund_
 > - **NAV 10.6004 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.61%/ปี
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.61%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -204,15 +204,6 @@ _Eastspring Thanasarn Fund_
 | ไทย | 98.2 |
 
 > ทะลุถึงหลักทรัพย์จริงได้ **98.2%** ของกอง (ส่วนที่เหลือ 1.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
-
-### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
-
-> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
-> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
-
-| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
-|---|---|---|---|---|
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

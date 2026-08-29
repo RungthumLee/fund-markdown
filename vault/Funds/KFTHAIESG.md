@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.4
 peer_group: "Equity Large Cap"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "นาย สาธิต บัวชู"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/energy, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, sector/energy, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
 # KFTHAIESG
@@ -48,7 +48,7 @@ _Krungsri Enhanced SET Thailand ESG Fund_
 > - **NAV 12.1715 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · เน้นกลุ่มพลังงาน · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 88 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.89%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · เน้นกลุ่มพลังงาน · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 88 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.89%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 
@@ -223,7 +223,6 @@ _Krungsri Enhanced SET Thailand ESG Fund_
 |---|---|---|---|---|
 | ราคาน้ำมัน/ก๊าซ | Macro | ราคาพลังงานขึ้น → กำไรผู้ผลิตเพิ่ม | ราคาพลังงานลง → กำไรหด | หมวด: energy |
 | การเปลี่ยนผ่านสู่พลังงานสะอาด | Sector | อุปสงค์ฟอสซิลยังสูงช่วงเปลี่ยนผ่าน | เร่งเปลี่ยนผ่าน → อุปสงค์ระยะยาวลด | หมวด: energy |
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

@@ -28,7 +28,7 @@ country_coverage_pct: 27.3
 master_fund: "FF - Global Dividend Pl Y Acc USD"
 master_isin: "LU1711970662"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/consumer, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/consumer, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UUSTECH-USD
@@ -48,7 +48,7 @@ _United USD US Technology Equity Fund_
 > - **NAV 11 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มสินค้า/บริการผู้บริโภค · ลงทุนต่างประเทศ (สวิตเซอร์แลนด์) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มสินค้า/บริการผู้บริโภค · ลงทุนต่างประเทศ (สวิตเซอร์แลนด์) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

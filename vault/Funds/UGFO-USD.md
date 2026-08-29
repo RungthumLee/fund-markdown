@@ -28,7 +28,7 @@ country_coverage_pct: 40.1
 master_fund: "Invesco Global Founders & Owners CUSDAcc"
 master_isin: "LU1218204631"
 peer_group: "Global Equity"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGFO-USD
@@ -48,7 +48,7 @@ _United USD Global Founders & Owners Fund_
 > - **NAV 10.8102 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มอุตสาหกรรม · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.89%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มอุตสาหกรรม · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.89%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

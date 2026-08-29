@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 4.7
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/fund-of-funds, style/active, use/accumulate]
 ---
 
 # ES-GLOBALEQ
@@ -48,7 +48,7 @@ _Eastspring Global Equity Fund_
 > - **NAV 30.5944 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านหลายกองทุน (fund of funds) · บริหารเชิงรุก (active) · พอร์ตถือราว 13 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

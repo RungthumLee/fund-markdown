@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 108.6
 fund_managers: ["นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569", "นาย ด ารงฤทธิ์ ส าเร็จวิทย์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, credit/government, fx/discretionary, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, credit/government, fx/fully-hedged, struct/direct, style/enhanced-index, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # DAOL-MONYRMF
@@ -47,7 +47,7 @@ _DAOL MONEY MARKET RETIREMENT MUTUAL FUND_
 > - **NAV 10.694 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตลาดเงิน · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.03%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
+> กองตลาดเงิน · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.03%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

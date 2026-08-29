@@ -29,7 +29,7 @@ country_coverage_pct: 96.9
 master_fund: "China Asset Management Co., Ltd.- Chinaamc Csi A500 Index Etf"
 master_isin: "CNE100006NM0"
 peer_group: "China Equity - A Shares"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, fx/unhedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # B-CNA500P
@@ -49,7 +49,7 @@ _Bualuang China Equity A500 Passive Fund_
 > - **NAV 13.7024 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (จีน) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.75%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (จีน) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.75%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -216,6 +216,7 @@ Bloomberg Ticker: 512050
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | นโยบายรัฐบาลจีน / ภาคอสังหา | Macro | มาตรการกระตุ้น → ตลาดฟื้น | คุมเข้ม/วิกฤตอสังหา → กดตลาด | ประเทศ: จีน |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

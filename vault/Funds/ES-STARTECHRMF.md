@@ -30,7 +30,7 @@ master_fund: "Premia China STAR50 ETF"
 master_isin: "HK0000761418"
 peer_group: "Greater China Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, conc/concentrated, fx/fully-hedged, struct/feeder, style/passive, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, conc/concentrated, fx/fully-hedged, struct/fund-of-funds, style/passive, tax/rmf, use/tax-saving]
 ---
 
 # ES-STARTECHRMF
@@ -50,7 +50,7 @@ _Eastspring Star50 Chinese Technology RMF_
 > - **NAV 7.7373 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ (จีน) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 20 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ (จีน) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านหลายกองทุน (fund of funds) · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 20 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.24%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

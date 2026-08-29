@@ -24,7 +24,7 @@ fund_size: 471166287.02
 holdings_count: 5
 top10_pct_nav: 99.72
 master_fund: "Neuberger Strategic Income USD I Acc"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/discretionary, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t4, fx/unhedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP SIB-UH FUND
@@ -44,7 +44,7 @@ _KKP STRATEGIC INCOME BOND FUND - UNHEDGED_
 > - **NAV 10.6329 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.88%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.88%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 
@@ -261,6 +261,15 @@ _KKP STRATEGIC INCOME BOND FUND - UNHEDGED_
 | 1 | ดัชนี Bloomberg US Aggregate Total Return USD | ดัชนี Bloomberg US Aggregate Total Return USD |
 
 ## 7. พอร์ตการลงทุน
+
+### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
+
+> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
+> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
+
+| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
+|---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

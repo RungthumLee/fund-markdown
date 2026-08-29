@@ -28,7 +28,7 @@ country_coverage_pct: 47.2
 master_fund: "Franklin Technology I Acc USD"
 master_isin: "LU0626261944"
 peer_group: "Technology Equity"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/technology, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, sector/technology, cap/large, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGTECH-USD
@@ -48,7 +48,7 @@ _United USD Global Technology Fund_
 > - **NAV 11.7638 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.87%/ปี
+> กองหุ้น · ความเสี่ยงสูงมาก (7/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.87%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

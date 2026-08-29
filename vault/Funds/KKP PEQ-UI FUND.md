@@ -25,7 +25,7 @@ holdings_count: 4
 top10_pct_nav: 100.51
 master_fund: "KKR Private Markets Equity Fund SICAV SA - I"
 peer_group: "KKR"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t2, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KKP PEQ-UI FUND
@@ -45,7 +45,7 @@ _KKP PRIVATE EQUITY FUND NOT FOR RETAIL INVESTORS_
 > - **NAV 11.9487 (2026-07-01)**
 
 > [!tip] อ่านง่าย ๆ
-> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.27%/ปี
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -183,6 +183,15 @@ _KKP PRIVATE EQUITY FUND NOT FOR RETAIL INVESTORS_
 > ดู [[สถิติวัดผลกองทุน]] · ผลตอบแทนในอดีตไม่รับประกันอนาคต
 
 ## 7. พอร์ตการลงทุน
+
+### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
+
+> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
+> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
+
+| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
+|---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

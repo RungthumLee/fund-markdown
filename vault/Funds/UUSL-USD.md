@@ -21,7 +21,7 @@ nav: 9.7543
 nav_date: "2026-08-26"
 fund_size: 7364200.75
 master_fund: "T. Rowe Price Funds SICAV - US Large Cap Growth Equity Fund"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UUSL-USD
@@ -41,7 +41,7 @@ _United USD US Large Cap Growth Fund_
 > - **NAV 9.7543 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.86%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

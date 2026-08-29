@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.2
 peer_group: "Mid Term General Bond"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/medium, credit/investment-grade, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t5, duration/medium, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # BCAP-GFIO
@@ -47,7 +47,7 @@ _BCAP Global Fixed Income Opportunity Fund_
 > - **NAV 10.8316 (2026-08-25)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.56%/ปี
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.56%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

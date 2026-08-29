@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 98.7
 peer_group: "Equity General"
 fund_managers: ["น.ส. วินิทร ผ่องใส"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/financials, conc/concentrated, fx/fully-hedged, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # K-HDThaiESGX
@@ -48,7 +48,7 @@ _K High Dividend Stock Thailand ESG Extra Fund_
 > - **NAV 13.7819 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · เน้นกลุ่มการเงิน/ธนาคาร · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 34 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · เน้นกลุ่มการเงิน/ธนาคาร · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · พอร์ตถือราว 34 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.96%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

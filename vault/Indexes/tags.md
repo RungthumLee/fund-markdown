@@ -97,10 +97,11 @@ _active / passive / ปันผล ฯลฯ_
 
 ## โครงสร้าง · `struct`
 
-_ลงตรง / feeder_
+_ลงตรง / feeder / fund of funds_
 
 - #struct/direct · **1122**
-- #struct/feeder · **999**
+- #struct/feeder · **983**
+- #struct/fund-of-funds · **16**
 
 ## การกระจุกตัว · `conc`
 
@@ -116,10 +117,10 @@ _จำนวนหลักทรัพย์ที่ถือ (เฉพา�
 
 _hedge เต็ม/บางส่วน/ไม่ hedge/ตามดุลยพินิจ_
 
+- #fx/fully-hedged · **563**
 - #fx/partially-hedged · **549**
-- #fx/fully-hedged · **510**
-- #fx/discretionary · **472**
-- #fx/unhedged · **70**
+- #fx/discretionary · **345**
+- #fx/unhedged · **144**
 
 ## สภาพคล่อง · `liquidity`
 

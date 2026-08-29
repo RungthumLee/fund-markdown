@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.9
 fund_managers: ["น.ส. จันทร์เพ็ญ ชูวงษ์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, duration/short, credit/investment-grade, fx/discretionary, struct/direct, style/enhanced-index, tax/ssf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, duration/short, credit/investment-grade, fx/fully-hedged, struct/direct, style/enhanced-index, tax/ssf, use/park-cash, use/tax-saving]
 ---
 
 # 1AM-DAILY
@@ -47,7 +47,7 @@ _1 A.M. DAILY FUND_
 > - **NAV 13.0809 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.44%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.44%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 

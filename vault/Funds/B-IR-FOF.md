@@ -27,7 +27,7 @@ market_countries: ["ไทย", "สิงคโปร์"]
 country_top: "ไทย"
 country_coverage_pct: 97.1
 peer_group: "Fund of Property Fund - Thai and Foreign"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # B-IR-FOF
@@ -47,7 +47,7 @@ _Bualuang Infrastructure and Real Estate Fund of Funds_
 > - **NAV 9.7268 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.35%/ปี
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.35%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -204,7 +204,6 @@ _Bualuang Infrastructure and Real Estate Fund of Funds_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ความเสี่ยงเฉพาะตัว | โครงสร้าง | กระจุกในตัวเด่น → upside เด่น | กระจุก → เสี่ยงเฉพาะตัวสูงกว่าค่าเฉลี่ย | โครงสร้างกอง |
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

@@ -27,7 +27,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 98.7
 fund_managers: ["นาย สุทธิโรจน์ สิทธิวัฒนานนท์", "นาย ธัชธรรม วิจารณกรณ์"]
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t2, fx/discretionary, struct/direct, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t2, fx/unhedged, struct/direct, use/accumulate, audience/restricted]
 ---
 
 # ONE-BTCETFOF-UI
@@ -47,7 +47,7 @@ _ONE BITCOIN ETF FUND OF FUNDS UNHEDGED FUND NOT FOR RETAIL INVESTORS_
 > - **NAV 9.6663 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.83%/ปี
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (สหรัฐฯ) · ไม่ป้องกันความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.83%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -179,6 +179,7 @@ _ONE BITCOIN ETF FUND OF FUNDS UNHEDGED FUND NOT FOR RETAIL INVESTORS_
 
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 | ดอกเบี้ยเฟด / เศรษฐกิจสหรัฐ | Macro | เศรษฐกิจแข็งแรง/เฟดผ่อนคลาย | เฟดขึ้นดอกเบี้ย/เศรษฐกิจชะลอ | ประเทศ: สหรัฐฯ |
 
 

@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 5.3
 peer_group: "Global Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/concentrated, fx/fully-hedged, struct/fund-of-funds, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-GLOBALEQRMF
@@ -48,7 +48,7 @@ _Eastspring Global Equity RMF_
 > - **NAV 21.9097 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · พอร์ตถือราว 16 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านหลายกองทุน (fund of funds) · บริหารเชิงรุก (active) · พอร์ตถือราว 16 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

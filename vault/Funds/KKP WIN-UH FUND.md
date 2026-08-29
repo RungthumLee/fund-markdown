@@ -26,7 +26,7 @@ market_countries: ["สหรัฐฯ"]
 country_top: "สหรัฐฯ"
 country_coverage_pct: 16.4
 master_fund: "iShares World Equity High Income Active UCITS ETF USD Acc"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, cap/large, fx/unhedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # KKP WIN-UH FUND
@@ -46,7 +46,7 @@ _KKP WORLD EQUITY HIGH INCOME FUND - UNHEDGED_
 > - **NAV 11.2606 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (สหรัฐฯ) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.00%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -238,6 +238,7 @@ _KKP WORLD EQUITY HIGH INCOME FUND - UNHEDGED_
 
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 | ดอกเบี้ยเฟด / เศรษฐกิจสหรัฐ | Macro | เศรษฐกิจแข็งแรง/เฟดผ่อนคลาย | เฟดขึ้นดอกเบี้ย/เศรษฐกิจชะลอ | ประเทศ: สหรัฐฯ |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)

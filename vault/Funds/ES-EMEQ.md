@@ -30,7 +30,7 @@ master_fund: "iShares MSCI Emerging Markets ETF"
 master_isin: "US4642872349"
 peer_group: "Emerging Market"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/unhedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # ES-EMEQ
@@ -50,7 +50,7 @@ _Eastspring Emerging Markets Equity Index Fund_
 > - **NAV 17.2536 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ (ไต้หวัน) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.12%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ (ไต้หวัน) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.12%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -200,6 +200,7 @@ _Eastspring Emerging Markets Equity Index Fund_
 | วัฏจักรเซมิคอนดักเตอร์ / การลงทุน AI | Sector | วัฏจักรชิปขาขึ้น / AI capex โต → รายได้เพิ่ม | ชิปล้นตลาด / capex ชะลอ → รายได้หด | หมวด: technology |
 | อัตราดอกเบี้ย (กดหุ้นเติบโต) | Macro | ดอกเบี้ยลง → หุ้นเติบโต valuation สูงขึ้น | ดอกเบี้ยขึ้น → กด valuation หุ้นเทค | หมวด: technology |
 | ความตึงเครียดจีน-สหรัฐ / การกีดกันเทคโนโลยี | Macro | ผ่อนคลายข้อจำกัด → ห่วงโซ่อุปทานคล่อง | คว่ำบาตร/กีดกันชิป → กระทบรายได้/ซัพพลายเชน | หมวด: technology |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

@@ -28,7 +28,7 @@ country_top: "ฮ่องกง"
 country_coverage_pct: 30.7
 master_fund: "Hang Seng China Enterprises Index ETF"
 master_isin: "HK2828013055"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/consumer, cap/large, fx/discretionary, struct/feeder, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t2, sector/consumer, cap/large, fx/unhedged, struct/feeder, style/passive, style/dividend, tax/ssf, use/tax-saving, use/income]
 ---
 
 # SCBCEFUND
@@ -48,7 +48,7 @@ _SCB CHINA EQUITY OPEN END FUND_
 > - **NAV 7.7086 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · เน้นกลุ่มสินค้า/บริการผู้บริโภค · ลงทุนต่างประเทศ (ฮ่องกง) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · เน้นกลุ่มสินค้า/บริการผู้บริโภค · ลงทุนต่างประเทศ (ฮ่องกง) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.10%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 
@@ -335,6 +335,7 @@ _SCB CHINA EQUITY OPEN END FUND_
 |---|---|---|---|---|
 | นโยบายรัฐบาลจีน / ภาคอสังหา | Macro | มาตรการกระตุ้น → ตลาดฟื้น | คุมเข้ม/วิกฤตอสังหา → กดตลาด | ประเทศ: ฮ่องกง |
 | กำลังซื้อผู้บริโภค / เงินเฟ้อ | Macro | กำลังซื้อดี/เงินเฟ้อคุมได้ → ยอดขายโต | เงินเฟ้อสูง/ว่างงาน → กำลังซื้อหด | หมวด: consumer |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

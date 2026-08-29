@@ -25,7 +25,7 @@ top10_pct_nav: 100.11
 master_fund: "PIMCO GIS Income Institutional USD Acc"
 master_isin: "IE00B87KCF77"
 peer_group: "Global Bond Fully F/X Hedge"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UGIS-USD
@@ -45,7 +45,7 @@ _United USD Global Income Strategic Bond Fund_
 > - **NAV 10.392 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.03%/ปี
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.03%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

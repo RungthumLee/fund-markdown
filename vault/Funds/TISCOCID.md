@@ -30,7 +30,7 @@ master_fund: "iShares MSCI India UCITS ETF USD Acc"
 master_isin: "IE00BZCQB185"
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, cap/large, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/feeder, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, cap/large, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/partially-hedged, struct/fund-of-funds, style/passive, style/dividend, use/income]
 ---
 
 # TISCOCID
@@ -50,7 +50,7 @@ _TISCO China India Dividend Fund_
 > - **NAV 3.5125 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (อินเดีย) · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 8 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (อินเดีย) · ป้องกันค่าเงินบางส่วน · ลงทุนผ่านหลายกองทุน (fund of funds) · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 8 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.70%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

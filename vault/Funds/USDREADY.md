@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 103.92
 master_fund: "Amundi Fds Cash USD I2 USD C"
 master_isin: "LU0568621022"
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, credit/investment-grade, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, credit/investment-grade, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # USDREADY
@@ -44,7 +44,7 @@ _United USD Ready Fund_
 > - **NAV 10.1435 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.52%/ปี
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.52%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

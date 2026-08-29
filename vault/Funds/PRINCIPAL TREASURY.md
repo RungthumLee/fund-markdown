@@ -26,7 +26,7 @@ top10_pct_nav: 94.78
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 95.4
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, fx/discretionary, struct/direct, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/low, liquidity/t1, fx/fully-hedged, struct/direct, style/active, use/park-cash]
 ---
 
 # PRINCIPAL TREASURY
@@ -46,7 +46,7 @@ _Principal Daily Treasury Fund_
 > - **NAV 12.3777 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.27%/ปี
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.27%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

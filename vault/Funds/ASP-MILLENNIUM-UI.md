@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 2.8
 master_fund: "Wellspring GBL Fund"
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # ASP-MILLENNIUM-UI
@@ -48,7 +48,7 @@ _Asset Plus Millennium Fund (Unhedged) Not for Retail Investors_
 > - **NAV 10.2845 (2026-07-01)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.67%/ปี
+> กองผสม · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.67%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -195,6 +195,7 @@ _Asset Plus Millennium Fund (Unhedged) Not for Retail Investors_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ค่าธรรมเนียมรวมสูง (1.67%/ปี) | โครงสร้าง | - | ค่าธรรมเนียมยิ่งสูง ยิ่งกินผลตอบแทนทุกปีไม่ว่าตลาดขึ้นหรือลง | โครงสร้างกอง |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

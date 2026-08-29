@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 92.3
 peer_group: "Mid Term General Bond"
 fund_managers: ["น.ส. พรทิพา หนึ่งนํ้าใจ", "นาย เอกพจน์ ภู่วิบูลย์พาณิชย์"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t2, duration/medium, credit/investment-grade, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFAFIXRMF
@@ -48,7 +48,7 @@ _Krungsri Active Fixed Income RMF_
 > - **NAV 11.9337 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.41%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.41%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -25,7 +25,7 @@ holdings_count: 2
 top10_pct_nav: 97.56
 master_fund: "Schroder Invmt Fd FlexCatBd IF Acc USD"
 master_isin: "LU1196277534"
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KT-CATBONDUH-UI
@@ -45,7 +45,7 @@ _KTAM Catastrophe Bond Fund Unhedged Not for Retail Investors_
 > - **NAV 10.5211 (2026-08-18)**
 
 > [!tip] อ่านง่าย ๆ
-> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.76%/ปี
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.76%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -181,6 +181,15 @@ _KTAM Catastrophe Bond Fund Unhedged Not for Retail Investors_
 | 1 | ไม่มี | ไม่มี เนื่องจากกองทุนนี้เป็น Feeder Fund โดยลงทุนทั้งหมดหรือเกือบทั้งหมดในกองทุนหลัก คือ Schroder Investment Fund – Flexible Cat Bond ซึ่งไม่มีดัชนีชี้วัด (Benchmark) |
 
 ## 7. พอร์ตการลงทุน
+
+### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
+
+> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
+> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
+
+| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
+|---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

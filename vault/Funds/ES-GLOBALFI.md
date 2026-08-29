@@ -30,7 +30,7 @@ master_fund: "PGIM Global Total Return Bond USD I Acc"
 master_isin: "IE00BFD2HD96"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t4, fx/fully-hedged, struct/fund-of-funds, style/active, use/accumulate]
 ---
 
 # ES-GLOBALFI
@@ -50,7 +50,7 @@ _Eastspring Global Fixed Income Fund_
 > - **NAV 15.9911 (2026-08-25)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตลาดเงิน · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.08%/ปี
+> กองตลาดเงิน · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านหลายกองทุน (fund of funds) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.08%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

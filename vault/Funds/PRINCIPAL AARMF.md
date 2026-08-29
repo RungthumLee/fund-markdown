@@ -26,7 +26,7 @@ top10_pct_nav: 99.64
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 88.6
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/unhedged, struct/direct, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL AARMF
@@ -46,7 +46,7 @@ _Principal Aggressive allocation Retirement Mutual Fund_
 > - **NAV 20.5363 (2026-08-25)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.31%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
+> กองผสม · ความเสี่ยงสูงมาก (7/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.31%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 
@@ -180,7 +180,6 @@ _Principal Aggressive allocation Retirement Mutual Fund_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ความเสี่ยงเฉพาะตัว (single-name/theme) | โครงสร้าง | ถูกทาง→ upside แรงกว่ากองกระจาย | ผิดทาง→ downside แรงกว่ากองกระจาย | โครงสร้างกอง |
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

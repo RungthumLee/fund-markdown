@@ -26,7 +26,7 @@ top10_pct_nav: 53.9
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.5
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # KTEQ70PLUSX
@@ -46,7 +46,7 @@ _Krungthai Equity Plus 70/30 Thailand ESG Extra Fund_
 > - **NAV 12.1042 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.81%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.81%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -221,7 +221,6 @@ _Krungthai Equity Plus 70/30 Thailand ESG Extra Fund_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ค่าธรรมเนียมรวมสูง (1.81%/ปี) | โครงสร้าง | - | ค่าธรรมเนียมยิ่งสูง ยิ่งกินผลตอบแทนทุกปีไม่ว่าตลาดขึ้นหรือลง | โครงสร้างกอง |
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

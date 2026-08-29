@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 130.7
 peer_group: "Money Market Government"
 fund_managers: ["นาง สาวชนัยกานต์ สวัสดิฤกษ์", "นาง สาวพรพิชญ์ เต็งไตรสรณ์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, duration/short, credit/government, fx/discretionary, struct/direct, style/active, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, duration/short, credit/government, fx/fully-hedged, struct/direct, style/active, use/park-cash]
 ---
 
 # FP MONEY
@@ -48,7 +48,7 @@ _First Plus Money Market Fund_
 > - **NAV 12.1383 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตลาดเงิน · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.82%/ปี
+> กองตลาดเงิน · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.82%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

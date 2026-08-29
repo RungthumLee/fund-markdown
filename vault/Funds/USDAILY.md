@@ -26,7 +26,7 @@ top10_pct_nav: 100.05
 master_fund: "Stt Strt USD Lqudty LVNAV Sel Acc"
 master_isin: "IE00BBT33R47"
 peer_group: "Global Bond Fully F/X Hedge"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # USDAILY
@@ -46,7 +46,7 @@ _United USD Daily Fund_
 > - **NAV 10.4152 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.46%/ปี
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.46%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

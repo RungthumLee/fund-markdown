@@ -26,7 +26,7 @@ top10_pct_nav: 56.28
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.3
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/unhedged, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/focused, fx/discretionary, struct/direct, style/active, style/dividend, tax/thai-esg, compliance/sri-fund, use/tax-saving, use/income]
 ---
 
 # PRINCIPAL EQESG
@@ -46,7 +46,7 @@ _Principal Equity ESG Fund_
 > - **NAV 11.787 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 41 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.84%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี / รับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 41 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.84%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 
@@ -244,7 +244,6 @@ _Principal Equity ESG Fund_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ค่าธรรมเนียมรวมสูง (2.84%/ปี) | โครงสร้าง | - | ค่าธรรมเนียมยิ่งสูง ยิ่งกินผลตอบแทนทุกปีไม่ว่าตลาดขึ้นหรือลง | โครงสร้างกอง |
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

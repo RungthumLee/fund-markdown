@@ -28,7 +28,7 @@ country_top: "ญี่ปุ่น"
 country_coverage_pct: 45.9
 master_fund: "NEXT FUNDS Nikkei 225 Exchange Traded Fund"
 master_isin: "JP3027650005"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, cap/large, fx/unhedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # B-JPPASSIVE
@@ -48,7 +48,7 @@ _Bualuang Japan Equity Passive Fund_
 > - **NAV 16.2888 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ (ญี่ปุ่น) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.91%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ (ญี่ปุ่น) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.91%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -215,6 +215,7 @@ Bloomberg Code1321 JP
 | วัฏจักรเซมิคอนดักเตอร์ / การลงทุน AI | Sector | วัฏจักรชิปขาขึ้น / AI capex โต → รายได้เพิ่ม | ชิปล้นตลาด / capex ชะลอ → รายได้หด | หมวด: technology |
 | อัตราดอกเบี้ย (กดหุ้นเติบโต) | Macro | ดอกเบี้ยลง → หุ้นเติบโต valuation สูงขึ้น | ดอกเบี้ยขึ้น → กด valuation หุ้นเทค | หมวด: technology |
 | ความตึงเครียดจีน-สหรัฐ / การกีดกันเทคโนโลยี | Macro | ผ่อนคลายข้อจำกัด → ห่วงโซ่อุปทานคล่อง | คว่ำบาตร/กีดกันชิป → กระทบรายได้/ซัพพลายเชน | หมวด: technology |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

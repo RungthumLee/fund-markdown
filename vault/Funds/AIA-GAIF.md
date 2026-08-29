@@ -23,7 +23,7 @@ fund_size: 5429245938.47
 holdings_count: 5
 top10_pct_nav: 102.88
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-GAIF
@@ -43,7 +43,7 @@ _AIA Global Active Income Fund_
 > - **NAV 11.462 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -171,6 +171,7 @@ _AIA Global Active Income Fund_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ความเสี่ยงเฉพาะตัว (single-name/theme) | โครงสร้าง | ถูกทาง→ upside แรงกว่ากองกระจาย | ผิดทาง→ downside แรงกว่ากองกระจาย | โครงสร้างกอง |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 98.9
 master_fund: "SPDR Gold Shares"
 master_isin: "US78463V1070"
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t3, fx/unhedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # KT-GOLDUH
@@ -48,7 +48,7 @@ _KTAM Gold Fund Unhedged_
 > - **NAV 17.1025 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.67%/ปี
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (สหรัฐฯ) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.67%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -257,6 +257,7 @@ _KTAM Gold Fund Unhedged_
 
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 | ดอกเบี้ยเฟด / เศรษฐกิจสหรัฐ | Macro | เศรษฐกิจแข็งแรง/เฟดผ่อนคลาย | เฟดขึ้นดอกเบี้ย/เศรษฐกิจชะลอ | ประเทศ: สหรัฐฯ |
 
 

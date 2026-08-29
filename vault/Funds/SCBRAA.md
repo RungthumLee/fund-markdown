@@ -26,7 +26,7 @@ top10_pct_nav: 100.13
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 45.2
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/unhedged, struct/direct, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, use/accumulate]
 ---
 
 # SCBRAA
@@ -46,7 +46,7 @@ _SCB Robo Asset Allocation_
 > - **NAV 10.9228 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.67%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.67%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -220,7 +220,6 @@ _SCB Robo Asset Allocation_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ความเสี่ยงเฉพาะตัว (single-name/theme) | โครงสร้าง | ถูกทาง→ upside แรงกว่ากองกระจาย | ผิดทาง→ downside แรงกว่ากองกระจาย | โครงสร้างกอง |
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

@@ -25,7 +25,7 @@ top10_pct_nav: 100.16
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 90.1
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, duration/long, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t1, duration/long, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # LHSITHAIESG
@@ -45,7 +45,7 @@ _LH SOVEREIGN INSTRUMENTS THAILAND ESG FUND_
 > - **NAV 10.3905 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

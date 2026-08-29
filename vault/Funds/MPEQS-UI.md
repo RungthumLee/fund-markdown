@@ -29,7 +29,7 @@ country_coverage_pct: 0.2
 master_fund: "Franklin Lexington PE Secondaries Fund Series OU$ NL (833922A2)"
 master_isin: "LU2966298809"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t4, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # MPEQS-UI
@@ -49,7 +49,7 @@ _MFC Global Private Equity Secondaries Fund Not for Retail Investors_
 > - **NAV 11.9298 (2026-06-30)**
 
 > [!tip] อ่านง่าย ๆ
-> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.42%/ปี
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.42%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -222,6 +222,15 @@ _MFC Global Private Equity Secondaries Fund Not for Retail Investors_
 | ไทย | 0.2 |
 
 > ทะลุถึงหลักทรัพย์จริงได้ **0.2%** ของกอง (ส่วนที่เหลือ 99.8% ยังไม่ทะลุ) · ที่มา: ISIN ของหลักทรัพย์ในพอร์ต (ISO 6166)
+
+### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
+
+> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
+> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
+
+| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
+|---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

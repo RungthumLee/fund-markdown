@@ -26,7 +26,7 @@ top10_pct_nav: 98.89
 master_fund: "Pictet-Short-Term Money Market USD J"
 master_isin: "LU0474963658"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, duration/short, fx/discretionary, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, duration/short, fx/unhedged, struct/feeder, use/accumulate]
 ---
 
 # BCAP-USL
@@ -46,7 +46,7 @@ _BCAP USD Short Term Liquidity Fund_
 > - **NAV 10.4692 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตลาดเงิน · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.53%/ปี
+> กองตลาดเงิน · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.53%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -178,6 +178,15 @@ _BCAP USD Short Term Liquidity Fund_
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อคำนวณผลตอบแทนเป็นสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
+
+> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
+> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
+
+| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
+|---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

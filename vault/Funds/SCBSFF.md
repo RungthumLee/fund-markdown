@@ -26,7 +26,7 @@ top10_pct_nav: 74.57
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 94.4
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/short-term, risk/moderate, liquidity/t1, duration/short, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # SCBSFF
@@ -46,7 +46,7 @@ _SCB Short Term Fixed Income Fund_
 > - **NAV 21.7177 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี
+> กองตราสารหนี้ระยะสั้น · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.59%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 104.64
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 99.6
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, duration/medium, fx/discretionary, struct/direct, style/enhanced-index, style/dividend, use/income]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, liquidity/t3, duration/medium, fx/fully-hedged, struct/direct, style/enhanced-index, style/dividend, use/income]
 ---
 
 # KTILF
@@ -46,7 +46,7 @@ _Krung Thai Inflation Linked Fund_
 > - **NAV 12.4607 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.47%/ปี
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.47%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

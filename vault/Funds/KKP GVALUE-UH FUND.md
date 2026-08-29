@@ -24,7 +24,7 @@ fund_size: 453837091.64
 holdings_count: 4
 top10_pct_nav: 100.39
 master_fund: "MFS Meridian Funds - Contrarian Value Fund"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/discretionary, struct/feeder, style/active, tax/ssf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, fx/unhedged, struct/feeder, style/active, tax/ssf, use/tax-saving]
 ---
 
 # KKP GVALUE-UH FUND
@@ -44,7 +44,7 @@ _KKP GLOBAL VALUE FUND - UNHEDGED_
 > - **NAV 14.0604 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.44%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.44%/ปี · ได้สิทธิลดหย่อนภาษี (SSF)
 
 ## 1. ข้อมูลทั่วไป
 
@@ -261,6 +261,15 @@ _KKP GLOBAL VALUE FUND - UNHEDGED_
 | 1 | MSCI World Value Net Total Return USD Index | MSCI World Value Net Total Return USD Index |
 
 ## 7. พอร์ตการลงทุน
+
+### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
+
+> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
+> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
+
+| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
+|---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

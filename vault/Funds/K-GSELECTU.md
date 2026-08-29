@@ -26,7 +26,7 @@ top10_pct_nav: 99.84
 master_fund: "JPMorgan Global Select Equity ETF"
 peer_group: "Global Equity"
 fund_managers: ["น.ส. สุธีวัน พงศธราธิก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, sector/technology, fx/unhedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-GSELECTU
@@ -46,7 +46,7 @@ _K Global Select Equity Unhedged Fund_
 > - **NAV 11.5463 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.43%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.43%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -230,6 +230,7 @@ Websitehttps://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-glob
 | วัฏจักรเซมิคอนดักเตอร์ / การลงทุน AI | Sector | วัฏจักรชิปขาขึ้น / AI capex โต → รายได้เพิ่ม | ชิปล้นตลาด / capex ชะลอ → รายได้หด | หมวด: technology |
 | อัตราดอกเบี้ย (กดหุ้นเติบโต) | Macro | ดอกเบี้ยลง → หุ้นเติบโต valuation สูงขึ้น | ดอกเบี้ยขึ้น → กด valuation หุ้นเทค | หมวด: technology |
 | ความตึงเครียดจีน-สหรัฐ / การกีดกันเทคโนโลยี | Macro | ผ่อนคลายข้อจำกัด → ห่วงโซ่อุปทานคล่อง | คว่ำบาตร/กีดกันชิป → กระทบรายได้/ซัพพลายเชน | หมวด: technology |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

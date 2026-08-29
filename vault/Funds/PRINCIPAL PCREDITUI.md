@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 91.9
 master_fund: "Principal Private Credit Fund iCapital Offshore Access Fund SPC"
 master_isin: "KYG7256F1138"
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t2, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t2, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # PRINCIPAL PCREDITUI
@@ -44,7 +44,7 @@ _Principal Private Credit Fund Not for Retail Investors_
 > - **NAV 10.6533 (2026-07-31)**
 
 > [!tip] อ่านง่าย ๆ
-> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.21%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -208,15 +208,6 @@ _Principal Private Credit Fund Not for Retail Investors_
 _ไม่มีข้อมูลผลการดำเนินงานจาก API_
 
 ## 7. พอร์ตการลงทุน
-
-### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
-
-> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
-> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
-
-| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
-|---|---|---|---|---|
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

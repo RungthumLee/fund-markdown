@@ -37,6 +37,7 @@ updated: 2026-08-28
 - [x] **P3 · R-05 NAV time-series** ✅ — surface NAV 120 วัน ในโน้ตกอง (ประตูสู่ correlation)
 - [x] **P5 · Correlation (fund↔factor)** ✅ — factor series (Yahoo) + realized correlation + block ในโน้ต (descriptive+caveat)
 - [x] **P4** ✅ เสริมสรุปภาษาคนให้มี **ประเทศ + กลุ่มอุตสาหกรรม** (A-RING: เน้นกลุ่มวัสดุ/โลหะ · แคนาดา)
+- [x] **P9 · ประเมินไอเดีย correlation ตรวจ tag → ไม่ทำ + แก้บั๊ก tag 2 ตัว** ✅ — fx 230 กอง · struct 16 กอง · เหตุผลที่ไม่ทำอยู่ที่ [[ideas#6|ideas §6]]
 - [x] **P8 · ความต่อเนื่องของ NAV + การเปลี่ยนชื่อกอง** ✅ — ต่อ series ให้ 116 กอง · กันผลตอบแทนคร่อมช่องว่าง · รายงาน [[nav-continuity|NAV Continuity]]
 - [x] **P7 · Backfill NAV 5 ปี + holding 12 ไตรมาส** ✅ — 3.3 ล้านแถว NAV · correlation median n 53 → **1,050**
 - [x] **P6 · Probe ต้นทาง + เก็บงานค้าง** ✅ — `probe_history.py` (NAV/portfolio reach + rate limit) · OUT-001 RMF · sync เอกสาร
@@ -118,6 +119,19 @@ _บันทึกผลโหวต 3 agent ต่อทางแยกที�
 ## บันทึกรอบ (Round log)
 
 _หนึ่งบรรทัดต่อรอบ: งาน · ผล V · ไฟล์ที่แตะ_
+
+- **P9 · ทดสอบไอเดีย "correlation ยืนยัน tag" แล้วตัดสินว่าไม่ทำ** (คำถามผู้ใช้) —
+  V ผ่าน (broken=0 · orphan=0 · S1=0) · prototype จริง 1,814 กอง 1.6 ล้านคู่ ·
+  **residual correlation** (ถอด SET+S&P500) ลดคู่ r≥0.90 จาก 45,493 → 3,910 (−91%) พิสูจน์ว่า
+  correlation ดิบวัด market beta ไม่ใช่ความเหมือน · **สุ่ม 20 คู่ seed 42 ตั้งเกณฑ์ก่อนดู:
+  error จริง 2 · ต้นทางต่างจริง 15 · ตัดสินไม่ได้ 3 = 12%** ต่ำกว่าเกณฑ์ >50% → **no-go** ·
+  เหตุผลเต็มที่ [[ideas#6|ideas §6]] (เขียนไว้กันเสนอซ้ำ) ·
+  **ของที่ได้จริง:** บั๊ก 2 ตัวที่หาเจอด้วยการเทียบ tag กับ field ต้นทาง ไม่ใช่ correlation —
+  [[issues|ISS-043]] `_fx_tags` ทางสำรอง match keyword โดยไม่อ่าน `fx_policy` → ขัดกับ field
+  ตัวเอง **230 → 0** กอง (K-GPINUH "UH" เคยได้ discretionary) ·
+  [[issues|ISS-044]] `struct/feeder` ปนกับ fund of funds → แยกด้วยเกณฑ์ ≥80% ในกองเดียว
+  ได้ `struct/fund-of-funds` **16 กอง** (ES-INTERNET ถือ ARKF 52% + อีก 14 ตัว) ·
+  ไฟล์: `tagging.py` `gen_vault.py` `ideas.md` `issues.md`
 
 - **P8 · NAV ต่อเนื่องไหม + กองเปลี่ยนชื่อ** (คำถามผู้ใช้) — V ผ่าน (broken=0 · orphan=0 · S1=0) ·
   **คำตอบ 1:** ไม่ต่อเนื่องทั้งหมด — series รายวัน **2,646/3,466 มีช่องว่าง >10 วัน** ·

@@ -30,7 +30,7 @@ master_fund: "BlackRock Global Uncons Eq D USD Acc"
 master_isin: "IE00BK70NJ20"
 peer_group: "Global Equity"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, sector/technology, cap/large, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/industrials, sector/technology, cap/large, fx/unhedged, struct/feeder, style/active, tax/rmf, use/tax-saving]
 ---
 
 # KFGLOBFXRMF
@@ -50,7 +50,7 @@ _Krungsri Global Unconstrained Equity FX RMF_
 > - **NAV 12.2477 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มอุตสาหกรรม · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.53%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มอุตสาหกรรม · ลงทุนต่างประเทศ (สหรัฐฯ) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.53%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 
@@ -205,6 +205,7 @@ _Krungsri Global Unconstrained Equity FX RMF_
 | วัฏจักรเซมิคอนดักเตอร์ / การลงทุน AI | Sector | วัฏจักรชิปขาขึ้น / AI capex โต → รายได้เพิ่ม | ชิปล้นตลาด / capex ชะลอ → รายได้หด | หมวด: technology |
 | อัตราดอกเบี้ย (กดหุ้นเติบโต) | Macro | ดอกเบี้ยลง → หุ้นเติบโต valuation สูงขึ้น | ดอกเบี้ยขึ้น → กด valuation หุ้นเทค | หมวด: technology |
 | ความตึงเครียดจีน-สหรัฐ / การกีดกันเทคโนโลยี | Macro | ผ่อนคลายข้อจำกัด → ห่วงโซ่อุปทานคล่อง | คว่ำบาตร/กีดกันชิป → กระทบรายได้/ซัพพลายเชน | หมวด: technology |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 | ดอกเบี้ยเฟด / เศรษฐกิจสหรัฐ | Macro | เศรษฐกิจแข็งแรง/เฟดผ่อนคลาย | เฟดขึ้นดอกเบี้ย/เศรษฐกิจชะลอ | ประเทศ: สหรัฐฯ |
 | วัฏจักรเศรษฐกิจ / การลงทุนโครงสร้างพื้นฐาน | Macro | เศรษฐกิจ/การลงทุนโต → คำสั่งซื้อเพิ่ม | ถดถอย → การลงทุนชะลอ | หมวด: industrials |
 

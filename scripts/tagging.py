@@ -166,18 +166,57 @@ def _fx_tags(f: dict, text: str) -> list[str]:
             return ["fx/fully-hedged"]
         if hedged >= 10:
             return ["fx/partially-hedged"]
-    if _HEDGE_DISCRETION.search(text) and _HEDGE_WORD.search(text):
-        return ["fx/discretionary"]
+
+    # No measured ratio. `exchange_rate_protection_policy` states the fund's own
+    # policy in a small set of standard phrases, so read it before falling back
+    # to keywords in free text - that fallback used to ignore the field
+    # completely and labelled K-GPINUH ("UH", policy "ไม่ป้องกัน") as
+    # discretionary, 230 funds in all. The field says what the fund may do; the
+    # measured ratio above says what it did, and that still wins when present.
+    # (ISS-043)
+    policy = str(f.get("fx_policy") or "")
+    if policy:
+        if "ไม่ป้องกัน" in policy:
+            return ["fx/unhedged"]
+        if "ดุลยพินิจ" in policy:
+            return ["fx/discretionary"]
+        if "ทั้งหมด" in policy:
+            return ["fx/fully-hedged"]
+        if "บางส่วน" in policy:
+            return ["fx/partially-hedged"]
+
     if _HEDGE_WORD.search(text):
         return ["fx/discretionary"]
     return ["fx/unhedged"]
 
 
+# A feeder puts substantially everything into one master fund; the regulator's
+# line is 80% of NAV. A fund holding a basket of foreign ETFs is a fund of
+# funds - it invests through funds too, but there is no single master to look
+# through to, no single master fee to stack, and no single strategy behind it.
+FEEDER_MIN_PCT = 80.0
+
+
 def _struct_tags(f: dict) -> list[str]:
+    """direct / feeder / fund-of-funds.
+
+    management_style alone cannot tell the last two apart: the codes ending in N
+    only say "invests via other funds", so ES-INTERNET (ARKF 52% plus 14 other
+    holdings) came out as a feeder. When the portfolio is visible, let it decide;
+    a declared feeder_master is taken at its word. (ISS-044)
+    """
     style = f.get("management_style") or ""
-    if f.get("feeder_master") or style in ("AN", "PN", "IN", "LN"):
+    via_funds = bool(f.get("feeder_master")) or style in ("AN", "PN", "IN", "LN")
+    if not via_funds:
+        return ["struct/direct"]
+    if f.get("feeder_master"):
         return ["struct/feeder"]
-    return ["struct/direct"]
+    items = (f.get("portfolio") or {}).get("items") or []
+    if items:
+        top = max((i.get("percent_nav") or 0) for i in items)
+        if top < FEEDER_MIN_PCT:
+            return ["struct/fund-of-funds"]
+    return ["struct/feeder"]
 
 
 def _duration_years(text) -> float | None:
@@ -446,6 +485,8 @@ def plain_summary(f: dict, ter: float | None = None,
 
     if "struct/feeder" in tset:
         parts.append("ลงทุนผ่านกองทุนหลัก (feeder)")
+    elif "struct/fund-of-funds" in tset:
+        parts.append("ลงทุนผ่านหลายกองทุน (fund of funds)")
     if "style/passive" in tset:
         parts.append("บริหารแบบอิงดัชนี (passive)")
     elif "style/active" in tset:

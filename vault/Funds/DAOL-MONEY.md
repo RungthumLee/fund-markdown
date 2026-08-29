@@ -26,7 +26,7 @@ top10_pct_nav: 67.89
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 88.6
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, fx/discretionary, struct/direct, style/enhanced-index, use/park-cash]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, fx/fully-hedged, struct/direct, style/enhanced-index, use/park-cash]
 ---
 
 # DAOL-MONEY
@@ -46,7 +46,7 @@ _DAOL MONEY MARKET FUND_
 > - **NAV 10.7557 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตลาดเงิน · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.45%/ปี
+> กองตลาดเงิน · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.45%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

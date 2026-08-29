@@ -30,7 +30,7 @@ master_fund: "Vietnam Equity (UCITS) A USD"
 master_isin: "IE00BD5HPH84"
 peer_group: "Vietnam Equity"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ศตนนท์ ทัน"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, sector/financials, cap/large, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/feeder, style/active, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t6, sector/financials, cap/large, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/fund-of-funds, style/active, tax/rmf, use/tax-saving]
 ---
 
 # ES-VIETNAMRMF
@@ -50,7 +50,7 @@ _Eastspring Vietnam Active Equity RMF_
 > - **NAV 9.6273 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · เน้นกลุ่มการเงิน/ธนาคาร · ลงทุนต่างประเทศ (เวียดนาม) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · พอร์ตถือราว 5 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+6 · เน้นกลุ่มการเงิน/ธนาคาร · ลงทุนต่างประเทศ (เวียดนาม) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านหลายกองทุน (fund of funds) · บริหารเชิงรุก (active) · พอร์ตถือราว 5 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.78%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

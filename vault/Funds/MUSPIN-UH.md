@@ -29,7 +29,7 @@ country_coverage_pct: 19.7
 master_fund: "JPM US Equity Premium Income Active UCITS ETF USD Dist"
 master_isin: "IE000U5MJOZ6"
 fund_managers: ["นาย ชาญวุฒิ รุ่งแสงมนูญ", "นาย กิตติพงษ์ กังวานเกียรติชัย"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t5, cap/large, fx/unhedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # MUSPIN-UH
@@ -49,7 +49,7 @@ _MFC US Equity Premium Income Fund Unhedged_
 > - **NAV 10.5087 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.15%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (สหรัฐฯ) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.15%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -234,6 +234,7 @@ _MFC US Equity Premium Income Fund Unhedged_
 
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 | ดอกเบี้ยเฟด / เศรษฐกิจสหรัฐ | Macro | เศรษฐกิจแข็งแรง/เฟดผ่อนคลาย | เฟดขึ้นดอกเบี้ย/เศรษฐกิจชะลอ | ประเทศ: สหรัฐฯ |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)

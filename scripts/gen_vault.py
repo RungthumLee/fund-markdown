@@ -917,7 +917,7 @@ FACET_LABEL = {
     "duration": ("อายุเฉลี่ยตราสารหนี้", "สั้น <1.5ปี / กลาง 1.5–5 / ยาว >5 (จาก duration)"),
     "credit": ("คุณภาพเครดิต", "investment-grade / high-yield / พันธบัตรรัฐ (จาก factsheet)"),
     "style": ("กลยุทธ์บริหาร", "active / passive / ปันผล ฯลฯ"),
-    "struct": ("โครงสร้าง", "ลงตรง / feeder"),
+    "struct": ("โครงสร้าง", "ลงตรง / feeder / fund of funds"),
     "conc": ("การกระจุกตัว", "จำนวนหลักทรัพย์ที่ถือ (เฉพาะกองหุ้น)"),
     "fx": ("การป้องกันค่าเงิน", "hedge เต็ม/บางส่วน/ไม่ hedge/ตามดุลยพินิจ"),
     "liquidity": ("สภาพคล่อง", "ได้เงินคืนกี่วันทำการหลังขาย"),
@@ -1019,7 +1019,8 @@ def render_peer_clusters(g_peer: dict[str, list[dict]]) -> str:
         for f in sorted(rows, key=lambda x: -(fund_perf_1y(x) or -999)):
             tags = set(tagging.investor_tags(f))
             fx = next((_FX_SHORT[t] for t in tags if t in _FX_SHORT), "-")
-            struct = "feeder" if "struct/feeder" in tags else "ตรง"
+            struct = ("feeder" if "struct/feeder" in tags else
+                      "fund of funds" if "struct/fund-of-funds" in tags else "ตรง")
             table_rows.append([
                 f"[[{f['_note']}|{f.get('abbr')}]]",
                 f"[[{safe_name(f.get('amc_th') or 'ไม่ระบุ')}]]",

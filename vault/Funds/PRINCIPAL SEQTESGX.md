@@ -26,7 +26,7 @@ top10_pct_nav: 71.75
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 98.4
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/unhedged, struct/direct, style/active, style/dividend, use/income]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t3, conc/concentrated, fx/discretionary, struct/direct, style/active, style/dividend, use/income]
 ---
 
 # PRINCIPAL SEQTESGX
@@ -46,7 +46,7 @@ _Principal Selected Dividend Equity Thailand ESG Extra Fund_
 > - **NAV 13.7515 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · พอร์ตถือราว 33 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.34%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · พอร์ตถือราว 33 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.34%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -249,7 +249,6 @@ _Principal Selected Dividend Equity Thailand ESG Extra Fund_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ความเสี่ยงเฉพาะตัว | โครงสร้าง | กระจุกในตัวเด่น → upside เด่น | กระจุก → เสี่ยงเฉพาะตัวสูงกว่าค่าเฉลี่ย | โครงสร้างกอง |
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

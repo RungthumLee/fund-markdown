@@ -27,7 +27,7 @@ master_fund: "BlackRock Private Credit Fund iCapital Offshore Access Fund, L.P."
 master_isin: "KYG1227L1352"
 peer_group: "Miscellaneous"
 fund_managers: ["นาย จาตุรันต์ สอนไว", "นาย ชูศักดิ์ อวยพรชัยสกุล"]
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, sector/technology, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t5, sector/technology, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KFPCD-UI
@@ -47,7 +47,7 @@ _Krungsri Private Credit Fund-Not for Retail Investors_
 > - **NAV 10.195 (2026-06-30)**
 
 > [!tip] อ่านง่าย ๆ
-> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · เน้นกลุ่มเทคโนโลยี · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -191,7 +191,6 @@ _Krungsri Private Credit Fund-Not for Retail Investors_
 | วัฏจักรเซมิคอนดักเตอร์ / การลงทุน AI | Sector | วัฏจักรชิปขาขึ้น / AI capex โต → รายได้เพิ่ม | ชิปล้นตลาด / capex ชะลอ → รายได้หด | หมวด: technology |
 | อัตราดอกเบี้ย (กดหุ้นเติบโต) | Macro | ดอกเบี้ยลง → หุ้นเติบโต valuation สูงขึ้น | ดอกเบี้ยขึ้น → กด valuation หุ้นเทค | หมวด: technology |
 | ความตึงเครียดจีน-สหรัฐ / การกีดกันเทคโนโลยี | Macro | ผ่อนคลายข้อจำกัด → ห่วงโซ่อุปทานคล่อง | คว่ำบาตร/กีดกันชิป → กระทบรายได้/ซัพพลายเชน | หมวด: technology |
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

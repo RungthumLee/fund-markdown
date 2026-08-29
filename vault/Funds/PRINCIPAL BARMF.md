@@ -26,7 +26,7 @@ top10_pct_nav: 100.65
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 89.0
-tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
+tags: [fund, sec-data, asset/mixed, risk/very-high, liquidity/t4, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/fully-hedged, struct/direct, style/enhanced-index, tax/rmf, use/tax-saving]
 ---
 
 # PRINCIPAL BARMF
@@ -46,7 +46,7 @@ _Principal Balanced Allocation Retirement Mutual Fund_
 > - **NAV 13.0138 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.55%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
+> กองผสม · ความเสี่ยงสูงมาก (8/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.55%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

@@ -26,7 +26,7 @@ top10_pct_nav: 66.39
 market_countries: ["ไทย", "สหรัฐฯ"]
 country_top: "ไทย"
 country_coverage_pct: 99.7
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/total-market, fx/unhedged, struct/direct, style/active, style/dividend, use/income, audience/government]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/total-market, fx/discretionary, struct/direct, style/active, style/dividend, use/income, audience/government]
 ---
 
 # VAYU1
@@ -46,7 +46,7 @@ _Vayupak Fund 1_
 > - **NAV 10.4405 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.14%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.14%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -213,7 +213,6 @@ _Vayupak Fund 1_
 
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 | ดอกเบี้ยเฟด / เศรษฐกิจสหรัฐ | Macro | เศรษฐกิจแข็งแรง/เฟดผ่อนคลาย | เฟดขึ้นดอกเบี้ย/เศรษฐกิจชะลอ | ประเทศ: สหรัฐฯ |
 
 

@@ -28,7 +28,7 @@ country_top: "ฮ่องกง"
 country_coverage_pct: 49.6
 peer_group: "Asia Pacific Ex Japan"
 fund_managers: ["นาย ธีระศักดิ์บุญญาเสถียร", "นาย สากลรัตนวรี"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, conc/ultra-concentrated, fx/fully-hedged, struct/fund-of-funds, style/passive, use/accumulate]
 ---
 
 # TISCONA
@@ -48,7 +48,7 @@ _TISCO North Asia Equity Fund_
 > - **NAV 21.6869 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ฮ่องกง) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 11 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (ฮ่องกง) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านหลายกองทุน (fund of funds) · บริหารแบบอิงดัชนี (passive) · พอร์ตถือราว 11 หลักทรัพย์ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.77%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

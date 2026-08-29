@@ -24,7 +24,7 @@ fund_size: 5035648097.95
 holdings_count: 4
 top10_pct_nav: 100.14
 master_fund: "Vietnam Long-term Growth Fund"
-tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/equity, risk/very-high, liquidity/t4, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # KKP VGF-UI FUND
@@ -44,7 +44,7 @@ _KKP VIETNAM GROWTH FUND NOT FOR RETAIL INVESTORS_
 > - **NAV 8.348 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.28%/ปี
+> กองหุ้น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -192,6 +192,7 @@ _KKP VIETNAM GROWTH FUND NOT FOR RETAIL INVESTORS_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ค่าธรรมเนียมรวมสูง (2.28%/ปี) | โครงสร้าง | - | ค่าธรรมเนียมยิ่งสูง ยิ่งกินผลตอบแทนทุกปีไม่ว่าตลาดขึ้นหรือลง | โครงสร้างกอง |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

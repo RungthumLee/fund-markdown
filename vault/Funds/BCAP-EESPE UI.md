@@ -25,7 +25,7 @@ top10_pct_nav: 100.71
 master_fund: "VistaOne (Lux) Feeder, SICAV SA-I"
 master_isin: "LU2991176186"
 peer_group: "Miscellaneous"
-tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/alternative, asset/real-estate, risk/very-high, liquidity/t5, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # BCAP-EESPE UI
@@ -45,7 +45,7 @@ _BCAP Evergreen Enterprise Software Private Equity Fund Not for Retail Investors
 > - **NAV 10.6285 (2026-08-11)**
 
 > [!tip] อ่านง่าย ๆ
-> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.17%/ปี
+> กองสินทรัพย์ทางเลือก · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.17%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -176,15 +176,6 @@ _BCAP Evergreen Enterprise Software Private Equity Fund Not for Retail Investors
 | 1 | ไม่มี | ไม่มี เนื่องจากกองทุนมีการลงทุนในกองทุนหลัก ซึ่งลงทุนในสินทรัพย์ประเภท Private equity และมีการบริหารจัดการที่มีลักษณะเฉพาะ จึงไม่จำเป็นต้องเปรียบเทียบผลการดำเนินงานของกองทุนกับตัวชี้วัด |
 
 ## 7. พอร์ตการลงทุน
-
-### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
-
-> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
-> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
-
-| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
-|---|---|---|---|---|
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

@@ -824,6 +824,58 @@ series รายวัน **2,646 จาก 3,466** มีช่องว่า�
 
 ---
 
+## 🔴 ISS-043 — tag `fx/*` ของ 230 กองขัดกับนโยบายค่าเงินของตัวเอง
+
+**พบเมื่อ:** 2026-08-29 ระหว่างทดสอบว่าไอเดีย "ใช้ correlation ตรวจ tag" คุ้มไหม
+(ดู [[ideas|ideas §6]]) — เจอจากการเทียบ tag กับ field ต้นทาง ไม่ใช่จาก correlation
+
+**อาการ:** `K-GPINUH` (ชื่อลงท้าย UH · `exchange_rate_protection_policy` = "ไม่ป้องกัน
+(unhedged)") ได้ tag `fx/discretionary` · `K-ESGSI` (policy = "ทั้งหมด (fully hedged)")
+ก็ได้ `fx/discretionary` เช่นกัน
+
+**สาเหตุ:** `_fx_tags` มี 2 ทาง — ทางแรกใช้ `fx_hedging` ที่**วัดได้จริง**จาก factsheet
+(ถูกและดีกว่า policy เพราะบอกว่า*ทำจริงเท่าไร* ไม่ใช่*ทำได้แค่ไหน*) ครอบคลุม 1,065 กอง ·
+แต่กองที่ไม่มีค่าวัด (531 กอง) ตกไปทางที่สองซึ่ง match keyword บน**ข้อความอิสระ**
+(ชื่อ + investment_policy) โดย**ไม่แตะ field `fx_policy` เลย** ทั้งที่ field นั้นเขียน
+คำตอบไว้ตรง ๆ ด้วยชุดคำมาตรฐาน 4 แบบ
+
+**ขนาด:** 230 จาก 531 กองในทางที่สอง (unhedged→discretionary 128 · fully→discretionary 48 ·
+discretionary→unhedged 49 · อื่น ๆ 5)
+
+**วิธีแก้:** ในทางที่สอง อ่าน `fx_policy` ก่อน keyword — ค่าที่**วัดได้จริง**ยังชนะเหมือนเดิม
+เมื่อมี (เจตนาเดิมของกฎ ไม่เปลี่ยน)
+
+**ยืนยัน:** กองที่ tag ขัดกับ field ตัวเอง **230 → 0** · `K-GPINUH` → `fx/unhedged` ·
+`K-ESGSI` → `fx/fully-hedged` · `K-USA` ยังเป็น `partially-hedged` จากค่าวัด (ถูกตามเจตนา)
+
+**สถานะ:** ✅ แก้แล้ว — `scripts/tagging.py::_fx_tags`
+
+---
+
+## 🟡 ISS-044 — `struct/feeder` ปนกับ fund of funds
+
+**พบเมื่อ:** 2026-08-29 รอบเดียวกับ [[issues|ISS-043]]
+
+**อาการ:** `ES-INTERNET` ถือ ARKF 52% + หลักทรัพย์อีก 14 รายการ แต่ติด `struct/feeder`
+ทั้งที่ไม่มี `feeder_master` และไม่มีกองหลักตัวไหนเกิน 80%
+
+**สาเหตุ:** กฎเดิมตัดสินจาก `management_style` ลงท้าย N (AN/PN/IN/LN) ซึ่งบอกแค่
+"ลงทุนผ่านกองทุนอื่น" — แยกไม่ออกว่าเป็น **feeder** (ทุ่มเข้ากองหลักเดียว ≥80% ตามเกณฑ์
+ก.ล.ต.) หรือ **fund of funds** (ตะกร้าหลายกอง)
+
+**ทำไมถึงสำคัญ:** feeder มีกองหลักให้ look-through และมีค่าธรรมเนียมซ้อน 2 ชั้นให้บวก ·
+fund of funds ไม่มีกองหลักเดียวให้ทำแบบนั้น การเรียกรวมกันทำให้ผู้อ่านคาดหวังผิด
+
+**วิธีแก้:** ถ้ามี `feeder_master` = feeder · ถ้าไม่มีแต่เห็นพอร์ต ให้พอร์ตตัดสิน
+(รายการสูงสุด < 80% = `struct/fund-of-funds`) · เพิ่มค่าที่สามในสรุปภาษาคนและตารางเทียบ
+
+**ผล:** feeder 999 → **983** · `struct/fund-of-funds` **16 กอง**
+(ES-INTERNET · ES-GENOME · TISCOCID · TCIRMF · TISCONA ฯลฯ)
+
+**สถานะ:** ✅ แก้แล้ว — `scripts/tagging.py::_struct_tags` · `scripts/gen_vault.py`
+
+---
+
 ## เทมเพลตสำหรับ issue ใหม่
 
 ```markdown

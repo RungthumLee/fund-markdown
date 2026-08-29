@@ -21,7 +21,7 @@ nav: 10.1564
 nav_date: "2026-08-26"
 fund_size: 171613533.73
 master_fund: "iShares Core 60/40 Balanced Allocation ETF"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t2, fx/fully-hedged, struct/feeder, style/passive, use/accumulate]
 ---
 
 # TLCOREWEALTH-H-X
@@ -41,7 +41,7 @@ _TALIS CORE WEALTH BALANCED ALLOCATION FUND-HEDGE_
 > - **NAV 10.1564 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.25%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

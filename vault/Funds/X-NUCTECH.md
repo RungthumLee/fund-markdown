@@ -29,7 +29,7 @@ country_coverage_pct: 67.2
 master_fund: "VanEck Uranium and Nuclear Technologies UCITS ETF A USD Acc"
 peer_group: "Global Equity - Alternative Energy"
 fund_managers: ["นาย เมธวัฒน์ ว่องกิจ", "นาง สาว นฤมล มีมาก"]
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, sector/energy, sector/industrials, cap/large, fx/unhedged, struct/feeder, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t1, sector/energy, sector/industrials, cap/large, fx/discretionary, struct/feeder, use/accumulate]
 ---
 
 # X-NUCTECH
@@ -49,7 +49,7 @@ _XSpring Nuclear Power Technologies and Uranium Fund_
 > - **NAV 11.6608 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · เน้นกลุ่มพลังงาน · ลงทุนต่างประเทศ (แคนาดา) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · เน้นกลุ่มพลังงาน · ลงทุนต่างประเทศ (แคนาดา) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.18%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -191,7 +191,6 @@ _XSpring Nuclear Power Technologies and Uranium Fund_
 |---|---|---|---|---|
 | ราคาน้ำมัน/ก๊าซ | Macro | ราคาพลังงานขึ้น → กำไรผู้ผลิตเพิ่ม | ราคาพลังงานลง → กำไรหด | หมวด: energy |
 | การเปลี่ยนผ่านสู่พลังงานสะอาด | Sector | อุปสงค์ฟอสซิลยังสูงช่วงเปลี่ยนผ่าน | เร่งเปลี่ยนผ่าน → อุปสงค์ระยะยาวลด | หมวด: energy |
-| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 | ดอกเบี้ยเฟด / เศรษฐกิจสหรัฐ | Macro | เศรษฐกิจแข็งแรง/เฟดผ่อนคลาย | เฟดขึ้นดอกเบี้ย/เศรษฐกิจชะลอ | ประเทศ: สหรัฐฯ |
 | วัฏจักรเศรษฐกิจ / การลงทุนโครงสร้างพื้นฐาน | Macro | เศรษฐกิจ/การลงทุนโต → คำสั่งซื้อเพิ่ม | ถดถอย → การลงทุนชะลอ | หมวด: industrials |
 

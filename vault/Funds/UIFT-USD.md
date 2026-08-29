@@ -28,7 +28,7 @@ country_coverage_pct: 29.1
 master_fund: "United CIO Income T USD Acc"
 master_isin: "SGXZ10538536"
 peer_group: "Foreign Investment Allocation"
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t4, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # UIFT-USD
@@ -48,7 +48,7 @@ _United USD CIO Income Fund TH_
 > - **NAV 10.4699 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (สหราชอาณาจักร) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · ลงทุนต่างประเทศ (สหราชอาณาจักร) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.32%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

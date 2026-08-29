@@ -25,7 +25,7 @@ top10_pct_nav: 82.27
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 102.8
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, duration/short, fx/discretionary, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/low, liquidity/t1, duration/short, fx/fully-hedged, struct/direct, style/active, tax/rmf, use/park-cash, use/tax-saving]
 ---
 
 # LHMMRMF
@@ -45,7 +45,7 @@ _LH MONEY MARKET RMF FUND_
 > - **NAV 10.4719 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตลาดเงิน · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.40%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
+> กองตลาดเงิน · ความเสี่ยงต่ำ (2/8) · เหมาะกับพักเงินระยะสั้น / ลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.40%/ปี · ได้สิทธิลดหย่อนภาษี (RMF)
 
 ## 1. ข้อมูลทั่วไป
 

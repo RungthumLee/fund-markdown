@@ -25,7 +25,7 @@ top10_pct_nav: 95.61
 master_fund: "JPMorgan Liquidity Funds - USD Standard Money Market VNAV Fund C (acc.)"
 peer_group: "Global Bond Discretionary F/X Hedge or Unhedge"
 fund_managers: ["น.ส. ชุณหวรรณ ขัตตินานนท์"]
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t2, fx/unhedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # K-GSF(UH)
@@ -45,7 +45,7 @@ _K Global Short Term Fixed Income Unhedged Fund_
 > - **NAV 10.522 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตลาดเงิน · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.38%/ปี
+> กองตลาดเงิน · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.38%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -193,6 +193,15 @@ Websitehttps://am.jpmorgan.com/it/en/asset-management/liq/
 | 1 | ผลการดำเนินงานของกองทุนรวมหลัก | ปรับด้วยอัตราแลกเปลี่ยนเพื่อเทียบกับค่าสกุลเงินบาท ณ วันที่คำนวณผลตอบแทน |
 
 ## 7. พอร์ตการลงทุน
+
+### ⚖️ ปัจจัยที่กระทบกอง (สองด้าน)
+
+> [!INFO] ปัจจัยที่กองนี้**ไว**ต่อ — อ่านจากหมวด/ประเทศ/โครงสร้างที่ถือจริง
+> แสดง**ทั้งสองด้าน** (ขึ้น=โอกาส · ลง=ความเสี่ยง) · **ไม่ใช่การพยากรณ์** ว่าจะไปทางไหน · [กรอบข้อมูลอ้างอิง](../../docs/project/ideas.md)
+
+| ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
+|---|---|---|---|---|
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

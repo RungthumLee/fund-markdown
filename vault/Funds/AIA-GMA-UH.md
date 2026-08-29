@@ -24,7 +24,7 @@ holdings_count: 10
 top10_pct_nav: 100.47
 peer_group: "Foreign Investment Allocation"
 fund_managers: ["นาย ปิยเมศ อารยะฐากูร", "นาย กาย ศิริพรรณพร"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/unhedged, struct/direct, style/active, use/accumulate]
 ---
 
 # AIA-GMA-UH
@@ -44,7 +44,7 @@ _AIA Global Moderate Allocation Fund - Unhedged_
 > - **NAV 11.1175 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.49%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -175,6 +175,7 @@ _AIA Global Moderate Allocation Fund - Unhedged_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ความเสี่ยงเฉพาะตัว (single-name/theme) | โครงสร้าง | ถูกทาง→ upside แรงกว่ากองกระจาย | ผิดทาง→ downside แรงกว่ากองกระจาย | โครงสร้างกอง |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

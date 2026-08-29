@@ -29,7 +29,7 @@ country_coverage_pct: 6.8
 master_fund: "Oaktree Strategic Credit iCapital Access Fund SPC"
 master_isin: "KYG6690J1783"
 fund_managers: ["นาย คมสัน ผลานุสนธิ", "นาย ปิยะณัฐ คุ้มเมธา"]
-tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t6, fx/discretionary, struct/feeder, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/other, risk/very-high, liquidity/t6, fx/unhedged, struct/feeder, use/accumulate, audience/restricted]
 ---
 
 # ASP-SC(UH)-UI
@@ -49,7 +49,7 @@ _Asset Plus Strategic Credit Fund (Unhedged) Not for Retail Investors_
 > - **NAV 9.8137 (2026-06-02)**
 
 > [!tip] อ่านง่าย ๆ
-> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.51%/ปี
+> กองประเภทอื่น · ความเสี่ยงสูงมาก (8+/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+6 · ลงทุนต่างประเทศ (ไทย) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.51%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -226,6 +226,7 @@ _Asset Plus Strategic Credit Fund (Unhedged) Not for Retail Investors_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ค่าธรรมเนียมรวมสูง (1.51%/ปี) | โครงสร้าง | - | ค่าธรรมเนียมยิ่งสูง ยิ่งกินผลตอบแทนทุกปีไม่ว่าตลาดขึ้นหรือลง | โครงสร้างกอง |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)
 

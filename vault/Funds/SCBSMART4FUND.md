@@ -26,7 +26,7 @@ top10_pct_nav: 57.31
 market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 80.6
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/discretionary, struct/direct, style/passive, style/dividend, use/income]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t5, conc/concentrated, fx/fully-hedged, struct/direct, style/passive, style/dividend, use/income]
 ---
 
 # SCBSMART4FUND
@@ -46,7 +46,7 @@ _SCB SMART PLAN 4 OPEN END FUND_
 > - **NAV 10.855 (2026-08-25)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับรับกระแสเงินปันผล · ขายคืนแล้วได้เงินภายใน T+5 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.25%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

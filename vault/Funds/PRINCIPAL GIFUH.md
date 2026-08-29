@@ -28,7 +28,7 @@ country_top: "สหรัฐฯ"
 country_coverage_pct: 51.6
 master_fund: "Lazard Glbl Lstd Infras Eq A Acc USD H"
 master_isin: "IE00B3X5FG30"
-tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/utilities, cap/large, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/equity, risk/high, liquidity/t4, sector/utilities, cap/large, fx/unhedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # PRINCIPAL GIFUH
@@ -48,7 +48,7 @@ _Principal Global Infrastructure Equity Fund Unhedged_
 > - **NAV 12.1811 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มสาธารณูปโภค · ลงทุนต่างประเทศ (สหรัฐฯ) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี
+> กองหุ้น · ความเสี่ยงสูง (6/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+4 · เน้นกลุ่มสาธารณูปโภค · ลงทุนต่างประเทศ (สหรัฐฯ) · ไม่ป้องกันความเสี่ยงค่าเงิน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 2.04%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -262,6 +262,7 @@ _Principal Global Infrastructure Equity Fund Unhedged_
 |---|---|---|---|---|
 | ค่าธรรมเนียมรวมสูง (2.04%/ปี) | โครงสร้าง | - | ค่าธรรมเนียมยิ่งสูง ยิ่งกินผลตอบแทนทุกปีไม่ว่าตลาดขึ้นหรือลง | โครงสร้างกอง |
 | อัตราดอกเบี้ย (bond proxy) | Macro | ดอกเบี้ยลง → หุ้นปันผลน่าถือ | ดอกเบี้ยขึ้น → เงินไหลไปตราสารหนี้แทน | หมวด: utilities |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 | ดอกเบี้ยเฟด / เศรษฐกิจสหรัฐ | Macro | เศรษฐกิจแข็งแรง/เฟดผ่อนคลาย | เฟดขึ้นดอกเบี้ย/เศรษฐกิจชะลอ | ประเทศ: สหรัฐฯ |
 
 ### การจัดสรรสินทรัพย์ (จาก Factsheet)

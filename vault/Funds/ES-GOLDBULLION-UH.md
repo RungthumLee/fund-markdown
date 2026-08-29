@@ -25,7 +25,7 @@ holdings_count: 3
 top10_pct_nav: 100.15
 peer_group: "Commodities Precious Metals"
 fund_managers: ["น.ส. ธีรนุช ธรรมภิมุขวัฒนา", "นาย ยิ่งยง เจียรวุฑฒิ"]
-tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/discretionary, struct/direct, style/passive, use/accumulate]
+tags: [fund, sec-data, asset/alternative, asset/commodity/gold, risk/very-high, liquidity/t1, conc/ultra-concentrated/ten-stock, conc/ultra-concentrated, fx/unhedged, struct/direct, style/passive, use/accumulate]
 ---
 
 # ES-GOLDBULLION-UH
@@ -45,7 +45,7 @@ _Eastspring Gold Bullion-Currency Unhedged Fund_
 > - **NAV 28.8363 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.28%/ปี
+> กองทองคำ · ความเสี่ยงสูงมาก (8/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+1 · ลงทุนต่างประเทศ · ไม่ป้องกันความเสี่ยงค่าเงิน · บริหารแบบอิงดัชนี (passive) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 1.28%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
@@ -182,6 +182,7 @@ _Eastspring Gold Bullion-Currency Unhedged Fund_
 | ปัจจัย | หมวด | ถ้าขึ้น ▲ | ถ้าลง ▼ | จาก |
 |---|---|---|---|---|
 | ความเสี่ยงเฉพาะตัว (single-name/theme) | โครงสร้าง | ถูกทาง→ upside แรงกว่ากองกระจาย | ผิดทาง→ downside แรงกว่ากองกระจาย | โครงสร้างกอง |
+| ค่าเงินบาทเทียบสกุลที่ลงทุน | โครงสร้าง | บาทอ่อน → กำไรค่าเงินเพิ่มผลตอบแทน | บาทแข็ง → ขาดทุนค่าเงินกดผลตอบแทน | โครงสร้างกอง |
 
 
 ### 📊 เคลื่อนไหวสัมพันธ์กับอะไร (correlation อดีต)

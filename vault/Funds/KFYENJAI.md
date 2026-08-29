@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 95.1
 peer_group: "Conservative Allocation"
 fund_managers: ["นาย ฑลิต โชคทิพย์พัฒนา", "น.ส. พรทิพา หนึ่งนํ้าใจ"]
-tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, duration/medium, credit/investment-grade, sector/financials, conc/focused, fx/discretionary, struct/direct, style/active, use/accumulate]
+tags: [fund, sec-data, asset/mixed, risk/moderate, liquidity/t3, duration/medium, credit/investment-grade, sector/financials, conc/focused, fx/fully-hedged, struct/direct, style/active, use/accumulate]
 ---
 
 # KFYENJAI
@@ -48,7 +48,7 @@ _Krungsri Yenjai Fund_
 > - **NAV 10.6542 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มการเงิน/ธนาคาร · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.88%/ปี
+> กองผสม · ความเสี่ยงปานกลาง (5/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · เน้นกลุ่มการเงิน/ธนาคาร · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.88%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

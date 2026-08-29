@@ -28,7 +28,7 @@ country_top: "ไทย"
 country_coverage_pct: 99.4
 peer_group: "Long Term General Bond"
 fund_managers: ["นาง สลิลสิริ เรืองสุขอุดม"]
-tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/long, credit/government, fx/discretionary, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
+tags: [fund, sec-data, asset/fixed-income, risk/low, liquidity/t2, duration/long, credit/government, fx/fully-hedged, struct/direct, style/active, tax/thai-esg, compliance/sri-fund, use/tax-saving]
 ---
 
 # K-ESGSI
@@ -48,7 +48,7 @@ _K ESG Sovereign Instruments Fund_
 > - **NAV 10.7873 (2026-08-27)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.29%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
+> กองตราสารหนี้ · ความเสี่ยงต่ำ (3/8) · เหมาะกับลดหย่อนภาษี · ขายคืนแล้วได้เงินภายใน T+2 · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.29%/ปี · ได้สิทธิลดหย่อนภาษี (THAI-ESG)
 
 ## 1. ข้อมูลทั่วไป
 

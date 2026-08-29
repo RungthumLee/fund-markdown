@@ -27,7 +27,7 @@ market_countries: ["ไทย"]
 country_top: "ไทย"
 country_coverage_pct: 80.6
 fund_managers: ["นาย ด ารงฤทธิ์ ส าเร็จวิทย์", "นาง สาวณภัสนันท์ นิธีเจริญพงษ์ : 31 มีนาคม 2569"]
-tags: [fund, sec-data, asset/fixed-income, risk/moderate, credit/government, fx/discretionary, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
+tags: [fund, sec-data, asset/fixed-income, risk/moderate, credit/government, fx/fully-hedged, struct/direct, style/buy-hold, use/accumulate, audience/restricted]
 ---
 
 # DAOL-BOND3M
@@ -47,7 +47,7 @@ _DAOL BOND FUND 3M NOT FOR RETAIL INVESTORS_
 > - **NAV 10.6259 (2026-07-31)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ (ไทย) · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.23%/ปี
+> กองตราสารหนี้ · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ลงทุนต่างประเทศ (ไทย) · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.23%/ปี
 
 ## 1. ข้อมูลทั่วไป
 

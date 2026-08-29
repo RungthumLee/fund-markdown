@@ -24,7 +24,7 @@ holdings_count: 3
 top10_pct_nav: 100.11
 master_fund: "BNP Paribas InstiCash USD 1D LVNAV IT1 C"
 master_isin: "LU2594160355"
-tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t3, fx/discretionary, struct/feeder, style/active, use/accumulate]
+tags: [fund, sec-data, asset/fixed-income, asset/fixed-income/money-market, risk/moderate, liquidity/t3, fx/fully-hedged, struct/feeder, style/active, use/accumulate]
 ---
 
 # SCBUSDYIELD
@@ -44,7 +44,7 @@ _SCB Short Term Yield USD_
 > - **NAV 10.333 (2026-08-26)**
 
 > [!tip] อ่านง่าย ๆ
-> กองตลาดเงิน · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันค่าเงินตามดุลยพินิจผู้จัดการ · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.55%/ปี
+> กองตลาดเงิน · ความเสี่ยงปานกลาง (4/8) · เหมาะกับสะสมระยะยาว · ขายคืนแล้วได้เงินภายใน T+3 · ลงทุนต่างประเทศ · ป้องกันความเสี่ยงค่าเงินเต็มจำนวน · ลงทุนผ่านกองทุนหลัก (feeder) · บริหารเชิงรุก (active) · ค่าธรรมเนียมรวมที่รายย่อยจ่ายจริงราว 0.55%/ปี
 
 ## 1. ข้อมูลทั่วไป
 
