@@ -177,6 +177,21 @@ def harvest_sliced(name: str, workers: int = 1) -> int:
                 for line in fh:
                     out.write(line)
                     total += 1
+
+    # The parts exist to survive an interrupted pull. Once the join is done they
+    # are a byte-for-byte second copy of the .jsonl - 1.1 GB of it for nav plus
+    # out_portfolio - so drop them, but only after checking the row counts agree,
+    # since that check is the only thing standing between a truncated join and a
+    # deleted original.
+    counted = sum(int((parts / f"{label}.done").read_text(encoding="utf-8").strip() or 0)
+                  for label, _ in slices)
+    if counted == total:
+        for f in parts.iterdir():
+            f.unlink()
+        parts.rmdir()
+    else:
+        LOG.warning("%s: joined %d rows but slices report %d - keeping %s",
+                    name, total, counted, parts.name)
     return total
 
 

@@ -7,7 +7,13 @@
 # nothing here is authored by hand, and some files exceed GitHub's 100MB
 # per-file limit (data/processed/funds.json is ~156MB, data/raw is ~1GB).
 # The published product is the markdown in vault/, not the JSON it is built from.
-data/
+# Everything derived lives under data/ and is rebuilt from the API - except the
+# factsheet PDFs, which are the primary documents the notes quote from and are
+# not always still downloadable from the AMC once a newer edition replaces them.
+# data/* rather than data/, because git will not look inside an excluded
+# directory and the negation below would never be reached.
+data/*
+!data/factsheets/
 
 # scratch
 _tmp/
