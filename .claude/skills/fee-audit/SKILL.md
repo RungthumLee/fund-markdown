@@ -1,26 +1,40 @@
 ---
 name: fee-audit
-description: แยกต้นทุนค่าธรรมเนียมที่แท้จริงของกองทุนไทย (TER ที่รายย่อยจ่าย + OCF กองหลักถ้าเป็น feeder = 2 ชั้น) และหากองที่ถูกกว่าในกลุ่มเดียวกัน. Use when a user asks about a fund's fees / total cost / whether it's expensive / cheaper alternatives.
+description: Audits and breaks down the true total cost of ownership of Thai mutual funds (retail TER + Master Fund OCF for feeder funds = 2-tier fee structure) and identifies lower-cost alternatives within the same AIMC peer group. Use when a user asks about fund fees, expense ratios, whether a fund is expensive, or cheaper alternatives (e.g., "กองนี้ค่าธรรมเนียมแพงไหม", "มีกองไหนถูกกว่า").
 ---
 
 # fee-audit
 
-แยกต้นทุนจริงของกอง + เทียบในกลุ่มเดียวกัน
+Audits the true all-in cost of a Thai mutual fund and benchmarks it against peer funds in the same category.
 
-## ขั้นตอน
-1. โน้ตกอง `vault/Funds/<ABBR>.md` → `ter_retail` (frontmatter) = ค่าธรรมเนียมรวมของชนิดที่**รายย่อยซื้อได้จริง** (ไม่ใช่ min ข้ามทุกคลาส — ดู `scripts/fees.py`)
-2. ถ้า **feeder**: เปิดโน้ตกองหลัก `vault/MasterFunds/` → หา OCF/TER ของกองหลัก →
-   **ต้นทุนรวม 2 ชั้น ≈ TER ไทย + OCF กองหลัก** (ตารางในโน้ตกองหลักคำนวณไว้แล้ว)
-3. **เทียบในกลุ่ม:** `vault/Indexes/compare-fees.md` (ต่อ policy) หรือ `by-peer-group.md` (กลุ่ม AIMC เดียวกัน) →
-   หากองที่ถูกกว่าในหมวด/กลุ่มเดียวกัน
+## Inspection Steps
 
-## รูปแบบคำตอบ
-- **ต้นทุนจริง:** TER ไทย X% (+ OCF กองหลัก Y% = รวม ≈ Z% ถ้า feeder)
-- **อยู่ตรงไหนในกลุ่ม:** ถูก/แพงอันดับที่เท่าไรในกลุ่ม AIMC เดียวกัน (เชิงข้อเท็จจริง)
-- **กองในกลุ่มเดียวกันที่ถูกกว่า** (ถ้ามี) — พร้อมตัวเลข ให้ผู้ใช้เทียบเอง
-- ธง ℹ️ = กองที่รายงานค่าธรรมเนียมไม่ครบ (ดู ISS-021b)
+1. **Retail TER (Thai Fund):**
+   - Open `vault/Funds/<ABBR>.md`.
+   - Read frontmatter field `ter_retail` — represents the actual Total Expense Ratio charged to **retail investor share classes** (derived via `scripts/fees.py`, avoiding distorted institutional fee ceilings).
+2. **Two-Tier Feeder Fees (If Feeder Fund):**
+   - If the fund is a feeder, check the Master Fund profile in `vault/MasterFunds/<Master_Name>.md`.
+   - Retrieve the Master Fund's Ongoing Charges Figure (OCF / TER).
+   - **Effective 2-Tier Cost $\approx$ Thai Fund Retail TER + Master Fund OCF**.
+3. **Peer Benchmark Comparison:**
+   - Consult `vault/Indexes/compare-fees.md` and `vault/Indexes/by-peer-group.md`.
+   - Determine the fee quartile / rank of the fund within its AIMC category.
+   - Identify lower-cost alternatives in the identical asset class / peer group.
 
-## กรอบ (docs/project/ideas.md §0)
-- เทียบ **TER ต่างกันข้ามกองได้เฉพาะค่า "เก็บจริง" กับ "เก็บจริง"** (เพดาน≠เก็บจริง)
-- ค่าธรรมเนียมต่ำ ≠ ดีกว่าเสมอ — เป็นข้อมูลประกอบ ไม่ใช่คำแนะนำ
-- เทียบเฉพาะภายในหมวด/กลุ่มเดียวกัน
+## Response Structure
+
+1. **True All-in Cost:**
+   - Breakdown of Thai retail TER (+ Master OCF if feeder = Total effective annual drag).
+   - Transaction fee summary (Front-end, Back-end, Switching fees).
+2. **Peer Group Ranking:**
+   - Factual rank within the AIMC peer group (e.g., lowest 25%, median, or top quartile).
+3. **Lower-Cost Alternatives:**
+   - Table of comparable funds in the same category with lower total expense ratios.
+4. **Data Completeness Notes:**
+   - Note any reporting anomalies (e.g., funds with incomplete fee disclosures or pending factsheet updates).
+
+## Core Principles
+
+- **Compare Actual to Actual:** Ensure comparisons use actual charged expense ratios (`actual_value`), not prospectus statutory ceilings (`rate`).
+- **Objective & Factual:** Low fees do not automatically imply superior risk-adjusted performance; present numbers neutrally to help the user evaluate.
+- **Strict Peer Matching:** Compare only within the identical asset class, investment policy, and management style (Active vs Passive).

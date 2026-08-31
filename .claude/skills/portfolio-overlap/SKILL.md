@@ -1,25 +1,40 @@
 ---
 name: portfolio-overlap
-description: ตรวจความซ้ำซ้อนที่แท้จริงเมื่อผู้ใช้ถือกองทุนไทยหลายกอง — กองไหน feed เข้ากองหลักเดียวกัน หรือถือหุ้นตัวเดียวกันผ่าน look-through พร้อมเตือนกระจุกตัว/ค่าธรรมเนียมซ้อน. Use when a user lists several Thai funds they hold and asks about overlap/diversification/duplication.
+description: Analyzes true portfolio overlap, duplication, and concentration across multiple Thai mutual funds — identifying shared Master Funds, common underlying stock exposures via look-through, and redundant multi-tier fees. Use when a user provides a list of funds and asks about portfolio overlap, diversification, or duplication (e.g. "ถือกองพวกนี้ซ้ำซ้อนไหม", "check overlap between Fund A and Fund B").
 ---
 
 # portfolio-overlap
 
-ผู้ใช้ถือหลายกอง → หา**ความซ้ำซ้อนจริง** (ไม่ใช่แค่ชื่อกองต่างกัน = กระจายแล้ว)
+Evaluates true underlying duplication across multiple Thai mutual funds, revealing whether supposedly diversified funds actually hold the same underlying assets or feed into identical foreign Master Funds.
 
-## ขั้นตอน
-1. รับรายชื่อกอง (ABBR) จากผู้ใช้ → หา `proj_id` แต่ละกองจาก `vault/Funds/<ABBR>.md` (frontmatter `proj_id`)
-2. **ชั้นกองหลัก:** อ่าน `data/processed/lookthrough.json` (หรือ frontmatter `master_fund`) — กองไหน feed เข้า **master เดียวกัน** = ถือของเดียวกันเกือบ 100%
-3. **ชั้นหุ้น:** จาก `lookthrough.json` exposures ของแต่ละกอง → หาหุ้น (entity/symbol) ที่**ทับกันข้ามกอง** → รวมน้ำหนัก (ถ่วงตาม % ที่ผู้ใช้ถือแต่ละกอง ถ้าบอกมา)
-4. **ค่าธรรมเนียมซ้อน:** ถ้าถือหลายกองที่ feed master เดียวกัน = จ่าย TER ไทยหลายชั้นเพื่อของเดียวกัน (ดูโน้ตกองหลัก "ค่าธรรมเนียม 2 ชั้น")
+## Analysis Workflow
 
-## รูปแบบคำตอบ
-- **กองที่ซ้อนกันที่กองหลัก** (master เดียวกัน → ระบุคู่)
-- **หุ้น/สินทรัพย์ที่ทับกันมากสุด** (top overlap + น้ำหนักรวม)
-- **ข้อสังเกตเชิงข้อเท็จจริง:** "ถือ 3 กองนี้ แต่ ~X% ไปที่หุ้นชุดเดียวกัน" — ไม่ต้องบอกให้ขายกองไหน
-- เตือน look-through coverage (บางกองทะลุได้แค่บางส่วน — ตัวเลขเป็นขั้นต่ำ)
+1. **Resolve Funds:**
+   - For each fund abbreviation provided by the user, look up its `proj_id` and metadata in `vault/Funds/<ABBR>.md`.
+2. **Layer 1: Master Fund Level Duplication:**
+   - Inspect frontmatter field `master_fund` and check `data/processed/lookthrough.json` (or `vault/MasterFunds/`).
+   - Identify funds from different Thai AMCs that feed into the **exact same Master Fund** (representing ~95–100% asset duplication).
+3. **Layer 2: Underlying Asset Overlap (Look-Through):**
+   - Query `data/processed/lookthrough.json` for each fund's direct and indirect constituent holdings.
+   - Calculate the intersection of underlying companies/securities across the selected funds.
+   - If the user provided portfolio weights (e.g., 50% Fund A, 50% Fund B), calculate the weighted aggregate exposure to each top overlapping security.
+4. **Layer 3: Fee Redundancy Assessment:**
+   - If multiple funds feed into the same Master Fund or hold the same underlying index, highlight the respective Thai retail TERs being paid concurrently for duplicate exposure.
 
-## กรอบ (docs/project/ideas.md §0)
-- นำเสนอ**ข้อเท็จจริงเรื่องความซ้ำซ้อน** ให้ผู้ใช้ตัดสินเอง — **ห้ามแนะนำ**ให้ขาย/สับเปลี่ยน/กระจายเสี่ยง
-- ตัวเลข look-through = ขั้นต่ำ (10 อันดับแรกของกองหลัก) ระบุ caveat เสมอ
-- ทุกตัวเลขอ้างอิง `lookthrough.json` / โน้ต
+## Recommended Response Structure
+
+1. **Master Fund Duplication Summary:**
+   - Clearly flag pairs/groups of funds sharing the same foreign Master Fund.
+2. **Top Overlapping Holdings:**
+   - Table of common underlying companies, showing individual weights in each fund and combined portfolio exposure.
+3. **Factual Concentration Insights:**
+   - Highlight portfolio concentration points (e.g., *"While holding 4 different funds, ~32% of total portfolio exposure is concentrated in 5 mega-cap technology stocks"*).
+4. **Fee Redundancy Observations:**
+   - Factual breakdown of expense ratios across overlapping holdings.
+5. **Look-Through Coverage Disclaimer:**
+   - State the percentage of each fund's portfolio resolved via look-through and note that unlisted minor holdings may contain additional overlap.
+
+## Strict Guidelines
+
+- **Neutral Factual Presentation:** Present concentration and duplication facts clearly to empower user decisions; never advise the user to sell, rebalance, or switch funds.
+- **Coverage Transparency:** Explicitly state the look-through coverage ratio for each analyzed fund.

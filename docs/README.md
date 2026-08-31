@@ -3,85 +3,66 @@ title: Documentation Index
 tags: [index, docs]
 ---
 
-# 📚 สารบัญเอกสาร
+# 📚 Documentation Index
 
-จุดเริ่มต้นสำหรับเอกสารทั้งหมดของโปรเจกต์ Fund Knowledge Base
+The entry point for all documentation covering the Thai Mutual Funds Knowledge Base.
 
 ---
 
-## 🚀 เริ่มต้นที่นี่
+## 🚀 Getting Started
 
-| เอกสาร | เนื้อหา |
+| Document | Description |
 |---|---|
-| [[guides/quickstart\|Quickstart]] | ตั้งค่า key → เรียก API ครั้งแรก → สร้าง vault |
-| [[guides/pipeline\|Pipeline Overview]] | ภาพรวมทั้งระบบ 6 ขั้นตอน |
-| [[../README\|README]] | โครงสร้างโปรเจกต์และคำสั่งหลัก |
+| [[guides/quickstart\|Quickstart Guide]] | Setup API keys → Fetch first endpoint → Generate knowledge vault |
+| [[guides/pipeline\|Pipeline Architecture]] | Overview of the end-to-end 6-stage data processing pipeline |
+| [[../README\|Project README]] | Repository overview and core CLI commands |
 
 ---
 
-## 📖 คู่มือการใช้งาน API
+## 📖 API Reference & Guides
 
-| เอกสาร | เนื้อหา |
+| Document | Description |
 |---|---|
-| [[guides/authentication\|Authentication]] | subscription key, key failover, portal migration |
-| [[guides/pagination\|Pagination]] | cursor-based paging และตัวเลขประสิทธิภาพจริง |
-| [[guides/rate-limits-and-errors\|Rate limits & Errors]] | HTTP status, retry policy, resilience |
-| [[guides/bulk-vs-per-fund\|Bulk vs Per-fund]] | ทำไม bulk เร็วกว่า 24 เท่า |
-| [[guides/api-v1-vs-v2\|API v1 vs v2]] | ความต่างและการย้ายจากของเดิม |
-| [[api-reference/00-index\|API Reference]] | **21 endpoints ครบทุกตัว** |
+| [[guides/authentication\|Authentication]] | Subscription keys, failover mechanics, and developer portal setup |
+| [[guides/pagination\|Pagination]] | Cursor-based pagination patterns and performance benchmarks |
+| [[guides/rate-limits-and-errors\|Rate Limits & Errors]] | HTTP status codes, retry policies, and error handling |
+| [[guides/bulk-vs-per-fund\|Bulk vs Per-Fund]] | Why bulk market queries are 24x faster |
+| [[guides/api-v1-vs-v2\|API v1 vs v2]] | Structural differences and migration guide |
+| [[api-reference/00-index\|API Reference]] | **Full reference for all 21 SEC Open API endpoints** |
 
 ---
 
-## 🧠 ความเข้าใจเรื่องข้อมูล
+## 🧠 Data Concepts & Methodology
 
-| เอกสาร | เนื้อหา |
+| Document | Description |
 |---|---|
-| [[guides/fund-identifiers\|Fund Identifiers]] | `proj_id` vs `regis_id` vs `fund_class_name` และวิธี join |
-| [[guides/fund-taxonomy\|Fund Taxonomy]] | ตารางรหัส (enum) ทั้งหมดพร้อมความหมาย |
-| [[guides/data-dictionary\|Data Dictionary]] | 104 field จากทุก endpoint |
-| [[guides/scope-and-filters\|Scope & Filters]] | เกณฑ์คัดกรอง Registered / ไม่ใช่ Term / ไม่ใช่ PVD |
-| [[guides/holdings-data\|Holdings Data]] | พอร์ตการลงทุน 5 แหล่ง และ feeder look-through |
-| [[guides/factsheet-extraction\|Factsheet Extraction]] | แกะ sector / country / rating / ผู้จัดการ จาก PDF |
-| [[guides/master-fund-sources\|Master Funds]] | ข้อมูลกองทุนหลักต่างประเทศจาก Yahoo Finance + FT.com |
-| [[guides/web-search-enrichment\|Web Search Enrichment]] | ใช้ผลค้นเว็บเติมกองหลักที่ Yahoo/FT ไม่มี — และขอบเขตที่ใช้ไม่ได้ |
-| [[guides/entity-normalization\|Entity Normalization]] | รวมชื่อสินทรัพย์ 26,586 ชื่อให้เหลือ 4,488 ตัวตน |
-| [[guides/lookthrough\|Look-through]] | ทะลุกองทุนหลักไปถึงหุ้นจริง และข้อจำกัดของมัน |
-| [[guides/openfigi\|OpenFIGI]] | ผูกสินทรัพย์กับรหัสสากลของ Bloomberg — ticker, ประเภท, FIGI |
-| [[guides/daily-operation\|Daily Operation]] | รันประจำวัน รอบการอัปเดต การข้าม stage และ changelog |
+| [[guides/fund-identifiers\|Fund Identifiers]] | `proj_id` vs `regis_id` vs `fund_class_name` join semantics |
+| [[guides/fund-taxonomy\|Fund Taxonomy]] | Standardized enum codes, asset classes, and risk classifications |
+| [[guides/data-dictionary\|Data Dictionary]] | Catalog of all 104 fields across all endpoints |
+| [[guides/scope-and-filters\|Scope & Filters]] | Filtering active registered funds, excluding Term Funds & PVD |
+| [[guides/holdings-data\|Holdings Data]] | Portfolio filing sources and feeder look-through |
+| [[guides/factsheet-extraction\|Factsheet Extraction]] | Extracting sectors, countries, ratings, and managers from PDFs |
+| [[guides/master-fund-sources\|Master Funds]] | Enriching foreign master funds via Yahoo Finance & FT.com |
+| [[guides/web-search-enrichment\|Web Search Enrichment]] | Fallback discovery for master funds not in primary sources |
+| [[guides/entity-normalization\|Entity Normalization]] | Standardizing and resolving security names across disparate datasets |
+| [[guides/lookthrough\|Look-Through Analysis]] | Mapping feeder funds to underlying securities and exposure limits |
+| [[guides/openfigi\|OpenFIGI]] | Mapping holdings to Bloomberg FIGI codes, tickers, and asset classes |
+| [[guides/daily-operation\|Daily Operations]] | Automated daily updates, staleness rules, and changelog generation |
 
 ---
 
-## 🛠️ การจัดการโปรเจกต์
+## 📁 Auto-Generated Documents
 
-| เอกสาร | เนื้อหา |
-|---|---|
-| [[project/tasks\|Task Board]] | สถานะงานทุกรายการ |
-| [[project/issues\|Issue Log]] | ปัญหาที่เจอ + วิธีแก้ |
-| [[project/outstanding\|Outstanding Items]] | สิ่งที่ยังค้าง / ยอมรับข้อจำกัดไว้ก่อน |
-| [[project/decisions\|Decision Log]] | การตัดสินใจเชิงออกแบบ + เหตุผล |
-| [[project/data-quality\|Data Quality]] | coverage และข้อจำกัดของข้อมูล (auto-generated) |
-| [[project/validation-report\|Validation Report]] | ลิงก์เสีย / orphan (auto-generated) |
-| [[project/roadmap\|Roadmap]] | ทิศทางถัดไป |
-| [[project/security-notes\|Security Notes]] | การจัดการ key และความลับ |
-| [[project/handover\|Handover]] | สรุปผลลัพธ์และวิธีรับช่วงต่อ |
-
----
-
-## 📁 เอกสารที่สร้างอัตโนมัติ
-
-| ไฟล์ | สร้างโดย |
+| File | Generated By |
 |---|---|
 | `api-reference/*.md` | `scripts/gen_api_docs.py` |
 | `guides/data-dictionary.md` | `scripts/gen_data_dictionary.py` |
-| `project/data-quality.md` | `scripts/gen_data_quality.py` |
-| `project/validation-report.md` | `scripts/validate_vault.py` |
 
 > [!WARNING]
-> อย่าแก้ไฟล์เหล่านี้ด้วยมือ — จะถูกเขียนทับเมื่อรันสคริปต์ใหม่
-> ถ้าต้องแก้เนื้อหา ให้แก้ที่สคริปต์ที่สร้างมัน
+> Do not edit generated documentation files manually — they are rebuilt automatically by their respective generator scripts.
 
 ---
 
-## 🧭 คลังความรู้กองทุน
+## 🧭 Mutual Funds Knowledge Vault
 
-vault อยู่ที่โฟลเดอร์ [`vault/`](../vault/Indexes/00-home.md) — เปิดด้วย Obsidian
+The Obsidian knowledge vault is located in the [`vault/`](../vault/Indexes/00-home.md) directory. Open it directly in Obsidian starting from `Indexes/00-home.md`.
