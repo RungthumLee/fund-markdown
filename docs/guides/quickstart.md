@@ -3,37 +3,37 @@ title: Quickstart
 tags: [guide, sec-api, getting-started]
 ---
 
-# 🚀 Quickstart — เริ่มใช้งาน SEC Fund API
+# 🚀 Quickstart — Getting Started with the SEC Fund API
 
-คู่มือเริ่มต้นสำหรับดึงข้อมูลกองทุนรวมไทยจาก SEC Open Data API v2
+A beginner's guide to fetching Thai mutual fund data using the SEC Open Data API v2.
 
-**ที่เกี่ยวข้อง:** [[authentication|Authentication]] · [[pagination|Pagination]] · [[rate-limits-and-errors|Errors]] · [[../api-reference/00-index|API Reference]]
+**Related:** [[authentication|Authentication]] · [[pagination|Pagination]] · [[rate-limits-and-errors|Errors]] · [[../api-reference/00-index|API Reference]]
 
 ---
 
-## 1. เตรียม API Key
+## 1. Prepare API Credentials
 
-สมัครและ subscribe ที่ [SEC Open Data Developer Portal](https://secopendata.sec.or.th/sec-open-apis)
-แล้วนำ key มาใส่ใน `.env.local` ที่ root ของโปรเจกต์:
+1. Register and subscribe at the [SEC Open Data Developer Portal](https://secopendata.sec.or.th/sec-open-apis).
+2. Add your subscription keys to `.env.local` in the project root:
 
 ```ini
-SEC_SUBSCRIPTION_KEY=<primary key 32 ตัวอักษร>
-SEC_secondary_key=<secondary key>
+SEC_SUBSCRIPTION_KEY=your_32_char_primary_key
+SEC_SECONDARY_KEY=your_secondary_key
 ```
 
 > [!IMPORTANT]
-> `.env.local` **ห้าม commit** ขึ้น git — ดู [[../project/security-notes|Security Notes]]
+> Never commit `.env.local` to version control.
 
 ---
 
-## 2. เรียก API ครั้งแรก
+## 2. Make Your First API Request
 
 ```bash
 curl "https://api.sec.or.th/v2/fund/general-info/amcs?page_size=5" \
   -H "Ocp-Apim-Subscription-Key: $SEC_SUBSCRIPTION_KEY"
 ```
 
-ผลลัพธ์:
+Example response:
 
 ```json
 {
@@ -51,65 +51,62 @@ curl "https://api.sec.or.th/v2/fund/general-info/amcs?page_size=5" \
 }
 ```
 
-ทุก response มีโครงเดียวกัน: `message` · `page_size` · `next_cursor` · `items[]`
+Every endpoint response follows the same structure: `message` · `page_size` · `next_cursor` · `items[]`.
 
 ---
 
-## 3. ใช้ผ่าน Python client ของโปรเจกต์นี้
+## 3. Using the Python Client
+
+This repository provides a built-in client (`SECClient`) that handles rate-limiting, retries with exponential backoff, key failover, and automatic cursor pagination.
 
 ```python
 import sys; sys.path.insert(0, "scripts")
 from sec_client import SECClient, EP
 
-client = SECClient()                       # อ่าน key จาก .env.local อัตโนมัติ
+client = SECClient()  # Automatically loads credentials from .env.local
 
-# ดึงทีละหน้า
+# Fetch a single page
 data = client.get(EP["profiles"], {"fund_status": "Registered", "page_size": 100})
 
-# ดึงทั้งหมด (วน cursor ให้อัตโนมัติ)
+# Iterate over all records (automatic cursor-based pagination)
 for fund in client.paginate(EP["profiles"], {"fund_status": "Registered"}):
-    print(fund["proj_abbr_name"], fund["proj_name_th"])
+    print(fund["proj_abbr_name"], fund["proj_name_en"])
 ```
-
-`SECClient` จัดการให้แล้ว: retry + exponential backoff, สลับไป secondary key เมื่อ 401/403,
-หน่วงเวลาระหว่าง request และ log ลง `logs/sec_client.log`
 
 ---
 
-## 4. ดึงข้อมูลทั้งชุด (bulk harvest)
+## 4. Bulk Harvesting
 
 ```bash
-python scripts/harvest.py              # ดึงครบทุก dataset
-python scripts/harvest.py fs_fees      # ดึงเฉพาะบางชุด
-python scripts/harvest.py --force nav  # บังคับดึงใหม่
+python scripts/harvest.py              # Download all datasets
+python scripts/harvest.py fs_fees      # Download a specific dataset
+python scripts/harvest.py --force nav  # Force re-download
 ```
 
-ผลลัพธ์เก็บที่ `data/raw/<dataset>.jsonl` (1 record ต่อ 1 บรรทัด) พร้อมไฟล์ `.done`
-เพื่อให้รันซ้ำแล้ว **ข้าม dataset ที่เสร็จแล้ว**
+Harvested raw data is stored in `data/raw/<dataset>.jsonl` with `.done` checkpoint files to enable idempotent, resumable execution.
 
 > [!TIP]
-> เกือบทุก endpoint เรียกได้โดย **ไม่ต้องใส่ `proj_id`** ซึ่งจะคืนข้อมูลทั้งตลาด
-> วิธีนี้เร็วกว่าการยิงทีละกอง 2,300 ครั้งอย่างมาก — ดู [[bulk-vs-per-fund|Bulk vs Per-fund]]
+> Most endpoints can be called **without specifying `proj_id`**, which returns the entire market in bulk. This is up to 24x faster than querying 2,300+ funds individually. See [[bulk-vs-per-fund|Bulk vs Per-fund]].
 
 ---
 
-## 5. สร้าง Obsidian vault
+## 5. Generating the Obsidian Vault
 
 ```bash
-python scripts/transform.py       # แปลง raw → data/processed/funds.json
-python scripts/gen_vault.py       # สร้าง vault/ (markdown + wikilinks)
-python scripts/fetch_factsheets.py  # โหลด PDF factsheet
-python scripts/parse_factsheets.py  # อ่าน PDF → markdown
+python scripts/transform.py         # Transform raw JSONL -> data/processed/funds.json
+python scripts/gen_vault.py         # Generate Markdown notes in vault/
+python scripts/fetch_factsheets.py  # Download fund factsheet PDFs
+python scripts/parse_factsheets.py  # Parse PDF text into Markdown
 ```
 
-ดู [[pipeline|ภาพรวม Pipeline ทั้งหมด]]
+For the complete end-to-end workflow, see [[pipeline|Pipeline Overview]].
 
 ---
 
-## ลำดับการเรียนรู้ที่แนะนำ
+## Recommended Reading Path
 
-1. [[authentication|Authentication]] — key ทำงานยังไง
-2. [[pagination|Pagination]] — cursor-based ไม่ใช่ offset
-3. [[fund-identifiers|Fund Identifiers]] — `proj_id` vs `regis_id` vs `fund_class_name`
-4. [[fund-taxonomy|Fund Taxonomy]] — ประเภทกองทุน / การกรอง Term fund และ PVD
-5. [[../api-reference/00-index|API Reference ทั้ง 21 endpoints]]
+1. [[authentication|Authentication]] — How API keys and failover work
+2. [[pagination|Pagination]] — Cursor-based pagination patterns
+3. [[fund-identifiers|Fund Identifiers]] — Understanding `proj_id` vs `regis_id` vs `fund_class_name`
+4. [[fund-taxonomy|Fund Taxonomy]] — Fund classification and filter criteria
+5. [[../api-reference/00-index|API Reference (21 Endpoints)]]

@@ -1,116 +1,101 @@
-# 📊 Fund Knowledge Base — คลังความรู้กองทุนรวมไทย
+# 📊 Thai Mutual Funds Knowledge Base
 
-ฐานความรู้กองทุนรวมไทยแบบ Obsidian vault สร้างจาก **SEC Open Data API v2**
-พร้อมคู่มือ API ฉบับภาษาไทยครบทั้ง 21 endpoints
+An open knowledge base and structured [Obsidian](https://obsidian.md/) vault covering Thai mutual funds, built using data from the **Securities and Exchange Commission (SEC) of Thailand Open Data API v2**.
 
-**ขอบเขต:** กองทุนที่ยัง `Registered` · **ไม่รวม** Term Fund · **ไม่รวม** PVD
+This repository contains an end-to-end data pipeline that harvests, enriches, and transforms fund data into cross-linked Markdown notes, complete with comprehensive API documentation and analytical look-through capabilities.
 
----
-
-## เริ่มต้นอย่างไร
-
-| อยากทำอะไร | ไปที่ |
-|---|---|
-| อ่านข้อมูลกองทุน | เปิด `vault/` ด้วย Obsidian → เริ่มที่ `Indexes/00-home.md` |
-| เรียนรู้การใช้ API | [docs/guides/quickstart.md](docs/guides/quickstart.md) |
-| ดูรายละเอียด endpoint | [docs/api-reference/00-index.md](docs/api-reference/00-index.md) |
-| ดูสถานะงาน/ปัญหา | [docs/project/tasks.md](docs/project/tasks.md) · [docs/project/issues.md](docs/project/issues.md) |
-| รันใหม่ทั้งหมด | `python run_all.py` |
+> **Scope:** Active registered mutual funds (`Registered`) in Thailand. Excludes Term Funds and Provident Funds (PVD).
 
 ---
 
-## โครงสร้างโปรเจกต์
+## ✨ Features
 
-```
-Fund-knowledge/
-├── .env.local              🔒 API keys (ไม่ commit)
-├── run_all.py              รัน pipeline ทั้งหมด
-│
-├── docs/                   📚 เอกสาร
-│   ├── api-reference/      คู่มือ 21 endpoints (auto-generated)
-│   ├── guides/             วิธีใช้งาน + แนวคิด + data dictionary
-│   └── project/            tasks · issues · decisions · outstanding · roadmap
-│
-├── scripts/                🐍 โค้ด
-│   ├── sec_client.py       API client (retry, key failover, pagination)
-│   ├── harvest.py          ดึงข้อมูลดิบ 21 dataset
-│   ├── transform.py        รวม/กรอง/ทำความสะอาด
-│   ├── fetch_factsheets.py ดาวน์โหลด PDF
-│   ├── parse_factsheets.py แกะข้อความจาก PDF
-│   ├── gen_vault.py        สร้างโน้ต Obsidian
-│   ├── gen_api_docs.py     สร้างคู่มือ API
-│   ├── gen_data_dictionary.py
-│   └── validate_vault.py   ตรวจลิงก์เสีย/orphan
-│
-├── data/
-│   ├── raw/                *.jsonl จาก API (ไม่ commit, ~1 GB)
-│   ├── processed/          funds.json · amcs.json · excluded.json · stats.json
-│   └── factsheets/         *.pdf + _manifest.json
-│
-├── vault/                  🧠 Obsidian vault
-│   ├── Indexes/            00-home (MOC) + ดัชนีจัดกลุ่ม
-│   ├── Funds/              1 โน้ตต่อกองทุน
-│   ├── AMCs/               1 โน้ตต่อ บลจ.
-│   ├── Concepts/           แนวคิดพื้นฐาน
-│   └── Factsheets/         ข้อความจาก PDF
-│
-├── _spec/                  สำเนา API catalog
-└── logs/                   log ของทุกสคริปต์
-```
+- 🧠 **Obsidian Knowledge Vault**: Interconnected Markdown notes for mutual funds, Asset Management Companies (AMCs), asset classes, and factsheets, optimized with Dataview-compatible metadata.
+- ⚡ **SEC Open Data API v2 Integration**: Automated data harvesting pipeline covering all 21 SEC endpoints with robust pagination, key failover, and rate-limiting resilience.
+- 📄 **Factsheet & Holdings Look-Through**: Automated PDF factsheet extraction, entity normalization across tens of thousands of holdings, OpenFIGI international identifier mapping, and master fund look-through for feeder funds.
+- 📚 **Comprehensive API Reference & Guides**: Detailed documentation of endpoints, data dictionaries, schema taxonomies, and pipeline architecture.
 
 ---
 
-## รัน pipeline
+## 🚀 Getting Started
 
-```bash
-python run_all.py                    # ครบทุกขั้น (ข้ามที่ทำแล้ว)
-python run_all.py --smoke            # ทดสอบขนาดเล็ก
-python run_all.py --from vault       # เริ่มจากขั้นที่กำหนด
-python run_all.py --skip factsheets
-```
-
-ทีละขั้น:
-
-```bash
-python scripts/harvest.py            # 1. ดึงข้อมูลดิบ
-python scripts/transform.py          # 2. รวม/กรอง
-python scripts/fetch_factsheets.py   # 3. โหลด PDF
-python scripts/parse_factsheets.py   # 4. แกะข้อความ
-python scripts/gen_vault.py          # 5. สร้างโน้ต
-python scripts/validate_vault.py     # 6. ตรวจสอบ
-```
-
-ทุกขั้น **resume ได้** — รันซ้ำจะข้ามงานที่ทำเสร็จแล้ว
-
----
-
-## เปิด vault ใน Obsidian
-
-1. Obsidian → **Open folder as vault** → เลือกโฟลเดอร์ `vault/`
-2. เปิด `Indexes/00-home.md`
-3. แนะนำให้ติดตั้งปลั๊กอิน **Dataview** — ทุกโน้ตมี frontmatter พร้อมใช้งาน
-
-> เปิดที่โฟลเดอร์ `vault/` เท่านั้น ไม่ต้องเปิดทั้งโปรเจกต์
-> (ลิงก์ข้ามไป `docs/` จะเป็นลิงก์ค้างใน Obsidian — เปิดใน editor แทน)
-
----
-
-## ต้องใช้อะไรบ้าง
+### 1. Prerequisites
 
 - Python 3.10+
-- `requests`, `PyMuPDF`
-- SEC API subscription key ใน `.env.local`:
-  ```ini
-  SEC_SUBSCRIPTION_KEY=...
-  SEC_secondary_key=...
-  ```
+- SEC Open Data API Subscription Key ([Register for free at SEC Open Data Portal](https://secopendata.sec.or.th/sec-open-apis))
+
+Install required Python dependencies:
+
+```bash
+pip install requests pymupdf
+```
+
+### 2. Configuration
+
+Create a `.env.local` file in the project root with your SEC API credentials:
+
+```ini
+SEC_SUBSCRIPTION_KEY=your_primary_key_here
+SEC_SECONDARY_KEY=your_secondary_key_here
+```
+
+### 3. Running the Pipeline
+
+Run the complete pipeline from scratch:
+
+```bash
+python run_all.py
+```
+
+Useful CLI options:
+
+```bash
+python run_all.py --smoke          # Run a fast smoke test on a subset of data
+python run_all.py --from vault      # Resume from the vault generation stage
+python run_all.py --skip factsheets # Skip downloading PDF factsheets
+```
+
+> **Note:** Pipeline stages are designed to be idempotent and resumable. Re-running will safely skip already completed items.
 
 ---
 
-## แหล่งข้อมูล
+## 📖 Opening the Vault in Obsidian
 
-- SEC Open Data Developer Portal — https://secopendata.sec.or.th/sec-open-apis
-- API host — `https://api.sec.or.th`
+1. Open **Obsidian**.
+2. Select **Open folder as vault** and choose the `vault/` folder in this repository.
+3. Start exploring from `Indexes/00-home.md`.
+4. *(Recommended)* Install the **Dataview** community plugin in Obsidian to take full advantage of frontmatter queries and dynamic tables.
 
-> ข้อมูลทั้งหมดเป็นข้อมูลสาธารณะที่สำนักงาน ก.ล.ต. เผยแพร่
-> คลังนี้เป็น**ข้อมูลอ้างอิงเพื่อการศึกษา ไม่ใช่คำแนะนำการลงทุน**
+---
+
+## 📁 Repository Structure
+
+```text
+├── docs/                   # API reference, data dictionary, and integration guides
+├── scripts/                # Data harvesting, processing, and note generation scripts
+├── vault/                  # Obsidian vault (Funds, AMCs, Indexes, Factsheets, Entities)
+├── daily.py                # Scheduled daily update and sync script
+├── run_all.py              # End-to-end pipeline runner
+└── README.md
+```
+
+---
+
+## 📚 Documentation
+
+Detailed documentation and guides are available in the [`docs/`](docs/) directory:
+
+- [Quickstart Guide](docs/guides/quickstart.md) — Setup keys and build your first vault
+- [API Reference](docs/api-reference/00-index.md) — Comprehensive guide to all 21 SEC endpoints
+- [Data Dictionary](docs/guides/data-dictionary.md) — Field definitions and schema reference
+- [Pipeline Architecture](docs/guides/pipeline.md) — Overview of data processing stages
+- [Holdings & Look-Through](docs/guides/lookthrough.md) — Understanding feeder funds and asset look-through
+
+---
+
+## ⚖️ Data Source & Disclaimer
+
+- **Data Source:** [SEC Open Data Developer Portal](https://secopendata.sec.or.th/sec-open-apis)
+- **API Endpoint:** `https://api.sec.or.th`
+
+> **Disclaimer:** All data is sourced from public disclosures by the Securities and Exchange Commission of Thailand. This repository is strictly intended for educational and research purposes and does **not** constitute financial, legal, or investment advice.

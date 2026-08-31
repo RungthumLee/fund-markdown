@@ -3,170 +3,163 @@ title: Data Dictionary
 tags: [guide, reference, data-model]
 ---
 
-# 📖 Data Dictionary — พจนานุกรมข้อมูลรวม
+# 📖 Data Dictionary — Unified Field Reference
 
-รวมทุก field จากทั้ง 21 endpoint (104 field ไม่ซ้ำ) พร้อมระบุว่าปรากฏใน dataset ใดบ้าง
+A comprehensive catalog of all 104 unique fields across all 21 SEC Open API endpoints, including data types, dataset origins, and descriptions.
 
-**ที่เกี่ยวข้อง:** [[fund-identifiers|Fund Identifiers]] · [[fund-taxonomy|Fund Taxonomy]] · [[../api-reference/00-index|API Reference]]
+**Related:** [[fund-identifiers|Fund Identifiers]] · [[fund-taxonomy|Fund Taxonomy]] · [[../api-reference/00-index|API Reference]]
 
 ---
 
-## โครงสร้าง response ที่ทุก endpoint ใช้ร่วมกัน
+## Common Response Structure
 
-| Field | Type | คำอธิบาย |
+Every endpoint response shares a consistent wrapper:
+
+| Field | Type | Description |
 |---|---|---|
-| `message` | string | ข้อความสถานะของการเรียก API |
-| `page_size` | number | จำนวนรายการที่ส่งกลับต่อครั้ง |
-| `next_cursor` | string | cursor สำหรับหน้าถัดไป (ว่าง = หมดแล้ว) |
-| `items` | array&lt;object&gt; | รายการข้อมูลหลัก |
+| `message` | string | API status message (e.g., `success`) |
+| `page_size` | number | Number of records returned per page |
+| `next_cursor` | string | Opaque cursor string for pagination (empty/null when complete) |
+| `items` | array&lt;object&gt; | Array of payload records |
 
-> ดู [[pagination|Pagination]] สำหรับวิธีวน cursor
-
----
-
-## Field ที่มีชุดรหัสกำหนดไว้ (enum)
-
-field เหล่านี้รับเฉพาะค่าที่กำหนด — ดูตารางเต็มที่ [[fund-taxonomy|Fund Taxonomy]]
-
-- `entity_type` — ปรากฏใน: `involve_parties`
-- `fee_type_desc` — ปรากฏใน: `fs_fees`, `mutual_fund_fees`
-- `fund_status` — ปรากฏใน: `profiles`
-- `invest_country_flag` — ปรากฏใน: `profiles`
-- `management_style` — ปรากฏใน: `profiles`
-- `proj_retail_type` — ปรากฏใน: `profiles`
-- `prospectus_type` — ปรากฏใน: `fs_asset_alloc`, `fs_benchmarks`, `fs_dividend`, `fs_fees`, `fs_ipos`, `fs_min_amounts`, `fs_performance`, `fs_periods`, `fs_risk`, `fs_statistics`, `fs_top5`, `fs_urls`
+> See [[pagination|Pagination]] for guidance on cursor traversal.
 
 ---
 
-## Field ทั้งหมด (เรียงตามตัวอักษร)
+## Enumerated Fields (Enum)
 
-| Field | Type | ปรากฏใน dataset | คำอธิบาย |
+These fields accept only predefined value sets — see the full code mapping at [[fund-taxonomy|Fund Taxonomy]]:
+
+- `entity_type` — Used in: `involve_parties`
+- `fee_type_desc` — Used in: `fs_fees`, `mutual_fund_fees`
+- `fund_status` — Used in: `profiles`
+- `invest_country_flag` — Used in: `profiles`
+- `management_style` — Used in: `profiles`
+- `proj_retail_type` — Used in: `profiles`
+- `prospectus_type` — Used in: `fs_asset_alloc`, `fs_benchmarks`, `fs_dividend`, `fs_fees`, `fs_ipos`, `fs_min_amounts`, `fs_performance`, `fs_periods`, `fs_risk`, `fs_statistics`, `fs_top5`, `fs_urls`
+
+---
+
+## Complete Field Catalog (Alphabetical)
+
+| Field | Type | Datasets | Description |
 |---|---|---|---|
-| `actual_value` | float | `fs_fees` | อัตราที่จ่ายจริง |
-| `address` | string | `involve_parties` | ที่อยู่ |
-| `alpha` | string | `fs_statistics` | Alpha (หมายเหตุ : เฉพาะกองตราสารทุน) |
-| `amc_url_factsheet` | string | `fs_urls` | ลิงก์ไปยังเอกสาร Fund Factsheet บนเว็บไซต์ของบริษัทหลักทรัพย์จัดการกองทุน (AMC) |
-| `as_of_date` | date | `fs_urls`, `out_portfolio` | วันที่อ้างอิงข้อมูลในเอกสาร Fund Factsheet (As of date) |
-| `asset_name` | string | `fs_asset_alloc`, `fs_top5` | ประเภททรัพย์สินที่ลงทุน |
-| `asset_ratio` | float | `fs_asset_alloc`, `fs_top5` | สัดส่วน (%NAV) ที่ลงทุนในประเภททรัพย์สินนั้น |
-| `asset_seq` | number | `fs_asset_alloc`, `fs_top5` | ลำดับรายการ |
-| `assetliab_code` | string | `out_port_asset_type`, `out_portfolio` | รหัสประเภทสินทรัพย์หนี้สิน |
-| `assetliab_desc` | string | `out_port_asset_type`, `out_portfolio` | ประเภทสินทรัพย์หนี้สิน |
-| `benchmark` | string | `fs_benchmarks` | ดัชนีชี้วัด (8.1) |
-| `beta` | string | `fs_statistics` | Beta (หมายเหตุ : เฉพาะกองตราสารทุน) |
-| `book_close_date` | date | `dividend_history` | วันที่ปิดสมุดทะเบียน (YYYY-MM-DD) |
-| `buy_price` | number | `nav` | ราคาซื้อคืน (บาท/หน่วย) |
-| `buy_swap_price` | number | `nav` | ราคาซื้อคืนสับเปลี่ยน (บาท/หน่วย) |
-| `cancel_date` | date | `profiles` | วันที่ยกเลิกกองทุนรวม |
-| `class_abbr_name` | string | `dividend_history` | ชื่อกองทุน |
-| `comp_name_en` | string | `amcs`, `profiles` | ชื่อบริษัทหลักทรัพย์จัดการกองทุนภาษาอังกฤษ |
-| `comp_name_th` | string | `amcs`, `profiles` | ชื่อบริษัทหลักทรัพย์จัดการกองทุนภาษาไทย |
-| `dividend_date` | date | `dividend_history` | วันที่จ่ายเงินปันผล (YYYY-MM-DD) |
-| `dividend_policy` | string | `fs_dividend` | นโยบายการจ่ายเงินปันผล |
-| `dividend_value` | number | `dividend_history` | เงินปันผลต่อหน่วย (บาท) |
-| `end_date` | date | `fs_asset_alloc`, `fs_benchmarks`, `fs_dividend`, `fs_fees`, `fs_ipos`, `fs_min_amounts`, `fs_performance`, `fs_periods`, `fs_risk`, `fs_statistics`, `fs_top5` | วันที่สิ้นสุดที่ factsheet มีผล หมายเหตุ: หากเป็นข้อมูลจาก factsheet ที่มีผลล่าสุด end_date จะมีค่าเป็น null |
-| `entity_name_en` | string | `involve_parties` | ชื่อบุคคล/นิติบุคคล (ภาษาอังกฤษ) |
-| `entity_name_th` | string | `involve_parties` | ชื่อบุคคล/นิติบุคคล (ภาษาไทย) |
-| `entity_type` | string | `involve_parties` | ประเภทบุคคล/นิติบุคคลที่เกี่ยวข้อง (ENTITY_TYPE): _(ดู [[fund-taxonomy\|Taxonomy]])_ |
-| `exchange_rate_protection_policy` | string | `profiles` | นโยบายป้องกันความเสี่ยงจากอัตราแลกเปลี่ยน |
-| `fee_other_desc` | string | `fs_fees`, `mutual_fund_fees` | หมายเหตุเพิ่มเติม (ถ้ามี) |
-| `fee_type_desc` | string | `fs_fees`, `mutual_fund_fees` | ประเภทค่าธรรมเนียม: _(ดู [[fund-taxonomy\|Taxonomy]])_ |
-| `feederfund_country` | string | `profiles` | ประเทศที่จดทะเบียนของกองทุนหลัก |
-| `feederfund_master_fund` | string | `profiles` | ชื่อกองทุนหลัก (Master Fund) |
-| `first_sell_end_date` | string | `fs_ipos` | วันสิ้นสุด IPO |
-| `first_sell_start_date` | string | `fs_ipos` | วันเริ่ม IPO |
-| `fund_class_description` | string | `profiles` | คำอธิบายชนิดหน่วยลงทุนเพิ่มเติม (ถ้ามี) |
-| `fund_class_detail` | string | `profiles` | ชื่อชนิดหน่วยลงทุน |
-| `fund_class_isin_code` | string | `profiles` | ISIN Code ของชนิดหน่วยลงทุน |
-| `fund_class_name` | string | `fs_dividend`, `fs_fees`, `fs_min_amounts`, `fs_performance`, `fs_periods`, `fs_statistics`, `fs_urls`, `mutual_fund_fees`, `nav`, `profiles`, `specifications` | ชื่อย่อชนิดหน่วยลงทุน (Class Fund) หมายเหตุ: เป็น "main" ถ้าเป็นกองทุนที่ไม่ใช่ Class Fund |
-| `fund_class_tax_incentive_type` | string | `profiles` | สิทธิประโยชน์ทางภาษี (SSF, Thai ESG) |
-| `fund_status` | string | `profiles` | สถานะกองทุนรวม: _(ดู [[fund-taxonomy\|Taxonomy]])_ |
-| `fx_hedging` | string | `fs_statistics` | FX Hedging |
-| `group_seq` | string | `fs_benchmarks` | ลำดับกลุ่ม |
-| `init_date` | date | `profiles` | วันที่จัดตั้งกองทุนรวม |
-| `invest_country_flag` | string | `profiles` | ความเสี่ยงการลงทุนในต่างประเทศ: _(ดู [[fund-taxonomy\|Taxonomy]])_ |
-| `investment_policy_desc` | string | `profiles` | นโยบายการลงทุน (ข้อมูลเป็นข้อความยาว อาจอยู่ในรูป HTML หรือ String ที่ Encode ด้วย Base64) |
-| `isin_code` | string | `out_portfolio` | ISIN Code |
-| `issue_code` | string | `out_portfolio` | ชื่อย่อหลักทรัพย์ |
-| `issuer` | string | `out_portfolio` | ชื่อผู้ออกหลักทรัพย์ |
-| `last_upd_date` | datetime | `amcs`, `dividend_history`, `fs_asset_alloc`, `fs_benchmarks`, `fs_dividend`, `fs_fees`, `fs_ipos`, `fs_min_amounts`, `fs_performance`, `fs_periods`, `fs_risk`, `fs_statistics`, `fs_top5`, `fs_urls`, `involve_parties`, `mutual_fund_fees`, `nav`, `out_portfolio`, `profiles`, `specifications` | วันที่และเวลาที่มีการแก้ไขข้อมูลล่าสุด |
-| `last_val` | number | `nav` | มูลค่าหน่วยลงทุน (บาท/หน่วย) |
-| `lowbal_unit` | string | `fs_min_amounts` | จำนวนหน่วยคงเหลือขั้นต่ำ |
-| `lowbal_val` | float | `fs_min_amounts` | มูลค่าคงเหลือขั้นต่ำ |
-| `lowbal_val_cur` | string | `fs_min_amounts` | หน่วย มูลค่าคงเหลือขั้นต่ำ |
-| `management_style` | string | `profiles` | กลยุทธ์การบริหารจัดการกองทุน (Management Style): _(ดู [[fund-taxonomy\|Taxonomy]])_ |
-| `market_value` | number | `out_port_asset_type`, `out_portfolio` | มูลค่าตามราคาตลาด (บาท) ปัดเศษทศนิยม 5 ตำแหน่ง |
-| `maximum_drawdown` | string | `fs_statistics` | อัตราผลขาดทุนสูงสุดของกองทุนรวมในระยะเวลา 5 ปีย้อนหลัง (หรือตั้งแต่จัดตั้งกองทุนกรณีที่ยังไม่ครบ 5 ปี) (Maximum Drawdown) |
-| `minimum_redempt` | float | `fs_min_amounts` | มูลค่าขั้นต่ำของการสั่งขายคืน (9.5.6) |
-| `minimum_redempt_cur` | string | `fs_min_amounts` | หน่วย (มูลค่าขั้นต่ำของการสั่งขายคืน) (9.5.6) |
-| `minimum_redempt_unit` | string | `fs_min_amounts` | จำนวนหน่วยลงทุนขั้นต่ำของการสั่งขายคืน (9.5.6) |
-| `minimum_sub` | float | `fs_min_amounts` | มูลค่าขั้นต่ำของการสั่งซื้อครั้งถัดไป (9.5.4) |
-| `minimum_sub_cur` | string | `fs_min_amounts` | หน่วย มูลค่าขั้นต่ำของการสั่งซื้อครั้งถัดไป (9.5.4) |
-| `minimum_sub_ipo` | float | `fs_min_amounts` | มูลค่าขั้นต่ำของการสั่งซื้อครั้งแรก (9.5.3) |
-| `minimum_sub_ipo_cur` | string | `fs_min_amounts` | หน่วย มูลค่าขั้นต่ำของการสั่งซื้อครั้งแรก (9.5.3) |
-| `minimum_sub_unit` | string | `fs_min_amounts` | จำนวนหน่วยลงทุนขั้นต่ำของการสั่งซื้อครั้งถัดไป (9.5.4) |
-| `nav_date` | date | `nav` | วันที่ NAV (YYYY-MM-DD) |
-| `net_asset` | number | `nav` | มูลค่าทรัพย์สินสุทธิ (บาท) |
-| `pdf_factsheet` | string | `fs_urls` | ลิงก์ไฟล์ PDF ของ Fund Factsheet ที่จัดเก็บโดย ก.ล.ต. |
-| `percent_nav` | number | `out_port_asset_type`, `out_portfolio` | %NAV ปัดเศษทศนิยม 5 ตำแหน่ง (เนื่องจากการปัดเศษ อาจทำให้สัดส่วนรวมเกิน 100% ได้ถึง 100.20% ของ NAV) |
-| `performance_type_desc` | string | `fs_performance` | คำอธิบายประเภทผลตอบแทน |
-| `performance_value` | string | `fs_performance` | ผลการดำเนินงานย้อนหลังของกองทุน (8.3) |
-| `period` | string | `fs_periods`, `out_port_asset_type`, `out_portfolio` | ระยะเวลาขายและรับซื้อคืน |
-| `policy_desc` | string | `profiles` | ประเภทกองทุนตามนโยบายกองทุน |
-| `portfolio_duration_period` | string | `fs_statistics` | อายุเฉลี่ยของกองทุนตราสารหนี้ (Portfolio Duration) |
-| `portfolio_turnover_ratio` | string | `fs_statistics` | อัตราส่วนหมุนเวียนการลงทุน (Portfolio Turn Over Ratio) |
-| `proj_abbr_name` | string | `profiles` | ชื่อย่อโครงการจัดการกองทุนรวม |
-| `proj_id` | string | `dividend_history`, `fs_asset_alloc`, `fs_benchmarks`, `fs_dividend`, `fs_fees`, `fs_ipos`, `fs_min_amounts`, `fs_performance`, `fs_periods`, `fs_risk`, `fs_statistics`, `fs_top5`, `fs_urls`, `involve_parties`, `mutual_fund_fees`, `nav`, `out_port_asset_type`, `out_portfolio`, `profiles`, `specifications` | เลขที่โครงการกองทุนรวม ({Type}{ID}_YYYY) เช่น M0000_2552 |
-| `proj_name_en` | string | `profiles` | ชื่อโครงการจัดการกองทุนรวม (อังกฤษ) |
-| `proj_name_th` | string | `profiles` | ชื่อโครงการจัดการกองทุนรวม (ไทย) |
-| `proj_retail_type` | string | `profiles` | ลักษณะโครงการ: _(ดู [[fund-taxonomy\|Taxonomy]])_ |
-| `proj_term_day` | string | `profiles` | อายุโครงการ (วัน) |
-| `proj_term_flag` | string | `profiles` | อายุโครงการ (Y = กำหนด N = ไม่กำหนด) |
-| `proj_term_month` | string | `profiles` | อายุโครงการ (เดือน) |
-| `proj_term_year` | string | `profiles` | อายุโครงการ (ปี) |
-| `prospectus_type` | string | `fs_asset_alloc`, `fs_benchmarks`, `fs_dividend`, `fs_fees`, `fs_ipos`, `fs_min_amounts`, `fs_performance`, `fs_periods`, `fs_risk`, `fs_statistics`, `fs_top5`, `fs_urls` | ประเภทการส่ง factsheet ของบลจ.: _(ดู [[fund-taxonomy\|Taxonomy]])_ |
-| `rate` | string | `fs_fees`, `mutual_fund_fees` | อัตราตามโครงการ |
-| `rate_unit` | string | `mutual_fund_fees` | หน่วยของอัตราตามโครงการ |
-| `recovering_period` | string | `fs_statistics` | ระยะเวลาที่ฟื้นตัว (Recovering Period) |
-| `redemp_period_oth` | string | `fs_periods` | คำอธิบายการขายและรับซื้อคืน (กรณีที่ period มีค่าเป็น อื่น ๆ) |
-| `reference_period` | string | `fs_performance` | หมุดเวลาและปีย้อนหลัง |
-| `regis_date` | date | `profiles` | วันที่จดทะเบียนกองทุนรวม |
-| `regis_id` | string | `profiles` | เลขที่จดทะเบียนกองทุน |
-| `remark` | string | `fs_benchmarks` | หมายเหตุ (ถ้ามี) |
-| `risk_spectrum` | string | `fs_risk` | ระดับความเสี่ยงของกองทุนรวม (RS1–RS8 และ RS81) |
-| `risk_spectrum_desc` | string | `fs_risk` | รายละเอียดความเสี่ยงของกองทุนรวม |
-| `sell_price` | number | `nav` | ราคาขาย (บาท/หน่วย) |
-| `sell_swap_price` | number | `nav` | ราคาขายสับเปลี่ยน (บาท/หน่วย) |
-| `settlement_period` | string | `fs_periods` | ระยะเวลาการรับเงินค่าขายคืน |
-| `sharpe_ratio` | string | `fs_statistics` | Sharpe Ratio (หมายเหตุ : เฉพาะกองตราสารทุน) |
-| `spec_code` | string | `specifications` | รหัสลักษณะพิเศษ |
-| `spec_desc` | string | `specifications` | ประเภทกองทุนตามลักษณะพิเศษ (นิยามตามประกาศ สน.87/2558 ภาคผนวก 2) |
-| `start_date` | date | `fs_asset_alloc`, `fs_benchmarks`, `fs_dividend`, `fs_fees`, `fs_ipos`, `fs_min_amounts`, `fs_performance`, `fs_periods`, `fs_risk`, `fs_statistics`, `fs_top5` | วันที่เริ่มต้นที่ factsheet มีผล |
-| `tracking_error` | string | `fs_statistics` | Tracking Error |
-| `type` | string | `fs_periods` | ประเภทขายและรับซื้อคืน ได้แก่ subscription และ redemption |
-| `unique_id` | string | `amcs`, `dividend_history`, `nav`, `profiles` | รหัสอ้างอิงบริษัทจัดการที่เป็นผู้ส่งข้อมูล |
-| `yield_to_maturity` | string | `fs_statistics` | Yield to Maturity |
+| `actual_value` | float | `fs_fees` | Actual fee rate charged |
+| `address` | string | `involve_parties` | Physical address of involved party |
+| `alpha` | string | `fs_statistics` | Jensen's Alpha (Equity funds only) |
+| `amc_url_factsheet` | string | `fs_urls` | External URL to Fund Factsheet hosted on the AMC's website |
+| `as_of_date` | date | `fs_urls`, `out_portfolio` | As-of effective date for factsheets or quarterly portfolio filings |
+| `asset_name` | string | `fs_asset_alloc`, `fs_top5` | Name or asset category of investment |
+| `asset_ratio` | float | `fs_asset_alloc`, `fs_top5` | Weight (% NAV) of the asset or category |
+| `asset_seq` | number | `fs_asset_alloc`, `fs_top5` | Ordering sequence number |
+| `assetliab_code` | string | `out_port_asset_type`, `out_portfolio` | Asset/liability category code |
+| `assetliab_desc` | string | `out_port_asset_type`, `out_portfolio` | Asset/liability category description |
+| `benchmark` | string | `fs_benchmarks` | Benchmark index identifier / description |
+| `beta` | string | `fs_statistics` | Beta metric (Equity funds only) |
+| `book_close_date` | date | `dividend_history` | Record book closing date (YYYY-MM-DD) |
+| `buy_price` | number | `nav` | Redemption price (THB / unit) |
+| `buy_swap_price` | number | `nav` | Switching redemption price (THB / unit) |
+| `cancel_date` | date | `profiles` | Fund cancellation/liquidation date |
+| `class_abbr_name` | string | `dividend_history` | Fund class abbreviation |
+| `comp_name_en` | string | `amcs`, `profiles` | Asset Management Company name in English |
+| `comp_name_th` | string | `amcs`, `profiles` | Asset Management Company name in Thai |
+| `dividend_date` | date | `dividend_history` | Dividend payout date (YYYY-MM-DD) |
+| `dividend_policy` | string | `fs_dividend` | Dividend payment policy description |
+| `dividend_value` | number | `dividend_history` | Dividend amount per unit (THB) |
+| `end_date` | date | `fs_*` | Factsheet end validity date (null for current latest active factsheet) |
+| `entity_name_en` | string | `involve_parties` | Legal party entity name (English) |
+| `entity_name_th` | string | `involve_parties` | Legal party entity name (Thai) |
+| `entity_type` | string | `involve_parties` | Involved party role code (Trustee, Auditor, etc.) |
+| `exchange_rate_protection_policy` | string | `profiles` | FX hedging policy description |
+| `fee_other_desc` | string | `fs_fees`, `mutual_fund_fees` | Additional fee condition remarks |
+| `fee_type_desc` | string | `fs_fees`, `mutual_fund_fees` | Statutory or factsheet fee classification code |
+| `feederfund_country` | string | `profiles` | Domicile country of the Master Fund |
+| `feederfund_master_fund` | string | `profiles` | Master Fund name (for Feeder funds) |
+| `first_sell_end_date` | string | `fs_ipos` | IPO offer period end date |
+| `first_sell_start_date` | string | `fs_ipos` | IPO offer period start date |
+| `fund_class_description` | string | `profiles` | Fund share class extra description |
+| `fund_class_detail` | string | `profiles` | Fund share class full name |
+| `fund_class_isin_code` | string | `profiles` | International Securities Identification Number (ISIN) for class |
+| `fund_class_name` | string | `fs_*`, `nav`, `profiles` | Share class code (`main` for non-class funds, or class suffix e.g., `SSF`, `A`) |
+| `fund_class_tax_incentive_type` | string | `profiles` | Tax privilege classification (e.g., SSF, Thai ESG) |
+| `fund_status` | string | `profiles` | Operational status (e.g., `Registered`, `Terminated`) |
+| `fx_hedging` | string | `fs_statistics` | FX hedging status and policy |
+| `group_seq` | string | `fs_benchmarks` | Benchmark grouping sequence |
+| `init_date` | date | `profiles` | Fund inception/establishment date |
+| `invest_country_flag` | string | `profiles` | Geographic investment focus flag (Domestic vs Foreign) |
+| `investment_policy_desc` | string | `profiles` | Full investment policy text (Base64/HTML sanitized) |
+| `isin_code` | string | `out_portfolio` | ISIN of held security |
+| `issue_code` | string | `out_portfolio` | Local ticker/symbol of held security |
+| `issuer` | string | `out_portfolio` | Security issuer name |
+| `last_upd_date` | datetime | `*` | Timestamp of last record update |
+| `last_val` | number | `nav` | NAV per unit (THB) |
+| `lowbal_unit` | string | `fs_min_amounts` | Minimum remaining account balance (units) |
+| `lowbal_val` | float | `fs_min_amounts` | Minimum remaining account balance (amount) |
+| `lowbal_val_cur` | string | `fs_min_amounts` | Currency for minimum balance |
+| `management_style` | string | `profiles` | Management strategy (`Active` vs `Passive` vs `Index`) |
+| `market_value` | number | `out_port_asset_type`, `out_portfolio` | Market value in THB (rounded to 5 decimal places) |
+| `maximum_drawdown` | string | `fs_statistics` | Maximum historical drawdown over 5 years / since inception |
+| `minimum_redempt` | float | `fs_min_amounts` | Minimum redemption value |
+| `minimum_redempt_cur` | string | `fs_min_amounts` | Currency for minimum redemption |
+| `minimum_redempt_unit` | string | `fs_min_amounts` | Minimum redemption units |
+| `minimum_sub` | float | `fs_min_amounts` | Minimum subsequent subscription value |
+| `minimum_sub_cur` | string | `fs_min_amounts` | Currency for subsequent subscription |
+| `minimum_sub_ipo` | float | `fs_min_amounts` | Minimum initial IPO subscription value |
+| `minimum_sub_ipo_cur` | string | `fs_min_amounts` | Currency for initial subscription |
+| `minimum_sub_unit` | string | `fs_min_amounts` | Minimum subscription units |
+| `nav_date` | date | `nav` | NAV calculation date (YYYY-MM-DD) |
+| `net_asset` | number | `nav` | Total Net Asset Value in THB |
+| `pdf_factsheet` | string | `fs_urls` | Direct link to factsheet PDF archived on SEC servers |
+| `percent_nav` | number | `out_port_asset_type`, `out_portfolio` | Weight as % of NAV |
+| `performance_type_desc` | string | `fs_performance` | Return type description (e.g., Total Return, Annualized) |
+| `performance_value` | string | `fs_performance` | Performance return figure |
+| `period` | string | `fs_periods`, `out_*` | Period identifier or Dealing schedule |
+| `policy_desc` | string | `profiles` | AIMC asset class category description |
+| `portfolio_duration_period` | string | `fs_statistics` | Average portfolio duration (Fixed Income funds) |
+| `portfolio_turnover_ratio` | string | `fs_statistics` | Portfolio Turnover Ratio (PTR) |
+| `proj_abbr_name` | string | `profiles` | Fund project symbol / short name |
+| `proj_id` | string | `*` | Primary unique project ID (`{Type}{ID}_{Year}` e.g., `M0000_2552`) |
+| `proj_name_en` | string | `profiles` | Full fund project name in English |
+| `proj_name_th` | string | `profiles` | Full fund project name in Thai |
+| `proj_retail_type` | string | `profiles` | Retail investor qualification tier |
+| `proj_term_day` | string | `profiles` | Fixed fund term duration (days) |
+| `proj_term_flag` | string | `profiles` | Fixed-term flag (`Y` = Fixed term, `N` = Open-ended) |
+| `proj_term_month` | string | `profiles` | Fixed fund term duration (months) |
+| `proj_term_year` | string | `profiles` | Fixed fund term duration (years) |
+| `prospectus_type` | string | `fs_*` | Filing category code |
+| `rate` | string | `fs_fees`, `mutual_fund_fees` | Prospectus ceiling / statutory fee rate |
+| `rate_unit` | string | `mutual_fund_fees` | Unit of fee rate (% per annum, THB, etc.) |
+| `recovering_period` | string | `fs_statistics` | Recovery period after drawdown |
+| `redemp_period_oth` | string | `fs_periods` | Description for custom trading cycles |
+| `reference_period` | string | `fs_performance` | Trailing horizon (YTD, 1Y, 3Y, 5Y, etc.) |
+| `regis_date` | date | `profiles` | SEC official registration date |
+| `regis_id` | string | `profiles` | SEC mutual fund registration number |
+| `remark` | string | `fs_benchmarks` | Footnotes / benchmark calculation notes |
+| `risk_spectrum` | string | `fs_risk` | Standard risk tier (`RS1` through `RS8` and `RS81`) |
+| `risk_spectrum_desc` | string | `fs_risk` | Risk category description |
+| `sell_price` | number | `nav` | Subscription offer price (THB / unit) |
+| `sell_swap_price` | number | `nav` | Switching subscription price (THB / unit) |
+| `settlement_period` | string | `fs_periods` | Settlement cycle duration (e.g., T+2, T+3, T+4) |
+| `sharpe_ratio` | string | `fs_statistics` | Sharpe Ratio metric |
+| `spec_code` | string | `specifications` | Special specification code |
+| `spec_desc` | string | `specifications` | Special classification description (SEC Notice SorNor. 87/2558) |
+| `start_date` | date | `fs_*` | Factsheet effective start date |
+| `tracking_error` | string | `fs_statistics` | Tracking error vs benchmark |
+| `type` | string | `fs_periods` | Order type (`subscription` vs `redemption`) |
+| `unique_id` | string | `amcs`, `nav`, `profiles` | Unique identifier for reporting Asset Management Company |
+| `yield_to_maturity` | string | `fs_statistics` | Fixed income portfolio Yield to Maturity (YTM) |
 
 ---
 
-## Field ที่ปรากฏในหลาย dataset (คีย์สำหรับ join)
+## Primary Join Keys
 
-| Field | จำนวน dataset |
-|---|---|
-| `last_upd_date` | 20 |
-| `proj_id` | 20 |
-| `prospectus_type` | 12 |
-| `fund_class_name` | 11 |
-| `start_date` | 11 |
-| `end_date` | 11 |
-| `unique_id` | 4 |
-| `period` | 3 |
-| `comp_name_th` | 2 |
-| `comp_name_en` | 2 |
-| `fee_type_desc` | 2 |
-| `rate` | 2 |
-| `fee_other_desc` | 2 |
-| `as_of_date` | 2 |
-| `asset_seq` | 2 |
+| Field | Dataset Frequency | Usage |
+|---|---|---|
+| `last_upd_date` | 20 | Timestamp tracking for incremental sync |
+| `proj_id` | 20 | Master fund project identifier (Primary Join Key) |
+| `prospectus_type` | 12 | Version discriminator for factsheet filings |
+| `fund_class_name` | 11 | Secondary join key for multi-class funds |
+| `start_date` / `end_date` | 11 | Temporal validity window for historical factsheets |
+| `unique_id` | 4 | Management company identifier |
 
-> วิธี join ที่ถูกต้องอยู่ที่ [[fund-identifiers|Fund Identifiers]]
+> For join mechanics and best practices, see [[fund-identifiers|Fund Identifiers]].

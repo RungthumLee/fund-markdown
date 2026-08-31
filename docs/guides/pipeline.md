@@ -3,15 +3,17 @@ title: Pipeline Overview
 tags: [guide, architecture, pipeline]
 ---
 
-# 🔄 Pipeline — ภาพรวมทั้งระบบ
+# 🔄 Pipeline — System Architecture & Data Flow
 
-**ที่เกี่ยวข้อง:** [[quickstart|Quickstart]] · [[bulk-vs-per-fund|Bulk vs Per-fund]] · [[scope-and-filters|Scope & Filters]] · [[../project/tasks|Tasks]]
+An overview of the end-to-end data pipeline powering the Thai Mutual Funds Knowledge Base.
+
+**Related:** [[quickstart|Quickstart]] · [[bulk-vs-per-fund|Bulk vs Per-fund]] · [[scope-and-filters|Scope & Filters]]
 
 ---
 
-## ภาพรวม
+## Architecture Diagram
 
-```
+```text
                  ┌──────────────────────┐
                  │   SEC Open API v2    │
                  │  api.sec.or.th       │
@@ -33,7 +35,7 @@ tags: [guide, architecture, pipeline]
    ┌────────────────────────┐  ┌────────────────────────┐
    │ 3. fetch_factsheets.py │  │ 5. gen_vault.py        │
    │    data/factsheets/    │  │    vault/Funds/        │
-   │    *.pdf (8 threads)   │  │    vault/AMCs/         │
+   │    *.pdf (8 workers)   │  │    vault/AMCs/         │
    └───────────┬────────────┘  │    vault/Indexes/      │
                ▼               └───────────┬────────────┘
    ┌────────────────────────┐              │
@@ -43,101 +45,83 @@ tags: [guide, architecture, pipeline]
    └────────────────────────┘              ▼
                               ┌────────────────────────┐
                               │ 6. validate_vault.py   │
-                              │    validation-report   │
+                              │    integrity checks    │
                               └────────────────────────┘
 ```
 
 ---
 
-## รันทั้งหมดในคำสั่งเดียว
+## Running the Pipeline
+
+Run the entire pipeline end-to-end:
 
 ```bash
-python run_all.py                    # รันครบทุกขั้น (ข้ามที่ทำแล้ว)
-python run_all.py --smoke            # รันทดสอบขนาดเล็ก
-python run_all.py --from vault       # เริ่มจากขั้นที่กำหนด
-python run_all.py --skip factsheets  # ข้ามขั้นที่ไม่ต้องการ
+python run_all.py                    # Complete run (skips already processed stages)
+python run_all.py --smoke            # Fast smoke test with small sample
+python run_all.py --from vault       # Resume starting from a specific stage
+python run_all.py --skip factsheets  # Skip long-running PDF downloads
 ```
 
 ---
 
-## แต่ละขั้นทำอะไร
+## Pipeline Stages Breakdown
 
-### 1. `harvest.py` — เก็บข้อมูลดิบ
+### 1. `harvest.py` — Raw Data Collection
+- Fetches all 21 SEC datasets in bulk without filtering by individual `proj_id`.
+- Saves newline-delimited JSON (`data/raw/<dataset>.jsonl`).
+- Records completion status in `<dataset>.done` checkpoints to skip completed stages on resume.
+- **Force re-download:** `python scripts/harvest.py --force <dataset>`
 
-ดึงทั้ง 21 dataset โดยไม่ระบุ `proj_id` (bulk) → `data/raw/<name>.jsonl`
-มีไฟล์ `.done` เก็บจำนวนแถว ทำให้รันซ้ำแล้วข้าม dataset ที่เสร็จแล้ว
+### 2. `transform.py` — Aggregation & Cleansing
+- Streams multi-gigabyte JSONL files memory-efficiently.
+- Indexes records by `proj_id` and aggregates across all endpoints.
+- Applies scope filters: active `Registered` status, excluding Term Funds and Provident Funds (PVD).
+- Sanitizes unstructured descriptions (Base64 decoding, HTML stripping, length normalization).
+- Extracts current latest factsheets and filings.
+- **Output:** `funds.json`, `amcs.json`, `excluded.json`, `stats.json`.
 
-**Resume:** อัตโนมัติ · **Force:** `python scripts/harvest.py --force <dataset>`
+### 3. `fetch_factsheets.py` — PDF Factsheet Downloader
+- Downloads official fund factsheet PDFs using a thread pool worker (8 concurrent threads).
+- Validates `%PDF` magic bytes to verify file integrity.
+- Maintains a local manifest (`_manifest.json`) tracking download status, timestamps, and error codes.
 
-### 2. `transform.py` — รวมและกรอง
+### 4. `parse_factsheets.py` — PDF Text & Table Extraction
+- Uses PyMuPDF (`fitz`) to extract structured text and tables from PDF factsheets.
+- Extracts sector allocations, geographic exposures, credit rating distributions, fund managers, and master fund top holdings.
+- Outputs Markdown files to `vault/Factsheets/` and intermediate parsed data to `data/processed/factsheet_sections.json`.
 
-- อ่าน JSONL แบบ streaming (ไฟล์ raw ใหญ่ระดับหลายร้อย MB)
-- index ทุก dataset ด้วย `proj_id`
-- ใช้เกณฑ์ [[scope-and-filters|Scope filter]]: Registered · ไม่ใช่ Term · ไม่ใช่ PVD
-- `clean_text()` decode Base64 → strip HTML → ตัดที่ 4,000 ตัวอักษร
-- เลือกงวดล่าสุดด้วย `latest_by()`
+### 5. `gen_vault.py` — Obsidian Vault Generation
+- Generates interconnected, Obsidian-ready Markdown notes:
+  - `vault/Funds/<ABBR>.md` — Detailed fund notes with 12 standardized sections.
+  - `vault/AMCs/<AMC_Name>.md` — Asset management company profiles and fund rosters.
+  - `vault/Indexes/` — Multi-dimensional indexes (by AMC, policy, risk level, tax incentive, fees).
+  - `vault/Concepts/` — Concept guides and asset class definitions.
+- All notes include Dataview-compatible YAML frontmatter and internal wikilinks.
 
-**Output:** `funds.json` · `amcs.json` · `excluded.json` · `stats.json`
-
-### 3. `fetch_factsheets.py` — โหลด PDF
-
-ThreadPool 8 เส้น ดาวน์โหลดจาก `pdf_factsheet` URL
-ตรวจว่าเป็น PDF จริง (magic bytes `%PDF`) ก่อนบันทึก
-บันทึกผลทุกไฟล์ลง `_manifest.json` พร้อมสถานะ
-
-**Resume:** ไฟล์ที่มีแล้วข้าม · **Retry:** `--retry` ลองเฉพาะที่พลาด
-
-### 4. `parse_factsheets.py` — แกะข้อความ
-
-PyMuPDF อ่านทีละหน้า → tidy whitespace → เขียนเป็นโน้ต markdown
-พร้อม **แกะตารางที่มีโครงสร้าง** ออกมาเป็น markdown table —
-กลุ่มอุตสาหกรรม ประเทศ อันดับความน่าเชื่อถือ ผู้จัดการกองทุน
-และ holdings ของกองทุนหลัก (ข้อมูลที่ API ไม่มี)
-ผลเก็บที่ `data/processed/factsheet_sections.json` เพื่อให้ `gen_vault.py` นำไปใช้ต่อ
-ดู [[factsheet-extraction|Factsheet Extraction]]
-
-### 5. `gen_vault.py` — สร้างโน้ต
-
-- `vault/Funds/<ABBR>.md` — 12 หัวข้อต่อกอง
-- `vault/AMCs/<ชื่อ บลจ.>.md` — พร้อมสรุปสัดส่วนกองทุน
-- `vault/Indexes/` — home, all-funds, by-amc, by-policy, by-risk,
-  by-management-style, by-tax-incentive, by-peer-group, compare-fees
-- `vault/Concepts/` — โน้ตแนวคิด + โน้ตหมวดนโยบาย (`gen_policy_notes.py`)
-- ทุกโน้ตมี YAML frontmatter (Dataview query ได้) และ wikilink ระหว่างโน้ต
-
-### 6. `validate_vault.py` — ตรวจสอบ
-
-ลิงก์เสีย · โน้ตกำพร้า · frontmatter ที่ขาด · ชื่อซ้ำ · หัวข้อที่หายไป
-→ `docs/project/validation-report.md`
+### 6. `validate_vault.py` — Integrity & Link Validation
+- Verifies vault structure, broken wikilinks, orphan notes, schema completeness, and naming consistency.
 
 ---
 
-## เวลาที่ใช้โดยประมาณ
+## Estimated Execution Times
 
-| ขั้น | เวลา |
-|---|---|
-| harvest | ~40–60 นาที (ครั้งแรก) |
-| transform | ~2–5 นาที |
-| fetch_factsheets | ~15–30 นาที |
-| parse_factsheets | ~5–10 นาที |
-| gen_vault | ~1–2 นาที |
-| validate | < 1 นาที |
-
-รันซ้ำ (ทุกอย่าง cached) ใช้เวลาไม่กี่นาที
+| Stage | Clean Run Duration | Resumed / Incremental |
+|---|---|---|
+| `harvest` | ~40–60 mins | Instant (cached) |
+| `transform` | ~2–5 mins | ~2–5 mins |
+| `fetch_factsheets` | ~15–30 mins | < 1 min |
+| `parse_factsheets` | ~5–10 mins | < 1 min |
+| `gen_vault` | ~1–2 mins | ~1–2 mins |
+| `validate_vault` | < 30 secs | < 30 secs |
 
 ---
 
-## การอัปเดตข้อมูล
+## Incremental Maintenance
+
+For periodic monthly or daily refreshes:
 
 ```bash
-# อัปเดตรายเดือน (factsheet ออกรายเดือน)
-rm data/raw/*.done
-python run_all.py
-```
-
-หรืออัปเดตเฉพาะบางส่วน:
-
-```bash
+# Refresh specific datasets and regenerate notes
 python scripts/harvest.py --force nav fs_fees
 python scripts/transform.py
 python scripts/gen_vault.py

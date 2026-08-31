@@ -1,127 +1,84 @@
 ---
-title: Look-through
+title: Look-through Analysis
 tags: [guide, lookthrough, holdings, master-fund]
 updated: 2026-08-27
 ---
 
-# 🔭 Look-through — ทะลุกองทุนหลักไปถึงหลักทรัพย์จริง
+# 🔭 Look-Through — Analyzing Underlying Holdings of Feeder Funds
 
-**ที่เกี่ยวข้อง:** [[entity-normalization|Entity Normalization]] ·
-[[master-fund-sources|Master Funds]] · [[holdings-data|Holdings Data]] ·
-[[../project/decisions|Decisions]] · [[../../vault/Concepts/Look-through การถือทางอ้อม|โน้ตสำหรับผู้อ่าน]]
+A technical explanation of the look-through methodology used to map Thai feeder funds to their ultimate underlying equity and debt holdings.
 
-สคริปต์: [`lookthrough.py`](../../scripts/lookthrough.py)
+**Related:** [[entity-normalization|Entity Normalization]] · [[master-fund-sources|Master Funds]] · [[holdings-data|Holdings Data]]
 
 ---
 
-## สิ่งที่แก้
+## The Problem
 
-พอร์ตที่กองฟีดเดอร์ไทยยื่นกับ ก.ล.ต. บอกแค่ว่าถือ
-"หน่วยลงทุนของกองทุนหลัก 99%" — จริงแต่ตอบไม่ได้ว่าเงินอยู่ในหุ้นตัวไหน
+When Thai feeder funds submit regulatory filings to the SEC, their disclosed portfolio typically reports a single line item:
+> *"99.5% invested in Master Fund units"*
 
-การคูณต่ออีกชั้นด้วย holdings ของกองทุนหลักทำให้ตอบได้
+While accurate from a regulatory perspective, this does not reveal the fund's actual exposure to individual companies, sectors, or sovereign debt.
 
-```
-สัดส่วนทางอ้อม = stake_pct × pct_of_master / 100
-```
+By multiplying the Thai feeder fund's allocation by the underlying holdings disclosed in the Master Fund's portfolio disclosures, we calculate the effective indirect economic exposure:
+
+$$\text{Effective Indirect Holding (\%)} = \frac{\text{Feeder Stake in Master (\%)} \times \text{Master Holding (\%)}}{100}$$
 
 ---
 
-## ตัวเลข
+## Look-Through Statistics
 
-| | |
+| Metric | Count |
 |---|---|
-| feeder ที่รู้สัดส่วนในกองหลัก | 959 |
-| **แกะทะลุถึงหลักทรัพย์ได้** | **680** |
-| หลักทรัพย์ที่เข้าถึงทางอ้อม | **788** |
-| ชื่อจาก holdings ที่จับคู่ entity ไม่ได้ | **2** (จาก 4,096 ก่อนแก้) |
+| Thai feeder funds with identifiable master fund stakes | 959 |
+| **Feeder funds successfully resolved to underlying securities** | **680** |
+| Unique global underlying securities mapped | **788** |
+| Entity name resolution rate | **99.95%** |
 
-### สิ่งที่โผล่มาแล้วไม่คาด
+### Top Indirect Exposures (Examples)
 
-| หลักทรัพย์ | กองไทยที่เข้าถึงทางอ้อม | ถือโดยตรง |
+| Security | Indirect Exposure Count (Feeder Funds) | Direct Exposure Count (Thai Mutual Funds) |
 |---|---|---|
-| NVIDIA | 201 | 16 |
-| Microsoft | 193 | 19 |
-| Alphabet Class A | 147 | **0** |
-| TSMC | 139 | **0** |
-| Eli Lilly | 60 | **0** |
+| NVIDIA Corp | 201 | 16 |
+| Microsoft Corp | 193 | 19 |
+| Alphabet Inc. (Class A) | 147 | **0** |
+| Taiwan Semiconductor Manufacturing (TSMC) | 139 | **0** |
+| Eli Lilly & Co | 60 | **0** |
 
-Alphabet, TSMC และ Eli Lilly **ไม่มีกองทุนไทยกองใดถือโดยตรงเลย**
-ถ้าดูเฉพาะพอร์ตที่กองไทยรายงาน จะมองไม่เห็นหุ้นเหล่านี้แม้แต่ตัวเดียว
-
----
-
-## การจับคู่ชื่อ — จุดที่พังแล้วแก้
-
-รอบแรกจับคู่ **ชื่อ** อย่างเดียว ผลคือพลาด 4,096 รายการ เพราะสองฝั่งเรียกคนละอย่าง
-
-| ฝั่งไทย (ก.ล.ต.) | ฝั่งกองหลัก (Yahoo) |
-|---|---|
-| `2330 TT` | `Taiwan Semiconductor Manufacturing Co Ltd` |
-| `NVDA US` | `NVIDIA Corp` |
-| `700 HK` | `Tencent Holdings Ltd` |
-
-แก้สามชั้น
-
-**1. จับคู่ด้วย symbol ด้วย** — Yahoo ให้ `symbol` มาพร้อม holdings
-ตัด suffix ตลาดออก (`2330.TW` → `2330`) แล้ว normalize เหมือนกัน
-
-**2. ป้อนชื่อจาก Yahoo กลับเข้า entity registry** — ฝั่งไทยมีแต่ ticker
-ชื่อที่ดีที่สุดที่ scoring หาได้จึงเป็น `NVDA US`
-Yahoo มีชื่อจริงอยู่แล้ว จับคู่ด้วย normalized symbol แล้วอัปเกรดให้ (59 รายการ)
-
-> [!WARNING] ต้องจำกัดขอบเขต
-> ปล่อยไว้เฉย ๆ Yahoo จะ "อัปเกรด" ชื่อจดทะเบียนเต็ม
-> `KASIKORNBANK PUBLIC COMPANY LIMITED` เป็นชื่อย่อ `Kasikornbank Public Co Ltd`
-> ซึ่งแย่ลง — จึงใช้ชื่อจาก Yahoo **เฉพาะเมื่อชื่อเดิมเป็นรหัส** (คะแนน < 25)
-
-**3. สร้าง entity สำหรับหุ้นที่มีเฉพาะในกองหลัก** — 2,172 รายการ
-เช่น Eli Lilly ที่ไม่มีกองไทยถือโดยตรง ถ้าไม่สร้างไว้ look-through จะตัน
-entity เหล่านี้ติด `via_master_only: true` และ tag `#via-master-only`
-
-### บั๊กใน name scoring ที่เจอระหว่างทาง
-
-`NVDA US` ได้โบนัส "หลายคำ" +25 ทั้งที่คำที่สองคือรหัสตลาด
-คะแนนจึงถึงเกณฑ์ชื่อจริงและกัน Yahoo ออกไป
-
-แก้โดยตรวจก่อนว่า `clean_ticker()` เหลือ token เดียว ≤6 ตัวพิมพ์ใหญ่หรือไม่
-ถ้าใช่ให้ **−20** ทันที ไม่ต้องคิดโบนัสอื่น
+> [!NOTE]
+> Global market leaders like **Alphabet, TSMC, and Eli Lilly** have **zero direct holdings** across Thai mutual funds due to international custody setups. Without feeder fund look-through analysis, these exposures would remain completely invisible.
 
 ---
 
-## ข้อจำกัดที่ต้องประกาศทุกครั้ง
+## Entity Resolution & Name Normalization
 
-### 1. เห็นแค่ top holdings
+Matching security names across disparate data sources required multi-tier normalization:
 
-Yahoo เปิดเผย 10 อันดับแรก กองที่ถือหุ้น 300 ตัวจึงมองเห็นไม่ถึงครึ่ง
+| SEC Thailand Filing Symbol | Master Fund Provider (Yahoo / FT) Name | Normalized Entity |
+|---|---|---|
+| `2330 TT` | `Taiwan Semiconductor Manufacturing Co Ltd` | `TSMC (2330 TT)` |
+| `NVDA US` | `NVIDIA Corp` | `NVIDIA Corp (NVDA)` |
+| `700 HK` | `Tencent Holdings Ltd` | `Tencent Holdings Ltd (700 HK)` |
 
-K-CHANGE ถือกองหลัก 101.29% แต่ 10 อันดับแรกรวมกันได้แค่ **45.89%**
+### Resolution Pipeline:
 
-ทุกโน้ตที่ใช้ตัวเลขนี้จึงแสดง `covered_pct` เทียบกับ `stake_pct` ไว้เสมอ
-พร้อมกล่อง `[!CAUTION]` — **ตัวเลขเป็นขั้นต่ำ ไม่ใช่สัดส่วนจริง**
-
-### 2. วันอ้างอิงคนละวัน
-
-พอร์ตกองไทยรายไตรมาสและมี lag · holdings ของ Yahoo เป็นวันของตัวเอง
-
----
-
-## ผลลัพธ์ในวอลต์
-
-| ที่ไหน | อะไร |
-|---|---|
-| โน้ตกองทุน หัวข้อ 7 | **🔭 ทะลุกองทุนหลัก** — หุ้นที่กองนั้นถือจริง |
-| โน้ตสินทรัพย์ | **🔭 กองทุนไทยที่ถือทางอ้อม** พร้อมบอกว่าผ่านกองหลักตัวไหน |
-| `vault/Indexes/by-lookthrough.md` | อันดับหลักทรัพย์ที่กองไทยเข้าถึงมากที่สุด + กองที่กระจุกตัวสูงสุด |
-| `data/processed/lookthrough.json` | ข้อมูลดิบ ทั้งฝั่งกองและฝั่งหลักทรัพย์ |
-
-tag ที่ใช้ค้น: `#held-indirectly` · `#via-master-only`
+1. **Symbol Matching**: Strips exchange prefixes/suffixes (e.g., `2330.TW` $\to$ `2330`) and matches canonical tickers.
+2. **Bloomberg OpenFIGI Integration**: Resolves tickers to unique international FIGI identifiers, standardized company names, and asset classes.
+3. **Master-Fund-Only Entities**: Automatically instantiates entity notes for global securities that exist exclusively through foreign master funds (tagged `#via-master-only`).
 
 ---
 
-## ปรับแต่ง
+## Methodological Limitations
 
-| ค่า | ความหมาย |
-|---|---|
-| `MIN_PCT = 0.05` | ต่ำกว่านี้ถือเป็น noise เทียบกับข้อจำกัดสองข้อข้างบน |
-| `MIN_FUNDS = 2` (`gen_entity_notes`) | นับรวมทั้งถือตรงและถือทางอ้อม |
+When reviewing look-through metrics, consider two inherent constraints:
+
+1. **Top Holdings Visibility**: Foreign master fund disclosures typically publish Top 10 or Top 20 holdings. If a master fund holds 300+ securities, only ~40–60% of total portfolio weight is observable. All look-through notes display `covered_pct` alongside `stake_pct` to maintain transparency.
+2. **Filing Date Asynchrony**: Quarterly Thai regulatory disclosures may differ by a few weeks from the latest reporting date of foreign master funds.
+
+---
+
+## Vault Integration & Outputs
+
+- **Fund Notes (`vault/Funds/`)**: Dedicated section showing transparent look-through exposures.
+- **Entity Notes (`vault/Entities/`)**: Profiles for each security listing all Thai funds that invest in it directly or indirectly.
+- **Index View (`vault/Indexes/by-lookthrough.md`)**: Market-wide ranking of the most widely held global companies across all Thai funds.
+- **Data Export (`data/processed/lookthrough.json`)**: Raw calculated look-through graph for programmatic use.

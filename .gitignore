@@ -15,6 +15,12 @@
 data/*
 !data/factsheets/
 
+# internal project tracking
+docs/project/tasks.md
+docs/project/issues.md
+tasks.md
+issues.md
+
 # scratch
 _tmp/
 
